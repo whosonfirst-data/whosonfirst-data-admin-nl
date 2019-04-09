@@ -1,0 +1,80 @@
+{
+  "id": 1158800163,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17090003",
+    "cbsnl:BU_NAAM":"Bosselaar",
+    "cbsnl:GM_CODE":"GM1709",
+    "cbsnl:GM_NAAM":"Moerdijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1017",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170900",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":618136.681924,
+    "geom:bbox":"4.59240537813,51.6327415954,4.60860267129,51.64227788",
+    "geom:latitude":51.637378,
+    "geom:longitude":4.600366,
+    "iso:country":"NL",
+    "lbl:latitude":51.637427,
+    "lbl:longitude":4.600366,
+    "mps:latitude":51.637427,
+    "mps:longitude":4.600366,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bosselaar"
+    ],
+    "name:nld_x_preferred":[
+        "Bosselaar"
+    ],
+    "reversegeo:latitude":51.637427,
+    "reversegeo:longitude":4.600366,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474623,
+        85633337,
+        101809653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ec5f7715ec8e0ec6e77ca141c9dee3c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474623,
+            "locality_id":101809653,
+            "neighbourhood_id":1158800163,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158800163,
+    "wof:lastmodified":1513432805,
+    "wof:name":"Bosselaar",
+    "wof:parent_id":101809653,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.592405378125932,
+    51.6327415954227,
+    4.608602671290038,
+    51.642277879951955
+],
+  "geometry": {"coordinates":[[[[4.60860267129004,51.63988457376099],[4.60426499092252,51.63558422361255],[4.60373545819333,51.63505033467484],[4.60134792595195,51.6327415954227],[4.59240537812593,51.63476859569084],[4.59355432433481,51.63610253768501],[4.59371778049867,51.63630795116491],[4.59386338908958,51.63634602141676],[4.59752562795609,51.64013541854622],[4.5989684926107,51.64227787995195],[4.60008604210887,51.64198241411344],[4.6032535638226,51.64094186012264],[4.60512259492488,51.6404672775603],[4.60762353906815,51.6400373283721],[4.60860267129004,51.63988457376099]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158820311,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04390203",
+    "cbsnl:BU_NAAM":"Wagenweg",
+    "cbsnl:GM_CODE":"GM0439",
+    "cbsnl:GM_NAAM":"Purmerend",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2977",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK043902",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":185474.334008,
+    "geom:bbox":"4.9505383657,52.5072206565,4.96327839642,52.5110636172",
+    "geom:latitude":52.509527,
+    "geom:longitude":4.955859,
+    "iso:country":"NL",
+    "lbl:latitude":52.50919,
+    "lbl:longitude":4.955956,
+    "mps:latitude":52.50919,
+    "mps:longitude":4.955956,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Wagenweg"
+    ],
+    "name:nld_x_preferred":[
+        "Wagenweg"
+    ],
+    "reversegeo:latitude":52.50919,
+    "reversegeo:longitude":4.955956,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823237,
+        85633337,
+        101751889,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"74ec25269276bece7920cd17b5b15141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751889,
+            "macrohood_id":1158823237,
+            "neighbourhood_id":1158820311,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158820311,
+    "wof:lastmodified":1513464219,
+    "wof:name":"Wagenweg",
+    "wof:parent_id":1158823237,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.950538365703533,
+    52.50722065645892,
+    4.96327839641518,
+    52.51106361721545
+],
+  "geometry": {"coordinates":[[[[4.95053836570353,52.51021971961097],[4.95095379901391,52.51047626533818],[4.95158727453507,52.51106361721545],[4.95686516948499,52.51069276401292],[4.95798393710059,52.51069681560571],[4.96327839641518,52.51037628916886],[4.9600073830891,52.50940065987699],[4.9587543866073,52.50885886460654],[4.95775756195466,52.50785709799511],[4.95720921881026,52.50722065645892],[4.95583509341395,52.50766307363092],[4.95159801906438,52.50888870260388],[4.95144058030463,52.50898361587942],[4.9512831408682,52.50907852894324],[4.95096307419876,52.50979353631989],[4.95053836570353,52.51021971961097]]]],"type":"MultiPolygon"}
+}

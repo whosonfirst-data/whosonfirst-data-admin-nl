@@ -1,0 +1,88 @@
+{
+  "id": 1158827061,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06060801",
+    "cbsnl:BU_NAAM":"Spaanse Polder",
+    "cbsnl:GM_CODE":"GM0606",
+    "cbsnl:GM_NAAM":"Schiedam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2347",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060608",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:area_square_m":161646.659367,
+    "geom:bbox":"4.40836281906,51.9228697147,4.4150779868,51.9292915619",
+    "geom:latitude":51.925472,
+    "geom:longitude":4.411331,
+    "iso:country":"NL",
+    "lbl:latitude":51.92539,
+    "lbl:longitude":4.411,
+    "mps:latitude":51.92539,
+    "mps:longitude":4.411,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Spaanse Polder"
+    ],
+    "name:eng_x_preferred":[
+        "Spaanse Polder"
+    ],
+    "name:fre_x_preferred":[
+        "Spaanse Polder"
+    ],
+    "name:nld_x_preferred":[
+        "Spaanse Polder"
+    ],
+    "reversegeo:latitude":51.92539,
+    "reversegeo:longitude":4.411,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831285,
+        85633337,
+        101751845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2137726"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"f16a20a1a694f3f8b2e33aa6f6ddaf0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "macrohood_id":1158831285,
+            "neighbourhood_id":1158827061,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827061,
+    "wof:lastmodified":1514492946,
+    "wof:name":"Spaanse Polder",
+    "wof:parent_id":1158831285,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.40836281905618,
+    51.92286971468426,
+    4.41507798680296,
+    51.92929156190237
+],
+  "geometry": {"coordinates":[[[[4.40836281905618,51.92446836215224],[4.40859261969656,51.92487392877153],[4.40992824352321,51.92901989148745],[4.41001973349989,51.9291540549086],[4.41029985844925,51.92923421716158],[4.41034927489078,51.92924847092061],[4.41049628190517,51.92929156190237],[4.41213435607605,51.92710405448402],[4.41356340948794,51.92519899243825],[4.41507798680296,51.92317970278467],[4.41393918658099,51.92286971468426],[4.41087200360731,51.92340439222666],[4.40863002880516,51.92435569930433],[4.40836281905618,51.92446836215224]]]],"type":"MultiPolygon"}
+}

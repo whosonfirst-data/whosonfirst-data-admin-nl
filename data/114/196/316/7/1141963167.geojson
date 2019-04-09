@@ -1,0 +1,80 @@
+{
+  "id": 1141963167,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02300105",
+    "cbsnl:BU_NAAM":"Achterweg",
+    "cbsnl:GM_CODE":"GM0230",
+    "cbsnl:GM_NAAM":"Elburg",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"855",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK023001",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":109939.256236,
+    "geom:bbox":"5.85875045728,52.4491512539,5.86543705025,52.452996949",
+    "geom:latitude":52.450739,
+    "geom:longitude":5.861613,
+    "iso:country":"NL",
+    "lbl:latitude":52.450816,
+    "lbl:longitude":5.861284,
+    "mps:latitude":52.450816,
+    "mps:longitude":5.861284,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Achterweg"
+    ],
+    "name:nld_x_preferred":[
+        "Achterweg"
+    ],
+    "reversegeo:latitude":52.450816,
+    "reversegeo:longitude":5.861284,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473895,
+        85633337,
+        101837785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"10d6cf19a9e17f5bd0da5eb119858124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473895,
+            "locality_id":101837785,
+            "neighbourhood_id":1141963167,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963167,
+    "wof:lastmodified":1513368726,
+    "wof:name":"Achterweg",
+    "wof:parent_id":101837785,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.858750457281862,
+    52.449151253903736,
+    5.865437050248593,
+    52.45299694900544
+],
+  "geometry": {"coordinates":[[[[5.86072600020797,52.45299694900544],[5.86266147048174,52.45199607356911],[5.86422968926833,52.45092277833847],[5.86543705024859,52.44966499014788],[5.86513018882767,52.44965743672911],[5.86336837083008,52.44961406043823],[5.86186877164956,52.44928304489292],[5.86048164729834,52.44915125390374],[5.8604202611989,52.44917115829546],[5.85875045728186,52.44970892506616],[5.85982627206947,52.45251858435771],[5.8606291708005,52.45247605823783],[5.86072600020797,52.45299694900544]]]],"type":"MultiPolygon"}
+}

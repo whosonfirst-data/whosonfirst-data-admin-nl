@@ -1,0 +1,73 @@
+{
+  "id": 1108808705,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03440627",
+    "cbsnl:BU_NAAM":"Bleekstraat en omgeving",
+    "cbsnl:GM_CODE":"GM0344",
+    "cbsnl:GM_NAAM":"Utrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"5184",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK034406",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":48720.960203,
+    "geom:bbox":"5.11954060836,52.0786569878,5.12401599279,52.0813320119",
+    "geom:latitude":52.080067,
+    "geom:longitude":5.121828,
+    "iso:country":"NL",
+    "lbl:latitude":52.079801,
+    "lbl:longitude":5.122015,
+    "mps:latitude":52.079801,
+    "mps:longitude":5.122015,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "reversegeo:latitude":52.079801,
+    "reversegeo:longitude":5.122015,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        85633337,
+        101751827,
+        1108808659,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6fb74a33fe1231ad8038c44d9de6ce0f",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108808659,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808705,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1108808705,
+    "wof:lastmodified":1507246057,
+    "wof:name":"Bleekstraat en omgeving",
+    "wof:parent_id":1108808659,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.11954060836409,
+    52.07865698782762,
+    5.12401599279049,
+    52.08133201190194
+],
+  "geometry": {"coordinates":[[[5.12401599279049,52.08133201190194],[5.12376578390252,52.08084637498799],[5.12325106613966,52.079918391122],[5.12291688559438,52.0793719402217],[5.12273561527171,52.07912033484163],[5.12237418750932,52.07865698782762],[5.12173362172988,52.07887967371085],[5.1208277450556,52.07920957826714],[5.12012586485891,52.0795250719686],[5.11969407528774,52.07975725261921],[5.11989435569851,52.07994018294828],[5.11961876954221,52.08010407574499],[5.11954060836409,52.08015503173982],[5.12131747196136,52.0811470401758],[5.12140577591991,52.08099466632142],[5.12150223370632,52.08090885898775],[5.12166854464423,52.08081245000167],[5.12177331009215,52.08079656124738],[5.12192159828536,52.08079689501231],[5.12207838757515,52.08083488090123],[5.12230788752762,52.08091196606559],[5.12351530421265,52.08130646336629],[5.12401599279049,52.08133201190194]]],"type":"Polygon"}
+}

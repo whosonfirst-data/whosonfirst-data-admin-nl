@@ -1,0 +1,80 @@
+{
+  "id": 1158806869,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09832809",
+    "cbsnl:BU_NAAM":"Trade-Port-Oost",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"45",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098328",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":592660.711239,
+    "geom:bbox":"6.12568349601,51.393764599,6.13903305583,51.4063950603",
+    "geom:latitude":51.398127,
+    "geom:longitude":6.131588,
+    "iso:country":"NL",
+    "lbl:latitude":51.397602,
+    "lbl:longitude":6.131132,
+    "mps:latitude":51.397602,
+    "mps:longitude":6.131132,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Trade-Port-Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Trade-Port-Oost"
+    ],
+    "reversegeo:latitude":51.397602,
+    "reversegeo:longitude":6.131132,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474525,
+        85633337,
+        101839199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"51e8e69e2fa8a86d15879806c9eae557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "neighbourhood_id":1158806869,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806869,
+    "wof:lastmodified":1513404061,
+    "wof:name":"Trade-Port-Oost",
+    "wof:parent_id":101839199,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.125683496006807,
+    51.393764598989364,
+    6.139033055832773,
+    51.40639506027226
+],
+  "geometry": {"coordinates":[[[[6.12568349600681,51.40639506027226],[6.12940791842214,51.40315783134938],[6.13098582626163,51.40200706691702],[6.13316291215833,51.40032838834765],[6.13730352091521,51.39773275380759],[6.13786076190865,51.39701543567387],[6.13838089548605,51.39622734423085],[6.13874453859065,51.39527395866001],[6.13903305583277,51.39429678818532],[6.12794896446576,51.39376459898936],[6.127764215285,51.3976957723843],[6.1274856215871,51.39885802578775],[6.12568349600681,51.40639506027226]]]],"type":"MultiPolygon"}
+}

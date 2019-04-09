@@ -1,0 +1,80 @@
+{
+  "id": 1158806873,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09832810",
+    "cbsnl:BU_NAAM":"Trade-Port-Noord",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"14",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098328",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000211,
+    "geom:area_square_m":1630569.487114,
+    "geom:bbox":"6.07838150403,51.402736879,6.10070439157,51.4177626446",
+    "geom:latitude":51.410611,
+    "geom:longitude":6.09096,
+    "iso:country":"NL",
+    "lbl:latitude":51.411233,
+    "lbl:longitude":6.091863,
+    "mps:latitude":51.411233,
+    "mps:longitude":6.091863,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Trade-Port-Noord"
+    ],
+    "name:nld_x_preferred":[
+        "Trade-Port-Noord"
+    ],
+    "reversegeo:latitude":51.411233,
+    "reversegeo:longitude":6.091863,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474525,
+        85633337,
+        101839199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"153114c288e43b8bede2adb50eede451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "neighbourhood_id":1158806873,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806873,
+    "wof:lastmodified":1513404061,
+    "wof:name":"Trade-Port-Noord",
+    "wof:parent_id":101839199,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.078381504026998,
+    51.40273687895944,
+    6.100704391567856,
+    51.417762644595356
+],
+  "geometry": {"coordinates":[[[[6.09104811348595,51.40273687895944],[6.078381504027,51.4089153240534],[6.08286570648831,51.41322737255193],[6.08973407299606,51.41776264459536],[6.09488180575713,51.41760438276032],[6.09878512854229,51.41587152456264],[6.10070439156786,51.41005447056371],[6.10021232475079,51.4074726272058],[6.09846970753893,51.40578829106025],[6.09617260600578,51.40474292172291],[6.09185982941074,51.40476907272305],[6.09113116761019,51.40437797809867],[6.09104811348595,51.40273687895944]]]],"type":"MultiPolygon"}
+}

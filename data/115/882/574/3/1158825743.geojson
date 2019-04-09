@@ -1,0 +1,80 @@
+{
+  "id": 1158825743,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050800",
+    "cbsnl:BU_NAAM":"Crabbehof-Zuid",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3304",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050508",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:area_square_m":595766.47978,
+    "geom:bbox":"4.65842550766,51.7846132063,4.6721191678,51.7931213959",
+    "geom:latitude":51.789207,
+    "geom:longitude":4.664505,
+    "iso:country":"NL",
+    "lbl:latitude":51.788584,
+    "lbl:longitude":4.665056,
+    "mps:latitude":51.788584,
+    "mps:longitude":4.665056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Crabbehof-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Crabbehof-Zuid"
+    ],
+    "reversegeo:latitude":51.788584,
+    "reversegeo:longitude":4.665056,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829419,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a44dd99c2b8bbc8633de584c1be0136f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829419,
+            "neighbourhood_id":1158825743,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825743,
+    "wof:lastmodified":1513588014,
+    "wof:name":"Crabbehof-Zuid",
+    "wof:parent_id":1158829419,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.658425507662071,
+    51.78461320625881,
+    4.672119167795399,
+    51.793121395906695
+],
+  "geometry": {"coordinates":[[[[4.66900708535307,51.79219928983888],[4.66930331994559,51.79184717303448],[4.66942456109369,51.7917422258345],[4.66981610593831,51.79155619119044],[4.67206669677144,51.79079593327305],[4.6721191677954,51.79077820550713],[4.67193438671156,51.79057106702621],[4.67130183259009,51.78986542684813],[4.67062202198008,51.78909966946814],[4.66998027267243,51.78839166256485],[4.66943351504232,51.78777742302557],[4.6688229661273,51.78709261148609],[4.66806665587399,51.78624353573796],[4.66737769798385,51.78547655167312],[4.66660646644975,51.78461320625881],[4.66337413673514,51.78465690743852],[4.66211401386318,51.78618517824225],[4.65842550766207,51.78771553413996],[4.65870982328506,51.790496204871],[4.6589782590745,51.7931213959067],[4.66878350979357,51.79217381370879],[4.66900708535307,51.79219928983888]]]],"type":"MultiPolygon"}
+}

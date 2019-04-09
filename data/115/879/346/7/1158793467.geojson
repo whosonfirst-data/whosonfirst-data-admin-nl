@@ -1,0 +1,80 @@
+{
+  "id": 1158793467,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16510204",
+    "cbsnl:BU_NAAM":"Doodstil",
+    "cbsnl:GM_CODE":"GM1651",
+    "cbsnl:GM_NAAM":"Eemsmond",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"140",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK165102",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":205692.449946,
+    "geom:bbox":"6.6695171036,53.389096336,6.67671386684,53.3941416016",
+    "geom:latitude":53.391629,
+    "geom:longitude":6.673265,
+    "iso:country":"NL",
+    "lbl:latitude":53.39162,
+    "lbl:longitude":6.673265,
+    "mps:latitude":53.39162,
+    "mps:longitude":6.673265,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Doodstil"
+    ],
+    "name:nld_x_preferred":[
+        "Doodstil"
+    ],
+    "reversegeo:latitude":53.39162,
+    "reversegeo:longitude":6.673265,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404474561,
+        85633337,
+        1158796641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"2105c51d69b5c4a13388e8f98b5185cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474561,
+            "locality_id":1158796641,
+            "neighbourhood_id":1158793467,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793467,
+    "wof:lastmodified":1513382309,
+    "wof:name":"Doodstil",
+    "wof:parent_id":1158796641,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.669517103603693,
+    53.389096336048524,
+    6.67671386684478,
+    53.39414160158319
+],
+  "geometry": {"coordinates":[[[[6.67421794020379,53.39413404662384],[6.67515418398867,53.39402237697387],[6.67581875093231,53.39337332269349],[6.67636839067646,53.3927069631026],[6.67663061694504,53.39202851788182],[6.67671386684478,53.39124078556748],[6.67661558025625,53.39046960278801],[6.6761321231527,53.38998897367909],[6.67540918067639,53.38964401335889],[6.67459990833134,53.38927076777976],[6.67368527103485,53.38909633604852],[6.67248224983358,53.38912716370969],[6.67136269562156,53.38954629704102],[6.67065022072593,53.39014865969082],[6.67050388976657,53.39017998762202],[6.66998807821096,53.39073026495351],[6.66963690562634,53.39155622873208],[6.66951710360369,53.3921781010926],[6.66996083462575,53.39288776014611],[6.67081612226928,53.39339308955126],[6.67251081517148,53.39395684573792],[6.6733011276727,53.39414160158319],[6.67421794020379,53.39413404662384]]]],"type":"MultiPolygon"}
+}

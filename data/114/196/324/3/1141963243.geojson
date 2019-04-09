@@ -1,0 +1,80 @@
+{
+  "id": 1141963243,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02320203",
+    "cbsnl:BU_NAAM":"Oude Apeldoornseweg en omgeving",
+    "cbsnl:GM_CODE":"GM0232",
+    "cbsnl:GM_NAAM":"Epe",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1027",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK023202",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:area_square_m":525820.216393,
+    "geom:bbox":"5.96187924186,52.2761915785,5.97364277614,52.2874924185",
+    "geom:latitude":52.28102,
+    "geom:longitude":5.968178,
+    "iso:country":"NL",
+    "lbl:latitude":52.280599,
+    "lbl:longitude":5.968088,
+    "mps:latitude":52.280599,
+    "mps:longitude":5.968088,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oude Apeldoornseweg en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Oude Apeldoornseweg en omgeving"
+    ],
+    "reversegeo:latitude":52.280599,
+    "reversegeo:longitude":5.968088,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473897,
+        85633337,
+        101808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"953ad069a909f906802fd84724736787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473897,
+            "locality_id":101808551,
+            "neighbourhood_id":1141963243,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963243,
+    "wof:lastmodified":1513368732,
+    "wof:name":"Oude Apeldoornseweg en omgeving",
+    "wof:parent_id":101808551,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.961879241858852,
+    52.276191578525435,
+    5.973642776140255,
+    52.287492418477
+],
+  "geometry": {"coordinates":[[[[5.97364277614026,52.28738451567303],[5.97252409847883,52.2840125702344],[5.97192685371994,52.28195532555777],[5.97040124710691,52.27670773350203],[5.97033053907029,52.27634407112271],[5.96981435965086,52.27652637626885],[5.96920945935141,52.27666501970267],[5.9683814071616,52.27652978275848],[5.96678717217521,52.27619157852543],[5.96187924185885,52.27704328497219],[5.96224489812237,52.27789451588998],[5.96355233274227,52.2804092587489],[5.96490583920147,52.28217607962211],[5.96619035112577,52.28336687027705],[5.96744225088988,52.28407161843266],[5.96808997567996,52.28473101486561],[5.96852211397415,52.28517098195741],[5.96857534516408,52.28531902074344],[5.96873040545452,52.28574153311136],[5.97012758790406,52.28588660054538],[5.97109647374055,52.28712383620603],[5.97221657692488,52.287492418477],[5.97364277614026,52.28738451567303]]]],"type":"MultiPolygon"}
+}

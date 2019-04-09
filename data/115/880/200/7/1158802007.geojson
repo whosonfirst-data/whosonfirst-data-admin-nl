@@ -1,0 +1,82 @@
+{
+  "id": 1158802007,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01411909",
+    "cbsnl:BU_NAAM":"Nijrees",
+    "cbsnl:GM_CODE":"GM0141",
+    "cbsnl:GM_NAAM":"Almelo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"738",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK014119",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":392924.839735,
+    "geom:bbox":"6.65454579212,52.3291206373,6.66502456459,52.3358060652",
+    "geom:latitude":52.3322,
+    "geom:longitude":6.660375,
+    "iso:country":"NL",
+    "lbl:latitude":52.3325,
+    "lbl:longitude":6.660276,
+    "mps:latitude":52.3325,
+    "mps:longitude":6.660276,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Nijrees"
+    ],
+    "name:nld_x_preferred":[
+        "Nijrees"
+    ],
+    "reversegeo:latitude":52.3325,
+    "reversegeo:longitude":6.660276,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805813,
+        404473819,
+        85633337,
+        101751863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"72a82e94744b13195c50180dc969ce7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473819,
+            "locality_id":101751863,
+            "macrohood_id":1158805813,
+            "neighbourhood_id":1158802007,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802007,
+    "wof:lastmodified":1513524231,
+    "wof:name":"Nijrees",
+    "wof:parent_id":1158805813,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.654545792116852,
+    52.32912063731414,
+    6.665024564587507,
+    52.3358060652276
+],
+  "geometry": {"coordinates":[[[[6.65474118991499,52.32912063731414],[6.65454579211685,52.32942272611832],[6.6547382140873,52.33001194473166],[6.65625223715723,52.33230830539163],[6.65854710265106,52.3358060652276],[6.66502456458751,52.33514469660451],[6.66453219184403,52.32946050420406],[6.66419611491939,52.32946020014872],[6.66285678120913,52.32948055561176],[6.65473927593773,52.32913385819354],[6.65474118991499,52.32912063731414]]]],"type":"MultiPolygon"}
+}

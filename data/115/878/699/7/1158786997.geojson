@@ -1,0 +1,80 @@
+{
+  "id": 1158786997,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03030609",
+    "cbsnl:BU_NAAM":"Oldebroekerweg",
+    "cbsnl:GM_CODE":"GM0303",
+    "cbsnl:GM_NAAM":"Dronten",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"312",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK030306",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":282634.159133,
+    "geom:bbox":"5.70165270705,52.4558735897,5.71185311539,52.4633695012",
+    "geom:latitude":52.459358,
+    "geom:longitude":5.706512,
+    "iso:country":"NL",
+    "lbl:latitude":52.458909,
+    "lbl:longitude":5.705739,
+    "mps:latitude":52.458909,
+    "mps:longitude":5.705739,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oldebroekerweg"
+    ],
+    "name:nld_x_preferred":[
+        "Oldebroekerweg"
+    ],
+    "reversegeo:latitude":52.458909,
+    "reversegeo:longitude":5.705739,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473965,
+        85633337,
+        101807239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"046257873ead234b088c662674dc4cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473965,
+            "locality_id":101807239,
+            "neighbourhood_id":1158786997,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158786997,
+    "wof:lastmodified":1513299286,
+    "wof:name":"Oldebroekerweg",
+    "wof:parent_id":101807239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.701652707048933,
+    52.45587358968725,
+    5.711853115387363,
+    52.463369501245474
+],
+  "geometry": {"coordinates":[[[[5.71017833993494,52.46336950124547],[5.71185311538736,52.46192738241514],[5.70764332650339,52.4601032789292],[5.71060766582167,52.45755143018411],[5.70618153350308,52.45601724281618],[5.7057671330603,52.45587358968725],[5.70540914472982,52.45618914935594],[5.70522636950874,52.45611360928878],[5.70451587035184,52.45677544265839],[5.70379213406458,52.4572592867708],[5.70290270402156,52.45753422171518],[5.70165270704893,52.45764636283812],[5.70192324072362,52.45956757315856],[5.70173446626602,52.45973061780936],[5.71017833993494,52.46336950124547]]]],"type":"MultiPolygon"}
+}

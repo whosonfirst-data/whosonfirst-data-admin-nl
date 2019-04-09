@@ -1,0 +1,80 @@
+{
+  "id": 1158820345,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04390602",
+    "cbsnl:BU_NAAM":"Purmer-Zuid/Zuid",
+    "cbsnl:GM_CODE":"GM0439",
+    "cbsnl:GM_NAAM":"Purmerend",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1687",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK043906",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000149,
+    "geom:area_square_m":1119859.790452,
+    "geom:bbox":"4.95486197882,52.4833900508,4.97755450991,52.4951957181",
+    "geom:latitude":52.488842,
+    "geom:longitude":4.96551,
+    "iso:country":"NL",
+    "lbl:latitude":52.488998,
+    "lbl:longitude":4.963792,
+    "mps:latitude":52.488998,
+    "mps:longitude":4.963792,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Purmer-Zuid/Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Purmer-Zuid/Zuid"
+    ],
+    "reversegeo:latitude":52.488998,
+    "reversegeo:longitude":4.963792,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823239,
+        85633337,
+        101751889,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"05428b02daecd0eaf1a20e28ffb4dbd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751889,
+            "macrohood_id":1158823239,
+            "neighbourhood_id":1158820345,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158820345,
+    "wof:lastmodified":1513464221,
+    "wof:name":"Purmer-Zuid/Zuid",
+    "wof:parent_id":1158823239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.954861978822615,
+    52.483390050769124,
+    4.977554509914056,
+    52.495195718107766
+],
+  "geometry": {"coordinates":[[[[4.95989268215705,52.49297741087771],[4.96040580591289,52.49361315286555],[4.96171624182688,52.49519571810777],[4.97755450991406,52.4894413629346],[4.97232039689052,52.48449327829469],[4.96802969301533,52.4860903190113],[4.96591452386553,52.48370311477259],[4.96516228365863,52.48347013720691],[4.96428276774266,52.48339005076912],[4.96314732109327,52.48376993080724],[4.95784726390859,52.48567024921536],[4.95486197882262,52.48626577998731],[4.95487092332077,52.48636242776769],[4.95539207093432,52.48713921382556],[4.95664416642695,52.48888676820029],[4.9572685665127,52.48992202901124],[4.95747381882924,52.49056818280367],[4.95873109990302,52.49179951684921],[4.95893888200425,52.49218757036261],[4.95956962717535,52.49257714877158],[4.95989268215705,52.49297741087771]]]],"type":"MultiPolygon"}
+}

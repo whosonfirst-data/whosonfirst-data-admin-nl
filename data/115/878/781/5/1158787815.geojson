@@ -1,0 +1,82 @@
+{
+  "id": 1158787815,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03073100",
+    "cbsnl:BU_NAAM":"De Laak Oost",
+    "cbsnl:GM_CODE":"GM0307",
+    "cbsnl:GM_NAAM":"Amersfoort",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"729",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK030731",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":107770.604121,
+    "geom:bbox":"5.43361642827,52.1926836486,5.439769871,52.1984072822",
+    "geom:latitude":52.195732,
+    "geom:longitude":5.436913,
+    "iso:country":"NL",
+    "lbl:latitude":52.195817,
+    "lbl:longitude":5.436913,
+    "mps:latitude":52.195817,
+    "mps:longitude":5.436913,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Laak Oost"
+    ],
+    "name:nld_x_preferred":[
+        "De Laak Oost"
+    ],
+    "reversegeo:latitude":52.195817,
+    "reversegeo:longitude":5.436913,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        1158790303,
+        404473971,
+        85633337,
+        101751821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"bf20ede750480e6e56bb62449338f949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473971,
+            "locality_id":101751821,
+            "macrohood_id":1158790303,
+            "neighbourhood_id":1158787815,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158787815,
+    "wof:lastmodified":1513621954,
+    "wof:name":"De Laak Oost",
+    "wof:parent_id":1158790303,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.433616428273842,
+    52.192683648561115,
+    5.439769870997801,
+    52.198407282235564
+],
+  "geometry": {"coordinates":[[[[5.43737160514824,52.19840728223556],[5.43742870044537,52.19837464835212],[5.43744543849594,52.19836593202049],[5.43766478307653,52.19825170097418],[5.43770176628286,52.19823244217363],[5.43776664094355,52.19819865606918],[5.43815160524377,52.1980107065526],[5.4384478044447,52.19788009208936],[5.43866097685264,52.19778340641341],[5.43901674038174,52.19762203489185],[5.4397698709978,52.19723634457024],[5.43976987098936,52.19723633743874],[5.43971718457726,52.19619496404216],[5.43971148156642,52.19608203952365],[5.43775291844982,52.19490472646736],[5.43655429285128,52.19419523881928],[5.43440795259372,52.19292107330398],[5.43400693458041,52.19268364856111],[5.43369664202937,52.19317620805249],[5.43366393743206,52.1932291234536],[5.43361642827384,52.19330597028261],[5.43737160514824,52.19840728223556]]]],"type":"MultiPolygon"}
+}

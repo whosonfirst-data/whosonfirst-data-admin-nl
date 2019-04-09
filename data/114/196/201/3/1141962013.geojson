@@ -1,0 +1,82 @@
+{
+  "id": 1141962013,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02000608",
+    "cbsnl:BU_NAAM":"Bedrijvenpark Oost",
+    "cbsnl:GM_CODE":"GM0200",
+    "cbsnl:GM_NAAM":"Apeldoorn",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"555",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK020006",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000022,
+    "geom:area_square_m":164632.593239,
+    "geom:bbox":"6.01511065298,52.2196653945,6.02107204513,52.2280519527",
+    "geom:latitude":52.223732,
+    "geom:longitude":6.018036,
+    "iso:country":"NL",
+    "lbl:latitude":52.223792,
+    "lbl:longitude":6.01799,
+    "mps:latitude":52.223792,
+    "mps:longitude":6.01799,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijvenpark Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijvenpark Oost"
+    ],
+    "reversegeo:latitude":52.223792,
+    "reversegeo:longitude":6.01799,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158783955,
+        404473867,
+        85633337,
+        101751853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"569a0b4b36a8de486c3a505f7b636d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473867,
+            "locality_id":101751853,
+            "macrohood_id":1158783955,
+            "neighbourhood_id":1141962013,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962013,
+    "wof:lastmodified":1513368644,
+    "wof:name":"Bedrijvenpark Oost",
+    "wof:parent_id":1158783955,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.015110652982672,
+    52.21966539445672,
+    6.021072045129956,
+    52.22805195266169
+],
+  "geometry": {"coordinates":[[[[6.01511065298267,52.22700136621451],[6.01735019683844,52.22805195266169],[6.01801271998237,52.22672596699287],[6.01872464213055,52.22530102368876],[6.01978561504114,52.22317725923664],[6.02107204512996,52.22060190332152],[6.01862099141938,52.21966539445672],[6.01818337907467,52.22024973122283],[6.01804755878186,52.2204553288794],[6.01784293407668,52.22076507798008],[6.01768189676131,52.22100884019139],[6.01747692064504,52.22131910999745],[6.01761581892592,52.22135143335576],[6.0171496035839,52.2223602808597],[6.01688954405141,52.22296041865868],[6.0168895293248,52.22296045110392],[6.01649949273361,52.22399411716182],[6.01511065298267,52.22700136621451]]]],"type":"MultiPolygon"}
+}

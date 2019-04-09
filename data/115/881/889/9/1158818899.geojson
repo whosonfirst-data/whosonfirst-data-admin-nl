@@ -1,0 +1,80 @@
+{
+  "id": 1158818899,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03850206",
+    "cbsnl:BU_NAAM":"Volendam-Blokgouw 7 en 8",
+    "cbsnl:GM_CODE":"GM0385",
+    "cbsnl:GM_NAAM":"Edam-Volendam",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"884",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK038502",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":329723.495294,
+    "geom:bbox":"5.04262185108,52.4917126643,5.05082227624,52.5008284866",
+    "geom:latitude":52.496105,
+    "geom:longitude":5.046655,
+    "iso:country":"NL",
+    "lbl:latitude":52.496054,
+    "lbl:longitude":5.046593,
+    "mps:latitude":52.496054,
+    "mps:longitude":5.046593,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Volendam-Blokgouw 7 en 8"
+    ],
+    "name:nld_x_preferred":[
+        "Volendam-Blokgouw 7 en 8"
+    ],
+    "reversegeo:latitude":52.496054,
+    "reversegeo:longitude":5.046593,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474057,
+        85633337,
+        101837947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c64d699bd15f2aa228da7bb99d289acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474057,
+            "locality_id":101837947,
+            "neighbourhood_id":1158818899,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818899,
+    "wof:lastmodified":1513464105,
+    "wof:name":"Volendam-Blokgouw 7 en 8",
+    "wof:parent_id":101837947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.04262185107566,
+    52.491712664347574,
+    5.050822276241077,
+    52.5008284866216
+],
+  "geometry": {"coordinates":[[[[5.04719110803789,52.5008284866216],[5.04721614191284,52.50078773770409],[5.04722678734554,52.5007704099948],[5.04723694669374,52.50075387354173],[5.04725190218896,52.50072952635888],[5.04781001998776,52.49982099836094],[5.04794279656179,52.49965492428276],[5.04830027885398,52.49881884039019],[5.04830553045338,52.49880655696927],[5.04832622013095,52.4987581667564],[5.04906358451391,52.49703349559464],[5.04872788890065,52.49698795206868],[5.04944505990905,52.49491228780895],[5.0495252472034,52.49484462673004],[5.04981907239854,52.49463144957012],[5.05073321850049,52.49229930747383],[5.05082227624108,52.49207208884049],[5.04570217476399,52.49171266434757],[5.04262185107566,52.49967339576711],[5.04355787763539,52.4999400357192],[5.04532124955288,52.5003653439082],[5.04638269305477,52.50066270178434],[5.04719110803789,52.5008284866216]]]],"type":"MultiPolygon"}
+}

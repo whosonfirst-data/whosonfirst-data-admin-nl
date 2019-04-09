@@ -1,0 +1,80 @@
+{
+  "id": 1158791801,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17310003",
+    "cbsnl:BU_NAAM":"Brunsting",
+    "cbsnl:GM_CODE":"GM1731",
+    "cbsnl:GM_NAAM":"Midden-Drenthe",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"34",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK173100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":318105.707907,
+    "geom:bbox":"6.47918897835,52.8682564455,6.49601556713,52.8740358887",
+    "geom:latitude":52.870859,
+    "geom:longitude":6.487757,
+    "iso:country":"NL",
+    "lbl:latitude":52.870232,
+    "lbl:longitude":6.48763,
+    "mps:latitude":52.870232,
+    "mps:longitude":6.48763,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Brunsting"
+    ],
+    "name:nld_x_preferred":[
+        "Brunsting"
+    ],
+    "reversegeo:latitude":52.870232,
+    "reversegeo:longitude":6.48763,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474649,
+        85633337,
+        101807273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4c018053645a59f6f8b7a41be4d572e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474649,
+            "locality_id":101807273,
+            "neighbourhood_id":1158791801,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791801,
+    "wof:lastmodified":1513292365,
+    "wof:name":"Brunsting",
+    "wof:parent_id":101807273,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.479188978348005,
+    52.8682564454703,
+    6.496015567128181,
+    52.87403588868756
+],
+  "geometry": {"coordinates":[[[[6.49186889120892,52.8682564454703],[6.49045069412176,52.86955755318295],[6.48786719240615,52.8684091445611],[6.48540454656731,52.86839813842184],[6.48573416155854,52.86993360515895],[6.48297169186928,52.86999102668445],[6.47918897834801,52.87344309772419],[6.4823541616776,52.87403588868756],[6.48330501306642,52.87214882953874],[6.49400219089759,52.87191975364124],[6.49601556712818,52.87083607088025],[6.49193250544867,52.86830360216855],[6.49186889120892,52.8682564454703]]]],"type":"MultiPolygon"}
+}

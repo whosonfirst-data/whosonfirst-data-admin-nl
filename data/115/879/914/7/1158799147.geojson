@@ -1,0 +1,82 @@
+{
+  "id": 1158799147,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08550407",
+    "cbsnl:BU_NAAM":"Stokhasselt-Zuid",
+    "cbsnl:GM_CODE":"GM0855",
+    "cbsnl:GM_NAAM":"Tilburg",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2348",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK085504",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":308338.922504,
+    "geom:bbox":"5.06624531607,51.5779099678,5.07621521891,51.5837982453",
+    "geom:latitude":51.580864,
+    "geom:longitude":5.070705,
+    "iso:country":"NL",
+    "lbl:latitude":51.580803,
+    "lbl:longitude":5.070705,
+    "mps:latitude":51.580803,
+    "mps:longitude":5.070705,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Stokhasselt-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Stokhasselt-Zuid"
+    ],
+    "reversegeo:latitude":51.580803,
+    "reversegeo:longitude":5.070705,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801791,
+        404474435,
+        85633337,
+        101751817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"481ecdf9c638e52c8517b796c58400b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474435,
+            "locality_id":101751817,
+            "macrohood_id":1158801791,
+            "neighbourhood_id":1158799147,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799147,
+    "wof:lastmodified":1513432726,
+    "wof:name":"Stokhasselt-Zuid",
+    "wof:parent_id":1158801791,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.066245316066139,
+    51.577909967770545,
+    5.076215218908458,
+    51.58379824531971
+],
+  "geometry": {"coordinates":[[[[5.07621521890846,51.58270741636074],[5.07548418658602,51.58242951925927],[5.07519182095128,51.58172403024935],[5.07512515503317,51.58155756257496],[5.07503970341671,51.581395539048],[5.0749326486558,51.58122806482111],[5.0746490006891,51.58093517644441],[5.07448236973348,51.58082956387958],[5.07426888707712,51.58061416476466],[5.07416085235907,51.58038017102737],[5.07410613109693,51.58015620718606],[5.07385567432774,51.57902746199007],[5.07344357684784,51.57790996777054],[5.07175920599487,51.57802588541409],[5.06624531606614,51.57865087680526],[5.06634756853807,51.57928845193744],[5.06648575666153,51.57994500196011],[5.06674573147227,51.58092637584833],[5.06730185690616,51.58246945029482],[5.06773111406346,51.58379824531971],[5.07099737868215,51.58342779998058],[5.07292340188781,51.58323973472579],[5.07427362784735,51.58306627828037],[5.07549710687679,51.58285921051218],[5.07621521890846,51.58270741636074]]]],"type":"MultiPolygon"}
+}

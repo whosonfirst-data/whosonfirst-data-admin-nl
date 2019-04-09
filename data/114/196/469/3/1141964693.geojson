@@ -1,0 +1,86 @@
+{
+  "id": 1141964693,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06680300",
+    "cbsnl:BU_NAAM":"Kern Appeltern",
+    "cbsnl:GM_CODE":"GM0668",
+    "cbsnl:GM_NAAM":"West Maas en Waal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"95",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK066803",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":185416.911111,
+    "geom:bbox":"5.57943145352,51.8299111562,5.58838214314,51.8348117634",
+    "geom:latitude":51.832304,
+    "geom:longitude":5.584176,
+    "iso:country":"NL",
+    "lbl:latitude":51.83232,
+    "lbl:longitude":5.584101,
+    "mps:latitude":51.83232,
+    "mps:longitude":5.584101,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Appeltern"
+    ],
+    "name:eng_x_variant":[
+        "Kern Appeltern"
+    ],
+    "name:nld_x_preferred":[
+        "Appeltern"
+    ],
+    "name:nld_x_variant":[
+        "Kern Appeltern"
+    ],
+    "reversegeo:latitude":51.83232,
+    "reversegeo:longitude":5.584101,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474305,
+        85633337,
+        1158783829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d689abcb3612a600108a72da747c6461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474305,
+            "locality_id":1158783829,
+            "neighbourhood_id":1141964693,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141964693,
+    "wof:lastmodified":1513368838,
+    "wof:name":"Appeltern",
+    "wof:parent_id":1158783829,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.57943145351594,
+    51.829911156228356,
+    5.588382143142638,
+    51.834811763378575
+],
+  "geometry": {"coordinates":[[[[5.58505197317291,51.83451119305397],[5.58632923146437,51.83481176337857],[5.58838214314264,51.83138365451418],[5.58807293006273,51.83134589071957],[5.58810544640618,51.83129178955335],[5.58620292473135,51.83113689375989],[5.58514801418994,51.83078729153359],[5.58333803959273,51.82991115622836],[5.58223014057235,51.82998041691422],[5.58204731250172,51.83063153487765],[5.5795442092175,51.83048988879056],[5.57943145351594,51.83126307389335],[5.58128176822899,51.83109037051895],[5.58144888695326,51.83383491827849],[5.58174398650901,51.83398020760585],[5.58505197317291,51.83451119305397]]]],"type":"MultiPolygon"}
+}

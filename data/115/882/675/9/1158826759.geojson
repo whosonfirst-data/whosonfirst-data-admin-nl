@@ -1,0 +1,80 @@
+{
+  "id": 1158826759,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05850202",
+    "cbsnl:BU_NAAM":"Grote Riethure",
+    "cbsnl:GM_CODE":"GM0585",
+    "cbsnl:GM_NAAM":"Binnenmaas",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"531",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK058502",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":113987.986803,
+    "geom:bbox":"4.47583925849,51.7884343154,4.48254142168,51.7911501403",
+    "geom:latitude":51.789691,
+    "geom:longitude":4.479218,
+    "iso:country":"NL",
+    "lbl:latitude":51.789658,
+    "lbl:longitude":4.479218,
+    "mps:latitude":51.789658,
+    "mps:longitude":4.479218,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Grote Riethure"
+    ],
+    "name:nld_x_preferred":[
+        "Grote Riethure"
+    ],
+    "reversegeo:latitude":51.789658,
+    "reversegeo:longitude":4.479218,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474233,
+        85633337,
+        101837725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"22b4dfe4e1666c82be4936d40557bb1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474233,
+            "locality_id":101837725,
+            "neighbourhood_id":1158826759,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826759,
+    "wof:lastmodified":1513588089,
+    "wof:name":"Grote Riethure",
+    "wof:parent_id":101837725,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.475839258492236,
+    51.78843431538192,
+    4.48254142168491,
+    51.79115014028875
+],
+  "geometry": {"coordinates":[[[[4.48252601644783,51.79115014028875],[4.48251129490124,51.79096379010428],[4.48254142168491,51.79043283543242],[4.48231981074555,51.78963645366533],[4.48224985900156,51.78865275536793],[4.48141309107963,51.78859320463634],[4.48002278666472,51.7885861138775],[4.47835124558178,51.78846980237976],[4.47822990856473,51.78846155761995],[4.47714382865157,51.78843431538192],[4.47594574685515,51.78848063389552],[4.47587417776107,51.78879468890938],[4.47583925849224,51.78952532530752],[4.47608161927317,51.79021935220133],[4.47616930156073,51.79075037739292],[4.47730446893872,51.7907159301977],[4.47907150352349,51.79077288123288],[4.48082675804233,51.79093730298773],[4.48228696348055,51.79111037624651],[4.48252601644783,51.79115014028875]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 85797295,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19000111",
+    "cbsnl:BU_NAAM":"De Domp",
+    "cbsnl:GM_CODE":"GM1900",
+    "cbsnl:GM_NAAM":"S\u00fadwest-Frysl\u00e2n",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1085",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK190001",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1189168.364422,
+    "geom:bbox":"5.666835,53.030955,5.666835,53.030955",
+    "geom:latitude":53.030955,
+    "geom:longitude":5.666835,
+    "gn:latitude":53.03113,
+    "gn:longitude":5.67716,
+    "iso:country":"NL",
+    "lbl:latitude":53.030955,
+    "lbl:longitude":5.666835,
+    "mps:latitude":53.042602,
+    "mps:longitude":5.676572,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:dut_x_preferred":[
+        "De Domp"
+    ],
+    "name:dut_x_variant":[
+        "Stadsfenne"
+    ],
+    "name:eng_x_preferred":[
+        "De Domp"
+    ],
+    "name:eng_x_variant":[
+        "Stadsfenne",
+        "Stadsfenne"
+    ],
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        1141960735,
+        85633337,
+        101837971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2757690,
+        "gp:id":728315,
+        "qs:id":217167,
+        "qs_pg:id":217167
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"5185a963c93eafd4da2be052dc8454d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1141960735,
+            "locality_id":101837971,
+            "neighbourhood_id":85797295,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":85797295,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531861879,
+    "wof:name":"De Domp",
+    "wof:parent_id":101837971,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.666835,
+    53.030955,
+    5.666835,
+    53.030955
+],
+  "geometry": {"coordinates":[5.666835,53.030955],"type":"Point"}
+}

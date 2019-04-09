@@ -1,0 +1,80 @@
+{
+  "id": 1158790809,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01140100",
+    "cbsnl:BU_NAAM":"3e Kruisdiep",
+    "cbsnl:GM_CODE":"GM0114",
+    "cbsnl:GM_NAAM":"Emmen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"94",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011401",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:area_square_m":523377.06077,
+    "geom:bbox":"6.94344537322,52.8419502917,6.96190931541,52.8501214225",
+    "geom:latitude":52.845638,
+    "geom:longitude":6.952829,
+    "iso:country":"NL",
+    "lbl:latitude":52.845406,
+    "lbl:longitude":6.953459,
+    "mps:latitude":52.845406,
+    "mps:longitude":6.953459,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "3e Kruisdiep"
+    ],
+    "name:nld_x_preferred":[
+        "3e Kruisdiep"
+    ],
+    "reversegeo:latitude":52.845406,
+    "reversegeo:longitude":6.953459,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473809,
+        85633337,
+        101807281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5904faf92ab545bde3c22df660b3ca63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473809,
+            "locality_id":101807281,
+            "neighbourhood_id":1158790809,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158790809,
+    "wof:lastmodified":1513292298,
+    "wof:name":"3e Kruisdiep",
+    "wof:parent_id":101807281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.943445373215291,
+    52.841950291708464,
+    6.961909315413829,
+    52.85012142249464
+],
+  "geometry": {"coordinates":[[[[6.96001664709442,52.84814057038179],[6.96190931541383,52.84636484570778],[6.95250071786456,52.8426708247488],[6.95191363757722,52.84195029170846],[6.94922937089332,52.84244880189058],[6.94518369820033,52.84320002042946],[6.94344537321529,52.84485364265388],[6.94401270793711,52.84659526079243],[6.94868756546451,52.8460266465448],[6.94969573656864,52.84582420642982],[6.94991538071747,52.84653200257612],[6.95164430457974,52.84661698228496],[6.95189214345783,52.84776218542282],[6.95505432925007,52.84776995161334],[6.95622061238659,52.85012142249464],[6.95798550122221,52.85007788506865],[6.96001664709442,52.84814057038179]]]],"type":"MultiPolygon"}
+}

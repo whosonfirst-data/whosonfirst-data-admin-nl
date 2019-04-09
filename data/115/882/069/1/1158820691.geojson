@@ -1,0 +1,80 @@
+{
+  "id": 1158820691,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04570902",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Nijverheidslaan",
+    "cbsnl:GM_CODE":"GM0457",
+    "cbsnl:GM_NAAM":"Weesp",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"1341",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK045709",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":213024.647475,
+    "geom:bbox":"5.04578539436,52.3099747313,5.05691985939,52.3139885092",
+    "geom:latitude":52.311583,
+    "geom:longitude":5.051092,
+    "iso:country":"NL",
+    "lbl:latitude":52.311795,
+    "lbl:longitude":5.051092,
+    "mps:latitude":52.311795,
+    "mps:longitude":5.051092,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Nijverheidslaan"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Nijverheidslaan"
+    ],
+    "reversegeo:latitude":52.311795,
+    "reversegeo:longitude":5.051092,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823095,
+        85633337,
+        101754863,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6774354488bbae16bd1912d8f5a8d557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754863,
+            "macrohood_id":1158823095,
+            "neighbourhood_id":1158820691,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158820691,
+    "wof:lastmodified":1513464245,
+    "wof:name":"Bedrijventerrein Nijverheidslaan",
+    "wof:parent_id":1158823095,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.045785394355669,
+    52.309974731301644,
+    5.056919859385033,
+    52.313988509221275
+],
+  "geometry": {"coordinates":[[[[5.0520018376793,52.31349856316555],[5.05289472494696,52.31293278416721],[5.05373845546226,52.3124793376853],[5.05480369467996,52.31210938371287],[5.05562683292135,52.31182162173172],[5.05663453206653,52.31139229294325],[5.05691985938503,52.31068862761023],[5.05624625187674,52.31035523400391],[5.05487629508566,52.31015011863386],[5.05190127518231,52.31000419781223],[5.04982281396731,52.3099953534736],[5.04774444244542,52.30997473130164],[5.04712354469518,52.31037804167763],[5.0468328616962,52.31060332119468],[5.04646868352252,52.31083702555263],[5.04578539435567,52.31120923680827],[5.04628755456725,52.31168250564308],[5.04679117862535,52.31224100861476],[5.04756575911005,52.31232515461777],[5.04799557837864,52.31253791062476],[5.04815748887551,52.31271632086168],[5.04825253322948,52.31300537474119],[5.04843404781884,52.31398850922128],[5.0493045195431,52.31389884945974],[5.05025146475929,52.31367432725158],[5.0520018376793,52.31349856316555]]]],"type":"MultiPolygon"}
+}

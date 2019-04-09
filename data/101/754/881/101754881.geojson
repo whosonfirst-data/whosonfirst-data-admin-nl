@@ -1,0 +1,87 @@
+{
+  "id": 101754881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-02",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000127,
+    "geom:area_square_m":957466.737216,
+    "geom:bbox":"4.79179534304,52.3333901456,4.8114469901,52.343567",
+    "geom:latitude":52.339821,
+    "geom:longitude":4.802135,
+    "iso:country":"NL",
+    "lbl:latitude":52.33916,
+    "lbl:longitude":4.801339,
+    "mps:latitude":52.33916,
+    "mps:longitude":4.801339,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:dut_x_preferred":[
+        "Sloten"
+    ],
+    "qs:a0":"Nederland",
+    "qs:a1":"*Noord-Holland",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la":"Castricum",
+    "qs:la_lc":"*NL270383",
+    "qs:level":"locality",
+    "qs:loc":"Sloten",
+    "qs:loc_alt":"Sloten",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404474029,
+        85633337,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01eeb026-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2747132,
+        "gp:id":733427,
+        "qs:id":6,
+        "tgn:id":7270897,
+        "wd:id":"Q1024903",
+        "wk:page":"Sloten, Amsterdam"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"13378de85b3f96a615f9f7742e3e43ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474029,
+            "locality_id":101754881,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":101754881,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1498063458,
+    "wof:name":"Sloten",
+    "wof:parent_id":404474029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1108803689
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.79179534304461,
+    52.33339014563052,
+    4.81144699010002,
+    52.34356700000058
+],
+  "geometry": {"coordinates":[[[4.80179216308539,52.33339014563052],[4.79765269879317,52.33603940277732],[4.79179534304461,52.34215142616728],[4.79345323417942,52.34347773907513],[4.80219500000066,52.34352100000046],[4.81112550000006,52.34356700000058],[4.81108450000022,52.34261300000048],[4.81115150000062,52.34125150000045],[4.81144699010002,52.34062874157166],[4.81016744934294,52.33788686851949],[4.80716594958062,52.33775562807574],[4.80727093955323,52.33685957771894],[4.80580702608137,52.33679551378418],[4.80591204019646,52.33589946468084],[4.80444815996378,52.33583538420532],[4.80455319821743,52.33493933635538],[4.80308935122503,52.33487523934002],[4.80319441361331,52.33397919274381],[4.80173059985901,52.33391507918952],[4.80179216308539,52.33339014563052]]],"type":"Polygon"}
+}

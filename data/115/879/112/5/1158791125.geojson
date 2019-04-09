@@ -1,0 +1,82 @@
+{
+  "id": 1158791125,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01190301",
+    "cbsnl:BU_NAAM":"Koeberg",
+    "cbsnl:GM_CODE":"GM0119",
+    "cbsnl:GM_NAAM":"Meppel",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"1586",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011903",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":268343.511506,
+    "geom:bbox":"6.17934517203,52.6847968602,6.19018496873,52.6908740304",
+    "geom:latitude":52.688068,
+    "geom:longitude":6.18534,
+    "iso:country":"NL",
+    "lbl:latitude":52.688701,
+    "lbl:longitude":6.185423,
+    "mps:latitude":52.688701,
+    "mps:longitude":6.185423,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Koeberg"
+    ],
+    "name:nld_x_preferred":[
+        "Koeberg"
+    ],
+    "reversegeo:latitude":52.688701,
+    "reversegeo:longitude":6.185423,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        1158791959,
+        404473813,
+        85633337,
+        101807279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"85f55abaa02c3b67ee3930691b5fe6f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473813,
+            "locality_id":101807279,
+            "macrohood_id":1158791959,
+            "neighbourhood_id":1158791125,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791125,
+    "wof:lastmodified":1513292319,
+    "wof:name":"Koeberg",
+    "wof:parent_id":1158791959,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.179345172027319,
+    52.68479686016523,
+    6.190184968725474,
+    52.69087403044292
+],
+  "geometry": {"coordinates":[[[[6.18618360980419,52.69087403044292],[6.18653700040888,52.69061976929354],[6.1873150204867,52.69029853412854],[6.18841599986715,52.68991558339552],[6.18957771004059,52.68955740007359],[6.19013661323823,52.68947760505147],[6.1895452970069,52.68850748442943],[6.18932040208177,52.6883332018525],[6.18950881996806,52.68739871982005],[6.18968292884291,52.68686521927441],[6.19018496872547,52.68502285377406],[6.18845554078127,52.68479686016523],[6.18762537494583,52.68642818657204],[6.18722301691622,52.68706957685939],[6.18674286618268,52.68693732718127],[6.18038367394788,52.68610606572599],[6.18000556652585,52.68775658506366],[6.17934517202732,52.68822548103272],[6.18275000050456,52.68980913787254],[6.18618360980419,52.69087403044292]]]],"type":"MultiPolygon"}
+}

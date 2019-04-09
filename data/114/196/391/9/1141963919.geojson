@@ -1,0 +1,80 @@
+{
+  "id": 1141963919,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02690200",
+    "cbsnl:BU_NAAM":"Oosterwolde",
+    "cbsnl:GM_CODE":"GM0269",
+    "cbsnl:GM_NAAM":"Oldebroek",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"150",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK026902",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":540344.749222,
+    "geom:bbox":"5.88825114461,52.4609898979,5.90519977533,52.4682245094",
+    "geom:latitude":52.465277,
+    "geom:longitude":5.895801,
+    "iso:country":"NL",
+    "lbl:latitude":52.465319,
+    "lbl:longitude":5.895223,
+    "mps:latitude":52.465319,
+    "mps:longitude":5.895223,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oosterwolde"
+    ],
+    "name:nld_x_preferred":[
+        "Oosterwolde"
+    ],
+    "reversegeo:latitude":52.465319,
+    "reversegeo:longitude":5.895223,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473927,
+        85633337,
+        101855381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9ed44575bfe65d8d13b1d1bbcdd934df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473927,
+            "locality_id":101855381,
+            "neighbourhood_id":1141963919,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963919,
+    "wof:lastmodified":1513368779,
+    "wof:name":"Oosterwolde",
+    "wof:parent_id":101855381,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.888251144612656,
+    52.46098989793375,
+    5.905199775334664,
+    52.46822450944843
+],
+  "geometry": {"coordinates":[[[[5.89655439046821,52.46293321892722],[5.89091433241619,52.46098989793375],[5.8901520404998,52.46162226423888],[5.88825114461266,52.46320145338708],[5.89170181376036,52.468107491116],[5.8991906930321,52.46822450944843],[5.89985194988716,52.46814076297578],[5.90065540641977,52.46800612438793],[5.90145806950773,52.46792259713193],[5.90238295581837,52.46773152798249],[5.90334441553227,52.4675225975274],[5.90410275992796,52.46718928033836],[5.90461655759108,52.4668266932328],[5.90504965994534,52.46636727973762],[5.90519977533466,52.46599195418954],[5.90480083707793,52.46573558780315],[5.89851646907937,52.46360950901371],[5.89655439046821,52.46293321892722]]]],"type":"MultiPolygon"}
+}

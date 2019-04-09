@@ -1,0 +1,82 @@
+{
+  "id": 1158798629,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08280602",
+    "cbsnl:BU_NAAM":"Dichtersbuurt",
+    "cbsnl:GM_CODE":"GM0828",
+    "cbsnl:GM_NAAM":"Oss",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1952",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082806",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:area_square_m":481927.842016,
+    "geom:bbox":"5.49976651179,51.7478903395,5.51499085986,51.7557092245",
+    "geom:latitude":51.751786,
+    "geom:longitude":5.50742,
+    "iso:country":"NL",
+    "lbl:latitude":51.751792,
+    "lbl:longitude":5.50742,
+    "mps:latitude":51.751792,
+    "mps:longitude":5.50742,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Dichtersbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Dichtersbuurt"
+    ],
+    "reversegeo:latitude":51.751792,
+    "reversegeo:longitude":5.50742,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801743,
+        404474415,
+        85633337,
+        101751807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5ffed57aeb2bfeb4b80bd98b999e7a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":101751807,
+            "macrohood_id":1158801743,
+            "neighbourhood_id":1158798629,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798629,
+    "wof:lastmodified":1513432688,
+    "wof:name":"Dichtersbuurt",
+    "wof:parent_id":1158801743,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.499766511786206,
+    51.74789033954826,
+    5.514990859856336,
+    51.75570922445397
+],
+  "geometry": {"coordinates":[[[[5.51408737264619,51.75258128622305],[5.51499085985634,51.75136152608871],[5.50307998523571,51.74789033954826],[5.50091573706077,51.75064208313039],[5.50004239572387,51.75175693237914],[5.49976651178621,51.75209960203433],[5.51025089569177,51.75529202607941],[5.51177072665207,51.75570922445397],[5.51408737264619,51.75258128622305]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,132 @@
+{
+  "id": 101807301,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:GM_CODE":"GM1681",
+    "cbsnl:GM_NAAM":"Borger-Odoorn",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"184",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK168111",
+    "cbsnl:WK_NAAM":"Wijk 11 Exloo",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002501,
+    "geom:area_square_m":18661050.534782,
+    "geom:bbox":"6.82465406825,52.8589285538,6.8992591451,52.9140166171",
+    "geom:latitude":52.884376,
+    "geom:longitude":6.865634,
+    "iso:country":"NL",
+    "lbl:latitude":52.882362,
+    "lbl:longitude":6.85969,
+    "mps:latitude":52.884508,
+    "mps:longitude":6.866347,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0625\u0643\u0633\u0644\u0648"
+    ],
+    "name:dut_x_preferred":[
+        "Exloo"
+    ],
+    "name:eng_x_preferred":[
+        "Exloo"
+    ],
+    "name:fra_x_preferred":[
+        "Exloo"
+    ],
+    "name:fre_x_preferred":[
+        "Exloo"
+    ],
+    "name:fry_x_preferred":[
+        "Ekslo"
+    ],
+    "name:ita_x_preferred":[
+        "Exloo"
+    ],
+    "name:nds_nld_x_preferred":[
+        "Eksel"
+    ],
+    "name:nld_x_preferred":[
+        "Exloo"
+    ],
+    "name:pol_x_preferred":[
+        "Exloo"
+    ],
+    "name:por_x_preferred":[
+        "Exloo"
+    ],
+    "name:unk_x_variant":[
+        "Eksloo"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Exloo"
+    ],
+    "qs:a0":"Nederland",
+    "qs:a1":"*Drenthe",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la":"Borger-Odoorn",
+    "qs:la_lc":"*NL221681",
+    "qs:level":"locality",
+    "qs:loc":"Exloo",
+    "qs:loc_alt":"Exloo",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "reversegeo:latitude":52.884508,
+    "reversegeo:longitude":6.866347,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":116,
+    "wof:belongsto":[
+        102191581,
+        404474595,
+        85633337,
+        85687051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2755947,
+        "gp:id":729218,
+        "qs:id":1264413,
+        "qs_pg:id":1264413,
+        "tgn:id":6001954,
+        "wd:id":"Q2317589",
+        "wk:page":"Exloo"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"127da138924566ef6b6a1ecb758a3854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474595,
+            "locality_id":101807301,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":101807301,
+    "wof:lastmodified":1527715097,
+    "wof:name":"Exloo",
+    "wof:parent_id":404474595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.82465406825439,
+    52.85892855375597,
+    6.89925914510277,
+    52.91401661707281
+],
+  "geometry": {"coordinates":[[[[6.8734322615117,52.91307035238493],[6.87566198237842,52.91401661707281],[6.87567216486168,52.91400862585454],[6.87945775501466,52.91070780501781],[6.88214455790914,52.90859352396433],[6.88378008891215,52.90591153012656],[6.88694597235692,52.89542968031861],[6.89004857530274,52.89325604790084],[6.88921380082625,52.89283795037731],[6.89386299026441,52.88880785258009],[6.8942330229878,52.88803247408671],[6.89711884805522,52.88154946645977],[6.89925914510277,52.8763785007332],[6.89861336120868,52.87132707446492],[6.8954689775665,52.8703855085628],[6.89613480822573,52.86902104301016],[6.89850289959015,52.86714854944962],[6.89241397700582,52.86544031994904],[6.88500586562984,52.86335962998619],[6.88652791769843,52.86050090002408],[6.88032794590894,52.85932430603651],[6.8800433997489,52.85981770667086],[6.87858404894423,52.85961014294225],[6.87792388625852,52.86158786112914],[6.87098485814952,52.85999084502267],[6.86533288970772,52.85892855375597],[6.83769834387973,52.87499755209581],[6.83105454551379,52.87879681895225],[6.82770991691341,52.88076286734624],[6.82465406825439,52.88347806068644],[6.83237621470945,52.89251405318625],[6.83634836802202,52.8971692638022],[6.83636955725846,52.89717799421438],[6.84483312309269,52.90072056549986],[6.85616920659773,52.90556358747885],[6.87027549638005,52.91157046435688],[6.87341635916308,52.91291045761587],[6.8734322615117,52.91307035238493]]]],"type":"MultiPolygon"}
+}

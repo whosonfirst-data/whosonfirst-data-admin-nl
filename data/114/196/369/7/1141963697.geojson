@@ -1,0 +1,80 @@
+{
+  "id": 1141963697,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02630300",
+    "cbsnl:BU_NAAM":"Heerewaarden",
+    "cbsnl:GM_CODE":"GM0263",
+    "cbsnl:GM_NAAM":"Maasdriel",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"198",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK026303",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:area_square_m":475173.630192,
+    "geom:bbox":"5.38585784885,51.8132670705,5.4000540726,51.8219182066",
+    "geom:latitude":51.817762,
+    "geom:longitude":5.392798,
+    "iso:country":"NL",
+    "lbl:latitude":51.818124,
+    "lbl:longitude":5.392686,
+    "mps:latitude":51.818124,
+    "mps:longitude":5.392686,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Heerewaarden"
+    ],
+    "name:nld_x_preferred":[
+        "Heerewaarden"
+    ],
+    "reversegeo:latitude":51.818124,
+    "reversegeo:longitude":5.392686,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473917,
+        85633337,
+        101808677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d74e6e95e4bae4c155ef095375e56787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473917,
+            "locality_id":101808677,
+            "neighbourhood_id":1141963697,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963697,
+    "wof:lastmodified":1513368763,
+    "wof:name":"Heerewaarden",
+    "wof:parent_id":101808677,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.385857848845503,
+    51.813267070533286,
+    5.400054072600957,
+    51.821918206568014
+],
+  "geometry": {"coordinates":[[[[5.40005407260096,51.81941747959716],[5.39968975418418,51.81901446498906],[5.39906586554987,51.81811569399201],[5.39890339885276,51.81788694771404],[5.39842749891851,51.81721692098916],[5.39838488833161,51.81715553441359],[5.396600084066,51.81697271399052],[5.39469579041848,51.81625546849546],[5.39252885592363,51.81493795061471],[5.39073347012246,51.81416418003771],[5.39009965676942,51.81362208606561],[5.38940786110264,51.81329486972815],[5.38890188939353,51.81326707053329],[5.38829418552946,51.81338757842106],[5.38789833853322,51.81362212285597],[5.3858578488455,51.81566529006768],[5.3874547091131,51.81725707745415],[5.3871413144034,51.81774244997283],[5.38827257138344,51.81843820091316],[5.38883818812643,51.81816404842829],[5.39357402278504,51.82191820656801],[5.39460379038826,51.8216538312065],[5.39649357247,51.82125736297273],[5.3979019732365,51.82087888656569],[5.39897087024878,51.82051728362836],[5.40005407260096,51.81941747959716]]]],"type":"MultiPolygon"}
+}

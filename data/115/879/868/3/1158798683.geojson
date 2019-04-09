@@ -1,0 +1,82 @@
+{
+  "id": 1158798683,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08280908",
+    "cbsnl:BU_NAAM":"Vierwinden",
+    "cbsnl:GM_CODE":"GM0828",
+    "cbsnl:GM_NAAM":"Oss",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"264",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082809",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000146,
+    "geom:area_square_m":1114134.10282,
+    "geom:bbox":"5.54218177886,51.7438399321,5.56304620453,51.755052731",
+    "geom:latitude":51.749285,
+    "geom:longitude":5.55266,
+    "iso:country":"NL",
+    "lbl:latitude":51.748929,
+    "lbl:longitude":5.551419,
+    "mps:latitude":51.748929,
+    "mps:longitude":5.551419,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vierwinden"
+    ],
+    "name:nld_x_preferred":[
+        "Vierwinden"
+    ],
+    "reversegeo:latitude":51.748929,
+    "reversegeo:longitude":5.551419,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801735,
+        404474415,
+        85633337,
+        101751807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"95de1964be0623b7015e8ecc731f96d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":101751807,
+            "macrohood_id":1158801735,
+            "neighbourhood_id":1158798683,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798683,
+    "wof:lastmodified":1513432691,
+    "wof:name":"Vierwinden",
+    "wof:parent_id":1158801735,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.542181778861166,
+    51.74383993207091,
+    5.563046204525596,
+    51.755052731006614
+],
+  "geometry": {"coordinates":[[[[5.551446028511,51.75505273100661],[5.55437083317615,51.75204167576955],[5.55637048879325,51.75274429498405],[5.55904118533145,51.75368261006238],[5.56151523312987,51.75046979587249],[5.5630462045256,51.74722070766458],[5.55623206753517,51.74493503437655],[5.55275277822506,51.74410913359554],[5.5494206392279,51.74383993207091],[5.54573025806929,51.74526825115441],[5.54411731412171,51.74753579698557],[5.54412107770307,51.74783774614965],[5.54536367121981,51.74808887453108],[5.54734288029509,51.75041278965392],[5.54301844109233,51.7527946649113],[5.54218177886117,51.75355951293778],[5.54617968986227,51.75428699233397],[5.551446028511,51.75505273100661]]]],"type":"MultiPolygon"}
+}

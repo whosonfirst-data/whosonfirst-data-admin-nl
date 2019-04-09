@@ -1,0 +1,80 @@
+{
+  "id": 1158825839,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05051902",
+    "cbsnl:BU_NAAM":"Voltastraat en omgeving - De Put",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1925",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050519",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":96383.564826,
+    "geom:bbox":"4.64675909306,51.8013931443,4.6502297326,51.8075135351",
+    "geom:latitude":51.804472,
+    "geom:longitude":4.648822,
+    "iso:country":"NL",
+    "lbl:latitude":51.804371,
+    "lbl:longitude":4.648615,
+    "mps:latitude":51.804371,
+    "mps:longitude":4.648615,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Voltastraat en omgeving - De Put"
+    ],
+    "name:nld_x_preferred":[
+        "Voltastraat en omgeving - De Put"
+    ],
+    "reversegeo:latitude":51.804371,
+    "reversegeo:longitude":4.648615,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829571,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"81117eeabb2886f17420cbce1b750d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829571,
+            "neighbourhood_id":1158825839,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825839,
+    "wof:lastmodified":1513588020,
+    "wof:name":"Voltastraat en omgeving - De Put",
+    "wof:parent_id":1158829571,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.646759093058883,
+    51.80139314433913,
+    4.650229732604941,
+    51.807513535122304
+],
+  "geometry": {"coordinates":[[[[4.64960852283331,51.8075135351223],[4.64992627086546,51.80696968420432],[4.65009779321961,51.80628664083923],[4.6502279231692,51.80568551217398],[4.65022973260494,51.80449242665263],[4.64989134531897,51.80168934009723],[4.64985559261313,51.80139314433913],[4.6488964153984,51.80213961106048],[4.6479413770707,51.80288283285662],[4.64714432610506,51.80346387198154],[4.64691035552549,51.80382868574793],[4.64675909305888,51.80420622795506],[4.64677399653626,51.80456040473867],[4.64689291943812,51.80489080693148],[4.64717744182969,51.80523447800803],[4.64960852283331,51.8075135351223]]]],"type":"MultiPolygon"}
+}

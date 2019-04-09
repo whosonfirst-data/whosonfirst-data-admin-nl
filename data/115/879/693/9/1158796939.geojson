@@ -1,0 +1,80 @@
+{
+  "id": 1158796939,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07560008",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Saxa Gotha",
+    "cbsnl:GM_CODE":"GM0756",
+    "cbsnl:GM_NAAM":"Boxmeer",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"621",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK075600",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000187,
+    "geom:area_square_m":1431250.673729,
+    "geom:bbox":"5.9237392154,51.6337503657,5.94626111591,51.6525452276",
+    "geom:latitude":51.641802,
+    "geom:longitude":5.93512,
+    "iso:country":"NL",
+    "lbl:latitude":51.641634,
+    "lbl:longitude":5.93512,
+    "mps:latitude":51.641634,
+    "mps:longitude":5.93512,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Saxa Gotha"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Saxa Gotha"
+    ],
+    "reversegeo:latitude":51.641634,
+    "reversegeo:longitude":5.93512,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474359,
+        85633337,
+        101839331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e2b1d6d32801a778903e94c98a278c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474359,
+            "locality_id":101839331,
+            "neighbourhood_id":1158796939,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158796939,
+    "wof:lastmodified":1513432558,
+    "wof:name":"Bedrijventerrein Saxa Gotha",
+    "wof:parent_id":101839331,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.92373921540166,
+    51.63375036571726,
+    5.946261115906837,
+    51.652545227600505
+],
+  "geometry": {"coordinates":[[[[5.93757388747685,51.64638179445429],[5.93811700940543,51.64570985962894],[5.9406051463626,51.64311414186074],[5.94454291149731,51.63953310784581],[5.94456032414815,51.63951729462453],[5.94626111590684,51.63786929781652],[5.94432172364216,51.63709428468597],[5.944388312326,51.63687458709649],[5.94589779502466,51.63531402245818],[5.94331917685607,51.63559176019074],[5.9420828339343,51.63530184481577],[5.93536839465234,51.63375036571726],[5.93536498612202,51.63375399166203],[5.92709523719656,51.64254441037581],[5.92373921540166,51.64650869853901],[5.93084336664819,51.64820285692402],[5.93054855464134,51.64909017655408],[5.93178640694714,51.64966840655956],[5.93309228078021,51.65000557584207],[5.93218306816962,51.65141092843042],[5.93142084767605,51.6523515483456],[5.93229561855279,51.65254522760051],[5.93740485115823,51.646590733781],[5.93757388747685,51.64638179445429]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158803835,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17350002",
+    "cbsnl:BU_NAAM":"Bungalow-wijk",
+    "cbsnl:GM_CODE":"GM1735",
+    "cbsnl:GM_NAAM":"Hof van Twente",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1056",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK173500",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":188876.708161,
+    "geom:bbox":"6.5665823806,52.2336026421,6.57668167795,52.2379643954",
+    "geom:latitude":52.235727,
+    "geom:longitude":6.572244,
+    "iso:country":"NL",
+    "lbl:latitude":52.235921,
+    "lbl:longitude":6.573163,
+    "mps:latitude":52.235921,
+    "mps:longitude":6.573163,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bungalow-wijk"
+    ],
+    "name:nld_x_preferred":[
+        "Bungalow-wijk"
+    ],
+    "reversegeo:latitude":52.235921,
+    "reversegeo:longitude":6.573163,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474653,
+        85633337,
+        101807197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"951c7a1f09eabe59f05a9bfa481c8715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474653,
+            "locality_id":101807197,
+            "neighbourhood_id":1158803835,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803835,
+    "wof:lastmodified":1513524365,
+    "wof:name":"Bungalow-wijk",
+    "wof:parent_id":101807197,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.566582380603453,
+    52.23360264205464,
+    6.576681677947252,
+    52.23796439538233
+],
+  "geometry": {"coordinates":[[[[6.56769238775863,52.23496681354261],[6.56773490630991,52.23507790314667],[6.56658238060345,52.235342788174],[6.5700756613571,52.23782129301443],[6.57114907269002,52.23684229077003],[6.57373082346224,52.23796439538233],[6.57429223530647,52.2373726755927],[6.57464116270615,52.23751047456015],[6.5755587951407,52.23643462419642],[6.57551365671719,52.23633101670086],[6.57595162117633,52.23580630631368],[6.57625694540713,52.23560378348319],[6.57668167794725,52.23405594117182],[6.57620988892949,52.23402666884115],[6.57627325967478,52.23360264205464],[6.57253920607324,52.23422894158054],[6.57002113634056,52.23466766954154],[6.56769238775863,52.23496681354261]]]],"type":"MultiPolygon"}
+}

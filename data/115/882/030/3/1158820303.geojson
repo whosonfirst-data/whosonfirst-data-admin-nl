@@ -1,0 +1,80 @@
+{
+  "id": 1158820303,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04390102",
+    "cbsnl:BU_NAAM":"Stationsbuurt",
+    "cbsnl:GM_CODE":"GM0439",
+    "cbsnl:GM_NAAM":"Purmerend",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2832",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK043901",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":151446.933778,
+    "geom:bbox":"4.9502306201,52.5039933325,4.95720921881,52.5089836159",
+    "geom:latitude":52.506339,
+    "geom:longitude":4.953439,
+    "iso:country":"NL",
+    "lbl:latitude":52.506251,
+    "lbl:longitude":4.953387,
+    "mps:latitude":52.506251,
+    "mps:longitude":4.953387,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Stationsbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Stationsbuurt"
+    ],
+    "reversegeo:latitude":52.506251,
+    "reversegeo:longitude":4.953387,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823235,
+        85633337,
+        101751889,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8d2731f4e94820b7bb587c66deb5b3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751889,
+            "macrohood_id":1158823235,
+            "neighbourhood_id":1158820303,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158820303,
+    "wof:lastmodified":1513464218,
+    "wof:name":"Stationsbuurt",
+    "wof:parent_id":1158823235,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.950230620096241,
+    52.50399333245108,
+    4.957209218810257,
+    52.508983615879416
+],
+  "geometry": {"coordinates":[[[[4.95144058030463,52.50898361587942],[4.95159801906438,52.50888870260388],[4.95583509341395,52.50766307363092],[4.95720921881026,52.50722065645892],[4.95442872468094,52.50399333245108],[4.95384928781124,52.50413220906906],[4.95308138467452,52.50412940219865],[4.95023062009624,52.5051030615089],[4.95030273221313,52.50557179648145],[4.95044455518449,52.5057402699275],[4.95121363642327,52.50665279421261],[4.95090224617818,52.50707349566386],[4.95105169495728,52.50749589312605],[4.95158271018185,52.50815364481299],[4.95196577349975,52.50824885543752],[4.95165495654096,52.50862265939618],[4.9514994908315,52.50880942069926],[4.95144058030463,52.50898361587942]]]],"type":"MultiPolygon"}
+}

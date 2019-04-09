@@ -1,0 +1,82 @@
+{
+  "id": 1158798613,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08280403",
+    "cbsnl:BU_NAAM":"De Noord",
+    "cbsnl:GM_CODE":"GM0828",
+    "cbsnl:GM_NAAM":"Oss",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"985",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082804",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":454081.708225,
+    "geom:bbox":"5.50253226543,51.7779655648,5.51855485102,51.7836434587",
+    "geom:latitude":51.780945,
+    "geom:longitude":5.511393,
+    "iso:country":"NL",
+    "lbl:latitude":51.780942,
+    "lbl:longitude":5.511393,
+    "mps:latitude":51.780942,
+    "mps:longitude":5.511393,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Noord"
+    ],
+    "name:nld_x_preferred":[
+        "De Noord"
+    ],
+    "reversegeo:latitude":51.780942,
+    "reversegeo:longitude":5.511393,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801747,
+        404474415,
+        85633337,
+        101751807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3afd015808be56a546d502d5b8c57e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":101751807,
+            "macrohood_id":1158801747,
+            "neighbourhood_id":1158798613,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798613,
+    "wof:lastmodified":1513432687,
+    "wof:name":"De Noord",
+    "wof:parent_id":1158801747,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.502532265425833,
+    51.777965564848294,
+    5.518554851015639,
+    51.78364345872808
+],
+  "geometry": {"coordinates":[[[[5.51855485101564,51.78364345872808],[5.51792795473982,51.77892102820785],[5.51556758154179,51.77932137646015],[5.51327589782117,51.77911909899078],[5.50979135381504,51.77837226549463],[5.50677808096394,51.77796556484829],[5.50651096112993,51.77840964037322],[5.50253226542583,51.7816160293365],[5.51058342714824,51.78311450666183],[5.51855485101564,51.78364345872808]]]],"type":"MultiPolygon"}
+}

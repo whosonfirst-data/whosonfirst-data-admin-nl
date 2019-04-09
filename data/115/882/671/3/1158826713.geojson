@@ -1,0 +1,80 @@
+{
+  "id": 1158826713,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05840010",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Langeweg, Rembrandtstraat",
+    "cbsnl:GM_CODE":"GM0584",
+    "cbsnl:GM_NAAM":"Oud-Beijerland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"847",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK058400",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":571811.265444,
+    "geom:bbox":"4.4136968536,51.8107463721,4.42805363657,51.818851064",
+    "geom:latitude":51.814436,
+    "geom:longitude":4.420885,
+    "iso:country":"NL",
+    "lbl:latitude":51.814538,
+    "lbl:longitude":4.420885,
+    "mps:latitude":51.814538,
+    "mps:longitude":4.420885,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Langeweg",
+        "Rembrandtstraat"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Langeweg",
+        "Rembrandtstraat"
+    ],
+    "reversegeo:latitude":51.814538,
+    "reversegeo:longitude":4.420885,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        101754705,
+        85633337,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f8dc33ad6110e815e86f35e2c3e104e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754705,
+            "neighbourhood_id":1158826713,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826713,
+    "wof:lastmodified":1513588086,
+    "wof:name":"Bedrijventerrein Langeweg, Rembrandtstraat",
+    "wof:parent_id":101754705,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.413696853601245,
+    51.810746372114906,
+    4.428053636573305,
+    51.81885106395125
+],
+  "geometry": {"coordinates":[[[[4.41572987790882,51.81885106395125],[4.42777271823354,51.81552002675315],[4.4275893693906,51.81475980772401],[4.42803571992508,51.81368197951169],[4.42805363657331,51.81303688886016],[4.42782396622739,51.81232404601253],[4.42757631923276,51.81165768230976],[4.42780939007316,51.81074637211491],[4.41369685360124,51.81258859842178],[4.41417501556592,51.8142403464657],[4.41429383831189,51.81435734449935],[4.41572987790882,51.81885106395125]]]],"type":"MultiPolygon"}
+}

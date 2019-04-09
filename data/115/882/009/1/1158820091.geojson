@@ -1,0 +1,80 @@
+{
+  "id": 1158820091,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04060409",
+    "cbsnl:BU_NAAM":"Sijsjesberg",
+    "cbsnl:GM_CODE":"GM0406",
+    "cbsnl:GM_NAAM":"Huizen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"782",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK040604",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":186435.644572,
+    "geom:bbox":"5.21505257431,52.2898152417,5.226493472,52.2946350895",
+    "geom:latitude":52.292688,
+    "geom:longitude":5.221173,
+    "iso:country":"NL",
+    "lbl:latitude":52.292651,
+    "lbl:longitude":5.221563,
+    "mps:latitude":52.292651,
+    "mps:longitude":5.221563,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Sijsjesberg"
+    ],
+    "name:nld_x_preferred":[
+        "Sijsjesberg"
+    ],
+    "reversegeo:latitude":52.292651,
+    "reversegeo:longitude":5.221563,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823081,
+        85633337,
+        101837931,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"39063d342404620b45b0333e7658a053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101837931,
+            "macrohood_id":1158823081,
+            "neighbourhood_id":1158820091,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158820091,
+    "wof:lastmodified":1513464192,
+    "wof:name":"Sijsjesberg",
+    "wof:parent_id":1158823081,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.215052574307721,
+    52.28981524166077,
+    5.226493471999056,
+    52.29463508950025
+],
+  "geometry": {"coordinates":[[[[5.22649347199906,52.29463508950025],[5.22505195932029,52.29298668663855],[5.22433207292705,52.2921857909332],[5.22313710866229,52.29141568999925],[5.2216382348729,52.29053448955322],[5.22082121102,52.2899544784673],[5.22067379090296,52.28981524166077],[5.22026946799841,52.29002841074914],[5.21973997172426,52.29167578647792],[5.21819413043036,52.29165898364698],[5.21679001639389,52.29183195012899],[5.21533803228315,52.29212167081847],[5.21505257430772,52.2922642162836],[5.21523396175503,52.29232374337769],[5.21647192010213,52.2928414868776],[5.21763616402151,52.29335911172691],[5.21860203500983,52.29377027622553],[5.21906605345451,52.29389199032862],[5.21940743568351,52.29398178924783],[5.22035972636297,52.29411345764098],[5.22144240737882,52.29428939870597],[5.22274102632551,52.29441787959886],[5.22427883891229,52.29446494536111],[5.22624733679402,52.2946122856999],[5.22649347199906,52.29463508950025]]]],"type":"MultiPolygon"}
+}

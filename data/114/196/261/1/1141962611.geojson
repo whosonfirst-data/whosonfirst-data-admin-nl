@@ -1,0 +1,86 @@
+{
+  "id": 1141962611,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02140002",
+    "cbsnl:BU_NAAM":"Buren Tielseweg",
+    "cbsnl:GM_CODE":"GM0214",
+    "cbsnl:GM_NAAM":"Buren",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"302",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK021400",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":431236.596495,
+    "geom:bbox":"5.33031809143,51.9053224962,5.3424383802,51.91251845",
+    "geom:latitude":51.908645,
+    "geom:longitude":5.336359,
+    "iso:country":"NL",
+    "lbl:latitude":51.90855,
+    "lbl:longitude":5.336474,
+    "mps:latitude":51.90855,
+    "mps:longitude":5.336474,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Tielseweg"
+    ],
+    "name:eng_x_variant":[
+        "Buren Tielseweg"
+    ],
+    "name:nld_x_preferred":[
+        "Tielseweg"
+    ],
+    "name:nld_x_variant":[
+        "Buren Tielseweg"
+    ],
+    "reversegeo:latitude":51.90855,
+    "reversegeo:longitude":5.336474,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473879,
+        85633337,
+        101808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"550f4c13c70a7b1aac0c426ad0a1cd44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473879,
+            "locality_id":101808615,
+            "neighbourhood_id":1141962611,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962611,
+    "wof:lastmodified":1513368687,
+    "wof:name":"Tielseweg",
+    "wof:parent_id":101808615,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.330318091429853,
+    51.90532249621153,
+    5.342438380203149,
+    51.912518450000974
+],
+  "geometry": {"coordinates":[[[[5.33707846636403,51.91166055873861],[5.33997697094028,51.91251845000097],[5.34002361414428,51.91243308019817],[5.34007792716521,51.91195925149942],[5.34216365502747,51.91178030127889],[5.34170440174886,51.90894264169745],[5.34243838020315,51.90725116413142],[5.33932623873576,51.906858952047],[5.33846745399351,51.90669428178931],[5.33701662234836,51.90601505888907],[5.33493001225571,51.90579927681425],[5.33041564399218,51.90532249621153],[5.33052017232364,51.91013126917525],[5.33031809142985,51.91011881294327],[5.33049238375627,51.9101997913171],[5.33097798251727,51.91041182311351],[5.33146994170845,51.91038036635432],[5.3318552099923,51.91029217667105],[5.33203985372443,51.91026804528686],[5.3321070928332,51.9102219043622],[5.3328631337557,51.90994727011567],[5.33349088701183,51.90984953015203],[5.3343134641654,51.90994624342325],[5.33519954332413,51.91031150552802],[5.33598513317771,51.91079637246267],[5.33656894478338,51.91120727698767],[5.33698562020008,51.91163271124558],[5.33707846636403,51.91166055873861]]]],"type":"MultiPolygon"}
+}

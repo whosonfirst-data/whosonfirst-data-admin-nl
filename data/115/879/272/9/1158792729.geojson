@@ -1,0 +1,80 @@
+{
+  "id": 1158792729,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00141105",
+    "cbsnl:BU_NAAM":"Het Witte Lam",
+    "cbsnl:GM_CODE":"GM0014",
+    "cbsnl:GM_NAAM":"Groningen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1049",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK001411",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000023,
+    "geom:area_square_m":171871.661062,
+    "geom:bbox":"6.57078234616,53.2444466118,6.57886784969,53.2498479856",
+    "geom:latitude":53.246978,
+    "geom:longitude":6.574746,
+    "iso:country":"NL",
+    "lbl:latitude":53.247057,
+    "lbl:longitude":6.574692,
+    "mps:latitude":53.247057,
+    "mps:longitude":6.574692,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Het Witte Lam"
+    ],
+    "name:nld_x_preferred":[
+        "Het Witte Lam"
+    ],
+    "reversegeo:latitude":53.247057,
+    "reversegeo:longitude":6.574692,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473713,
+        85633337,
+        101751909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ef69325a2fb497875e0d1487cfc31cc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473713,
+            "locality_id":101751909,
+            "neighbourhood_id":1158792729,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158792729,
+    "wof:lastmodified":1513382263,
+    "wof:name":"Het Witte Lam",
+    "wof:parent_id":101751909,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.570782346157913,
+    53.24444661178502,
+    6.578867849689924,
+    53.24984798560287
+],
+  "geometry": {"coordinates":[[[[6.57886784968992,53.24804812127014],[6.57684521547316,53.24585792105076],[6.57618230197141,53.24512338680596],[6.57407274941012,53.24488267044309],[6.57409035855585,53.24483109482922],[6.57078234615791,53.24444661178502],[6.57246944029467,53.24731557080415],[6.57296345961289,53.24820687012351],[6.57341440132189,53.24909859513966],[6.57373297386622,53.24984798560287],[6.57664367781051,53.24887581683965],[6.57886784968992,53.24804812127014]]]],"type":"MultiPolygon"}
+}

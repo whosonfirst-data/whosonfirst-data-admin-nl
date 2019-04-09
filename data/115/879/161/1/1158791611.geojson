@@ -1,0 +1,80 @@
+{
+  "id": 1158791611,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17010200",
+    "cbsnl:BU_NAAM":"Zorgvlied",
+    "cbsnl:GM_CODE":"GM1701",
+    "cbsnl:GM_NAAM":"Westerveld",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"82",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170102",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":213860.740395,
+    "geom:bbox":"6.24993991094,52.9177474192,6.26237603731,52.9238015833",
+    "geom:latitude":52.920877,
+    "geom:longitude":6.256495,
+    "iso:country":"NL",
+    "lbl:latitude":52.921922,
+    "lbl:longitude":6.255035,
+    "mps:latitude":52.921922,
+    "mps:longitude":6.255035,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zorgvlied"
+    ],
+    "name:nld_x_preferred":[
+        "Zorgvlied"
+    ],
+    "reversegeo:latitude":52.921922,
+    "reversegeo:longitude":6.255035,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474613,
+        85633337,
+        1158792155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c75680b55e0a0723c22dd681e9dcfdbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474613,
+            "locality_id":1158792155,
+            "neighbourhood_id":1158791611,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791611,
+    "wof:lastmodified":1513292351,
+    "wof:name":"Zorgvlied",
+    "wof:parent_id":1158792155,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.249939910943239,
+    52.91774741922649,
+    6.262376037308572,
+    52.92380158327935
+],
+  "geometry": {"coordinates":[[[[6.25962431095861,52.91774741922649],[6.25763283802923,52.9189774232353],[6.25815643681999,52.91935891498981],[6.24993991094324,52.92123839983184],[6.25509710860871,52.92380158327935],[6.26237603730857,52.91928593473718],[6.25962431095861,52.91774741922649]]]],"type":"MultiPolygon"}
+}

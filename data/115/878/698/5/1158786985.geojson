@@ -1,0 +1,80 @@
+{
+  "id": 1158786985,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03030604",
+    "cbsnl:BU_NAAM":"Centrum Biddinghuizen",
+    "cbsnl:GM_CODE":"GM0303",
+    "cbsnl:GM_NAAM":"Dronten",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"702",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK030306",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":46152.112015,
+    "geom:bbox":"5.69089728613,52.4545207017,5.69497280181,52.4571522123",
+    "geom:latitude":52.455743,
+    "geom:longitude":5.692968,
+    "iso:country":"NL",
+    "lbl:latitude":52.455909,
+    "lbl:longitude":5.693277,
+    "mps:latitude":52.455909,
+    "mps:longitude":5.693277,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Centrum Biddinghuizen"
+    ],
+    "name:nld_x_preferred":[
+        "Centrum Biddinghuizen"
+    ],
+    "reversegeo:latitude":52.455909,
+    "reversegeo:longitude":5.693277,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473965,
+        85633337,
+        101807239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c17fca54bcf721def41b96409404ecc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473965,
+            "locality_id":101807239,
+            "neighbourhood_id":1158786985,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158786985,
+    "wof:lastmodified":1513299285,
+    "wof:name":"Centrum Biddinghuizen",
+    "wof:parent_id":101807239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.690897286134638,
+    52.45452070169436,
+    5.694972801805819,
+    52.45715221233925
+],
+  "geometry": {"coordinates":[[[[5.69409722397814,52.45656284518141],[5.69439761833959,52.45635617670279],[5.69444777763303,52.45566306244962],[5.69497280180582,52.45530370953865],[5.69368989264744,52.45461065417539],[5.69352338627621,52.45452070169436],[5.69274301492773,52.45505980417653],[5.69189453257129,52.45460160311998],[5.69089728613464,52.45528715906325],[5.69153912315854,52.45563336463579],[5.69169142325751,52.4557368611801],[5.69123688734801,52.45604040975711],[5.69173746229191,52.45630740002596],[5.69168760372273,52.45638018268237],[5.69220728522843,52.45669044092596],[5.69225707949236,52.45671720323367],[5.69221278412158,52.456747416286],[5.69249273617531,52.45689995813072],[5.69261664619385,52.45681520192473],[5.69324055513818,52.45715221233925],[5.69409722397814,52.45656284518141]]]],"type":"MultiPolygon"}
+}

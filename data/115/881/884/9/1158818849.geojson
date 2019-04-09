@@ -1,0 +1,80 @@
+{
+  "id": 1158818849,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03840219",
+    "cbsnl:BU_NAAM":"Buitenlust",
+    "cbsnl:GM_CODE":"GM0384",
+    "cbsnl:GM_NAAM":"Diemen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2392",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK038402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":402984.965553,
+    "geom:bbox":"4.96759110277,52.338959978,4.9858642089,52.3476086889",
+    "geom:latitude":52.343684,
+    "geom:longitude":4.976735,
+    "iso:country":"NL",
+    "lbl:latitude":52.343974,
+    "lbl:longitude":4.976735,
+    "mps:latitude":52.343974,
+    "mps:longitude":4.976735,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Buitenlust"
+    ],
+    "name:nld_x_preferred":[
+        "Buitenlust"
+    ],
+    "reversegeo:latitude":52.343974,
+    "reversegeo:longitude":4.976735,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823005,
+        85633337,
+        1158822543,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"66c051e9d18f8b707a41fab2bee769c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":1158822543,
+            "macrohood_id":1158823005,
+            "neighbourhood_id":1158818849,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818849,
+    "wof:lastmodified":1513464101,
+    "wof:name":"Buitenlust",
+    "wof:parent_id":1158823005,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.967591102766524,
+    52.33895997796928,
+    4.98586420890282,
+    52.34760868891131
+],
+  "geometry": {"coordinates":[[[[4.97007495131068,52.34760868891131],[4.97138703928413,52.34731980107628],[4.97274745964152,52.34701000246336],[4.97404452208898,52.34671794252284],[4.97508432453691,52.34632245741061],[4.97529159668655,52.34625071438009],[4.97658017443413,52.34580552574698],[4.9772286809265,52.34550387782779],[4.97978009687394,52.34429597612091],[4.98156226104977,52.34342214232894],[4.98211689097784,52.34309851973022],[4.98329274271459,52.34241244867597],[4.98476159304519,52.34144677895534],[4.98586420890282,52.34057141310331],[4.98571697799693,52.34046137485839],[4.98460607520951,52.33934228315604],[4.98401527663574,52.33895997796928],[4.98368011052141,52.33919701028187],[4.98178510025028,52.34023676031991],[4.97974233881714,52.34105212161477],[4.97607242027819,52.34247100713053],[4.9737999297033,52.34320008443565],[4.96759110276652,52.34518670807712],[4.97007495131068,52.34760868891131]]]],"type":"MultiPolygon"}
+}

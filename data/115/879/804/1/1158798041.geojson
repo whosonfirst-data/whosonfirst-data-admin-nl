@@ -1,0 +1,80 @@
+{
+  "id": 1158798041,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07960705",
+    "cbsnl:BU_NAAM":"De Watertuinen",
+    "cbsnl:GM_CODE":"GM0796",
+    "cbsnl:GM_NAAM":"'s-Hertogenbosch",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"612",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK079607",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000058,
+    "geom:area_square_m":441509.024427,
+    "geom:bbox":"5.36601534426,51.733020812,5.37871708617,51.7410597463",
+    "geom:latitude":51.736961,
+    "geom:longitude":5.372603,
+    "iso:country":"NL",
+    "lbl:latitude":51.73686,
+    "lbl:longitude":5.372603,
+    "mps:latitude":51.73686,
+    "mps:longitude":5.372603,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Watertuinen"
+    ],
+    "name:nld_x_preferred":[
+        "De Watertuinen"
+    ],
+    "reversegeo:latitude":51.73686,
+    "reversegeo:longitude":5.372603,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474393,
+        85633337,
+        101754587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"35f05a380a40aa8d1393da45c394001e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474393,
+            "locality_id":101754587,
+            "neighbourhood_id":1158798041,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798041,
+    "wof:lastmodified":1513432645,
+    "wof:name":"De Watertuinen",
+    "wof:parent_id":101754587,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.36601534426445,
+    51.733020811974164,
+    5.378717086168819,
+    51.74105974627733
+],
+  "geometry": {"coordinates":[[[[5.36601534426445,51.73831067314284],[5.37378752838245,51.74086844722139],[5.37467608548025,51.74105974627733],[5.37583547407998,51.73930849832997],[5.37827061588077,51.73560817065676],[5.37871708616882,51.73492966678491],[5.37771457024465,51.73468121347827],[5.37348899083012,51.73351177019085],[5.37187528346095,51.73302081197416],[5.37137285335339,51.73340458859816],[5.36779480746507,51.73613736511083],[5.36601534426445,51.73831067314284]]]],"type":"MultiPolygon"}
+}

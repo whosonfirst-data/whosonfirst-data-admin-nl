@@ -1,0 +1,80 @@
+{
+  "id": 101874257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-08-25",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.055634,51.666242,5.055634,51.666242",
+    "geom:latitude":51.666242,
+    "geom:longitude":5.055634,
+    "iso:country":"NL",
+    "lbl:latitude":51.666242,
+    "lbl:longitude":5.055634,
+    "mps:latitude":51.666242,
+    "mps:longitude":5.055634,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Nederland",
+    "qs:a1":"*Noord-Brabant",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sprundel",
+    "qs:loc_alt":"Sprundel",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        102191581,
+        404474451,
+        85633337,
+        85687035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":733547,
+        "qs:id":2,
+        "wd:id":"Q2489064"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"a94cef918cc0a760002a269a71412564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474451,
+            "locality_id":101874257,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":101874257,
+    "wof:lastmodified":1544751623,
+    "wof:name":"Sprundel",
+    "wof:parent_id":404474451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        101839341
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.055634,
+    51.666242,
+    5.055634,
+    51.666242
+],
+  "geometry": {"coordinates":[5.055634,51.666242],"type":"Point"}
+}

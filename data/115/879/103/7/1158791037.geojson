@@ -1,0 +1,80 @@
+{
+  "id": 1158791037,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01185106",
+    "cbsnl:BU_NAAM":"Schutlanden-West",
+    "cbsnl:GM_CODE":"GM0118",
+    "cbsnl:GM_NAAM":"Hoogeveen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1289",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011851",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":258388.983389,
+    "geom:bbox":"6.44813572104,52.7122423841,6.45525378984,52.7180420377",
+    "geom:latitude":52.714982,
+    "geom:longitude":6.451526,
+    "iso:country":"NL",
+    "lbl:latitude":52.715138,
+    "lbl:longitude":6.451526,
+    "mps:latitude":52.715138,
+    "mps:longitude":6.451526,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schutlanden-West"
+    ],
+    "name:nld_x_preferred":[
+        "Schutlanden-West"
+    ],
+    "reversegeo:latitude":52.715138,
+    "reversegeo:longitude":6.451526,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473811,
+        85633337,
+        101837877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c2bbfd57a65b38a3289a6bdde9a69120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473811,
+            "locality_id":101837877,
+            "neighbourhood_id":1158791037,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791037,
+    "wof:lastmodified":1513292314,
+    "wof:name":"Schutlanden-West",
+    "wof:parent_id":101837877,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.448135721040207,
+    52.71224238412181,
+    6.455253789842922,
+    52.71804203768563
+],
+  "geometry": {"coordinates":[[[[6.44829280620478,52.71755793510214],[6.45089989618181,52.71778867486327],[6.45341582932837,52.71804203768563],[6.45378983780105,52.71684504134181],[6.45387291268042,52.71667190143031],[6.45397250297043,52.71655288206086],[6.45503764286141,52.71542121898546],[6.45514163924382,52.71527697040857],[6.45522480813476,52.71507388508465],[6.45525378984292,52.7149003381594],[6.45524023222902,52.71473294823756],[6.45483139732189,52.71224238412181],[6.45471668779477,52.71224903379464],[6.44813572104021,52.71260933650545],[6.44829280620478,52.71755793510214]]]],"type":"MultiPolygon"}
+}

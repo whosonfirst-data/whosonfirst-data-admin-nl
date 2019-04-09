@@ -1,0 +1,80 @@
+{
+  "id": 1141965103,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18590003",
+    "cbsnl:BU_NAAM":"Geesteren",
+    "cbsnl:GM_CODE":"GM1859",
+    "cbsnl:GM_NAAM":"Berkelland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"103",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK185900",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":431885.569209,
+    "geom:bbox":"6.52133371032,52.1333701356,6.53366946674,52.1409914407",
+    "geom:latitude":52.137555,
+    "geom:longitude":6.527247,
+    "iso:country":"NL",
+    "lbl:latitude":52.137978,
+    "lbl:longitude":6.526747,
+    "mps:latitude":52.137978,
+    "mps:longitude":6.526747,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Geesteren"
+    ],
+    "name:nld_x_preferred":[
+        "Geesteren"
+    ],
+    "reversegeo:latitude":52.137978,
+    "reversegeo:longitude":6.526747,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474671,
+        85633337,
+        101874269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"073cf2bb34378029aee95c0b1a88efad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474671,
+            "locality_id":101874269,
+            "neighbourhood_id":1141965103,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141965103,
+    "wof:lastmodified":1513368871,
+    "wof:name":"Geesteren",
+    "wof:parent_id":101874269,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.521333710320601,
+    52.13337013555784,
+    6.533669466740918,
+    52.14099144070647
+],
+  "geometry": {"coordinates":[[[[6.52181715814098,52.13860448961917],[6.52135313065196,52.13870912654624],[6.52173941773996,52.1398079264626],[6.52241418183497,52.1398341758672],[6.52262787870961,52.14031336513021],[6.52317371278212,52.14069209482206],[6.5238558939629,52.14092091127601],[6.52586211761706,52.14099144070647],[6.52735417139977,52.14084303435379],[6.52826501615856,52.14047017957198],[6.52919057101987,52.13986992944195],[6.53028325663454,52.13884445548786],[6.53092588458892,52.13849131612736],[6.53207000860699,52.1382195385068],[6.53329489626146,52.13818685039706],[6.53366946674092,52.13787590734409],[6.53186531331407,52.13337013555784],[6.53148098048622,52.13347723710024],[6.52930351044979,52.13497896575957],[6.52705797602211,52.13501867537886],[6.52544704921154,52.13519687765509],[6.52443840144878,52.13534678007587],[6.5233307728722,52.13567038033304],[6.52224885213227,52.13632349525484],[6.5213337103206,52.13693005213912],[6.52181715814098,52.13860448961917]]]],"type":"MultiPolygon"}
+}

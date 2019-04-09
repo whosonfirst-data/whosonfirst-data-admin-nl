@@ -1,0 +1,80 @@
+{
+  "id": 1158796995,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07570002",
+    "cbsnl:BU_NAAM":"Boxtel-Noord",
+    "cbsnl:GM_CODE":"GM0757",
+    "cbsnl:GM_NAAM":"Boxtel",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1188",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK075700",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000115,
+    "geom:area_square_m":882491.479879,
+    "geom:bbox":"5.30613823424,51.5938194207,5.32288699432,51.6061390362",
+    "geom:latitude":51.600221,
+    "geom:longitude":5.315828,
+    "iso:country":"NL",
+    "lbl:latitude":51.600128,
+    "lbl:longitude":5.315828,
+    "mps:latitude":51.600128,
+    "mps:longitude":5.315828,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Boxtel-Noord"
+    ],
+    "name:nld_x_preferred":[
+        "Boxtel-Noord"
+    ],
+    "reversegeo:latitude":51.600128,
+    "reversegeo:longitude":5.315828,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474361,
+        85633337,
+        101839333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"630e2fc7ad1757fe56902dd04a27290f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474361,
+            "locality_id":101839333,
+            "neighbourhood_id":1158796995,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158796995,
+    "wof:lastmodified":1513432562,
+    "wof:name":"Boxtel-Noord",
+    "wof:parent_id":101839333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.306138234237034,
+    51.593819420718546,
+    5.322886994316987,
+    51.60613903618197
+],
+  "geometry": {"coordinates":[[[[5.32091817873092,51.60576972635344],[5.32288699431699,51.5994004548678],[5.32147654474381,51.59819099224156],[5.32062390665158,51.59817534180683],[5.31990099195793,51.59796959575695],[5.3184931731435,51.59644437479707],[5.31863911717079,51.59596834615658],[5.31916921418292,51.59570377240918],[5.31979824959489,51.59608221880876],[5.32051917095259,51.59624245865162],[5.32080503708993,51.59582746003947],[5.32055831880961,51.59538042099036],[5.31848022856988,51.59381942071855],[5.31789655704924,51.59388536781096],[5.31389114909561,51.59431073149709],[5.31200556040008,51.59759177062556],[5.30911152395544,51.59986539306384],[5.30613823423703,51.60215349300564],[5.31459321570964,51.60483425893116],[5.31507070946907,51.60439916886553],[5.32080396203139,51.60613903618197],[5.32091817873092,51.60576972635344]]]],"type":"MultiPolygon"}
+}

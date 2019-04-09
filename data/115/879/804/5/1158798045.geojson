@@ -1,0 +1,80 @@
+{
+  "id": 1158798045,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07960707",
+    "cbsnl:BU_NAAM":"De Lanen",
+    "cbsnl:GM_CODE":"GM0796",
+    "cbsnl:GM_NAAM":"'s-Hertogenbosch",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"-99999999",
+    "cbsnl:STED":"-99999999",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK079607",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000058,
+    "geom:area_square_m":440706.353871,
+    "geom:bbox":"5.34488646752,51.7337090351,5.35419595259,51.741766258",
+    "geom:latitude":51.737341,
+    "geom:longitude":5.349558,
+    "iso:country":"NL",
+    "lbl:latitude":51.737332,
+    "lbl:longitude":5.349647,
+    "mps:latitude":51.737332,
+    "mps:longitude":5.349647,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Lanen"
+    ],
+    "name:nld_x_preferred":[
+        "De Lanen"
+    ],
+    "reversegeo:latitude":51.737332,
+    "reversegeo:longitude":5.349647,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474393,
+        85633337,
+        101754587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"18f8664839f9c6187f22c9276e6f9070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474393,
+            "locality_id":101754587,
+            "neighbourhood_id":1158798045,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798045,
+    "wof:lastmodified":1513432645,
+    "wof:name":"De Lanen",
+    "wof:parent_id":101754587,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.344886467522,
+    51.733709035064884,
+    5.354195952592261,
+    51.74176625796912
+],
+  "geometry": {"coordinates":[[[[5.344886467522,51.73922986085667],[5.34502699198136,51.73946074556358],[5.34523483020429,51.73962389514303],[5.34573607792087,51.73980812043175],[5.34688271021529,51.74022952869168],[5.34934984259383,51.74113619459779],[5.35090862090088,51.74176625796827],[5.350908623552,51.74176625796912],[5.35354356974923,51.73957621491621],[5.35419595259226,51.73460091299375],[5.35367013989146,51.73449032181132],[5.35368797094837,51.7341817169548],[5.34576286054139,51.73370903506488],[5.34509595060382,51.73757312196614],[5.34488693981207,51.73872371219842],[5.344886467522,51.73922986085667]]]],"type":"MultiPolygon"}
+}

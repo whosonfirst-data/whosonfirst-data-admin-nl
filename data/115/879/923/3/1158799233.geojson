@@ -1,0 +1,80 @@
+{
+  "id": 1158799233,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08560107",
+    "cbsnl:BU_NAAM":"Schutveld",
+    "cbsnl:GM_CODE":"GM0856",
+    "cbsnl:GM_NAAM":"Uden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2072",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK085601",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":303361.363528,
+    "geom:bbox":"5.61793626858,51.6554009977,5.6298654882,51.6610075639",
+    "geom:latitude":51.658122,
+    "geom:longitude":5.624114,
+    "iso:country":"NL",
+    "lbl:latitude":51.658176,
+    "lbl:longitude":5.624114,
+    "mps:latitude":51.658176,
+    "mps:longitude":5.624114,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schutveld"
+    ],
+    "name:nld_x_preferred":[
+        "Schutveld"
+    ],
+    "reversegeo:latitude":51.658176,
+    "reversegeo:longitude":5.624114,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474437,
+        85633337,
+        101839391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d8d06ac3c0049600f6b13885f287107b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474437,
+            "locality_id":101839391,
+            "neighbourhood_id":1158799233,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799233,
+    "wof:lastmodified":1513432732,
+    "wof:name":"Schutveld",
+    "wof:parent_id":101839391,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.617936268581104,
+    51.65540099770256,
+    5.629865488197837,
+    51.66100756392377
+],
+  "geometry": {"coordinates":[[[[5.6264961521306,51.66100756392377],[5.6266291247104,51.66095785478893],[5.62901472782171,51.65770049695262],[5.6294412455372,51.65769315335454],[5.62986548819784,51.65671504882136],[5.62626473104155,51.65610225325597],[5.625914849412,51.6558664575535],[5.62566467023559,51.65586809144428],[5.62416555226713,51.655689960947],[5.62411142121149,51.65583079932863],[5.62077706740378,51.65540099770256],[5.62134140344373,51.65646136209487],[5.62073841709269,51.65657492453052],[5.62056816812817,51.65697019783847],[5.61986443112061,51.65764855134304],[5.61894048621869,51.65797003987151],[5.61812427704703,51.65812165169911],[5.6179362685811,51.65875992958212],[5.61828908131118,51.65868928926323],[5.6183836930516,51.65904162262203],[5.61986891779761,51.65917996707698],[5.62007827845193,51.65979919763488],[5.62475604526938,51.66064173905957],[5.6264961521306,51.66100756392377]]]],"type":"MultiPolygon"}
+}

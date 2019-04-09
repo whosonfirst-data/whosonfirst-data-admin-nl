@@ -1,0 +1,91 @@
+{
+  "id": 1158799557,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08700202",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Sleeuwijk",
+    "cbsnl:GM_CODE":"GM0870",
+    "cbsnl:GM_NAAM":"Werkendam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"575",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK087002",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":88738.747957,
+    "geom:bbox":"4.95185287792,51.8084492243,4.95903291525,51.8124417802",
+    "geom:latitude":51.810315,
+    "geom:longitude":4.955579,
+    "iso:country":"NL",
+    "lbl:latitude":51.809923,
+    "lbl:longitude":4.955522,
+    "mps:latitude":51.809923,
+    "mps:longitude":4.955522,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Sleeuwijk"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Sleeuwijk"
+    ],
+    "reversegeo:latitude":51.809923,
+    "reversegeo:longitude":4.955522,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474453,
+        85633337,
+        1158801571,
+        85687041,
+        404474173,
+        101808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b50b0a9328d8bf3a8c1f638fd1a8d43e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474453,
+            "locality_id":1158801571,
+            "neighbourhood_id":1158799557,
+            "region_id":85687035
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474173,
+            "locality_id":101808515,
+            "neighbourhood_id":1158799557,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158799557,
+    "wof:lastmodified":1513432760,
+    "wof:name":"Bedrijventerrein Sleeuwijk",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.951852877915463,
+    51.80844922426875,
+    4.959032915248358,
+    51.81244178021407
+],
+  "geometry": {"coordinates":[[[[4.95903291524836,51.81196802431158],[4.95778092609099,51.8105962541885],[4.95566980594953,51.80844922426875],[4.95319171113246,51.80929999575888],[4.95185287791546,51.8097462588505],[4.95256973207761,51.81064840069138],[4.95288934584359,51.81053445396969],[4.95333724988608,51.81075929314411],[4.95428880547016,51.81040661120056],[4.95555814193837,51.81137345289445],[4.95628719973389,51.81120718411697],[4.95767188397523,51.81244178021407],[4.95806749382156,51.81229948127715],[4.95808364031423,51.81231105460748],[4.95903291524836,51.81196802431158]]]],"type":"MultiPolygon"}
+}

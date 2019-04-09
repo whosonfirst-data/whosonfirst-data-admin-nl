@@ -1,0 +1,82 @@
+{
+  "id": 1141962227,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02021263",
+    "cbsnl:BU_NAAM":"Sterrenberg",
+    "cbsnl:GM_CODE":"GM0202",
+    "cbsnl:GM_NAAM":"Arnhem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1352",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK020212",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":264300.283334,
+    "geom:bbox":"5.87695387793,51.988998451,5.89147528427,51.9958230991",
+    "geom:latitude":51.992971,
+    "geom:longitude":5.884234,
+    "iso:country":"NL",
+    "lbl:latitude":51.993608,
+    "lbl:longitude":5.884344,
+    "mps:latitude":51.993608,
+    "mps:longitude":5.884344,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Sterrenberg"
+    ],
+    "name:nld_x_preferred":[
+        "Sterrenberg"
+    ],
+    "reversegeo:latitude":51.993608,
+    "reversegeo:longitude":5.884344,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158783985,
+        404473871,
+        85633337,
+        101751857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0c5a27fac702c304c4361582eaadbdff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473871,
+            "locality_id":101751857,
+            "macrohood_id":1158783985,
+            "neighbourhood_id":1141962227,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962227,
+    "wof:lastmodified":1513368657,
+    "wof:name":"Sterrenberg",
+    "wof:parent_id":1158783985,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.876953877932766,
+    51.98899845099325,
+    5.891475284273469,
+    51.995823099108954
+],
+  "geometry": {"coordinates":[[[[5.88497492530094,51.99582309910895],[5.88567766466245,51.99511903553714],[5.88648256507842,51.99430757298576],[5.88726004388886,51.99352049041472],[5.88840466385819,51.99236601385746],[5.88939991529524,51.99126968906773],[5.89016001164781,51.99049973835952],[5.8911855584738,51.98938619034379],[5.89147528427347,51.98899845099325],[5.8909076342775,51.98914020233584],[5.89022305846816,51.98937143558347],[5.88889844851259,51.99004312704431],[5.88717359022821,51.99072998852342],[5.8852512273186,51.99133586707127],[5.88251364220543,51.9919568345986],[5.88152869826915,51.99215602460348],[5.88034758307092,51.99239108305202],[5.87858533643359,51.99300786530691],[5.87695387793277,51.99373912712973],[5.87757839981118,51.99412841468518],[5.87867736234401,51.99436291637753],[5.88018527470685,51.99471074520328],[5.88163188997791,51.99504353221437],[5.88306249110551,51.99537457122788],[5.88497492530094,51.99582309910895]]]],"type":"MultiPolygon"}
+}

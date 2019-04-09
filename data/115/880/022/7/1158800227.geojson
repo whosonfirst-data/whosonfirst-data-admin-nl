@@ -1,0 +1,80 @@
+{
+  "id": 1158800227,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17090902",
+    "cbsnl:BU_NAAM":"Kloosterblokje",
+    "cbsnl:GM_CODE":"GM1709",
+    "cbsnl:GM_NAAM":"Moerdijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"311",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170909",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":150200.417636,
+    "geom:bbox":"4.44252548176,51.6847943132,4.45034054252,51.6892948027",
+    "geom:latitude":51.68679,
+    "geom:longitude":4.446487,
+    "iso:country":"NL",
+    "lbl:latitude":51.68694,
+    "lbl:longitude":4.446754,
+    "mps:latitude":51.68694,
+    "mps:longitude":4.446754,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kloosterblokje"
+    ],
+    "name:nld_x_preferred":[
+        "Kloosterblokje"
+    ],
+    "reversegeo:latitude":51.68694,
+    "reversegeo:longitude":4.446754,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474623,
+        85633337,
+        101809639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ef0aafa6e6d1bd6b114c89c72fdc2297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474623,
+            "locality_id":101809639,
+            "neighbourhood_id":1158800227,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158800227,
+    "wof:lastmodified":1513432811,
+    "wof:name":"Kloosterblokje",
+    "wof:parent_id":101809639,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.44252548176288,
+    51.684794313198786,
+    4.450340542522374,
+    51.689294802669956
+],
+  "geometry": {"coordinates":[[[[4.44614763921026,51.68929480266996],[4.44714188801148,51.68893339447408],[4.45034054252237,51.6877412945534],[4.44743180655887,51.68479431319879],[4.44543805518065,51.68482773674224],[4.44252548176288,51.68537367751758],[4.44414554987414,51.68711684019299],[4.44450911139669,51.68750826180043],[4.44516224601244,51.68822083930615],[4.44614763921026,51.68929480266996]]]],"type":"MultiPolygon"}
+}

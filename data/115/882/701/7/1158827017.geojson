@@ -1,0 +1,80 @@
+{
+  "id": 1158827017,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06060402",
+    "cbsnl:BU_NAAM":"Eilandenbuurt",
+    "cbsnl:GM_CODE":"GM0606",
+    "cbsnl:GM_NAAM":"Schiedam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2192",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060604",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":91664.661366,
+    "geom:bbox":"4.40063121674,51.9041526117,4.40879911473,51.9081257968",
+    "geom:latitude":51.905694,
+    "geom:longitude":4.403993,
+    "iso:country":"NL",
+    "lbl:latitude":51.905577,
+    "lbl:longitude":4.40358,
+    "mps:latitude":51.905577,
+    "mps:longitude":4.40358,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Eilandenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Eilandenbuurt"
+    ],
+    "reversegeo:latitude":51.905577,
+    "reversegeo:longitude":4.40358,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829553,
+        85633337,
+        101751845,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0420ced155d9bbcb22ecda0d3bb427fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "macrohood_id":1158829553,
+            "neighbourhood_id":1158827017,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827017,
+    "wof:lastmodified":1513588114,
+    "wof:name":"Eilandenbuurt",
+    "wof:parent_id":1158829553,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.40063121674263,
+    51.90415261167834,
+    4.40879911473385,
+    51.908125796843315
+],
+  "geometry": {"coordinates":[[[[4.40063121674263,51.90812579684331],[4.4007710669318,51.90804560000861],[4.40349693462974,51.90648239108799],[4.40530552138203,51.90569413975363],[4.40662246699033,51.90565141361098],[4.40700716825685,51.90575799859506],[4.40879598390482,51.90600350380909],[4.40879911473385,51.90597384324801],[4.40679040268163,51.90423236863938],[4.40682654143758,51.90415261167834],[4.40264686118737,51.90486626963324],[4.40154864768189,51.90515200836106],[4.40112440377158,51.90580295025127],[4.40067321221248,51.90761940356632],[4.40063121674263,51.90812579684331]]]],"type":"MultiPolygon"}
+}

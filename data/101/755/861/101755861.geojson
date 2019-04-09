@@ -1,0 +1,101 @@
+{
+  "id": 101755861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0001,
+    "geom:area_square_m":782104.219501,
+    "geom:bbox":"5.67917951141,50.8710672348,5.69238709733,50.8832286038",
+    "geom:latitude":50.877482,
+    "geom:longitude":5.686061,
+    "iso:country":"NL",
+    "lbl:latitude":50.877884,
+    "lbl:longitude":5.685526,
+    "mps:latitude":50.877884,
+    "mps:longitude":5.685526,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fra_x_preferred":[
+        "Borgharen"
+    ],
+    "name:lim_x_preferred":[
+        "Hare"
+    ],
+    "name:nld_x_preferred":[
+        "Borgharen"
+    ],
+    "name:unk_x_variant":[
+        "Bowgraven"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Borgharen"
+    ],
+    "qs:a0":"Nederland",
+    "qs:a1":"*Limburg",
+    "qs:a1r":"0Limburg",
+    "qs:adm0":"Nederland",
+    "qs:la":"Maasmechelen",
+    "qs:la_lc":"*BE273107",
+    "qs:level":"locality",
+    "qs:loc":"Borgharen",
+    "qs:loc_alt":"Borgharen",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":50.8781,
+    "wd:longitude":5.6883,
+    "wd:wordcount":106,
+    "wof:belongsto":[
+        102191581,
+        404474495,
+        85633337,
+        85687033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2758611,
+        "gp:id":727872,
+        "qs:id":187422,
+        "qs_pg:id":187422,
+        "tgn:id":7258233,
+        "wd:id":"Q262725",
+        "wk:page":"Borgharen"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"3802b05ef2c0c61c7e15ea0558deb1fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474495,
+            "locality_id":101755861,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":101755861,
+    "wof:lastmodified":1527641698,
+    "wof:name":"Borgharen",
+    "wof:parent_id":404474495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158806407
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6791795114068,
+    50.87106723479991,
+    5.69238709733412,
+    50.88322860377224
+],
+  "geometry": {"coordinates":[[[5.69232399067204,50.87266307791799],[5.69136179114486,50.87106723479991],[5.69130089149382,50.87172468859529],[5.6884638151472,50.87161883759501],[5.68838065531918,50.87251597256062],[5.6869620943927,50.87246301979434],[5.68687890338555,50.8733601533113],[5.68404173602971,50.87325419324395],[5.68395848663994,50.87415132413918],[5.68253988021223,50.87409831683721],[5.6824565996364,50.87499544628241],[5.6810379689756,50.87494242040947],[5.68087134146009,50.87673667612324],[5.67945265936242,50.87668363050449],[5.6791795114068,50.87962351636247],[5.68123362532401,50.88215165656828],[5.68462791708043,50.88227849022809],[5.68454465505295,50.88317561953511],[5.68596353949613,50.88322860377224],[5.68604677430983,50.88233147329191],[5.68746563450645,50.88238443895523],[5.68754883812414,50.88148730702648],[5.68896767407438,50.88154025411677],[5.68913401494046,50.87974598708723],[5.69197158689138,50.87985182437995],[5.69238709733412,50.8753661402626],[5.69096844591201,50.87531323617264],[5.69121778606444,50.87262182590393],[5.69232399067204,50.87266307791799]]],"type":"Polygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158798417,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08240601",
+    "cbsnl:BU_NAAM":"Omgeving George Perklaan",
+    "cbsnl:GM_CODE":"GM0824",
+    "cbsnl:GM_NAAM":"Oisterwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"862",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082406",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":82727.411443,
+    "geom:bbox":"5.19811607256,51.5834242993,5.20277425831,51.5866750783",
+    "geom:latitude":51.585127,
+    "geom:longitude":5.200258,
+    "iso:country":"NL",
+    "lbl:latitude":51.585065,
+    "lbl:longitude":5.200214,
+    "mps:latitude":51.585065,
+    "mps:longitude":5.200214,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "George Perklaan"
+    ],
+    "name:nld_x_preferred":[
+        "George Perklaan"
+    ],
+    "reversegeo:latitude":51.585065,
+    "reversegeo:longitude":5.200214,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474411,
+        85633337,
+        101808311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e2f9f683c9ac6ae395dd64f6e5e1134d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474411,
+            "locality_id":101808311,
+            "neighbourhood_id":1158798417,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798417,
+    "wof:lastmodified":1513432674,
+    "wof:name":"George Perklaan",
+    "wof:parent_id":101808311,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.198116072562242,
+    51.583424299262646,
+    5.202774258306543,
+    51.58667507833763
+],
+  "geometry": {"coordinates":[[[[5.19942691827969,51.58342429926265],[5.19865967394023,51.58409705051672],[5.19836183260847,51.58463764302429],[5.19834137312968,51.58546678101531],[5.19811607256224,51.58667507833763],[5.2017762066437,51.58639884428079],[5.20277425830654,51.5842255346902],[5.19942691827969,51.58342429926265]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158791873,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17310801",
+    "cbsnl:BU_NAAM":"Hoogersmilde-Noord",
+    "cbsnl:GM_CODE":"GM1731",
+    "cbsnl:GM_NAAM":"Midden-Drenthe",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"50",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK173108",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000171,
+    "geom:area_square_m":1276666.661537,
+    "geom:bbox":"6.40026614403,52.9092275937,6.42708881733,52.93175514",
+    "geom:latitude":52.921413,
+    "geom:longitude":6.414004,
+    "iso:country":"NL",
+    "lbl:latitude":52.920755,
+    "lbl:longitude":6.414207,
+    "mps:latitude":52.920755,
+    "mps:longitude":6.414207,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hoogersmilde-Noord"
+    ],
+    "name:nld_x_preferred":[
+        "Hoogersmilde-Noord"
+    ],
+    "reversegeo:latitude":52.920755,
+    "reversegeo:longitude":6.414207,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474649,
+        85633337,
+        101807305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b764359ba5e766a15fc11f164f8d5897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474649,
+            "locality_id":101807305,
+            "neighbourhood_id":1158791873,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791873,
+    "wof:lastmodified":1513292370,
+    "wof:name":"Hoogersmilde-Noord",
+    "wof:parent_id":101807305,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.400266144029481,
+    52.909227593692826,
+    6.427088817325628,
+    52.93175513996821
+],
+  "geometry": {"coordinates":[[[[6.42708881732563,52.92918522908352],[6.40548765963193,52.90922759369283],[6.40090748741157,52.91107745830124],[6.40026614402948,52.91130701718507],[6.41715671403813,52.92696079712015],[6.41199536706291,52.92881378737607],[6.41518456026966,52.93175513996821],[6.41710079774227,52.93089350607492],[6.41753699971271,52.93055421968029],[6.41829247441822,52.93116674595281],[6.42113487476581,52.93016876608019],[6.42214234376729,52.93113175691317],[6.42708881732563,52.92918522908352]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1158803819,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17081509",
+    "cbsnl:BU_NAAM":"Verspreide huizen Jonen",
+    "cbsnl:GM_CODE":"GM1708",
+    "cbsnl:GM_NAAM":"Steenwijkerland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"6",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170815",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000204,
+    "geom:area_square_m":1529925.476467,
+    "geom:bbox":"6.00513790482,52.7109236138,6.02426547797,52.732983308",
+    "geom:latitude":52.723123,
+    "geom:longitude":6.017297,
+    "iso:country":"NL",
+    "lbl:latitude":52.725074,
+    "lbl:longitude":6.017297,
+    "mps:latitude":52.725074,
+    "mps:longitude":6.017297,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen Jonen"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen Jonen"
+    ],
+    "reversegeo:latitude":52.725074,
+    "reversegeo:longitude":6.017297,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474621,
+        85633337,
+        101807195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f452341331441faed3822462f079e6ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474621,
+            "locality_id":101807195,
+            "neighbourhood_id":1158803819,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803819,
+    "wof:lastmodified":1513524364,
+    "wof:name":"Verspreide huizen Jonen",
+    "wof:parent_id":101807195,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.005137904818828,
+    52.71092361384588,
+    6.024265477965197,
+    52.7329833079537
+],
+  "geometry": {"coordinates":[[[[6.02030999284166,52.7329833079537],[6.02063310376266,52.7304006153863],[6.0236720456927,52.72092606434563],[6.0242654779652,52.71092361384588],[6.01551260860314,52.71298495256104],[6.01618120777188,52.71514001047639],[6.01637682007864,52.71581637880094],[6.01714877564087,52.71778720871801],[6.01614002875623,52.71875247718252],[6.01312869004222,52.72266257152574],[6.00551018912539,52.72953144459568],[6.00513790481883,52.72980298976154],[6.01544153060064,52.7319879498251],[6.02030999284166,52.7329833079537]]]],"type":"MultiPolygon"}
+}

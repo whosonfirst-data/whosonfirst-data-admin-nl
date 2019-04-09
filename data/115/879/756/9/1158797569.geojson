@@ -1,0 +1,82 @@
+{
+  "id": 1158797569,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07771003",
+    "cbsnl:BU_NAAM":"Noord 4, Stichting Het Hooghuys",
+    "cbsnl:GM_CODE":"GM0777",
+    "cbsnl:GM_NAAM":"Etten-Leur",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1804",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK077710",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":97958.399975,
+    "geom:bbox":"4.6557820386,51.5816665851,4.66270599219,51.5857207065",
+    "geom:latitude":51.583714,
+    "geom:longitude":4.659236,
+    "iso:country":"NL",
+    "lbl:latitude":51.583296,
+    "lbl:longitude":4.659184,
+    "mps:latitude":51.583296,
+    "mps:longitude":4.659184,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Noord 4",
+        "Stichting Het Hooghuys"
+    ],
+    "name:nld_x_preferred":[
+        "Noord 4",
+        "Stichting Het Hooghuys"
+    ],
+    "reversegeo:latitude":51.583296,
+    "reversegeo:longitude":4.659184,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474377,
+        85633337,
+        101839355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b7c188df3b1737895495c6776f5b602a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474377,
+            "locality_id":101839355,
+            "neighbourhood_id":1158797569,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797569,
+    "wof:lastmodified":1513432602,
+    "wof:name":"Noord 4, Stichting Het Hooghuys",
+    "wof:parent_id":101839355,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.655782038602176,
+    51.58166658510348,
+    4.662705992191006,
+    51.58572070646578
+],
+  "geometry": {"coordinates":[[[[4.66148434910546,51.58428056493526],[4.66270599219101,51.58347198470599],[4.6625523664958,51.58339092394732],[4.66126336905476,51.58299166054662],[4.66160410198698,51.5826204038939],[4.66167210366811,51.58254631690622],[4.66108887724878,51.58233383131078],[4.65889898735023,51.58166658510348],[4.65872281079826,51.58189193603653],[4.65693979125198,51.58426072297964],[4.65613665803094,51.58504323971692],[4.65578203860218,51.58542607922848],[4.6568013543511,51.58572070646578],[4.65739132087002,51.5851467992227],[4.6575655205475,51.58514788624817],[4.6585468691798,51.5855149992772],[4.65964969057169,51.58434261318795],[4.65974666277774,51.58433118922209],[4.66068890246842,51.58472210372831],[4.66148434910546,51.58428056493526]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158798637,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08280606",
+    "cbsnl:BU_NAAM":"Beethovengaarde en Lisztgaarde",
+    "cbsnl:GM_CODE":"GM0828",
+    "cbsnl:GM_NAAM":"Oss",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1883",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082806",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":328828.125527,
+    "geom:bbox":"5.51120504357,51.7525812862,5.52386955534,51.7591195833",
+    "geom:latitude":51.755759,
+    "geom:longitude":5.517153,
+    "iso:country":"NL",
+    "lbl:latitude":51.755696,
+    "lbl:longitude":5.517249,
+    "mps:latitude":51.755696,
+    "mps:longitude":5.517249,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Beethovengaarde en Lisztgaarde"
+    ],
+    "name:nld_x_preferred":[
+        "Beethovengaarde en Lisztgaarde"
+    ],
+    "reversegeo:latitude":51.755696,
+    "reversegeo:longitude":5.517249,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801743,
+        404474415,
+        85633337,
+        101751807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ca85c8947a998144484f9d28cf72fd30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":101751807,
+            "macrohood_id":1158801743,
+            "neighbourhood_id":1158798637,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798637,
+    "wof:lastmodified":1513432688,
+    "wof:name":"Beethovengaarde en Lisztgaarde",
+    "wof:parent_id":1158801743,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.511205043574708,
+    51.75258128622305,
+    5.523869555341997,
+    51.75911958334056
+],
+  "geometry": {"coordinates":[[[[5.51812401604682,51.75911958334056],[5.523869555342,51.75562746998001],[5.52181234532059,51.75474140132747],[5.51691687927215,51.75331018058624],[5.51408737264619,51.75258128622305],[5.51177072665207,51.75570922445397],[5.51120504357471,51.75647355982679],[5.51632876078036,51.75797302371731],[5.51812401604682,51.75911958334056]]]],"type":"MultiPolygon"}
+}

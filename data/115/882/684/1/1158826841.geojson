@@ -1,0 +1,80 @@
+{
+  "id": 1158826841,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05880301",
+    "cbsnl:BU_NAAM":"Zwartsluisje (gedeeltelijk)",
+    "cbsnl:GM_CODE":"GM0588",
+    "cbsnl:GM_NAAM":"Korendijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"21",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK058803",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":431631.757255,
+    "geom:bbox":"4.32164404629,51.7664953851,4.33488181918,51.7785190375",
+    "geom:latitude":51.772664,
+    "geom:longitude":4.328443,
+    "iso:country":"NL",
+    "lbl:latitude":51.772678,
+    "lbl:longitude":4.328443,
+    "mps:latitude":51.772678,
+    "mps:longitude":4.328443,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zwartsluisje (gedeeltelijk)"
+    ],
+    "name:nld_x_preferred":[
+        "Zwartsluisje (gedeeltelijk)"
+    ],
+    "reversegeo:latitude":51.772678,
+    "reversegeo:longitude":4.328443,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474235,
+        85633337,
+        101808537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"022bd35d540dab1e014e5c2ac88f0b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474235,
+            "locality_id":101808537,
+            "neighbourhood_id":1158826841,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826841,
+    "wof:lastmodified":1513588099,
+    "wof:name":"Zwartsluisje (gedeeltelijk)",
+    "wof:parent_id":101808537,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.321644046294185,
+    51.76649538508042,
+    4.334881819178162,
+    51.778519037464264
+],
+  "geometry": {"coordinates":[[[[4.32164404629419,51.77776433687904],[4.32307920466359,51.77801108390361],[4.32452344542071,51.77837756149194],[4.3260632305448,51.77851903746426],[4.33122605760651,51.77259240288165],[4.33488181917816,51.7677531910722],[4.33102837425686,51.76652299795814],[4.33095669797328,51.76649538508042],[4.33088120691738,51.76656296637167],[4.32435201335388,51.77461492336997],[4.32164404629419,51.77776433687904]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1158787381,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:GM_CODE":"GM0995",
+    "cbsnl:GM_NAAM":"Lelystad",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"907",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK099561",
+    "cbsnl:WK_NAAM":"Kofschip",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:area_square_m":363954.860386,
+    "geom:bbox":"5.47134200075,52.5204973809,5.47756636539,52.5304018948",
+    "geom:latitude":52.524859,
+    "geom:longitude":5.474523,
+    "iso:country":"NL",
+    "lbl:latitude":52.524757,
+    "lbl:longitude":5.474464,
+    "mps:latitude":52.524757,
+    "mps:longitude":5.474464,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":13.0,
+    "name:eng_x_preferred":[
+        "Kofschip"
+    ],
+    "name:nld_x_preferred":[
+        "Kofschip"
+    ],
+    "reversegeo:latitude":52.524757,
+    "reversegeo:longitude":5.474464,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        101751873,
+        85633337,
+        85687049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"88a75f623fab1ec2a67a0c9a8805f576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751873,
+            "macrohood_id":1158787381,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158787381,
+    "wof:lastmodified":1513299171,
+    "wof:name":"Kofschip",
+    "wof:parent_id":101751873,
+    "wof:placetype":"macrohood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.471342000751711,
+    52.52049738086885,
+    5.477566365392281,
+    52.53040189477734
+],
+  "geometry": {"coordinates":[[[[5.47149889557513,52.52449987417568],[5.47153260090822,52.52473767504468],[5.47186160839349,52.52590480607994],[5.47207910436643,52.52653946802548],[5.47218352318531,52.52684416220279],[5.47259888771752,52.52781598762225],[5.47328144998381,52.52899912925885],[5.47421496139502,52.53040189477734],[5.47441742485914,52.53035688525696],[5.47468353620206,52.53033333990481],[5.4760612109041,52.53037705818683],[5.4761049196273,52.53010371911692],[5.4765158107635,52.53011430454788],[5.47661400007291,52.52920494739177],[5.47683102042699,52.52817153571763],[5.47689374688181,52.52748048393052],[5.47706101962816,52.52593377537601],[5.47719763029863,52.52467051213973],[5.47756636539228,52.52070012625135],[5.47210741694045,52.52049738086885],[5.4714486340123,52.5209326111362],[5.4713572493244,52.52196378170136],[5.47134200075171,52.5227081404237],[5.47138388240664,52.5236883727792],[5.47149889557513,52.52449987417568]]]],"type":"MultiPolygon"}
+}

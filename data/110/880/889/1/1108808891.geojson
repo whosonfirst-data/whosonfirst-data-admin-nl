@@ -1,0 +1,73 @@
+{
+  "id": 1108808891,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03440414",
+    "cbsnl:BU_NAAM":"Tuinwijk-West",
+    "cbsnl:GM_CODE":"GM0344",
+    "cbsnl:GM_NAAM":"Utrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"5588",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK034404",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000022,
+    "geom:area_square_m":168632.739828,
+    "geom:bbox":"5.11704087894,52.1005388682,5.1256406593,52.1059220258",
+    "geom:latitude":52.103603,
+    "geom:longitude":5.12052,
+    "iso:country":"NL",
+    "lbl:latitude":52.103691,
+    "lbl:longitude":5.120161,
+    "mps:latitude":52.103691,
+    "mps:longitude":5.120161,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "reversegeo:latitude":52.103691,
+    "reversegeo:longitude":5.120161,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        85633337,
+        101751827,
+        1108808663,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"79bb05a56cb2188cacb1ece68b4117af",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108808663,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808891,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1108808891,
+    "wof:lastmodified":1507246058,
+    "wof:name":"Tuinwijk-West",
+    "wof:parent_id":1108808663,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.11704087893599,
+    52.10053886821946,
+    5.12564065930423,
+    52.10592202578476
+],
+  "geometry": {"coordinates":[[[5.11948473315549,52.10592202578476],[5.12409329933144,52.10496440262974],[5.12564065930423,52.10462756602482],[5.12128821260963,52.10222698565786],[5.11951442070755,52.10124046223015],[5.11884915726255,52.10084289180904],[5.11829961933333,52.10053886821946],[5.11815845430391,52.10056623838296],[5.11715964191006,52.10067788825162],[5.11704087893599,52.10070045502249],[5.11748995342356,52.10156595364685],[5.11811010938828,52.10147704052719],[5.11837062486971,52.1021435589962],[5.11760512811367,52.10225516003968],[5.11831903180451,52.10402962860995],[5.11763114864497,52.10413962660081],[5.11778930444488,52.10509281963491],[5.11928311081262,52.10558826423486],[5.11948473315549,52.10592202578476]]],"type":"Polygon"}
+}

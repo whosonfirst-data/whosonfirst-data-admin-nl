@@ -1,0 +1,92 @@
+{
+  "id": 101839405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-08-23",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":636970.076091,
+    "geom:bbox":"4.3239424808,51.5742241027,4.33694062979,51.5943473368",
+    "geom:latitude":51.583516,
+    "geom:longitude":4.330145,
+    "gn:population":1500,
+    "iso:country":"NL",
+    "lbl:latitude":51.57749,
+    "lbl:longitude":4.329873,
+    "mps:latitude":51.57749,
+    "mps:longitude":4.329873,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:nld_x_preferred":[
+        "Welberg"
+    ],
+    "qs:a0":"Nederland",
+    "qs:a1":"*Noord-Brabant",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la":"Steenbergen",
+    "qs:la_lc":"*NL300851",
+    "qs:level":"locality",
+    "qs:loc":"Welberg",
+    "qs:loc_alt":"Welberg",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        404474431,
+        85633337,
+        85687035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01f2404c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2744869,
+        "gp:id":734584,
+        "qs:id":187969,
+        "qs_pg:id":187969,
+        "tgn:id":7273129
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"e92af3473089e571d65899fadf53bcdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474431,
+            "locality_id":101839405,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":101839405,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1513427278,
+    "wof:name":"Welberg",
+    "wof:parent_id":404474431,
+    "wof:placetype":"locality",
+    "wof:population":1500,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158799031
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.32394248079527,
+    51.57422410268822,
+    4.33694062978515,
+    51.59434733684475
+],
+  "geometry": {"coordinates":[[[[4.32708833445463,51.58771794088454],[4.32953504675652,51.594144131679],[4.33372656336854,51.59434733684475],[4.33395018662731,51.59255599678568],[4.33682888253082,51.59269539460894],[4.33694062978515,51.59179972098605],[4.33406199010329,51.59166032631299],[4.33417378814505,51.59076465554483],[4.33273450250437,51.59069493327939],[4.33306994834311,51.58800792392691],[4.32708833445463,51.58771794088454]]],[[[4.32394248079527,51.57945548362306],[4.32507857224482,51.58243938181522],[4.32510658225743,51.5822152777306],[4.32654559060688,51.58228509181083],[4.32665750289095,51.58138942753919],[4.32809648721019,51.5814592223777],[4.32820836596289,51.58056355623307],[4.3310862906028,51.58070308976323],[4.33119810773473,51.57980742016997],[4.33263704805341,51.57987715886287],[4.33297238257802,51.577190143579],[4.33441124268643,51.57725985988316],[4.33463471570519,51.5754685117293],[4.33319591176996,51.57539879857438],[4.33330766821979,51.57450312562753],[4.32755260540148,51.57422410268822],[4.32710509764331,51.57780676748735],[4.32566622974969,51.5777369612922],[4.32544238707089,51.57952828875744],[4.32394248079527,51.57945548362306]]]],"type":"MultiPolygon"}
+}

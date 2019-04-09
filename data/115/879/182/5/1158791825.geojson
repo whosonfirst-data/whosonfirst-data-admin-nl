@@ -1,0 +1,80 @@
+{
+  "id": 1158791825,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17310101",
+    "cbsnl:BU_NAAM":"Oranje",
+    "cbsnl:GM_CODE":"GM1731",
+    "cbsnl:GM_NAAM":"Midden-Drenthe",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"99",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK173101",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":241312.142059,
+    "geom:bbox":"6.44069771863,52.9052448042,6.45442135617,52.9102423371",
+    "geom:latitude":52.907743,
+    "geom:longitude":6.447562,
+    "iso:country":"NL",
+    "lbl:latitude":52.907744,
+    "lbl:longitude":6.447562,
+    "mps:latitude":52.907744,
+    "mps:longitude":6.447562,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oranje"
+    ],
+    "name:nld_x_preferred":[
+        "Oranje"
+    ],
+    "reversegeo:latitude":52.907744,
+    "reversegeo:longitude":6.447562,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474649,
+        85633337,
+        1158792215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ccf934efdb55e99807852a61ebcda465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474649,
+            "locality_id":1158792215,
+            "neighbourhood_id":1158791825,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791825,
+    "wof:lastmodified":1513292367,
+    "wof:name":"Oranje",
+    "wof:parent_id":1158792215,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.4406977186316,
+    52.90524480420443,
+    6.454421356167419,
+    52.91024233713584
+],
+  "geometry": {"coordinates":[[[[6.45301941430327,52.90524480420443],[6.4406977186316,52.90791943547875],[6.4421258804548,52.91024233713584],[6.45442135616742,52.90756442803508],[6.45301941430327,52.90524480420443]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158826979,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06060103",
+    "cbsnl:BU_NAAM":"Singelkwartier",
+    "cbsnl:GM_CODE":"GM0606",
+    "cbsnl:GM_NAAM":"Schiedam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"4154",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060601",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":134683.617369,
+    "geom:bbox":"4.40420698458,51.9166795563,4.41193394467,51.9215407475",
+    "geom:latitude":51.918961,
+    "geom:longitude":4.407942,
+    "iso:country":"NL",
+    "lbl:latitude":51.919043,
+    "lbl:longitude":4.407942,
+    "mps:latitude":51.919043,
+    "mps:longitude":4.407942,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Singelkwartier"
+    ],
+    "name:nld_x_preferred":[
+        "Singelkwartier"
+    ],
+    "reversegeo:latitude":51.919043,
+    "reversegeo:longitude":4.407942,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829591,
+        85633337,
+        101751845,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"fca9ba1a2a98787d6b24c49cf5665681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "macrohood_id":1158829591,
+            "neighbourhood_id":1158826979,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826979,
+    "wof:lastmodified":1513588112,
+    "wof:name":"Singelkwartier",
+    "wof:parent_id":1158829591,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.404206984582478,
+    51.916679556327196,
+    4.411933944669118,
+    51.92154074747433
+],
+  "geometry": {"coordinates":[[[[4.40420698458248,51.91947915602309],[4.40501944476022,51.91961993935386],[4.4060446722739,51.92024226935641],[4.40646986709106,51.92095593454786],[4.40663564137879,51.92154074747433],[4.40682100606172,51.92137881071675],[4.40903609053632,51.92026467490186],[4.41022661708305,51.91942513365478],[4.41193394466912,51.91890981384608],[4.41160363812217,51.91864946057564],[4.41168728879114,51.91857706865392],[4.41125876933069,51.91824228241754],[4.41109236367069,51.91817072480956],[4.41091834792465,51.91803173426669],[4.41075721614754,51.9179265371588],[4.41046873509531,51.91762378783408],[4.41036578004026,51.91767373185478],[4.4094204260414,51.91692852735873],[4.40910559973014,51.9166795563272],[4.40910726401979,51.91675962849541],[4.40560018695263,51.91830146734317],[4.40546907955534,51.91830017644548],[4.40493890411856,51.91851727432437],[4.40437490022523,51.91835482712012],[4.40420698458248,51.91947915602309]]]],"type":"MultiPolygon"}
+}

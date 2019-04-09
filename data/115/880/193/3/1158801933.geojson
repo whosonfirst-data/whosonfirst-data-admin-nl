@@ -1,0 +1,82 @@
+{
+  "id": 1158801933,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01411406",
+    "cbsnl:BU_NAAM":"Aalderinkshoek Zuidwest",
+    "cbsnl:GM_CODE":"GM0141",
+    "cbsnl:GM_NAAM":"Almelo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"924",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK014114",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000023,
+    "geom:area_square_m":171776.517805,
+    "geom:bbox":"6.63078615308,52.3556825358,6.63967565581,52.3595266004",
+    "geom:latitude":52.357527,
+    "geom:longitude":6.63523,
+    "iso:country":"NL",
+    "lbl:latitude":52.357472,
+    "lbl:longitude":6.63523,
+    "mps:latitude":52.357472,
+    "mps:longitude":6.63523,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Aalderinkshoek Zuidwest"
+    ],
+    "name:nld_x_preferred":[
+        "Aalderinkshoek Zuidwest"
+    ],
+    "reversegeo:latitude":52.357472,
+    "reversegeo:longitude":6.63523,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805823,
+        404473819,
+        85633337,
+        101751863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8600178804466f8a5d31aebc8efa7e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473819,
+            "locality_id":101751863,
+            "macrohood_id":1158805823,
+            "neighbourhood_id":1158801933,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158801933,
+    "wof:lastmodified":1513524226,
+    "wof:name":"Aalderinkshoek Zuidwest",
+    "wof:parent_id":1158805823,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.630786153084592,
+    52.355682535831505,
+    6.639675655808605,
+    52.359526600359
+],
+  "geometry": {"coordinates":[[[[6.63244444048783,52.35949189064924],[6.63250918816046,52.359526600359],[6.63694639745233,52.35896466033252],[6.63731506038156,52.35916104058966],[6.63942894623054,52.3588527398917],[6.63907330638763,52.35842730125513],[6.63967565580861,52.35830435572161],[6.63812711823097,52.35679437313511],[6.63764467558796,52.35687391105586],[6.6374164349026,52.35675975263658],[6.63797419193563,52.35568253583151],[6.63078615308459,52.35589285817387],[6.63171401846129,52.3564417935662],[6.63194322152697,52.35710565636332],[6.63244444048783,52.35949189064924]]]],"type":"MultiPolygon"}
+}

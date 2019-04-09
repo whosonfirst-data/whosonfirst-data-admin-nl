@@ -1,0 +1,82 @@
+{
+  "id": 1158798597,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08280307",
+    "cbsnl:BU_NAAM":"Willibrordusweg-West",
+    "cbsnl:GM_CODE":"GM0828",
+    "cbsnl:GM_NAAM":"Oss",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"669",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082803",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":342068.362649,
+    "geom:bbox":"5.5331550304,51.7471626287,5.5441210777,51.7529521718",
+    "geom:latitude":51.749678,
+    "geom:longitude":5.537736,
+    "iso:country":"NL",
+    "lbl:latitude":51.750037,
+    "lbl:longitude":5.537736,
+    "mps:latitude":51.750037,
+    "mps:longitude":5.537736,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Willibrordusweg-West"
+    ],
+    "name:nld_x_preferred":[
+        "Willibrordusweg-West"
+    ],
+    "reversegeo:latitude":51.750037,
+    "reversegeo:longitude":5.537736,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801749,
+        404474415,
+        85633337,
+        101751807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"22b4047d5ec8b15522d7438680bf1047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":101751807,
+            "macrohood_id":1158801749,
+            "neighbourhood_id":1158798597,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798597,
+    "wof:lastmodified":1513432686,
+    "wof:name":"Willibrordusweg-West",
+    "wof:parent_id":1158801749,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.533155030397423,
+    51.74716262870195,
+    5.544121077703074,
+    51.75295217180425
+],
+  "geometry": {"coordinates":[[[[5.53441013876664,51.75239079062303],[5.53476284948366,51.7523632392236],[5.53922712171444,51.75295217180425],[5.53986400690265,51.75178368598846],[5.54059640887647,51.75103275620153],[5.54200988389555,51.75002334635341],[5.54412107770307,51.74783774614965],[5.54411731412171,51.74753579698557],[5.53315503039742,51.74716262870195],[5.533596886936,51.75245430694075],[5.53441013876664,51.75239079062303]]]],"type":"MultiPolygon"}
+}

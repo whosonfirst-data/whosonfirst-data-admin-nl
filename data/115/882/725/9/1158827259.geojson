@@ -1,0 +1,80 @@
+{
+  "id": 1158827259,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06140101",
+    "cbsnl:BU_NAAM":"De Waranda",
+    "cbsnl:GM_CODE":"GM0614",
+    "cbsnl:GM_NAAM":"Westvoorne",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"275",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK061401",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:area_square_m":280361.919892,
+    "geom:bbox":"4.08238078903,51.9010329275,4.09271832685,51.9068970518",
+    "geom:latitude":51.904152,
+    "geom:longitude":4.086915,
+    "iso:country":"NL",
+    "lbl:latitude":51.903834,
+    "lbl:longitude":4.086913,
+    "mps:latitude":51.903834,
+    "mps:longitude":4.086913,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Waranda"
+    ],
+    "name:nld_x_preferred":[
+        "De Waranda"
+    ],
+    "reversegeo:latitude":51.903834,
+    "reversegeo:longitude":4.086913,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474267,
+        85633337,
+        101808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"dbbf30a614386ab83cf852ef432d05ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474267,
+            "locality_id":101808543,
+            "neighbourhood_id":1158827259,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827259,
+    "wof:lastmodified":1513588134,
+    "wof:name":"De Waranda",
+    "wof:parent_id":101808543,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.08238078903462,
+    51.901032927487066,
+    4.092718326848518,
+    51.906897051821275
+],
+  "geometry": {"coordinates":[[[[4.08615489474424,51.90122907452255],[4.0838898516727,51.90268354974138],[4.08238078903462,51.90311176986319],[4.08240948116886,51.90316967549745],[4.08341440487109,51.90689705182128],[4.08517839302233,51.90674834536729],[4.08705384942044,51.90652555866814],[4.08975439044198,51.90579132177756],[4.09173625784775,51.90487212484024],[4.09271832684852,51.90438404456323],[4.09270259825084,51.9040234598154],[4.09156974346692,51.90371236078034],[4.08920040155696,51.9021510126146],[4.08789581226052,51.90138149437201],[4.08694672740023,51.9011847478974],[4.08685910395845,51.90103292748707],[4.08642987201473,51.90118352146444],[4.08615489474424,51.90122907452255]]]],"type":"MultiPolygon"}
+}

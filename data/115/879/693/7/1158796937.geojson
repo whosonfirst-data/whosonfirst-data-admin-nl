@@ -1,0 +1,80 @@
+{
+  "id": 1158796937,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07560007",
+    "cbsnl:BU_NAAM":"Maasbroeksche Blokken",
+    "cbsnl:GM_CODE":"GM0756",
+    "cbsnl:GM_NAAM":"Boxmeer",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"733",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK075600",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":335819.071435,
+    "geom:bbox":"5.9277330312,51.6559964343,5.94242735047,51.6620981608",
+    "geom:latitude":51.659083,
+    "geom:longitude":5.937003,
+    "iso:country":"NL",
+    "lbl:latitude":51.659311,
+    "lbl:longitude":5.93761,
+    "mps:latitude":51.659311,
+    "mps:longitude":5.93761,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Maasbroeksche Blokken"
+    ],
+    "name:nld_x_preferred":[
+        "Maasbroeksche Blokken"
+    ],
+    "reversegeo:latitude":51.659311,
+    "reversegeo:longitude":5.93761,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474359,
+        85633337,
+        101839331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c4a5221c3d7e32f75662230ccb682e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474359,
+            "locality_id":101839331,
+            "neighbourhood_id":1158796937,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158796937,
+    "wof:lastmodified":1513432558,
+    "wof:name":"Maasbroeksche Blokken",
+    "wof:parent_id":101839331,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.92773303120259,
+    51.655996434274684,
+    5.942427350469188,
+    51.6620981607761
+],
+  "geometry": {"coordinates":[[[[5.9419235217532,51.66195075428628],[5.94191942115515,51.66192942556569],[5.94177777412834,51.66008235854611],[5.94196231136771,51.65881407702138],[5.9424210407883,51.65707258740296],[5.94242735046919,51.65703463582357],[5.93998131123944,51.65693694855405],[5.93605622019118,51.65676329215007],[5.93603967737284,51.65694482801134],[5.93445341859742,51.65685562911619],[5.93446352713632,51.65709406487748],[5.93177475627239,51.65697739694556],[5.93176383833972,51.65601369039022],[5.92930958791819,51.65599643427468],[5.92773303120259,51.65786944479228],[5.93582353890537,51.65736999692763],[5.93415830082843,51.66065052136236],[5.93285646759791,51.6620981607761],[5.93371622050779,51.66206072139092],[5.93546590634768,51.66190478401579],[5.93873680430116,51.66173098756789],[5.9419235217532,51.66195075428628]]]],"type":"MultiPolygon"}
+}

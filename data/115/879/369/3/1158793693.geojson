@@ -1,0 +1,80 @@
+{
+  "id": 1158793693,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19870302",
+    "cbsnl:BU_NAAM":"Tussenklappen",
+    "cbsnl:GM_CODE":"GM1987",
+    "cbsnl:GM_NAAM":"Menterwolde",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"221",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK198703",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:area_square_m":515937.205099,
+    "geom:bbox":"6.86272872255,53.1383615245,6.87099265532,53.1524201595",
+    "geom:latitude":53.14523,
+    "geom:longitude":6.866217,
+    "iso:country":"NL",
+    "lbl:latitude":53.145305,
+    "lbl:longitude":6.865882,
+    "mps:latitude":53.145305,
+    "mps:longitude":6.865882,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Tussenklappen"
+    ],
+    "name:nld_x_preferred":[
+        "Tussenklappen"
+    ],
+    "reversegeo:latitude":53.145305,
+    "reversegeo:longitude":6.865882,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404474691,
+        85633337,
+        101807491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"29434481ba75665f892fb3e1000f7871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474691,
+            "locality_id":101807491,
+            "neighbourhood_id":1158793693,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793693,
+    "wof:lastmodified":1513382329,
+    "wof:name":"Tussenklappen",
+    "wof:parent_id":101807491,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.862728722545684,
+    53.138361524526736,
+    6.870992655322713,
+    53.15242015949775
+],
+  "geometry": {"coordinates":[[[[6.86462576749346,53.13971692836629],[6.86417302242372,53.14103406361743],[6.86364035238035,53.14276839701952],[6.86293373650058,53.14580799626559],[6.86272872254568,53.14847687582495],[6.86282905401228,53.14971473330768],[6.86310242444636,53.15078634674666],[6.86283651773158,53.15193861185131],[6.86391662340375,53.1520578354352],[6.86417813976352,53.15223359241659],[6.86476244151248,53.15240051491639],[6.86521908660725,53.15242015949775],[6.86575451090087,53.15233885155965],[6.86640657429919,53.15208197501461],[6.8666902713554,53.15168191871992],[6.86672696293091,53.15161406272765],[6.86845767231556,53.14635602453243],[6.86985577568545,53.14287589272886],[6.87060818274985,53.14049342378261],[6.87099265532271,53.13836152452674],[6.86831998533783,53.13948708739822],[6.8662378656935,53.13974647007806],[6.86480198482576,53.13971419275655],[6.86462576749346,53.13971692836629]]]],"type":"MultiPolygon"}
+}

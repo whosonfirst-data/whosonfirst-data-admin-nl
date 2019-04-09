@@ -1,0 +1,84 @@
+{
+  "id": 1158818405,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03610401",
+    "cbsnl:BU_NAAM":"De Hoef I en II",
+    "cbsnl:GM_CODE":"GM0361",
+    "cbsnl:GM_NAAM":"Alkmaar",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2376",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK036104",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:area_square_m":512521.047143,
+    "geom:bbox":"4.71694853444,52.6294832826,4.73293719009,52.6379167692",
+    "geom:latitude":52.633882,
+    "geom:longitude":4.725556,
+    "iso:country":"NL",
+    "lbl:latitude":52.633881,
+    "lbl:longitude":4.725556,
+    "mps:latitude":52.633881,
+    "mps:longitude":4.725556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Hoef I en II"
+    ],
+    "name:nld_x_preferred":[
+        "De Hoef I en II"
+    ],
+    "reversegeo:latitude":52.633881,
+    "reversegeo:longitude":4.725556,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85797325,
+        102191581,
+        1158823273,
+        404474025,
+        85633337,
+        101751887,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9a87984c88b8417fd6dfa7b8777ffd57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474025,
+            "locality_id":101751887,
+            "macrohood_id":1158823273,
+            "microhood_id":1158818405,
+            "neighbourhood_id":85797325,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818405,
+    "wof:lastmodified":1513464323,
+    "wof:name":"De Hoef I en II",
+    "wof:parent_id":85797325,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.716948534435717,
+    52.62948328259975,
+    4.732937190091711,
+    52.63791676922876
+],
+  "geometry": {"coordinates":[[[[4.73293719009171,52.63496728926324],[4.73051440441091,52.63230537469991],[4.72790229502675,52.62948328259975],[4.72540445900044,52.63037981930368],[4.7236924274945,52.63126990643521],[4.71694853443572,52.63376020895497],[4.71895464242792,52.63482301652206],[4.72055189602177,52.63538200637186],[4.72314218123717,52.63719486059714],[4.7238271000642,52.63791676922876],[4.7253356946839,52.6375063686874],[4.73068058547882,52.63582032663945],[4.73293719009171,52.63496728926324]]]],"type":"MultiPolygon"}
+}

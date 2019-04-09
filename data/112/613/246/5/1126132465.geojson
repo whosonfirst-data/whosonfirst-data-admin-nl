@@ -1,0 +1,79 @@
+{
+  "id": 1126132465,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19001603",
+    "cbsnl:BU_NAAM":"Tjerkwerd",
+    "cbsnl:GM_CODE":"GM1900",
+    "cbsnl:GM_NAAM":"S\u00fadwest-Frysl\u00e2n",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"42",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK190016",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":380233.714062,
+    "geom:bbox":"5.49376958247,53.0375685884,5.50637337537,53.0448170088",
+    "geom:latitude":53.041653,
+    "geom:longitude":5.500115,
+    "iso:country":"NL",
+    "lbl:latitude":53.041526,
+    "lbl:longitude":5.500211,
+    "mps:latitude":53.041526,
+    "mps:longitude":5.500211,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Tjerkwerd"
+    ],
+    "name:eng_x_preferred":[
+        "Tjerkwerd"
+    ],
+    "reversegeo:latitude":53.041526,
+    "reversegeo:longitude":5.500211,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        1141960735,
+        85633337,
+        1141960543,
+        85687055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"055895d14c2d55c4336c5f7ec1bc3a04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1141960735,
+            "locality_id":1141960543,
+            "neighbourhood_id":1126132465,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":1126132465,
+    "wof:lastmodified":1507246106,
+    "wof:name":"Tjerkwerd",
+    "wof:parent_id":1141960543,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.49376958247278,
+    53.03756858836512,
+    5.50637337537201,
+    53.04481700880227
+],
+  "geometry": {"coordinates":[[[[5.50043167243088,53.04481700880227],[5.50174222929348,53.04474443424408],[5.50291076026391,53.04461918775002],[5.50431556630377,53.04416514749032],[5.50554931893603,53.04378932751953],[5.50637337537201,53.04311792508997],[5.50048288215028,53.03756858836512],[5.49804257153927,53.03884072033905],[5.496437457884,53.03963577835884],[5.49376958247278,53.0405446555917],[5.49380768606208,53.04088272171534],[5.49468971086643,53.04183950831992],[5.49570708413855,53.04268440031683],[5.49700184161574,53.04347904295179],[5.49824412201075,53.04414286207351],[5.49948126950935,53.04460729636021],[5.50043167243088,53.04481700880227]]]],"type":"MultiPolygon"}
+}

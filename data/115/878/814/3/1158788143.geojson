@@ -1,0 +1,82 @@
+{
+  "id": 1158788143,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03270106",
+    "cbsnl:BU_NAAM":"De Wetering",
+    "cbsnl:GM_CODE":"GM0327",
+    "cbsnl:GM_NAAM":"Leusden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1167",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK032701",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":299701.296904,
+    "geom:bbox":"5.43599797848,52.1361026815,5.44739291052,52.1424782858",
+    "geom:latitude":52.138873,
+    "geom:longitude":5.441955,
+    "iso:country":"NL",
+    "lbl:latitude":52.138694,
+    "lbl:longitude":5.441394,
+    "mps:latitude":52.138694,
+    "mps:longitude":5.441394,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Wetering"
+    ],
+    "name:nld_x_preferred":[
+        "De Wetering"
+    ],
+    "reversegeo:latitude":52.138694,
+    "reversegeo:longitude":5.441394,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        1158790309,
+        404473989,
+        85633337,
+        101837659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"72a1a9d47d6d3c116ab7e02939055ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473989,
+            "locality_id":101837659,
+            "macrohood_id":1158790309,
+            "neighbourhood_id":1158788143,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788143,
+    "wof:lastmodified":1513621984,
+    "wof:name":"De Wetering",
+    "wof:parent_id":1158790309,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.435997978475378,
+    52.13610268146516,
+    5.447392910521358,
+    52.14247828584654
+],
+  "geometry": {"coordinates":[[[[5.43645280443657,52.14247828584654],[5.44048450545484,52.14229030808699],[5.44063784803119,52.14225260036339],[5.44065497935167,52.1418840866628],[5.44214238429917,52.1408596179124],[5.44390698833061,52.13979455107307],[5.44739291052136,52.13909625219268],[5.44687901246289,52.13610268146516],[5.44677246282852,52.13612520538143],[5.44139941450165,52.13653057860308],[5.4409261014621,52.13655326573247],[5.43821081221306,52.13668199079975],[5.43835782309174,52.13869691530319],[5.43845413621616,52.1386935028687],[5.43848746689785,52.14087924491518],[5.43802198082786,52.14140159135503],[5.43614699583952,52.14190851981594],[5.43599797847538,52.14193638878849],[5.43645280443657,52.14247828584654]]]],"type":"MultiPolygon"}
+}

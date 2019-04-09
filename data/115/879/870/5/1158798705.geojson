@@ -1,0 +1,81 @@
+{
+  "id": 1158798705,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08281109",
+    "cbsnl:BU_NAAM":"Verspreide huizen Ossekampen",
+    "cbsnl:GM_CODE":"GM0828",
+    "cbsnl:GM_NAAM":"Oss",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"-99999999",
+    "cbsnl:STED":"-99999999",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082811",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":405447.658073,
+    "geom:bbox":"5.5827516769,51.8094184504,5.59485334678,51.8172228101",
+    "geom:latitude":51.812765,
+    "geom:longitude":5.588773,
+    "iso:country":"NL",
+    "lbl:latitude":51.813174,
+    "lbl:longitude":5.588681,
+    "mps:latitude":51.813174,
+    "mps:longitude":5.588681,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen Ossekampen"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen Ossekampen"
+    ],
+    "reversegeo:latitude":51.813174,
+    "reversegeo:longitude":5.588681,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474415,
+        85633337,
+        1158801641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0b963948759accbddcafc06d8af1acea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":1158801641,
+            "neighbourhood_id":1158798705,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798705,
+    "wof:lastmodified":1513432693,
+    "wof:name":"Verspreide huizen Ossekampen",
+    "wof:parent_id":1158801641,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.582751676899687,
+    51.809418450430044,
+    5.594853346780607,
+    51.817222810120576
+],
+  "geometry": {"coordinates":[[[[5.58805400839523,51.81722281012058],[5.58840322680902,51.81702334317951],[5.58914955283942,51.81659258396361],[5.58981839774493,51.81616897552372],[5.59045419702066,51.81570637664595],[5.59113012028144,51.81520016860827],[5.59172141792133,51.81472415758427],[5.59228318224567,51.81423415193304],[5.5927270080477,51.81377187622736],[5.59300805730782,51.81344133996822],[5.59322881864441,51.81315781772553],[5.59333111815055,51.81298405058514],[5.59339634147711,51.81277832630355],[5.59419899441717,51.81264910753153],[5.59397991796912,51.81226130660984],[5.59372020564181,51.81185532191499],[5.59485334678061,51.8117181777988],[5.5939842227832,51.81092848856997],[5.59405470390336,51.81004385005102],[5.5933388203589,51.80941845043004],[5.59248111700204,51.81003425700868],[5.59176475468998,51.81014730134461],[5.58996850895824,51.80995043008068],[5.58862691719988,51.81003785235075],[5.58668643969352,51.81011448153916],[5.58446521326983,51.81049743944524],[5.58367073336555,51.81099116873477],[5.58275167689969,51.81186429951926],[5.58560991790626,51.81498352475231],[5.58805400839523,51.81722281012058]]]],"type":"MultiPolygon"}
+}

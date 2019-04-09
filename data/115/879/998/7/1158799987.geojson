@@ -1,0 +1,81 @@
+{
+  "id": 1158799987,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16741109",
+    "cbsnl:BU_NAAM":"Verspreide huizen Wouw in het Zuiden",
+    "cbsnl:GM_CODE":"GM1674",
+    "cbsnl:GM_NAAM":"Roosendaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"209",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK167411",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000214,
+    "geom:area_square_m":1643105.200529,
+    "geom:bbox":"4.37486811875,51.5075566876,4.40724007485,51.5164139364",
+    "geom:latitude":51.511491,
+    "geom:longitude":4.39128,
+    "iso:country":"NL",
+    "lbl:latitude":51.511013,
+    "lbl:longitude":4.391588,
+    "mps:latitude":51.511013,
+    "mps:longitude":4.391588,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen Wouw in het Zuiden"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen Wouw in het Zuiden"
+    ],
+    "reversegeo:latitude":51.511013,
+    "reversegeo:longitude":4.391588,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474587,
+        85633337,
+        101809643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"72c0da8e5d5e8d8b878b6c2e34017f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474587,
+            "locality_id":101809643,
+            "neighbourhood_id":1158799987,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799987,
+    "wof:lastmodified":1513432792,
+    "wof:name":"Verspreide huizen Wouw in het Zuiden",
+    "wof:parent_id":101809643,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.374868118754344,
+    51.507556687631855,
+    4.407240074851598,
+    51.51641393643924
+],
+  "geometry": {"coordinates":[[[[4.40704311774827,51.51564755839449],[4.40694282637943,51.50947293924316],[4.4072400748516,51.50878146772158],[4.40536659559309,51.50848437147477],[4.40339421509894,51.50836529725898],[4.40022931822928,51.50823611769596],[4.39517341707825,51.50808990676518],[4.38888324640232,51.50793383161644],[4.38169036682508,51.507692341899],[4.37493599149715,51.50755668763185],[4.37488648344237,51.50796886454234],[4.37486811875434,51.50879391682757],[4.37583579140601,51.51081858473987],[4.37614694801396,51.5110783704471],[4.37865539406374,51.51216707917196],[4.37896219211811,51.51262458307286],[4.37868281292681,51.5137889724106],[4.37866967688523,51.51438124856664],[4.37913099454459,51.51501807246343],[4.37974758524902,51.51573533882397],[4.37994578465933,51.51641393643924],[4.38133319905801,51.51635128183911],[4.38205406533856,51.51619927669608],[4.38332065856519,51.51619219074328],[4.38491233225344,51.5164054200865],[4.38559049781061,51.51635999864811],[4.38629996483924,51.51620157762083],[4.38694765172334,51.51583856801868],[4.38902626857149,51.51375646979677],[4.40704311774827,51.51564755839449]]]],"type":"MultiPolygon"}
+}

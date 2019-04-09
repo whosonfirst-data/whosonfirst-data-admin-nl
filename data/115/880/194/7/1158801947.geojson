@@ -1,0 +1,82 @@
+{
+  "id": 1158801947,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01411602",
+    "cbsnl:BU_NAAM":"Beeklust",
+    "cbsnl:GM_CODE":"GM0141",
+    "cbsnl:GM_NAAM":"Almelo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1808",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK014116",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":114428.888686,
+    "geom:bbox":"6.63998196783,52.3470577197,6.64796030057,52.3505619174",
+    "geom:latitude":52.348611,
+    "geom:longitude":6.644446,
+    "iso:country":"NL",
+    "lbl:latitude":52.348762,
+    "lbl:longitude":6.644053,
+    "mps:latitude":52.348762,
+    "mps:longitude":6.644053,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Beeklust"
+    ],
+    "name:nld_x_preferred":[
+        "Beeklust"
+    ],
+    "reversegeo:latitude":52.348762,
+    "reversegeo:longitude":6.644053,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805819,
+        404473819,
+        85633337,
+        101751863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4307196ca3c6ccaebadc8882455e4602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473819,
+            "locality_id":101751863,
+            "macrohood_id":1158805819,
+            "neighbourhood_id":1158801947,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158801947,
+    "wof:lastmodified":1513524227,
+    "wof:name":"Beeklust",
+    "wof:parent_id":1158805819,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.639981967827423,
+    52.347057719671156,
+    6.647960300567812,
+    52.350561917421004
+],
+  "geometry": {"coordinates":[[[[6.63998196782742,52.34818001864274],[6.64305861170884,52.34981112067831],[6.64417869049331,52.35016550785561],[6.64520250612723,52.350561917421],[6.64489101836876,52.34968716143359],[6.64796030056781,52.34952387337093],[6.64787857777282,52.3478424800264],[6.64785748860897,52.34740703996107],[6.64747347083229,52.34741113187103],[6.64739538019628,52.34767347526491],[6.64509079603413,52.34769800399017],[6.64503999711334,52.3474109103722],[6.64397226004461,52.34739613670886],[6.64383447574524,52.34705771967116],[6.63998196782742,52.34818001864274]]]],"type":"MultiPolygon"}
+}

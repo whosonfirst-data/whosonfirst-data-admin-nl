@@ -1,0 +1,80 @@
+{
+  "id": 1158791305,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16801902",
+    "cbsnl:BU_NAAM":"Nijlande",
+    "cbsnl:GM_CODE":"GM1680",
+    "cbsnl:GM_NAAM":"Aa en Hunze",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"12",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK168019",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":225251.222001,
+    "geom:bbox":"6.62088378923,52.9707188637,6.62900558911,52.9782317668",
+    "geom:latitude":52.974504,
+    "geom:longitude":6.625141,
+    "iso:country":"NL",
+    "lbl:latitude":52.974567,
+    "lbl:longitude":6.626218,
+    "mps:latitude":52.974567,
+    "mps:longitude":6.626218,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Nijlande"
+    ],
+    "name:nld_x_preferred":[
+        "Nijlande"
+    ],
+    "reversegeo:latitude":52.974567,
+    "reversegeo:longitude":6.626218,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474593,
+        85633337,
+        101807265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"65c071411484a53f18c922b7be33a37f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474593,
+            "locality_id":101807265,
+            "neighbourhood_id":1158791305,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791305,
+    "wof:lastmodified":1513292330,
+    "wof:name":"Nijlande",
+    "wof:parent_id":101807265,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.620883789232525,
+    52.970718863674136,
+    6.629005589114157,
+    52.97823176679883
+],
+  "geometry": {"coordinates":[[[[6.62316143903869,52.97071886367414],[6.623218512218,52.97078736324593],[6.62534904651427,52.97340809285363],[6.62416269175547,52.973572599851],[6.62470860503834,52.97429097445637],[6.6240633684043,52.97448189110971],[6.6241524167337,52.97484045553696],[6.62159019365694,52.97489672002623],[6.62102903839096,52.97584728880999],[6.62088378923252,52.97681322009239],[6.62105624490192,52.97738212320733],[6.62379323481571,52.97823176679883],[6.62523492726097,52.97599701506986],[6.62741064165363,52.97600871812433],[6.62832569618562,52.97593855504663],[6.62883806935971,52.97573832483235],[6.62887609344973,52.97492627593139],[6.62872914525987,52.97452899746234],[6.62900558911416,52.97409137121547],[6.62877562097112,52.97375224855763],[6.62797978810654,52.97346562417854],[6.62755090973118,52.97100197644302],[6.62316143903869,52.97071886367414]]]],"type":"MultiPolygon"}
+}

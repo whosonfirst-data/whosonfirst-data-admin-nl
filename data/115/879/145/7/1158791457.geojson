@@ -1,0 +1,80 @@
+{
+  "id": 1158791457,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16900600",
+    "cbsnl:BU_NAAM":"Veeningen",
+    "cbsnl:GM_CODE":"GM1690",
+    "cbsnl:GM_NAAM":"De Wolden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"59",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK169006",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":185173.446082,
+    "geom:bbox":"6.36521745603,52.666886465,6.37271122107,52.6721289563",
+    "geom:latitude":52.669739,
+    "geom:longitude":6.369773,
+    "iso:country":"NL",
+    "lbl:latitude":52.669819,
+    "lbl:longitude":6.370451,
+    "mps:latitude":52.669819,
+    "mps:longitude":6.370451,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Veeningen"
+    ],
+    "name:nld_x_preferred":[
+        "Veeningen"
+    ],
+    "reversegeo:latitude":52.669819,
+    "reversegeo:longitude":6.370451,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474601,
+        85633337,
+        1158792131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"fbdc4c9e83e2ec2e7499b73d6d22bde8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474601,
+            "locality_id":1158792131,
+            "neighbourhood_id":1158791457,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791457,
+    "wof:lastmodified":1513292341,
+    "wof:name":"Veeningen",
+    "wof:parent_id":1158792131,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.365217456032038,
+    52.66688646502397,
+    6.372711221068115,
+    52.67212895628869
+],
+  "geometry": {"coordinates":[[[[6.37271122106811,52.66697491797117],[6.37060561435868,52.66688646502397],[6.37043540289706,52.66720777387088],[6.36852911045782,52.66718027052172],[6.3684960742689,52.6698697838184],[6.36579337969993,52.66993503035991],[6.36523959268508,52.66996317888621],[6.36521745603204,52.67129351651343],[6.3679071588763,52.67143931757663],[6.36788875524033,52.67180515092528],[6.36837349303909,52.67199438432518],[6.36928716893634,52.67212895628869],[6.3722195372798,52.67188450739236],[6.37271122106811,52.66697491797117]]]],"type":"MultiPolygon"}
+}

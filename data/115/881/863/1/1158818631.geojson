@@ -1,0 +1,80 @@
+{
+  "id": 1158818631,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03730601",
+    "cbsnl:BU_NAAM":"Slotplan",
+    "cbsnl:GM_CODE":"GM0373",
+    "cbsnl:GM_NAAM":"Bergen (NH.)",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"570",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK037306",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":86209.837679,
+    "geom:bbox":"4.65496227437,52.6219057361,4.66147001465,52.6249264015",
+    "geom:latitude":52.623236,
+    "geom:longitude":4.658302,
+    "iso:country":"NL",
+    "lbl:latitude":52.623217,
+    "lbl:longitude":4.658302,
+    "mps:latitude":52.623217,
+    "mps:longitude":4.658302,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Slotplan"
+    ],
+    "name:nld_x_preferred":[
+        "Slotplan"
+    ],
+    "reversegeo:latitude":52.623217,
+    "reversegeo:longitude":4.658302,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474041,
+        85633337,
+        101807341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4b0d6e2af1bd6a3e32736e2df551696c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474041,
+            "locality_id":101807341,
+            "neighbourhood_id":1158818631,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818631,
+    "wof:lastmodified":1513464083,
+    "wof:name":"Slotplan",
+    "wof:parent_id":101807341,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.654962274368174,
+    52.62190573606475,
+    4.66147001465332,
+    52.62492640147216
+],
+  "geometry": {"coordinates":[[[[4.6578556585678,52.62190573606475],[4.65738179841677,52.62216458523012],[4.65586920768539,52.62200699667576],[4.65496227436817,52.62326133158592],[4.65960740703521,52.62492640147216],[4.66147001465332,52.62321136766251],[4.6610858340403,52.62286019985299],[4.66036288185923,52.6225530178902],[4.65949602519183,52.62228342945156],[4.65871150429277,52.62203793114899],[4.6578556585678,52.62190573606475]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1158787241,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09955332",
+    "cbsnl:BU_NAAM":"Fauna, Bosvalkweg, Zuiderpoort",
+    "cbsnl:GM_CODE":"GM0995",
+    "cbsnl:GM_NAAM":"Lelystad",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"896",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK099553",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000022,
+    "geom:area_square_m":168043.925808,
+    "geom:bbox":"5.47783269626,52.4876445167,5.48649354618,52.4931112592",
+    "geom:latitude":52.490431,
+    "geom:longitude":5.481984,
+    "iso:country":"NL",
+    "lbl:latitude":52.490853,
+    "lbl:longitude":5.48228,
+    "mps:latitude":52.490853,
+    "mps:longitude":5.48228,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Fauna",
+        "Bosvalkweg",
+        "Zuiderpoort"
+    ],
+    "name:nld_x_preferred":[
+        "Fauna",
+        "Bosvalkweg",
+        "Zuiderpoort"
+    ],
+    "reversegeo:latitude":52.490853,
+    "reversegeo:longitude":5.48228,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158787415,
+        85633337,
+        101751873,
+        85687049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"da5d9cfdcf7b05e8316fa8219a26f43b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751873,
+            "macrohood_id":1158787415,
+            "neighbourhood_id":1158787241,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158787241,
+    "wof:lastmodified":1513299302,
+    "wof:name":"Fauna, Bosvalkweg, Zuiderpoort",
+    "wof:parent_id":1158787415,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.477832696261914,
+    52.48764451668662,
+    5.486493546182772,
+    52.493111259199765
+],
+  "geometry": {"coordinates":[[[[5.48137741298843,52.49311125919976],[5.48282924765174,52.49278961377028],[5.48350043338828,52.49262424390412],[5.48359106727488,52.4926023073948],[5.48392303328553,52.49252196684422],[5.48427811019262,52.49241540632217],[5.48461541255365,52.49230452037821],[5.48495266126001,52.49216977899354],[5.48517981824109,52.49206115181257],[5.4856163138088,52.49182222262313],[5.4862337272672,52.49145518454895],[5.48649354618277,52.49129935273476],[5.48034323072932,52.48764451668662],[5.47783269626191,52.48826903728885],[5.47903261781576,52.48962555786205],[5.47961814701176,52.49035007493307],[5.48037122332506,52.49138901314539],[5.48084483248658,52.49216117670328],[5.48137741298843,52.49311125919976]]]],"type":"MultiPolygon"}
+}

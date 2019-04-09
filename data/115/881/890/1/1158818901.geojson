@@ -1,0 +1,80 @@
+{
+  "id": 1158818901,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03850207",
+    "cbsnl:BU_NAAM":"Volendam-Rozettenbuurt",
+    "cbsnl:GM_CODE":"GM0385",
+    "cbsnl:GM_NAAM":"Edam-Volendam",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"1903",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK038502",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":451417.361453,
+    "geom:bbox":"5.06199217105,52.498972517,5.07882704516,52.5079861046",
+    "geom:latitude":52.503666,
+    "geom:longitude":5.070273,
+    "iso:country":"NL",
+    "lbl:latitude":52.50532,
+    "lbl:longitude":5.071102,
+    "mps:latitude":52.50532,
+    "mps:longitude":5.071102,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Volendam-Rozettenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Volendam-Rozettenbuurt"
+    ],
+    "reversegeo:latitude":52.50532,
+    "reversegeo:longitude":5.071102,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474057,
+        85633337,
+        101837947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9f7040a253a35d43e846a08cc6bfde0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474057,
+            "locality_id":101837947,
+            "neighbourhood_id":1158818901,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818901,
+    "wof:lastmodified":1513464105,
+    "wof:name":"Volendam-Rozettenbuurt",
+    "wof:parent_id":101837947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.061992171045209,
+    52.498972516963995,
+    5.078827045160426,
+    52.50798610457959
+],
+  "geometry": {"coordinates":[[[[5.07139779090452,52.50766689267731],[5.07882704516043,52.50473183381211],[5.07612470144123,52.50250143196611],[5.07449953941709,52.50284136458833],[5.07115541013864,52.50292369898948],[5.07057099761715,52.50225870248573],[5.07013415021261,52.50188372791963],[5.06901477132447,52.50116450424816],[5.06766389213553,52.50045748652919],[5.06825303613745,52.50013377313321],[5.06624507004352,52.498972516964],[5.06606879484555,52.49915306968533],[5.06512997226471,52.49966058788897],[5.06407903953722,52.50031047031455],[5.06329930919887,52.50063649707621],[5.06262570030872,52.50080071305945],[5.06199217104521,52.50111286442232],[5.06247639921257,52.50153633508214],[5.06311096984086,52.50214491367361],[5.06416125104359,52.50175209347752],[5.06467503472664,52.50268372948444],[5.06570206737653,52.50377274835541],[5.06642590532992,52.50440560263809],[5.06809698085473,52.50539619289312],[5.06913639392237,52.50651755277363],[5.07054125879795,52.50798610457959],[5.07139779090452,52.50766689267731]]]],"type":"MultiPolygon"}
+}

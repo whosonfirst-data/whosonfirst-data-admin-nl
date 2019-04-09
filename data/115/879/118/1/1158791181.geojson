@@ -1,0 +1,80 @@
+{
+  "id": 1158791181,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01191201",
+    "cbsnl:BU_NAAM":"Griftebuurt",
+    "cbsnl:GM_CODE":"GM0119",
+    "cbsnl:GM_NAAM":"Meppel",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"378",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011912",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":326405.141639,
+    "geom:bbox":"6.16314328427,52.7276288811,6.17477340135,52.733762115",
+    "geom:latitude":52.730678,
+    "geom:longitude":6.168919,
+    "iso:country":"NL",
+    "lbl:latitude":52.730747,
+    "lbl:longitude":6.168919,
+    "mps:latitude":52.730747,
+    "mps:longitude":6.168919,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Griftebuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Griftebuurt"
+    ],
+    "reversegeo:latitude":52.730747,
+    "reversegeo:longitude":6.168919,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473813,
+        85633337,
+        101807283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"adfc3689f2282ac1ec58f052b97ba82e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473813,
+            "locality_id":101807283,
+            "neighbourhood_id":1158791181,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791181,
+    "wof:lastmodified":1513292323,
+    "wof:name":"Griftebuurt",
+    "wof:parent_id":101807283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.163143284268038,
+    52.72762888108688,
+    6.174773401354726,
+    52.73376211501906
+],
+  "geometry": {"coordinates":[[[[6.16314328426804,52.7318863223333],[6.16712419011138,52.73279849264266],[6.16872385657723,52.73325438725045],[6.17048907901448,52.73375914261415],[6.17050226495364,52.73376211501906],[6.17087451883666,52.73319691448344],[6.17094530596841,52.7329273285979],[6.17234906865156,52.73327486668261],[6.17477340135473,52.72940451516421],[6.16625590701719,52.72762888108688],[6.16570936293544,52.72845562721643],[6.16519672192678,52.72891690216528],[6.16474393147083,52.72920878851802],[6.16457205771799,52.72946107810328],[6.16383368430543,52.73054488553975],[6.16317772465149,52.73182727135224],[6.16314328426804,52.7318863223333]]]],"type":"MultiPolygon"}
+}

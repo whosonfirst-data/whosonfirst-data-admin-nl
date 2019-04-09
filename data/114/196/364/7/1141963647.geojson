@@ -1,0 +1,80 @@
+{
+  "id": 1141963647,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02620501",
+    "cbsnl:BU_NAAM":"Harfsen",
+    "cbsnl:GM_CODE":"GM0262",
+    "cbsnl:GM_NAAM":"Lochem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"148",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK026205",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":316980.233245,
+    "geom:bbox":"6.29083719473,52.2039448477,6.30166010591,52.2105151093",
+    "geom:latitude":52.207025,
+    "geom:longitude":6.296406,
+    "iso:country":"NL",
+    "lbl:latitude":52.207325,
+    "lbl:longitude":6.295989,
+    "mps:latitude":52.207325,
+    "mps:longitude":6.295989,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Harfsen"
+    ],
+    "name:nld_x_preferred":[
+        "Harfsen"
+    ],
+    "reversegeo:latitude":52.207325,
+    "reversegeo:longitude":6.295989,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473915,
+        85633337,
+        101807093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"fbb1eb6bedbd7242dfc3a5f57b3e0cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473915,
+            "locality_id":101807093,
+            "neighbourhood_id":1141963647,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963647,
+    "wof:lastmodified":1513368759,
+    "wof:name":"Harfsen",
+    "wof:parent_id":101807093,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.290837194727163,
+    52.20394484768388,
+    6.301660105912793,
+    52.21051510927966
+],
+  "geometry": {"coordinates":[[[[6.30136255141746,52.20824308081416],[6.30134989539282,52.20815580472363],[6.30089527208983,52.2073234089691],[6.30060150978069,52.20698876900892],[6.30166010591279,52.20681032560093],[6.30151747903368,52.20554521699855],[6.30045688231631,52.20587627370296],[6.29942333251346,52.20467873862849],[6.29881866922711,52.20472105036718],[6.2976682941489,52.20512906831765],[6.29683475015582,52.20421700018571],[6.29531322535847,52.20464021408964],[6.29456895568028,52.20394484768388],[6.29089045288656,52.20621481763371],[6.29083719472716,52.20626016707218],[6.29476731852515,52.20994584580064],[6.29511495985464,52.21051510927966],[6.30136255141746,52.20824308081416]]]],"type":"MultiPolygon"}
+}

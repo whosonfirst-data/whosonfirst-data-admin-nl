@@ -1,0 +1,80 @@
+{
+  "id": 1158825977,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05130301",
+    "cbsnl:BU_NAAM":"Windrooskwartier en Heesterbuurt",
+    "cbsnl:GM_CODE":"GM0513",
+    "cbsnl:GM_NAAM":"Gouda",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2212",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK051303",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":425393.657727,
+    "geom:bbox":"4.69112703661,52.0206231891,4.70525415676,52.0280642184",
+    "geom:latitude":52.023932,
+    "geom:longitude":4.697742,
+    "iso:country":"NL",
+    "lbl:latitude":52.02398,
+    "lbl:longitude":4.69726,
+    "mps:latitude":52.02398,
+    "mps:longitude":4.69726,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Windrooskwartier en Heesterbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Windrooskwartier en Heesterbuurt"
+    ],
+    "reversegeo:latitude":52.02398,
+    "reversegeo:longitude":4.69726,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829413,
+        85633337,
+        101751839,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"733aaa7cac804a0269cad6b740246470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751839,
+            "macrohood_id":1158829413,
+            "neighbourhood_id":1158825977,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825977,
+    "wof:lastmodified":1513588030,
+    "wof:name":"Windrooskwartier en Heesterbuurt",
+    "wof:parent_id":1158829413,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.691127036612051,
+    52.020623189067145,
+    4.705254156762726,
+    52.028064218429236
+],
+  "geometry": {"coordinates":[[[[4.69112703661205,52.02478151886741],[4.69453444755064,52.0262344201072],[4.69792050373854,52.02795759148904],[4.69802546742996,52.02788562998938],[4.69845922300776,52.02806421842924],[4.69943568879276,52.02714765025699],[4.69923920130439,52.02703734916255],[4.69895861598856,52.02687984003625],[4.70010574134287,52.02603846842841],[4.70043464855521,52.02619505031152],[4.70525415676273,52.02279882297576],[4.70173602679913,52.02181467021857],[4.69845958164861,52.02113405844123],[4.69688918559028,52.02093357739575],[4.69688867534104,52.02093223854209],[4.69605643636381,52.02095436780147],[4.69533279911997,52.02062394284061],[4.6938765790143,52.02062318906714],[4.69391544201992,52.02122957461778],[4.69337457331697,52.022287020245],[4.69306823436047,52.02315624655251],[4.69226705836842,52.02389390696865],[4.69112703661205,52.02478151886741]]]],"type":"MultiPolygon"}
+}

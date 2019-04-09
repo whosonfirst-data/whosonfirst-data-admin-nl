@@ -1,0 +1,80 @@
+{
+  "id": 1158797185,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07620300",
+    "cbsnl:BU_NAAM":"Neerkant",
+    "cbsnl:GM_CODE":"GM0762",
+    "cbsnl:GM_NAAM":"Deurne",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"204",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK076203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000125,
+    "geom:area_square_m":964943.053128,
+    "geom:bbox":"5.85860392123,51.3629585628,5.8711820173,51.3746805272",
+    "geom:latitude":51.36889,
+    "geom:longitude":5.864805,
+    "iso:country":"NL",
+    "lbl:latitude":51.368963,
+    "lbl:longitude":5.864721,
+    "mps:latitude":51.368963,
+    "mps:longitude":5.864721,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Neerkant"
+    ],
+    "name:nld_x_preferred":[
+        "Neerkant"
+    ],
+    "reversegeo:latitude":51.368963,
+    "reversegeo:longitude":5.864721,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474365,
+        85633337,
+        101809735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"2bbc8816eff5c7d038acdb23a9aeb7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474365,
+            "locality_id":101809735,
+            "neighbourhood_id":1158797185,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797185,
+    "wof:lastmodified":1513432575,
+    "wof:name":"Neerkant",
+    "wof:parent_id":101809735,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.858603921229714,
+    51.36295856278921,
+    5.871182017297897,
+    51.374680527171385
+],
+  "geometry": {"coordinates":[[[[5.86195600988034,51.36296169394954],[5.86133126764225,51.3632285662976],[5.85988723552439,51.36644879036299],[5.85888035306821,51.36836833854959],[5.85860392122971,51.37095374951183],[5.85865834858955,51.37468052717139],[5.86369538280952,51.37443531359379],[5.86971621921414,51.37432232871748],[5.86995943536056,51.37069067031558],[5.87060192028,51.36777196797428],[5.8711820172979,51.36437289746787],[5.87118186746429,51.36368159759616],[5.87085431824407,51.3633863259787],[5.86708885370843,51.36320498836222],[5.86628320742465,51.36305633751088],[5.86320517566901,51.36295856278921],[5.86195600988034,51.36296169394954]]]],"type":"MultiPolygon"}
+}

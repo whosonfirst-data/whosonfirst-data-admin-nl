@@ -1,0 +1,80 @@
+{
+  "id": 1158826983,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06060104",
+    "cbsnl:BU_NAAM":"Stationsbuurt",
+    "cbsnl:GM_CODE":"GM0606",
+    "cbsnl:GM_NAAM":"Schiedam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"4053",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060601",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":71511.70932,
+    "geom:bbox":"4.40663564138,51.9189098138,4.41223898858,51.9226055054",
+    "geom:latitude":51.920756,
+    "geom:longitude":4.40979,
+    "iso:country":"NL",
+    "lbl:latitude":51.920361,
+    "lbl:longitude":4.410681,
+    "mps:latitude":51.920361,
+    "mps:longitude":4.410681,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Stationsbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Stationsbuurt"
+    ],
+    "reversegeo:latitude":51.920361,
+    "reversegeo:longitude":4.410681,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829591,
+        85633337,
+        101751845,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"bf20d1f45db7447d252fa6ff3b931d47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "macrohood_id":1158829591,
+            "neighbourhood_id":1158826983,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826983,
+    "wof:lastmodified":1513588112,
+    "wof:name":"Stationsbuurt",
+    "wof:parent_id":1158829591,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.406635641378786,
+    51.918909813846085,
+    4.412238988577453,
+    51.92260550537123
+],
+  "geometry": {"coordinates":[[[[4.40683138654934,51.92176710069896],[4.40696084178546,51.92198672205428],[4.4073265768728,51.92260550537123],[4.40742110938582,51.92255685491464],[4.4074567875599,51.92250939813478],[4.40769886883437,51.92248613576189],[4.40787411636317,51.92218394099041],[4.4087696430766,51.92201780355465],[4.40909253348841,51.92183537699201],[4.4120097882925,51.92109837782443],[4.41223898857745,51.91915054814343],[4.41193394466912,51.91890981384608],[4.41022661708305,51.91942513365478],[4.40903609053632,51.92026467490186],[4.40682100606172,51.92137881071675],[4.40663564137879,51.92154074747433],[4.40683138654934,51.92176710069896]]]],"type":"MultiPolygon"}
+}

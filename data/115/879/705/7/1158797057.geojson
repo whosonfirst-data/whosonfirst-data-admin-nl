@@ -1,0 +1,82 @@
+{
+  "id": 1158797057,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07580107",
+    "cbsnl:BU_NAAM":"Waterdonken",
+    "cbsnl:GM_CODE":"GM0758",
+    "cbsnl:GM_NAAM":"Breda",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1585",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK075801",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":204678.61993,
+    "geom:bbox":"4.80099205965,51.6060447415,4.80703172371,51.6122184802",
+    "geom:latitude":51.609019,
+    "geom:longitude":4.804387,
+    "iso:country":"NL",
+    "lbl:latitude":51.609004,
+    "lbl:longitude":4.804445,
+    "mps:latitude":51.609004,
+    "mps:longitude":4.804445,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Waterdonken"
+    ],
+    "name:nld_x_preferred":[
+        "Waterdonken"
+    ],
+    "reversegeo:latitude":51.609004,
+    "reversegeo:longitude":4.804445,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801671,
+        404474363,
+        85633337,
+        101751811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c6c3fd2e7dd97d117abce4ceb065000a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474363,
+            "locality_id":101751811,
+            "macrohood_id":1158801671,
+            "neighbourhood_id":1158797057,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797057,
+    "wof:lastmodified":1513432566,
+    "wof:name":"Waterdonken",
+    "wof:parent_id":1158801671,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.800992059646306,
+    51.606044741475856,
+    4.807031723705402,
+    51.61221848018571
+],
+  "geometry": {"coordinates":[[[[4.80323041841693,51.61221848018571],[4.8070317237054,51.61150134752169],[4.80658642648026,51.60604474147586],[4.80164839971671,51.60677882625679],[4.8016537361815,51.60739646179916],[4.80099205964631,51.60744567841006],[4.80127259809591,51.60804446789809],[4.80156047739071,51.60865889810206],[4.80196544180033,51.60952319891782],[4.80212761923339,51.60986934002769],[4.80215095636987,51.60991915551907],[4.80266916310922,51.6110250804634],[4.80323041841693,51.61221848018571]]]],"type":"MultiPolygon"}
+}

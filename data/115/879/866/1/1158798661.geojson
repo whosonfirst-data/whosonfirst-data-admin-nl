@@ -1,0 +1,82 @@
+{
+  "id": 1158798661,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08280707",
+    "cbsnl:BU_NAAM":"Westerveld",
+    "cbsnl:GM_CODE":"GM0828",
+    "cbsnl:GM_NAAM":"Oss",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1996",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082807",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":242288.659514,
+    "geom:bbox":"5.49450955623,51.7704903667,5.507797982,51.7754033909",
+    "geom:latitude":51.772659,
+    "geom:longitude":5.503612,
+    "iso:country":"NL",
+    "lbl:latitude":51.772652,
+    "lbl:longitude":5.504269,
+    "mps:latitude":51.772652,
+    "mps:longitude":5.504269,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Westerveld"
+    ],
+    "name:nld_x_preferred":[
+        "Westerveld"
+    ],
+    "reversegeo:latitude":51.772652,
+    "reversegeo:longitude":5.504269,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801739,
+        404474415,
+        85633337,
+        101751807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ffcb6a49fb3691a20f3a898890bd606d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":101751807,
+            "macrohood_id":1158801739,
+            "neighbourhood_id":1158798661,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798661,
+    "wof:lastmodified":1513432690,
+    "wof:name":"Westerveld",
+    "wof:parent_id":1158801739,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.494509556231084,
+    51.77049036666997,
+    5.507797982002555,
+    51.77540339093902
+],
+  "geometry": {"coordinates":[[[[5.50751522596815,51.77540339093902],[5.507584459279,51.7742002753584],[5.50779798200255,51.77049036666997],[5.50409411835651,51.77059861324749],[5.49826475515256,51.77206153591488],[5.49483892676574,51.77224899818508],[5.49450955623108,51.77244507903058],[5.49733734017232,51.77292249043781],[5.49733454041766,51.77295686127265],[5.49813343437306,51.77307366864882],[5.49817417776896,51.77297029337358],[5.50230487905245,51.77326489021987],[5.50207997333333,51.77375610357981],[5.50166739263244,51.77445096403839],[5.50177712024657,51.77441253195094],[5.50197682012118,51.77443485405586],[5.50224920233639,51.77449088287343],[5.50244881640666,51.77447942746236],[5.50290260636009,51.77450149818156],[5.50304777290152,51.7744900955377],[5.50362884027783,51.7746021098305],[5.50455486782334,51.77475881194978],[5.50535388322192,51.77492689354774],[5.50588046834516,51.7750196499131],[5.5058305490753,51.77512618836246],[5.50751522596815,51.77540339093902]]]],"type":"MultiPolygon"}
+}

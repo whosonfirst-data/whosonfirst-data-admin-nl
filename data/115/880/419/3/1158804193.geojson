@@ -1,0 +1,80 @@
+{
+  "id": 1158804193,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18960100",
+    "cbsnl:BU_NAAM":"Kamperzeedijk-Oost",
+    "cbsnl:GM_CODE":"GM1896",
+    "cbsnl:GM_NAAM":"Zwartewaterland",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"45",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK189601",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":504255.077248,
+    "geom:bbox":"5.99893374359,52.5951364271,6.02261139134,52.6018553487",
+    "geom:latitude":52.59863,
+    "geom:longitude":6.01063,
+    "iso:country":"NL",
+    "lbl:latitude":52.597918,
+    "lbl:longitude":6.007491,
+    "mps:latitude":52.597918,
+    "mps:longitude":6.007491,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kamperzeedijk-Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Kamperzeedijk-Oost"
+    ],
+    "reversegeo:latitude":52.597918,
+    "reversegeo:longitude":6.007491,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474683,
+        85633337,
+        101807193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"101604ac51aac4415edd2bab57465e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474683,
+            "locality_id":101807193,
+            "neighbourhood_id":1158804193,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158804193,
+    "wof:lastmodified":1513524391,
+    "wof:name":"Kamperzeedijk-Oost",
+    "wof:parent_id":101807193,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.998933743590929,
+    52.59513642706753,
+    6.022611391343947,
+    52.60185534871358
+],
+  "geometry": {"coordinates":[[[[5.99894995049945,52.59788912417474],[5.99896808011103,52.5991940867637],[6.00540098888567,52.59933509669523],[6.01408658606026,52.59952493151924],[6.01440425020086,52.59982080076168],[6.01465373192322,52.60015047796404],[6.01490322099201,52.60048015459181],[6.01524662515461,52.60069657918282],[6.01581128793657,52.6009372909792],[6.01896496248563,52.60185534871358],[6.02137758392187,52.60177991925778],[6.02261139134395,52.6017413262113],[6.02214102215015,52.60017615777736],[6.02101092123997,52.59927346822547],[6.02010689511722,52.59881010351716],[6.01956034112993,52.59836196294474],[6.01833877987711,52.59768907217677],[6.01739155180171,52.5975062107718],[6.013474256396,52.59739961898214],[6.01022231193171,52.59710027635869],[6.00652655311105,52.59622846382292],[6.00596756011537,52.59690242732141],[6.00319633594973,52.59671539812832],[6.00183973419519,52.59662381943065],[6.00181349954845,52.5955456872117],[6.00053123643418,52.59513642706753],[5.99893374359093,52.59672248147874],[5.99893616874561,52.59689705903822],[5.99894995049945,52.59788912417474]]]],"type":"MultiPolygon"}
+}

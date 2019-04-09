@@ -1,0 +1,82 @@
+{
+  "id": 1141962157,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02020338",
+    "cbsnl:BU_NAAM":"Bij de John Frostbrug",
+    "cbsnl:GM_CODE":"GM0202",
+    "cbsnl:GM_NAAM":"Arnhem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3247",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK020203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":70746.042921,
+    "geom:bbox":"5.91323628237,51.9751824082,5.91804717149,51.9783776406",
+    "geom:latitude":51.976793,
+    "geom:longitude":5.916013,
+    "iso:country":"NL",
+    "lbl:latitude":51.976707,
+    "lbl:longitude":5.916207,
+    "mps:latitude":51.976707,
+    "mps:longitude":5.916207,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bij de John Frostbrug"
+    ],
+    "name:nld_x_preferred":[
+        "Bij de John Frostbrug"
+    ],
+    "reversegeo:latitude":51.976707,
+    "reversegeo:longitude":5.916207,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158783961,
+        404473871,
+        85633337,
+        101751857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6003ad2d5a3a72f8012ec7296ea00f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473871,
+            "locality_id":101751857,
+            "macrohood_id":1158783961,
+            "neighbourhood_id":1141962157,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962157,
+    "wof:lastmodified":1513368653,
+    "wof:name":"Bij de John Frostbrug",
+    "wof:parent_id":1158783961,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.913236282365321,
+    51.975182408192836,
+    5.918047171491156,
+    51.9783776406028
+],
+  "geometry": {"coordinates":[[[[5.9180385789884,51.97773211084758],[5.91804717149116,51.97690006585084],[5.91802337668256,51.97636536666655],[5.91799059911297,51.97605541666282],[5.91760418982307,51.97562571958396],[5.91724673633295,51.97518240819284],[5.91323628236532,51.97648125650937],[5.91409633261677,51.97733759055237],[5.91466278979249,51.97797951535441],[5.91503550798459,51.97798862907057],[5.91528753602531,51.97813131102177],[5.91547674347278,51.9783776406028],[5.91590430474569,51.97834695626199],[5.91613725002237,51.97835220066062],[5.91613966626044,51.97790765686729],[5.91695058904986,51.97775333106592],[5.9180385789884,51.97773211084758]]]],"type":"MultiPolygon"}
+}

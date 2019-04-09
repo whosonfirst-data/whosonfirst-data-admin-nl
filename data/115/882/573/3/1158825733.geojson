@@ -1,0 +1,80 @@
+{
+  "id": 1158825733,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050705",
+    "cbsnl:BU_NAAM":"Zeehavenlaan en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2612",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050507",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":138173.652804,
+    "geom:bbox":"4.6489434959,51.7941516196,4.65672051646,51.7975799907",
+    "geom:latitude":51.795621,
+    "geom:longitude":4.652515,
+    "iso:country":"NL",
+    "lbl:latitude":51.79584,
+    "lbl:longitude":4.65283,
+    "mps:latitude":51.79584,
+    "mps:longitude":4.65283,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zeehavenlaan en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Zeehavenlaan en omgeving"
+    ],
+    "reversegeo:latitude":51.79584,
+    "reversegeo:longitude":4.65283,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829537,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8ba6ffeecff7716d10e06fa373af22cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829537,
+            "neighbourhood_id":1158825733,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825733,
+    "wof:lastmodified":1513588013,
+    "wof:name":"Zeehavenlaan en omgeving",
+    "wof:parent_id":1158829537,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.648943495899828,
+    51.794151619555,
+    4.656720516458319,
+    51.79757999070651
+],
+  "geometry": {"coordinates":[[[[4.64925078823916,51.79719892347416],[4.64956411222984,51.7970543686608],[4.65000201517132,51.79688619184164],[4.65054211683099,51.79680411974559],[4.65120534730215,51.79679606652145],[4.6516595749676,51.79689659546648],[4.65254534982297,51.79721959092252],[4.65334765443558,51.79757869486355],[4.65355485466008,51.79757999070651],[4.65368016154281,51.7975197229911],[4.65582505023346,51.79559178706602],[4.65672051645832,51.79493342418065],[4.65599138901519,51.794151619555],[4.65576541032179,51.79422409832684],[4.65330909330026,51.79427219169342],[4.65240244816398,51.79438914027051],[4.64894349589983,51.79445056157157],[4.64897163493345,51.79538493540213],[4.64925078823916,51.79719892347416]]]],"type":"MultiPolygon"}
+}

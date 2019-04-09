@@ -1,0 +1,82 @@
+{
+  "id": 1158806783,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09831509",
+    "cbsnl:BU_NAAM":"Stalberg-oost",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"384",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098315",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":398660.06392,
+    "geom:bbox":"6.19708617041,51.3584515952,6.20667989134,51.3675521937",
+    "geom:latitude":51.362684,
+    "geom:longitude":6.202048,
+    "iso:country":"NL",
+    "lbl:latitude":51.362713,
+    "lbl:longitude":6.201957,
+    "mps:latitude":51.362713,
+    "mps:longitude":6.201957,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Stalberg-oost"
+    ],
+    "name:nld_x_preferred":[
+        "Stalberg-oost"
+    ],
+    "reversegeo:latitude":51.362713,
+    "reversegeo:longitude":6.201957,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        1158818267,
+        404474525,
+        85633337,
+        101839287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7baf0931132fbcfac52e73d90bda1ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818267,
+            "neighbourhood_id":1158806783,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806783,
+    "wof:lastmodified":1513404055,
+    "wof:name":"Stalberg-oost",
+    "wof:parent_id":1158818267,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.197086170412813,
+    51.35845159518772,
+    6.206679891343505,
+    51.36755219371939
+],
+  "geometry": {"coordinates":[[[[6.2055842280278,51.36452964108875],[6.20667989134351,51.35845159518772],[6.19708617041281,51.36080012603217],[6.19893662227996,51.36500907023525],[6.19935919029227,51.36589100648366],[6.19866586607671,51.3657035235577],[6.19842190992489,51.36607642167584],[6.19961707537088,51.36755219371939],[6.2055842280278,51.36452964108875]]]],"type":"MultiPolygon"}
+}

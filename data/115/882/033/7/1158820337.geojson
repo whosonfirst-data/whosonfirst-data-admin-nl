@@ -1,0 +1,80 @@
+{
+  "id": 1158820337,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04390504",
+    "cbsnl:BU_NAAM":"De Graeffweg en omgeving",
+    "cbsnl:GM_CODE":"GM0439",
+    "cbsnl:GM_NAAM":"Purmerend",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1780",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK043905",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":771131.08474,
+    "geom:bbox":"4.98070508681,52.5048217425,4.99952559166,52.5152281742",
+    "geom:latitude":52.5102,
+    "geom:longitude":4.990025,
+    "iso:country":"NL",
+    "lbl:latitude":52.51007,
+    "lbl:longitude":4.990025,
+    "mps:latitude":52.51007,
+    "mps:longitude":4.990025,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Graeffweg en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "De Graeffweg en omgeving"
+    ],
+    "reversegeo:latitude":52.51007,
+    "reversegeo:longitude":4.990025,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823231,
+        85633337,
+        101751889,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"41af41bd6bcf33faf98855fcc70406ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751889,
+            "macrohood_id":1158823231,
+            "neighbourhood_id":1158820337,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158820337,
+    "wof:lastmodified":1513464220,
+    "wof:name":"De Graeffweg en omgeving",
+    "wof:parent_id":1158823231,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.980705086808144,
+    52.504821742543875,
+    4.99952559166131,
+    52.5152281741987
+],
+  "geometry": {"coordinates":[[[[4.99952559166131,52.51054320424767],[4.99359565497543,52.50482174254388],[4.98642126840492,52.5074723247084],[4.9869469929159,52.50795913833235],[4.98070508680814,52.51012845683466],[4.9807210404318,52.51014819884018],[4.98192829482504,52.51174623888858],[4.98280348521681,52.51280326219281],[4.98313657702013,52.51324143768938],[4.98372320173414,52.51360334760972],[4.98447721416654,52.51409436417455],[4.98535812461888,52.51453439084872],[4.98664929645838,52.5152281741987],[4.99952559166131,52.51054320424767]]]],"type":"MultiPolygon"}
+}

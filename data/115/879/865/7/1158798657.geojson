@@ -1,0 +1,82 @@
+{
+  "id": 1158798657,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08280705",
+    "cbsnl:BU_NAAM":"Loovelt",
+    "cbsnl:GM_CODE":"GM0828",
+    "cbsnl:GM_NAAM":"Oss",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2130",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082807",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":378149.779115,
+    "geom:bbox":"5.49446894282,51.7652036159,5.51009522289,51.7699444644",
+    "geom:latitude":51.76743,
+    "geom:longitude":5.501537,
+    "iso:country":"NL",
+    "lbl:latitude":51.767291,
+    "lbl:longitude":5.500904,
+    "mps:latitude":51.767291,
+    "mps:longitude":5.500904,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Loovelt"
+    ],
+    "name:nld_x_preferred":[
+        "Loovelt"
+    ],
+    "reversegeo:latitude":51.767291,
+    "reversegeo:longitude":5.500904,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801739,
+        404474415,
+        85633337,
+        101751807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1fc4d79f67607d5bcb6ef6b45db69995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":101751807,
+            "macrohood_id":1158801739,
+            "neighbourhood_id":1158798657,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798657,
+    "wof:lastmodified":1513432690,
+    "wof:name":"Loovelt",
+    "wof:parent_id":1158801739,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.494468942818587,
+    51.76520361592007,
+    5.510095222888982,
+    51.76994446440342
+],
+  "geometry": {"coordinates":[[[[5.50809454483259,51.76939880820776],[5.50835052381797,51.76845616496124],[5.51009522288898,51.76667407520451],[5.50690976321405,51.76608441932181],[5.50423946590694,51.76581016417363],[5.50348466090628,51.76566148364225],[5.50293441629988,51.76575331703467],[5.50264588086174,51.76542355747502],[5.50155953116695,51.76529204430681],[5.50146293409691,51.76567049584754],[5.49680897289919,51.76520361592007],[5.49552703157912,51.76561659041768],[5.49446894281859,51.76793685913526],[5.49504887918386,51.76822086781128],[5.4948436819903,51.76855278517597],[5.49558550772015,51.76913129127325],[5.49567324515145,51.76956265437763],[5.49588672501068,51.76994446440342],[5.49704275895892,51.76955688328994],[5.49934768986214,51.76939431260035],[5.50042756485839,51.76898429992386],[5.50320164410548,51.76888467625859],[5.50809454483259,51.76939880820776]]]],"type":"MultiPolygon"}
+}

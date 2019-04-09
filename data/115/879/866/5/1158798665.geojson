@@ -1,0 +1,82 @@
+{
+  "id": 1158798665,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08280708",
+    "cbsnl:BU_NAAM":"Klein Mikkeldonk",
+    "cbsnl:GM_CODE":"GM0828",
+    "cbsnl:GM_NAAM":"Oss",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1164",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082807",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":349488.923016,
+    "geom:bbox":"5.49277871012,51.772434716,5.50230487905,51.779858349",
+    "geom:latitude":51.775736,
+    "geom:longitude":5.497478,
+    "iso:country":"NL",
+    "lbl:latitude":51.775914,
+    "lbl:longitude":5.498046,
+    "mps:latitude":51.775914,
+    "mps:longitude":5.498046,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Klein Mikkeldonk"
+    ],
+    "name:nld_x_preferred":[
+        "Klein Mikkeldonk"
+    ],
+    "reversegeo:latitude":51.775914,
+    "reversegeo:longitude":5.498046,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801739,
+        404474415,
+        85633337,
+        101751807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7a717115fcc48acde64e59500189c16a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":101751807,
+            "macrohood_id":1158801739,
+            "neighbourhood_id":1158798665,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798665,
+    "wof:lastmodified":1513432690,
+    "wof:name":"Klein Mikkeldonk",
+    "wof:parent_id":1158801739,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.492778710118632,
+    51.77243471604729,
+    5.502304879052449,
+    51.779858349026654
+],
+  "geometry": {"coordinates":[[[[5.50166739263244,51.77445096403839],[5.50207997333333,51.77375610357981],[5.50230487905245,51.77326489021987],[5.49817417776896,51.77297029337358],[5.49813343437306,51.77307366864882],[5.49733454041766,51.77295686127265],[5.49733734017232,51.77292249043781],[5.49450955623108,51.77244507903058],[5.49293186990673,51.77243471604729],[5.49296771232821,51.77410540622263],[5.49520410166424,51.77518534550241],[5.49524810657479,51.77588050339772],[5.49277871011863,51.77779111038086],[5.49804963120705,51.77985834902665],[5.50049765755979,51.77750609615034],[5.50103101130604,51.77748142362184],[5.50203625575786,51.7746356077451],[5.5016379116403,51.77450060855858],[5.50166739263244,51.77445096403839]]]],"type":"MultiPolygon"}
+}

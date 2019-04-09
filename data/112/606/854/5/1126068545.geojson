@@ -1,0 +1,83 @@
+{
+  "id": 1126068545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-23",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.92798,50.91283,5.92798,50.91283",
+    "geom:latitude":50.91283,
+    "geom:longitude":5.92798,
+    "gn:gn_country":"NL",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":4691,
+    "gn:population":4691,
+    "iso:country":"NL",
+    "lbl:latitude":50.91283,
+    "lbl:longitude":5.92798,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NL",
+    "qs_pg:gn_country":"NL",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2750157,
+    "qs_pg:gn_pop":4691,
+    "qs_pg:name":"Nieuw-Lotbroek",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":92438,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1158818199,
+        404474485,
+        85633337,
+        101839229,
+        85687033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2750157,
+        "qs_pg:id":92438
+    },
+    "wof:country":"NL",
+    "wof:created":1497309367,
+    "wof:geomhash":"42e378de257f2fd13d469ccfe8e03c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474485,
+            "locality_id":101839229,
+            "macrohood_id":1158818199,
+            "neighbourhood_id":1126068545,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1126068545,
+    "wof:lastmodified":1524506038,
+    "wof:name":"Nieuw-Lotbroek",
+    "wof:parent_id":1158818199,
+    "wof:placetype":"neighbourhood",
+    "wof:population":4691,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.92798,
+    50.91283,
+    5.92798,
+    50.91283
+],
+  "geometry": {"coordinates":[5.92798,50.91283],"type":"Point"}
+}

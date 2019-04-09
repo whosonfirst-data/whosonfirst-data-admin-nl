@@ -1,0 +1,82 @@
+{
+  "id": 1158824937,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04840808",
+    "cbsnl:BU_NAAM":"Vroonhoevebuurt",
+    "cbsnl:GM_CODE":"GM0484",
+    "cbsnl:GM_NAAM":"Alphen aan den Rijn",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"1298",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK048408",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":90316.586716,
+    "geom:bbox":"4.63925930153,52.1154528875,4.6456529192,52.1194994646",
+    "geom:latitude":52.117488,
+    "geom:longitude":4.642298,
+    "iso:country":"NL",
+    "lbl:latitude":52.117477,
+    "lbl:longitude":4.642299,
+    "mps:latitude":52.117477,
+    "mps:longitude":4.642299,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vroonhoevebuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Vroonhoevebuurt"
+    ],
+    "reversegeo:latitude":52.117477,
+    "reversegeo:longitude":4.642299,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831219,
+        404474147,
+        85633337,
+        101751837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"29493b8ddc37be9df11433c790318e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474147,
+            "locality_id":101751837,
+            "macrohood_id":1158831219,
+            "neighbourhood_id":1158824937,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158824937,
+    "wof:lastmodified":1513587955,
+    "wof:name":"Vroonhoevebuurt",
+    "wof:parent_id":1158831219,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.639259301527253,
+    52.11545288745707,
+    4.645652919204378,
+    52.119499464564335
+],
+  "geometry": {"coordinates":[[[[4.64308724353381,52.11949946456433],[4.64437177411891,52.11898140198969],[4.64565291920438,52.1184601843097],[4.64565282293961,52.11846018535012],[4.64142807691742,52.11545288745707],[4.64086882195318,52.11568087699003],[4.64037215154173,52.11590337489554],[4.63991886317248,52.11611604643737],[4.63943525235823,52.11636891213266],[4.63940641142867,52.11639714139339],[4.63933343564384,52.11650376154371],[4.63932075051849,52.11653361562881],[4.6392952138735,52.11666550468125],[4.63925930152725,52.11692202655244],[4.63963093478261,52.11704691720414],[4.64200365370602,52.1187021997449],[4.64227548329089,52.11886127755456],[4.64250240602903,52.11905740135891],[4.64308724353381,52.11949946456433]]]],"type":"MultiPolygon"}
+}

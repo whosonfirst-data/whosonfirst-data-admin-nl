@@ -1,0 +1,82 @@
+{
+  "id": 1158788125,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03270008",
+    "cbsnl:BU_NAAM":"Wildenburg",
+    "cbsnl:GM_CODE":"GM0327",
+    "cbsnl:GM_NAAM":"Leusden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1140",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK032700",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":257354.512046,
+    "geom:bbox":"5.4120831764,52.1217297589,5.4248187615,52.1263906665",
+    "geom:latitude":52.124242,
+    "geom:longitude":5.419223,
+    "iso:country":"NL",
+    "lbl:latitude":52.123977,
+    "lbl:longitude":5.419657,
+    "mps:latitude":52.123977,
+    "mps:longitude":5.419657,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Wildenburg"
+    ],
+    "name:nld_x_preferred":[
+        "Wildenburg"
+    ],
+    "reversegeo:latitude":52.123977,
+    "reversegeo:longitude":5.419657,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        1158790307,
+        404473989,
+        85633337,
+        101837659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e65caf194cb7bf0e2ecb6bf3b5ad9d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473989,
+            "locality_id":101837659,
+            "macrohood_id":1158790307,
+            "neighbourhood_id":1158788125,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788125,
+    "wof:lastmodified":1513621983,
+    "wof:name":"Wildenburg",
+    "wof:parent_id":1158790307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.412083176399591,
+    52.12172975889444,
+    5.42481876149866,
+    52.12639066650776
+],
+  "geometry": {"coordinates":[[[[5.41391988991196,52.12639066650776],[5.41420461108109,52.12632403463626],[5.42481876149866,52.12518413280338],[5.42429585381355,52.12333193318842],[5.42361554124232,52.12172975889444],[5.41866304933398,52.12233872084075],[5.41780518744856,52.12332566080106],[5.41208317639959,52.12451455131995],[5.41378533869894,52.12612639511669],[5.41391988991196,52.12639066650776]]]],"type":"MultiPolygon"}
+}

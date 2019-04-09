@@ -1,0 +1,82 @@
+{
+  "id": 1158798567,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08280102",
+    "cbsnl:BU_NAAM":"Verzetsheldenbuurt II",
+    "cbsnl:GM_CODE":"GM0828",
+    "cbsnl:GM_NAAM":"Oss",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1513",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082801",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":270644.572588,
+    "geom:bbox":"5.5369727999,51.7696176189,5.5455826171,51.7745820852",
+    "geom:latitude":51.772174,
+    "geom:longitude":5.54123,
+    "iso:country":"NL",
+    "lbl:latitude":51.772126,
+    "lbl:longitude":5.54123,
+    "mps:latitude":51.772126,
+    "mps:longitude":5.54123,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verzetsheldenbuurt II"
+    ],
+    "name:nld_x_preferred":[
+        "Verzetsheldenbuurt II"
+    ],
+    "reversegeo:latitude":51.772126,
+    "reversegeo:longitude":5.54123,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801753,
+        404474415,
+        85633337,
+        101751807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6c77b18373fba50093bde3898d527a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":101751807,
+            "macrohood_id":1158801753,
+            "neighbourhood_id":1158798567,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798567,
+    "wof:lastmodified":1513432684,
+    "wof:name":"Verzetsheldenbuurt II",
+    "wof:parent_id":1158801753,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.536972799895721,
+    51.76961761891531,
+    5.545582617104059,
+    51.77458208520386
+],
+  "geometry": {"coordinates":[[[[5.54529301793373,51.77447734573713],[5.54543709125416,51.7733412386897],[5.54558261710406,51.77011455510374],[5.54409475547193,51.77021374765567],[5.54353651757466,51.77024114117185],[5.54233414246777,51.7702960323846],[5.54162544260032,51.77028364424109],[5.54110983083035,51.77021770789828],[5.54022889053195,51.77007230971174],[5.53924053760432,51.76991372138902],[5.53803736183702,51.76972875449255],[5.53727398824691,51.76961761891531],[5.5371248209378,51.77027813038448],[5.53697279989572,51.77419222221831],[5.5394178368337,51.77426097777064],[5.54213488041563,51.77389900196094],[5.54186348814173,51.77437462366698],[5.54257163216877,51.7745031776854],[5.54363545055949,51.77424081490638],[5.5438523872012,51.77458208520386],[5.54529301793373,51.77447734573713]]]],"type":"MultiPolygon"}
+}

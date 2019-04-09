@@ -1,0 +1,80 @@
+{
+  "id": 1158826809,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05850506",
+    "cbsnl:BU_NAAM":"Schuilingen",
+    "cbsnl:GM_CODE":"GM0585",
+    "cbsnl:GM_NAAM":"Binnenmaas",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"823",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK058505",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000086,
+    "geom:area_square_m":657823.89126,
+    "geom:bbox":"4.5973196328,51.7814736008,4.61041220246,51.7913094641",
+    "geom:latitude":51.785899,
+    "geom:longitude":4.603389,
+    "iso:country":"NL",
+    "lbl:latitude":51.785671,
+    "lbl:longitude":4.603264,
+    "mps:latitude":51.785671,
+    "mps:longitude":4.603264,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schuilingen"
+    ],
+    "name:nld_x_preferred":[
+        "Schuilingen"
+    ],
+    "reversegeo:latitude":51.785671,
+    "reversegeo:longitude":4.603264,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474233,
+        85633337,
+        101754655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"566451be08a85c29b541833e6e000e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474233,
+            "locality_id":101754655,
+            "neighbourhood_id":1158826809,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826809,
+    "wof:lastmodified":1513588093,
+    "wof:name":"Schuilingen",
+    "wof:parent_id":101754655,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.597319632797047,
+    51.78147360081414,
+    4.610412202457387,
+    51.79130946408386
+],
+  "geometry": {"coordinates":[[[[4.61036769840661,51.78501836607668],[4.61041220245739,51.78386697630844],[4.61031994019749,51.78156439975373],[4.6103095401099,51.78149775841308],[4.610182359699,51.78147360081414],[4.60764088215493,51.78162134254775],[4.60513117728969,51.7818554798326],[4.60476548895494,51.78229882587539],[4.59835487200792,51.78283369810656],[4.59741659561151,51.79007233029962],[4.59731963279705,51.79105707057647],[4.59917930954814,51.79130946408386],[4.60037424378121,51.79111523780887],[4.60100794622477,51.79093353265668],[4.60378617476212,51.78937178212993],[4.60660650115092,51.78780041674268],[4.60955816432502,51.78615906846925],[4.61035531712279,51.78531659733299],[4.61036769840661,51.78501836607668]]]],"type":"MultiPolygon"}
+}

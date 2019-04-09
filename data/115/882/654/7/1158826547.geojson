@@ -1,0 +1,80 @@
+{
+  "id": 1158826547,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05560403",
+    "cbsnl:BU_NAAM":"Koningshoek",
+    "cbsnl:GM_CODE":"GM0556",
+    "cbsnl:GM_NAAM":"Maassluis",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2069",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK055604",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":332898.756266,
+    "geom:bbox":"4.23456528076,51.9230384555,4.24718222821,51.931848264",
+    "geom:latitude":51.92767,
+    "geom:longitude":4.240633,
+    "iso:country":"NL",
+    "lbl:latitude":51.928192,
+    "lbl:longitude":4.240203,
+    "mps:latitude":51.928192,
+    "mps:longitude":4.240203,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Koningshoek"
+    ],
+    "name:nld_x_preferred":[
+        "Koningshoek"
+    ],
+    "reversegeo:latitude":51.928192,
+    "reversegeo:longitude":4.240203,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831271,
+        85633337,
+        101754631,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d419cdb34e5bc575102a9a383249b9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754631,
+            "macrohood_id":1158831271,
+            "neighbourhood_id":1158826547,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826547,
+    "wof:lastmodified":1513588072,
+    "wof:name":"Koningshoek",
+    "wof:parent_id":1158831271,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.234565280764546,
+    51.92303845547677,
+    4.247182228208203,
+    51.93184826398683
+],
+  "geometry": {"coordinates":[[[[4.2450171937014,51.93068514877138],[4.24624153730725,51.9304375640038],[4.2471822282082,51.9297810044303],[4.24666303463713,51.92952273687477],[4.24634230251305,51.92894526667889],[4.24595536372639,51.92901834842411],[4.24454142573986,51.92815460043376],[4.244242163529,51.92796159121423],[4.24381260305964,51.92800754391045],[4.24314361490511,51.92810756138007],[4.24008917399389,51.92626519904265],[4.24280856097037,51.9245543630945],[4.24038400416182,51.92303845547677],[4.23456528076455,51.92652756050357],[4.23485842541163,51.92671003696881],[4.23506312852599,51.92658433842107],[4.23545567500529,51.92656792227636],[4.23563887193997,51.92667932416106],[4.23556158229118,51.92724897064879],[4.24090936608133,51.93047800346052],[4.23923310694121,51.9314977897548],[4.2391321840657,51.93184826398683],[4.23946325348298,51.93168686305506],[4.23972596071039,51.93159637354873],[4.24240005739403,51.93115060743482],[4.24314372254421,51.93102662728624],[4.2450171937014,51.93068514877138]]]],"type":"MultiPolygon"}
+}

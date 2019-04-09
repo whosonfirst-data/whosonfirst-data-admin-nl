@@ -1,0 +1,80 @@
+{
+  "id": 1158818865,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03840224",
+    "cbsnl:BU_NAAM":"Vlindertuin en Scheepskwartier-Zuid",
+    "cbsnl:GM_CODE":"GM0384",
+    "cbsnl:GM_NAAM":"Diemen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1303",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK038402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":368826.935504,
+    "geom:bbox":"4.97529159669,52.3430985197,4.98866989203,52.349999999",
+    "geom:latitude":52.346644,
+    "geom:longitude":4.982009,
+    "iso:country":"NL",
+    "lbl:latitude":52.346167,
+    "lbl:longitude":4.982466,
+    "mps:latitude":52.346167,
+    "mps:longitude":4.982466,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vlindertuin en Scheepskwartier-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Vlindertuin en Scheepskwartier-Zuid"
+    ],
+    "reversegeo:latitude":52.346167,
+    "reversegeo:longitude":4.982466,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823005,
+        85633337,
+        1158822543,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0a509953ddccd18a24bb189081022dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":1158822543,
+            "macrohood_id":1158823005,
+            "neighbourhood_id":1158818865,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818865,
+    "wof:lastmodified":1513464103,
+    "wof:name":"Vlindertuin en Scheepskwartier-Zuid",
+    "wof:parent_id":1158823005,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.975291596686551,
+    52.34309851973022,
+    4.988669892028784,
+    52.349999998950125
+],
+  "geometry": {"coordinates":[[[[4.98325731997709,52.34999999895012],[4.98451787433003,52.34933085645254],[4.98633731032244,52.34836177634678],[4.9878427978053,52.34756010201879],[4.98866989202878,52.34712017502766],[4.98802222043904,52.34650751001112],[4.98396711640453,52.34408674524459],[4.98211689097784,52.34309851973022],[4.98156226104977,52.34342214232894],[4.97978009687394,52.34429597612091],[4.9772286809265,52.34550387782779],[4.97658017443413,52.34580552574698],[4.97529159668655,52.34625071438009],[4.97631606674761,52.34755917938815],[4.97734036399618,52.34818512936204],[4.9786269320286,52.34897122734412],[4.978897917476,52.3491409621763],[4.97889774181009,52.34916006044322],[4.98081578537537,52.34819598884948],[4.98218398391338,52.34920695224104],[4.98199686632451,52.34945395203323],[4.9822782376363,52.34971370135754],[4.98269662016028,52.34958572678622],[4.98325731997709,52.34999999895012]]]],"type":"MultiPolygon"}
+}

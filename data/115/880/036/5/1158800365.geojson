@@ -1,0 +1,80 @@
+{
+  "id": 1158800365,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17280100",
+    "cbsnl:BU_NAAM":"Netersel",
+    "cbsnl:GM_CODE":"GM1728",
+    "cbsnl:GM_NAAM":"Bladel",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"106",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK172801",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000131,
+    "geom:area_square_m":1012520.352256,
+    "geom:bbox":"5.20167025072,51.4000049521,5.21757179638,51.4132980277",
+    "geom:latitude":51.406461,
+    "geom:longitude":5.209831,
+    "iso:country":"NL",
+    "lbl:latitude":51.406487,
+    "lbl:longitude":5.209187,
+    "mps:latitude":51.406487,
+    "mps:longitude":5.209187,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Netersel"
+    ],
+    "name:nld_x_preferred":[
+        "Netersel"
+    ],
+    "reversegeo:latitude":51.406487,
+    "reversegeo:longitude":5.209187,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474641,
+        85633337,
+        1158801593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d870f12bb585e731632af7b7989b6883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474641,
+            "locality_id":1158801593,
+            "neighbourhood_id":1158800365,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158800365,
+    "wof:lastmodified":1513432823,
+    "wof:name":"Netersel",
+    "wof:parent_id":1158801593,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.20167025072274,
+    51.400004952092964,
+    5.217571796383372,
+    51.41329802772552
+],
+  "geometry": {"coordinates":[[[[5.20167025072274,51.40000495209296],[5.20177986332444,51.4041963978698],[5.20194185301787,51.40638905828558],[5.20387518748826,51.4077710355569],[5.20665539180111,51.40941300167288],[5.20935601261524,51.41095337436174],[5.21089374404958,51.41171272576931],[5.21199612715465,51.41215567354204],[5.2131345025931,51.41253125142087],[5.21564327216798,51.41317400726972],[5.21612434395431,51.41329802772552],[5.21757179638337,51.41096307613508],[5.2173040922464,51.40643687141059],[5.21713080787646,51.40587285776098],[5.21695577924564,51.40499535996742],[5.21618354676894,51.40475069249165],[5.21145490501144,51.40298637411765],[5.21148719547432,51.40247210140588],[5.21146310823253,51.40196335953863],[5.21103045680044,51.40125456558629],[5.20707896273195,51.40115667944787],[5.20546549789205,51.4010831114165],[5.20167025072274,51.40000495209296]]]],"type":"MultiPolygon"}
+}

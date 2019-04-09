@@ -1,0 +1,80 @@
+{
+  "id": 1158826847,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05880304",
+    "cbsnl:BU_NAAM":"Nieuwendijk (gedeeltelijk)",
+    "cbsnl:GM_CODE":"GM0588",
+    "cbsnl:GM_NAAM":"Korendijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"55",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK058803",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":387193.499798,
+    "geom:bbox":"4.31792519734,51.7519685665,4.32964679443,51.7584242021",
+    "geom:latitude":51.755436,
+    "geom:longitude":4.32404,
+    "iso:country":"NL",
+    "lbl:latitude":51.755415,
+    "lbl:longitude":4.32404,
+    "mps:latitude":51.755415,
+    "mps:longitude":4.32404,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Nieuwendijk (gedeeltelijk)"
+    ],
+    "name:nld_x_preferred":[
+        "Nieuwendijk (gedeeltelijk)"
+    ],
+    "reversegeo:latitude":51.755415,
+    "reversegeo:longitude":4.32404,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474235,
+        85633337,
+        101808537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f6a9047ba458a2444a55f4f64764689a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474235,
+            "locality_id":101808537,
+            "neighbourhood_id":1158826847,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826847,
+    "wof:lastmodified":1513588100,
+    "wof:name":"Nieuwendijk (gedeeltelijk)",
+    "wof:parent_id":101808537,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.31792519733885,
+    51.75196856649736,
+    4.329646794433981,
+    51.758424202052495
+],
+  "geometry": {"coordinates":[[[[4.31852988471411,51.75682934061259],[4.31894581495991,51.7584242020525],[4.32345668354378,51.75785199180552],[4.32964679443398,51.75708464854024],[4.32920744446441,51.75444070243649],[4.32869452732456,51.75196856649736],[4.32327719748388,51.75322743967796],[4.31792519733885,51.75450997393981],[4.31852988471411,51.75682934061259]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158798235,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07980400",
+    "cbsnl:BU_NAAM":"Haghorst",
+    "cbsnl:GM_CODE":"GM0798",
+    "cbsnl:GM_NAAM":"Hilvarenbeek",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"86",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK079804",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":457778.567109,
+    "geom:bbox":"5.19976606519,51.492165968,5.21219596183,51.4982297245",
+    "geom:latitude":51.495493,
+    "geom:longitude":5.205919,
+    "iso:country":"NL",
+    "lbl:latitude":51.495075,
+    "lbl:longitude":5.205179,
+    "mps:latitude":51.495075,
+    "mps:longitude":5.205179,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Haghorst"
+    ],
+    "name:nld_x_preferred":[
+        "Haghorst"
+    ],
+    "reversegeo:latitude":51.495075,
+    "reversegeo:longitude":5.205179,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474397,
+        85633337,
+        1158801559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6c8b7c1ae9f87bdc3b2c383296fa24b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474397,
+            "locality_id":1158801559,
+            "neighbourhood_id":1158798235,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798235,
+    "wof:lastmodified":1513432657,
+    "wof:name":"Haghorst",
+    "wof:parent_id":1158801559,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.199766065186859,
+    51.4921659679576,
+    5.21219596182908,
+    51.49822972451257
+],
+  "geometry": {"coordinates":[[[[5.20044520809478,51.49822972451257],[5.20202437405449,51.49789853335719],[5.21205397641621,51.49807803772725],[5.21219596182908,51.49807825042284],[5.2121875913256,51.49785576857892],[5.21201500483763,51.49592575603018],[5.2117072347746,51.49544889526869],[5.21164363976675,51.49507773714843],[5.21102724593366,51.49283947602846],[5.20902322140792,51.49325047687984],[5.20837217816681,51.49340088576396],[5.20778489785697,51.4935272308041],[5.20738622830716,51.49317971348803],[5.20684946568221,51.49270810509298],[5.20613774307046,51.49244520968012],[5.20537982086336,51.49220414681275],[5.20449442367484,51.4921659679576],[5.2037699833401,51.49221680040822],[5.20307049204336,51.49249631354002],[5.20194250955422,51.49313272591347],[5.20077069969785,51.49396961814575],[5.19976606518686,51.49501462752374],[5.19985563456753,51.497252107137],[5.20029392060899,51.49786431828084],[5.20044520809478,51.49822972451257]]]],"type":"MultiPolygon"}
+}

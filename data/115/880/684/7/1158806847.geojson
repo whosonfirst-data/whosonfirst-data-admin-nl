@@ -1,0 +1,80 @@
+{
+  "id": 1158806847,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09832701",
+    "cbsnl:BU_NAAM":"Kern Boekend",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"495",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098327",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:area_square_m":613133.240454,
+    "geom:bbox":"6.11281624854,51.3708754742,6.12645010591,51.3814561409",
+    "geom:latitude":51.376423,
+    "geom:longitude":6.119324,
+    "iso:country":"NL",
+    "lbl:latitude":51.376897,
+    "lbl:longitude":6.119427,
+    "mps:latitude":51.376897,
+    "mps:longitude":6.119427,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kern Boekend"
+    ],
+    "name:nld_x_preferred":[
+        "Kern Boekend"
+    ],
+    "reversegeo:latitude":51.376897,
+    "reversegeo:longitude":6.119427,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474525,
+        85633337,
+        1158817897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b4200b1c7d6c456db75ce7c01fb0ce80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":1158817897,
+            "neighbourhood_id":1158806847,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806847,
+    "wof:lastmodified":1513404059,
+    "wof:name":"Kern Boekend",
+    "wof:parent_id":1158817897,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.112816248536808,
+    51.37087547424192,
+    6.126450105909831,
+    51.38145614090802
+],
+  "geometry": {"coordinates":[[[[6.12326246174257,51.37741270010152],[6.12358327792284,51.37566410561168],[6.12645010590983,51.37087547424192],[6.12200886800812,51.37172426806681],[6.12143987802294,51.37215393468967],[6.12100657160025,51.37289466544899],[6.12116200191388,51.37309324067837],[6.1184743871559,51.3732431782106],[6.11538590386942,51.37401400361493],[6.11498217811162,51.37346460015187],[6.11330885922788,51.374359561541],[6.11377079153609,51.3746865772849],[6.11348392875209,51.37489151734525],[6.11361376410051,51.37519813244935],[6.1132472722992,51.37527322758203],[6.11361821348065,51.37665073178011],[6.11302129960238,51.37659781876732],[6.11281624853681,51.37779373627523],[6.11291906076505,51.37847805903245],[6.11949910764242,51.38125315266326],[6.12294989347758,51.38145614090802],[6.12269986741614,51.37913405538419],[6.12326246174257,51.37741270010152]]]],"type":"MultiPolygon"}
+}

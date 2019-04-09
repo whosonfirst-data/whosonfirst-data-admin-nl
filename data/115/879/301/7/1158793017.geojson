@@ -1,0 +1,80 @@
+{
+  "id": 1158793017,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00240202",
+    "cbsnl:BU_NAAM":"Huizinge",
+    "cbsnl:GM_CODE":"GM0024",
+    "cbsnl:GM_NAAM":"Loppersum",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"22",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK002402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":295397.21288,
+    "geom:bbox":"6.67046335599,53.3427453415,6.6800817919,53.3481596726",
+    "geom:latitude":53.34566,
+    "geom:longitude":6.674987,
+    "iso:country":"NL",
+    "lbl:latitude":53.345545,
+    "lbl:longitude":6.674987,
+    "mps:latitude":53.345545,
+    "mps:longitude":6.674987,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Huizinge"
+    ],
+    "name:nld_x_preferred":[
+        "Huizinge"
+    ],
+    "reversegeo:latitude":53.345545,
+    "reversegeo:longitude":6.674987,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473723,
+        85633337,
+        1158796631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c2d40bbb0e1b47d2ca509c5726cc55dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473723,
+            "locality_id":1158796631,
+            "neighbourhood_id":1158793017,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793017,
+    "wof:lastmodified":1513382281,
+    "wof:name":"Huizinge",
+    "wof:parent_id":1158796631,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.670463355991681,
+    53.34274534153191,
+    6.680081791897189,
+    53.34815967258265
+],
+  "geometry": {"coordinates":[[[[6.67327496287455,53.34274534153191],[6.6722664495377,53.34291394300349],[6.6713642902561,53.34332908259929],[6.67127507875036,53.34335867986881],[6.67110240960934,53.34381544862995],[6.67065811905582,53.34497547492622],[6.67046335599168,53.34625021905923],[6.67063495824837,53.34707174455632],[6.67170971571395,53.34761011031082],[6.6729051659163,53.34791465709713],[6.67532232736203,53.34814489408883],[6.67708731066888,53.34815967258265],[6.67852317348671,53.34781738993478],[6.67950269322469,53.34747718802547],[6.6800025380246,53.34701801339265],[6.68008179189719,53.34640666190075],[6.67994207251767,53.34591055453516],[6.67950587078859,53.34528452704679],[6.67887877123224,53.34465324640384],[6.67784990345818,53.34399482405887],[6.67632582431053,53.34333777078517],[6.67494664406327,53.342966143826],[6.67327496287455,53.34274534153191]]]],"type":"MultiPolygon"}
+}

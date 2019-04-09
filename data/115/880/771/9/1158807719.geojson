@@ -1,0 +1,80 @@
+{
+  "id": 1158807719,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18830502",
+    "cbsnl:BU_NAAM":"Geleen-Noord",
+    "cbsnl:GM_CODE":"GM1883",
+    "cbsnl:GM_NAAM":"Sittard-Geleen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2016",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK188305",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000147,
+    "geom:area_square_m":1141128.978206,
+    "geom:bbox":"5.82435358034,50.9699231366,5.84695054217,50.9867620427",
+    "geom:latitude":50.978378,
+    "geom:longitude":5.835614,
+    "iso:country":"NL",
+    "lbl:latitude":50.978176,
+    "lbl:longitude":5.835614,
+    "mps:latitude":50.978176,
+    "mps:longitude":5.835614,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Geleen-Noord"
+    ],
+    "name:nld_x_preferred":[
+        "Geleen-Noord"
+    ],
+    "reversegeo:latitude":50.978176,
+    "reversegeo:longitude":5.835614,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474675,
+        85633337,
+        101839721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"18fa08589edcbee0c850653ade828875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474675,
+            "locality_id":101839721,
+            "neighbourhood_id":1158807719,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158807719,
+    "wof:lastmodified":1513404139,
+    "wof:name":"Geleen-Noord",
+    "wof:parent_id":101839721,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.824353580343717,
+    50.96992313661385,
+    5.846950542174607,
+    50.9867620426705
+],
+  "geometry": {"coordinates":[[[[5.84695054217461,50.9835827629304],[5.8449785879176,50.98175599237292],[5.83817913404011,50.97579886508048],[5.83158597662899,50.96992313661385],[5.83150027232764,50.96998233392386],[5.83114756599623,50.97022594655666],[5.83108509020563,50.97017724525211],[5.83050013076706,50.9704433387601],[5.82905178121246,50.9714314930772],[5.82928865941473,50.97155812892809],[5.82906657581996,50.97172599549148],[5.8287702191642,50.97160707383414],[5.82866172542903,50.971741787223],[5.82793319799847,50.97233374693499],[5.82721358202416,50.97314227964849],[5.82646364702327,50.97365199849187],[5.82627723177771,50.97353140190913],[5.82532147525645,50.97404622612806],[5.82435358034372,50.97453785007749],[5.82457432225823,50.97470215143167],[5.82731023386174,50.97673760467821],[5.83775062857833,50.98441078389227],[5.84089178871188,50.9867620426705],[5.84111445707739,50.9865055492072],[5.84328937571747,50.98522226422594],[5.84573074324272,50.98405137077564],[5.84695054217461,50.9835827629304]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1141961965,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02000405",
+    "cbsnl:BU_NAAM":"Rivierenkwartier",
+    "cbsnl:GM_CODE":"GM0200",
+    "cbsnl:GM_NAAM":"Apeldoorn",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1758",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK020004",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":631001.297706,
+    "geom:bbox":"5.96992246992,52.1853540331,5.98229086362,52.1941664884",
+    "geom:latitude":52.18944,
+    "geom:longitude":5.975038,
+    "iso:country":"NL",
+    "lbl:latitude":52.189656,
+    "lbl:longitude":5.975038,
+    "mps:latitude":52.189656,
+    "mps:longitude":5.975038,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Rivierenkwartier"
+    ],
+    "name:nld_x_preferred":[
+        "Rivierenkwartier"
+    ],
+    "reversegeo:latitude":52.189656,
+    "reversegeo:longitude":5.975038,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158783949,
+        404473867,
+        85633337,
+        101751853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a6db1b11e83e2e8baa48cd2e36acc600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473867,
+            "locality_id":101751853,
+            "macrohood_id":1158783949,
+            "neighbourhood_id":1141961965,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141961965,
+    "wof:lastmodified":1513368641,
+    "wof:name":"Rivierenkwartier",
+    "wof:parent_id":1158783949,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.969922469924221,
+    52.18535403314396,
+    5.982290863617072,
+    52.19416648843597
+],
+  "geometry": {"coordinates":[[[[5.96992246992422,52.19416648843597],[5.971335624726,52.19410894331791],[5.97414485378833,52.19382371566718],[5.9759919418794,52.19362401107249],[5.97836721230842,52.19345057985335],[5.97878434634685,52.1923392472599],[5.97960600253886,52.19073446102711],[5.9796587894648,52.19063135804603],[5.98048317640538,52.18908353928499],[5.98192218782813,52.186477784433],[5.98229086361707,52.1859961877837],[5.98147718983399,52.18587211933865],[5.97928598141005,52.18577848771932],[5.97914250814209,52.18577191250038],[5.97693564562573,52.18567073705166],[5.97685036259198,52.18566682616261],[5.97684602326207,52.1856666284139],[5.97325987502833,52.18550272874125],[5.97199453202334,52.18544487184717],[5.96996041120726,52.18535403314396],[5.97001167967068,52.18714348835751],[5.97003085006689,52.18909470592677],[5.97003090673493,52.18910101880572],[5.97004047843962,52.19031920643079],[5.97003616767025,52.19096316207491],[5.97002483730601,52.19301708046355],[5.9700194416029,52.19357810503605],[5.96992246992422,52.19416648843597]]]],"type":"MultiPolygon"}
+}

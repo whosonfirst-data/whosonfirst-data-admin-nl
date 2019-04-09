@@ -1,0 +1,80 @@
+{
+  "id": 1158799447,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08650101",
+    "cbsnl:BU_NAAM":"Molenstraat en omgeving",
+    "cbsnl:GM_CODE":"GM0865",
+    "cbsnl:GM_NAAM":"Vught",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1797",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK086501",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":592798.657532,
+    "geom:bbox":"5.28096972822,51.642305024,5.2938103457,51.6508443387",
+    "geom:latitude":51.646239,
+    "geom:longitude":5.28778,
+    "iso:country":"NL",
+    "lbl:latitude":51.646401,
+    "lbl:longitude":5.28778,
+    "mps:latitude":51.646401,
+    "mps:longitude":5.28778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Molenstraat en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Molenstraat en omgeving"
+    ],
+    "reversegeo:latitude":51.646401,
+    "reversegeo:longitude":5.28778,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474447,
+        85633337,
+        101754581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"554e750f1f5ab28fdbc22650b85e0db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474447,
+            "locality_id":101754581,
+            "neighbourhood_id":1158799447,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799447,
+    "wof:lastmodified":1513432750,
+    "wof:name":"Molenstraat en omgeving",
+    "wof:parent_id":101754581,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.280969728222184,
+    51.642305024048454,
+    5.293810345697079,
+    51.65084433873889
+],
+  "geometry": {"coordinates":[[[[5.2928147802839,51.65084433873889],[5.29381034569708,51.64387340331003],[5.29337393242459,51.64357390338765],[5.2928617612769,51.64345074315145],[5.29226566765224,51.64341290385451],[5.28729662345754,51.64305119935965],[5.28666481190985,51.64293886308616],[5.2860157765592,51.64275797310765],[5.28535586481946,51.64269672891788],[5.28391138186845,51.64230502404845],[5.28239366438433,51.64255282836515],[5.28096972822218,51.64265266746415],[5.28099057915399,51.64274359493933],[5.28130692936451,51.64412315960863],[5.28175289444272,51.64504011232412],[5.28219375544177,51.64631688052833],[5.28240929157547,51.64731817174297],[5.2825972726589,51.64764501732445],[5.28270643360276,51.64837683715423],[5.28293228063427,51.64863545867156],[5.28291675493053,51.64900566125601],[5.28475396427064,51.64893705731606],[5.29162320820698,51.65070545502591],[5.2928147802839,51.65084433873889]]]],"type":"MultiPolygon"}
+}

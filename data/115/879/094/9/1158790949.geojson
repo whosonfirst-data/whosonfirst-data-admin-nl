@@ -1,0 +1,82 @@
+{
+  "id": 1158790949,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01144101",
+    "cbsnl:BU_NAAM":"Emmen over 't spoor",
+    "cbsnl:GM_CODE":"GM0114",
+    "cbsnl:GM_NAAM":"Emmen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1160",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011441",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000171,
+    "geom:area_square_m":1278673.442668,
+    "geom:bbox":"6.89965867783,52.7770798426,6.91694805525,52.7903308742",
+    "geom:latitude":52.783476,
+    "geom:longitude":6.90778,
+    "iso:country":"NL",
+    "lbl:latitude":52.782841,
+    "lbl:longitude":6.90708,
+    "mps:latitude":52.782841,
+    "mps:longitude":6.90708,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Emmen over 't spoor"
+    ],
+    "name:nld_x_preferred":[
+        "Emmen over 't spoor"
+    ],
+    "reversegeo:latitude":52.782841,
+    "reversegeo:longitude":6.90708,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        1158792257,
+        404473809,
+        85633337,
+        101751881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5ecc88af958f0d30f89cb205be033735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473809,
+            "locality_id":101751881,
+            "macrohood_id":1158792257,
+            "neighbourhood_id":1158790949,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158790949,
+    "wof:lastmodified":1513292309,
+    "wof:name":"Emmen over 't spoor",
+    "wof:parent_id":1158792257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.899658677828881,
+    52.777079842551764,
+    6.916948055249325,
+    52.79033087416593
+],
+  "geometry": {"coordinates":[[[[6.89966982319601,52.78938897249346],[6.90196098634799,52.7897034511373],[6.90360012423031,52.78992840474326],[6.90547617150002,52.79024861100607],[6.90688033413787,52.79028087071391],[6.90930427960099,52.79033087416593],[6.90935231075369,52.7892466020999],[6.91038896763829,52.78728296279294],[6.91391578205141,52.78760026307371],[6.91512857438603,52.78723690224321],[6.91627152845242,52.78402967819705],[6.91694805524932,52.78105458891853],[6.91461883375091,52.77945935348506],[6.91426154772569,52.77917576638941],[6.91190377159426,52.7775166882716],[6.9101953136996,52.77750223275066],[6.90489739615338,52.77728192969899],[6.90056625381192,52.77707984255176],[6.90115104520753,52.77915819940996],[6.90139606560906,52.78049386183316],[6.90143389890906,52.78216818659029],[6.90126267875565,52.78361506420448],[6.89989210863619,52.78816074336372],[6.89965867782888,52.78915344696799],[6.89966982319601,52.78938897249346]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158825635,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050204",
+    "cbsnl:BU_NAAM":"Merwestein-Noord",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3700",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050502",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":83693.872808,
+    "geom:bbox":"4.67769203484,51.8117943036,4.68424347728,51.8154761879",
+    "geom:latitude":51.813662,
+    "geom:longitude":4.680955,
+    "iso:country":"NL",
+    "lbl:latitude":51.813714,
+    "lbl:longitude":4.680905,
+    "mps:latitude":51.813714,
+    "mps:longitude":4.680905,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Merwestein-Noord"
+    ],
+    "name:nld_x_preferred":[
+        "Merwestein-Noord"
+    ],
+    "reversegeo:latitude":51.813714,
+    "reversegeo:longitude":4.680905,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829577,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c8e7e8d797e87f95ceb3f4e62cd3345d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829577,
+            "neighbourhood_id":1158825635,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825635,
+    "wof:lastmodified":1513588007,
+    "wof:name":"Merwestein-Noord",
+    "wof:parent_id":1158829577,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.677692034840838,
+    51.81179430358562,
+    4.684243477283715,
+    51.815476187909994
+],
+  "geometry": {"coordinates":[[[[4.67909717911646,51.81547618790999],[4.68015366654349,51.81522025210815],[4.68070986451865,51.81478872849802],[4.6809418977153,51.81464351838717],[4.6817180320398,51.81450898088217],[4.6842427836542,51.81313245655137],[4.68424347728372,51.81313207941228],[4.68291223994267,51.81179430358562],[4.68082853776996,51.81279823630158],[4.6800645733834,51.81294354813007],[4.67793346298176,51.81372254427865],[4.67769203484084,51.81380309166276],[4.67771718235605,51.81383185996447],[4.67904208286265,51.81536709064223],[4.67909717911646,51.81547618790999]]]],"type":"MultiPolygon"}
+}

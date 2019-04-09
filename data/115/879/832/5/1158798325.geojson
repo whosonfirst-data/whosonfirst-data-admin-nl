@@ -1,0 +1,81 @@
+{
+  "id": 1158798325,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08150007",
+    "cbsnl:BU_NAAM":"Verspreide huizen Groespeel",
+    "cbsnl:GM_CODE":"GM0815",
+    "cbsnl:GM_NAAM":"Mill en Sint Hubert",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"102",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK081500",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000384,
+    "geom:area_square_m":2947863.939827,
+    "geom:bbox":"5.73539527286,51.662042293,5.77647885983,51.6813913535",
+    "geom:latitude":51.672083,
+    "geom:longitude":5.75378,
+    "iso:country":"NL",
+    "lbl:latitude":51.671812,
+    "lbl:longitude":5.75378,
+    "mps:latitude":51.671812,
+    "mps:longitude":5.75378,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen Groespeel"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen Groespeel"
+    ],
+    "reversegeo:latitude":51.671812,
+    "reversegeo:longitude":5.75378,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474403,
+        85633337,
+        101808275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9d39c01aa0a3eb89f79b530ff8c09e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474403,
+            "locality_id":101808275,
+            "neighbourhood_id":1158798325,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798325,
+    "wof:lastmodified":1513432667,
+    "wof:name":"Verspreide huizen Groespeel",
+    "wof:parent_id":101808275,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.735395272857042,
+    51.6620422929537,
+    5.776478859833934,
+    51.681391353459425
+],
+  "geometry": {"coordinates":[[[[5.77647885983393,51.68139135345942],[5.77351523598941,51.67764871686494],[5.77351791022173,51.67764421374174],[5.77261741936551,51.67658259744098],[5.77161521172465,51.67585388409184],[5.7703894163791,51.67454079491829],[5.77057705346053,51.67415788482108],[5.7701244472098,51.67352735507117],[5.77065425301353,51.67289894617684],[5.77032953862571,51.67144470051768],[5.76617555800483,51.66990095277794],[5.73928529138021,51.66208988019638],[5.73900257348579,51.6620422929537],[5.73897650687092,51.66213015930904],[5.73896425364419,51.66217146279763],[5.73895342281861,51.66220793524957],[5.73894132428421,51.6622487170813],[5.73891902912296,51.66232392858691],[5.73891535341877,51.66233633460808],[5.73890949407852,51.66235608224256],[5.73884115661872,51.66258644964285],[5.73857013724409,51.66350002811268],[5.7384315529148,51.66396714968416],[5.73828638718116,51.6644564479238],[5.73816189687749,51.66487606682414],[5.73765606692591,51.66658097445804],[5.73755434395802,51.6669238070734],[5.73664360208707,51.66999303931983],[5.73619020022322,51.67152089653602],[5.73539527285704,51.67419932283172],[5.74535997456329,51.67581583541912],[5.77647885983393,51.68139135345942]]]],"type":"MultiPolygon"}
+}

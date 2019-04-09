@@ -1,0 +1,80 @@
+{
+  "id": 1158826003,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05130404",
+    "cbsnl:BU_NAAM":"Grassen- en Waterbuurt",
+    "cbsnl:GM_CODE":"GM0513",
+    "cbsnl:GM_NAAM":"Gouda",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2030",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK051304",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000023,
+    "geom:area_square_m":176390.528996,
+    "geom:bbox":"4.7135211013,52.0285160626,4.71850789008,52.0342592014",
+    "geom:latitude":52.031376,
+    "geom:longitude":4.716206,
+    "iso:country":"NL",
+    "lbl:latitude":52.031357,
+    "lbl:longitude":4.716159,
+    "mps:latitude":52.031357,
+    "mps:longitude":4.716159,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Grassen- en Waterbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Grassen- en Waterbuurt"
+    ],
+    "reversegeo:latitude":52.031357,
+    "reversegeo:longitude":4.716159,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829585,
+        85633337,
+        101751839,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"21c8dcb8ef359feb0892fa05eaf7c763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751839,
+            "macrohood_id":1158829585,
+            "neighbourhood_id":1158826003,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826003,
+    "wof:lastmodified":1513588032,
+    "wof:name":"Grassen- en Waterbuurt",
+    "wof:parent_id":1158829585,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.71352110130035,
+    52.02851606264311,
+    4.718507890084098,
+    52.03425920144168
+],
+  "geometry": {"coordinates":[[[[4.71471677312168,52.03409406087488],[4.71752254875238,52.03425920144168],[4.71802313609339,52.03372808238837],[4.71848888340253,52.03259369940225],[4.71817051026182,52.0320553965557],[4.71829842270072,52.03129660583502],[4.7185078900841,52.02897879520787],[4.71833282331569,52.02870281224416],[4.71826368482171,52.02859345518768],[4.71542786294481,52.02851606264311],[4.71515849668329,52.02897516897144],[4.71491091463111,52.02894960544936],[4.71485845680118,52.02928123074177],[4.71471602539467,52.02928041739416],[4.71433533523365,52.02933681631197],[4.71415201464815,52.02995080537055],[4.714475657227,52.02998022778455],[4.71401351499144,52.03046323383917],[4.71365822724183,52.03083253555176],[4.71357101346541,52.03120393072328],[4.71384106023234,52.03185544602444],[4.71394640727589,52.03209824732555],[4.71366033892466,52.03212503090764],[4.71352110130035,52.03296380801871],[4.71438182916809,52.03310600630304],[4.71471582346398,52.03396007309465],[4.71471677312168,52.03409406087488]]]],"type":"MultiPolygon"}
+}

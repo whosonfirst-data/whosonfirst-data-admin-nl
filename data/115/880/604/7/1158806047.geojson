@@ -1,0 +1,80 @@
+{
+  "id": 1158806047,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08990205",
+    "cbsnl:BU_NAAM":"Op den Haan",
+    "cbsnl:GM_CODE":"GM0899",
+    "cbsnl:GM_NAAM":"Brunssum",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2165",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK089902",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":183079.507056,
+    "geom:bbox":"5.96170109372,50.9464098456,5.97058903258,50.952172825",
+    "geom:latitude":50.949564,
+    "geom:longitude":5.966051,
+    "iso:country":"NL",
+    "lbl:latitude":50.94898,
+    "lbl:longitude":5.96531,
+    "mps:latitude":50.94898,
+    "mps:longitude":5.96531,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Op den Haan"
+    ],
+    "name:nld_x_preferred":[
+        "Op den Haan"
+    ],
+    "reversegeo:latitude":50.94898,
+    "reversegeo:longitude":5.96531,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158818207,
+        85633337,
+        101839207,
+        85687033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a4ac5cc67d7456cd720f890aa174ce70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101839207,
+            "macrohood_id":1158818207,
+            "neighbourhood_id":1158806047,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806047,
+    "wof:lastmodified":1513404001,
+    "wof:name":"Op den Haan",
+    "wof:parent_id":1158818207,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.961701093715674,
+    50.94640984559152,
+    5.970589032580111,
+    50.952172824995436
+],
+  "geometry": {"coordinates":[[[[5.97058903258011,50.95029879142771],[5.96730058406747,50.94857935787206],[5.96723856964849,50.94843514919727],[5.96715611917117,50.94815309622184],[5.96710023594889,50.9480804504091],[5.96688873176495,50.94780550501293],[5.96678764523648,50.94766484067103],[5.96667457068557,50.94750749547798],[5.96611829934491,50.94719458009646],[5.96484860120802,50.94661937327175],[5.96433248525407,50.94640984559152],[5.96436439561233,50.94675771432966],[5.96437855984541,50.94685956966591],[5.96335057329614,50.94832359462005],[5.96296904581369,50.94866851803533],[5.96222015308586,50.94934926496026],[5.96170109371567,50.94980763321391],[5.96185008456942,50.94985259907913],[5.96195999745129,50.94991291999046],[5.96285150928227,50.95017966813442],[5.96456317376636,50.95084240590766],[5.96569385107821,50.95128097885876],[5.96687548648794,50.95217282499544],[5.96928388435972,50.95128993723576],[5.97058903258011,50.95029879142771]]]],"type":"MultiPolygon"}
+}

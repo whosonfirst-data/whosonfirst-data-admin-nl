@@ -1,0 +1,80 @@
+{
+  "id": 1158825737,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050704",
+    "cbsnl:BU_NAAM":"Van Ewijckstraat en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2352",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050507",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":111319.525011,
+    "geom:bbox":"4.64885819487,51.7919260866,4.65599138902,51.7944505616",
+    "geom:latitude":51.793234,
+    "geom:longitude":4.651967,
+    "iso:country":"NL",
+    "lbl:latitude":51.793172,
+    "lbl:longitude":4.651899,
+    "mps:latitude":51.793172,
+    "mps:longitude":4.651899,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Van Ewijckstraat en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Van Ewijckstraat en omgeving"
+    ],
+    "reversegeo:latitude":51.793172,
+    "reversegeo:longitude":4.651899,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829537,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f76d8f2af3c6f39d6f2d51c896cc58ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829537,
+            "neighbourhood_id":1158825737,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825737,
+    "wof:lastmodified":1513588014,
+    "wof:name":"Van Ewijckstraat en omgeving",
+    "wof:parent_id":1158829537,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.648858194874984,
+    51.791926086642945,
+    4.655991389015189,
+    51.79445056157157
+],
+  "geometry": {"coordinates":[[[[4.64894349589983,51.79445056157157],[4.65240244816398,51.79438914027051],[4.65330909330026,51.79427219169342],[4.65576541032179,51.79422409832684],[4.65599138901519,51.794151619555],[4.65504816211888,51.79323634067652],[4.65497609690058,51.79220174882727],[4.65266563718317,51.79221348893834],[4.65264741495302,51.79192608664295],[4.64885819487498,51.79203141338779],[4.64894349589983,51.79445056157157]]]],"type":"MultiPolygon"}
+}

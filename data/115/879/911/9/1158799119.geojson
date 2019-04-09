@@ -1,0 +1,87 @@
+{
+  "id": 1158799119,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08550301",
+    "cbsnl:BU_NAAM":"De Reit",
+    "cbsnl:GM_CODE":"GM0855",
+    "cbsnl:GM_NAAM":"Tilburg",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2808",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK085503",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000186,
+    "geom:area_square_m":1426143.513735,
+    "geom:bbox":"5.03824419829,51.5562381608,5.06515067692,51.5663327413",
+    "geom:latitude":51.560919,
+    "geom:longitude":5.05193,
+    "iso:country":"NL",
+    "lbl:latitude":51.561013,
+    "lbl:longitude":5.05193,
+    "mps:latitude":51.561013,
+    "mps:longitude":5.05193,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "De Reit"
+    ],
+    "name:eng_x_preferred":[
+        "De Reit"
+    ],
+    "name:nld_x_preferred":[
+        "De Reit"
+    ],
+    "reversegeo:latitude":51.561013,
+    "reversegeo:longitude":5.05193,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158801789,
+        404474435,
+        85633337,
+        101751817,
+        85687035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q43726996"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"d1b4b8feead07a5779b50fe36f383b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474435,
+            "locality_id":101751817,
+            "macrohood_id":1158801789,
+            "neighbourhood_id":1158799119,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799119,
+    "wof:lastmodified":1514492068,
+    "wof:name":"De Reit",
+    "wof:parent_id":1158801789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.03824419829408,
+    51.55623816078661,
+    5.06515067692386,
+    51.5663327412909
+],
+  "geometry": {"coordinates":[[[[5.04252613472198,51.5663327412909],[5.04707586137101,51.56565034020997],[5.0471610539014,51.56563710497343],[5.05120115183221,51.56500609383287],[5.05726119685556,51.56404448439053],[5.06184190525152,51.56340294486029],[5.06515067692386,51.56293930041128],[5.06477215018207,51.5612061428215],[5.06462271755721,51.56051989612359],[5.06442671741573,51.55948745725001],[5.06381389850554,51.55623816078661],[5.06225864602737,51.55635339809996],[5.05546466478196,51.55687274102433],[5.04558446966711,51.55760922706801],[5.0445511449893,51.55772215750387],[5.04183447080574,51.55809348609682],[5.04162682478845,51.55809287257845],[5.04145248875647,51.55807348120656],[5.04120062089867,51.5580098154669],[5.04107842229682,51.55796091475752],[5.04090633309132,51.558025123744],[5.04034271135027,51.55818704702172],[5.0396867771509,51.55835138975225],[5.03882170129864,51.55852139803612],[5.03824419829408,51.55861136048797],[5.03961681647924,51.56108733302547],[5.04252613472198,51.5663327412909]]]],"type":"MultiPolygon"}
+}

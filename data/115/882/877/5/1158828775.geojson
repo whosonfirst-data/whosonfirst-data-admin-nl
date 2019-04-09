@@ -1,0 +1,83 @@
+{
+  "id": 1158828775,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19270202",
+    "cbsnl:BU_NAAM":"Gijbeland, landelijk gebied",
+    "cbsnl:GM_CODE":"GM1927",
+    "cbsnl:GM_NAAM":"Molenwaard",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"106",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK192702",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000427,
+    "geom:area_square_m":3260566.596172,
+    "geom:bbox":"4.79357282357,51.8706822796,4.84924227655,51.8918985291",
+    "geom:latitude":51.881614,
+    "geom:longitude":4.821076,
+    "iso:country":"NL",
+    "lbl:latitude":51.883212,
+    "lbl:longitude":4.827686,
+    "mps:latitude":51.883212,
+    "mps:longitude":4.827686,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Gijbeland",
+        "landelijk gebied"
+    ],
+    "name:nld_x_preferred":[
+        "Gijbeland",
+        "landelijk gebied"
+    ],
+    "reversegeo:latitude":51.883212,
+    "reversegeo:longitude":4.827686,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158824743,
+        85633337,
+        101855293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"cd2a82298db6dbb22e02124f094e9519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824743,
+            "locality_id":101855293,
+            "neighbourhood_id":1158828775,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828775,
+    "wof:lastmodified":1513588273,
+    "wof:name":"Gijbeland, landelijk gebied",
+    "wof:parent_id":101855293,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.793572823574726,
+    51.87068227962998,
+    4.849242276545768,
+    51.8918985291228
+],
+  "geometry": {"coordinates":[[[[4.84054804194067,51.8918985291228],[4.84706397264279,51.88581032821699],[4.8483749790587,51.88586831387397],[4.84924227654577,51.88415212103222],[4.84906268472666,51.88362715771937],[4.84864239720151,51.88342664252978],[4.84848855323588,51.88353829304679],[4.82845047423496,51.87862154631902],[4.82585066921758,51.87794568901757],[4.82582537515159,51.87799051058162],[4.82264410752864,51.88198694041669],[4.8132875665897,51.87960993475156],[4.81611903678416,51.87541711807845],[4.81600472101042,51.87538678900494],[4.79873134127596,51.87068227962998],[4.79839615186669,51.87122636952521],[4.79756982098291,51.87267386923757],[4.79671299960674,51.8738990267072],[4.79580353856479,51.87525003018153],[4.79450431045418,51.87741870141578],[4.79401581905525,51.8785676080153],[4.79357282357473,51.87944821078882],[4.79989369111055,51.8806428672267],[4.82007001932095,51.88570813405786],[4.84047311970318,51.89185323825335],[4.84054804194067,51.8918985291228]]]],"type":"MultiPolygon"}
+}

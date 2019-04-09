@@ -1,0 +1,80 @@
+{
+  "id": 1158792591,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00140500",
+    "cbsnl:BU_NAAM":"De Linie",
+    "cbsnl:GM_CODE":"GM0014",
+    "cbsnl:GM_NAAM":"Groningen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3150",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK001405",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":116942.139831,
+    "geom:bbox":"6.57980437279,53.2053345781,6.58810817095,53.209593538",
+    "geom:latitude":53.207248,
+    "geom:longitude":6.583785,
+    "iso:country":"NL",
+    "lbl:latitude":53.207718,
+    "lbl:longitude":6.583093,
+    "mps:latitude":53.207718,
+    "mps:longitude":6.583093,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Linie"
+    ],
+    "name:nld_x_preferred":[
+        "De Linie"
+    ],
+    "reversegeo:latitude":53.207718,
+    "reversegeo:longitude":6.583093,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473713,
+        85633337,
+        101751909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d67d81ab6adc7044c498718a7d12879a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473713,
+            "locality_id":101751909,
+            "neighbourhood_id":1158792591,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158792591,
+    "wof:lastmodified":1513382254,
+    "wof:name":"De Linie",
+    "wof:parent_id":101751909,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.579804372790907,
+    53.205334578133176,
+    6.588108170946169,
+    53.20959353803183
+],
+  "geometry": {"coordinates":[[[[6.58365051220696,53.20959353803183],[6.58477029569058,53.20799027093921],[6.58529544383296,53.2075847153201],[6.58810817094617,53.20611499903065],[6.5867544996251,53.20533457813318],[6.58543872093021,53.20580934624672],[6.5841142417295,53.20555494104303],[6.58343917847418,53.20587294726054],[6.57987660976459,53.20755104957006],[6.57980437279091,53.20758664940772],[6.58149118955754,53.20865399662511],[6.58151936444392,53.2086718223067],[6.58175189547313,53.20881566246185],[6.58237430137559,53.20912804390633],[6.58305962403786,53.20938867969786],[6.58365051220696,53.20959353803183]]]],"type":"MultiPolygon"}
+}

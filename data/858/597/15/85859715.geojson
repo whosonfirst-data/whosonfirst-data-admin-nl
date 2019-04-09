@@ -1,0 +1,129 @@
+{
+  "id": 85859715,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06060401",
+    "cbsnl:BU_NAAM":"Noletbuurt",
+    "cbsnl:GM_CODE":"GM0606",
+    "cbsnl:GM_NAAM":"Schiedam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2432",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060604",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:area_square_m":158674.96504,
+    "geom:bbox":"4.40077106693,51.9056514136,4.4087959839,51.9098208858",
+    "geom:latitude":51.907605,
+    "geom:longitude":4.405247,
+    "gn:id":"",
+    "iso:country":"NL",
+    "lbl:latitude":51.905499,
+    "lbl:longitude":4.404101,
+    "mps:latitude":51.9072,
+    "mps:longitude":4.405572,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Noletbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Noletbuurt"
+    ],
+    "name:nld_x_variant":[
+        "De Gorzen"
+    ],
+    "name:unk_x_variant":[
+        "De Gorzen"
+    ],
+    "qs:gn_adm0_cc":"NL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2747596,
+    "qs:gn_nam_loc":"Schiedam, Schiedam, Zuid-Holland, NL",
+    "qs:gn_namadm1":"07",
+    "qs:gn_name":"De Goorn",
+    "qs:local_max":1642,
+    "qs:local_sum":5724,
+    "qs:localhoods":15,
+    "qs:name":"De Gorzen",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Zuid-Holland",
+    "qs:name_adm2":"Schiedam",
+    "qs:name_local":"Schiedam",
+    "qs:photo_max":62,
+    "qs:photo_sum":787,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":70,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346383,
+    "qs:woe_adm2":12592385,
+    "qs:woe_lau":0,
+    "qs:woe_local":733254,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":51.9072,
+    "reversegeo:longitude":4.405572,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg",
+        "mz"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158829553,
+        85633337,
+        101751845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20063925,
+        "qs:id":237409,
+        "qs_pg:id":237409,
+        "wd:id":"Q1842158"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"0f350d9bf14c46af6ff063a33d4163b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "macrohood_id":1158829553,
+            "neighbourhood_id":85859715,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":85859715,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527270307,
+    "wof:name":"Noletbuurt",
+    "wof:parent_id":1158829553,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.4007710669318,
+    51.90565141361098,
+    4.40879598390482,
+    51.90982088577861
+],
+  "geometry": {"coordinates":[[[[4.40781956455621,51.90926121379829],[4.40811371376269,51.90890860608227],[4.40863878199439,51.90749274436558],[4.40879598390482,51.90600350380909],[4.40700716825685,51.90575799859506],[4.40662246699033,51.90565141361098],[4.40530552138203,51.90569413975363],[4.40349693462974,51.90648239108799],[4.4007710669318,51.90804560000861],[4.40096044602284,51.90817208083518],[4.40120276057875,51.90832607736195],[4.40110148929166,51.90840417292263],[4.40349518740426,51.90982088577861],[4.40372967495541,51.90967987027189],[4.40529827659532,51.90864578792662],[4.40765244112486,51.90923987636976],[4.40781956455621,51.90926121379829]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1158784467,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07030200",
+    "cbsnl:BU_NAAM":"Krabbendijke - Kern",
+    "cbsnl:GM_CODE":"GM0703",
+    "cbsnl:GM_NAAM":"Reimerswaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"545",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK070302",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000065,
+    "geom:area_square_m":497327.254852,
+    "geom:bbox":"4.10469250418,51.4265765358,4.12289811959,51.4349425484",
+    "geom:latitude":51.430419,
+    "geom:longitude":4.113528,
+    "iso:country":"NL",
+    "lbl:latitude":51.430412,
+    "lbl:longitude":4.114425,
+    "mps:latitude":51.430412,
+    "mps:longitude":4.114425,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kern"
+    ],
+    "name:eng_x_variant":[
+        "Krabbendijke - Kern"
+    ],
+    "name:nld_x_preferred":[
+        "Kern"
+    ],
+    "name:nld_x_variant":[
+        "Krabbendijke - Kern"
+    ],
+    "reversegeo:latitude":51.430412,
+    "reversegeo:longitude":4.114425,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474323,
+        85633337,
+        101809813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"171235490a25fe10fad153d68c05e099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474323,
+            "locality_id":101809813,
+            "neighbourhood_id":1158784467,
+            "region_id":85687037
+        }
+    ],
+    "wof:id":1158784467,
+    "wof:lastmodified":1513628660,
+    "wof:name":"Kern",
+    "wof:parent_id":101809813,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.104692504183915,
+    51.426576535780754,
+    4.122898119590689,
+    51.434942548354904
+],
+  "geometry": {"coordinates":[[[[4.11832640670662,51.43268880630832],[4.11699524539208,51.42856503509268],[4.12289811959069,51.42657653578075],[4.11304566637288,51.42657818771491],[4.11215502463665,51.42664828287727],[4.11030629583298,51.42702962531104],[4.111454794987,51.43068636978945],[4.1093273561942,51.43117011949193],[4.10801724360041,51.431432327519],[4.10469250418392,51.43253281495531],[4.10532871492476,51.43438358639396],[4.10589522288711,51.434343715397],[4.1057137440931,51.43380395463002],[4.10879972744731,51.43333077699483],[4.11068325882021,51.43278290486539],[4.11161189504149,51.43297744248783],[4.11210250977197,51.43301353491943],[4.11267697905128,51.4349425483549],[4.11832640670662,51.43268880630832]]]],"type":"MultiPolygon"}
+}

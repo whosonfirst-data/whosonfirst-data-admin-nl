@@ -1,0 +1,80 @@
+{
+  "id": 1158818549,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03700003",
+    "cbsnl:BU_NAAM":"Oostbeemster",
+    "cbsnl:GM_CODE":"GM0370",
+    "cbsnl:GM_NAAM":"Beemster",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"11",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK037000",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000492,
+    "geom:area_square_m":3701466.937027,
+    "geom:bbox":"4.93041920957,52.5473893637,4.97088549534,52.5689364899",
+    "geom:latitude":52.557956,
+    "geom:longitude":4.949229,
+    "iso:country":"NL",
+    "lbl:latitude":52.557945,
+    "lbl:longitude":4.949229,
+    "mps:latitude":52.557945,
+    "mps:longitude":4.949229,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oostbeemster"
+    ],
+    "name:nld_x_preferred":[
+        "Oostbeemster"
+    ],
+    "reversegeo:latitude":52.557945,
+    "reversegeo:longitude":4.949229,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474039,
+        85633337,
+        1158822771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"01fa7e0a52efce6590b192f25268594b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474039,
+            "locality_id":1158822771,
+            "neighbourhood_id":1158818549,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818549,
+    "wof:lastmodified":1513464078,
+    "wof:name":"Oostbeemster",
+    "wof:parent_id":1158822771,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.930419209568218,
+    52.54738936365003,
+    4.970885495342548,
+    52.568936489939375
+],
+  "geometry": {"coordinates":[[[[4.94000773316269,52.56893648993938],[4.96599065743525,52.5630810365357],[4.96231103765368,52.55696274251864],[4.97088549534255,52.55510043718822],[4.97001293770923,52.55381583996686],[4.97054132674737,52.55360817930227],[4.96930580359395,52.55219479582586],[4.96058752159912,52.55418678441828],[4.95656518292577,52.54738936365003],[4.93041920956822,52.55324240790325],[4.9341777185303,52.55939683472327],[4.94000773316269,52.56893648993938]]]],"type":"MultiPolygon"}
+}

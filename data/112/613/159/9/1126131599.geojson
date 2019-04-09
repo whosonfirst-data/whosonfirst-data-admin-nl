@@ -1,0 +1,79 @@
+{
+  "id": 1126131599,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00810100",
+    "cbsnl:BU_NAAM":"Britsum",
+    "cbsnl:GM_CODE":"GM0081",
+    "cbsnl:GM_NAAM":"Leeuwarderadeel",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"302",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK008101",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":379137.777108,
+    "geom:bbox":"5.77880678637,53.2505520115,5.79158564976,53.2561780911",
+    "geom:latitude":53.253036,
+    "geom:longitude":5.785462,
+    "iso:country":"NL",
+    "lbl:latitude":53.25326,
+    "lbl:longitude":5.785584,
+    "mps:latitude":53.25326,
+    "mps:longitude":5.785584,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Britsum"
+    ],
+    "name:eng_x_preferred":[
+        "Britsum"
+    ],
+    "reversegeo:latitude":53.25326,
+    "reversegeo:longitude":5.785584,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        404473777,
+        85633337,
+        101806105,
+        85687055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"78e7f09528596e9974e62a16fe3f0e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473777,
+            "locality_id":101806105,
+            "neighbourhood_id":1126131599,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":1126131599,
+    "wof:lastmodified":1507246097,
+    "wof:name":"Britsum",
+    "wof:parent_id":101806105,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.77880678636704,
+    53.2505520115071,
+    5.79158564976044,
+    53.25617809109506
+],
+  "geometry": {"coordinates":[[[[5.78835639212348,53.25617809109506],[5.78945526081591,53.25574030189583],[5.79036429932261,53.25458148894113],[5.79103836582485,53.25358632204088],[5.79158564976044,53.25252980257206],[5.79146194917145,53.25211969146289],[5.79083478143132,53.25169274263193],[5.78976938900089,53.25136497873302],[5.78679492803633,53.25065326768524],[5.78550576120838,53.25057499673499],[5.78425366447069,53.25060722486602],[5.78192347463116,53.2505520115071],[5.78013152219464,53.25055396087015],[5.77880678636704,53.25083684174317],[5.77903322152316,53.25169534438492],[5.77964285067923,53.25249811830719],[5.78000905276053,53.25338031136452],[5.78073413395732,53.25387382409384],[5.78258175161354,53.25471969390683],[5.78378383182517,53.2554227758733],[5.78615003430693,53.25610345102026],[5.78835639212348,53.25617809109506]]]],"type":"MultiPolygon"}
+}

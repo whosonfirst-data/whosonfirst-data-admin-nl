@@ -1,0 +1,101 @@
+{
+  "id": 101808719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-07-24",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000134,
+    "geom:area_square_m":1026168.141076,
+    "geom:bbox":"5.15360365417,51.7563638718,5.1773109015,51.7677770296",
+    "geom:latitude":51.761945,
+    "geom:longitude":5.164409,
+    "gn:population":1496,
+    "iso:country":"NL",
+    "lbl:latitude":51.762169,
+    "lbl:longitude":5.16423,
+    "mps:latitude":51.762169,
+    "mps:longitude":5.16423,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:afr_x_preferred":[
+        "Nederhemert"
+    ],
+    "name:nld_x_preferred":[
+        "Nederhemert"
+    ],
+    "name:por_x_preferred":[
+        "Nederhemert"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Nederhemert"
+    ],
+    "qs:a0":"Nederland",
+    "qs:a1":"*Gelderland",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la":"Zaltbommel",
+    "qs:la_lc":"*NL250297",
+    "qs:level":"locality",
+    "qs:loc":"Nederhemert-Noord",
+    "qs:loc_alt":"Nederhemert-Noord",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":51.7628,
+    "wd:longitude":5.1617,
+    "wd:wordcount":123,
+    "wof:belongsto":[
+        102191581,
+        404473955,
+        85633337,
+        85687043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2750480,
+        "gp:id":731860,
+        "qs:id":1013329,
+        "qs_pg:id":1013329,
+        "wd:id":"Q2677372",
+        "wk:page":"Nederhemert"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"77fe28f58e9e3c33fb3f61ee2581f1e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473955,
+            "locality_id":101808719,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":101808719,
+    "wof:lastmodified":1527715352,
+    "wof:name":"Nederhemert-Noord",
+    "wof:parent_id":404473955,
+    "wof:placetype":"locality",
+    "wof:population":1496,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1141964479
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.15360365417291,
+    51.75636387184591,
+    5.17731090150488,
+    51.76777702962659
+],
+  "geometry": {"coordinates":[[[5.16921984279759,51.76777702962659],[5.16931572423033,51.76688053639293],[5.17076160394924,51.76694001035435],[5.17085745221368,51.76604351552328],[5.17230330695094,51.76610297035813],[5.17268653925908,51.76251698317589],[5.17702378270383,51.76269522482397],[5.17731090150488,51.76000571970638],[5.17441957323314,51.7598869178168],[5.17432381469268,51.76078341706676],[5.16854108624,51.76054559462409],[5.16863695867653,51.75964910078068],[5.16574567240821,51.75953008563556],[5.16584159710499,51.75863359425222],[5.16295038179658,51.75851451073015],[5.1630463587469,51.75761802180813],[5.16015521440215,51.75749886991281],[5.1602512436001,51.75660238345336],[5.15446911088327,51.75636387184591],[5.15427682005327,51.75815683367506],[5.15716799326236,51.75827613044095],[5.15687969261501,51.7609655794742],[5.15398834857916,51.76084627457192],[5.15360365417291,51.7644321923222],[5.15504943833798,51.7644918590849],[5.1551455905099,51.76359537865972],[5.16092864837714,51.7638338625585],[5.16083261011909,51.76473034840603],[5.16227841183957,51.76478992630348],[5.16218239736958,51.76568641325997],[5.16651990901829,51.76586504437415],[5.16632803690243,51.76765802567462],[5.16921984279759,51.76777702962659]]],"type":"Polygon"}
+}

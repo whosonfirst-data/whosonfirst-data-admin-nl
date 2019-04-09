@@ -1,0 +1,80 @@
+{
+  "id": 1158825841,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05051903",
+    "cbsnl:BU_NAAM":"Louterbloemen",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1030",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050519",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":216451.257169,
+    "geom:bbox":"4.64057272513,51.7978578903,4.64985559261,51.8021396111",
+    "geom:latitude":51.799667,
+    "geom:longitude":4.645809,
+    "iso:country":"NL",
+    "lbl:latitude":51.79975,
+    "lbl:longitude":4.64572,
+    "mps:latitude":51.79975,
+    "mps:longitude":4.64572,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Louterbloemen"
+    ],
+    "name:nld_x_preferred":[
+        "Louterbloemen"
+    ],
+    "reversegeo:latitude":51.79975,
+    "reversegeo:longitude":4.64572,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829571,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5cf3dfec94b247b4540e02057f21e524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829571,
+            "neighbourhood_id":1158825841,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825841,
+    "wof:lastmodified":1513588020,
+    "wof:name":"Louterbloemen",
+    "wof:parent_id":1158829571,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.640572725125191,
+    51.79785789025821,
+    4.649855592613125,
+    51.80213961106048
+],
+  "geometry": {"coordinates":[[[[4.6488964153984,51.80213961106048],[4.64985559261313,51.80139314433913],[4.64970751553753,51.80016639711582],[4.64934580771605,51.79785789025821],[4.64197047093591,51.79800525065875],[4.64122253163126,51.79812259122625],[4.64057272512519,51.7983841823021],[4.64239945409496,51.80088944151703],[4.64374533109185,51.80095902862246],[4.64596415030278,51.8016450542536],[4.64623546333967,51.80135889560637],[4.6488964153984,51.80213961106048]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1141962815,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02220606",
+    "cbsnl:BU_NAAM":"De Huet fase 5",
+    "cbsnl:GM_CODE":"GM0222",
+    "cbsnl:GM_NAAM":"Doetinchem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"927",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022206",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":376427.750717,
+    "geom:bbox":"6.24466133255,51.9648049768,6.25968241465,51.9701267565",
+    "geom:latitude":51.967967,
+    "geom:longitude":6.252218,
+    "iso:country":"NL",
+    "lbl:latitude":51.967474,
+    "lbl:longitude":6.253577,
+    "mps:latitude":51.967474,
+    "mps:longitude":6.253577,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Fase 5"
+    ],
+    "name:eng_x_variant":[
+        "De Huet fase 5"
+    ],
+    "name:nld_x_preferred":[
+        "Fase 5"
+    ],
+    "name:nld_x_variant":[
+        "De Huet fase 5"
+    ],
+    "reversegeo:latitude":51.967474,
+    "reversegeo:longitude":6.253577,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473885,
+        85633337,
+        101808663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"00cd99ed55ba825f48cb9be60ab416e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473885,
+            "locality_id":101808663,
+            "neighbourhood_id":1141962815,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962815,
+    "wof:lastmodified":1513368702,
+    "wof:name":"Fase 5",
+    "wof:parent_id":101808663,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.244661332549258,
+    51.96480497679232,
+    6.259682414653089,
+    51.97012675654419
+],
+  "geometry": {"coordinates":[[[[6.25200428942657,51.97012675654419],[6.25322606775991,51.97012546077666],[6.25451840463219,51.9700489506537],[6.25587510574447,51.96984828359552],[6.25678075413338,51.96965580904063],[6.25761018741744,51.96942397494608],[6.25856917473457,51.96909480935352],[6.25968241465309,51.96859771110023],[6.25713628619204,51.96670772636728],[6.25554906417707,51.96569512796157],[6.25428716999225,51.96489385925256],[6.25388884831984,51.96480497679232],[6.25351792851479,51.9648514327955],[6.2527078540912,51.96513770044206],[6.25221812669183,51.96516711975435],[6.25164053909178,51.96573025400256],[6.24957580838751,51.96630198052647],[6.24753887165431,51.96683007054065],[6.24613557232979,51.96739741803031],[6.24546385567738,51.96816842395118],[6.24466133254926,51.96895173350064],[6.24535198441295,51.96969089392915],[6.2479646129313,51.96986245260435],[6.25041344586127,51.97002401663532],[6.25200428942657,51.97012675654419]]]],"type":"MultiPolygon"}
+}

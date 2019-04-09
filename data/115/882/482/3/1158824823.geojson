@@ -1,0 +1,82 @@
+{
+  "id": 1158824823,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04840104",
+    "cbsnl:BU_NAAM":"Weteringpark",
+    "cbsnl:GM_CODE":"GM0484",
+    "cbsnl:GM_NAAM":"Alphen aan den Rijn",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"769",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK048401",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":241391.420168,
+    "geom:bbox":"4.64257674863,52.1525016343,4.65068098555,52.1586526099",
+    "geom:latitude":52.155687,
+    "geom:longitude":4.646523,
+    "iso:country":"NL",
+    "lbl:latitude":52.15537,
+    "lbl:longitude":4.646041,
+    "mps:latitude":52.15537,
+    "mps:longitude":4.646041,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Weteringpark"
+    ],
+    "name:nld_x_preferred":[
+        "Weteringpark"
+    ],
+    "reversegeo:latitude":52.15537,
+    "reversegeo:longitude":4.646041,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831205,
+        404474147,
+        85633337,
+        101751837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"dde37786c8a3341aff5405cbd270b9e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474147,
+            "locality_id":101751837,
+            "macrohood_id":1158831205,
+            "neighbourhood_id":1158824823,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158824823,
+    "wof:lastmodified":1513587947,
+    "wof:name":"Weteringpark",
+    "wof:parent_id":1158831205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.642576748632686,
+    52.15250163428376,
+    4.650680985554747,
+    52.15865260993401
+],
+  "geometry": {"coordinates":[[[[4.64257674863269,52.15839925790538],[4.64316774459636,52.15848349592829],[4.64435427982457,52.15865260993401],[4.64458012622543,52.1586510132434],[4.64730742327142,52.1582594284578],[4.64810734470131,52.15817061182054],[4.64795588368361,52.1577716959595],[4.6478307005874,52.15756349663193],[4.64768208791365,52.15664114564442],[4.65068098555475,52.15645433610878],[4.65058495064322,52.15585739665296],[4.65058446493404,52.15585440046323],[4.65033597405749,52.15520272685062],[4.6499270921483,52.15453645502907],[4.64966351495015,52.15383414468271],[4.64966296471516,52.15383047056416],[4.6495189248387,52.1528642351623],[4.64946899314332,52.15252919821757],[4.64912576601323,52.15250163428376],[4.64549117221147,52.15335265885568],[4.64546176176223,52.15340144196261],[4.64506875380861,52.15349414151159],[4.64504564202252,52.15345796245153],[4.64473548513966,52.15353139734849],[4.64412273450517,52.15367647672763],[4.64290310745135,52.1573887852721],[4.64257674863269,52.15839925790538]]]],"type":"MultiPolygon"}
+}

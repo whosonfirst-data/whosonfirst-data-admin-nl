@@ -1,0 +1,80 @@
+{
+  "id": 1158806109,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08990523",
+    "cbsnl:BU_NAAM":"Rumpener Beemden",
+    "cbsnl:GM_CODE":"GM0899",
+    "cbsnl:GM_NAAM":"Brunssum",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2134",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK089905",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:area_square_m":237650.167519,
+    "geom:bbox":"5.96900773608,50.9373958648,5.97917246922,50.9424829935",
+    "geom:latitude":50.940501,
+    "geom:longitude":5.973336,
+    "iso:country":"NL",
+    "lbl:latitude":50.94009,
+    "lbl:longitude":5.972416,
+    "mps:latitude":50.94009,
+    "mps:longitude":5.972416,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Rumpener Beemden"
+    ],
+    "name:nld_x_preferred":[
+        "Rumpener Beemden"
+    ],
+    "reversegeo:latitude":50.94009,
+    "reversegeo:longitude":5.972416,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158818191,
+        85633337,
+        101839207,
+        85687033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c351ce4d000024f41aa8472582a23922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101839207,
+            "macrohood_id":1158818191,
+            "neighbourhood_id":1158806109,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806109,
+    "wof:lastmodified":1513404005,
+    "wof:name":"Rumpener Beemden",
+    "wof:parent_id":1158818191,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.969007736079401,
+    50.9373958647831,
+    5.979172469216928,
+    50.942482993454014
+],
+  "geometry": {"coordinates":[[[[5.97003732334831,50.94248299345401],[5.97029888436466,50.94245672607292],[5.97030019811097,50.94245960477431],[5.97856793865902,50.94218198463423],[5.97917246921693,50.94083419744714],[5.97721256302646,50.94037508984402],[5.97505607306077,50.93950514085262],[5.97380520661068,50.93850668710697],[5.97164113255492,50.9373958647831],[5.97149691601596,50.93752328685401],[5.97079105999996,50.93791551712723],[5.97035715098744,50.938194090009],[5.97016927433591,50.93847142239246],[5.96962006494009,50.93936380733035],[5.96941801454733,50.93966828481521],[5.96926699281348,50.93988272141075],[5.9692533484117,50.93990209460815],[5.96918613494449,50.94005533305862],[5.9690077360794,50.94033723818702],[5.96907127794517,50.9405668357366],[5.96927697240202,50.94084681154541],[5.96950272377191,50.94111391257527],[5.96966847356171,50.94143240703504],[5.9698765905775,50.94190396598754],[5.97000320204024,50.94232484358732],[5.97003732334831,50.94248299345401]]]],"type":"MultiPolygon"}
+}

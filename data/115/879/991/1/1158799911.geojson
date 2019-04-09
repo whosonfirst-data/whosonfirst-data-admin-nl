@@ -1,0 +1,82 @@
+{
+  "id": 1158799911,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16740302",
+    "cbsnl:BU_NAAM":"Ettingen",
+    "cbsnl:GM_CODE":"GM1674",
+    "cbsnl:GM_NAAM":"Roosendaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1661",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK167403",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":387744.692537,
+    "geom:bbox":"4.43319564753,51.5323822374,4.44486338865,51.5411631063",
+    "geom:latitude":51.535822,
+    "geom:longitude":4.439539,
+    "iso:country":"NL",
+    "lbl:latitude":51.536201,
+    "lbl:longitude":4.439937,
+    "mps:latitude":51.536201,
+    "mps:longitude":4.439937,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ettingen"
+    ],
+    "name:nld_x_preferred":[
+        "Ettingen"
+    ],
+    "reversegeo:latitude":51.536201,
+    "reversegeo:longitude":4.439937,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801763,
+        404474587,
+        85633337,
+        101751815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"2ed18c4aaea1ef78e26bcc6875362eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474587,
+            "locality_id":101751815,
+            "macrohood_id":1158801763,
+            "neighbourhood_id":1158799911,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799911,
+    "wof:lastmodified":1513432787,
+    "wof:name":"Ettingen",
+    "wof:parent_id":1158801763,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.433195647529623,
+    51.5323822374096,
+    4.444863388653299,
+    51.54116310631806
+],
+  "geometry": {"coordinates":[[[[4.44478896293401,51.53366231030689],[4.44428990493934,51.53367985805838],[4.44189006410123,51.53333595865702],[4.44004410696088,51.53311156150814],[4.43588801675313,51.53260047254024],[4.43403766486211,51.5323822374096],[4.43319564752962,51.53253447266184],[4.43640102280444,51.53646278959062],[4.44015161209102,51.54116310631806],[4.44166398802807,51.53976855411234],[4.44175487717737,51.53955714560777],[4.44194127648261,51.53911998392334],[4.44229363251912,51.53853494465591],[4.4441167512675,51.53549516482762],[4.44449594245992,51.53486449074419],[4.4448633886533,51.53424360911279],[4.44478896293401,51.53366231030689]]]],"type":"MultiPolygon"}
+}

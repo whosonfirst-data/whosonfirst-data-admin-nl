@@ -1,0 +1,80 @@
+{
+  "id": 1158828077,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17830105",
+    "cbsnl:BU_NAAM":"Geestcomplex",
+    "cbsnl:GM_CODE":"GM1783",
+    "cbsnl:GM_NAAM":"Westland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2021",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK178301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":205166.341486,
+    "geom:bbox":"4.19911466378,51.994468364,4.21042641664,52.0000749648",
+    "geom:latitude":51.997134,
+    "geom:longitude":4.205013,
+    "iso:country":"NL",
+    "lbl:latitude":51.996607,
+    "lbl:longitude":4.203984,
+    "mps:latitude":51.996607,
+    "mps:longitude":4.203984,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Geestcomplex"
+    ],
+    "name:nld_x_preferred":[
+        "Geestcomplex"
+    ],
+    "reversegeo:latitude":51.996607,
+    "reversegeo:longitude":4.203984,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
+        85633337,
+        101837719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c2c6cb0b902e9862c0476c54a72890fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474667,
+            "locality_id":101837719,
+            "neighbourhood_id":1158828077,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828077,
+    "wof:lastmodified":1513588197,
+    "wof:name":"Geestcomplex",
+    "wof:parent_id":101837719,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.199114663775632,
+    51.99446836397331,
+    4.210426416644572,
+    52.000074964758426
+],
+  "geometry": {"coordinates":[[[[4.21042641664457,51.99808099745012],[4.20808270101147,51.99697586021953],[4.20731147368696,51.9965547787927],[4.20665584056539,51.9961967987791],[4.20587653187826,51.99577127917939],[4.20349048616456,51.99446836397331],[4.20022140744195,51.9955460238739],[4.19911466377563,51.99605358182097],[4.19960850557788,51.99623053903683],[4.20171981066286,51.99708020664191],[4.20144935206934,51.99733628745538],[4.20288754012653,51.99791503095226],[4.20363206941468,51.99857264233957],[4.20376423163615,51.99863592715656],[4.2043175646972,51.99823533295344],[4.20546149995813,51.99869887870953],[4.20646803230116,51.99929871280853],[4.20730084375163,51.99972010958118],[4.20802896902024,52.00007496475843],[4.20842711806043,51.9997268069812],[4.21042641664457,51.99808099745012]]]],"type":"MultiPolygon"}
+}

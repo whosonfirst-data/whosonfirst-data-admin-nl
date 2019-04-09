@@ -1,0 +1,69 @@
+{
+  "id": 1108945565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-10-11",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.92607756152,52.343109984,4.92607756152,52.343109984",
+    "geom:latitude":52.34311,
+    "geom:longitude":4.926078,
+    "iso:country":"NL",
+    "lbl:latitude":52.34311,
+    "lbl:longitude":4.926078,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1108802305,
+        85633337,
+        101751893,
+        1108802289,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:created":1491365145,
+    "wof:geomhash":"9401edbb29f362e4e6422b6c209f4e68",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108802289,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1108802305,
+            "neighbourhood_id":1108945565,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1108945565,
+    "wof:lastmodified":1513269529,
+    "wof:name":"Amsteldorp",
+    "wof:parent_id":1108802305,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158844403
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.92607756151669,
+    52.34310998395462,
+    4.92607756151669,
+    52.34310998395462
+],
+  "geometry": {"coordinates":[4.92607756151669,52.34310998395462],"type":"Point"}
+}

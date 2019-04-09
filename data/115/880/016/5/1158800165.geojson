@@ -1,0 +1,80 @@
+{
+  "id": 1158800165,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17090100",
+    "cbsnl:BU_NAAM":"Zevenbergschen Hoek",
+    "cbsnl:GM_CODE":"GM1709",
+    "cbsnl:GM_NAAM":"Moerdijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"207",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170901",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000164,
+    "geom:area_square_m":1254886.051184,
+    "geom:bbox":"4.66590793445,51.6678435648,4.690788548,51.6833995472",
+    "geom:latitude":51.675085,
+    "geom:longitude":4.677702,
+    "iso:country":"NL",
+    "lbl:latitude":51.672586,
+    "lbl:longitude":4.67855,
+    "mps:latitude":51.672586,
+    "mps:longitude":4.67855,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zevenbergschen Hoek"
+    ],
+    "name:nld_x_preferred":[
+        "Zevenbergschen Hoek"
+    ],
+    "reversegeo:latitude":51.672586,
+    "reversegeo:longitude":4.67855,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474623,
+        85633337,
+        101809655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"936c3fbf9d568fbf4b8d222527c4672f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474623,
+            "locality_id":101809655,
+            "neighbourhood_id":1158800165,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158800165,
+    "wof:lastmodified":1513432805,
+    "wof:name":"Zevenbergschen Hoek",
+    "wof:parent_id":101809655,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.665907934450429,
+    51.66784356477802,
+    4.690788547999741,
+    51.68339954717918
+],
+  "geometry": {"coordinates":[[[[4.6814091091755,51.6693969297867],[4.67744921970137,51.66784356477802],[4.66993802175662,51.67578435258856],[4.66590793445043,51.6799113051356],[4.67087138971704,51.68286228736839],[4.6714011350602,51.68319642538629],[4.6722800097877,51.68339954717918],[4.67331695424311,51.68338705374003],[4.67394424958445,51.6832245829383],[4.6745230277109,51.67971517032858],[4.67490004719993,51.67881408963045],[4.67547536603467,51.67827460831892],[4.6769134357786,51.67766395537829],[4.68030136423525,51.67607377364688],[4.68403334688571,51.67819063124018],[4.68552288074314,51.67715237111865],[4.68699390354972,51.67607971286743],[4.68811369248464,51.6752847140212],[4.69078854799974,51.67321160100695],[4.68876502201623,51.67238999493258],[4.68432095422527,51.67054457823102],[4.68406896975511,51.67047283929039],[4.68384002208084,51.67035039582711],[4.68362198009457,51.67026487898349],[4.68462828208762,51.66936593427096],[4.68244969435956,51.66846072656204],[4.6814091091755,51.6693969297867]]]],"type":"MultiPolygon"}
+}

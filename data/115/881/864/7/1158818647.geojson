@@ -1,0 +1,82 @@
+{
+  "id": 1158818647,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03750002",
+    "cbsnl:BU_NAAM":"Koningstraat",
+    "cbsnl:GM_CODE":"GM0375",
+    "cbsnl:GM_NAAM":"Beverwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2837",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK037500",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:area_square_m":160184.392101,
+    "geom:bbox":"4.65320029351,52.4794693381,4.66111413828,52.4861538811",
+    "geom:latitude":52.482787,
+    "geom:longitude":4.656782,
+    "iso:country":"NL",
+    "lbl:latitude":52.482921,
+    "lbl:longitude":4.656842,
+    "mps:latitude":52.482921,
+    "mps:longitude":4.656842,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Koningstraat"
+    ],
+    "name:nld_x_preferred":[
+        "Koningstraat"
+    ],
+    "reversegeo:latitude":52.482921,
+    "reversegeo:longitude":4.656842,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823145,
+        404474043,
+        85633337,
+        101754793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f718cb13d672b4c76948bf0d1c4ea5d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474043,
+            "locality_id":101754793,
+            "macrohood_id":1158823145,
+            "neighbourhood_id":1158818647,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818647,
+    "wof:lastmodified":1513464084,
+    "wof:name":"Koningstraat",
+    "wof:parent_id":1158823145,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.653200293513486,
+    52.47946933808523,
+    4.661114138277306,
+    52.48615388106561
+],
+  "geometry": {"coordinates":[[[[4.65583622548617,52.48530794832088],[4.65627549635709,52.48539621847684],[4.65631854390551,52.4854638912778],[4.65637953190863,52.48551089172128],[4.65671349665024,52.48615388106561],[4.6577414561716,52.48497383561126],[4.65818171130614,52.48496839800727],[4.65989095418173,52.48389222715278],[4.66104777396774,52.48445121396274],[4.66106485727842,52.48435964094947],[4.66100682318594,52.48426575606748],[4.66111413827731,52.48379650903967],[4.65793402329354,52.48168834163025],[4.6561210340351,52.48040261334938],[4.65403447031104,52.47946933808523],[4.65394764902744,52.48017630097426],[4.65320029351349,52.4801455557261],[4.65335399699541,52.48064082941855],[4.65384798220298,52.48095030936271],[4.65418286578825,52.48125627669807],[4.65417016598886,52.48131461811813],[4.65409074344483,52.48166548761884],[4.65525348369673,52.48365109246816],[4.65544006857586,52.48439202793163],[4.65571168424301,52.48490676650917],[4.65583622548617,52.48530794832088]]]],"type":"MultiPolygon"}
+}

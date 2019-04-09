@@ -1,0 +1,80 @@
+{
+  "id": 1158797419,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07721515",
+    "cbsnl:BU_NAAM":"Winkelcentrum",
+    "cbsnl:GM_CODE":"GM0772",
+    "cbsnl:GM_NAAM":"Eindhoven",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3547",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK077215",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000023,
+    "geom:area_square_m":176787.079994,
+    "geom:bbox":"5.47194038685,51.4674399284,5.47910057107,51.471197388",
+    "geom:latitude":51.469321,
+    "geom:longitude":5.475541,
+    "iso:country":"NL",
+    "lbl:latitude":51.469319,
+    "lbl:longitude":5.475541,
+    "mps:latitude":51.469319,
+    "mps:longitude":5.475541,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Winkelcentrum"
+    ],
+    "name:nld_x_preferred":[
+        "Winkelcentrum"
+    ],
+    "reversegeo:latitude":51.469319,
+    "reversegeo:longitude":5.475541,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158801469,
+        85633337,
+        101751819,
+        85687035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8ede18abc69e10252ab17d59824ec2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751819,
+            "macrohood_id":1158801469,
+            "neighbourhood_id":1158797419,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797419,
+    "wof:lastmodified":1513432592,
+    "wof:name":"Winkelcentrum",
+    "wof:parent_id":1158801469,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.471940386849889,
+    51.467439928437926,
+    5.479100571071873,
+    51.47119738804504
+],
+  "geometry": {"coordinates":[[[[5.47910057107187,51.47047339705338],[5.47909133522074,51.47038999860649],[5.47902615636555,51.4700213886135],[5.47893950899234,51.46948519179582],[5.47891626655791,51.46934135691023],[5.47884781273389,51.46885311960028],[5.47873112303039,51.46816673830325],[5.47868336827682,51.4678472535811],[5.47864043018694,51.46755999564871],[5.47735818242364,51.4675328313768],[5.47639095838517,51.46751214497877],[5.47475152617434,51.4674791133093],[5.47279664094762,51.46743992843793],[5.47271123589773,51.46778933935329],[5.47257840171081,51.46833277640004],[5.47232219087836,51.46938092115096],[5.47194038684989,51.47094277502274],[5.47300497750643,51.47091790619589],[5.47338555435145,51.47119738804504],[5.47527371331259,51.47114896535324],[5.47782867374027,51.47108339339945],[5.47780921263561,51.47063490970108],[5.47830790023541,51.47061798360756],[5.47867848035201,51.47060540403893],[5.47888171100014,51.4704823600926],[5.47910057107187,51.47047339705338]]]],"type":"MultiPolygon"}
+}

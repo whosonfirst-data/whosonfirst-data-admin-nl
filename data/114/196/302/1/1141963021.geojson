@@ -1,0 +1,82 @@
+{
+  "id": 1141963021,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02280206",
+    "cbsnl:BU_NAAM":"Klaphek",
+    "cbsnl:GM_CODE":"GM0228",
+    "cbsnl:GM_NAAM":"Ede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2163",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022802",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":371486.044834,
+    "geom:bbox":"5.6447747039,52.0314030845,5.6550204076,52.0388260372",
+    "geom:latitude":52.034969,
+    "geom:longitude":5.64953,
+    "iso:country":"NL",
+    "lbl:latitude":52.035138,
+    "lbl:longitude":5.649433,
+    "mps:latitude":52.035138,
+    "mps:longitude":5.649433,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Klaphek"
+    ],
+    "name:nld_x_preferred":[
+        "Klaphek"
+    ],
+    "reversegeo:latitude":52.035138,
+    "reversegeo:longitude":5.649433,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158784001,
+        404473893,
+        85633337,
+        101751855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b30ae2eddb65cb90699cec2b28a7dd10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473893,
+            "locality_id":101751855,
+            "macrohood_id":1158784001,
+            "neighbourhood_id":1141963021,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963021,
+    "wof:lastmodified":1513368718,
+    "wof:name":"Klaphek",
+    "wof:parent_id":1158784001,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.644774703895235,
+    52.03140308446341,
+    5.655020407600385,
+    52.03882603718711
+],
+  "geometry": {"coordinates":[[[[5.64477470389524,52.03808410001606],[5.6498117371817,52.03882603718711],[5.65043827317974,52.03806544515528],[5.65170044720367,52.03676087167236],[5.65408625860033,52.03443998604548],[5.65492857088328,52.03355931065983],[5.65502040760038,52.03330566270374],[5.65413524012756,52.03204048915477],[5.65402402929815,52.03196174620574],[5.65323488977167,52.03140308446341],[5.65310738266853,52.03142660725869],[5.64601171325832,52.03270945249827],[5.64477470389524,52.03808410001606]]]],"type":"MultiPolygon"}
+}

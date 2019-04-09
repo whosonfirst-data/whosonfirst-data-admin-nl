@@ -1,0 +1,83 @@
+{
+  "id": 1108803813,
+  "type": "Feature",
+  "properties": {
+    "amsgis:_categories":"buurt",
+    "amsgis:_id":"buurt.03630023753977",
+    "amsgis:categorie":"90",
+    "amsgis:code":"89c",
+    "amsgis:display":"Staalmanbuurt",
+    "amsgis:externe_id":"3630023753977",
+    "amsgis:naam":"Staalmanbuurt",
+    "amsgis:online_tijdsaspect":"1",
+    "amsgis:titel":"Staalmanbuurt",
+    "amsgis:titel_key":"staalmanbuurt_2",
+    "amsgis:type":"Buurtgrenzen",
+    "amsgis:type_2":"gebieden/buurt",
+    "amsgis:uri":"https://api.datapunt.amsterdam.nl/gebieden/buurt/03630023753977/",
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-10-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":320101.342703,
+    "geom:bbox":"4.8274156732,52.3455883424,4.83440798339,52.3518946406",
+    "geom:latitude":52.348722,
+    "geom:longitude":4.830882,
+    "iso:country":"NL",
+    "lbl:latitude":52.348723,
+    "lbl:longitude":4.830883,
+    "mps:latitude":52.348723,
+    "mps:longitude":4.830883,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "reversegeo:latitude":52.348723,
+    "reversegeo:longitude":4.830883,
+    "src:geom":"amsgis",
+    "wof:belongsto":[
+        85798403,
+        102191581,
+        85633337,
+        101751893,
+        1108802279,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"NL",
+    "wof:geomhash":"67d24298a23188bac2be1fe36f018ccf",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108802279,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108803813,
+            "neighbourhood_id":85798403,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1108803813,
+    "wof:lastmodified":1513269525,
+    "wof:name":"Staalmanbuurt",
+    "wof:parent_id":85798403,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158844261
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.82741567319588,
+    52.34558834242439,
+    4.8344079833873,
+    52.35189464055009
+],
+  "geometry": {"coordinates":[[[4.83419854675421,52.35189464055009],[4.83419875980532,52.35185580605318],[4.83420327960158,52.35103197077541],[4.83418702901136,52.35047833604082],[4.83418793846661,52.35045095915355],[4.83419386019139,52.35027270086641],[4.83421522727694,52.34962948677207],[4.83423835531135,52.34893324087936],[4.83425498781617,52.34843252181889],[4.83428392576876,52.34793072179324],[4.83436251125219,52.34656794738024],[4.83438571752217,52.34616550398198],[4.83440339180436,52.34577648894268],[4.83440431782909,52.3457561068121],[4.8344079833873,52.34563284363698],[4.83279447264459,52.34561481363431],[4.83042914399175,52.34558834242439],[4.82839400377901,52.34559033639152],[4.82756825500512,52.34559114366685],[4.82756306778852,52.34569962457267],[4.82753344936419,52.34711906376145],[4.8274978438101,52.34830300073231],[4.82748273625957,52.34880327174243],[4.82741578708831,52.35180823319149],[4.82741567319588,52.35181222884798],[4.83419854675421,52.35189464055009]]],"type":"Polygon"}
+}

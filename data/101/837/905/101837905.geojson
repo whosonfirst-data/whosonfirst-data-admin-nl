@@ -1,0 +1,123 @@
+{
+  "id": 101837905,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU15980001",
+    "cbsnl:BU_NAAM":"De Goorn",
+    "cbsnl:GM_CODE":"GM1598",
+    "cbsnl:GM_NAAM":"Koggenland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"594",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK159800",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000806,
+    "geom:area_square_m":6051218.052548,
+    "geom:bbox":"4.92616950909,52.6188581136,4.97700978125,52.6455859635",
+    "geom:latitude":52.632254,
+    "geom:longitude":4.952696,
+    "iso:country":"NL",
+    "lbl:latitude":52.626097,
+    "lbl:longitude":4.94734,
+    "mps:latitude":52.633723,
+    "mps:longitude":4.957296,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:dut_x_preferred":[
+        "De Goorn"
+    ],
+    "name:eng_x_preferred":[
+        "De Goorn"
+    ],
+    "name:fra_x_preferred":[
+        "De Goorn"
+    ],
+    "name:fre_x_preferred":[
+        "De Goorn"
+    ],
+    "name:nld_x_preferred":[
+        "De Goorn"
+    ],
+    "name:por_x_preferred":[
+        "De Goorn"
+    ],
+    "name:unk_x_variant":[
+        "Goorn"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "De Goorn"
+    ],
+    "qs:a0":"Nederland",
+    "qs:a1":"*Noord-Holland",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la":"Wester-Koggenland",
+    "qs:la_lc":"*NL270558",
+    "qs:level":"locality",
+    "qs:loc":"De Goorn",
+    "qs:loc_alt":"De Goorn",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "reversegeo:latitude":52.633723,
+    "reversegeo:longitude":4.957296,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":52.6303,
+    "wd:longitude":4.9444,
+    "wd:wordcount":111,
+    "wof:belongsto":[
+        102191581,
+        404474551,
+        85633337,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2757623,
+        "gp:id":728334,
+        "qs:id":261914,
+        "qs_pg:id":261914,
+        "tgn:id":7263235,
+        "wd:id":"Q2993272",
+        "wk:page":"De Goorn"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"4c1ca4b899f88feac37cb76a726b4b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474551,
+            "locality_id":101837905,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":101837905,
+    "wof:lastmodified":1527715310,
+    "wof:name":"De Goorn",
+    "wof:parent_id":404474551,
+    "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "neighbourhood"
+    ],
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.92616950909355,
+    52.61885811355096,
+    4.97700978125026,
+    52.64558596350699
+],
+  "geometry": {"coordinates":[[[[4.9363817680355,52.63418441130037],[4.94178459959282,52.63497064716702],[4.94359018623322,52.63507793952041],[4.9429809602903,52.63601566601714],[4.94186204839842,52.63665771288513],[4.94451430587021,52.63806596111886],[4.94874328803609,52.64123892358518],[4.95436034061706,52.64558596350699],[4.95831211348826,52.64384048681997],[4.96070700007006,52.64399738681761],[4.97656239612019,52.64489966345477],[4.97700978125026,52.64492732554093],[4.97512110723206,52.63913308842452],[4.97459900107875,52.63809523082066],[4.97512168932556,52.6371848490409],[4.97187162846327,52.63155657810684],[4.9666068203509,52.62202516115061],[4.96559211988689,52.62112284971747],[4.96380657497726,52.62175712075339],[4.96128648218729,52.62244293912563],[4.95597861038762,52.62339161299445],[4.95162986641339,52.62409557747882],[4.94828623341348,52.62454892767747],[4.94537452069659,52.62463335124729],[4.94488251703115,52.62451019493241],[4.9453831607401,52.62348499093375],[4.94509598229454,52.62340556584262],[4.94452088769649,52.62345819206795],[4.93532783224524,52.61885811355096],[4.92657481528778,52.62402726280896],[4.92616950909355,52.63269747755976],[4.9363817680355,52.63418441130037]]]],"type":"MultiPolygon"}
+}

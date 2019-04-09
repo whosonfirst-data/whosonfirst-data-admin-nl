@@ -1,0 +1,80 @@
+{
+  "id": 1158828373,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18920303",
+    "cbsnl:BU_NAAM":"Dorp Noord",
+    "cbsnl:GM_CODE":"GM1892",
+    "cbsnl:GM_NAAM":"Zuidplas",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1044",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK189203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":271237.790279,
+    "geom:bbox":"4.66078278351,51.9880221879,4.67241707513,51.9943890194",
+    "geom:latitude":51.991127,
+    "geom:longitude":4.666902,
+    "iso:country":"NL",
+    "lbl:latitude":51.991287,
+    "lbl:longitude":4.666902,
+    "mps:latitude":51.991287,
+    "mps:longitude":4.666902,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Dorp Noord"
+    ],
+    "name:nld_x_preferred":[
+        "Dorp Noord"
+    ],
+    "reversegeo:latitude":51.991287,
+    "reversegeo:longitude":4.666902,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158824737,
+        85633337,
+        101754681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"56198babee4ad8f07138be9fcfc31b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824737,
+            "locality_id":101754681,
+            "neighbourhood_id":1158828373,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828373,
+    "wof:lastmodified":1513588222,
+    "wof:name":"Dorp Noord",
+    "wof:parent_id":101754681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.660782783505985,
+    51.98802218794689,
+    4.672417075134177,
+    51.994389019350905
+],
+  "geometry": {"coordinates":[[[[4.66637644482776,51.9943890193509],[4.67086469040209,51.99164977554951],[4.6716475050208,51.99118376731384],[4.67241707513418,51.99083869622746],[4.67224101348031,51.99060465299969],[4.67157853885719,51.99010684494589],[4.670475968689,51.98944158040167],[4.66961518269353,51.98900060226714],[4.66882664935875,51.98859662552104],[4.66791068364868,51.98802218794689],[4.6677442259515,51.98810195685013],[4.66712861050297,51.98839696803691],[4.66562347238351,51.98912462284392],[4.66561779417018,51.98912738540158],[4.66439996109531,51.98971973383026],[4.66352075644587,51.99014735686052],[4.66078278350598,51.99147894358986],[4.66145543571827,51.991875260376],[4.66199924473313,51.99165920452545],[4.66637644482776,51.9943890193509]]]],"type":"MultiPolygon"}
+}

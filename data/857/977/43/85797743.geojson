@@ -1,0 +1,130 @@
+{
+  "id": 85797743,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02220905",
+    "cbsnl:BU_NAAM":"De IJkenberg",
+    "cbsnl:GM_CODE":"GM0222",
+    "cbsnl:GM_NAAM":"Doetinchem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1894",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022209",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:area_square_m":418300.597974,
+    "geom:bbox":"6.28959102739,51.9689537354,6.30232418265,51.9770873331",
+    "geom:latitude":51.973233,
+    "geom:longitude":6.296095,
+    "gn:latitude":51.97246,
+    "gn:longitude":6.29813,
+    "iso:country":"NL",
+    "lbl:latitude":52.232384,
+    "lbl:longitude":5.946861,
+    "mps:latitude":51.973326,
+    "mps:longitude":6.296191,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "De IJkenberg"
+    ],
+    "name:nld_x_colloquial":[
+        "Ykenberg"
+    ],
+    "name:nld_x_preferred":[
+        "De IJkenberg"
+    ],
+    "name:nld_x_variant":[
+        "Ijkenberg"
+    ],
+    "name:unk_x_variant":[
+        "Ijkenberg"
+    ],
+    "qs:gn_adm0_cc":"NL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2756767,
+    "qs:gn_nam_loc":"Doetinchem, Doetinchem, Gelderland, NL",
+    "qs:gn_namadm1":"03",
+    "qs:gn_name":"IJkenberg",
+    "qs:local_max":1393,
+    "qs:local_sum":2619,
+    "qs:localhoods":4,
+    "qs:name":"Ijkenberg",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Gelderland",
+    "qs:name_adm2":"Doetinchem",
+    "qs:name_local":"Doetinchem",
+    "qs:photo_max":367,
+    "qs:photo_sum":1393,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":57,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346375,
+    "qs:woe_adm2":12592127,
+    "qs:woe_lau":0,
+    "qs:woe_local":728752,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":51.973326,
+    "reversegeo:longitude":6.296191,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        404473885,
+        85633337,
+        101808663,
+        85687043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2753380,
+        "gp:id":730478,
+        "qs:id":285831,
+        "qs_pg:id":285831
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"070b9c0d43ad95b1fafe66013881d033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473885,
+            "locality_id":101808663,
+            "neighbourhood_id":85797743,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":85797743,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527269450,
+    "wof:name":"De IJkenberg",
+    "wof:parent_id":101808663,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.28959102739347,
+    51.96895373540666,
+    6.30232418264511,
+    51.97708733305388
+],
+  "geometry": {"coordinates":[[[[6.29454773821316,51.97708733305388],[6.29660104032231,51.9765435830411],[6.2981664629214,51.97617643295582],[6.29911251517312,51.97592893578778],[6.29964993216786,51.97576047433524],[6.30019876248681,51.97553192579217],[6.30068863974161,51.97531166312874],[6.30127437663337,51.97501987518676],[6.30164234396806,51.9748856285837],[6.30156027803377,51.97470248270554],[6.30157899209033,51.97450087045745],[6.30173531355684,51.97433200155783],[6.30232418264511,51.97400437455314],[6.30122712478827,51.97317978384942],[6.30157847306033,51.97299468822715],[6.2985119656828,51.97087791431847],[6.29785556105444,51.97034897140257],[6.29753485940622,51.96989329805494],[6.29707324632069,51.96895373540666],[6.29650055345648,51.96921217294447],[6.29605459056084,51.96951420676066],[6.2942490224764,51.97038785716907],[6.29253308217985,51.97082754514127],[6.29150709460284,51.97113500870771],[6.29121619732215,51.97118913326285],[6.2901552424066,51.97123005584504],[6.28977178165148,51.9713012722273],[6.28959102739347,51.97140023128128],[6.2897155700026,51.97172643086568],[6.28990437791189,51.97197227040056],[6.29052109954662,51.97235495194244],[6.29108003637193,51.97270285603904],[6.29132361177513,51.9730102120837],[6.29144005061524,51.97364345623524],[6.29256954099188,51.97487471640068],[6.2934213641204,51.97593971976495],[6.29454773821316,51.97708733305388]]]],"type":"MultiPolygon"}
+}

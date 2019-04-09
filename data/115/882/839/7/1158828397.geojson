@@ -1,0 +1,80 @@
+{
+  "id": 1158828397,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18920403",
+    "cbsnl:BU_NAAM":"Zuidplas Noord",
+    "cbsnl:GM_CODE":"GM1892",
+    "cbsnl:GM_NAAM":"Zuidplas",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1585",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK189204",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:area_square_m":719236.565653,
+    "geom:bbox":"4.60211163839,51.9684851303,4.62250162642,51.9791331279",
+    "geom:latitude":51.973811,
+    "geom:longitude":4.612785,
+    "iso:country":"NL",
+    "lbl:latitude":51.973584,
+    "lbl:longitude":4.612785,
+    "mps:latitude":51.973584,
+    "mps:longitude":4.612785,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zuidplas Noord"
+    ],
+    "name:nld_x_preferred":[
+        "Zuidplas Noord"
+    ],
+    "reversegeo:latitude":51.973584,
+    "reversegeo:longitude":4.612785,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158824737,
+        85633337,
+        101808529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f3a99f3ca06da8af10d3c540b7b84dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824737,
+            "locality_id":101808529,
+            "neighbourhood_id":1158828397,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828397,
+    "wof:lastmodified":1513588224,
+    "wof:name":"Zuidplas Noord",
+    "wof:parent_id":101808529,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.602111638394759,
+    51.96848513027889,
+    4.622501626417927,
+    51.979133127932016
+],
+  "geometry": {"coordinates":[[[[4.61681108258426,51.97913312793202],[4.61793553889024,51.97842424346138],[4.62250162641793,51.97566243985747],[4.62196146248713,51.97531463695227],[4.61847230669042,51.97306784650992],[4.61638394177196,51.97242393580549],[4.61191669225049,51.96940446102284],[4.61057462614599,51.96848513027889],[4.60833959990373,51.96943092481435],[4.60804844954393,51.96959161793246],[4.60804112958733,51.96960502703396],[4.60778945948018,51.97006614768313],[4.6059064079053,51.97092483724701],[4.6047722244629,51.97095892162442],[4.60418358272709,51.9711937622595],[4.60332436330216,51.97153654221564],[4.60296563185084,51.97167965290306],[4.60211163839476,51.9720203319104],[4.60868585310367,51.97518216004759],[4.61668989290996,51.97907370536451],[4.61681108258426,51.97913312793202]]]],"type":"MultiPolygon"}
+}

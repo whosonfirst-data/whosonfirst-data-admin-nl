@@ -1,0 +1,82 @@
+{
+  "id": 1158827641,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06420207",
+    "cbsnl:BU_NAAM":"Burgemeester Doornplein en omgeving",
+    "cbsnl:GM_CODE":"GM0642",
+    "cbsnl:GM_NAAM":"Zwijndrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2693",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK064202",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":84351.822459,
+    "geom:bbox":"4.64095769616,51.8158857484,4.64823050706,51.8193005086",
+    "geom:latitude":51.817406,
+    "geom:longitude":4.644723,
+    "iso:country":"NL",
+    "lbl:latitude":51.817731,
+    "lbl:longitude":4.644475,
+    "mps:latitude":51.817731,
+    "mps:longitude":4.644475,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Burgemeester Doornplein en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Burgemeester Doornplein en omgeving"
+    ],
+    "reversegeo:latitude":51.817731,
+    "reversegeo:longitude":4.644475,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831143,
+        404474291,
+        85633337,
+        101754703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ccb7015e057145a142db68b71bfd5e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474291,
+            "locality_id":101754703,
+            "macrohood_id":1158831143,
+            "neighbourhood_id":1158827641,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827641,
+    "wof:lastmodified":1513588162,
+    "wof:name":"Burgemeester Doornplein en omgeving",
+    "wof:parent_id":1158831143,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.64095769615618,
+    51.81588574842228,
+    4.6482305070618,
+    51.81930050857338
+],
+  "geometry": {"coordinates":[[[[4.64095769615618,51.81691899656787],[4.64203066331686,51.81765966023819],[4.64403013354015,51.81905074560746],[4.64452481017929,51.81930050857338],[4.64542821543861,51.81864540066485],[4.64638820635417,51.81776144024496],[4.64651839570543,51.81763840633253],[4.64626068245831,51.81740812536296],[4.64635522803318,51.81735795401477],[4.64643095619296,51.8173293899609],[4.64735964948616,51.81712995504161],[4.6482305070618,51.81693959653332],[4.64750205369715,51.81588574842228],[4.64703841431148,51.81598786735456],[4.64530742093692,51.81634574309817],[4.6435909067205,51.81670076426756],[4.64315042545282,51.81679849285688],[4.64300447954155,51.81682565713859],[4.64292093450545,51.81682955858494],[4.64269448149839,51.8168207338614],[4.6418023340512,51.8167544596423],[4.64156771424218,51.81673522554576],[4.64143522217591,51.81674251871627],[4.64139812267646,51.81675040866337],[4.64095769615618,51.81691899656787]]]],"type":"MultiPolygon"}
+}

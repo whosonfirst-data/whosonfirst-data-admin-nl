@@ -1,0 +1,76 @@
+{
+  "id": 101839273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000203,
+    "geom:area_square_m":1572480.449576,
+    "geom:bbox":"5.87463898899,51.0906013293,5.89280863248,51.1096631647",
+    "geom:latitude":51.100079,
+    "geom:longitude":5.884953,
+    "iso:country":"NL",
+    "lbl:latitude":51.099702,
+    "lbl:longitude":5.885091,
+    "mps:latitude":51.099702,
+    "mps:longitude":5.885091,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Nederland",
+    "qs:a1":"*Limburg",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la":"Maasbracht",
+    "qs:la_lc":"*NL310933",
+    "qs:level":"locality",
+    "qs:loc":"Schilberg",
+    "qs:loc_alt":"Schilberg",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404474627,
+        85633337,
+        85687033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2747579,
+        "qs:id":4
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"b7e8be57c4125e30250c4c89c781c9ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474627,
+            "locality_id":101839273,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":101839273,
+    "wof:lastmodified":1513401739,
+    "wof:name":"Schilberg",
+    "wof:parent_id":404474627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158807575
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.87463898899193,
+    51.09060132927351,
+    5.89280863248109,
+    51.10966316467449
+],
+  "geometry": {"coordinates":[[[5.89280863248109,51.10408771047821],[5.89042268359196,51.09320232076482],[5.88662555447399,51.09306774723723],[5.88684512416938,51.09060132927351],[5.88100293309662,51.09197572692324],[5.88076356592376,51.09465990432108],[5.87933802860641,51.09460927615794],[5.87925797982905,51.09550651751931],[5.87463898899193,51.09534233034788],[5.88371652463013,51.10966316467449],[5.88376071575891,51.10916758715041],[5.89089069274235,51.10942029317749],[5.8910504059038,51.10762579756476],[5.88962445989876,51.10757529361871],[5.88994395034689,51.10398630384094],[5.89280863248109,51.10408771047821]]],"type":"Polygon"}
+}

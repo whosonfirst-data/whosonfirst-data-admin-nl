@@ -1,0 +1,82 @@
+{
+  "id": 1158803423,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01931140",
+    "cbsnl:BU_NAAM":"Bagijneweide",
+    "cbsnl:GM_CODE":"GM0193",
+    "cbsnl:GM_NAAM":"Zwolle",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3662",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK019311",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000019,
+    "geom:area_square_m":145304.81644,
+    "geom:bbox":"6.1005619109,52.5120414935,6.10887075351,52.516602759",
+    "geom:latitude":52.514276,
+    "geom:longitude":6.104604,
+    "iso:country":"NL",
+    "lbl:latitude":52.514164,
+    "lbl:longitude":6.104604,
+    "mps:latitude":52.514164,
+    "mps:longitude":6.104604,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bagijneweide"
+    ],
+    "name:nld_x_preferred":[
+        "Bagijneweide"
+    ],
+    "reversegeo:latitude":52.514164,
+    "reversegeo:longitude":6.104604,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805787,
+        404473861,
+        85633337,
+        101751861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b76d230be03dd9146bf99ddfacff6fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158805787,
+            "neighbourhood_id":1158803423,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803423,
+    "wof:lastmodified":1513524338,
+    "wof:name":"Bagijneweide",
+    "wof:parent_id":1158805787,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.100561910900423,
+    52.512041493541375,
+    6.108870753514186,
+    52.51660275896213
+],
+  "geometry": {"coordinates":[[[[6.10656101134002,52.51660275896213],[6.10677620928027,52.51613330584257],[6.10690248121593,52.51585560657763],[6.10703031866876,52.51567412048791],[6.10714380314486,52.51555608768281],[6.10752485834784,52.51533316647755],[6.10887075351419,52.51468502486689],[6.10705231737986,52.51370160770376],[6.10407428808718,52.51204149354137],[6.10123024155037,52.5131257030734],[6.10056191090042,52.51331916864289],[6.10178022208521,52.51467206864496],[6.10266037151734,52.51537694089758],[6.10305919139826,52.5155364714355],[6.10358099252912,52.51568821496483],[6.10493690436536,52.51608924254234],[6.10570608718269,52.51631223279079],[6.10599622829441,52.5164113911405],[6.10656101134002,52.51660275896213]]]],"type":"MultiPolygon"}
+}

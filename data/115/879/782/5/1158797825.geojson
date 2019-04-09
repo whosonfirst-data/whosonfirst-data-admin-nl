@@ -1,0 +1,80 @@
+{
+  "id": 1158797825,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07880300",
+    "cbsnl:BU_NAAM":"Esch",
+    "cbsnl:GM_CODE":"GM0788",
+    "cbsnl:GM_NAAM":"Haaren",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"267",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK078803",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00012,
+    "geom:area_square_m":924432.286402,
+    "geom:bbox":"5.28251743721,51.6053740982,5.29889821092,51.6170423877",
+    "geom:latitude":51.610771,
+    "geom:longitude":5.29139,
+    "iso:country":"NL",
+    "lbl:latitude":51.610683,
+    "lbl:longitude":5.29139,
+    "mps:latitude":51.610683,
+    "mps:longitude":5.29139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Esch"
+    ],
+    "name:nld_x_preferred":[
+        "Esch"
+    ],
+    "reversegeo:latitude":51.610683,
+    "reversegeo:longitude":5.29139,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474387,
+        85633337,
+        101808233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"cb69a986d7562816455c8066617dc542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474387,
+            "locality_id":101808233,
+            "neighbourhood_id":1158797825,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797825,
+    "wof:lastmodified":1513432622,
+    "wof:name":"Esch",
+    "wof:parent_id":101808233,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.282517437213168,
+    51.60537409815838,
+    5.298898210918574,
+    51.61704238771671
+],
+  "geometry": {"coordinates":[[[[5.28255605373222,51.60539199294858],[5.2835658890998,51.60622349244917],[5.28370913168158,51.60921589357527],[5.28474942366242,51.61040771960157],[5.28857766999315,51.61462178411924],[5.29647881948187,51.61704238771671],[5.29889821091857,51.61694777601834],[5.29845049802942,51.61467880386615],[5.29852670789844,51.61310784970701],[5.29694728257749,51.60907535382664],[5.29624612707138,51.60863571985286],[5.29590007812855,51.60757327189251],[5.29016719408804,51.60542496616707],[5.28251743721317,51.60537409815838],[5.28255605373222,51.60539199294858]]]],"type":"MultiPolygon"}
+}

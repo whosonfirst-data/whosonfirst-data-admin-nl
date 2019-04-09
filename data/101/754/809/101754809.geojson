@@ -1,0 +1,121 @@
+{
+  "id": 101754809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-02",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":628190.359276,
+    "geom:bbox":"5.00020713267,52.3001256638,5.02203031506,52.3087963243",
+    "geom:latitude":52.304825,
+    "geom:longitude":5.011312,
+    "gn:population":1500,
+    "iso:country":"NL",
+    "lbl:latitude":52.304454,
+    "lbl:longitude":5.006921,
+    "mps:latitude":52.304454,
+    "mps:longitude":5.006921,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bre_x_preferred":[
+        "Driemond"
+    ],
+    "name:deu_x_preferred":[
+        "Driemond"
+    ],
+    "name:dut_x_preferred":[
+        "Driemond"
+    ],
+    "name:fra_x_preferred":[
+        "Driemond"
+    ],
+    "name:ita_x_preferred":[
+        "Driemond"
+    ],
+    "name:nld_x_preferred":[
+        "Driemond"
+    ],
+    "name:por_x_preferred":[
+        "Driemond"
+    ],
+    "name:sqi_x_preferred":[
+        "Driemond"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Driemond"
+    ],
+    "qs:a0":"Nederland",
+    "qs:a1":"*Noord-Holland",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la":"Castricum",
+    "qs:la_lc":"*NL270383",
+    "qs:level":"locality",
+    "qs:loc":"Driemond",
+    "qs:loc_alt":"Driemond",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":52.3044,
+    "wd:longitude":5.015,
+    "wd:wordcount":201,
+    "wof:belongsto":[
+        102191581,
+        404474029,
+        85633337,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01f09328-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2756584,
+        "gp:id":728861,
+        "qs:id":910657,
+        "qs_pg:id":910657,
+        "tgn:id":7260915,
+        "wd:id":"Q1258911",
+        "wk:page":"Driemond"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"aef1fc36bd836a8ac627ee790b4aaeb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474029,
+            "locality_id":101754809,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":101754809,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527641866,
+    "wof:name":"Driemond",
+    "wof:parent_id":404474029,
+    "wof:placetype":"locality",
+    "wof:population":1500,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1108802795
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.00020713267361,
+    52.30012566382817,
+    5.02203031505553,
+    52.3087963243438
+],
+  "geometry": {"coordinates":[[[5.02203031505553,52.30013600193649],[5.02178389911313,52.30012566382817],[5.02168336242022,52.30102193308505],[5.02022036983675,52.30096051832021],[5.01991864195639,52.30364932050838],[5.01552942277914,52.30346495534917],[5.01542874891345,52.30436121804223],[5.00957639171247,52.30411513993977],[5.00977796897382,52.30232262570939],[5.00392590611057,52.30207627076373],[5.00402680450134,52.30118001901127],[5.00269805721564,52.30112403325001],[5.00290049999995,52.30176150000011],[5.001403,52.30159],[5.00020713267361,52.30462107509879],[5.00069699611481,52.30464173058959],[5.00068034805713,52.30478949481659],[5.00367749999992,52.30555350000014],[5.00331257525937,52.3065528852311],[5.01366351455209,52.30698850802833],[5.0135627914284,52.3078847684169],[5.01941566256846,52.30813065307797],[5.01934091867867,52.3087963243438],[5.01942003147212,52.30873878776669],[5.02107863955342,52.30505299203054],[5.02203031505553,52.30013600193649]]],"type":"Polygon"}
+}

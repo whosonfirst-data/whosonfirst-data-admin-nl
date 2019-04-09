@@ -1,0 +1,80 @@
+{
+  "id": 1158826773,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05850307",
+    "cbsnl:BU_NAAM":"Bedrijfsterreinen",
+    "cbsnl:GM_CODE":"GM0585",
+    "cbsnl:GM_NAAM":"Binnenmaas",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"351",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK058503",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":112844.665254,
+    "geom:bbox":"4.54631000514,51.7908238919,4.55318831289,51.7944867165",
+    "geom:latitude":51.792555,
+    "geom:longitude":4.549953,
+    "iso:country":"NL",
+    "lbl:latitude":51.792724,
+    "lbl:longitude":4.550187,
+    "mps:latitude":51.792724,
+    "mps:longitude":4.550187,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijfsterreinen"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijfsterreinen"
+    ],
+    "reversegeo:latitude":51.792724,
+    "reversegeo:longitude":4.550187,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474233,
+        85633337,
+        101808493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ca645c49e98b13fdb0f5dfebcfb19c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474233,
+            "locality_id":101808493,
+            "neighbourhood_id":1158826773,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826773,
+    "wof:lastmodified":1513588090,
+    "wof:name":"Bedrijfsterreinen",
+    "wof:parent_id":101808493,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.546310005135859,
+    51.790823891936476,
+    4.553188312891572,
+    51.79448671646687
+],
+  "geometry": {"coordinates":[[[[4.55318831289157,51.79325499767467],[4.55300398149985,51.79283654877418],[4.55239657470206,51.79193419077588],[4.5508723767107,51.79082389193648],[4.55029830291341,51.79097906651289],[4.54956688420762,51.79116710545565],[4.54849158148309,51.79106054542277],[4.54830152926551,51.79101958006274],[4.54631000513586,51.79234549719326],[4.55006878077847,51.79448671646687],[4.55318831289157,51.79325499767467]]]],"type":"MultiPolygon"}
+}

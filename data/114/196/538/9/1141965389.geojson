@@ -1,0 +1,80 @@
+{
+  "id": 1141965389,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19550005",
+    "cbsnl:BU_NAAM":"Stokkum",
+    "cbsnl:GM_CODE":"GM1955",
+    "cbsnl:GM_NAAM":"Montferland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"161",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK195500",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":214691.155928,
+    "geom:bbox":"6.21562807394,51.8756053516,6.22627699276,51.8813606429",
+    "geom:latitude":51.878363,
+    "geom:longitude":6.221657,
+    "iso:country":"NL",
+    "lbl:latitude":51.878149,
+    "lbl:longitude":6.221738,
+    "mps:latitude":51.878149,
+    "mps:longitude":6.221738,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Stokkum"
+    ],
+    "name:nld_x_preferred":[
+        "Stokkum"
+    ],
+    "reversegeo:latitude":51.878149,
+    "reversegeo:longitude":6.221738,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474689,
+        85633337,
+        101855395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"624e045432456df4157d51c32e701ceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474689,
+            "locality_id":101855395,
+            "neighbourhood_id":1141965389,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141965389,
+    "wof:lastmodified":1513368890,
+    "wof:name":"Stokkum",
+    "wof:parent_id":101855395,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.215628073944128,
+    51.87560535163903,
+    6.226276992764965,
+    51.88136064287732
+],
+  "geometry": {"coordinates":[[[[6.22272317481003,51.8797238625426],[6.22627699276496,51.88016203894109],[6.22542182689407,51.87869680766817],[6.22379285556793,51.87560535163903],[6.22299246505397,51.87582144329659],[6.22221920444366,51.87602020233388],[6.22161125723738,51.87612789444122],[6.22098467256849,51.8761727947445],[6.22087324896833,51.87651515698779],[6.21847512925458,51.87727288462953],[6.21562807394413,51.87819093682499],[6.21669696207881,51.87858683404581],[6.21754027484823,51.87886904986869],[6.2185321514549,51.87912715190621],[6.21963725656756,51.8793432833079],[6.22024773141538,51.87941857782822],[6.22001260410461,51.88082923980321],[6.22044665572986,51.88087490665475],[6.22115386311451,51.88078458126265],[6.22169223632981,51.88114635233384],[6.22240510145484,51.88136064287732],[6.22272317481003,51.8797238625426]]]],"type":"MultiPolygon"}
+}

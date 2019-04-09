@@ -1,0 +1,78 @@
+{
+  "id": 1158787139,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09952771",
+    "cbsnl:BU_NAAM":"Volkstuinen Bosweg",
+    "cbsnl:GM_CODE":"GM0995",
+    "cbsnl:GM_NAAM":"Lelystad",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"672",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK099527",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":352463.808539,
+    "geom:bbox":"5.45439500371,52.525913155,5.46963401401,52.530659528",
+    "geom:latitude":52.528091,
+    "geom:longitude":5.461457,
+    "iso:country":"NL",
+    "lbl:latitude":52.528063,
+    "lbl:longitude":5.461457,
+    "mps:latitude":52.528063,
+    "mps:longitude":5.461457,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Volkstuinen Bosweg"
+    ],
+    "name:nld_x_preferred":[
+        "Volkstuinen Bosweg"
+    ],
+    "reversegeo:latitude":52.528063,
+    "reversegeo:longitude":5.461457,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        101751873,
+        85633337,
+        85687049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"eccb08c1b55c0eabe05df0c0c871c429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751873,
+            "neighbourhood_id":1158787139,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158787139,
+    "wof:lastmodified":1513299295,
+    "wof:name":"Volkstuinen Bosweg",
+    "wof:parent_id":101751873,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.45439500370639,
+    52.525913154956115,
+    5.469634014007855,
+    52.53065952802133
+],
+  "geometry": {"coordinates":[[[[5.45477200106252,52.52917955343803],[5.4597402040645,52.52935906050248],[5.4596309162129,52.53049134636996],[5.46042238683448,52.53064653326471],[5.46049259107948,52.53057499656506],[5.46075713859922,52.53065952802133],[5.46101069707414,52.52992858913984],[5.46617098651128,52.53009909229009],[5.46626141562534,52.52960423770697],[5.46944476063034,52.52972219382964],[5.46963401400786,52.52783681271801],[5.4667722475012,52.52773052740694],[5.46679751150836,52.5274407697834],[5.46477788396086,52.52738134727313],[5.46482156996081,52.52725262090147],[5.46486146822675,52.52698198822073],[5.46491098763015,52.52631833552067],[5.46476484249305,52.52630143649019],[5.46095915153094,52.52616426005331],[5.46052137204221,52.52613148575162],[5.4545667971559,52.52591315495611],[5.45439500370639,52.52746037486737],[5.4544143218195,52.52753758286495],[5.45450457583431,52.52768035693608],[5.45462127322494,52.52773233593113],[5.45479618034039,52.52786239850537],[5.45485136581405,52.52789105448408],[5.4548792290891,52.52797576153124],[5.45477200106252,52.52917955343803]]]],"type":"MultiPolygon"}
+}

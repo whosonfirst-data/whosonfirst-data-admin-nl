@@ -1,0 +1,129 @@
+{
+  "id": 85797305,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07580106",
+    "cbsnl:BU_NAAM":"Geeren-Noord",
+    "cbsnl:GM_CODE":"GM0758",
+    "cbsnl:GM_NAAM":"Breda",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2175",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK075801",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:area_square_m":486554.020668,
+    "geom:bbox":"4.78973680798,51.6074456784,4.80323041842,51.6144545171",
+    "geom:latitude":51.61067,
+    "geom:longitude":4.796462,
+    "gn:latitude":51.60768,
+    "gn:longitude":4.79673,
+    "iso:country":"NL",
+    "lbl:latitude":51.611195,
+    "lbl:longitude":4.794393,
+    "mps:latitude":51.610732,
+    "mps:longitude":4.79646,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Langenstra\u00dfe"
+    ],
+    "name:eng_x_preferred":[
+        "Geeren-Noord"
+    ],
+    "name:nld_x_preferred":[
+        "Geeren-Noord"
+    ],
+    "name:unk_x_variant":[
+        "De Geeren"
+    ],
+    "qs:gn_adm0_cc":"NL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2758400,
+    "qs:gn_nam_loc":"Breda, Noord-Brabant, NL",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"De Geeren",
+    "qs:local_max":133,
+    "qs:local_sum":209,
+    "qs:localhoods":2,
+    "qs:name":"De Geeren",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Noord-Brabant",
+    "qs:name_adm2":"Breda",
+    "qs:name_local":"Breda",
+    "qs:photo_max":17,
+    "qs:photo_sum":76,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346378,
+    "qs:woe_adm2":12592092,
+    "qs:woe_lau":0,
+    "qs:woe_local":12592092,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":51.610732,
+    "reversegeo:longitude":4.79646,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        1158801671,
+        404474363,
+        85633337,
+        101751811,
+        85687035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2757635,
+        "gp:id":728330,
+        "qs:id":471752,
+        "qs_pg:id":471752
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"e3d31d15260d1b8c47b72109cff96391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474363,
+            "locality_id":101751811,
+            "macrohood_id":1158801671,
+            "neighbourhood_id":85797305,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":85797305,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527269546,
+    "wof:name":"Geeren-Noord",
+    "wof:parent_id":1158801671,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.7897368079824,
+    51.60744567841006,
+    4.80323041841693,
+    51.61445451708854
+],
+  "geometry": {"coordinates":[[[[4.79287906192228,51.61445451708854],[4.80321138673066,51.6122220703407],[4.80323041841693,51.61221848018571],[4.80266916310922,51.6110250804634],[4.80215095636987,51.60991915551907],[4.80212761923339,51.60986934002769],[4.80196544180033,51.60952319891782],[4.80156047739071,51.60865889810206],[4.80127259809591,51.60804446789809],[4.80099205964631,51.60744567841006],[4.79154821974527,51.60814759437557],[4.79102485548746,51.60907822329941],[4.79101511662393,51.60909207049269],[4.79100389616443,51.60910547836226],[4.79099125396255,51.60911838466876],[4.79097724623242,51.60913073593247],[4.79096191974167,51.60914245997186],[4.7909453743984,51.60915353096141],[4.79092766843203,51.60916387622938],[4.79090889052068,51.60917345288549],[4.79088911252282,51.60918222398845],[4.79086842137653,51.60919014499332],[4.79084693383989,51.6091971819309],[4.7908247367505,51.6092032979366],[4.79080191668642,51.60920847589511],[4.7907785895397,51.60921268073589],[4.7907548708563,51.60921590372103],[4.79073084822568,51.60921811786522],[4.7897368079824,51.6092963360195],[4.78991272069305,51.6102773333131],[4.79086006719636,51.61020870980481],[4.79102098930206,51.61115266758362],[4.79071988982173,51.6111765350141],[4.79092531284796,51.61222551971915],[4.79167536962029,51.61217535363072],[4.79287906192228,51.61445451708854]]]],"type":"MultiPolygon"}
+}

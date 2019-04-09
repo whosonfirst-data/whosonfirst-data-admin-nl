@@ -1,0 +1,80 @@
+{
+  "id": 1158818381,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03610205",
+    "cbsnl:BU_NAAM":"Oudorperpolder-Midden",
+    "cbsnl:GM_CODE":"GM0361",
+    "cbsnl:GM_NAAM":"Alkmaar",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2732",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK036102",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":110259.588515,
+    "geom:bbox":"4.76238256275,52.6306008261,4.77037891724,52.6346873002",
+    "geom:latitude":52.632653,
+    "geom:longitude":4.766593,
+    "iso:country":"NL",
+    "lbl:latitude":52.632615,
+    "lbl:longitude":4.766593,
+    "mps:latitude":52.632615,
+    "mps:longitude":4.766593,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oudorperpolder-Midden"
+    ],
+    "name:nld_x_preferred":[
+        "Oudorperpolder-Midden"
+    ],
+    "reversegeo:latitude":52.632615,
+    "reversegeo:longitude":4.766593,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474025,
+        85633337,
+        101751887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"38dcf0cc5ecf3c5d2ce1d7865dff8fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474025,
+            "locality_id":101751887,
+            "neighbourhood_id":1158818381,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818381,
+    "wof:lastmodified":1513464060,
+    "wof:name":"Oudorperpolder-Midden",
+    "wof:parent_id":101751887,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.762382562754906,
+    52.6306008261332,
+    4.77037891724267,
+    52.634687300196404
+],
+  "geometry": {"coordinates":[[[[4.76379113239048,52.6346873001964],[4.76516914221395,52.63407529478581],[4.76811427688311,52.63315509119291],[4.77037891724267,52.63293139564809],[4.76965384760792,52.6306008261332],[4.76238256275491,52.63297502055381],[4.76379113239048,52.6346873001964]]]],"type":"MultiPolygon"}
+}

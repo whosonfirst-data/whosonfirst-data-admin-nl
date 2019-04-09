@@ -1,0 +1,82 @@
+{
+  "id": 1158819511,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03970009",
+    "cbsnl:BU_NAAM":"Geleerdenbuurt",
+    "cbsnl:GM_CODE":"GM0397",
+    "cbsnl:GM_NAAM":"Heemstede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1807",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK039700",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":331882.812929,
+    "geom:bbox":"4.60174688858,52.3483650237,4.61324142876,52.3545842089",
+    "geom:latitude":52.351575,
+    "geom:longitude":4.607444,
+    "iso:country":"NL",
+    "lbl:latitude":52.351817,
+    "lbl:longitude":4.60687,
+    "mps:latitude":52.351817,
+    "mps:longitude":4.60687,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Geleerdenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Geleerdenbuurt"
+    ],
+    "reversegeo:latitude":52.351817,
+    "reversegeo:longitude":4.60687,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823227,
+        404474073,
+        85633337,
+        101754813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a7fa45b89baed1b1c6b0bd6da38d133c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474073,
+            "locality_id":101754813,
+            "macrohood_id":1158823227,
+            "neighbourhood_id":1158819511,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158819511,
+    "wof:lastmodified":1513464152,
+    "wof:name":"Geleerdenbuurt",
+    "wof:parent_id":1158823227,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.601746888584342,
+    52.348365023655944,
+    4.613241428764725,
+    52.35458420890772
+],
+  "geometry": {"coordinates":[[[[4.60397879241104,52.35458420890772],[4.60413628061707,52.35456278109619],[4.61324142876473,52.353054274978],[4.61309682673569,52.35284379641961],[4.61211535505826,52.35163467259895],[4.61120882054345,52.34967750097247],[4.61115126933165,52.34910638780791],[4.6109087505379,52.34904103828934],[4.61045440050005,52.34891952933112],[4.6100096005755,52.34867196726977],[4.60980365162691,52.34836502365594],[4.60849358976412,52.34849853169966],[4.60654170323995,52.34874548213477],[4.60693331621419,52.34951288318081],[4.60174688858434,52.35039450661422],[4.60397879241104,52.35458420890772]]]],"type":"MultiPolygon"}
+}

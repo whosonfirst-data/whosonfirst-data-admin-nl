@@ -1,0 +1,80 @@
+{
+  "id": 1158825739,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050706",
+    "cbsnl:BU_NAAM":"Laan der Verenigde Naties Noord",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2244",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050507",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":100303.623969,
+    "geom:bbox":"4.64925078824,51.7949334242,4.65694013575,51.8013931443",
+    "geom:latitude":51.798354,
+    "geom:longitude":4.651521,
+    "iso:country":"NL",
+    "lbl:latitude":51.798404,
+    "lbl:longitude":4.651142,
+    "mps:latitude":51.798404,
+    "mps:longitude":4.651142,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Laan der Verenigde Naties Noord"
+    ],
+    "name:nld_x_preferred":[
+        "Laan der Verenigde Naties Noord"
+    ],
+    "reversegeo:latitude":51.798404,
+    "reversegeo:longitude":4.651142,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829537,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9582e9a916d7951abc5a40d34abd249f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829537,
+            "neighbourhood_id":1158825739,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825739,
+    "wof:lastmodified":1513588014,
+    "wof:name":"Laan der Verenigde Naties Noord",
+    "wof:parent_id":1158829537,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.649250788239164,
+    51.79493342418065,
+    4.656940135752827,
+    51.80139314433913
+],
+  "geometry": {"coordinates":[[[[4.64985559261313,51.80139314433913],[4.6513649757238,51.80018237670185],[4.65323762797263,51.79853246343635],[4.6560649044869,51.79572888566577],[4.65694013575283,51.79516884832091],[4.65672051645832,51.79493342418065],[4.65582505023346,51.79559178706602],[4.65368016154281,51.7975197229911],[4.65355485466008,51.79757999070651],[4.65334765443558,51.79757869486355],[4.65254534982297,51.79721959092252],[4.6516595749676,51.79689659546648],[4.65120534730215,51.79679606652145],[4.65054211683099,51.79680411974559],[4.65000201517132,51.79688619184164],[4.64956411222984,51.7970543686608],[4.64925078823916,51.79719892347416],[4.64934580771605,51.79785789025821],[4.64970751553753,51.80016639711582],[4.64985559261313,51.80139314433913]]]],"type":"MultiPolygon"}
+}

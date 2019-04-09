@@ -1,0 +1,78 @@
+{
+  "id": 1158788537,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03530027",
+    "cbsnl:BU_NAAM":"Achterveld-Oost",
+    "cbsnl:GM_CODE":"GM0353",
+    "cbsnl:GM_NAAM":"IJsselstein",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2158",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK035300",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000019,
+    "geom:area_square_m":142953.727043,
+    "geom:bbox":"5.03279916702,52.0215904127,5.04064257639,52.0268660751",
+    "geom:latitude":52.024098,
+    "geom:longitude":5.0369,
+    "iso:country":"NL",
+    "lbl:latitude":52.02406,
+    "lbl:longitude":5.03696,
+    "mps:latitude":52.02406,
+    "mps:longitude":5.03696,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Achterveld-Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Achterveld-Oost"
+    ],
+    "reversegeo:latitude":52.02406,
+    "reversegeo:longitude":5.03696,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        101754605,
+        85633337,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"bc2e48769352e2edf84f051e1ef800d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754605,
+            "neighbourhood_id":1158788537,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788537,
+    "wof:lastmodified":1513622018,
+    "wof:name":"Achterveld-Oost",
+    "wof:parent_id":101754605,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.032799167024457,
+    52.02159041274309,
+    5.040642576385815,
+    52.02686607508492
+],
+  "geometry": {"coordinates":[[[[5.03850549837962,52.02686607508492],[5.03875375914387,52.02664828569499],[5.03896030187083,52.02640761944472],[5.03916693009736,52.02615600037542],[5.03929893442628,52.02592662879568],[5.03941253317661,52.02566321668293],[5.03952609725493,52.02543379257551],[5.03967671321925,52.02518172469825],[5.03988297697939,52.02497588520035],[5.04008923615785,52.02477004751944],[5.04064257638581,52.02439979084824],[5.0358061848893,52.02159041274309],[5.03521597917931,52.02195800928729],[5.03443206490462,52.02248147295751],[5.03372022418585,52.02301385341967],[5.03280272000396,52.02377228454939],[5.03279916702446,52.02377536409688],[5.03351018407443,52.02391260479464],[5.03445496119463,52.02443169645687],[5.03530730159526,52.02488197154906],[5.03552913984736,52.02504329804483],[5.0375109768647,52.0261738460592],[5.03850549837962,52.02686607508492]]]],"type":"MultiPolygon"}
+}

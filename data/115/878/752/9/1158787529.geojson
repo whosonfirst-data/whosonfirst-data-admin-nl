@@ -1,0 +1,82 @@
+{
+  "id": 1158787529,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03070205",
+    "cbsnl:BU_NAAM":"Weltevreden",
+    "cbsnl:GM_CODE":"GM0307",
+    "cbsnl:GM_NAAM":"Amersfoort",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3048",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK030702",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":39059.297894,
+    "geom:bbox":"5.38067583812,52.1489524425,5.38482939968,52.1520246498",
+    "geom:latitude":52.150519,
+    "geom:longitude":5.382767,
+    "iso:country":"NL",
+    "lbl:latitude":52.150575,
+    "lbl:longitude":5.382767,
+    "mps:latitude":52.150575,
+    "mps:longitude":5.382767,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Weltevreden"
+    ],
+    "name:nld_x_preferred":[
+        "Weltevreden"
+    ],
+    "reversegeo:latitude":52.150575,
+    "reversegeo:longitude":5.382767,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        1158790265,
+        404473971,
+        85633337,
+        101751821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4ac5228caef32ee401544952bcf79291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473971,
+            "locality_id":101751821,
+            "macrohood_id":1158790265,
+            "neighbourhood_id":1158787529,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158787529,
+    "wof:lastmodified":1513621936,
+    "wof:name":"Weltevreden",
+    "wof:parent_id":1158790265,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.380675838124419,
+    52.148952442451126,
+    5.384829399683314,
+    52.15202464982883
+],
+  "geometry": {"coordinates":[[[[5.38067583812442,52.1509547318909],[5.38097318285348,52.15111848111459],[5.38117741693478,52.15124551786569],[5.38141397583679,52.15145605350833],[5.38168676776898,52.15184439877095],[5.38179407292491,52.15197898888261],[5.38184143826782,52.15202464982883],[5.38216620342018,52.15181466073758],[5.38256706244674,52.15158996896995],[5.38304486802712,52.15128219438796],[5.38331680288092,52.15106922535285],[5.38393220685523,52.15052892481523],[5.38402284302434,52.15047385796495],[5.38412396945706,52.15042621523728],[5.38482939968331,52.15021744100808],[5.38465525731079,52.15011013975383],[5.38460100903754,52.15008491822691],[5.3845509246211,52.15004226947228],[5.38441428234947,52.14982132534938],[5.38420982729706,52.14945179050321],[5.38412951083487,52.14923863939757],[5.38405858712986,52.1490790392135],[5.3840007963626,52.14895244245113],[5.38256161532089,52.14981137374261],[5.38094983857518,52.15076273733281],[5.38067583812442,52.1509547318909]]]],"type":"MultiPolygon"}
+}

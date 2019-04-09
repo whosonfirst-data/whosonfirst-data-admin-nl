@@ -1,0 +1,80 @@
+{
+  "id": 1141965107,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18590002",
+    "cbsnl:BU_NAAM":"Uitbreidingsplan Hambroek",
+    "cbsnl:GM_CODE":"GM1859",
+    "cbsnl:GM_NAAM":"Berkelland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"692",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK185900",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000086,
+    "geom:area_square_m":651381.669336,
+    "geom:bbox":"6.52206620179,52.1086517446,6.53822338638,52.1198584576",
+    "geom:latitude":52.11435,
+    "geom:longitude":6.529733,
+    "iso:country":"NL",
+    "lbl:latitude":52.114336,
+    "lbl:longitude":6.529733,
+    "mps:latitude":52.114336,
+    "mps:longitude":6.529733,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Uitbreidingsplan Hambroek"
+    ],
+    "name:nld_x_preferred":[
+        "Uitbreidingsplan Hambroek"
+    ],
+    "reversegeo:latitude":52.114336,
+    "reversegeo:longitude":6.529733,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474671,
+        85633337,
+        101807061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b38853bedc9834c8583ccfcadc74fbc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474671,
+            "locality_id":101807061,
+            "neighbourhood_id":1141965107,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141965107,
+    "wof:lastmodified":1513368871,
+    "wof:name":"Uitbreidingsplan Hambroek",
+    "wof:parent_id":101807061,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.522066201785106,
+    52.108651744590965,
+    6.538223386378445,
+    52.11985845762909
+],
+  "geometry": {"coordinates":[[[[6.53627205626094,52.11985845762909],[6.53819980043348,52.11828290471683],[6.53822338637845,52.11811806860393],[6.53775288917044,52.11816058214503],[6.53692838494736,52.11693885275148],[6.53584832799798,52.11535921440277],[6.5345424867187,52.11369019031429],[6.53274144709962,52.11224169696314],[6.53027807081217,52.11107825460611],[6.53008931815953,52.1110118284081],[6.52622361174724,52.10964054502437],[6.52288018142235,52.10865174459096],[6.52206620178511,52.11000340607511],[6.52210168539857,52.11082553599303],[6.52228231938857,52.11195553682681],[6.52340298278938,52.11284895153742],[6.52505565613919,52.1137678380008],[6.525557770407,52.11427815861202],[6.52566495387704,52.11590577296347],[6.52509703999605,52.11653878602948],[6.52576847288144,52.11687022113247],[6.52753094204107,52.11733661039131],[6.52910603421604,52.11771883073967],[6.53072400585422,52.11789443775905],[6.53181724315332,52.1182748371436],[6.53627205626094,52.11985845762909]]]],"type":"MultiPolygon"}
+}

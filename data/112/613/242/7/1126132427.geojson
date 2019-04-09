@@ -1,0 +1,79 @@
+{
+  "id": 1126132427,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19001401",
+    "cbsnl:BU_NAAM":"Burgwerd",
+    "cbsnl:GM_CODE":"GM1900",
+    "cbsnl:GM_NAAM":"S\u00fadwest-Frysl\u00e2n",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"34",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK190014",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:area_square_m":502589.241109,
+    "geom:bbox":"5.5340686154,53.0832612221,5.55087742351,53.0930065382",
+    "geom:latitude":53.087889,
+    "geom:longitude":5.544323,
+    "iso:country":"NL",
+    "lbl:latitude":53.08666,
+    "lbl:longitude":5.546997,
+    "mps:latitude":53.08666,
+    "mps:longitude":5.546997,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Burgwerd"
+    ],
+    "name:eng_x_preferred":[
+        "Burgwerd"
+    ],
+    "reversegeo:latitude":53.08666,
+    "reversegeo:longitude":5.546997,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        1141960735,
+        85633337,
+        1141960639,
+        85687055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"22a428e4d1ae7500e9bb3be6a5184b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1141960735,
+            "locality_id":1141960639,
+            "neighbourhood_id":1126132427,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":1126132427,
+    "wof:lastmodified":1507246105,
+    "wof:name":"Burgwerd",
+    "wof:parent_id":1141960639,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.53406861540113,
+    53.08326122208613,
+    5.5508774235073,
+    53.09300653817329
+],
+  "geometry": {"coordinates":[[[[5.53926365020389,53.09201377717056],[5.54435754810768,53.09061550031754],[5.54941950526111,53.08949505014488],[5.5508774235073,53.08623510473036],[5.55082614791948,53.08568703287985],[5.55027732333137,53.08460497691459],[5.54889422647595,53.08353584157846],[5.54816524500224,53.08333801073044],[5.54637245026413,53.08326122208613],[5.54392273633148,53.08343238021303],[5.54197061797643,53.08386119337302],[5.54318734926555,53.08643913686569],[5.54411879600534,53.08812278046535],[5.53965325256236,53.08945622472879],[5.53706192682271,53.09032888672256],[5.53406861540113,53.0914693174986],[5.53537996401819,53.09300653817329],[5.53926365020389,53.09201377717056]]]],"type":"MultiPolygon"}
+}

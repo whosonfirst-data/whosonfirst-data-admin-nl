@@ -1,0 +1,82 @@
+{
+  "id": 1158802337,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01530206",
+    "cbsnl:BU_NAAM":"Stadsveld-Noord-Bruggert",
+    "cbsnl:GM_CODE":"GM0153",
+    "cbsnl:GM_NAAM":"Enschede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1802",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK015302",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":312995.035585,
+    "geom:bbox":"6.84824273317,52.2128591572,6.86205406111,52.2188080045",
+    "geom:latitude":52.215781,
+    "geom:longitude":6.855011,
+    "iso:country":"NL",
+    "lbl:latitude":52.216502,
+    "lbl:longitude":6.855115,
+    "mps:latitude":52.216502,
+    "mps:longitude":6.855115,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Stadsveld-Noord-Bruggert"
+    ],
+    "name:nld_x_preferred":[
+        "Stadsveld-Noord-Bruggert"
+    ],
+    "reversegeo:latitude":52.216502,
+    "reversegeo:longitude":6.855115,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805839,
+        404473827,
+        85633337,
+        101751871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a7c3e1382d5f4c02ee17642c01a99ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473827,
+            "locality_id":101751871,
+            "macrohood_id":1158805839,
+            "neighbourhood_id":1158802337,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802337,
+    "wof:lastmodified":1513524255,
+    "wof:name":"Stadsveld-Noord-Bruggert",
+    "wof:parent_id":1158805839,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.848242733172941,
+    52.212859157182216,
+    6.862054061110485,
+    52.21880800446675
+],
+  "geometry": {"coordinates":[[[[6.85104785674376,52.21806906399048],[6.85687042630297,52.21880800446675],[6.85976699124967,52.2150552334381],[6.85997666208445,52.21478355878766],[6.86111937442041,52.21445636600951],[6.86159403697043,52.21396951569869],[6.86205406111049,52.21345305877237],[6.85813015226965,52.21285915718222],[6.8578659862482,52.21316389348919],[6.8575069330714,52.21394182856295],[6.85752340256363,52.21440527220896],[6.85346360684605,52.21442932202501],[6.84905854508956,52.21357158197918],[6.84824273317294,52.21418299835539],[6.84955185183155,52.2151442362108],[6.85072586292955,52.21659200380693],[6.85118877590179,52.21769052553875],[6.85104785674376,52.21806906399048]]]],"type":"MultiPolygon"}
+}

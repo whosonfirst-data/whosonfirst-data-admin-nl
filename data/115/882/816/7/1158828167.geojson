@@ -1,0 +1,80 @@
+{
+  "id": 1158828167,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17830510",
+    "cbsnl:BU_NAAM":"Westerhonk",
+    "cbsnl:GM_CODE":"GM1783",
+    "cbsnl:GM_NAAM":"Westland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"222",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK178305",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000058,
+    "geom:area_square_m":444283.561965,
+    "geom:bbox":"4.18831087633,52.0317013732,4.2051829354,52.0382516702",
+    "geom:latitude":52.03515,
+    "geom:longitude":4.196276,
+    "iso:country":"NL",
+    "lbl:latitude":52.034722,
+    "lbl:longitude":4.194742,
+    "mps:latitude":52.034722,
+    "mps:longitude":4.194742,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Westerhonk"
+    ],
+    "name:nld_x_preferred":[
+        "Westerhonk"
+    ],
+    "reversegeo:latitude":52.034722,
+    "reversegeo:longitude":4.194742,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
+        85633337,
+        101807049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c84d35b14eeb894d3bbc9750862bf3cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474667,
+            "locality_id":101807049,
+            "neighbourhood_id":1158828167,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828167,
+    "wof:lastmodified":1513588204,
+    "wof:name":"Westerhonk",
+    "wof:parent_id":101807049,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.188310876328153,
+    52.03170137316584,
+    4.205182935403001,
+    52.03825167020639
+],
+  "geometry": {"coordinates":[[[[4.19267035774141,52.03170137316584],[4.18831087632815,52.03594250990903],[4.19251356815081,52.03760807765901],[4.19323022067828,52.03691088499593],[4.19354847445877,52.03687497606143],[4.19535689636315,52.03767603048289],[4.19664986128363,52.03638455159839],[4.20116544780107,52.03772730235639],[4.20262903227645,52.03825167020639],[4.20402889435269,52.03674193823603],[4.20407852048673,52.03674488328849],[4.20413433366973,52.03666957257238],[4.205182935403,52.03545223241579],[4.20296906965442,52.0347942658739],[4.20113054439046,52.03424940166665],[4.20064217546957,52.03469022619149],[4.19827154568993,52.03391707993549],[4.1987554862815,52.03342587321119],[4.1974507251242,52.03297936221618],[4.19793836533186,52.03237601433068],[4.19569708607752,52.03219795640406],[4.19267035774141,52.03170137316584]]]],"type":"MultiPolygon"}
+}

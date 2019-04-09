@@ -1,0 +1,81 @@
+{
+  "id": 1141962823,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02220701",
+    "cbsnl:BU_NAAM":"Buitengebied Dichteren Noordwest",
+    "cbsnl:GM_CODE":"GM0222",
+    "cbsnl:GM_NAAM":"Doetinchem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1243",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022207",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":97107.470574,
+    "geom:bbox":"6.24774367572,51.9568938124,6.25730441551,51.9590654466",
+    "geom:latitude":51.958196,
+    "geom:longitude":6.25273,
+    "iso:country":"NL",
+    "lbl:latitude":51.958077,
+    "lbl:longitude":6.252343,
+    "mps:latitude":51.958077,
+    "mps:longitude":6.252343,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Buitengebied Dichteren Noordwest"
+    ],
+    "name:nld_x_preferred":[
+        "Buitengebied Dichteren Noordwest"
+    ],
+    "reversegeo:latitude":51.958077,
+    "reversegeo:longitude":6.252343,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473885,
+        85633337,
+        101808663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"536ea40e93133dfe6831f5074112aa84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473885,
+            "locality_id":101808663,
+            "neighbourhood_id":1141962823,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962823,
+    "wof:lastmodified":1513368703,
+    "wof:name":"Buitengebied Dichteren Noordwest",
+    "wof:parent_id":101808663,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.247743675722199,
+    51.95689381242563,
+    6.257304415514083,
+    51.95906544663593
+],
+  "geometry": {"coordinates":[[[[6.25707099411446,51.95906544663593],[6.25730441551408,51.95785629733494],[6.2562811885976,51.95778509267844],[6.2553419009395,51.95771207485652],[6.25476945296213,51.9576519799336],[6.25423416173609,51.95761130708997],[6.25385331574829,51.95756619508048],[6.25345683644323,51.95748069051047],[6.25207044580672,51.95715498643271],[6.25143182524501,51.95702512787051],[6.25058287863682,51.95689381242563],[6.25053193638504,51.95695739288146],[6.24977908397306,51.95748407494807],[6.24934841818242,51.95778680748487],[6.24904907839546,51.95799934000308],[6.24825028909435,51.95849830808806],[6.24818564243173,51.95852671852004],[6.24809379100783,51.95854256715242],[6.24799482867912,51.95854704763777],[6.24790553405267,51.95855735660807],[6.24784248008159,51.9585765937324],[6.2477935067354,51.95860538516632],[6.24775598806699,51.9586529417797],[6.2477436757222,51.95880631005996],[6.25138776965434,51.95890759308326],[6.2543852799204,51.95899215929918],[6.25488028535744,51.95900466517031],[6.25540039458111,51.95901987427775],[6.25607073397317,51.95903755399669],[6.25630682644354,51.95904559202103],[6.25707099411446,51.95906544663593]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 101874299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-07-12",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.860871,52.850074,5.860871,52.850074",
+    "geom:latitude":52.850074,
+    "geom:longitude":5.860871,
+    "iso:country":"NL",
+    "lbl:latitude":52.850074,
+    "lbl:longitude":5.860871,
+    "mps:latitude":52.850074,
+    "mps:longitude":5.860871,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"no reliable reference",
+    "name:ces_x_preferred":[
+        "Gracht"
+    ],
+    "name:dan_x_preferred":[
+        "Gr\u00f8ft"
+    ],
+    "name:deu_x_preferred":[
+        "Gracht"
+    ],
+    "name:ita_x_preferred":[
+        "Gracht"
+    ],
+    "name:ltz_x_preferred":[
+        "Gracht"
+    ],
+    "name:nds_nld_x_preferred":[
+        "Stadsgrachte"
+    ],
+    "name:nds_x_preferred":[
+        "De Gracht"
+    ],
+    "name:nld_x_preferred":[
+        "Gracht"
+    ],
+    "qs:a0":"Nederland",
+    "qs:a1":"*Friesland",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Gracht",
+    "qs:loc_alt":"Gracht",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1213,
+    "wof:belongsto":[
+        102191581,
+        404473801,
+        85633337,
+        85687055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2755380,
+        "gp:id":729489,
+        "tgn:id":7260323,
+        "wd:id":"Q523166"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"605963660fd79a368720bc4372714503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473801,
+            "locality_id":101874299,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":101874299,
+    "wof:lastmodified":1544751638,
+    "wof:name":"Gracht",
+    "wof:parent_id":404473801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.860871,
+    52.850074,
+    5.860871,
+    52.850074
+],
+  "geometry": {"coordinates":[5.860871,52.850074],"type":"Point"}
+}

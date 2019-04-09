@@ -1,0 +1,81 @@
+{
+  "id": 1158826609,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05690208",
+    "cbsnl:BU_NAAM":"Verspreide huizen in het Westen",
+    "cbsnl:GM_CODE":"GM0569",
+    "cbsnl:GM_NAAM":"Nieuwkoop",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"122",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK056902",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000241,
+    "geom:area_square_m":1830686.45557,
+    "geom:bbox":"4.75983458837,52.1704009193,4.7823970545,52.1955982366",
+    "geom:latitude":52.183009,
+    "geom:longitude":4.770846,
+    "iso:country":"NL",
+    "lbl:latitude":52.182793,
+    "lbl:longitude":4.770864,
+    "mps:latitude":52.182793,
+    "mps:longitude":4.770864,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen in het Westen"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen in het Westen"
+    ],
+    "reversegeo:latitude":52.182793,
+    "reversegeo:longitude":4.770864,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474217,
+        85633337,
+        101808467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"94e6b2f35152fef79800ee5b2ade0007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474217,
+            "locality_id":101808467,
+            "neighbourhood_id":1158826609,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826609,
+    "wof:lastmodified":1513588077,
+    "wof:name":"Verspreide huizen in het Westen",
+    "wof:parent_id":101808467,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.759834588365159,
+    52.170400919275096,
+    4.782397054504656,
+    52.19559823657088
+],
+  "geometry": {"coordinates":[[[[4.75985532739712,52.19320831679371],[4.76942963351235,52.19559823657088],[4.77172326092953,52.19176977264883],[4.77069617945138,52.19148212950778],[4.78239705450466,52.1725894554211],[4.77336524238095,52.1704009192751],[4.77177707434986,52.17291593927182],[4.77042391746089,52.17507637953824],[4.76942115879427,52.17669647553306],[4.76928242508981,52.17666257926552],[4.76147252168447,52.18954107891626],[4.76042607547118,52.1912660530538],[4.76073417193005,52.19143040194614],[4.76028924398809,52.19241311250197],[4.75983458836516,52.19320309592095],[4.75985532739712,52.19320831679371]]]],"type":"MultiPolygon"}
+}

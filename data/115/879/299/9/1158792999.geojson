@@ -1,0 +1,80 @@
+{
+  "id": 1158792999,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00240002",
+    "cbsnl:BU_NAAM":"Wirdum",
+    "cbsnl:GM_CODE":"GM0024",
+    "cbsnl:GM_NAAM":"Loppersum",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"63",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK002400",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:area_square_m":563724.750526,
+    "geom:bbox":"6.77790488291,53.3148219727,6.78982835543,53.3250858026",
+    "geom:latitude":53.320779,
+    "geom:longitude":6.784618,
+    "iso:country":"NL",
+    "lbl:latitude":53.320699,
+    "lbl:longitude":6.784732,
+    "mps:latitude":53.320699,
+    "mps:longitude":6.784732,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Wirdum"
+    ],
+    "name:nld_x_preferred":[
+        "Wirdum"
+    ],
+    "reversegeo:latitude":53.320699,
+    "reversegeo:longitude":6.784732,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473723,
+        85633337,
+        1158796527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"46872cb4c0e7ef8c0af55ce5c09c1b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473723,
+            "locality_id":1158796527,
+            "neighbourhood_id":1158792999,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158792999,
+    "wof:lastmodified":1513382280,
+    "wof:name":"Wirdum",
+    "wof:parent_id":1158796527,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.777904882910623,
+    53.31482197274604,
+    6.789828355434683,
+    53.325085802605216
+],
+  "geometry": {"coordinates":[[[[6.78674652035224,53.3156224977235],[6.7860020058154,53.31547614923695],[6.78410682855705,53.31497192476967],[6.78371931412069,53.31482197274604],[6.78189442280394,53.31690105903269],[6.78139759962732,53.31819974651027],[6.78007973949648,53.32070145931435],[6.7794043586033,53.32213812468007],[6.77927823659771,53.32269842702807],[6.77971543170745,53.32306574553009],[6.77916278583834,53.32308989858738],[6.77809593587541,53.32297333503211],[6.77790488291062,53.32372485560289],[6.78210548353114,53.32456462491143],[6.78213659757801,53.32461478004505],[6.78621335952441,53.32508580260522],[6.78760506129158,53.3250505004806],[6.78870640036992,53.32466866035045],[6.78930922230324,53.32414547115332],[6.78982835543468,53.32312675728217],[6.78981640930972,53.32169356065624],[6.78928088534495,53.32018278491358],[6.78801298040194,53.31820707250876],[6.78704131853925,53.31688783943883],[6.786573138897,53.3161535937422],[6.78674652035224,53.3156224977235]]]],"type":"MultiPolygon"}
+}

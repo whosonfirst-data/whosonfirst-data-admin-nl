@@ -1,0 +1,82 @@
+{
+  "id": 1158827747,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06420605",
+    "cbsnl:BU_NAAM":"Leeuwerik- en Fazantplein",
+    "cbsnl:GM_CODE":"GM0642",
+    "cbsnl:GM_NAAM":"Zwijndrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1964",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK064206",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":61729.274522,
+    "geom:bbox":"4.61022114027,51.812405297,4.615769228,51.8143406062",
+    "geom:latitude":51.813267,
+    "geom:longitude":4.612853,
+    "iso:country":"NL",
+    "lbl:latitude":51.813233,
+    "lbl:longitude":4.612853,
+    "mps:latitude":51.813233,
+    "mps:longitude":4.612853,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Leeuwerik- en Fazantplein"
+    ],
+    "name:nld_x_preferred":[
+        "Leeuwerik- en Fazantplein"
+    ],
+    "reversegeo:latitude":51.813233,
+    "reversegeo:longitude":4.612853,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831155,
+        404474291,
+        85633337,
+        101754703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6de398547aae21f88e5607131ea789bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474291,
+            "locality_id":101754703,
+            "macrohood_id":1158831155,
+            "neighbourhood_id":1158827747,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827747,
+    "wof:lastmodified":1513588168,
+    "wof:name":"Leeuwerik- en Fazantplein",
+    "wof:parent_id":1158831155,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.610221140266314,
+    51.812405297008134,
+    4.615769227997665,
+    51.81434060623577
+],
+  "geometry": {"coordinates":[[[[4.61576922799767,51.81369913170253],[4.61542155883166,51.81261742981926],[4.61535045023507,51.81240529700813],[4.61489102525448,51.81244691945304],[4.61137582627278,51.81242036139479],[4.61083709542302,51.81242033656311],[4.61084495314352,51.81254511098371],[4.61084095154934,51.81256947049305],[4.61080577731026,51.81267345358322],[4.61065185288215,51.81295552569942],[4.6103442545909,51.8135056134789],[4.61026881097118,51.81373128825257],[4.61023089589079,51.81399417364089],[4.61022114026631,51.81434060623577],[4.61108589692315,51.81423782577595],[4.61332988433069,51.81397917203779],[4.61443153417881,51.81385375801662],[4.61576922799767,51.81369913170253]]]],"type":"MultiPolygon"}
+}

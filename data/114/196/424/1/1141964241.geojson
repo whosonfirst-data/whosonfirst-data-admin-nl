@@ -1,0 +1,80 @@
+{
+  "id": 1141964241,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02930001",
+    "cbsnl:BU_NAAM":"Westervoort-Broeklanden",
+    "cbsnl:GM_CODE":"GM0293",
+    "cbsnl:GM_NAAM":"Westervoort",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1356",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK029300",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":271190.899673,
+    "geom:bbox":"5.97187757277,51.9526308372,5.98223667633,51.958642016",
+    "geom:latitude":51.955346,
+    "geom:longitude":5.977119,
+    "iso:country":"NL",
+    "lbl:latitude":51.95529,
+    "lbl:longitude":5.977119,
+    "mps:latitude":51.95529,
+    "mps:longitude":5.977119,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Westervoort-Broeklanden"
+    ],
+    "name:nld_x_preferred":[
+        "Westervoort-Broeklanden"
+    ],
+    "reversegeo:latitude":51.95529,
+    "reversegeo:longitude":5.977119,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473949,
+        85633337,
+        101837821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3a48aa456eb8b3589f455e0b72bd3b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473949,
+            "locality_id":101837821,
+            "neighbourhood_id":1141964241,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141964241,
+    "wof:lastmodified":1513368803,
+    "wof:name":"Westervoort-Broeklanden",
+    "wof:parent_id":101837821,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.97187757277474,
+    51.95263083722008,
+    5.982236676330132,
+    51.958642016012725
+],
+  "geometry": {"coordinates":[[[[5.98223667633013,51.95649555524288],[5.98199403216162,51.95619651449617],[5.98134372848049,51.95553016608379],[5.98079086907912,51.95475377466393],[5.9807507740591,51.95469555241419],[5.98022333890746,51.95408700205938],[5.97969702045034,51.95356214943519],[5.9794253985906,51.95325229425233],[5.97935733065446,51.95317539240442],[5.97927123071017,51.95304099984374],[5.97900556307666,51.95263083722008],[5.97885584087135,51.95265293838866],[5.97850463716183,51.95270245541109],[5.97187757277474,51.95364343375202],[5.97264186404695,51.95581201732109],[5.97441606072954,51.95609192090893],[5.97706982088391,51.95864201601272],[5.98223667633013,51.95649555524288]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1141961961,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02000404",
+    "cbsnl:BU_NAAM":"Componistenkwartier",
+    "cbsnl:GM_CODE":"GM0200",
+    "cbsnl:GM_NAAM":"Apeldoorn",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2030",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK020004",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":536326.444731,
+    "geom:bbox":"5.96209911986,52.185097789,5.97004047844,52.1945587474",
+    "geom:latitude":52.189771,
+    "geom:longitude":5.966086,
+    "iso:country":"NL",
+    "lbl:latitude":52.189753,
+    "lbl:longitude":5.966139,
+    "mps:latitude":52.189753,
+    "mps:longitude":5.966139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Componistenkwartier"
+    ],
+    "name:nld_x_preferred":[
+        "Componistenkwartier"
+    ],
+    "reversegeo:latitude":52.189753,
+    "reversegeo:longitude":5.966139,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158783949,
+        404473867,
+        85633337,
+        101751853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"57a6e396bba1f3ac7207c1065be58c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473867,
+            "locality_id":101751853,
+            "macrohood_id":1158783949,
+            "neighbourhood_id":1141961961,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141961961,
+    "wof:lastmodified":1513368641,
+    "wof:name":"Componistenkwartier",
+    "wof:parent_id":1158783949,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.962099119861505,
+    52.185097788954174,
+    5.970040478439621,
+    52.19455874743537
+],
+  "geometry": {"coordinates":[[[[5.96226401131345,52.19455874743537],[5.9630075159926,52.19453196846563],[5.96582634421064,52.19430082120407],[5.96992246992422,52.19416648843597],[5.9700194416029,52.19357810503605],[5.97002483730601,52.19301708046355],[5.97003616767025,52.19096316207491],[5.97004047843962,52.19031920643079],[5.97003090673493,52.18910101880572],[5.97003085006689,52.18909470592677],[5.97001167967068,52.18714348835751],[5.96996041120726,52.18535403314396],[5.96738869563708,52.18525265246348],[5.96733692264286,52.18525061011172],[5.9620991198615,52.18509778895417],[5.96222779473949,52.18562563934633],[5.96223318272153,52.18632119829608],[5.96223653999145,52.18709040520102],[5.96223323379944,52.1880206129602],[5.96225522088848,52.18873798817469],[5.96225603929841,52.1898435274324],[5.96226463440261,52.19048288822159],[5.96227378414098,52.19116341119653],[5.96227005304443,52.19235427815394],[5.96225974641235,52.1935287450534],[5.96226388934426,52.19395362651638],[5.9622640569296,52.19431207522646],[5.96226405694919,52.19431366777701],[5.96226401131345,52.19455874743537]]]],"type":"MultiPolygon"}
+}

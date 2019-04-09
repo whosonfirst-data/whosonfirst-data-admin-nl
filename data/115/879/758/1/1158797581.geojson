@@ -1,0 +1,80 @@
+{
+  "id": 1158797581,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07771009",
+    "cbsnl:BU_NAAM":"Sander-Banken 2, Klein Sander",
+    "cbsnl:GM_CODE":"GM0777",
+    "cbsnl:GM_NAAM":"Etten-Leur",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1607",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK077710",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":150669.706277,
+    "geom:bbox":"4.62932545964,51.5755875497,4.63516051901,51.5812895136",
+    "geom:latitude":51.578436,
+    "geom:longitude":4.632173,
+    "iso:country":"NL",
+    "lbl:latitude":51.578366,
+    "lbl:longitude":4.632229,
+    "mps:latitude":51.578366,
+    "mps:longitude":4.632229,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Klein Sander"
+    ],
+    "name:nld_x_preferred":[
+        "Klein Sander"
+    ],
+    "reversegeo:latitude":51.578366,
+    "reversegeo:longitude":4.632229,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474377,
+        85633337,
+        101839355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"98a03d559d71c8a36ffc2189ed7a2eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474377,
+            "locality_id":101839355,
+            "neighbourhood_id":1158797581,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797581,
+    "wof:lastmodified":1513432604,
+    "wof:name":"Klein Sander",
+    "wof:parent_id":101839355,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.629325459640906,
+    51.57558754968157,
+    4.635160519008226,
+    51.58128951360013
+],
+  "geometry": {"coordinates":[[[[4.63100175797119,51.58064058181911],[4.63179005139842,51.58057007120405],[4.63416246068103,51.58126138511881],[4.63427590296638,51.58128951360013],[4.63516051900823,51.57994271644896],[4.63427213830679,51.57920724308264],[4.63420252621618,51.57882024452508],[4.63402512966478,51.57869769729365],[4.63473034599327,51.57760437685278],[4.63289987606988,51.57670316465784],[4.63067514813976,51.57558754968157],[4.62977223553627,51.57587425771432],[4.62946202019751,51.57652382775535],[4.62932545964091,51.5774449183954],[4.63064209429441,51.57918257164934],[4.630922678539,51.57991239922298],[4.63100175797119,51.58064058181911]]]],"type":"MultiPolygon"}
+}

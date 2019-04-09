@@ -1,0 +1,80 @@
+{
+  "id": 1141962989,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02260402",
+    "cbsnl:BU_NAAM":"Zuidoost",
+    "cbsnl:GM_CODE":"GM0226",
+    "cbsnl:GM_NAAM":"Duiven",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1310",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022604",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000155,
+    "geom:area_square_m":1184906.337679,
+    "geom:bbox":"6.00214135899,51.9327614988,6.0259042892,51.945636372",
+    "geom:latitude":51.939243,
+    "geom:longitude":6.01342,
+    "iso:country":"NL",
+    "lbl:latitude":51.93934,
+    "lbl:longitude":6.01342,
+    "mps:latitude":51.93934,
+    "mps:longitude":6.01342,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zuidoost"
+    ],
+    "name:nld_x_preferred":[
+        "Zuidoost"
+    ],
+    "reversegeo:latitude":51.93934,
+    "reversegeo:longitude":6.01342,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473891,
+        85633337,
+        101837765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"41a8b2fcab46b1cb1a3c31aa8ef6c564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473891,
+            "locality_id":101837765,
+            "neighbourhood_id":1141962989,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962989,
+    "wof:lastmodified":1513368716,
+    "wof:name":"Zuidoost",
+    "wof:parent_id":101837765,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.00214135899419,
+    51.93276149881665,
+    6.025904289202265,
+    51.945636371980555
+],
+  "geometry": {"coordinates":[[[[6.02071155668133,51.94095904687641],[6.02590428920227,51.93888992948416],[6.0247032520715,51.93751441251511],[6.02192754225817,51.93733018909155],[6.01996981355107,51.93276149881665],[6.00444074641979,51.93764370113855],[6.00214135899419,51.93888469215652],[6.00560662995188,51.94353917332107],[6.00895016700197,51.94563637198056],[6.02071155668133,51.94095904687641]]]],"type":"MultiPolygon"}
+}

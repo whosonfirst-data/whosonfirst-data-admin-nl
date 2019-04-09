@@ -1,0 +1,80 @@
+{
+  "id": 1158825985,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05130305",
+    "cbsnl:BU_NAAM":"De Gaardenbuurt",
+    "cbsnl:GM_CODE":"GM0513",
+    "cbsnl:GM_NAAM":"Gouda",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1728",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK051303",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":140035.766691,
+    "geom:bbox":"4.68895886993,52.0247815189,4.69792050374,52.0295306058",
+    "geom:latitude":52.027154,
+    "geom:longitude":4.693431,
+    "iso:country":"NL",
+    "lbl:latitude":52.027143,
+    "lbl:longitude":4.693431,
+    "mps:latitude":52.027143,
+    "mps:longitude":4.693431,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Gaardenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "De Gaardenbuurt"
+    ],
+    "reversegeo:latitude":52.027143,
+    "reversegeo:longitude":4.693431,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829413,
+        85633337,
+        101751839,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1ffe3f1b7dcf2cb13cf4644c176cbbef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751839,
+            "macrohood_id":1158829413,
+            "neighbourhood_id":1158825985,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825985,
+    "wof:lastmodified":1513588031,
+    "wof:name":"De Gaardenbuurt",
+    "wof:parent_id":1158829413,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.688958869925907,
+    52.02478151886741,
+    4.697920503738541,
+    52.029530605764364
+],
+  "geometry": {"coordinates":[[[[4.69792050373854,52.02795759148904],[4.69453444755064,52.0262344201072],[4.69112703661205,52.02478151886741],[4.68895886992591,52.02646945378854],[4.69562887060491,52.02953060576436],[4.69792050373854,52.02795759148904]]]],"type":"MultiPolygon"}
+}

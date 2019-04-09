@@ -1,0 +1,80 @@
+{
+  "id": 1158799665,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08740501",
+    "cbsnl:BU_NAAM":"Waardhuizen",
+    "cbsnl:GM_CODE":"GM0874",
+    "cbsnl:GM_NAAM":"Woudrichem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"59",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK087405",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":567950.018421,
+    "geom:bbox":"4.99653342307,51.7758706912,5.01384212207,51.7823767369",
+    "geom:latitude":51.778667,
+    "geom:longitude":5.004926,
+    "iso:country":"NL",
+    "lbl:latitude":51.778606,
+    "lbl:longitude":5.004926,
+    "mps:latitude":51.778606,
+    "mps:longitude":5.004926,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Waardhuizen"
+    ],
+    "name:nld_x_preferred":[
+        "Waardhuizen"
+    ],
+    "reversegeo:latitude":51.778606,
+    "reversegeo:longitude":5.004926,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474457,
+        85633337,
+        1158801551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"08040465cedaab03561d482f6d1ce6c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474457,
+            "locality_id":1158801551,
+            "neighbourhood_id":1158799665,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799665,
+    "wof:lastmodified":1513432768,
+    "wof:name":"Waardhuizen",
+    "wof:parent_id":1158801551,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.996533423069971,
+    51.77587069124123,
+    5.013842122072052,
+    51.78237673689981
+],
+  "geometry": {"coordinates":[[[[5.01082598837582,51.78011133463102],[5.01092199690313,51.77884791869555],[5.01337512849593,51.77905069785221],[5.01384212207205,51.77618935063013],[5.00672022655989,51.77587069124123],[5.00454762019265,51.77594367788915],[5.00244656810441,51.77628005508735],[4.99958731044518,51.77700516975923],[4.99678800927977,51.77798630846352],[4.99653342306997,51.77810231142043],[4.99758061410047,51.77984338166277],[4.9986294219633,51.78189258581567],[4.99876734074082,51.78237673689981],[5.00540585880215,51.7811965976826],[5.01082598837582,51.78011133463102]]]],"type":"MultiPolygon"}
+}

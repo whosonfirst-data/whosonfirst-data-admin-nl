@@ -1,0 +1,82 @@
+{
+  "id": 1158806733,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09831210",
+    "cbsnl:BU_NAAM":"Krekelveld",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2402",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098312",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":58857.836791,
+    "geom:bbox":"6.1685740349,51.3587641427,6.17368494943,51.3616418493",
+    "geom:latitude":51.360188,
+    "geom:longitude":6.171307,
+    "iso:country":"NL",
+    "lbl:latitude":51.360138,
+    "lbl:longitude":6.171733,
+    "mps:latitude":51.360138,
+    "mps:longitude":6.171733,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Krekelveld"
+    ],
+    "name:nld_x_preferred":[
+        "Krekelveld"
+    ],
+    "reversegeo:latitude":51.360138,
+    "reversegeo:longitude":6.171733,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        1158818259,
+        404474525,
+        85633337,
+        101839287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"69d63f025bb3c70d029c9acd38178675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818259,
+            "neighbourhood_id":1158806733,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806733,
+    "wof:lastmodified":1513404052,
+    "wof:name":"Krekelveld",
+    "wof:parent_id":1158818259,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.168574034898861,
+    51.35876414265517,
+    6.173684949432613,
+    51.361641849254994
+],
+  "geometry": {"coordinates":[[[[6.17368494943261,51.36088046394932],[6.17281955052925,51.35973570172399],[6.1718657533249,51.35876414265517],[6.17138863646752,51.35893128219386],[6.16857403489886,51.35982718244363],[6.16875358718099,51.3599817224901],[6.16970536879661,51.36102992002217],[6.17066678720322,51.36060271562594],[6.17195063262029,51.36164184925499],[6.17368494943261,51.36088046394932]]]],"type":"MultiPolygon"}
+}

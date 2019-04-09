@@ -1,0 +1,80 @@
+{
+  "id": 1158828351,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18920205",
+    "cbsnl:BU_NAAM":"Zevenhuizen-West 1",
+    "cbsnl:GM_CODE":"GM1892",
+    "cbsnl:GM_NAAM":"Zuidplas",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"808",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK189202",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":185904.02841,
+    "geom:bbox":"4.57396720609,52.0078061046,4.58261677805,52.0136113923",
+    "geom:latitude":52.010912,
+    "geom:longitude":4.578466,
+    "iso:country":"NL",
+    "lbl:latitude":52.010778,
+    "lbl:longitude":4.579253,
+    "mps:latitude":52.010778,
+    "mps:longitude":4.579253,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zevenhuizen-West 1"
+    ],
+    "name:nld_x_preferred":[
+        "Zevenhuizen-West 1"
+    ],
+    "reversegeo:latitude":52.010778,
+    "reversegeo:longitude":4.579253,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158824737,
+        85633337,
+        101803695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"fb1caa6611c04a998aed9629a6538201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824737,
+            "locality_id":101803695,
+            "neighbourhood_id":1158828351,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828351,
+    "wof:lastmodified":1513588220,
+    "wof:name":"Zevenhuizen-West 1",
+    "wof:parent_id":101803695,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.573967206091728,
+    52.00780610463172,
+    4.582616778046516,
+    52.01361139228009
+],
+  "geometry": {"coordinates":[[[[4.57396720609173,52.01170229132401],[4.57627495286089,52.0134317373879],[4.57655158294504,52.01346423573693],[4.57847774989688,52.01361139228009],[4.57875313392948,52.01315124694555],[4.57911079904943,52.01280050404907],[4.57963427221168,52.01245371868568],[4.58004944305299,52.01210081310714],[4.5802855220129,52.01187884773506],[4.58089666163512,52.01134532632948],[4.5813720070186,52.01085944062776],[4.58159691522949,52.0105473546263],[4.58184350249366,52.01022960229412],[4.58217080621658,52.00945465795373],[4.58248212425981,52.00900550199],[4.58251717985258,52.00895101557892],[4.58261677804652,52.00882719301334],[4.58088469717368,52.00820349572972],[4.57947439796401,52.00780610463172],[4.57880846834675,52.00858032576973],[4.57770437938369,52.01049402011406],[4.577484035179,52.01086113333442],[4.57517692166481,52.01017340023955],[4.57396720609173,52.01170229132401]]]],"type":"MultiPolygon"}
+}

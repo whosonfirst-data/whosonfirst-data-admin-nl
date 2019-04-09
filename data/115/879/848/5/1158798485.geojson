@@ -1,0 +1,82 @@
+{
+  "id": 1158798485,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08260501",
+    "cbsnl:BU_NAAM":"Schrijversbuurt",
+    "cbsnl:GM_CODE":"GM0826",
+    "cbsnl:GM_NAAM":"Oosterhout",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1564",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082605",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":334156.840539,
+    "geom:bbox":"4.85382938295,51.620659219,4.867530007,51.627459393",
+    "geom:latitude":51.623768,
+    "geom:longitude":4.860433,
+    "iso:country":"NL",
+    "lbl:latitude":51.623587,
+    "lbl:longitude":4.860329,
+    "mps:latitude":51.623587,
+    "mps:longitude":4.860329,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schrijversbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Schrijversbuurt"
+    ],
+    "reversegeo:latitude":51.623587,
+    "reversegeo:longitude":4.860329,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801717,
+        404474413,
+        85633337,
+        101808317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"038c15a690a203988ec2ceb39067421b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474413,
+            "locality_id":101808317,
+            "macrohood_id":1158801717,
+            "neighbourhood_id":1158798485,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798485,
+    "wof:lastmodified":1513432679,
+    "wof:name":"Schrijversbuurt",
+    "wof:parent_id":1158801717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.853829382946449,
+    51.62065921899514,
+    4.867530007001012,
+    51.6274593929551
+],
+  "geometry": {"coordinates":[[[[4.85611251302616,51.6274593929551],[4.85791095371196,51.62669118078731],[4.86424509801345,51.62386217900262],[4.86511399922138,51.62462245116005],[4.86753000700101,51.62361211152978],[4.86546959958071,51.6215843867277],[4.86456576964628,51.62065921899514],[4.86183163370422,51.62091633297985],[4.86124909441684,51.62115832390696],[4.85382938294645,51.62442304197254],[4.8545197576503,51.62507792929897],[4.85503765988671,51.62611904496163],[4.85511337472229,51.62627124605326],[4.85529636048769,51.62657478916748],[4.85560665533492,51.62698240947098],[4.85611251302616,51.6274593929551]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158818421,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03610502",
+    "cbsnl:BU_NAAM":"Huiswaard-2-West",
+    "cbsnl:GM_CODE":"GM0361",
+    "cbsnl:GM_NAAM":"Alkmaar",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2086",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK036105",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":320491.931952,
+    "geom:bbox":"4.75246768318,52.6404591951,4.76195102229,52.6479945102",
+    "geom:latitude":52.644474,
+    "geom:longitude":4.757078,
+    "iso:country":"NL",
+    "lbl:latitude":52.644316,
+    "lbl:longitude":4.756988,
+    "mps:latitude":52.644316,
+    "mps:longitude":4.756988,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Huiswaard-2-West"
+    ],
+    "name:nld_x_preferred":[
+        "Huiswaard-2-West"
+    ],
+    "reversegeo:latitude":52.644316,
+    "reversegeo:longitude":4.756988,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823275,
+        404474025,
+        85633337,
+        101751887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d182b61a8161505d6947e2481ec17cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474025,
+            "locality_id":101751887,
+            "macrohood_id":1158823275,
+            "neighbourhood_id":1158818421,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818421,
+    "wof:lastmodified":1513464062,
+    "wof:name":"Huiswaard-2-West",
+    "wof:parent_id":1158823275,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.752467683177599,
+    52.64045919511376,
+    4.76195102229466,
+    52.64799451023442
+],
+  "geometry": {"coordinates":[[[[4.7524676831776,52.6474387384091],[4.75726791404194,52.64799451023442],[4.7577794181823,52.64715151866238],[4.7601541610205,52.64620332682083],[4.76103116323982,52.64542066501087],[4.76125077235377,52.64462824693044],[4.76095707971622,52.64387806247284],[4.76114925365477,52.64345577432698],[4.76150542471365,52.64303345037],[4.76195102229466,52.6428677329359],[4.75651447428067,52.64045919511376],[4.75600594055118,52.64078992463918],[4.75432573549758,52.6429747847636],[4.75357083897053,52.6440968683632],[4.75347414203088,52.64527098790741],[4.7528931104623,52.64611538829092],[4.75282215312627,52.64632261572421],[4.7534271275826,52.64638066350312],[4.7524676831776,52.6474387384091]]]],"type":"MultiPolygon"}
+}

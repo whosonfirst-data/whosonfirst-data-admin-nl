@@ -1,0 +1,80 @@
+{
+  "id": 1158798957,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08460006",
+    "cbsnl:BU_NAAM":"Sloef",
+    "cbsnl:GM_CODE":"GM0846",
+    "cbsnl:GM_NAAM":"Sint-Oedenrode",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"174",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK084600",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000098,
+    "geom:area_square_m":756149.936796,
+    "geom:bbox":"5.44166010041,51.5466559105,5.45960146004,51.5570718685",
+    "geom:latitude":51.552393,
+    "geom:longitude":5.450747,
+    "iso:country":"NL",
+    "lbl:latitude":51.55239,
+    "lbl:longitude":5.450747,
+    "mps:latitude":51.55239,
+    "mps:longitude":5.450747,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Sloef"
+    ],
+    "name:nld_x_preferred":[
+        "Sloef"
+    ],
+    "reversegeo:latitude":51.55239,
+    "reversegeo:longitude":5.450747,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474423,
+        85633337,
+        101808295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"abad10632afcdb335a854f431f772f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474423,
+            "locality_id":101808295,
+            "neighbourhood_id":1158798957,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798957,
+    "wof:lastmodified":1513432712,
+    "wof:name":"Sloef",
+    "wof:parent_id":101808295,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.441660100413603,
+    51.54665591051141,
+    5.459601460037214,
+    51.55707186846966
+],
+  "geometry": {"coordinates":[[[[5.44680526681692,51.55707186846966],[5.44675305638944,51.55626095406024],[5.45049773462724,51.55570309332098],[5.45595176782019,51.55566011640142],[5.45671180322444,51.55586893115255],[5.45559019002019,51.55448703575242],[5.45564154405836,51.55298618875514],[5.45820041517603,51.55373689364881],[5.45719105670253,51.5529737527311],[5.45692283170353,51.55142478261575],[5.45850568012712,51.54886516216737],[5.45960146003721,51.54750467919332],[5.45899551364201,51.54665591051141],[5.44561921302425,51.55058466285042],[5.4443808352821,51.5514490266158],[5.44431752048838,51.55233415286946],[5.4416601004136,51.55480167374405],[5.44231449813169,51.55546736597721],[5.44263022840584,51.55682477566339],[5.44680526681692,51.55707186846966]]]],"type":"MultiPolygon"}
+}

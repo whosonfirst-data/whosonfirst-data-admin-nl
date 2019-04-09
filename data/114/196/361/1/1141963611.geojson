@@ -1,0 +1,80 @@
+{
+  "id": 1141963611,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02620201",
+    "cbsnl:BU_NAAM":"Exel",
+    "cbsnl:GM_CODE":"GM0262",
+    "cbsnl:GM_NAAM":"Lochem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"29",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK026202",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":85829.355488,
+    "geom:bbox":"6.41180571411,52.1817940061,6.41649172145,52.1862974393",
+    "geom:latitude":52.184444,
+    "geom:longitude":6.413688,
+    "iso:country":"NL",
+    "lbl:latitude":52.184743,
+    "lbl:longitude":6.413333,
+    "mps:latitude":52.184743,
+    "mps:longitude":6.413333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Exel"
+    ],
+    "name:nld_x_preferred":[
+        "Exel"
+    ],
+    "reversegeo:latitude":52.184743,
+    "reversegeo:longitude":6.413333,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473915,
+        85633337,
+        1158783725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8f08b3f301d2ef0d9c1fc42fa696780c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473915,
+            "locality_id":1158783725,
+            "neighbourhood_id":1141963611,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963611,
+    "wof:lastmodified":1513368757,
+    "wof:name":"Exel",
+    "wof:parent_id":1158783725,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.4118057141092,
+    52.18179400605826,
+    6.416491721449527,
+    52.18629743933634
+],
+  "geometry": {"coordinates":[[[[6.41346159972472,52.18179400605826],[6.41184597512349,52.18243640098339],[6.41287855116725,52.18301617644858],[6.4118057141092,52.18354767487476],[6.41202424729078,52.1838901480689],[6.41188381601858,52.18458966361457],[6.41196837932682,52.18527655000418],[6.41260206952452,52.18606484095827],[6.41379435560691,52.18620362690937],[6.41469862376814,52.18629743933634],[6.41649172144953,52.18465826087748],[6.41388838249359,52.18343069665381],[6.41357985365897,52.18190898483943],[6.41346159972472,52.18179400605826]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1141964705,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06680200",
+    "cbsnl:BU_NAAM":"Kern Altforst",
+    "cbsnl:GM_CODE":"GM0668",
+    "cbsnl:GM_NAAM":"West Maas en Waal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"60",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK066802",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000023,
+    "geom:area_square_m":171951.166245,
+    "geom:bbox":"5.5617413424,51.8466679498,5.56936942662,51.851945285",
+    "geom:latitude":51.849277,
+    "geom:longitude":5.565356,
+    "iso:country":"NL",
+    "lbl:latitude":51.849087,
+    "lbl:longitude":5.564778,
+    "mps:latitude":51.849087,
+    "mps:longitude":5.564778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Altforst"
+    ],
+    "name:eng_x_variant":[
+        "Kern Altforst"
+    ],
+    "name:nld_x_preferred":[
+        "Altforst"
+    ],
+    "name:nld_x_variant":[
+        "Kern Altforst"
+    ],
+    "reversegeo:latitude":51.849087,
+    "reversegeo:longitude":5.564778,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474305,
+        85633337,
+        1158783833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"bd576298bb6c05f09cf1cd2ff0ba4a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474305,
+            "locality_id":1158783833,
+            "neighbourhood_id":1141964705,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141964705,
+    "wof:lastmodified":1513368839,
+    "wof:name":"Altforst",
+    "wof:parent_id":1158783833,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.561741342403647,
+    51.84666794982976,
+    5.56936942661583,
+    51.85194528497434
+],
+  "geometry": {"coordinates":[[[[5.56642000949472,51.85124494417914],[5.56799701302093,51.85147069552124],[5.56828307297972,51.85079320998834],[5.56920860524609,51.85012750631922],[5.5693310705936,51.8498079565488],[5.56936942661583,51.8490925280892],[5.56875043175475,51.84904238907952],[5.56842036205292,51.8490301252395],[5.56647317903369,51.84856267798121],[5.56592523563991,51.84666998466347],[5.56541729371011,51.84666794982976],[5.56506818279744,51.8468636961522],[5.56433915473468,51.84709287896271],[5.56363929134151,51.84701303872328],[5.56288446337136,51.8469675436592],[5.56174134240365,51.84742597219027],[5.56218279566663,51.84863761834491],[5.56254025951351,51.84871713644489],[5.56347006979962,51.8504704377936],[5.56258503762205,51.85054704195168],[5.56336743281323,51.85095680385891],[5.56349706567373,51.85096904377069],[5.56482297755575,51.85194528497434],[5.5652790253866,51.85113725445853],[5.56642000949472,51.85124494417914]]]],"type":"MultiPolygon"}
+}

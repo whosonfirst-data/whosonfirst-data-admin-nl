@@ -1,0 +1,82 @@
+{
+  "id": 1158803567,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01935120",
+    "cbsnl:BU_NAAM":"Ittersumerbroek",
+    "cbsnl:GM_CODE":"GM0193",
+    "cbsnl:GM_NAAM":"Zwolle",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"976",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK019351",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:area_square_m":570761.666215,
+    "geom:bbox":"6.11164538601,52.4714333002,6.12876369044,52.4796254935",
+    "geom:latitude":52.474998,
+    "geom:longitude":6.119012,
+    "iso:country":"NL",
+    "lbl:latitude":52.475822,
+    "lbl:longitude":6.119141,
+    "mps:latitude":52.475822,
+    "mps:longitude":6.119141,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ittersumerbroek"
+    ],
+    "name:nld_x_preferred":[
+        "Ittersumerbroek"
+    ],
+    "reversegeo:latitude":52.475822,
+    "reversegeo:longitude":6.119141,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805807,
+        404473861,
+        85633337,
+        101751861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"be86f5e0fe344e2a70215619965220ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158805807,
+            "neighbourhood_id":1158803567,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803567,
+    "wof:lastmodified":1513524347,
+    "wof:name":"Ittersumerbroek",
+    "wof:parent_id":1158805807,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.111645386007405,
+    52.47143330017612,
+    6.128763690437122,
+    52.4796254934879
+],
+  "geometry": {"coordinates":[[[[6.12013702358554,52.4796254934879],[6.12128787034436,52.47855751054864],[6.1233673049047,52.47657953028695],[6.12537800186439,52.47509950972783],[6.12613691967135,52.47451271625899],[6.12727635929734,52.47369822406489],[6.12756560564848,52.47352743094447],[6.12876369043712,52.47282842910798],[6.12826580742966,52.47251505012336],[6.12090816856568,52.47261454511765],[6.12073747809774,52.47245768769043],[6.12049000512313,52.47234867754324],[6.12023117750756,52.47233448698631],[6.11997326356313,52.47237556093233],[6.11966494366068,52.47249590304047],[6.11358840229862,52.47143330017612],[6.11318805056239,52.47214225567026],[6.1116453860074,52.47487382287079],[6.11276890637582,52.4760593484102],[6.11354914312587,52.47675868114966],[6.11407833047626,52.4771497394945],[6.11479139404415,52.47750211279534],[6.11633679729737,52.4781510672684],[6.12013702358554,52.4796254934879]]]],"type":"MultiPolygon"}
+}

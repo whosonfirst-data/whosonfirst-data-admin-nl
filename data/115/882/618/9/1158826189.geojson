@@ -1,0 +1,80 @@
+{
+  "id": 1158826189,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05340106",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Hillegommerbeek",
+    "cbsnl:GM_CODE":"GM0534",
+    "cbsnl:GM_NAAM":"Hillegom",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"2308",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK053401",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":125601.428306,
+    "geom:bbox":"4.58211556287,52.2875757113,4.58939497221,52.2919145411",
+    "geom:latitude":52.289783,
+    "geom:longitude":4.585735,
+    "iso:country":"NL",
+    "lbl:latitude":52.289769,
+    "lbl:longitude":4.585735,
+    "mps:latitude":52.289769,
+    "mps:longitude":4.585735,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Hillegommerbeek"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Hillegommerbeek"
+    ],
+    "reversegeo:latitude":52.289769,
+    "reversegeo:longitude":4.585735,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831233,
+        85633337,
+        101807029,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6d81adefd0a12a21b44b1a06268c23e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101807029,
+            "macrohood_id":1158831233,
+            "neighbourhood_id":1158826189,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826189,
+    "wof:lastmodified":1513588048,
+    "wof:name":"Bedrijventerrein Hillegommerbeek",
+    "wof:parent_id":1158831233,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.582115562866576,
+    52.287575711330184,
+    4.589394972206489,
+    52.29191454112811
+],
+  "geometry": {"coordinates":[[[[4.58436898094445,52.29191454112811],[4.58615699327155,52.2913087927393],[4.58939497220649,52.29021431874468],[4.58868493832836,52.28953146555396],[4.58822830411272,52.28901206731636],[4.58702250353512,52.28757571133018],[4.58557054438102,52.28815102923412],[4.58211556286658,52.28940016668744],[4.58333890324754,52.29067883915985],[4.58364534049051,52.29116737039529],[4.58436898094445,52.29191454112811]]]],"type":"MultiPolygon"}
+}

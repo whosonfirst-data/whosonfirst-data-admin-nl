@@ -1,0 +1,78 @@
+{
+  "id": 1158826461,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05470006",
+    "cbsnl:BU_NAAM":"Winkelhof",
+    "cbsnl:GM_CODE":"GM0547",
+    "cbsnl:GM_NAAM":"Leiderdorp",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2788",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK054700",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":112854.89404,
+    "geom:bbox":"4.52940569964,52.1603024519,4.53669694476,52.1647523842",
+    "geom:latitude":52.162641,
+    "geom:longitude":4.533031,
+    "iso:country":"NL",
+    "lbl:latitude":52.162665,
+    "lbl:longitude":4.533031,
+    "mps:latitude":52.162665,
+    "mps:longitude":4.533031,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Winkelhof"
+    ],
+    "name:nld_x_preferred":[
+        "Winkelhof"
+    ],
+    "reversegeo:latitude":52.162665,
+    "reversegeo:longitude":4.533031,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        101754677,
+        85633337,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7fac7647a20a3f3ed6560126184988ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754677,
+            "neighbourhood_id":1158826461,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826461,
+    "wof:lastmodified":1513588066,
+    "wof:name":"Winkelhof",
+    "wof:parent_id":101754677,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.529405699642386,
+    52.16030245192346,
+    4.536696944763931,
+    52.16475238418929
+],
+  "geometry": {"coordinates":[[[[4.52940569964239,52.16339773632844],[4.53152439129463,52.16475238418929],[4.53250059390933,52.16455637838865],[4.53255860057548,52.16458629321284],[4.53669694476393,52.16180199963841],[4.53379362406963,52.16030245192346],[4.53334879450277,52.1608090422825],[4.53251590885033,52.16147348520659],[4.53193463182418,52.1618296504335],[4.53075075892552,52.16255642369963],[4.52942993737345,52.16333668047705],[4.52940569964239,52.16339773632844]]]],"type":"MultiPolygon"}
+}

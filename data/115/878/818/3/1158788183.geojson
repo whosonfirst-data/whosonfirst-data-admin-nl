@@ -1,0 +1,80 @@
+{
+  "id": 1158788183,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03310006",
+    "cbsnl:BU_NAAM":"Cabauw",
+    "cbsnl:GM_CODE":"GM0331",
+    "cbsnl:GM_NAAM":"Lopik",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"97",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK033100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000116,
+    "geom:area_square_m":881867.644752,
+    "geom:bbox":"4.88614795366,51.9597714366,4.91004634734,51.9708844686",
+    "geom:latitude":51.965176,
+    "geom:longitude":4.898261,
+    "iso:country":"NL",
+    "lbl:latitude":51.965148,
+    "lbl:longitude":4.898442,
+    "mps:latitude":51.965148,
+    "mps:longitude":4.898442,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Cabauw"
+    ],
+    "name:nld_x_preferred":[
+        "Cabauw"
+    ],
+    "reversegeo:latitude":51.965148,
+    "reversegeo:longitude":4.898442,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473993,
+        85633337,
+        101808449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"af21df33cbf624c5579a61c8f56be10f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473993,
+            "locality_id":101808449,
+            "neighbourhood_id":1158788183,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788183,
+    "wof:lastmodified":1513621987,
+    "wof:name":"Cabauw",
+    "wof:parent_id":101808449,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.886147953655319,
+    51.95977143656306,
+    4.910046347336722,
+    51.97088446856404
+],
+  "geometry": {"coordinates":[[[[4.90690013217266,51.97088446856404],[4.90956103950856,51.96713172276289],[4.90966596113974,51.96698299809155],[4.91004634733672,51.9663733352361],[4.9092707373645,51.96610250391964],[4.90619699239085,51.96466251677796],[4.90332768409735,51.96384798092182],[4.89577820706538,51.9616516209711],[4.89115219324052,51.96051849166138],[4.88838599176538,51.95977143656306],[4.88790248933701,51.9612507762137],[4.88771808062657,51.96121319897196],[4.88614795365532,51.9644942894246],[4.88659482532652,51.9646060187007],[4.88852532099452,51.96491083290913],[4.89010149031506,51.96540175028929],[4.89244460756757,51.96589081723222],[4.89444583013075,51.9663890805617],[4.89655445451238,51.96703971610702],[4.89855729064059,51.96792076314877],[4.90052591563954,51.96888168599444],[4.90278274206466,51.9695769226208],[4.90490692576964,51.9701589354266],[4.90633413895012,51.97060071091659],[4.90690013217266,51.97088446856404]]]],"type":"MultiPolygon"}
+}

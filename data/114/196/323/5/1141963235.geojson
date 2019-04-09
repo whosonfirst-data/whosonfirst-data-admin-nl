@@ -1,0 +1,80 @@
+{
+  "id": 1141963235,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02320300",
+    "cbsnl:BU_NAAM":"Tongeren",
+    "cbsnl:GM_CODE":"GM0232",
+    "cbsnl:GM_NAAM":"Epe",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"17",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK023203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":203006.96812,
+    "geom:bbox":"5.91648038516,52.3490145178,5.92530793906,52.3561354172",
+    "geom:latitude":52.352321,
+    "geom:longitude":5.92151,
+    "iso:country":"NL",
+    "lbl:latitude":52.351837,
+    "lbl:longitude":5.921577,
+    "mps:latitude":52.351837,
+    "mps:longitude":5.921577,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Tongeren"
+    ],
+    "name:nld_x_preferred":[
+        "Tongeren"
+    ],
+    "reversegeo:latitude":52.351837,
+    "reversegeo:longitude":5.921577,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473897,
+        85633337,
+        1158783531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"06fb131d548e831c981b42b8859cfbd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473897,
+            "locality_id":1158783531,
+            "neighbourhood_id":1141963235,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963235,
+    "wof:lastmodified":1513368732,
+    "wof:name":"Tongeren",
+    "wof:parent_id":1158783531,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.916480385164842,
+    52.34901451780254,
+    5.925307939064842,
+    52.356135417231805
+],
+  "geometry": {"coordinates":[[[[5.91648038516484,52.34903673357586],[5.91779262681015,52.35015348304204],[5.92194591234015,52.35513029635322],[5.92227959257037,52.3561354172318],[5.92342567250314,52.35611393643391],[5.92530793906484,52.35578548069788],[5.92381315904313,52.35259627783508],[5.92296840055595,52.35046185789716],[5.92112599696564,52.34956944651695],[5.9188664519859,52.34901451780254],[5.91648038516484,52.34903673357586]]]],"type":"MultiPolygon"}
+}

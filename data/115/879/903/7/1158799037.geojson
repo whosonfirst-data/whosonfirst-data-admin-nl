@@ -1,0 +1,80 @@
+{
+  "id": 1158799037,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08510004",
+    "cbsnl:BU_NAAM":"Industrieterrein Reinierpolder",
+    "cbsnl:GM_CODE":"GM0851",
+    "cbsnl:GM_NAAM":"Steenbergen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"268",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK085100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":402821.465002,
+    "geom:bbox":"4.29718363299,51.5871370514,4.30797568261,51.5943310894",
+    "geom:latitude":51.591186,
+    "geom:longitude":4.301655,
+    "iso:country":"NL",
+    "lbl:latitude":51.590906,
+    "lbl:longitude":4.301552,
+    "mps:latitude":51.590906,
+    "mps:longitude":4.301552,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Industrieterrein Reinierpolder"
+    ],
+    "name:nld_x_preferred":[
+        "Industrieterrein Reinierpolder"
+    ],
+    "reversegeo:latitude":51.590906,
+    "reversegeo:longitude":4.301552,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474431,
+        85633337,
+        101839423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ed9eae40d5e67ffd7d508fd004961a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474431,
+            "locality_id":101839423,
+            "neighbourhood_id":1158799037,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799037,
+    "wof:lastmodified":1513432718,
+    "wof:name":"Industrieterrein Reinierpolder",
+    "wof:parent_id":101839423,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.297183632986029,
+    51.587137051369915,
+    4.30797568260537,
+    51.59433108935056
+],
+  "geometry": {"coordinates":[[[[4.30763279067625,51.59367657212911],[4.30775688636896,51.59330887781427],[4.30797568260537,51.59313588711625],[4.30784685438468,51.59299648830361],[4.3079733687116,51.59291562899059],[4.3061688259486,51.59099717219316],[4.30453080633983,51.59070082315409],[4.30450803242582,51.58895276142461],[4.30450047225903,51.58894819679267],[4.30155186555424,51.58713705136991],[4.29763756077467,51.58762314459053],[4.29814229509594,51.58943609428036],[4.29812360819546,51.58945839341744],[4.29815438208495,51.58945390502736],[4.29829047188629,51.59013948062773],[4.2983531797274,51.59012910832877],[4.29830183412933,51.59017329619716],[4.29851016267085,51.59058312408465],[4.29719581224255,51.59079729610139],[4.29719560448555,51.59086218601571],[4.29718363298603,51.59433108935056],[4.30763279067625,51.59367657212911]]]],"type":"MultiPolygon"}
+}

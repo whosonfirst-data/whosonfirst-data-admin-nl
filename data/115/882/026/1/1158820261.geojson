@@ -1,0 +1,82 @@
+{
+  "id": 1158820261,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04320001",
+    "cbsnl:BU_NAAM":"Opmeer-Zuid, Spanbroek (gedeeltelijk)",
+    "cbsnl:GM_CODE":"GM0432",
+    "cbsnl:GM_NAAM":"Opmeer",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"634",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK043200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000508,
+    "geom:area_square_m":3810573.923286,
+    "geom:bbox":"4.93020586542,52.6852788744,4.98002369805,52.7055863406",
+    "geom:latitude":52.696172,
+    "geom:longitude":4.955306,
+    "iso:country":"NL",
+    "lbl:latitude":52.696033,
+    "lbl:longitude":4.955306,
+    "mps:latitude":52.696033,
+    "mps:longitude":4.955306,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Opmeer-Zuid",
+        "Spanbroek (gedeeltelijk)"
+    ],
+    "name:nld_x_preferred":[
+        "Opmeer-Zuid",
+        "Spanbroek (gedeeltelijk)"
+    ],
+    "reversegeo:latitude":52.696033,
+    "reversegeo:longitude":4.955306,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474107,
+        85633337,
+        101837953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c5f0b3c40a2b037361fcf666c39ae3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474107,
+            "locality_id":101837953,
+            "neighbourhood_id":1158820261,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158820261,
+    "wof:lastmodified":1513464211,
+    "wof:name":"Opmeer-Zuid, Spanbroek (gedeeltelijk)",
+    "wof:parent_id":101837953,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.930205865416099,
+    52.68527887440101,
+    4.980023698048179,
+    52.70558634061995
+],
+  "geometry": {"coordinates":[[[[4.98002369804818,52.69843145071624],[4.97991929516648,52.69837352115287],[4.97291884208359,52.69448214408856],[4.96562090783703,52.68982202573595],[4.96129437568091,52.68710686297281],[4.96035202627359,52.68638003075694],[4.95950196850577,52.68527887440101],[4.95204861688976,52.68809625242015],[4.95147392689369,52.68774365543148],[4.94113808838887,52.69219354907503],[4.9302058654161,52.69690256269117],[4.93031486486262,52.69694510890982],[4.93198413588827,52.69759154976909],[4.94329197519842,52.7019794782144],[4.94574102297115,52.70279629275432],[4.94710577511178,52.70303247885641],[4.94787909989653,52.70337234787083],[4.95372930576688,52.70558634061995],[4.95657537750003,52.70489062992817],[4.95723941327887,52.70446783179849],[4.95808349011434,52.70423721549569],[4.98002369804818,52.69843145071624]]]],"type":"MultiPolygon"}
+}

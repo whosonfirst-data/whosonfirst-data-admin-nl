@@ -1,0 +1,80 @@
+{
+  "id": 1158800245,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17091000",
+    "cbsnl:BU_NAAM":"Helwijk",
+    "cbsnl:GM_CODE":"GM1709",
+    "cbsnl:GM_NAAM":"Moerdijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"138",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170910",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":126104.782324,
+    "geom:bbox":"4.42927244858,51.6734846513,4.43613227136,51.6784896488",
+    "geom:latitude":51.676509,
+    "geom:longitude":4.432366,
+    "iso:country":"NL",
+    "lbl:latitude":51.676321,
+    "lbl:longitude":4.432132,
+    "mps:latitude":51.676321,
+    "mps:longitude":4.432132,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Helwijk"
+    ],
+    "name:nld_x_preferred":[
+        "Helwijk"
+    ],
+    "reversegeo:latitude":51.676321,
+    "reversegeo:longitude":4.432132,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474623,
+        85633337,
+        1158801527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ca55ff656fe5ebe402534b7adaa92605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474623,
+            "locality_id":1158801527,
+            "neighbourhood_id":1158800245,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158800245,
+    "wof:lastmodified":1513432814,
+    "wof:name":"Helwijk",
+    "wof:parent_id":1158801527,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.429272448576082,
+    51.6734846512886,
+    4.436132271356045,
+    51.67848964878711
+],
+  "geometry": {"coordinates":[[[[4.43322584877274,51.67486539321303],[4.43199986179027,51.67373008378443],[4.43198785184395,51.67374798364609],[4.43179019787131,51.6734846512886],[4.43030031496397,51.67573311646601],[4.43028886199323,51.67627482667586],[4.42965158099025,51.67656854384648],[4.42994295068286,51.6770006330138],[4.42927244857608,51.67744353917368],[4.42980221930434,51.67797099304257],[4.43158489594208,51.6781201275185],[4.43277211823725,51.67821943283042],[4.43340664675702,51.67805645569887],[4.43469984000375,51.67801093378503],[4.43613227135604,51.67848964878711],[4.43555991855427,51.67781403897098],[4.43579966473211,51.67782940044164],[4.43322584877274,51.67486539321303]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158826019,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05130600",
+    "cbsnl:BU_NAAM":"Oosterwei",
+    "cbsnl:GM_CODE":"GM0513",
+    "cbsnl:GM_NAAM":"Gouda",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2265",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK051306",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":184065.91981,
+    "geom:bbox":"4.72893893444,52.0081379638,4.73460461019,52.0141664023",
+    "geom:latitude":52.011405,
+    "geom:longitude":4.731962,
+    "iso:country":"NL",
+    "lbl:latitude":52.011401,
+    "lbl:longitude":4.732016,
+    "mps:latitude":52.011401,
+    "mps:longitude":4.732016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oosterwei"
+    ],
+    "name:nld_x_preferred":[
+        "Oosterwei"
+    ],
+    "reversegeo:latitude":52.011401,
+    "reversegeo:longitude":4.732016,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831227,
+        85633337,
+        101751839,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c550af03ce22fc8e787f6ecb94f82945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751839,
+            "macrohood_id":1158831227,
+            "neighbourhood_id":1158826019,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826019,
+    "wof:lastmodified":1513588033,
+    "wof:name":"Oosterwei",
+    "wof:parent_id":1158831227,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.728938934438149,
+    52.00813796375055,
+    4.734604610194103,
+    52.01416640233318
+],
+  "geometry": {"coordinates":[[[[4.72893893443815,52.0137671605283],[4.7313501498869,52.01413650277337],[4.73187708385431,52.01416640233318],[4.73333970625323,52.01395544322362],[4.73347242539852,52.01364945170849],[4.73357938648548,52.01340848280958],[4.73412729620928,52.01218801547878],[4.73429498223007,52.01216313309082],[4.7346046101941,52.01104579924085],[4.73438620612896,52.01103528718171],[4.73449353976299,52.00954938994168],[4.73415006808146,52.00842758948099],[4.7339154481041,52.00823921565517],[4.73379016145273,52.00813796375055],[4.73243509244735,52.00867226507398],[4.73182707514048,52.00911830107525],[4.73131920310206,52.00908850724946],[4.73106957410761,52.00902419736639],[4.7303657350051,52.00894920820317],[4.7295942616958,52.01129732985349],[4.72893893443815,52.0137671605283]]]],"type":"MultiPolygon"}
+}

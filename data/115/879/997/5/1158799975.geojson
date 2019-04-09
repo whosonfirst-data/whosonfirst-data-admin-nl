@@ -1,0 +1,80 @@
+{
+  "id": 1158799975,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16741000",
+    "cbsnl:BU_NAAM":"Nispen",
+    "cbsnl:GM_CODE":"GM1674",
+    "cbsnl:GM_NAAM":"Roosendaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"182",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK167410",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000214,
+    "geom:area_square_m":1650427.481372,
+    "geom:bbox":"4.44585216919,51.4772010406,4.47027239775,51.4917612929",
+    "geom:latitude":51.484184,
+    "geom:longitude":4.458174,
+    "iso:country":"NL",
+    "lbl:latitude":51.484413,
+    "lbl:longitude":4.458406,
+    "mps:latitude":51.484413,
+    "mps:longitude":4.458406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Nispen"
+    ],
+    "name:nld_x_preferred":[
+        "Nispen"
+    ],
+    "reversegeo:latitude":51.484413,
+    "reversegeo:longitude":4.458406,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474587,
+        85633337,
+        101808205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3c2dcbc8e9ed93065e055d52f5bc0dd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474587,
+            "locality_id":101808205,
+            "neighbourhood_id":1158799975,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799975,
+    "wof:lastmodified":1513432791,
+    "wof:name":"Nispen",
+    "wof:parent_id":101808205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.44585216918753,
+    51.477201040579835,
+    4.470272397747402,
+    51.49176129285464
+],
+  "geometry": {"coordinates":[[[[4.46023383089845,51.47720104057984],[4.45968382089757,51.47720656035079],[4.44585216918753,51.48399323508481],[4.44601539332123,51.48849272911302],[4.44829379236304,51.48832859296913],[4.452745598117,51.48890365625848],[4.46046301579455,51.49175180078318],[4.46131961200755,51.49176129285464],[4.46205405009038,51.49140485177369],[4.46680846869068,51.4841612199362],[4.47021664752654,51.48300237048583],[4.4702723977474,51.48237896171804],[4.46890357497097,51.48022249449124],[4.46578422785112,51.47786073802164],[4.46023383089845,51.47720104057984]]]],"type":"MultiPolygon"}
+}

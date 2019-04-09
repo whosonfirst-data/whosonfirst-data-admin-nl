@@ -1,0 +1,125 @@
+{
+  "id": 85798253,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06370003",
+    "cbsnl:BU_NAAM":"Palenstein",
+    "cbsnl:GM_CODE":"GM0637",
+    "cbsnl:GM_NAAM":"Zoetermeer",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"2980",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK063700",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:area_square_m":885857.838314,
+    "geom:bbox":"4.49664676417,52.0514447219,4.51471246683,52.0643273291",
+    "geom:latitude":52.057376,
+    "geom:longitude":4.505018,
+    "gn:latitude":52.05579,
+    "gn:longitude":4.50869,
+    "iso:country":"NL",
+    "lbl:latitude":52.05749,
+    "lbl:longitude":4.504479,
+    "mps:latitude":52.056545,
+    "mps:longitude":4.505771,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Palenstein"
+    ],
+    "name:nld_x_preferred":[
+        "Palenstein"
+    ],
+    "name:unk_x_variant":[
+        "Palenstein"
+    ],
+    "qs:gn_adm0_cc":"NL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2743856,
+    "qs:gn_nam_loc":"Zoetermeer, Zoetermeer, Zuid-Holland, NL",
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Palenstein",
+    "qs:local_max":3714,
+    "qs:local_sum":7525,
+    "qs:localhoods":5,
+    "qs:name":"Palenstein",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Zuid-Holland",
+    "qs:name_adm2":"Zoetermeer",
+    "qs:name_local":"Zoetermeer",
+    "qs:photo_max":387,
+    "qs:photo_sum":979,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":47,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346383,
+    "qs:woe_adm2":12592510,
+    "qs:woe_lau":0,
+    "qs:woe_local":735077,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":52.056545,
+    "reversegeo:longitude":4.505771,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751835,
+        85633337,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2748760,
+        "gp:id":732659,
+        "qs:id":178662,
+        "qs_pg:id":178662,
+        "wd:id":"Q2865415",
+        "wk:page":"Palenstein RandstadRail station"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"8186c3038ac820a23567225a15e32790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751835,
+            "neighbourhood_id":85798253,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":85798253,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527269467,
+    "wof:name":"Palenstein",
+    "wof:parent_id":101751835,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.49664676416823,
+    52.05144472191837,
+    4.51471246683427,
+    52.06432732912464
+],
+  "geometry": {"coordinates":[[[[4.50860041895537,52.05976379306938],[4.51471246683427,52.05673968625626],[4.51429105830766,52.05642839997657],[4.51240037943172,52.05480169736383],[4.50860804542931,52.05154305485745],[4.50743450351713,52.05165039062472],[4.50662107603257,52.05144472191837],[4.50516165584463,52.05218482110204],[4.50313495283669,52.05322991496067],[4.50214669822343,52.05387030625271],[4.50203390177418,52.05472287562571],[4.50088305695778,52.05557358883821],[4.50008472795396,52.05563544244053],[4.49958056645668,52.05587002063034],[4.49825566238415,52.05654599859328],[4.49777859092658,52.05687723854962],[4.49690002663568,52.05731713401831],[4.49680051370384,52.05738362528034],[4.49664676416823,52.05748635239764],[4.4967827399755,52.05783508445558],[4.49672875666871,52.05798840708253],[4.49676425105561,52.05811068616328],[4.49679851889399,52.05818537880037],[4.49692144544348,52.05839270310125],[4.49719800501,52.05874457299254],[4.49772260382313,52.05969468651604],[4.49807245292372,52.06023746715242],[4.49885294159696,52.06151739031289],[4.49940166636801,52.06245664868987],[4.49971726515835,52.06284899420778],[4.50060281313802,52.06432732912464],[4.50091000134296,52.06420448039336],[4.50186120793106,52.06358383101765],[4.50350954648109,52.06254165022734],[4.50633192977633,52.06088600372263],[4.50860041895537,52.05976379306938]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158791559,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16990330",
+    "cbsnl:BU_NAAM":"Peest",
+    "cbsnl:GM_CODE":"GM1699",
+    "cbsnl:GM_NAAM":"Noordenveld",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"20",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK169903",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":364892.052139,
+    "geom:bbox":"6.49284001356,53.0548652309,6.50636656554,53.0621939601",
+    "geom:latitude":53.059079,
+    "geom:longitude":6.498882,
+    "iso:country":"NL",
+    "lbl:latitude":53.058995,
+    "lbl:longitude":6.497857,
+    "mps:latitude":53.058995,
+    "mps:longitude":6.497857,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Peest"
+    ],
+    "name:nld_x_preferred":[
+        "Peest"
+    ],
+    "reversegeo:latitude":53.058995,
+    "reversegeo:longitude":6.497857,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474609,
+        85633337,
+        1158792143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7980e2c5ef690871b00db200b216990a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474609,
+            "locality_id":1158792143,
+            "neighbourhood_id":1158791559,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791559,
+    "wof:lastmodified":1513292348,
+    "wof:name":"Peest",
+    "wof:parent_id":1158792143,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.492840013563527,
+    53.05486523086312,
+    6.506366565541564,
+    53.06219396014539
+],
+  "geometry": {"coordinates":[[[[6.49436196156654,53.05486523086312],[6.49363064496903,53.05649410339875],[6.49579844152746,53.05715478664244],[6.49461163045574,53.05904569113372],[6.49391364900705,53.05875614617542],[6.49284001356353,53.06082178659656],[6.49475337103905,53.06080184764654],[6.49566657269328,53.06104726810855],[6.49661441138146,53.06141649098922],[6.49750242896138,53.06172447541267],[6.49819256461995,53.06187758528858],[6.49897303560445,53.06159848850439],[6.49931541002844,53.06127852475309],[6.50034458694311,53.06121840600186],[6.50209480485799,53.06169807091244],[6.5033070323498,53.06219396014539],[6.50417855587109,53.06116021655512],[6.50410718840546,53.06070536784662],[6.505823146166,53.06002600483883],[6.50636656554156,53.05975862424464],[6.50271747422578,53.05811666507145],[6.49767364022129,53.05611347304138],[6.49436196156654,53.05486523086312]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158797765,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07852129",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Riel",
+    "cbsnl:GM_CODE":"GM0785",
+    "cbsnl:GM_NAAM":"Goirle",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"228",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK078521",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":88582.692007,
+    "geom:bbox":"5.01209339547,51.5192755617,5.01727992962,51.5231612517",
+    "geom:latitude":51.521134,
+    "geom:longitude":5.014672,
+    "iso:country":"NL",
+    "lbl:latitude":51.521231,
+    "lbl:longitude":5.014712,
+    "mps:latitude":51.521231,
+    "mps:longitude":5.014712,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Riel"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Riel"
+    ],
+    "reversegeo:latitude":51.521231,
+    "reversegeo:longitude":5.014712,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474383,
+        85633337,
+        101809667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"2e0d5213f52a7815952eac44b933c492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474383,
+            "locality_id":101809667,
+            "neighbourhood_id":1158797765,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797765,
+    "wof:lastmodified":1513432618,
+    "wof:name":"Bedrijventerrein Riel",
+    "wof:parent_id":101809667,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.012093395474776,
+    51.51927556170805,
+    5.017279929618298,
+    51.523161251676335
+],
+  "geometry": {"coordinates":[[[[5.01460263602139,51.52316125167633],[5.01563123051799,51.52288246171813],[5.01710476242412,51.52065579040062],[5.0172799296183,51.52034857183982],[5.01548959077434,51.5198026057535],[5.01376139552559,51.51927556170805],[5.01209339547478,51.52113795635135],[5.01460263602139,51.52316125167633]]]],"type":"MultiPolygon"}
+}

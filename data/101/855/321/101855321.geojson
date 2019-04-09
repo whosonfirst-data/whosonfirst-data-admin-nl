@@ -1,0 +1,97 @@
+{
+  "id": 101855321,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18760404",
+    "cbsnl:BU_NAAM":"Achterdrempt",
+    "cbsnl:GM_CODE":"GM1876",
+    "cbsnl:GM_NAAM":"Bronckhorst",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"65",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK187604",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":206054.971618,
+    "geom:bbox":"6.17790287209,52.0197148966,6.18717386838,52.0249949406",
+    "geom:latitude":52.022494,
+    "geom:longitude":6.181905,
+    "iso:country":"NL",
+    "lbl:latitude":52.02248,
+    "lbl:longitude":6.181487,
+    "mps:latitude":52.022833,
+    "mps:longitude":6.181203,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:eng_x_preferred":[
+        "Achterdrempt"
+    ],
+    "name:nld_x_preferred":[
+        "Achterdrempt"
+    ],
+    "qs:a0":"Nederland",
+    "qs:a1":"*Gelderland",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Achterdrempt",
+    "qs:loc_alt":"Achterdrempt",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "reversegeo:latitude":52.022833,
+    "reversegeo:longitude":6.181203,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404474673,
+        85633337,
+        85687043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2760035,
+        "gp:id":727073,
+        "qs:id":9,
+        "tgn:id":7258092
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"0adf69359c4605cec34af5781eeb682b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474673,
+            "locality_id":101855321,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":101855321,
+    "wof:lastmodified":1513367623,
+    "wof:name":"Achterdrempt",
+    "wof:parent_id":404474673,
+    "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "neighbourhood"
+    ],
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.177902872090036,
+    52.01971489657823,
+    6.187173868382354,
+    52.02499494064149
+],
+  "geometry": {"coordinates":[[[[6.18081932381793,52.01971489657823],[6.17790287209004,52.02038984762183],[6.17803217604163,52.02176955325485],[6.17884679419826,52.02285617784496],[6.17952028225705,52.02386453707084],[6.17983897948324,52.02499494064149],[6.18131628953212,52.02473695499977],[6.18200536449332,52.02464326170875],[6.18307072654001,52.02449589718307],[6.18416572612824,52.02437697420128],[6.18577301274682,52.023647842575],[6.18635835972802,52.02297338299811],[6.18619224163524,52.0226455875592],[6.18717386838235,52.02230016603925],[6.1864938603045,52.0213430171405],[6.18487447505123,52.02170708361903],[6.18339795502899,52.02175949741635],[6.18192565917348,52.0212290158925],[6.18143166364293,52.02080539735866],[6.18146052478592,52.02030184681657],[6.18081932381793,52.01971489657823]]]],"type":"MultiPolygon"}
+}

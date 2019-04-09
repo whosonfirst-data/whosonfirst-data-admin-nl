@@ -1,0 +1,82 @@
+{
+  "id": 1158791135,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01190500",
+    "cbsnl:BU_NAAM":"Bloemenbuurt",
+    "cbsnl:GM_CODE":"GM0119",
+    "cbsnl:GM_NAAM":"Meppel",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"1417",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011905",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":134247.553982,
+    "geom:bbox":"6.19797308766,52.6907161421,6.20595463719,52.69495548",
+    "geom:latitude":52.692851,
+    "geom:longitude":6.201236,
+    "iso:country":"NL",
+    "lbl:latitude":52.692688,
+    "lbl:longitude":6.200903,
+    "mps:latitude":52.692688,
+    "mps:longitude":6.200903,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bloemenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Bloemenbuurt"
+    ],
+    "reversegeo:latitude":52.692688,
+    "reversegeo:longitude":6.200903,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        1158792243,
+        404473813,
+        85633337,
+        101807279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"05f746d05217c36bd80686e15743d39f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473813,
+            "locality_id":101807279,
+            "macrohood_id":1158792243,
+            "neighbourhood_id":1158791135,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791135,
+    "wof:lastmodified":1513292320,
+    "wof:name":"Bloemenbuurt",
+    "wof:parent_id":1158792243,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.197973087659776,
+    52.69071614207069,
+    6.205954637193153,
+    52.69495547996419
+],
+  "geometry": {"coordinates":[[[[6.19886491247646,52.69495547996419],[6.20067679593669,52.69452869327448],[6.20187724451003,52.69425426517216],[6.20283060247851,52.69404164226691],[6.20584223012085,52.69339867682935],[6.20595463719315,52.69337563786208],[6.20527779843501,52.69230643781367],[6.2030346459307,52.69275961761524],[6.20178087851124,52.69071614207069],[6.19797308765978,52.69150984701414],[6.19875185454176,52.6937317815573],[6.19886491247646,52.69495547996419]]]],"type":"MultiPolygon"}
+}

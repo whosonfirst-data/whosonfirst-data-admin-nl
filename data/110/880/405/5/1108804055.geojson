@@ -1,0 +1,91 @@
+{
+  "id": 1108804055,
+  "type": "Feature",
+  "properties": {
+    "amsgis:_categories":"buurt",
+    "amsgis:_id":"buurt.03630000000426",
+    "amsgis:categorie":"90",
+    "amsgis:code":"04f",
+    "amsgis:display":"Uilenburg",
+    "amsgis:externe_id":"3630000000426",
+    "amsgis:naam":"Uilenburg",
+    "amsgis:online_tijdsaspect":"1",
+    "amsgis:titel":"Uilenburg",
+    "amsgis:titel_key":"uilenburg_4",
+    "amsgis:type":"Buurtgrenzen",
+    "amsgis:type_2":"gebieden/buurt",
+    "amsgis:uri":"https://api.datapunt.amsterdam.nl/gebieden/buurt/03630000000426/",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":106501.184436,
+    "geom:bbox":"4.90111546868,52.3684458674,4.9091486637,52.3720749829",
+    "geom:latitude":52.370199,
+    "geom:longitude":4.905122,
+    "iso:country":"NL",
+    "lbl:latitude":52.37022,
+    "lbl:longitude":4.905122,
+    "mps:latitude":52.37022,
+    "mps:longitude":4.905122,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "name:dut_x_preferred":[
+        "Uilenburg"
+    ],
+    "name:eng_x_preferred":[
+        "Uilenburg"
+    ],
+    "name:fre_x_preferred":[
+        "Uilenburg"
+    ],
+    "reversegeo:latitude":52.37022,
+    "reversegeo:longitude":4.905122,
+    "src:geom":"amsgis",
+    "wof:belongsto":[
+        1108802875,
+        102191581,
+        85633337,
+        101751893,
+        1158844279,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2695420"
+    },
+    "wof:controlled":[],
+    "wof:country":"NL",
+    "wof:geomhash":"d9d08081e3371bc5646746ff02ad83aa",
+    "wof:hierarchy":[
+        {
+            "borough_id":1158844279,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108804055,
+            "neighbourhood_id":1108802875,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1108804055,
+    "wof:lastmodified":1514493060,
+    "wof:name":"Uilenburg",
+    "wof:parent_id":1108802875,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.90111546868248,
+    52.36844586742284,
+    4.90914866370098,
+    52.37207498290139
+],
+  "geometry": {"coordinates":[[[4.90111546868248,52.3696205777692],[4.90162931319197,52.36996529366764],[4.90214734384282,52.37028053719751],[4.90300752470294,52.37065204744486],[4.90480769799307,52.37141415296907],[4.90520555298272,52.37158257810899],[4.90579019902464,52.37182107453917],[4.90636487129636,52.37207498290139],[4.90666860617465,52.3719227460718],[4.90731772460163,52.3715367433824],[4.90744765257961,52.37144835771075],[4.90829194770038,52.37085835008463],[4.90830435673163,52.37084967828428],[4.90855996126906,52.37070886328821],[4.90885024635369,52.37054894068015],[4.90914866370098,52.37038453593245],[4.90870237732554,52.3701618345821],[4.90821345746457,52.37006940083108],[4.90454598386657,52.36867265494775],[4.90430645874176,52.36857879113562],[4.90396297714002,52.36844586742284],[4.90371094983014,52.36853751728517],[4.90261999094996,52.36898514657488],[4.90160966077994,52.36941186111575],[4.90111546868248,52.3696205777692]]],"type":"Polygon"}
+}

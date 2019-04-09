@@ -1,0 +1,80 @@
+{
+  "id": 1158828413,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18920410",
+    "cbsnl:BU_NAAM":"Bomenbuurt",
+    "cbsnl:GM_CODE":"GM1892",
+    "cbsnl:GM_NAAM":"Zuidplas",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1694",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK189204",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":81855.870083,
+    "geom:bbox":"4.60460675642,51.9595972864,4.61290152045,51.9639698829",
+    "geom:latitude":51.961639,
+    "geom:longitude":4.608806,
+    "iso:country":"NL",
+    "lbl:latitude":51.961532,
+    "lbl:longitude":4.608868,
+    "mps:latitude":51.961532,
+    "mps:longitude":4.608868,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bomenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Bomenbuurt"
+    ],
+    "reversegeo:latitude":51.961532,
+    "reversegeo:longitude":4.608868,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158824737,
+        85633337,
+        101808529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"2e74910befa89dfff93b3fb3e9913798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824737,
+            "locality_id":101808529,
+            "neighbourhood_id":1158828413,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828413,
+    "wof:lastmodified":1513588225,
+    "wof:name":"Bomenbuurt",
+    "wof:parent_id":101808529,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.604606756423178,
+    51.95959728638679,
+    4.612901520454861,
+    51.96396988293559
+],
+  "geometry": {"coordinates":[[[[4.61290152045486,51.96284429953832],[4.61040938283882,51.96153596824415],[4.60750701834868,51.96020002532124],[4.60621313228566,51.95959728638679],[4.60592363210626,51.95983927009357],[4.60460675642318,51.96093997355686],[4.60571731059416,51.96145113927601],[4.60591463465451,51.96128752620392],[4.60624989949763,51.96126974075095],[4.60707027856723,51.96143341563453],[4.60848777845259,51.96206115882858],[4.61039231335122,51.96294437419512],[4.61085846679441,51.96316053989537],[4.61089316911109,51.96370845234907],[4.61091119340626,51.9637364827785],[4.61147552128116,51.96396988293559],[4.61263102938949,51.96305781265405],[4.61290152045486,51.96284429953832]]]],"type":"MultiPolygon"}
+}

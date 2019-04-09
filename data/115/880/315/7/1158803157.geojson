@@ -1,0 +1,80 @@
+{
+  "id": 1158803157,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01770100",
+    "cbsnl:BU_NAAM":"Industriegebied De Zegge I en II",
+    "cbsnl:GM_CODE":"GM0177",
+    "cbsnl:GM_NAAM":"Raalte",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"665",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK017701",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000133,
+    "geom:area_square_m":1002434.108338,
+    "geom:bbox":"6.277500805,52.3726629074,6.29894469784,52.383731656",
+    "geom:latitude":52.379177,
+    "geom:longitude":6.286289,
+    "iso:country":"NL",
+    "lbl:latitude":52.378927,
+    "lbl:longitude":6.28289,
+    "mps:latitude":52.378927,
+    "mps:longitude":6.28289,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Industriegebied De Zegge I en II"
+    ],
+    "name:nld_x_preferred":[
+        "Industriegebied De Zegge I en II"
+    ],
+    "reversegeo:latitude":52.378927,
+    "reversegeo:longitude":6.28289,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473849,
+        85633337,
+        101808759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"dae0e1f926d4709cfac74e272393faf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473849,
+            "locality_id":101808759,
+            "neighbourhood_id":1158803157,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803157,
+    "wof:lastmodified":1513524319,
+    "wof:name":"Industriegebied De Zegge I en II",
+    "wof:parent_id":101808759,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.277500805000916,
+    52.37266290740123,
+    6.298944697838549,
+    52.383731655986175
+],
+  "geometry": {"coordinates":[[[[6.29446446149908,52.38347666219197],[6.29743136698182,52.38367970751329],[6.29894469783855,52.38348717559906],[6.29622186789589,52.38221496423668],[6.29509703160233,52.38168959837332],[6.29571786179129,52.38123838764805],[6.29623197737497,52.38079105817906],[6.29695236252107,52.38058846580439],[6.29775222549114,52.38033599228874],[6.29622575299363,52.378524935792],[6.29459178618251,52.37735512397894],[6.2922622158922,52.37787844952661],[6.29118618735985,52.37812015400163],[6.29068267863565,52.37711407719675],[6.28927768515423,52.37729721979132],[6.28679072148748,52.37704000280644],[6.28177421112412,52.37266290740123],[6.27768265236097,52.37279066779635],[6.27750080500092,52.37280748474728],[6.27835097598326,52.3775467677785],[6.27821714831306,52.37761321894203],[6.27841237644156,52.37789571508342],[6.27953625865616,52.38273460037065],[6.27973733352874,52.38360211465356],[6.27975184121588,52.38366155088817],[6.27972961359051,52.38373165598617],[6.28414840152306,52.38309802168369],[6.28706357875431,52.38271272001953],[6.29278186547713,52.38336118568449],[6.29446446149908,52.38347666219197]]]],"type":"MultiPolygon"}
+}

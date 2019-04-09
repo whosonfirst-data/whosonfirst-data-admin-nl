@@ -1,0 +1,128 @@
+{
+  "id": 85797883,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05130202",
+    "cbsnl:BU_NAAM":"Industrieterrein Kromme Gouwe Oost West",
+    "cbsnl:GM_CODE":"GM0513",
+    "cbsnl:GM_NAAM":"Gouda",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2614",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK051302",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":488969.370338,
+    "geom:bbox":"4.68354976568,52.0087959746,4.70289834024,52.0149265646",
+    "geom:latitude":52.012514,
+    "geom:longitude":4.6923,
+    "gn:latitude":52.01141,
+    "gn:longitude":4.69382,
+    "iso:country":"NL",
+    "lbl:latitude":52.012811,
+    "lbl:longitude":4.691582,
+    "mps:latitude":52.012306,
+    "mps:longitude":4.690028,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Kromme Gouwe"
+    ],
+    "name:nld_x_preferred":[
+        "Kromme Gouwe"
+    ],
+    "name:nld_x_variant":[
+        "Industrieterrein Kromme Gouwe Oost West"
+    ],
+    "name:unk_x_variant":[
+        "Kromme Gouwe"
+    ],
+    "qs:gn_adm0_cc":"NL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2755420,
+    "qs:gn_nam_loc":"Gouda, Gouda, Zuid-Holland, NL",
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Kromme Gouwe",
+    "qs:local_max":1786,
+    "qs:local_sum":2667,
+    "qs:localhoods":2,
+    "qs:name":"Kromme Gouwe",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Zuid-Holland",
+    "qs:name_adm2":"Gouda",
+    "qs:name_local":"Gouda",
+    "qs:photo_max":205,
+    "qs:photo_sum":1786,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":120,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346383,
+    "qs:woe_adm2":12592171,
+    "qs:woe_lau":0,
+    "qs:woe_local":729467,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":52.012306,
+    "reversegeo:longitude":4.690028,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158829549,
+        85633337,
+        101751839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2752249,
+        "gp:id":730978,
+        "qs:id":1080777,
+        "qs_pg:id":1080777
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"7cee942a6fcc941a79297209c25ca0b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751839,
+            "macrohood_id":1158829549,
+            "neighbourhood_id":85797883,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":85797883,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527269463,
+    "wof:name":"Kromme Gouwe",
+    "wof:parent_id":1158829549,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.68354976567799,
+    52.00879597456139,
+    4.70289834024025,
+    52.01492656458583
+],
+  "geometry": {"coordinates":[[[[4.68354976567799,52.01480259339883],[4.68362673331501,52.01481485182406],[4.68728865508365,52.01492656458583],[4.69031509733624,52.0148771059344],[4.69306186521039,52.01491131069906],[4.69480952376375,52.01465812855572],[4.69560086952972,52.01454424661091],[4.69838403086662,52.01372716943605],[4.70040285559906,52.01269097167634],[4.70202575850656,52.01153811601024],[4.70283635331167,52.01187287282463],[4.70289008450903,52.01140213683635],[4.70289834024025,52.01133842273887],[4.70233486118765,52.01123093808818],[4.70177196734399,52.0110855315273],[4.7012864050409,52.01063862002325],[4.70066016685438,52.01035014789939],[4.69981239286557,52.0101645911465],[4.69896732619584,52.01036638697742],[4.69791576827641,52.01092734549048],[4.69717217610521,52.01135892723917],[4.69619089964306,52.01141777650029],[4.6928578975782,52.01087234179211],[4.6915266420596,52.0099305292935],[4.68995219448672,52.00879597456139],[4.68961230391908,52.00902232241357],[4.6892487215308,52.00926454109575],[4.6871985614975,52.01071214325663],[4.68542229889557,52.01224673313288],[4.68382802350676,52.0142441662878],[4.68354976567799,52.01480259339883]]]],"type":"MultiPolygon"}
+}

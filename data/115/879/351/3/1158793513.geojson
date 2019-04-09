@@ -1,0 +1,80 @@
+{
+  "id": 1158793513,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16630103",
+    "cbsnl:BU_NAAM":"Mensingeweer",
+    "cbsnl:GM_CODE":"GM1663",
+    "cbsnl:GM_NAAM":"De Marne",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"94",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK166301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":252448.429819,
+    "geom:bbox":"6.46098752968,53.3489597877,6.46902318952,53.354594057",
+    "geom:latitude":53.351501,
+    "geom:longitude":6.465036,
+    "iso:country":"NL",
+    "lbl:latitude":53.351773,
+    "lbl:longitude":6.465113,
+    "mps:latitude":53.351773,
+    "mps:longitude":6.465113,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Mensingeweer"
+    ],
+    "name:nld_x_preferred":[
+        "Mensingeweer"
+    ],
+    "reversegeo:latitude":53.351773,
+    "reversegeo:longitude":6.465113,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404474575,
+        85633337,
+        1158796591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5271d6e547c36871843a447df6131a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474575,
+            "locality_id":1158796591,
+            "neighbourhood_id":1158793513,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793513,
+    "wof:lastmodified":1513382316,
+    "wof:name":"Mensingeweer",
+    "wof:parent_id":1158796591,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.460987529679825,
+    53.34895978765689,
+    6.469023189520184,
+    53.35459405699063
+],
+  "geometry": {"coordinates":[[[[6.4650657774628,53.34895978765689],[6.46380789586746,53.34898004177011],[6.4630622069329,53.34913048915104],[6.46168257668279,53.34944385026233],[6.461124950201,53.35038953829709],[6.46098752967982,53.35114557626238],[6.46118617099837,53.35194073308722],[6.46193227980244,53.35277312030135],[6.46293828758376,53.35366551866274],[6.46384854954193,53.35415271723927],[6.46478575151882,53.35457171110784],[6.46555087608606,53.35459405699063],[6.46626747911385,53.35442195410547],[6.4670366882759,53.35395227910964],[6.46779448237281,53.35327153424414],[6.46794739235161,53.35308089473499],[6.46842806350443,53.35236444575644],[6.46873965403771,53.35168096579905],[6.46901889617569,53.35113930300034],[6.46902318952018,53.35041365668024],[6.46869277240728,53.34987073795973],[6.46826084605396,53.34941521975566],[6.46700069234101,53.34916763788181],[6.4650657774628,53.34895978765689]]]],"type":"MultiPolygon"}
+}

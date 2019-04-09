@@ -1,0 +1,80 @@
+{
+  "id": 1158825821,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05051107",
+    "cbsnl:BU_NAAM":"Suze Groeneweg-erf en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2274",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050511",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":95573.251577,
+    "geom:bbox":"4.71443694248,51.798220389,4.72017587512,51.802104589",
+    "geom:latitude":51.800326,
+    "geom:longitude":4.717202,
+    "iso:country":"NL",
+    "lbl:latitude":51.800351,
+    "lbl:longitude":4.717245,
+    "mps:latitude":51.800351,
+    "mps:longitude":4.717245,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Suze Groeneweg-erf en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Suze Groeneweg-erf en omgeving"
+    ],
+    "reversegeo:latitude":51.800351,
+    "reversegeo:longitude":4.717245,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829601,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"cc28185249074e7a3798969b14a325e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829601,
+            "neighbourhood_id":1158825821,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825821,
+    "wof:lastmodified":1513588019,
+    "wof:name":"Suze Groeneweg-erf en omgeving",
+    "wof:parent_id":1158829601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.714436942475458,
+    51.79822038900494,
+    4.720175875119832,
+    51.80210458900638
+],
+  "geometry": {"coordinates":[[[[4.71485931552684,51.80210458900638],[4.7191455087867,51.80162788758178],[4.7190851991075,51.80131564351278],[4.71870620173864,51.80009400058808],[4.71875475558399,51.79982276778897],[4.71899004411855,51.79959342880096],[4.72017587511983,51.79907313553368],[4.71970926905388,51.79875801884134],[4.71908043580703,51.79849734641871],[4.71808018794107,51.79827312289883],[4.71770085327699,51.79822038900494],[4.71540841609932,51.80014246153328],[4.7150325523682,51.80036381161914],[4.71443694247546,51.80057618817422],[4.71485931552684,51.80210458900638]]]],"type":"MultiPolygon"}
+}

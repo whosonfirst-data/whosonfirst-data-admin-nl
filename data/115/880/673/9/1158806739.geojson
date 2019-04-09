@@ -1,0 +1,82 @@
+{
+  "id": 1158806739,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09831304",
+    "cbsnl:BU_NAAM":"Groenstraat-Zuid",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1976",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098313",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":72621.056139,
+    "geom:bbox":"6.18755233099,51.3648252366,6.19265400241,51.3685794284",
+    "geom:latitude":51.366741,
+    "geom:longitude":6.190031,
+    "iso:country":"NL",
+    "lbl:latitude":51.36673,
+    "lbl:longitude":6.190031,
+    "mps:latitude":51.36673,
+    "mps:longitude":6.190031,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Groenstraat-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Groenstraat-Zuid"
+    ],
+    "reversegeo:latitude":51.36673,
+    "reversegeo:longitude":6.190031,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        1158818261,
+        404474525,
+        85633337,
+        101839287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8fac9f72270e22a7421cda43d831dc61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818261,
+            "neighbourhood_id":1158806739,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806739,
+    "wof:lastmodified":1513404052,
+    "wof:name":"Groenstraat-Zuid",
+    "wof:parent_id":1158818261,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.187552330991189,
+    51.36482523659012,
+    6.192654002411821,
+    51.36857942844243
+],
+  "geometry": {"coordinates":[[[[6.19031378458086,51.36857942844243],[6.19265400241182,51.36748817567891],[6.18971212882554,51.36482523659012],[6.18757717345517,51.3659896278401],[6.18781949003397,51.36613268527038],[6.18755233099119,51.36629272920128],[6.18823210049328,51.36682105241421],[6.18842372261928,51.36681973471973],[6.18930843085343,51.36759346292104],[6.18884374906089,51.36779491387424],[6.18883415771652,51.36785127304225],[6.18897484923063,51.36797611425919],[6.18939075214407,51.36781647993131],[6.19031378458086,51.36857942844243]]]],"type":"MultiPolygon"}
+}

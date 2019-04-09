@@ -1,0 +1,80 @@
+{
+  "id": 1158793143,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00400002",
+    "cbsnl:BU_NAAM":"'s-Gravenschans en Ruiten",
+    "cbsnl:GM_CODE":"GM0040",
+    "cbsnl:GM_NAAM":"Slochteren",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"105",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK004000",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000467,
+    "geom:area_square_m":3456097.337514,
+    "geom:bbox":"6.76153936615,53.1956581446,6.80157509928,53.2268060979",
+    "geom:latitude":53.209814,
+    "geom:longitude":6.782684,
+    "iso:country":"NL",
+    "lbl:latitude":53.209583,
+    "lbl:longitude":6.782684,
+    "mps:latitude":53.209583,
+    "mps:longitude":6.782684,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "'s-Gravenschans en Ruiten"
+    ],
+    "name:nld_x_preferred":[
+        "'s-Gravenschans en Ruiten"
+    ],
+    "reversegeo:latitude":53.209583,
+    "reversegeo:longitude":6.782684,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473735,
+        85633337,
+        101838029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"220e11ba728895f9e314fb9e2c9444bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473735,
+            "locality_id":101838029,
+            "neighbourhood_id":1158793143,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793143,
+    "wof:lastmodified":1513382289,
+    "wof:name":"'s-Gravenschans en Ruiten",
+    "wof:parent_id":101838029,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.761539366153217,
+    53.19565814460462,
+    6.80157509928148,
+    53.22680609787647
+],
+  "geometry": {"coordinates":[[[[6.7975565117972,53.22514705745068],[6.79745322988204,53.22510109090188],[6.7964810487277,53.22467834152514],[6.79543395671809,53.22420366423399],[6.79435609436172,53.22380348153547],[6.79348549110894,53.22355250947724],[6.79300847523082,53.22311550211063],[6.80157509928148,53.21972512042423],[6.79397897110953,53.21396404116258],[6.79886716024607,53.21217723179498],[6.79210873105789,53.20764297931139],[6.78215455950472,53.2013319135307],[6.77459978509278,53.19653858942968],[6.77273089066434,53.19565814460462],[6.76153936615322,53.20113851690974],[6.78005293954485,53.21507742884575],[6.78174091277393,53.21644627233191],[6.78357826257206,53.2184963458655],[6.78481823548751,53.2193373348386],[6.78597732697602,53.22003434079526],[6.7871972888578,53.22090474566964],[6.7905796261131,53.22389432475333],[6.7916797203854,53.22526035650078],[6.79321743650031,53.22649655848047],[6.79364378177298,53.22680609787647],[6.7975565117972,53.22514705745068]]]],"type":"MultiPolygon"}
+}

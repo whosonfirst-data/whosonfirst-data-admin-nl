@@ -1,0 +1,80 @@
+{
+  "id": 1158790947,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01143200",
+    "cbsnl:BU_NAAM":"Weiteveen",
+    "cbsnl:GM_CODE":"GM0114",
+    "cbsnl:GM_NAAM":"Emmen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"129",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011432",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000179,
+    "geom:area_square_m":1339118.903024,
+    "geom:bbox":"6.97067131794,52.6662344361,7.00488193038,52.6765000918",
+    "geom:latitude":52.672476,
+    "geom:longitude":6.988716,
+    "iso:country":"NL",
+    "lbl:latitude":52.672618,
+    "lbl:longitude":6.988724,
+    "mps:latitude":52.672618,
+    "mps:longitude":6.988724,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Weiteveen"
+    ],
+    "name:nld_x_preferred":[
+        "Weiteveen"
+    ],
+    "reversegeo:latitude":52.672618,
+    "reversegeo:longitude":6.988724,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473809,
+        85633337,
+        101846155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"04ab138b6ca48075e55b6987cd4fe259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473809,
+            "locality_id":101846155,
+            "neighbourhood_id":1158790947,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158790947,
+    "wof:lastmodified":1513292309,
+    "wof:name":"Weiteveen",
+    "wof:parent_id":101846155,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.970671317941143,
+    52.66623443609808,
+    7.004881930381655,
+    52.67650009176425
+],
+  "geometry": {"coordinates":[[[[6.97198074580357,52.67221699741159],[6.972064371058,52.67328752456849],[6.97236033782225,52.67360160976539],[6.97262931810803,52.67572680774403],[6.99588179572187,52.67468422936842],[6.99607688519217,52.67650009176425],[6.99755368053768,52.67643480023951],[6.99746451466986,52.67560224171134],[7.00488193038166,52.67527114651804],[7.00442153761848,52.67096643567793],[7.00427889856742,52.67097259119901],[7.00373597334556,52.66974235966975],[7.0002921292564,52.66989078209384],[6.99828127340585,52.66623443609808],[6.99610529040541,52.6666836662127],[6.99789170774513,52.66981880408706],[6.97583237889047,52.67080846574543],[6.97418155743853,52.66864846624091],[6.97067131794114,52.669748778277],[6.97197477881644,52.67137758934442],[6.97147517827866,52.67152608480021],[6.97197535540786,52.6721478941],[6.97198074580357,52.67221699741159]]]],"type":"MultiPolygon"}
+}

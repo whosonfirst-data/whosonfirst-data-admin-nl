@@ -1,0 +1,82 @@
+{
+  "id": 1158798471,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08260300",
+    "cbsnl:BU_NAAM":"Vogelbuurt",
+    "cbsnl:GM_CODE":"GM0826",
+    "cbsnl:GM_NAAM":"Oosterhout",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2091",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082603",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":465655.753107,
+    "geom:bbox":"4.8507961407,51.6470031209,4.8611387907,51.6549378433",
+    "geom:latitude":51.650852,
+    "geom:longitude":4.856024,
+    "iso:country":"NL",
+    "lbl:latitude":51.651046,
+    "lbl:longitude":4.855926,
+    "mps:latitude":51.651046,
+    "mps:longitude":4.855926,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vogelbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Vogelbuurt"
+    ],
+    "reversegeo:latitude":51.651046,
+    "reversegeo:longitude":4.855926,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801493,
+        404474413,
+        85633337,
+        101808317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9c328069bc66c2d346946c4e6dc37cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474413,
+            "locality_id":101808317,
+            "macrohood_id":1158801493,
+            "neighbourhood_id":1158798471,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798471,
+    "wof:lastmodified":1513432678,
+    "wof:name":"Vogelbuurt",
+    "wof:parent_id":1158801493,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.850796140703471,
+    51.647003120946444,
+    4.861138790700926,
+    51.654937843302875
+],
+  "geometry": {"coordinates":[[[[4.86113879070093,51.6535277593016],[4.86088267306,51.65316010686045],[4.86056505117637,51.65258917514338],[4.860479480967,51.65174639907161],[4.86049338251931,51.64765864598352],[4.85709905932062,51.64753478617494],[4.85481169025161,51.64742948864084],[4.8536110749939,51.6473528335956],[4.85283113748178,51.64718317213539],[4.85237554578805,51.64700312094644],[4.85159659650633,51.64836399720269],[4.85120886059354,51.64889613112541],[4.85080105729269,51.64951122784127],[4.85079614070347,51.64992646895387],[4.85104975222411,51.6502115043313],[4.85135083451464,51.65055695776358],[4.85177743101203,51.65157927023516],[4.85272716719607,51.6535294157331],[4.85336361355094,51.65493784330287],[4.85615270613167,51.65458272306606],[4.85793002570982,51.65429415334087],[4.85924733899007,51.65401985036286],[4.86113879070093,51.6535277593016]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158788111,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03270002",
+    "cbsnl:BU_NAAM":"Noorwijck",
+    "cbsnl:GM_CODE":"GM0327",
+    "cbsnl:GM_NAAM":"Leusden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1808",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK032700",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000022,
+    "geom:area_square_m":165255.289968,
+    "geom:bbox":"5.43421801103,52.1282141994,5.44075106374,52.1324690322",
+    "geom:latitude":52.130332,
+    "geom:longitude":5.437341,
+    "iso:country":"NL",
+    "lbl:latitude":52.130548,
+    "lbl:longitude":5.436952,
+    "mps:latitude":52.130548,
+    "mps:longitude":5.436952,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Noorwijck"
+    ],
+    "name:nld_x_preferred":[
+        "Noorwijck"
+    ],
+    "reversegeo:latitude":52.130548,
+    "reversegeo:longitude":5.436952,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        1158790307,
+        404473989,
+        85633337,
+        101837659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"74d2d20142ab538d3ddf257759098c34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473989,
+            "locality_id":101837659,
+            "macrohood_id":1158790307,
+            "neighbourhood_id":1158788111,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788111,
+    "wof:lastmodified":1513621983,
+    "wof:name":"Noorwijck",
+    "wof:parent_id":1158790307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.434218011026498,
+    52.12821419942175,
+    5.440751063739852,
+    52.13246903224334
+],
+  "geometry": {"coordinates":[[[[5.43450083797791,52.13246903224334],[5.43550402497402,52.13246328703985],[5.4379549480064,52.13246141104664],[5.43797488356821,52.13213053412179],[5.43878178310385,52.13151535041575],[5.43978928108574,52.13131548243606],[5.44057794194701,52.13131793682102],[5.44053759729998,52.12926223804662],[5.44075106373985,52.12821419942175],[5.4342180110265,52.12893434785489],[5.43423871203894,52.12909050552028],[5.4343280409992,52.13070043932458],[5.43449188631998,52.132417915708],[5.43450083797791,52.13246903224334]]]],"type":"MultiPolygon"}
+}

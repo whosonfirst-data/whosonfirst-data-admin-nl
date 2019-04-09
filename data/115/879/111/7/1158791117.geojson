@@ -1,0 +1,82 @@
+{
+  "id": 1158791117,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01190201",
+    "cbsnl:BU_NAAM":"Staatsliedenbuurt",
+    "cbsnl:GM_CODE":"GM0119",
+    "cbsnl:GM_NAAM":"Meppel",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"1346",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011902",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":332047.779322,
+    "geom:bbox":"6.1910329532,52.7019758997,6.20334534345,52.7080322046",
+    "geom:latitude":52.70497,
+    "geom:longitude":6.197681,
+    "iso:country":"NL",
+    "lbl:latitude":52.705216,
+    "lbl:longitude":6.197563,
+    "mps:latitude":52.705216,
+    "mps:longitude":6.197563,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Staatsliedenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Staatsliedenbuurt"
+    ],
+    "reversegeo:latitude":52.705216,
+    "reversegeo:longitude":6.197563,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        1158792239,
+        404473813,
+        85633337,
+        101807279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0d87ae771e3c86659aa8fe7063a11f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473813,
+            "locality_id":101807279,
+            "macrohood_id":1158792239,
+            "neighbourhood_id":1158791117,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791117,
+    "wof:lastmodified":1513292319,
+    "wof:name":"Staatsliedenbuurt",
+    "wof:parent_id":1158792239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.191032953201559,
+    52.70197589971962,
+    6.203345343445129,
+    52.70803220464209
+],
+  "geometry": {"coordinates":[[[[6.20334534344513,52.70665475024004],[6.20245809380673,52.70475794331877],[6.20190225310315,52.70324584902111],[6.20180105789088,52.70302332655042],[6.19334800718006,52.70231679348583],[6.19226729975222,52.70223735549161],[6.19148182996407,52.70208271387128],[6.19103295320156,52.70197589971962],[6.19177985002466,52.70257973908731],[6.19455779804421,52.7063736451209],[6.19519329032408,52.70803220464209],[6.19715374281209,52.70781223104773],[6.19951614959332,52.70753049918471],[6.2017839770277,52.70702954153309],[6.20334534344513,52.70665475024004]]]],"type":"MultiPolygon"}
+}

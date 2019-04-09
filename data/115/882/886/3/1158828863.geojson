@@ -1,0 +1,82 @@
+{
+  "id": 1158828863,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19300701",
+    "cbsnl:BU_NAAM":"Groenewoud-Hoog",
+    "cbsnl:GM_CODE":"GM1930",
+    "cbsnl:GM_NAAM":"Nissewaard",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3177",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK193007",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":126744.489243,
+    "geom:bbox":"4.33074055177,51.8418855686,4.34442554081,51.8440478323",
+    "geom:latitude":51.842791,
+    "geom:longitude":4.337659,
+    "iso:country":"NL",
+    "lbl:latitude":51.842782,
+    "lbl:longitude":4.337659,
+    "mps:latitude":51.842782,
+    "mps:longitude":4.337659,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Groenewoud-Hoog"
+    ],
+    "name:nld_x_preferred":[
+        "Groenewoud-Hoog"
+    ],
+    "reversegeo:latitude":51.842782,
+    "reversegeo:longitude":4.337659,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831185,
+        1158824747,
+        85633337,
+        101751847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0cfe041a345c3e7fa0f5aba67be06b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824747,
+            "locality_id":101751847,
+            "macrohood_id":1158831185,
+            "neighbourhood_id":1158828863,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828863,
+    "wof:lastmodified":1513588279,
+    "wof:name":"Groenewoud-Hoog",
+    "wof:parent_id":1158831185,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.330740551773085,
+    51.84188556856415,
+    4.34442554081065,
+    51.844047832337814
+],
+  "geometry": {"coordinates":[[[[4.34416509719906,51.84354765725494],[4.34424025045931,51.84336709418638],[4.34430890293047,51.8431605010684],[4.34437077529071,51.84293906063144],[4.34442554081065,51.84246159052961],[4.34176832530964,51.84234823943103],[4.3391314346989,51.84223569700306],[4.33093683837251,51.84188556856415],[4.33089248941847,51.84238520942682],[4.33084923633646,51.84274068227209],[4.33078671959728,51.84297015168658],[4.33074055177308,51.84309618239954],[4.338696477148,51.84343531243618],[4.34141829447143,51.84355120817553],[4.34282660075048,51.84360979733706],[4.34278372906399,51.84404783233781],[4.34416509719906,51.84354765725494]]]],"type":"MultiPolygon"}
+}

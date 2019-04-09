@@ -1,0 +1,82 @@
+{
+  "id": 1158827663,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06420304",
+    "cbsnl:BU_NAAM":"Sterrenbeeldenbuurt",
+    "cbsnl:GM_CODE":"GM0642",
+    "cbsnl:GM_NAAM":"Zwijndrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2626",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK064203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":107659.01711,
+    "geom:bbox":"4.63355617637,51.817506482,4.6398673704,51.8225262076",
+    "geom:latitude":51.819949,
+    "geom:longitude":4.636791,
+    "iso:country":"NL",
+    "lbl:latitude":51.819944,
+    "lbl:longitude":4.636791,
+    "mps:latitude":51.819944,
+    "mps:longitude":4.636791,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Sterrenbeeldenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Sterrenbeeldenbuurt"
+    ],
+    "reversegeo:latitude":51.819944,
+    "reversegeo:longitude":4.636791,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831145,
+        404474291,
+        85633337,
+        101754703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"dcf350f79551356078a093e570e54000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474291,
+            "locality_id":101754703,
+            "macrohood_id":1158831145,
+            "neighbourhood_id":1158827663,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827663,
+    "wof:lastmodified":1513588163,
+    "wof:name":"Sterrenbeeldenbuurt",
+    "wof:parent_id":1158831145,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.633556176369612,
+    51.8175064820455,
+    4.639867370398696,
+    51.82252620757554
+],
+  "geometry": {"coordinates":[[[[4.6398673703987,51.82123507189852],[4.63948340233526,51.82087045400053],[4.6396239540933,51.82081000196101],[4.63953541812986,51.82073304287144],[4.63843302372926,51.8196987148301],[4.63814253433845,51.81941672867398],[4.63610677272834,51.8175064820455],[4.63608880904512,51.81751396281361],[4.6347989685618,51.81805262713078],[4.63416161962501,51.81831912586772],[4.63355617636961,51.81857227168509],[4.63410664883871,51.81910136554424],[4.63688420086767,51.82183027237324],[4.63760361566481,51.82252620757554],[4.63779527622834,51.82242127506028],[4.63819197797045,51.82218285620007],[4.63909099724164,51.82162537694738],[4.63934404000989,51.82147028932712],[4.63948363700409,51.82139579092433],[4.6398673703987,51.82123507189852]]]],"type":"MultiPolygon"}
+}

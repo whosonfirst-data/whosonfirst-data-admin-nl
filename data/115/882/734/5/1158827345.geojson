@@ -1,0 +1,80 @@
+{
+  "id": 1158827345,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06220306",
+    "cbsnl:BU_NAAM":"Vettenoordse polder West",
+    "cbsnl:GM_CODE":"GM0622",
+    "cbsnl:GM_NAAM":"Vlaardingen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2320",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK062203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":407830.342818,
+    "geom:bbox":"4.32311823051,51.9012066942,4.3381033854,51.9080974215",
+    "geom:latitude":51.903888,
+    "geom:longitude":4.330594,
+    "iso:country":"NL",
+    "lbl:latitude":51.904153,
+    "lbl:longitude":4.330689,
+    "mps:latitude":51.904153,
+    "mps:longitude":4.330689,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vettenoordse polder West"
+    ],
+    "name:nld_x_preferred":[
+        "Vettenoordse polder West"
+    ],
+    "reversegeo:latitude":51.904153,
+    "reversegeo:longitude":4.330689,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831025,
+        85633337,
+        101751851,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"54c28274c4fbfc658e92505c444c029c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751851,
+            "macrohood_id":1158831025,
+            "neighbourhood_id":1158827345,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827345,
+    "wof:lastmodified":1513588142,
+    "wof:name":"Vettenoordse polder West",
+    "wof:parent_id":1158831025,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.323118230513285,
+    51.90120669423545,
+    4.338103385404731,
+    51.90809742151644
+],
+  "geometry": {"coordinates":[[[[4.33360121112796,51.90808973111363],[4.33367551381322,51.90809742151644],[4.33371340958629,51.90542889258956],[4.33387489556844,51.90485055468673],[4.33410716000061,51.90441049488331],[4.33451266609003,51.90394136659718],[4.33506344962416,51.90358028131579],[4.3355128553659,51.90334019954921],[4.33718049225916,51.90266886491393],[4.337800264378,51.90252187253071],[4.33790281071368,51.90235508710192],[4.33808067572338,51.9021277403578],[4.33810338540473,51.90204479559454],[4.3355711342085,51.90164939939699],[4.33281969833434,51.90123035261856],[4.33018650386809,51.90120669423545],[4.32695136595694,51.90149300280229],[4.32319650895245,51.90219474823139],[4.32311823051328,51.90221173689932],[4.32323131642256,51.90243664117855],[4.32332454000989,51.90266614252161],[4.32332076347336,51.90269616564336],[4.32344455527874,51.90280459076853],[4.3237635334383,51.90286843375297],[4.32405860020932,51.90290172404999],[4.33055883570772,51.90775341996604],[4.33207597131856,51.90796087667393],[4.33303602496475,51.9080307288548],[4.33360121112796,51.90808973111363]]]],"type":"MultiPolygon"}
+}

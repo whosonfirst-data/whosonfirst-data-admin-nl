@@ -1,0 +1,82 @@
+{
+  "id": 1141962197,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02020843",
+    "cbsnl:BU_NAAM":"Plattenburg",
+    "cbsnl:GM_CODE":"GM0202",
+    "cbsnl:GM_NAAM":"Arnhem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2458",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK020208",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":261912.126827,
+    "geom:bbox":"5.93386891931,51.9855546761,5.94630639165,51.9913225737",
+    "geom:latitude":51.988476,
+    "geom:longitude":5.93991,
+    "iso:country":"NL",
+    "lbl:latitude":51.98831,
+    "lbl:longitude":5.93991,
+    "mps:latitude":51.98831,
+    "mps:longitude":5.93991,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Plattenburg"
+    ],
+    "name:nld_x_preferred":[
+        "Plattenburg"
+    ],
+    "reversegeo:latitude":51.98831,
+    "reversegeo:longitude":5.93991,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158783969,
+        404473871,
+        85633337,
+        101751857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"944efabdbb5b8003727f7afc330b7b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473871,
+            "locality_id":101751857,
+            "macrohood_id":1158783969,
+            "neighbourhood_id":1141962197,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962197,
+    "wof:lastmodified":1513368656,
+    "wof:name":"Plattenburg",
+    "wof:parent_id":1158783969,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.933868919312697,
+    51.985554676055884,
+    5.946306391650913,
+    51.99132257366864
+],
+  "geometry": {"coordinates":[[[[5.94375230119903,51.99132257366864],[5.94410134075782,51.99093981610366],[5.94432112946239,51.99023229099205],[5.94476037150663,51.9898455085103],[5.94578929416289,51.98946311585551],[5.94630639165091,51.98925033188625],[5.94353331081796,51.98787208486092],[5.94215640882636,51.98730962750184],[5.93765677611535,51.98555467605588],[5.93724282378834,51.98598715426699],[5.93591067784233,51.98681041774732],[5.93462623894885,51.98694583560098],[5.93497705432866,51.98806108610564],[5.93470628398799,51.98811312410903],[5.93478302939943,51.98833618615147],[5.93393098765285,51.98849776083988],[5.9338689193127,51.98878028292107],[5.93414486241972,51.98884461535108],[5.93697903075227,51.98952440243082],[5.94032232152351,51.99027902837282],[5.94126584082248,51.99052176693745],[5.94277126462615,51.99099194653373],[5.94375230119903,51.99132257366864]]]],"type":"MultiPolygon"}
+}

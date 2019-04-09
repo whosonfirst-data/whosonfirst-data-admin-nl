@@ -1,0 +1,82 @@
+{
+  "id": 1158798579,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08280200",
+    "cbsnl:BU_NAAM":"Moleneind",
+    "cbsnl:GM_CODE":"GM0828",
+    "cbsnl:GM_NAAM":"Oss",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1682",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082802",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:area_square_m":718999.709518,
+    "geom:bbox":"5.52818509269,51.7592074078,5.5460292013,51.7663091815",
+    "geom:latitude":51.763064,
+    "geom:longitude":5.538295,
+    "iso:country":"NL",
+    "lbl:latitude":51.763324,
+    "lbl:longitude":5.539017,
+    "mps:latitude":51.763324,
+    "mps:longitude":5.539017,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Moleneind"
+    ],
+    "name:nld_x_preferred":[
+        "Moleneind"
+    ],
+    "reversegeo:latitude":51.763324,
+    "reversegeo:longitude":5.539017,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801751,
+        404474415,
+        85633337,
+        101751807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"901b56f6844ab9653dfd6b54c752c86b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":101751807,
+            "macrohood_id":1158801751,
+            "neighbourhood_id":1158798579,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798579,
+    "wof:lastmodified":1513432685,
+    "wof:name":"Moleneind",
+    "wof:parent_id":1158801751,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.528185092694649,
+    51.759207407801384,
+    5.546029201299011,
+    51.76630918146596
+],
+  "geometry": {"coordinates":[[[[5.54565438195146,51.76630918146596],[5.54602920129901,51.76096926134451],[5.54570321025037,51.75920740780138],[5.54390898017846,51.75920982242711],[5.54023664185955,51.76017335177414],[5.53776443226332,51.76082175720483],[5.53656823353853,51.76141399852781],[5.53314649386478,51.75955995317823],[5.53077251373022,51.76072829455331],[5.53007285917892,51.76212966224439],[5.52818509269465,51.76432091449727],[5.53093555739921,51.76508804884018],[5.53450478860741,51.76605127437217],[5.53709240528074,51.76611119057177],[5.54565438195146,51.76630918146596]]]],"type":"MultiPolygon"}
+}

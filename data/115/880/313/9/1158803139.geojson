@@ -1,0 +1,80 @@
+{
+  "id": 1158803139,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01770001",
+    "cbsnl:BU_NAAM":"De Enk en industrieterrein-Noordoost",
+    "cbsnl:GM_CODE":"GM0177",
+    "cbsnl:GM_NAAM":"Raalte",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1083",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK017700",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":502679.927567,
+    "geom:bbox":"6.27972961359,52.38271272,6.29477190378,52.3904953107",
+    "geom:latitude":52.38576,
+    "geom:longitude":6.286121,
+    "iso:country":"NL",
+    "lbl:latitude":52.385807,
+    "lbl:longitude":6.285608,
+    "mps:latitude":52.385807,
+    "mps:longitude":6.285608,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Enk en industrieterrein-Noordoost"
+    ],
+    "name:nld_x_preferred":[
+        "De Enk en industrieterrein-Noordoost"
+    ],
+    "reversegeo:latitude":52.385807,
+    "reversegeo:longitude":6.285608,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473849,
+        85633337,
+        101808759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b614e794092442ad7e97d06fc9700cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473849,
+            "locality_id":101808759,
+            "neighbourhood_id":1158803139,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803139,
+    "wof:lastmodified":1513524318,
+    "wof:name":"De Enk en industrieterrein-Noordoost",
+    "wof:parent_id":101808759,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.279729613590511,
+    52.382712720019526,
+    6.294771903778576,
+    52.390495310721256
+],
+  "geometry": {"coordinates":[[[[6.28386912145752,52.39049531072126],[6.28912110072566,52.3871677622093],[6.28959676545851,52.38686753204712],[6.29477190377858,52.38463741263867],[6.29473999423995,52.38451379150013],[6.29446446149908,52.38347666219197],[6.29278186547713,52.38336118568449],[6.28706357875431,52.38271272001953],[6.28414840152306,52.38309802168369],[6.27972961359051,52.38373165598617],[6.28063818741103,52.38718968213903],[6.28110563528202,52.3885955847877],[6.28376057736965,52.3904287227864],[6.28386912145752,52.39049531072126]]]],"type":"MultiPolygon"}
+}

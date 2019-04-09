@@ -1,0 +1,80 @@
+{
+  "id": 1158787289,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09956664",
+    "cbsnl:BU_NAAM":"Stadhuisstraat",
+    "cbsnl:GM_CODE":"GM0995",
+    "cbsnl:GM_NAAM":"Lelystad",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2110",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK099566",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":82758.525099,
+    "geom:bbox":"5.47401586899,52.5050712687,5.47915599714,52.5079098976",
+    "geom:latitude":52.506317,
+    "geom:longitude":5.476793,
+    "iso:country":"NL",
+    "lbl:latitude":52.506189,
+    "lbl:longitude":5.476744,
+    "mps:latitude":52.506189,
+    "mps:longitude":5.476744,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Stadhuisstraat"
+    ],
+    "name:nld_x_preferred":[
+        "Stadhuisstraat"
+    ],
+    "reversegeo:latitude":52.506189,
+    "reversegeo:longitude":5.476744,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158787409,
+        85633337,
+        101751873,
+        85687049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"2e1b65867363beb9e0c772e97f7d4035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751873,
+            "macrohood_id":1158787409,
+            "neighbourhood_id":1158787289,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158787289,
+    "wof:lastmodified":1513299305,
+    "wof:name":"Stadhuisstraat",
+    "wof:parent_id":1158787409,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.474015868989952,
+    52.505071268738426,
+    5.479155997143487,
+    52.50790989756713
+],
+  "geometry": {"coordinates":[[[[5.47878560344544,52.50790989756713],[5.47897656529873,52.50772237332789],[5.47890741351685,52.50767507293262],[5.47886850030144,52.50761306188512],[5.47886056883646,52.50750035803734],[5.47896936601595,52.50671208106571],[5.47907286617637,52.50596215543963],[5.47915599714349,52.50524878380624],[5.47433568349925,52.50507126873843],[5.47422736872375,52.50507404777683],[5.47401586898995,52.50684379787685],[5.475774446824,52.50691034402637],[5.47575755290256,52.50716704683278],[5.47677569519128,52.50721952357296],[5.47671469345318,52.50787371843906],[5.47752993491736,52.5079001150368],[5.47812747344159,52.50788323437374],[5.47878560344544,52.50790989756713]]]],"type":"MultiPolygon"}
+}

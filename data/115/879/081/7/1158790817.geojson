@@ -1,0 +1,80 @@
+{
+  "id": 1158790817,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01140103",
+    "cbsnl:BU_NAAM":"Achterdiep",
+    "cbsnl:GM_CODE":"GM0114",
+    "cbsnl:GM_NAAM":"Emmen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"86",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011401",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":342281.465236,
+    "geom:bbox":"6.96001664709,52.8463648457,6.98062598703,52.8550033609",
+    "geom:latitude":52.850813,
+    "geom:longitude":6.970089,
+    "iso:country":"NL",
+    "lbl:latitude":52.850834,
+    "lbl:longitude":6.970089,
+    "mps:latitude":52.850834,
+    "mps:longitude":6.970089,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Achterdiep"
+    ],
+    "name:nld_x_preferred":[
+        "Achterdiep"
+    ],
+    "reversegeo:latitude":52.850834,
+    "reversegeo:longitude":6.970089,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473809,
+        85633337,
+        101807281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"70f8ada27dcae700294387a4c3181754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473809,
+            "locality_id":101807281,
+            "neighbourhood_id":1158790817,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158790817,
+    "wof:lastmodified":1513292299,
+    "wof:name":"Achterdiep",
+    "wof:parent_id":101807281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.960016647094419,
+    52.846364845707775,
+    6.980625987032992,
+    52.85500336094016
+],
+  "geometry": {"coordinates":[[[[6.97750514003421,52.85500336094016],[6.9782960069512,52.85425599799429],[6.97953090058281,52.85473831814224],[6.98062598703299,52.85370932539497],[6.96190931541383,52.84636484570778],[6.96001664709442,52.84814057038179],[6.97750514003421,52.85500336094016]]]],"type":"MultiPolygon"}
+}

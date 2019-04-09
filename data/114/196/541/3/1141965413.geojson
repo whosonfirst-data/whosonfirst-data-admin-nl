@@ -1,0 +1,80 @@
+{
+  "id": 1141965413,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19550203",
+    "cbsnl:BU_NAAM":"Nieuw-Dijk",
+    "cbsnl:GM_CODE":"GM1955",
+    "cbsnl:GM_NAAM":"Montferland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"234",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK195502",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":266423.667026,
+    "geom:bbox":"6.15034344812,51.9298102961,6.16134066691,51.9350353182",
+    "geom:latitude":51.9327,
+    "geom:longitude":6.156224,
+    "iso:country":"NL",
+    "lbl:latitude":51.932701,
+    "lbl:longitude":6.156224,
+    "mps:latitude":51.932701,
+    "mps:longitude":6.156224,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Nieuw-Dijk"
+    ],
+    "name:nld_x_preferred":[
+        "Nieuw-Dijk"
+    ],
+    "reversegeo:latitude":51.932701,
+    "reversegeo:longitude":6.156224,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474689,
+        85633337,
+        101855373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"048d98ca1155b6ddf4b133142e04fc5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474689,
+            "locality_id":101855373,
+            "neighbourhood_id":1141965413,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141965413,
+    "wof:lastmodified":1513368892,
+    "wof:name":"Nieuw-Dijk",
+    "wof:parent_id":101855373,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.150343448121278,
+    51.92981029611996,
+    6.16134066690999,
+    51.93503531819096
+],
+  "geometry": {"coordinates":[[[[6.159650942329,51.92981029611996],[6.15805995571736,51.93029910537427],[6.15677416410207,51.93062213329468],[6.15596382730273,51.93067771542096],[6.15457223299208,51.93109944461084],[6.15214748784098,51.93172984731969],[6.15034344812128,51.93225757650706],[6.15171007688661,51.93379472968471],[6.15244901947871,51.93414581244211],[6.15250485056408,51.93503531819096],[6.15684847949822,51.93469347568916],[6.15904218268585,51.93424398348485],[6.16134066690999,51.93404993688717],[6.16015769950334,51.93121732950627],[6.159650942329,51.92981029611996]]]],"type":"MultiPolygon"}
+}

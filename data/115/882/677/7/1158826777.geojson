@@ -1,0 +1,80 @@
+{
+  "id": 1158826777,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05850401",
+    "cbsnl:BU_NAAM":"Rustenburgstraat (gedeeltelijk)",
+    "cbsnl:GM_CODE":"GM0585",
+    "cbsnl:GM_NAAM":"Binnenmaas",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"507",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK058504",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":195138.497128,
+    "geom:bbox":"4.54860274404,51.8053013425,4.55806516283,51.8114976476",
+    "geom:latitude":51.80826,
+    "geom:longitude":4.553844,
+    "iso:country":"NL",
+    "lbl:latitude":51.80812,
+    "lbl:longitude":4.553916,
+    "mps:latitude":51.80812,
+    "mps:longitude":4.553916,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Rustenburgstraat (gedeeltelijk)"
+    ],
+    "name:nld_x_preferred":[
+        "Rustenburgstraat (gedeeltelijk)"
+    ],
+    "reversegeo:latitude":51.80812,
+    "reversegeo:longitude":4.553916,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474233,
+        85633337,
+        101754733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0d5624a00afef7493a2759e8f7a0522b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474233,
+            "locality_id":101754733,
+            "neighbourhood_id":1158826777,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826777,
+    "wof:lastmodified":1513588091,
+    "wof:name":"Rustenburgstraat (gedeeltelijk)",
+    "wof:parent_id":101754733,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.548602744040414,
+    51.805301342485315,
+    4.558065162832044,
+    51.811497647612725
+],
+  "geometry": {"coordinates":[[[[4.54860274404041,51.80744258821633],[4.55276481371854,51.80924838684724],[4.55558735822392,51.81067601239889],[4.55673822888349,51.81149764761273],[4.55791351388756,51.81069247485139],[4.55785449033797,51.81037211277777],[4.55806516283204,51.80909354360625],[4.55781467515881,51.80873671650535],[4.55584834122153,51.80760004670802],[4.55518197885108,51.807189984945],[4.55211547274158,51.80530134248531],[4.54970487258014,51.80665663612559],[4.54860274404041,51.80744258821633]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158802475,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01580053",
+    "cbsnl:BU_NAAM":"Wolferink 3",
+    "cbsnl:GM_CODE":"GM0158",
+    "cbsnl:GM_NAAM":"Haaksbergen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"841",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK015800",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":261328.170817,
+    "geom:bbox":"6.71649931619,52.159900945,6.72381131817,52.1678580412",
+    "geom:latitude":52.16415,
+    "geom:longitude":6.720277,
+    "iso:country":"NL",
+    "lbl:latitude":52.164292,
+    "lbl:longitude":6.720348,
+    "mps:latitude":52.164292,
+    "mps:longitude":6.720348,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Wolferink 3"
+    ],
+    "name:nld_x_preferred":[
+        "Wolferink 3"
+    ],
+    "reversegeo:latitude":52.164292,
+    "reversegeo:longitude":6.720348,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473829,
+        85633337,
+        101807203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8e611b348ab1943b32b1e4407dd00515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473829,
+            "locality_id":101807203,
+            "neighbourhood_id":1158802475,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802475,
+    "wof:lastmodified":1513524264,
+    "wof:name":"Wolferink 3",
+    "wof:parent_id":101807203,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.71649931619317,
+    52.15990094501587,
+    6.723811318166638,
+    52.16785804115475
+],
+  "geometry": {"coordinates":[[[[6.72281637960616,52.16658565612257],[6.72319912877786,52.16594310432637],[6.7234474118926,52.16437283910852],[6.72381131816664,52.16349116677108],[6.72169336968164,52.16118453886887],[6.72105981373626,52.16102129261638],[6.72107092487911,52.16101043274028],[6.72099374850682,52.16098445711858],[6.72163153698173,52.16037198049461],[6.72154589969419,52.15993302317862],[6.72145153307719,52.15990094501587],[6.72114318791023,52.16010347925266],[6.71946327210259,52.16120687824114],[6.71741187276827,52.16236011564256],[6.71649931619317,52.16288361650475],[6.71667793718289,52.16333638939965],[6.71781623658991,52.16621519277136],[6.71952307332736,52.16785804115475],[6.72044074877245,52.16750356386396],[6.72281637960616,52.16658565612257]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158797247,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07700008",
+    "cbsnl:BU_NAAM":"De Hees en Genderweg",
+    "cbsnl:GM_CODE":"GM0770",
+    "cbsnl:GM_NAAM":"Eersel",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"74",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK077000",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000229,
+    "geom:area_square_m":1767441.389711,
+    "geom:bbox":"5.31286633192,51.3652613942,5.34250936959,51.3822945429",
+    "geom:latitude":51.373708,
+    "geom:longitude":5.328993,
+    "iso:country":"NL",
+    "lbl:latitude":51.373058,
+    "lbl:longitude":5.330228,
+    "mps:latitude":51.373058,
+    "mps:longitude":5.330228,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Hees en Genderweg"
+    ],
+    "name:nld_x_preferred":[
+        "De Hees en Genderweg"
+    ],
+    "reversegeo:latitude":51.373058,
+    "reversegeo:longitude":5.330228,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474371,
+        85633337,
+        101839351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"fcb914a17c74f78da6cdb5cda5088668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474371,
+            "locality_id":101839351,
+            "neighbourhood_id":1158797247,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797247,
+    "wof:lastmodified":1513432580,
+    "wof:name":"De Hees en Genderweg",
+    "wof:parent_id":101839351,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.31286633191672,
+    51.3652613942029,
+    5.342509369588005,
+    51.382294542867896
+],
+  "geometry": {"coordinates":[[[[5.33363907097335,51.38179779169293],[5.33489681363048,51.37848602188601],[5.33579070940243,51.37668221515304],[5.33655146199202,51.37588985415758],[5.33826951726872,51.37425997789344],[5.33949903023407,51.37275571991092],[5.34168417992674,51.37053553552455],[5.34250936958801,51.36972321843702],[5.33492978274531,51.36729761728495],[5.32843169029148,51.3652613942029],[5.32332539342257,51.37044969740723],[5.32210296394095,51.37169115170827],[5.31708655110151,51.37688934269593],[5.31633781250221,51.37766529087347],[5.31546182083607,51.37856812168553],[5.31454690582698,51.379372045865],[5.31286633191672,51.38118951589772],[5.31506813613993,51.3822945428679],[5.31537728791186,51.38209361097372],[5.32012504202931,51.37881808166932],[5.32270746700118,51.37695437813198],[5.32462503816809,51.37783912231563],[5.32724896328836,51.37906015459468],[5.32771426915637,51.37918258317863],[5.33363907097335,51.38179779169293]]]],"type":"MultiPolygon"}
+}

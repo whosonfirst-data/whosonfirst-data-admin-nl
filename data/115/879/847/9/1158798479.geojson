@@ -1,0 +1,82 @@
+{
+  "id": 1158798479,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08260502",
+    "cbsnl:BU_NAAM":"Natuurkundigenbuurt",
+    "cbsnl:GM_CODE":"GM0826",
+    "cbsnl:GM_NAAM":"Oosterhout",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1290",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082605",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":404152.056316,
+    "geom:bbox":"4.85018416107,51.6164464687,4.86456576965,51.624423042",
+    "geom:latitude":51.620455,
+    "geom:longitude":4.857225,
+    "iso:country":"NL",
+    "lbl:latitude":51.620356,
+    "lbl:longitude":4.857225,
+    "mps:latitude":51.620356,
+    "mps:longitude":4.857225,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Natuurkundigenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Natuurkundigenbuurt"
+    ],
+    "reversegeo:latitude":51.620356,
+    "reversegeo:longitude":4.857225,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801717,
+        404474413,
+        85633337,
+        101808317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"14244354c0e9b090889af51c4b04199a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474413,
+            "locality_id":101808317,
+            "macrohood_id":1158801717,
+            "neighbourhood_id":1158798479,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798479,
+    "wof:lastmodified":1513432678,
+    "wof:name":"Natuurkundigenbuurt",
+    "wof:parent_id":1158801717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.850184161074965,
+    51.61644646868744,
+    4.86456576964628,
+    51.62442304197254
+],
+  "geometry": {"coordinates":[[[[4.85382938294645,51.62442304197254],[4.86124909441684,51.62115832390696],[4.86183163370422,51.62091633297985],[4.86456576964628,51.62065921899514],[4.86061299549806,51.61661259654797],[4.86045160080762,51.61644646868744],[4.85751501006347,51.61764615358701],[4.85532021636122,51.61868674160756],[4.85210634382547,51.62026891553302],[4.85038581990103,51.62114349340324],[4.85018416107497,51.62123289587274],[4.85380755718425,51.62440233823109],[4.85382938294645,51.62442304197254]]]],"type":"MultiPolygon"}
+}

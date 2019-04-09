@@ -1,0 +1,80 @@
+{
+  "id": 1158793351,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00530202",
+    "cbsnl:BU_NAAM":"Rasquert",
+    "cbsnl:GM_CODE":"GM0053",
+    "cbsnl:GM_NAAM":"Winsum",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"233",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK005302",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":208176.737511,
+    "geom:bbox":"6.51152570822,53.3642227582,6.51854495733,53.3707200479",
+    "geom:latitude":53.367001,
+    "geom:longitude":6.515573,
+    "iso:country":"NL",
+    "lbl:latitude":53.367147,
+    "lbl:longitude":6.515858,
+    "mps:latitude":53.367147,
+    "mps:longitude":6.515858,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Rasquert"
+    ],
+    "name:nld_x_preferred":[
+        "Rasquert"
+    ],
+    "reversegeo:latitude":53.367147,
+    "reversegeo:longitude":6.515858,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473749,
+        85633337,
+        1158796573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"38e983f63812912ca7ff2c060cc957bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473749,
+            "locality_id":1158796573,
+            "neighbourhood_id":1158793351,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793351,
+    "wof:lastmodified":1513382302,
+    "wof:name":"Rasquert",
+    "wof:parent_id":1158796573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.511525708217498,
+    53.36422275822707,
+    6.518544957327451,
+    53.37072004790846
+],
+  "geometry": {"coordinates":[[[[6.5115257082175,53.36465413440938],[6.51342338806031,53.36800869924912],[6.51455516861877,53.36997330061012],[6.51556143422196,53.37068385779184],[6.51565487904518,53.37072004790846],[6.51577591980925,53.37062680739484],[6.51630482772674,53.36960644229411],[6.51698211679937,53.36954448430227],[6.51762916442623,53.3695018994346],[6.51787314525971,53.36938840640248],[6.51820136158535,53.36896073892153],[6.51839519877415,53.36810975200274],[6.51854495732745,53.36676102594287],[6.51824421987435,53.36471451207631],[6.51760405269164,53.36474805027108],[6.51629726452542,53.36422275822707],[6.51605216599219,53.36438486349481],[6.51597335123731,53.36462565718745],[6.51501302739849,53.36464194050018],[6.51355344743605,53.36463379403743],[6.51315355179796,53.36468845705843],[6.5124487450591,53.36470960246776],[6.5115257082175,53.36465413440938]]]],"type":"MultiPolygon"}
+}

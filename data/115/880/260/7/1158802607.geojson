@@ -1,0 +1,81 @@
+{
+  "id": 1158802607,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01601903",
+    "cbsnl:BU_NAAM":"Verspreide huizen Lutten-Oost",
+    "cbsnl:GM_CODE":"GM0160",
+    "cbsnl:GM_NAAM":"Hardenberg",
+    "cbsnl:IND_WBI":"2",
+    "cbsnl:OAD":"90",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK016019",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":633535.953884,
+    "geom:bbox":"6.57284991827,52.608261884,6.60794012299,52.6130253747",
+    "geom:latitude":52.610563,
+    "geom:longitude":6.591451,
+    "iso:country":"NL",
+    "lbl:latitude":52.610658,
+    "lbl:longitude":6.59145,
+    "mps:latitude":52.610658,
+    "mps:longitude":6.59145,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen Lutten-Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen Lutten-Oost"
+    ],
+    "reversegeo:latitude":52.610658,
+    "reversegeo:longitude":6.59145,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473831,
+        85633337,
+        101807151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"99fcbf4f334aecdebdeb010343846321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473831,
+            "locality_id":101807151,
+            "neighbourhood_id":1158802607,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802607,
+    "wof:lastmodified":1513524272,
+    "wof:name":"Verspreide huizen Lutten-Oost",
+    "wof:parent_id":101807151,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.572849918267806,
+    52.60826188401957,
+    6.607940122987916,
+    52.61302537467097
+],
+  "geometry": {"coordinates":[[[[6.58407471777869,52.61160027174593],[6.59963995626472,52.61256574861307],[6.59991096460531,52.61256736833813],[6.60520040670234,52.61289510048638],[6.60794012298792,52.61302537467097],[6.60697131178559,52.61193091855515],[6.6068701673611,52.61181682096067],[6.6068049012182,52.61174477797689],[6.60640383924998,52.61134633184006],[6.60559432927508,52.61042104629084],[6.60517721489893,52.60994750440529],[6.60475253256153,52.60946529312092],[6.60189027277818,52.6099029641876],[6.59843734976867,52.60964363112149],[6.57337036484834,52.60826188401957],[6.57312957723422,52.60905823777775],[6.57289601188546,52.60980620911852],[6.57284991826781,52.61013845001856],[6.57300752972744,52.61014497497487],[6.58414835218589,52.61065381704538],[6.58441970375344,52.61067993418805],[6.58433159124025,52.61082777500599],[6.58417163987314,52.61111115892839],[6.58407471777869,52.61160027174593]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1158784027,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:GM_CODE":"GM0243",
+    "cbsnl:GM_NAAM":"Harderwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2228",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK024306",
+    "cbsnl:WK_NAAM":"Wijk 06 De Sypel",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":386647.574197,
+    "geom:bbox":"5.62017936958,52.33787827,5.63148672854,52.3453955184",
+    "geom:latitude":52.341287,
+    "geom:longitude":5.625663,
+    "iso:country":"NL",
+    "lbl:latitude":52.341692,
+    "lbl:longitude":5.626121,
+    "mps:latitude":52.341692,
+    "mps:longitude":5.626121,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":13.0,
+    "name:eng_x_preferred":[
+        "De Sypel"
+    ],
+    "name:nld_x_preferred":[
+        "De Sypel"
+    ],
+    "reversegeo:latitude":52.341692,
+    "reversegeo:longitude":5.626121,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473907,
+        85633337,
+        101837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8f6e5294e3306bab5b92401e34072e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473907,
+            "locality_id":101837769,
+            "macrohood_id":1158784027,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1158784027,
+    "wof:lastmodified":1513368359,
+    "wof:name":"De Sypel",
+    "wof:parent_id":101837769,
+    "wof:placetype":"macrohood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.62017936957876,
+    52.33787827003228,
+    5.631486728537043,
+    52.34539551841983
+],
+  "geometry": {"coordinates":[[[[5.62323445002011,52.34350703590233],[5.62612169970415,52.34539551841983],[5.6281996970296,52.34428215718834],[5.62880263478714,52.34395909325078],[5.62937089068079,52.34343920165761],[5.630036741239,52.34221482138503],[5.63024054526332,52.34184004524198],[5.63148672853704,52.33954829399146],[5.62691419955608,52.3387743954469],[5.62678891682444,52.338750785264],[5.62174236489133,52.33787827003228],[5.62171541779822,52.33821876175625],[5.62112068640642,52.33923770546049],[5.62079435267484,52.3397967899648],[5.62017936957876,52.34085034613009],[5.62111397577066,52.34197521946862],[5.62118495135531,52.34206588150487],[5.62126432939738,52.34215420040869],[5.6213516665352,52.34223965645536],[5.62144668818675,52.3423219769873],[5.62154909655711,52.3424009047521],[5.62165855624417,52.34247618586273],[5.62323445002011,52.34350703590233]]]],"type":"MultiPolygon"}
+}

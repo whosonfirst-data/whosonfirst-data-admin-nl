@@ -1,0 +1,81 @@
+{
+  "id": 1158792949,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00220107",
+    "cbsnl:BU_NAAM":"Buitengebied ten noorden van Zevenhuizen",
+    "cbsnl:GM_CODE":"GM0022",
+    "cbsnl:GM_NAAM":"Leek",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"185",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK002201",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":473007.612213,
+    "geom:bbox":"6.35732421778,53.137778833,6.36863296159,53.1496513178",
+    "geom:latitude":53.142698,
+    "geom:longitude":6.3625,
+    "iso:country":"NL",
+    "lbl:latitude":53.141212,
+    "lbl:longitude":6.362887,
+    "mps:latitude":53.141212,
+    "mps:longitude":6.362887,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Buitengebied ten noorden van Zevenhuizen"
+    ],
+    "name:nld_x_preferred":[
+        "Buitengebied ten noorden van Zevenhuizen"
+    ],
+    "reversegeo:latitude":53.141212,
+    "reversegeo:longitude":6.362887,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473721,
+        85633337,
+        1158796487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1881cfc92e9978820fdfe187705f6df6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473721,
+            "locality_id":1158796487,
+            "neighbourhood_id":1158792949,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158792949,
+    "wof:lastmodified":1513382277,
+    "wof:name":"Buitengebied ten noorden van Zevenhuizen",
+    "wof:parent_id":1158796487,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.357324217777055,
+    53.13777883296386,
+    6.368632961594088,
+    53.149651317810225
+],
+  "geometry": {"coordinates":[[[[6.35732421777706,53.14965131781022],[6.35832774859098,53.1487417496291],[6.35874800508737,53.14862096091151],[6.36089243044995,53.14892987285057],[6.36093902654062,53.14887276922937],[6.36181035387334,53.14554804621288],[6.36194926486096,53.14501672284226],[6.36261180745491,53.14423907007833],[6.36630608324539,53.14447965806905],[6.36863296159409,53.13926202122649],[6.36449167555191,53.13846013652422],[6.36105259861956,53.13783213158542],[6.36076887260656,53.13777883296386],[6.36000076361283,53.14011253535197],[6.35863819555069,53.14372430336942],[6.35732421777706,53.14965131781022]]]],"type":"MultiPolygon"}
+}

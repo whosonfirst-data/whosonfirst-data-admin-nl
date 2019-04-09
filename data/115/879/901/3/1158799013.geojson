@@ -1,0 +1,80 @@
+{
+  "id": 1158799013,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08480001",
+    "cbsnl:BU_NAAM":"De Gentiaan",
+    "cbsnl:GM_CODE":"GM0848",
+    "cbsnl:GM_NAAM":"Son en Breugel",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"654",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK084800",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000164,
+    "geom:area_square_m":1259047.443571,
+    "geom:bbox":"5.47001330597,51.5196675716,5.49171853174,51.5302931731",
+    "geom:latitude":51.524866,
+    "geom:longitude":5.480705,
+    "iso:country":"NL",
+    "lbl:latitude":51.525166,
+    "lbl:longitude":5.480705,
+    "mps:latitude":51.525166,
+    "mps:longitude":5.480705,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Gentiaan"
+    ],
+    "name:nld_x_preferred":[
+        "De Gentiaan"
+    ],
+    "reversegeo:latitude":51.525166,
+    "reversegeo:longitude":5.480705,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474429,
+        85633337,
+        101754589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c50141ff27e552c11e9ee0ee80d192c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474429,
+            "locality_id":101754589,
+            "neighbourhood_id":1158799013,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799013,
+    "wof:lastmodified":1513432716,
+    "wof:name":"De Gentiaan",
+    "wof:parent_id":101754589,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.470013305974927,
+    51.519667571583184,
+    5.491718531735243,
+    51.530293173125465
+],
+  "geometry": {"coordinates":[[[[5.49171853173524,51.52211021296657],[5.48964708140403,51.52171935908069],[5.47870861559168,51.52052931697353],[5.47654135040842,51.52031808070425],[5.47474563004274,51.52014219780777],[5.47001330597493,51.51966757158318],[5.47126349404471,51.52408627466449],[5.47300362385664,51.528482412279],[5.47326251616479,51.52893165273056],[5.47898757939348,51.52944862698477],[5.48093630742686,51.52960437780605],[5.48395631505751,51.53002606097964],[5.48697874280952,51.53029317312546],[5.4874226431239,51.52961583773551],[5.48755437559498,51.52921123628124],[5.48814779725769,51.52712985698084],[5.48902019966636,51.52738976881703],[5.49047021318553,51.52757641187693],[5.49171853173524,51.52211021296657]]]],"type":"MultiPolygon"}
+}

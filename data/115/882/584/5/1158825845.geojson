@@ -1,0 +1,80 @@
+{
+  "id": 1158825845,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05051904",
+    "cbsnl:BU_NAAM":"Wilhelminahaven",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1249",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050519",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":644182.859901,
+    "geom:bbox":"4.63350034488,51.7916266696,4.64934580772,51.7990535047",
+    "geom:latitude":51.794793,
+    "geom:longitude":4.642258,
+    "iso:country":"NL",
+    "lbl:latitude":51.794888,
+    "lbl:longitude":4.642258,
+    "mps:latitude":51.794888,
+    "mps:longitude":4.642258,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Wilhelminahaven"
+    ],
+    "name:nld_x_preferred":[
+        "Wilhelminahaven"
+    ],
+    "reversegeo:latitude":51.794888,
+    "reversegeo:longitude":4.642258,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829571,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ccf00c762ef6bb20bcb7e532c5de1a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829571,
+            "neighbourhood_id":1158825845,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825845,
+    "wof:lastmodified":1513588020,
+    "wof:name":"Wilhelminahaven",
+    "wof:parent_id":1158829571,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.633500344879997,
+    51.7916266696091,
+    4.649345807716046,
+    51.79905350470269
+],
+  "geometry": {"coordinates":[[[[4.63890999459743,51.79905350470269],[4.64057272512519,51.7983841823021],[4.64122253163126,51.79812259122625],[4.64197047093591,51.79800525065875],[4.64934580771605,51.79785789025821],[4.64925078823916,51.79719892347416],[4.64897163493345,51.79538493540213],[4.64894349589983,51.79445056157157],[4.64885819487498,51.79203141338779],[4.64882963944966,51.7916266696091],[4.63350034488,51.7919747738666],[4.63399578032887,51.79282898163864],[4.63890999459743,51.79905350470269]]]],"type":"MultiPolygon"}
+}

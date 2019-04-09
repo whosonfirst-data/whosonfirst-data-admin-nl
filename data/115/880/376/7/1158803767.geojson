@@ -1,0 +1,80 @@
+{
+  "id": 1158803767,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17080800",
+    "cbsnl:BU_NAAM":"Sint Jansklooster kern",
+    "cbsnl:GM_CODE":"GM1708",
+    "cbsnl:GM_NAAM":"Steenwijkerland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"185",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170808",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":763051.995237,
+    "geom:bbox":"5.99517292482,52.6736382139,6.02317223934,52.6818013577",
+    "geom:latitude":52.678052,
+    "geom:longitude":6.0058,
+    "iso:country":"NL",
+    "lbl:latitude":52.677771,
+    "lbl:longitude":6.003255,
+    "mps:latitude":52.677771,
+    "mps:longitude":6.003255,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Sint Jansklooster kern"
+    ],
+    "name:nld_x_preferred":[
+        "Sint Jansklooster kern"
+    ],
+    "reversegeo:latitude":52.677771,
+    "reversegeo:longitude":6.003255,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474621,
+        85633337,
+        101807219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"cc4a5418760da5656e00ffdd72fd7ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474621,
+            "locality_id":101807219,
+            "neighbourhood_id":1158803767,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803767,
+    "wof:lastmodified":1513524360,
+    "wof:name":"Sint Jansklooster kern",
+    "wof:parent_id":101807219,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.995172924820611,
+    52.67363821387731,
+    6.023172239344675,
+    52.68180135766208
+],
+  "geometry": {"coordinates":[[[[6.02317223934468,52.68170129622045],[6.02009003173869,52.68031433523254],[6.01835614998121,52.67965007216237],[6.01637680780478,52.67902415713111],[6.01607581236765,52.67886678739113],[6.01488769742476,52.6782462086539],[6.01289994021787,52.6770215094479],[6.01301827740411,52.67668414770909],[6.00146127417629,52.67363821387731],[5.9999341288199,52.67450689559809],[5.99767439884493,52.67582839886558],[5.99766043503306,52.67583773802501],[5.99517292482061,52.6774878329588],[5.99962630646029,52.67892455322387],[5.99761782502815,52.68061912991828],[6.00199507533947,52.68179788518056],[6.00200796847615,52.68180135766208],[6.00210278230544,52.68177390597834],[6.00483184752187,52.68097085998645],[6.00771016211145,52.68051746965732],[6.01318781917676,52.68031351271463],[6.01751564989744,52.68037827815265],[6.02055162775181,52.68088818069374],[6.02317223934468,52.68170129622045]]]],"type":"MultiPolygon"}
+}

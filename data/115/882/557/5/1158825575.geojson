@@ -1,0 +1,80 @@
+{
+  "id": 1158825575,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05032804",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Rotterdamseweg-Noord",
+    "cbsnl:GM_CODE":"GM0503",
+    "cbsnl:GM_NAAM":"Delft",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2256",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050328",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":186578.61638,
+    "geom:bbox":"4.36479234647,51.991958437,4.37277663674,52.001991164",
+    "geom:latitude":51.996959,
+    "geom:longitude":4.368637,
+    "iso:country":"NL",
+    "lbl:latitude":51.996981,
+    "lbl:longitude":4.368575,
+    "mps:latitude":51.996981,
+    "mps:longitude":4.368575,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Rotterdamseweg-Noord"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Rotterdamseweg-Noord"
+    ],
+    "reversegeo:latitude":51.996981,
+    "reversegeo:longitude":4.368575,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829617,
+        85633337,
+        101752765,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"991d9131a08a3020f30685a782604096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752765,
+            "macrohood_id":1158829617,
+            "neighbourhood_id":1158825575,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825575,
+    "wof:lastmodified":1513588003,
+    "wof:name":"Bedrijventerrein Rotterdamseweg-Noord",
+    "wof:parent_id":1158829617,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.364792346465746,
+    51.99195843695821,
+    4.372776636742496,
+    52.00199116402503
+],
+  "geometry": {"coordinates":[[[[4.36479234646575,52.00017752331799],[4.36587534383409,52.00043283998924],[4.36591303209987,52.00037662792305],[4.36627920808309,52.0004699621627],[4.36553397478352,52.00151329309655],[4.36646799521413,52.00186863392579],[4.36660966178763,52.00191507575906],[4.36686550769778,52.00199116402503],[4.36692899933157,52.00192332768064],[4.36762011427604,52.00097237390298],[4.3677054894582,52.00075954043181],[4.36787664322044,52.00049531518589],[4.36824441278999,51.99991000543983],[4.3684704793386,51.99952967078265],[4.36876884264044,51.99898600586094],[4.36929987555307,51.99803958915392],[4.37001394050533,51.99673969605836],[4.37030762484202,51.99622088585257],[4.37071655473578,51.99559619390737],[4.37194367086714,51.99369182087979],[4.37270041937191,51.99255183044588],[4.3727766367425,51.99243949865953],[4.37080993151042,51.99195843695821],[4.37071350792048,51.99210124441917],[4.36925690108802,51.99404415951162],[4.36507068042867,51.99983466303317],[4.36479234646575,52.00017752331799]]]],"type":"MultiPolygon"}
+}

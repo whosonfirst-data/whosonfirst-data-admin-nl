@@ -1,0 +1,80 @@
+{
+  "id": 1158798443,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08241104",
+    "cbsnl:BU_NAAM":"Omg. Boxtelsebn/Waterhoef",
+    "cbsnl:GM_CODE":"GM0824",
+    "cbsnl:GM_NAAM":"Oisterwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"935",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082411",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":452981.867146,
+    "geom:bbox":"5.19925036098,51.5792758114,5.2153067721,51.5855571581",
+    "geom:latitude":51.582751,
+    "geom:longitude":5.206558,
+    "iso:country":"NL",
+    "lbl:latitude":51.582702,
+    "lbl:longitude":5.206558,
+    "mps:latitude":51.582702,
+    "mps:longitude":5.206558,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Boxtelsebn/Waterhoef"
+    ],
+    "name:nld_x_preferred":[
+        "Boxtelsebn/Waterhoef"
+    ],
+    "reversegeo:latitude":51.582702,
+    "reversegeo:longitude":5.206558,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474411,
+        85633337,
+        101808311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"708f850b298ddf5230e8163d6cefabcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474411,
+            "locality_id":101808311,
+            "neighbourhood_id":1158798443,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798443,
+    "wof:lastmodified":1513432676,
+    "wof:name":"Boxtelsebn/Waterhoef",
+    "wof:parent_id":101808311,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.199250360980487,
+    51.57927581138812,
+    5.215306772098168,
+    51.58555715807934
+],
+  "geometry": {"coordinates":[[[[5.21418681563996,51.58555715807934],[5.21497709563626,51.58416069556196],[5.21530677209817,51.58389909602543],[5.21012768595566,51.58150632989106],[5.20355698651232,51.57952391624167],[5.20186426125786,51.57927581138812],[5.20100008168505,51.57985554741787],[5.20025019078907,51.5804940672304],[5.19984709934157,51.58107831432843],[5.19964066734757,51.58159305572891],[5.19976760677798,51.58191887873995],[5.19935687533235,51.58242740987525],[5.19925036098049,51.58299281253147],[5.19942691827969,51.58342429926265],[5.20277425830654,51.5842255346902],[5.20422378521711,51.58456785566828],[5.20766353978831,51.5851660985883],[5.21418681563996,51.58555715807934]]]],"type":"MultiPolygon"}
+}

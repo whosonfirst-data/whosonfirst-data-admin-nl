@@ -1,0 +1,80 @@
+{
+  "id": 1158793343,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00530102",
+    "cbsnl:BU_NAAM":"Garnwerd",
+    "cbsnl:GM_CODE":"GM0053",
+    "cbsnl:GM_NAAM":"Winsum",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"62",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK005301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":184434.75602,
+    "geom:bbox":"6.48847995561,53.3012740957,6.49745623679,53.3072909959",
+    "geom:latitude":53.304238,
+    "geom:longitude":6.492769,
+    "iso:country":"NL",
+    "lbl:latitude":53.304424,
+    "lbl:longitude":6.492836,
+    "mps:latitude":53.304424,
+    "mps:longitude":6.492836,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Garnwerd"
+    ],
+    "name:nld_x_preferred":[
+        "Garnwerd"
+    ],
+    "reversegeo:latitude":53.304424,
+    "reversegeo:longitude":6.492836,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473749,
+        85633337,
+        1158796497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ed42b3a32ab5699833f7df236915ef4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473749,
+            "locality_id":1158796497,
+            "neighbourhood_id":1158793343,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793343,
+    "wof:lastmodified":1513382301,
+    "wof:name":"Garnwerd",
+    "wof:parent_id":1158796497,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.488479955611719,
+    53.30127409568141,
+    6.497456236786799,
+    53.307290995863085
+],
+  "geometry": {"coordinates":[[[[6.49218519869935,53.30713711053996],[6.49270420363622,53.30729099586308],[6.49379314848937,53.30598898638603],[6.49360538093864,53.30581630508152],[6.49612733519048,53.30347064508589],[6.4974562367868,53.30223407776539],[6.49316339923124,53.30127409568141],[6.4929762179395,53.3017857744559],[6.49290925956169,53.30177778907517],[6.49261080878967,53.30267071536782],[6.49225172428232,53.30277149676061],[6.49169434122356,53.30278358039547],[6.49147230431716,53.30369946660124],[6.49082472021645,53.30374743118021],[6.48954573514368,53.30379068325132],[6.48961285493694,53.30456490926286],[6.48896397137572,53.3045811656676],[6.48847995561172,53.30607784254864],[6.49242769768657,53.30691155829065],[6.49218519869935,53.30713711053996]]]],"type":"MultiPolygon"}
+}

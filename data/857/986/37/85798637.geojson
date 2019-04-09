@@ -1,0 +1,95 @@
+{
+  "id": 85798637,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00806401",
+    "cbsnl:BU_NAAM":"Westeinde",
+    "cbsnl:GM_CODE":"GM0080",
+    "cbsnl:GM_NAAM":"Leeuwarden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1291",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK008064",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":877540.374936,
+    "geom:bbox":"5.786975,53.20218,5.786975,53.20218",
+    "geom:latitude":53.20218,
+    "geom:longitude":5.786975,
+    "gn:latitude":53.20853,
+    "gn:longitude":5.76812,
+    "iso:country":"NL",
+    "lbl:latitude":53.20218,
+    "lbl:longitude":5.786975,
+    "mps:latitude":53.204393,
+    "mps:longitude":5.764401,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:dut_x_preferred":[
+        "Westeinde"
+    ],
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        1141960065,
+        404473775,
+        85633337,
+        101751907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2744786,
+        "gp:id":734641,
+        "qs:id":1080811,
+        "qs_pg:id":1080811
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"37656189a244853a34e03e23c72f9e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473775,
+            "locality_id":101751907,
+            "macrohood_id":1141960065,
+            "neighbourhood_id":85798637,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":85798637,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531861955,
+    "wof:name":"Westeinde",
+    "wof:parent_id":1141960065,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.786975,
+    53.20218,
+    5.786975,
+    53.20218
+],
+  "geometry": {"coordinates":[5.786975,53.20218],"type":"Point"}
+}

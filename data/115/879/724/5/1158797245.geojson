@@ -1,0 +1,80 @@
+{
+  "id": 1158797245,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07700005",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Eersel",
+    "cbsnl:GM_CODE":"GM0770",
+    "cbsnl:GM_NAAM":"Eersel",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"398",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK077000",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00013,
+    "geom:area_square_m":1004997.856365,
+    "geom:bbox":"5.31077635494,51.3626126812,5.32843169029,51.3768893427",
+    "geom:latitude":51.369134,
+    "geom:longitude":5.318707,
+    "iso:country":"NL",
+    "lbl:latitude":51.368929,
+    "lbl:longitude":5.319309,
+    "mps:latitude":51.368929,
+    "mps:longitude":5.319309,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Eersel"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Eersel"
+    ],
+    "reversegeo:latitude":51.368929,
+    "reversegeo:longitude":5.319309,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474371,
+        85633337,
+        101839351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"90c37ccf921cd4a346c0e72f5e580a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474371,
+            "locality_id":101839351,
+            "neighbourhood_id":1158797245,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797245,
+    "wof:lastmodified":1513432580,
+    "wof:name":"Bedrijventerrein Eersel",
+    "wof:parent_id":101839351,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.310776354943704,
+    51.362612681204986,
+    5.328431690291482,
+    51.376889342695925
+],
+  "geometry": {"coordinates":[[[[5.3108686662511,51.36702426216256],[5.3150076562312,51.36870806649873],[5.31533320690746,51.36886444620151],[5.31461209093396,51.36926540204846],[5.3129619860978,51.3707913228594],[5.31308098219087,51.37130206870007],[5.31180472951461,51.37288523236464],[5.3107763549437,51.37420281448421],[5.31708655110151,51.37688934269593],[5.32210296394095,51.37169115170827],[5.32332539342257,51.37044969740723],[5.32843169029148,51.3652613942029],[5.32585702732086,51.36417777375317],[5.32152260740306,51.3626734583279],[5.3213391786187,51.36261268120499],[5.31975884637885,51.3644558727425],[5.31948198835154,51.36491160742298],[5.31782492274738,51.36458058215933],[5.31651922720374,51.36439103624373],[5.31536398607206,51.36426476970365],[5.31448503632402,51.36421703499367],[5.31367942292617,51.3654426473336],[5.31310197068983,51.36526952991832],[5.3108686662511,51.36702426216256]]]],"type":"MultiPolygon"}
+}

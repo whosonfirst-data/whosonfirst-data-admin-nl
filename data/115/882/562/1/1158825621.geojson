@@ -1,0 +1,80 @@
+{
+  "id": 1158825621,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050114",
+    "cbsnl:BU_NAAM":"Kon. Wilhelminastraat en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"4407",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050501",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":61325.837968,
+    "geom:bbox":"4.66810051906,51.8089981168,4.67232291043,51.8115980555",
+    "geom:latitude":51.810091,
+    "geom:longitude":4.669903,
+    "iso:country":"NL",
+    "lbl:latitude":51.810186,
+    "lbl:longitude":4.669732,
+    "mps:latitude":51.810186,
+    "mps:longitude":4.669732,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kon. Wilhelminastraat en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Kon. Wilhelminastraat en omgeving"
+    ],
+    "reversegeo:latitude":51.810186,
+    "reversegeo:longitude":4.669732,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829543,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8a5c9786c50e6a10e724779401be83c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829543,
+            "neighbourhood_id":1158825621,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825621,
+    "wof:lastmodified":1513588006,
+    "wof:name":"Kon. Wilhelminastraat en omgeving",
+    "wof:parent_id":1158829543,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.668100519064855,
+    51.80899811679861,
+    4.672322910432696,
+    51.8115980555033
+],
+  "geometry": {"coordinates":[[[[4.66838379855034,51.81144474788451],[4.66878482299852,51.81139655290883],[4.66942207275033,51.81140045243158],[4.66971629301454,51.8115980555033],[4.67057529137497,51.81112698513416],[4.67154897048396,51.81035521628927],[4.67198696012518,51.81000584526741],[4.67213224729713,51.80985602112595],[4.67217047549706,51.80978607556918],[4.67218709323609,51.80967458260321],[4.67221532607152,51.80929855348703],[4.67223272311239,51.80925494172941],[4.6723229104327,51.80915971876856],[4.67214561154982,51.8091045682007],[4.6717339763243,51.8090802002645],[4.66884371253619,51.80899811679861],[4.66814951526825,51.8090285672584],[4.66810051906486,51.81017496178486],[4.66828288129569,51.81120470737078],[4.66838379855034,51.81144474788451]]]],"type":"MultiPolygon"}
+}

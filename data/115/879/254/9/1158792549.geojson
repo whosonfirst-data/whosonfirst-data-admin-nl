@@ -1,0 +1,80 @@
+{
+  "id": 1158792549,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00140100",
+    "cbsnl:BU_NAAM":"De Meeuwen",
+    "cbsnl:GM_CODE":"GM0014",
+    "cbsnl:GM_NAAM":"Groningen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3932",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK001401",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:area_square_m":231286.529866,
+    "geom:bbox":"6.57660009937,53.209593538,6.58864269853,53.2170515362",
+    "geom:latitude":53.21323,
+    "geom:longitude":6.58284,
+    "iso:country":"NL",
+    "lbl:latitude":53.211957,
+    "lbl:longitude":6.584254,
+    "mps:latitude":53.211957,
+    "mps:longitude":6.584254,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Meeuwen"
+    ],
+    "name:nld_x_preferred":[
+        "De Meeuwen"
+    ],
+    "reversegeo:latitude":53.211957,
+    "reversegeo:longitude":6.584254,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473713,
+        85633337,
+        101751909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"039cd87db9aa8fa2e9520f339e4a20a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473713,
+            "locality_id":101751909,
+            "neighbourhood_id":1158792549,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158792549,
+    "wof:lastmodified":1513382252,
+    "wof:name":"De Meeuwen",
+    "wof:parent_id":101751909,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.576600099373895,
+    53.20959353803183,
+    6.588642698532008,
+    53.21705153616741
+],
+  "geometry": {"coordinates":[[[[6.58014520311136,53.21705153616741],[6.58179397989452,53.21572918060146],[6.58253133891057,53.21514879999091],[6.58802131279654,53.2118423093799],[6.58816614679182,53.21175237030588],[6.58864269853201,53.21144923144188],[6.58796080059408,53.21116601716177],[6.58728231162732,53.21089215891479],[6.58659336168213,53.21062788262869],[6.58588896241368,53.21037340251108],[6.5851744695212,53.210122687928],[6.58446505444028,53.20987697552181],[6.58376215872456,53.20963224374387],[6.58365051220696,53.20959353803183],[6.5807254794046,53.21324027656842],[6.57913639205912,53.21481890302521],[6.57867822055334,53.21499893138134],[6.57780904527915,53.21517796910958],[6.57716002061228,53.21541520572658],[6.57660009937389,53.21573678273587],[6.58002859493296,53.21701593201973],[6.58014520311136,53.21705153616741]]]],"type":"MultiPolygon"}
+}

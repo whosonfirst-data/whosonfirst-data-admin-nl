@@ -1,0 +1,80 @@
+{
+  "id": 1158788233,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03350202",
+    "cbsnl:BU_NAAM":"Beneden Kerkweg",
+    "cbsnl:GM_CODE":"GM0335",
+    "cbsnl:GM_NAAM":"Montfoort",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"527",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK033502",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":287319.822166,
+    "geom:bbox":"4.93481943221,52.0347235551,4.94466954182,52.0427891667",
+    "geom:latitude":52.039139,
+    "geom:longitude":4.939624,
+    "iso:country":"NL",
+    "lbl:latitude":52.039207,
+    "lbl:longitude":4.939549,
+    "mps:latitude":52.039207,
+    "mps:longitude":4.939549,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Beneden Kerkweg"
+    ],
+    "name:nld_x_preferred":[
+        "Beneden Kerkweg"
+    ],
+    "reversegeo:latitude":52.039207,
+    "reversegeo:longitude":4.939549,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473999,
+        85633337,
+        101807011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"2b38087bddf5796fe032bf57827e1ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473999,
+            "locality_id":101807011,
+            "neighbourhood_id":1158788233,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788233,
+    "wof:lastmodified":1513621992,
+    "wof:name":"Beneden Kerkweg",
+    "wof:parent_id":101807011,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.934819432212276,
+    52.03472355508927,
+    4.944669541820949,
+    52.042789166741954
+],
+  "geometry": {"coordinates":[[[[4.9350427834161,52.03908072656953],[4.93528612727995,52.03928889801129],[4.9354855991155,52.03946043927946],[4.93850336628036,52.04121652830704],[4.94175481693545,52.04278916674195],[4.94228667795564,52.04226705300973],[4.94266921652029,52.04249320249446],[4.94334229351961,52.04158905511008],[4.94436091437086,52.04056092915928],[4.94466954182095,52.04017643922017],[4.94113639510593,52.03754838503072],[4.94106553289991,52.03749531087313],[4.94104811539622,52.03748344676745],[4.94089609222737,52.03738231624548],[4.93970920798419,52.03641242050451],[4.9381805560326,52.03479687026759],[4.93810557628634,52.03472355508927],[4.93592690625226,52.03746393667361],[4.93591803167643,52.0374745772783],[4.93481943221228,52.03888965821373],[4.9350427834161,52.03908072656953]]]],"type":"MultiPolygon"}
+}

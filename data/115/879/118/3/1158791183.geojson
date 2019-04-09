@@ -1,0 +1,80 @@
+{
+  "id": 1158791183,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01191202",
+    "cbsnl:BU_NAAM":"Vogelbuurt",
+    "cbsnl:GM_CODE":"GM0119",
+    "cbsnl:GM_NAAM":"Meppel",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"383",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011912",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":243879.683178,
+    "geom:bbox":"6.16078833389,52.7318863223,6.17087521116,52.7373020007",
+    "geom:latitude":52.734669,
+    "geom:longitude":6.165637,
+    "iso:country":"NL",
+    "lbl:latitude":52.734616,
+    "lbl:longitude":6.165638,
+    "mps:latitude":52.734616,
+    "mps:longitude":6.165638,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vogelbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Vogelbuurt"
+    ],
+    "reversegeo:latitude":52.734616,
+    "reversegeo:longitude":6.165638,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473813,
+        85633337,
+        101807283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1b82c5bda72759ec405d20a0aa61ccdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473813,
+            "locality_id":101807283,
+            "neighbourhood_id":1158791183,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791183,
+    "wof:lastmodified":1513292323,
+    "wof:name":"Vogelbuurt",
+    "wof:parent_id":101807283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.160788333890954,
+    52.7318863223333,
+    6.17087521115567,
+    52.73730200066659
+],
+  "geometry": {"coordinates":[[[[6.16356005528722,52.73652647706914],[6.16465750763867,52.73676507061699],[6.16474469765768,52.73658086631975],[6.16808558223975,52.73730200066659],[6.16826967629122,52.73713732706144],[6.1688896353192,52.73634144944361],[6.16927034141398,52.7353381934342],[6.16991151158966,52.73471812882832],[6.17044112946019,52.7346384196804],[6.17087521115567,52.73384619260463],[6.17050226495364,52.73376211501906],[6.17048907901448,52.73375914261415],[6.16872385657723,52.73325438725045],[6.16712419011138,52.73279849264266],[6.16314328426804,52.7318863223333],[6.16078833389095,52.73592383012351],[6.16356005528722,52.73652647706914]]]],"type":"MultiPolygon"}
+}

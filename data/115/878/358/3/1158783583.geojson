@@ -1,0 +1,98 @@
+{
+  "id": 1158783583,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU15090203",
+    "cbsnl:BU_NAAM":"Nieuwdorp Bontebrug",
+    "cbsnl:GM_CODE":"GM1509",
+    "cbsnl:GM_NAAM":"Oude IJsselstreek",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"448",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK150902",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":155228.677378,
+    "geom:bbox":"6.39156449665,51.8913523734,6.39849733827,51.8960405316",
+    "geom:latitude":51.893621,
+    "geom:longitude":6.395048,
+    "iso:country":"NL",
+    "lbl:latitude":51.893564,
+    "lbl:longitude":6.395048,
+    "mps:latitude":51.893564,
+    "mps:longitude":6.395048,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:dut_x_preferred":[
+        "Bontebrug"
+    ],
+    "name:eng_x_preferred":[
+        "Bontebrug"
+    ],
+    "name:eng_x_variant":[
+        "Nieuwdorp Bontebrug"
+    ],
+    "name:fre_x_preferred":[
+        "Bontebrug"
+    ],
+    "name:ger_x_preferred":[
+        "Bontebrug"
+    ],
+    "name:nan_x_preferred":[
+        "Bontebrug"
+    ],
+    "name:nld_x_preferred":[
+        "Bontebrug"
+    ],
+    "name:nld_x_variant":[
+        "Nieuwdorp Bontebrug"
+    ],
+    "reversegeo:latitude":51.893564,
+    "reversegeo:longitude":6.395048,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404474543,
+        85633337,
+        85687043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1846935"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"15b52cea698e99fe9271085cf574fed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474543,
+            "locality_id":1158783583,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1158783583,
+    "wof:lastmodified":1514491995,
+    "wof:name":"Bontebrug",
+    "wof:parent_id":404474543,
+    "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "neighbourhood"
+    ],
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.39156449665495,
+    51.89135237336966,
+    6.39849733827152,
+    51.89604053162485
+],
+  "geometry": {"coordinates":[[[[6.39611808636379,51.89169107320661],[6.39607149823118,51.89170480915543],[6.39499196658615,51.89197205851833],[6.39434430619975,51.89213402098279],[6.39365073614617,51.89234805879323],[6.39296479102028,51.89259798323923],[6.39283194315963,51.89258878337336],[6.39216251893218,51.89250536517942],[6.39213304145296,51.89313690843137],[6.39214594998514,51.89417136007603],[6.39180456682144,51.8949554718054],[6.39156449665495,51.89551932970321],[6.39161369765104,51.89577059748351],[6.39210782174626,51.89604053162485],[6.39280660944558,51.89597050515745],[6.39346795693902,51.89571877051654],[6.39409758044406,51.89535831391036],[6.39473646193219,51.89520901311451],[6.39575653139035,51.89508143597672],[6.39729760983353,51.89468167075473],[6.39763697425019,51.89445852403681],[6.3981652460542,51.89372222722574],[6.39817732904609,51.89321986921669],[6.39847176832309,51.89262490890057],[6.39849733827152,51.89220754871633],[6.39832970849592,51.89179915434443],[6.39797522543144,51.89135237336966],[6.39787975192031,51.89143847258234],[6.39783852593901,51.89146579400863],[6.39767524102843,51.8914725920976],[6.39712935280611,51.89142380352566],[6.39690828360449,51.8914580646367],[6.39611808636379,51.89169107320661]]]],"type":"MultiPolygon"}
+}

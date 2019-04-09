@@ -1,0 +1,81 @@
+{
+  "id": 1158798709,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08281208",
+    "cbsnl:BU_NAAM":"Verspreide huizen Harense Broek",
+    "cbsnl:GM_CODE":"GM0828",
+    "cbsnl:GM_NAAM":"Oss",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"66",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082812",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00018,
+    "geom:area_square_m":1376421.503313,
+    "geom:bbox":"5.54296546593,51.79137925,5.56277390386,51.8087313968",
+    "geom:latitude":51.800882,
+    "geom:longitude":5.55329,
+    "iso:country":"NL",
+    "lbl:latitude":51.801331,
+    "lbl:longitude":5.552615,
+    "mps:latitude":51.801331,
+    "mps:longitude":5.552615,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen Harense Broek"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen Harense Broek"
+    ],
+    "reversegeo:latitude":51.801331,
+    "reversegeo:longitude":5.552615,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474415,
+        85633337,
+        1158801639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"388ad42626c1c79047b9b837d83476f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":1158801639,
+            "neighbourhood_id":1158798709,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798709,
+    "wof:lastmodified":1513432693,
+    "wof:name":"Verspreide huizen Harense Broek",
+    "wof:parent_id":1158801639,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.542965465934318,
+    51.79137924996969,
+    5.562773903859895,
+    51.80873139675822
+],
+  "geometry": {"coordinates":[[[[5.5627739038599,51.80840561688016],[5.56270729250925,51.80747513736195],[5.56090021158541,51.79935596672519],[5.5608386669885,51.79907938415391],[5.55949063484156,51.7988934603963],[5.5579368949533,51.79815840479863],[5.55645225922953,51.79801786744626],[5.55283035658508,51.79524955650116],[5.55084593105579,51.79466613135875],[5.55033157804793,51.79341998950875],[5.54777585722219,51.79214154789695],[5.5450910765095,51.79147640095666],[5.54296546593432,51.79137924996969],[5.5444502299553,51.79520071048278],[5.54572081387784,51.79749918899647],[5.5470221609547,51.79994086065124],[5.5479697287788,51.80293242120266],[5.54872480335138,51.80635203058034],[5.55284146331075,51.80658728504984],[5.55646150686007,51.80831743613743],[5.55786346444352,51.80873139675822],[5.5627739038599,51.80840561688016]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158821161,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19110701",
+    "cbsnl:BU_NAAM":"Nieuwesluis",
+    "cbsnl:GM_CODE":"GM1911",
+    "cbsnl:GM_NAAM":"Hollands Kroon",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"25",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK191107",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":255384.452254,
+    "geom:bbox":"4.88629671054,52.8319615082,4.89238828892,52.8407793793",
+    "geom:latitude":52.836293,
+    "geom:longitude":4.889401,
+    "iso:country":"NL",
+    "lbl:latitude":52.836356,
+    "lbl:longitude":4.889458,
+    "mps:latitude":52.836356,
+    "mps:longitude":4.889458,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Nieuwesluis"
+    ],
+    "name:nld_x_preferred":[
+        "Nieuwesluis"
+    ],
+    "reversegeo:latitude":52.836356,
+    "reversegeo:longitude":4.889458,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158818287,
+        85633337,
+        101808805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"cfef69e28ce5fe6c8e497fe167985908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158818287,
+            "locality_id":101808805,
+            "neighbourhood_id":1158821161,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158821161,
+    "wof:lastmodified":1513464284,
+    "wof:name":"Nieuwesluis",
+    "wof:parent_id":101808805,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.88629671054083,
+    52.831961508182935,
+    4.892388288916164,
+    52.84077937931759
+],
+  "geometry": {"coordinates":[[[[4.88862297280716,52.84077937931759],[4.89185127410258,52.84036371129073],[4.89185680289059,52.84035575075152],[4.89238760419247,52.8403098708913],[4.89238828891616,52.84024933739779],[4.89237363165378,52.83957707070674],[4.89238635619229,52.83952145238015],[4.89195703640246,52.83928192021761],[4.89172421482035,52.83841148176887],[4.89177559161964,52.83778201232152],[4.89156134356573,52.83716483673017],[4.89150863409616,52.83595884222613],[4.89136046036225,52.83536873553145],[4.89033725275179,52.83196150818294],[4.88847717158021,52.83212791387783],[4.88752879380591,52.83231212732705],[4.88711662481013,52.83233622822094],[4.88629671054083,52.83240468201647],[4.88694096818305,52.83472146858525],[4.88777601160338,52.83800343515421],[4.88862297280716,52.84077937931759]]]],"type":"MultiPolygon"}
+}

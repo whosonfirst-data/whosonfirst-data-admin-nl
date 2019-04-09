@@ -1,0 +1,80 @@
+{
+  "id": 1158827271,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06140106",
+    "cbsnl:BU_NAAM":"Duinoord",
+    "cbsnl:GM_CODE":"GM0614",
+    "cbsnl:GM_NAAM":"Westvoorne",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"676",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK061401",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":64071.972821,
+    "geom:bbox":"4.0856543903,51.9116203158,4.0908572716,51.9148607658",
+    "geom:latitude":51.913234,
+    "geom:longitude":4.088354,
+    "iso:country":"NL",
+    "lbl:latitude":51.913328,
+    "lbl:longitude":4.088314,
+    "mps:latitude":51.913328,
+    "mps:longitude":4.088314,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Duinoord"
+    ],
+    "name:nld_x_preferred":[
+        "Duinoord"
+    ],
+    "reversegeo:latitude":51.913328,
+    "reversegeo:longitude":4.088314,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474267,
+        85633337,
+        101808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"baccb3681c036775b2085b86274e37e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474267,
+            "locality_id":101808543,
+            "neighbourhood_id":1158827271,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827271,
+    "wof:lastmodified":1513588134,
+    "wof:name":"Duinoord",
+    "wof:parent_id":101808543,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.085654390299264,
+    51.91162031580167,
+    4.090857271602473,
+    51.914860765798444
+],
+  "geometry": {"coordinates":[[[[4.09085727160247,51.9131183595604],[4.08871358244789,51.91162031580167],[4.08565439029926,51.91330436610038],[4.08839387292348,51.91486076579844],[4.09085727160247,51.9131183595604]]]],"type":"MultiPolygon"}
+}

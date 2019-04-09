@@ -1,0 +1,82 @@
+{
+  "id": 1158788131,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03270006",
+    "cbsnl:BU_NAAM":"Bosveld",
+    "cbsnl:GM_CODE":"GM0327",
+    "cbsnl:GM_NAAM":"Leusden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"921",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK032700",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":102171.001918,
+    "geom:bbox":"5.44075106374,52.1248889983,5.44607176121,52.1282141994",
+    "geom:latitude":52.126577,
+    "geom:longitude":5.443533,
+    "iso:country":"NL",
+    "lbl:latitude":52.126538,
+    "lbl:longitude":5.443533,
+    "mps:latitude":52.126538,
+    "mps:longitude":5.443533,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bosveld"
+    ],
+    "name:nld_x_preferred":[
+        "Bosveld"
+    ],
+    "reversegeo:latitude":52.126538,
+    "reversegeo:longitude":5.443533,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        1158790307,
+        404473989,
+        85633337,
+        101837659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ff512dea8ad922b1761d4443de24106e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473989,
+            "locality_id":101837659,
+            "macrohood_id":1158790307,
+            "neighbourhood_id":1158788131,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788131,
+    "wof:lastmodified":1513621984,
+    "wof:name":"Bosveld",
+    "wof:parent_id":1158790307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.440751063739852,
+    52.12488899831337,
+    5.446071761210052,
+    52.12821419942175
+],
+  "geometry": {"coordinates":[[[[5.44075106373985,52.12821419942175],[5.44607176121005,52.12762659432917],[5.44590614377293,52.12488899831337],[5.44141646486481,52.12541779194368],[5.44085699442205,52.12769116469178],[5.44075106373985,52.12821419942175]]]],"type":"MultiPolygon"}
+}

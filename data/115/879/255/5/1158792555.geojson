@@ -1,0 +1,88 @@
+{
+  "id": 1158792555,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00140102",
+    "cbsnl:BU_NAAM":"Herewegbuurt",
+    "cbsnl:GM_CODE":"GM0014",
+    "cbsnl:GM_NAAM":"Groningen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3857",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK001401",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000022,
+    "geom:area_square_m":162092.494941,
+    "geom:bbox":"6.57132035846,53.2053517563,6.57980437279,53.210739809",
+    "geom:latitude":53.207928,
+    "geom:longitude":6.575283,
+    "iso:country":"NL",
+    "lbl:latitude":53.207639,
+    "lbl:longitude":6.575218,
+    "mps:latitude":53.207639,
+    "mps:longitude":6.575218,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Herewegbuurt"
+    ],
+    "name:eng_x_preferred":[
+        "Herewegbuurt"
+    ],
+    "name:fre_x_preferred":[
+        "Herewegbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Herewegbuurt"
+    ],
+    "reversegeo:latitude":53.207639,
+    "reversegeo:longitude":6.575218,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404473713,
+        85633337,
+        101751909,
+        85687059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2613329"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"3ca7e532e6888346cf95eb6327b61af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473713,
+            "locality_id":101751909,
+            "neighbourhood_id":1158792555,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158792555,
+    "wof:lastmodified":1514492377,
+    "wof:name":"Herewegbuurt",
+    "wof:parent_id":101751909,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.57132035845625,
+    53.20535175634519,
+    6.57980437279091,
+    53.21073980899509
+],
+  "geometry": {"coordinates":[[[[6.57132035845625,53.21073980899509],[6.57344224673723,53.21025353071704],[6.57488710807792,53.2098133688178],[6.57607870309911,53.20936365781312],[6.57689602520967,53.20901895046032],[6.57690780393351,53.20901398117784],[6.57980437279091,53.20758664940772],[6.57863315407895,53.20683943227257],[6.57830074000493,53.20662735144808],[6.57790957737404,53.20641572174556],[6.57758661280866,53.20625966216967],[6.57716502763986,53.20609482021381],[6.5768268088728,53.20598278684296],[6.5764483297545,53.20587690146034],[6.57492594338982,53.20552121199942],[6.57416425095711,53.20535175634519],[6.57397902995497,53.20566648907878],[6.57378028140026,53.20613637900892],[6.57247943764316,53.20858294435163],[6.57212027071907,53.20926317017817],[6.57211416369195,53.20927465933831],[6.57185322149642,53.20976563236975],[6.57136116108422,53.21066643658029],[6.57132035845625,53.21073980899509]]]],"type":"MultiPolygon"}
+}

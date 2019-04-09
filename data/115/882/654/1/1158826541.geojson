@@ -1,0 +1,80 @@
+{
+  "id": 1158826541,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05560401",
+    "cbsnl:BU_NAAM":"Kapelpolder",
+    "cbsnl:GM_CODE":"GM0556",
+    "cbsnl:GM_NAAM":"Maassluis",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2525",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK055604",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:area_square_m":410287.767529,
+    "geom:bbox":"4.24038400416,51.9183452066,4.25292153636,51.9269177499",
+    "geom:latitude":51.922541,
+    "geom:longitude":4.246926,
+    "iso:country":"NL",
+    "lbl:latitude":51.922494,
+    "lbl:longitude":4.246926,
+    "mps:latitude":51.922494,
+    "mps:longitude":4.246926,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kapelpolder"
+    ],
+    "name:nld_x_preferred":[
+        "Kapelpolder"
+    ],
+    "reversegeo:latitude":51.922494,
+    "reversegeo:longitude":4.246926,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831271,
+        85633337,
+        101754631,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"80a78156d8ae92159d01962a7bce162c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754631,
+            "macrohood_id":1158831271,
+            "neighbourhood_id":1158826541,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826541,
+    "wof:lastmodified":1513588072,
+    "wof:name":"Kapelpolder",
+    "wof:parent_id":1158831271,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.240384004161824,
+    51.91834520663635,
+    4.252921536364233,
+    51.926917749899694
+],
+  "geometry": {"coordinates":[[[[4.24852870542202,51.92597141683024],[4.24828753563264,51.92578476279712],[4.24819382556517,51.9256013274943],[4.2484348864714,51.92544976589229],[4.24893416356303,51.92523841965686],[4.24856855747777,51.92502489376787],[4.24961073262875,51.92417629522733],[4.25204921335836,51.92233656067656],[4.25230481091929,51.92203761130305],[4.25249135558071,51.92201749016083],[4.25292153636423,51.92156341148572],[4.25077871559518,51.91977256712587],[4.24922077165712,51.91834520663635],[4.24739449222377,51.91912787769228],[4.24464939547903,51.92038421007778],[4.24362225602986,51.92097744902451],[4.2430323042774,51.92135294806219],[4.24038400416182,51.92303845547677],[4.24280856097037,51.9245543630945],[4.24608555908067,51.92654502078295],[4.24619040479306,51.92691774989969],[4.2467932857844,51.92685292733072],[4.24852870542202,51.92597141683024]]]],"type":"MultiPolygon"}
+}

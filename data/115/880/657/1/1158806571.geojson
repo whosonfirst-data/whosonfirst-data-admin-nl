@@ -1,0 +1,82 @@
+{
+  "id": 1158806571,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09570400",
+    "cbsnl:BU_NAAM":"Componistenbuurt",
+    "cbsnl:GM_CODE":"GM0957",
+    "cbsnl:GM_NAAM":"Roermond",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1799",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK095704",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":299061.707955,
+    "geom:bbox":"6.00764959853,51.1783176733,6.01798347559,51.1843637162",
+    "geom:latitude":51.181205,
+    "geom:longitude":6.012403,
+    "iso:country":"NL",
+    "lbl:latitude":51.181166,
+    "lbl:longitude":6.012403,
+    "mps:latitude":51.181166,
+    "mps:longitude":6.012403,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Componistenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Componistenbuurt"
+    ],
+    "reversegeo:latitude":51.181166,
+    "reversegeo:longitude":6.012403,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        1158818231,
+        404474511,
+        85633337,
+        101839309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"81b3e12e1df5fd0b1eaa15f3d1e66e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474511,
+            "locality_id":101839309,
+            "macrohood_id":1158818231,
+            "neighbourhood_id":1158806571,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806571,
+    "wof:lastmodified":1513404040,
+    "wof:name":"Componistenbuurt",
+    "wof:parent_id":1158818231,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.007649598531121,
+    51.17831767329804,
+    6.017983475588827,
+    51.184363716234046
+],
+  "geometry": {"coordinates":[[[[6.01012396858226,51.18436371623405],[6.01128515953187,51.18411172533243],[6.01284540574674,51.18382551929222],[6.01388858903258,51.18364893287328],[6.0145390954039,51.18347692704207],[6.01470145901982,51.18341481314057],[6.01582819427005,51.18295224400062],[6.01600409608539,51.18283200833273],[6.01731754463457,51.18193418026199],[6.01798347558883,51.18135497478424],[6.01638485415087,51.1805165957437],[6.01484629722063,51.17938455309864],[6.01395493747625,51.17864001378272],[6.01353397710468,51.17831767329804],[6.01096527902057,51.17856401631762],[6.00931515003912,51.17889927922816],[6.00883977319657,51.17905800793226],[6.00764959853112,51.17945734811406],[6.00821388363343,51.18063760003888],[6.00855321970252,51.18136073052516],[6.00888165594449,51.18197504141771],[6.00942063788133,51.18293737340284],[6.01012396858226,51.18436371623405]]]],"type":"MultiPolygon"}
+}

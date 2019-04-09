@@ -1,0 +1,80 @@
+{
+  "id": 1158826235,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05370301",
+    "cbsnl:BU_NAAM":"Dorp",
+    "cbsnl:GM_CODE":"GM0537",
+    "cbsnl:GM_NAAM":"Katwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2261",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK053703",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:area_square_m":532630.002249,
+    "geom:bbox":"4.41914692233,52.1906958981,4.43020868954,52.2013557736",
+    "geom:latitude":52.195934,
+    "geom:longitude":4.423675,
+    "iso:country":"NL",
+    "lbl:latitude":52.196609,
+    "lbl:longitude":4.42357,
+    "mps:latitude":52.196609,
+    "mps:longitude":4.42357,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Dorp"
+    ],
+    "name:nld_x_preferred":[
+        "Dorp"
+    ],
+    "reversegeo:latitude":52.196609,
+    "reversegeo:longitude":4.42357,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474191,
+        85633337,
+        101754661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"65698b023d8c3bfbd078f97f9c900143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474191,
+            "locality_id":101754661,
+            "neighbourhood_id":1158826235,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826235,
+    "wof:lastmodified":1513588051,
+    "wof:name":"Dorp",
+    "wof:parent_id":101754661,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.419146922327202,
+    52.190695898128,
+    4.430208689538938,
+    52.2013557736273
+],
+  "geometry": {"coordinates":[[[[4.41985611022183,52.19783626900616],[4.42007644267528,52.19823637243064],[4.42184175879301,52.19993783536139],[4.42376934074772,52.2013557736273],[4.42477062811135,52.20089935109515],[4.42655388898074,52.19973470959469],[4.42853878777689,52.19814360392044],[4.42971524275143,52.197174493763],[4.42951416126509,52.19719098321515],[4.43020868953894,52.19611593221462],[4.42910582957676,52.19577245946714],[4.42782442191899,52.19517611916321],[4.42654531026581,52.19444299256457],[4.42527691702521,52.19361219005903],[4.42489510438882,52.1925133318595],[4.42476229504342,52.19152520909991],[4.42481262671428,52.19078154710143],[4.42226838451392,52.19070403553058],[4.42017568118933,52.190695898128],[4.42025752728357,52.1910156578494],[4.4194477672055,52.19344769564634],[4.41920239661446,52.19483888966083],[4.41916664952713,52.19590625211465],[4.4191469223272,52.19655157029039],[4.41985611022183,52.19783626900616]]]],"type":"MultiPolygon"}
+}

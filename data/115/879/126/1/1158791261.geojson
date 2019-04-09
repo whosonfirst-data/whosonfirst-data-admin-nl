@@ -1,0 +1,81 @@
+{
+  "id": 1158791261,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16801209",
+    "cbsnl:BU_NAAM":"Verspreide huizen Eexterveenschekanaal",
+    "cbsnl:GM_CODE":"GM1680",
+    "cbsnl:GM_NAAM":"Aa en Hunze",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"128",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK168012",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000289,
+    "geom:area_square_m":2149754.693987,
+    "geom:bbox":"6.80451806702,53.0458768052,6.84462332502,53.0691808863",
+    "geom:latitude":53.057217,
+    "geom:longitude":6.823576,
+    "iso:country":"NL",
+    "lbl:latitude":53.057095,
+    "lbl:longitude":6.82357,
+    "mps:latitude":53.057095,
+    "mps:longitude":6.82357,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen Eexterveenschekanaal"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen Eexterveenschekanaal"
+    ],
+    "reversegeo:latitude":53.057095,
+    "reversegeo:longitude":6.82357,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474593,
+        85633337,
+        1158792069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5e1e0b1716b87511207cf747d9c8b49b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474593,
+            "locality_id":1158792069,
+            "neighbourhood_id":1158791261,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791261,
+    "wof:lastmodified":1513292328,
+    "wof:name":"Verspreide huizen Eexterveenschekanaal",
+    "wof:parent_id":1158792069,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.804518067019219,
+    53.04587680515222,
+    6.844623325018618,
+    53.06918088630888
+],
+  "geometry": {"coordinates":[[[[6.81152367137286,53.06889103742563],[6.81213608710503,53.06918088630888],[6.81227356162647,53.06900793200878],[6.83531531654863,53.05440394467335],[6.8405272482164,53.0510986155985],[6.84462332501862,53.04859862618201],[6.84241661921343,53.0483311512606],[6.8402427355774,53.04805481274047],[6.8379523237519,53.04775625407318],[6.83525379690754,53.04681101437326],[6.83321776286447,53.04587680515222],[6.83159864563259,53.04696023514601],[6.81116641821159,53.06054223110137],[6.80458657101062,53.06499936214015],[6.80451806701922,53.0651860973046],[6.80526436508666,53.06592375545017],[6.81152367137286,53.06889103742563]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158787541,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03070301",
+    "cbsnl:BU_NAAM":"Rivierenbuurt-West",
+    "cbsnl:GM_CODE":"GM0307",
+    "cbsnl:GM_NAAM":"Amersfoort",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1595",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK030703",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":185764.014214,
+    "geom:bbox":"5.35755651682,52.1602702617,5.36514829033,52.1647163021",
+    "geom:latitude":52.162638,
+    "geom:longitude":5.361055,
+    "iso:country":"NL",
+    "lbl:latitude":52.162569,
+    "lbl:longitude":5.361055,
+    "mps:latitude":52.162569,
+    "mps:longitude":5.361055,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Rivierenbuurt-West"
+    ],
+    "name:nld_x_preferred":[
+        "Rivierenbuurt-West"
+    ],
+    "reversegeo:latitude":52.162569,
+    "reversegeo:longitude":5.361055,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        1158790199,
+        404473971,
+        85633337,
+        101751821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3d731e38108eb16478c5d0c1bad68793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473971,
+            "locality_id":101751821,
+            "macrohood_id":1158790199,
+            "neighbourhood_id":1158787541,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158787541,
+    "wof:lastmodified":1513621936,
+    "wof:name":"Rivierenbuurt-West",
+    "wof:parent_id":1158790199,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.357556516820338,
+    52.16027026173952,
+    5.365148290334283,
+    52.16471630207908
+],
+  "geometry": {"coordinates":[[[[5.35792571318048,52.16471497702206],[5.35797786105814,52.16471630207908],[5.35957882456174,52.16464039637837],[5.36075177098915,52.16450179140593],[5.3622483839912,52.16426254227469],[5.36514829033428,52.16380622449818],[5.36512399620759,52.16375342476741],[5.36455857491352,52.16264323896359],[5.36430960869598,52.16212591866137],[5.36401465513767,52.16146722714953],[5.36372529861483,52.16079831590331],[5.36351714572509,52.16027026173952],[5.36274113132034,52.1604010404165],[5.36035040088059,52.16080390166228],[5.35945566963724,52.16100445000472],[5.35875288747532,52.16116679409697],[5.35827556596784,52.1611836835377],[5.35804584497646,52.16124320847243],[5.35795647799806,52.16130878006857],[5.35767414597721,52.16191919680222],[5.35755651682034,52.16261832855926],[5.35756825123567,52.16330745296091],[5.35770571684488,52.16427099178842],[5.35774390524122,52.16436327112233],[5.35788402568186,52.16465231190911],[5.35792571318048,52.16471497702206]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158803375,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01890200",
+    "cbsnl:BU_NAAM":"Hooge-Hexel kern",
+    "cbsnl:GM_CODE":"GM0189",
+    "cbsnl:GM_NAAM":"Wierden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"55",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK018902",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":402541.309029,
+    "geom:bbox":"6.55692547709,52.3921413563,6.56672712604,52.4024781438",
+    "geom:latitude":52.396843,
+    "geom:longitude":6.562168,
+    "iso:country":"NL",
+    "lbl:latitude":52.396829,
+    "lbl:longitude":6.562243,
+    "mps:latitude":52.396829,
+    "mps:longitude":6.562243,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hooge-Hexel kern"
+    ],
+    "name:nld_x_preferred":[
+        "Hooge-Hexel kern"
+    ],
+    "reversegeo:latitude":52.396829,
+    "reversegeo:longitude":6.562243,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473859,
+        85633337,
+        1158805693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"12d5407fa6404f6867fcf770210bc5b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473859,
+            "locality_id":1158805693,
+            "neighbourhood_id":1158803375,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803375,
+    "wof:lastmodified":1513524335,
+    "wof:name":"Hooge-Hexel kern",
+    "wof:parent_id":1158805693,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.556925477090473,
+    52.39214135626105,
+    6.56672712604369,
+    52.40247814378235
+],
+  "geometry": {"coordinates":[[[[6.56301417056337,52.39214135626105],[6.55692547709047,52.39574954565781],[6.56217469688267,52.40247814378235],[6.56672712604369,52.39700503949122],[6.5644478659988,52.39285263657755],[6.56301417056337,52.39214135626105]]]],"type":"MultiPolygon"}
+}

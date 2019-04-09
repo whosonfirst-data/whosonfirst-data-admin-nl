@@ -1,0 +1,80 @@
+{
+  "id": 1158825163,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04895077",
+    "cbsnl:BU_NAAM":"BT Bijdorp",
+    "cbsnl:GM_CODE":"GM0489",
+    "cbsnl:GM_NAAM":"Barendrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1326",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK048950",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":320311.928468,
+    "geom:bbox":"4.51571573459,51.8601247758,4.52864885806,51.8655180952",
+    "geom:latitude":51.863074,
+    "geom:longitude":4.52071,
+    "iso:country":"NL",
+    "lbl:latitude":51.862992,
+    "lbl:longitude":4.51994,
+    "mps:latitude":51.862992,
+    "mps:longitude":4.51994,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "BT Bijdorp"
+    ],
+    "name:nld_x_preferred":[
+        "BT Bijdorp"
+    ],
+    "reversegeo:latitude":51.862992,
+    "reversegeo:longitude":4.51994,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831083,
+        85633337,
+        101754615,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c47ac35237c98416dbb0d83fcd2e2bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754615,
+            "macrohood_id":1158831083,
+            "neighbourhood_id":1158825163,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825163,
+    "wof:lastmodified":1513587972,
+    "wof:name":"BT Bijdorp",
+    "wof:parent_id":1158831083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.515715734586667,
+    51.860124775794056,
+    4.528648858056024,
+    51.86551809518929
+],
+  "geometry": {"coordinates":[[[[4.51571573458667,51.86551809518929],[4.51776823346307,51.8653330200568],[4.52122524954799,51.86492623856817],[4.52594804536975,51.86438161664715],[4.52864885805602,51.86404850965364],[4.52864622169077,51.86263490169264],[4.52524866683706,51.86259187602344],[4.5175693297209,51.86015332072678],[4.51597556229217,51.86012477579406],[4.51582433351863,51.86205184465339],[4.51579971751355,51.86332352893847],[4.5157686650156,51.86492760959149],[4.51571573458667,51.86551809518929]]]],"type":"MultiPolygon"}
+}

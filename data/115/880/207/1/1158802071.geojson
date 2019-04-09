@@ -1,0 +1,80 @@
+{
+  "id": 1158802071,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01480007",
+    "cbsnl:BU_NAAM":"Dalfsen-Ankummer-Es I",
+    "cbsnl:GM_CODE":"GM0148",
+    "cbsnl:GM_NAAM":"Dalfsen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"801",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK014800",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":225814.386062,
+    "geom:bbox":"6.25387265846,52.5155031257,6.2602744555,52.5210487597",
+    "geom:latitude":52.518336,
+    "geom:longitude":6.257053,
+    "iso:country":"NL",
+    "lbl:latitude":52.518358,
+    "lbl:longitude":6.257053,
+    "mps:latitude":52.518358,
+    "mps:longitude":6.257053,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ankummer-Es I"
+    ],
+    "name:nld_x_preferred":[
+        "Ankummer-Es I"
+    ],
+    "reversegeo:latitude":52.518358,
+    "reversegeo:longitude":6.257053,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473823,
+        85633337,
+        101803703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"bf51603e9a3d447cfd6edf07bb676b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473823,
+            "locality_id":101803703,
+            "neighbourhood_id":1158802071,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802071,
+    "wof:lastmodified":1513524236,
+    "wof:name":"Ankummer-Es I",
+    "wof:parent_id":101803703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.25387265845723,
+    52.515503125717714,
+    6.260274455503017,
+    52.52104875973007
+],
+  "geometry": {"coordinates":[[[[6.25438186804343,52.52104875973007],[6.25453333868845,52.52103613514262],[6.25744163597211,52.52079716484012],[6.2597274696622,52.52060876322203],[6.26008976208174,52.52059345935434],[6.26006631379599,52.52045544544361],[6.26027445550302,52.51861760512166],[6.26003645796238,52.51731893119567],[6.25990466989043,52.51659977052731],[6.25960197572918,52.51559902046635],[6.25969445935168,52.51550312571771],[6.25942078450789,52.51552760788471],[6.25733823849773,52.51585579065821],[6.25520518692775,52.51608712525547],[6.25389876047173,52.51603713466006],[6.25387265845723,52.51762731183197],[6.25402709603663,52.51919650967044],[6.25438186804343,52.52104875973007]]]],"type":"MultiPolygon"}
+}

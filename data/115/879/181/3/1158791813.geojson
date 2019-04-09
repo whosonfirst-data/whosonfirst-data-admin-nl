@@ -1,0 +1,80 @@
+{
+  "id": 1158791813,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17310200",
+    "cbsnl:BU_NAAM":"Hooghalen",
+    "cbsnl:GM_CODE":"GM1731",
+    "cbsnl:GM_NAAM":"Midden-Drenthe",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"174",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK173102",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":605725.454488,
+    "geom:bbox":"6.53206662322,52.9150467748,6.54487940602,52.9271592861",
+    "geom:latitude":52.920952,
+    "geom:longitude":6.539596,
+    "iso:country":"NL",
+    "lbl:latitude":52.920264,
+    "lbl:longitude":6.540227,
+    "mps:latitude":52.920264,
+    "mps:longitude":6.540227,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hooghalen"
+    ],
+    "name:nld_x_preferred":[
+        "Hooghalen"
+    ],
+    "reversegeo:latitude":52.920264,
+    "reversegeo:longitude":6.540227,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474649,
+        85633337,
+        1158792213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"169a54c676b1a2dc7311f2b057c1867e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474649,
+            "locality_id":1158792213,
+            "neighbourhood_id":1158791813,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791813,
+    "wof:lastmodified":1513292366,
+    "wof:name":"Hooghalen",
+    "wof:parent_id":1158792213,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.532066623216109,
+    52.915046774794305,
+    6.544879406020189,
+    52.92715928611895
+],
+  "geometry": {"coordinates":[[[[6.53206662321611,52.91970565042758],[6.5343575749815,52.92562978828543],[6.53449932612192,52.92553293792412],[6.53675107861727,52.9232819060411],[6.54108019307394,52.92329687932314],[6.54203856443354,52.92624214347182],[6.54360264251283,52.92605849725716],[6.54379101022869,52.92715928611895],[6.54450683865457,52.9270675331481],[6.54487940602019,52.9225624750371],[6.54464457579211,52.9206566634544],[6.54269370926753,52.91504677479431],[6.54107953458599,52.9150607028232],[6.54084949085615,52.91610586878472],[6.54071316397758,52.91607881146067],[6.54019473192344,52.91606890470298],[6.5391191650365,52.91645216128985],[6.53898176410651,52.91747153982658],[6.5388695326827,52.91746083504303],[6.5374233597033,52.91742647026483],[6.53682672339934,52.91775126144496],[6.53754397592008,52.91889920444815],[6.53206662321611,52.91970565042758]]]],"type":"MultiPolygon"}
+}

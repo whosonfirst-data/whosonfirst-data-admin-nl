@@ -1,0 +1,80 @@
+{
+  "id": 1158803881,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17350501",
+    "cbsnl:BU_NAAM":"Diepenheim-Zuid",
+    "cbsnl:GM_CODE":"GM1735",
+    "cbsnl:GM_NAAM":"Hof van Twente",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"288",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK173505",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:area_square_m":477626.286384,
+    "geom:bbox":"6.54122891512,52.1953160766,6.56060363532,52.2007029329",
+    "geom:latitude":52.19816,
+    "geom:longitude":6.549985,
+    "iso:country":"NL",
+    "lbl:latitude":52.19814,
+    "lbl:longitude":6.549985,
+    "mps:latitude":52.19814,
+    "mps:longitude":6.549985,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Diepenheim-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Diepenheim-Zuid"
+    ],
+    "reversegeo:latitude":52.19814,
+    "reversegeo:longitude":6.549985,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474653,
+        85633337,
+        101807175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f804496a22f80281781694948c0fbf9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474653,
+            "locality_id":101807175,
+            "neighbourhood_id":1158803881,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803881,
+    "wof:lastmodified":1513524368,
+    "wof:name":"Diepenheim-Zuid",
+    "wof:parent_id":101807175,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.541228915117901,
+    52.19531607661861,
+    6.560603635317489,
+    52.200702932874776
+],
+  "geometry": {"coordinates":[[[[6.54128777796275,52.20063961109555],[6.54330261254258,52.20048786893343],[6.54608136258752,52.20034629254273],[6.54705874288377,52.2006361245896],[6.5480346703887,52.20070293287478],[6.55006035441644,52.20057344235506],[6.55243667429814,52.20009495252649],[6.55368810796929,52.19956237057754],[6.55468960804162,52.19914881810299],[6.55598902104107,52.1988266901397],[6.5577067896374,52.19839534276807],[6.56032316494585,52.19776178631555],[6.56058207461801,52.19743000178188],[6.56057978497654,52.19701317436613],[6.56060363531749,52.19630451545856],[6.55570924837597,52.19669099909352],[6.55290958542384,52.19625043329793],[6.54793251529517,52.19531607661861],[6.54560559281715,52.19628022379014],[6.54380845844048,52.19737986120002],[6.54212175710378,52.19850198496212],[6.54142091337027,52.19933776237638],[6.5412289151179,52.20011435059452],[6.54128777796275,52.20063961109555]]]],"type":"MultiPolygon"}
+}

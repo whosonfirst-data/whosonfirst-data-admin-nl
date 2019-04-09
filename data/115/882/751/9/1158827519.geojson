@@ -1,0 +1,80 @@
+{
+  "id": 1158827519,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06290110",
+    "cbsnl:BU_NAAM":"Weteringpark",
+    "cbsnl:GM_CODE":"GM0629",
+    "cbsnl:GM_NAAM":"Wassenaar",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1303",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK062901",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":216602.998858,
+    "geom:bbox":"4.4037072239,52.1496904937,4.41382906184,52.155683569",
+    "geom:latitude":52.152752,
+    "geom:longitude":4.409085,
+    "iso:country":"NL",
+    "lbl:latitude":52.152732,
+    "lbl:longitude":4.409085,
+    "mps:latitude":52.152732,
+    "mps:longitude":4.409085,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Weteringpark"
+    ],
+    "name:nld_x_preferred":[
+        "Weteringpark"
+    ],
+    "reversegeo:latitude":52.152732,
+    "reversegeo:longitude":4.409085,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831323,
+        85633337,
+        101754719,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1f877a4bb50c668f48c89573e18371ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754719,
+            "macrohood_id":1158831323,
+            "neighbourhood_id":1158827519,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827519,
+    "wof:lastmodified":1513588154,
+    "wof:name":"Weteringpark",
+    "wof:parent_id":1158831323,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.403707223898731,
+    52.14969049367083,
+    4.413829061841862,
+    52.15568356898368
+],
+  "geometry": {"coordinates":[[[[4.41382906184186,52.15151159885661],[4.4115399175944,52.14969049367083],[4.41072714670723,52.15007111728469],[4.40982859169646,52.15055270597033],[4.40870770267678,52.15105744478822],[4.4076144361198,52.15161829805196],[4.40643799095461,52.15213435047408],[4.40558601843637,52.15244551285839],[4.40426163174183,52.15288110252911],[4.40370722389873,52.15300579026312],[4.40456693361035,52.15350544548063],[4.40424624979272,52.15369742733421],[4.40737051015212,52.15568356898368],[4.40967685618645,52.15419389307002],[4.40969177154382,52.15420436791653],[4.41015329038627,52.15433058211355],[4.41061659331743,52.15437521330728],[4.41097056360106,52.15436454561576],[4.41163756644275,52.1541932789793],[4.4120183938994,52.15396524711224],[4.41224567565467,52.15368154895533],[4.41232297734567,52.15317902953239],[4.41223901386,52.15297435261858],[4.41226497973182,52.15279778339058],[4.41222678633688,52.1525467120433],[4.41382906184186,52.15151159885661]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158807891,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19030502",
+    "cbsnl:BU_NAAM":"Noorbeek",
+    "cbsnl:GM_CODE":"GM1903",
+    "cbsnl:GM_NAAM":"Eijsden-Margraten",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"144",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK190305",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000114,
+    "geom:area_square_m":895130.349878,
+    "geom:bbox":"5.80400131565,50.7653285991,5.82742882924,50.7734982413",
+    "geom:latitude":50.769972,
+    "geom:longitude":5.814637,
+    "iso:country":"NL",
+    "lbl:latitude":50.769522,
+    "lbl:longitude":5.814412,
+    "mps:latitude":50.769522,
+    "mps:longitude":5.814412,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Noorbeek"
+    ],
+    "name:nld_x_preferred":[
+        "Noorbeek"
+    ],
+    "reversegeo:latitude":50.769522,
+    "reversegeo:longitude":5.814412,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        1158805871,
+        85633337,
+        101810585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3a4e40d2dfdec6b2dffb53d2662c9d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810585,
+            "neighbourhood_id":1158807891,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158807891,
+    "wof:lastmodified":1513404151,
+    "wof:name":"Noorbeek",
+    "wof:parent_id":101810585,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.804001315649273,
+    50.765328599078615,
+    5.82742882923632,
+    50.77349824127719
+],
+  "geometry": {"coordinates":[[[[5.80711609769119,50.77346172055323],[5.80930325056185,50.77281188564715],[5.81189453721828,50.77249788569935],[5.8139483317299,50.77246053619552],[5.81560393303495,50.77259738344303],[5.8174559344082,50.77282139916613],[5.81922501826658,50.77313024641987],[5.82131806567181,50.77349824127719],[5.82438044309278,50.77189116391951],[5.8269087092868,50.77092593587837],[5.82742882923632,50.77076945673058],[5.82735430915969,50.77068884110282],[5.82592960673958,50.7696229051049],[5.82483910584574,50.76911355532867],[5.82310160977206,50.76854764945508],[5.82122613845212,50.76807212710835],[5.81971595683737,50.76786290310777],[5.81604665666995,50.76698135918114],[5.80985885435495,50.76532859907861],[5.80850046682903,50.76635913638197],[5.80709108756573,50.76770894722294],[5.80594899385866,50.76869484679295],[5.80505533946472,50.76987646496416],[5.80400131564927,50.77199883542003],[5.80703225494889,50.77342438353978],[5.80711609769119,50.77346172055323]]]],"type":"MultiPolygon"}
+}

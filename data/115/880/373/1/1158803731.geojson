@@ -1,0 +1,80 @@
+{
+  "id": 1158803731,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17080301",
+    "cbsnl:BU_NAAM":"Ossenzijl",
+    "cbsnl:GM_CODE":"GM1708",
+    "cbsnl:GM_NAAM":"Steenwijkerland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"97",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170803",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000183,
+    "geom:area_square_m":1368057.792414,
+    "geom:bbox":"5.90964985106,52.7944527186,5.93475278869,52.8132908437",
+    "geom:latitude":52.804604,
+    "geom:longitude":5.92313,
+    "iso:country":"NL",
+    "lbl:latitude":52.805755,
+    "lbl:longitude":5.92398,
+    "mps:latitude":52.805755,
+    "mps:longitude":5.92398,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ossenzijl"
+    ],
+    "name:nld_x_preferred":[
+        "Ossenzijl"
+    ],
+    "reversegeo:latitude":52.805755,
+    "reversegeo:longitude":5.92398,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474621,
+        85633337,
+        1158805717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"095e190dffd742be5a4958a074640a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474621,
+            "locality_id":1158805717,
+            "neighbourhood_id":1158803731,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803731,
+    "wof:lastmodified":1513524358,
+    "wof:name":"Ossenzijl",
+    "wof:parent_id":1158805717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.909649851056785,
+    52.794452718593874,
+    5.934752788692071,
+    52.81329084366949
+],
+  "geometry": {"coordinates":[[[[5.91811061681858,52.81328947310371],[5.92054944644083,52.81122622250717],[5.9247450959169,52.81014973734266],[5.92738926302442,52.80814720147741],[5.92908191205026,52.80391009279825],[5.93455252858393,52.79765889336105],[5.93468153229747,52.79750777096414],[5.93475278869207,52.79583308217166],[5.93151301308154,52.79445271859387],[5.9284865484031,52.79518882506765],[5.92481666797421,52.79926412398498],[5.91943664392664,52.80414004130505],[5.9137092991636,52.80584489669245],[5.90964985105678,52.80971922737535],[5.9178028675946,52.81329084366949],[5.91811061681858,52.81328947310371]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158825179,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04895084",
+    "cbsnl:BU_NAAM":"BT Vaanpark 4",
+    "cbsnl:GM_CODE":"GM0489",
+    "cbsnl:GM_NAAM":"Barendrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1265",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK048950",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":181383.813139,
+    "geom:bbox":"4.50921463553,51.8578680059,4.51609515578,51.8633235289",
+    "geom:latitude":51.860809,
+    "geom:longitude":4.512845,
+    "iso:country":"NL",
+    "lbl:latitude":51.861328,
+    "lbl:longitude":4.513189,
+    "mps:latitude":51.861328,
+    "mps:longitude":4.513189,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "BT Vaanpark 4"
+    ],
+    "name:nld_x_preferred":[
+        "BT Vaanpark 4"
+    ],
+    "reversegeo:latitude":51.861328,
+    "reversegeo:longitude":4.513189,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831083,
+        85633337,
+        101754615,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3c9333546cad44bd3473fb4913e8b0b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754615,
+            "macrohood_id":1158831083,
+            "neighbourhood_id":1158825179,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825179,
+    "wof:lastmodified":1513587973,
+    "wof:name":"BT Vaanpark 4",
+    "wof:parent_id":1158831083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.509214635526575,
+    51.8578680058509,
+    4.516095155780599,
+    51.863323528938466
+],
+  "geometry": {"coordinates":[[[[4.51579971751355,51.86332352893847],[4.51582433351863,51.86205184465339],[4.51597556229217,51.86012477579406],[4.5160951557806,51.85860070171563],[4.51538721908863,51.85860872980322],[4.51525324373907,51.8589054754633],[4.51480450564359,51.85890214259357],[4.51488337009758,51.85979763994777],[4.51315209146773,51.85980293292415],[4.51298905902448,51.85829315714329],[4.51145325487516,51.85814276666594],[4.5116811108529,51.859613330342],[4.51097516842527,51.85964776501803],[4.51095006654795,51.85929028657197],[4.51043683451558,51.85930630469199],[4.51041212274442,51.85892897787947],[4.51005954368663,51.85892634480835],[4.50988617902865,51.85795242454223],[4.50921463552658,51.8578680058509],[4.50942777762996,51.8584452354262],[4.50969698419437,51.85959333607401],[4.5098029659065,51.86071561582422],[4.50965841299743,51.86157214554893],[4.50933135288449,51.86195232633806],[4.50973078431134,51.86223238508725],[4.51579971751355,51.86332352893847]]]],"type":"MultiPolygon"}
+}

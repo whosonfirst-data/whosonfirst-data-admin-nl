@@ -1,0 +1,80 @@
+{
+  "id": 1158820331,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04390501",
+    "cbsnl:BU_NAAM":"Overlanderstraat en omgeving",
+    "cbsnl:GM_CODE":"GM0439",
+    "cbsnl:GM_NAAM":"Purmerend",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2262",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK043905",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":456734.579759,
+    "geom:bbox":"4.97374678781,52.4962652736,4.98685182926,52.5066940699",
+    "geom:latitude":52.501404,
+    "geom:longitude":4.980525,
+    "iso:country":"NL",
+    "lbl:latitude":52.501413,
+    "lbl:longitude":4.980625,
+    "mps:latitude":52.501413,
+    "mps:longitude":4.980625,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Overlanderstraat en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Overlanderstraat en omgeving"
+    ],
+    "reversegeo:latitude":52.501413,
+    "reversegeo:longitude":4.980625,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823231,
+        85633337,
+        101751889,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b01ecb10da04f70050eb243741b5689b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751889,
+            "macrohood_id":1158823231,
+            "neighbourhood_id":1158820331,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158820331,
+    "wof:lastmodified":1513464220,
+    "wof:name":"Overlanderstraat en omgeving",
+    "wof:parent_id":1158823231,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.973746787810102,
+    52.4962652735948,
+    4.98685182926084,
+    52.50669406985594
+],
+  "geometry": {"coordinates":[[[[4.9737467878101,52.49880682131721],[4.9755648430222,52.50070359101352],[4.97518031930737,52.5014701179635],[4.97832172435026,52.50186463575191],[4.98230652431513,52.50633128086009],[4.9857560925364,52.50669406985594],[4.98685182926084,52.50458095748085],[4.98186520496131,52.49957376746361],[4.98225041373957,52.49873054560148],[4.98062917250828,52.49718955589846],[4.97836859938857,52.49679785829598],[4.97793831959459,52.4962652735948],[4.97622951874589,52.4968674221344],[4.97520966544946,52.4983223754572],[4.9737467878101,52.49880682131721]]]],"type":"MultiPolygon"}
+}

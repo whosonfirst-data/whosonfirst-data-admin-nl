@@ -1,0 +1,82 @@
+{
+  "id": 1158806887,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09833105",
+    "cbsnl:BU_NAAM":"Maasveld II",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1331",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098331",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":332209.694335,
+    "geom:bbox":"6.13105218488,51.3448896789,6.14324482417,51.3527067352",
+    "geom:latitude":51.348647,
+    "geom:longitude":6.136893,
+    "iso:country":"NL",
+    "lbl:latitude":51.348481,
+    "lbl:longitude":6.136477,
+    "mps:latitude":51.348481,
+    "mps:longitude":6.136477,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Maasveld II"
+    ],
+    "name:nld_x_preferred":[
+        "Maasveld II"
+    ],
+    "reversegeo:latitude":51.348481,
+    "reversegeo:longitude":6.136477,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        1158818253,
+        404474525,
+        85633337,
+        101839319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7b95e1251b59d1169f8f9c3243876735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839319,
+            "macrohood_id":1158818253,
+            "neighbourhood_id":1158806887,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806887,
+    "wof:lastmodified":1513404062,
+    "wof:name":"Maasveld II",
+    "wof:parent_id":1158818253,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.13105218487707,
+    51.34488967890202,
+    6.143244824168053,
+    51.35270673518773
+],
+  "geometry": {"coordinates":[[[[6.13746056434869,51.35153887587674],[6.13938331237072,51.35270673518773],[6.14324482416805,51.3494879236024],[6.14249110083454,51.3492213442828],[6.14207955023354,51.34942087288562],[6.13825421618541,51.34716238445927],[6.13794157822434,51.34683000735377],[6.13781343896584,51.34645689063496],[6.13826417676924,51.34558564044811],[6.13800659460164,51.34554595352088],[6.13798012335748,51.3455946652662],[6.13771226201627,51.34554065785056],[6.13748905970461,51.34584592579817],[6.13639743931682,51.3454502438477],[6.13574079031156,51.34602077790282],[6.13382284578091,51.34488967890202],[6.13140456996778,51.34681353288615],[6.13105218487707,51.34756277398675],[6.13746056434869,51.35153887587674]]]],"type":"MultiPolygon"}
+}

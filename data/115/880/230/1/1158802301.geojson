@@ -1,0 +1,82 @@
+{
+  "id": 1158802301,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01530006",
+    "cbsnl:BU_NAAM":"Veldkamp-Getfert-West",
+    "cbsnl:GM_CODE":"GM0153",
+    "cbsnl:GM_NAAM":"Enschede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3062",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK015300",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":380513.222716,
+    "geom:bbox":"6.87673489338,52.2100286434,6.88935455227,52.2159878119",
+    "geom:latitude":52.212872,
+    "geom:longitude":6.883085,
+    "iso:country":"NL",
+    "lbl:latitude":52.213068,
+    "lbl:longitude":6.883596,
+    "mps:latitude":52.213068,
+    "mps:longitude":6.883596,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Veldkamp-Getfert-West"
+    ],
+    "name:nld_x_preferred":[
+        "Veldkamp-Getfert-West"
+    ],
+    "reversegeo:latitude":52.213068,
+    "reversegeo:longitude":6.883596,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805835,
+        404473827,
+        85633337,
+        101751871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"95ed04684a44adf7b780d9ca04f67f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473827,
+            "locality_id":101751871,
+            "macrohood_id":1158805835,
+            "neighbourhood_id":1158802301,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802301,
+    "wof:lastmodified":1513524253,
+    "wof:name":"Veldkamp-Getfert-West",
+    "wof:parent_id":1158805835,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.876734893383421,
+    52.21002864337242,
+    6.889354552266264,
+    52.21598781191632
+],
+  "geometry": {"coordinates":[[[[6.88759801703121,52.21429349604401],[6.88903032058496,52.21293443868247],[6.88935455226626,52.21002864337242],[6.88183732488818,52.2108289172526],[6.87930687641012,52.21109048932723],[6.87755805323177,52.212072385814],[6.87682398150977,52.21290191324153],[6.87691586545591,52.21399154686488],[6.87673489338342,52.21400497552737],[6.87675907762154,52.21410814991636],[6.87693481500845,52.21409319618763],[6.8770697672059,52.21459749303546],[6.87749801135718,52.21598781191632],[6.87856686654794,52.21577417434567],[6.87895295940282,52.2157054635773],[6.87986300298863,52.21575866553246],[6.87993503414677,52.21499506338048],[6.88019490282577,52.21488732989005],[6.87988688410356,52.21458742412554],[6.88024291314437,52.21445293290932],[6.88053214530609,52.21443001579877],[6.88105163819616,52.21449565920064],[6.8817472071945,52.21466980232693],[6.88206430115499,52.21477651883953],[6.88244431691652,52.21512315723189],[6.88277329134135,52.21535008098507],[6.88326887177919,52.21559329207838],[6.88759801703121,52.21429349604401]]]],"type":"MultiPolygon"}
+}

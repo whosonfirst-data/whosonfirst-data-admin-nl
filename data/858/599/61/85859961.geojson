@@ -1,0 +1,97 @@
+{
+  "id": 85859961,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00740108",
+    "cbsnl:BU_NAAM":"Het meer",
+    "cbsnl:GM_CODE":"GM0074",
+    "cbsnl:GM_NAAM":"Heerenveen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"316",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK007401",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5065920.70345,
+    "geom:bbox":"5.939921,52.959075,5.939921,52.959075",
+    "geom:latitude":52.959075,
+    "geom:longitude":5.939921,
+    "iso:country":"NL",
+    "lbl:latitude":52.959075,
+    "lbl:longitude":5.939921,
+    "mps:latitude":52.954296,
+    "mps:longitude":5.967389,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:dut_x_preferred":[
+        "Het meer"
+    ],
+    "name:eng_x_preferred":[
+        "Het meer"
+    ],
+    "name:nld_x_preferred":[
+        "Het Meer"
+    ],
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        404473771,
+        85633337,
+        101837957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2754236,
+        "gp:id":20064022,
+        "qs:id":1123051,
+        "qs_pg:id":1123051,
+        "tgn:id":7266598
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"f3c04e0ba87e22776681a40d243895e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473771,
+            "locality_id":101837957,
+            "neighbourhood_id":85859961,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":85859961,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531870400,
+    "wof:name":"Het Meer",
+    "wof:parent_id":101837957,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.939921,
+    52.959075,
+    5.939921,
+    52.959075
+],
+  "geometry": {"coordinates":[5.939921,52.959075],"type":"Point"}
+}

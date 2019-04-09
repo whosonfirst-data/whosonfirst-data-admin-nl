@@ -1,0 +1,80 @@
+{
+  "id": 1158802003,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01412000",
+    "cbsnl:BU_NAAM":"Aadorp-West",
+    "cbsnl:GM_CODE":"GM0141",
+    "cbsnl:GM_NAAM":"Almelo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"243",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK014120",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000092,
+    "geom:area_square_m":693809.313054,
+    "geom:bbox":"6.61846283266,52.3665169939,6.63316122949,52.3781054624",
+    "geom:latitude":52.372623,
+    "geom:longitude":6.624829,
+    "iso:country":"NL",
+    "lbl:latitude":52.372766,
+    "lbl:longitude":6.624717,
+    "mps:latitude":52.372766,
+    "mps:longitude":6.624717,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Aadorp-West"
+    ],
+    "name:nld_x_preferred":[
+        "Aadorp-West"
+    ],
+    "reversegeo:latitude":52.372766,
+    "reversegeo:longitude":6.624717,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473819,
+        85633337,
+        101754769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a660193f0db4b8303d56178f8a534339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473819,
+            "locality_id":101754769,
+            "neighbourhood_id":1158802003,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802003,
+    "wof:lastmodified":1513524231,
+    "wof:name":"Aadorp-West",
+    "wof:parent_id":101754769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.61846283266094,
+    52.36651699386367,
+    6.633161229487715,
+    52.378105462420564
+],
+  "geometry": {"coordinates":[[[[6.62582575670223,52.37810546242056],[6.63316122948772,52.3726182347465],[6.63312512943796,52.37259923393573],[6.62815293121961,52.37005183862737],[6.62631612502462,52.36862141230393],[6.62439359112203,52.36704157741677],[6.62397905357198,52.36651699386367],[6.61846283266094,52.37110303007083],[6.61864027716925,52.37455050961615],[6.62582575670223,52.37810546242056]]]],"type":"MultiPolygon"}
+}

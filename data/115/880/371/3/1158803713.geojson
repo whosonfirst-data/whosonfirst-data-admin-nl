@@ -1,0 +1,80 @@
+{
+  "id": 1158803713,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17080022",
+    "cbsnl:BU_NAAM":"Onna",
+    "cbsnl:GM_CODE":"GM1708",
+    "cbsnl:GM_NAAM":"Steenwijkerland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"152",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170800",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:area_square_m":155499.882317,
+    "geom:bbox":"6.13969271037,52.7720860928,6.15224340469,52.775949555",
+    "geom:latitude":52.774379,
+    "geom:longitude":6.146473,
+    "iso:country":"NL",
+    "lbl:latitude":52.77386,
+    "lbl:longitude":6.146901,
+    "mps:latitude":52.77386,
+    "mps:longitude":6.146901,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Onna"
+    ],
+    "name:nld_x_preferred":[
+        "Onna"
+    ],
+    "reversegeo:latitude":52.77386,
+    "reversegeo:longitude":6.146901,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474621,
+        85633337,
+        1158805711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5895b55a4e38c06139797e3f4cd67f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474621,
+            "locality_id":1158805711,
+            "neighbourhood_id":1158803713,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803713,
+    "wof:lastmodified":1513524357,
+    "wof:name":"Onna",
+    "wof:parent_id":1158805711,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.139692710374651,
+    52.772086092805495,
+    6.152243404693401,
+    52.77594955500422
+],
+  "geometry": {"coordinates":[[[[6.1522434046934,52.77485738792895],[6.14985817918161,52.77409923537515],[6.14881851596485,52.77360598184364],[6.14807327549639,52.77309230188963],[6.14741503628498,52.77250729098696],[6.14625883359697,52.77208609280549],[6.14461379235388,52.77404338977605],[6.1422812184323,52.77373691212041],[6.13969271037465,52.77394988579401],[6.13988715860584,52.77498441632498],[6.14232878100857,52.77479034419304],[6.14439693622475,52.77513445057637],[6.14616728749626,52.77530180114721],[6.14770281080185,52.77550657329905],[6.1489163723529,52.77583808066745],[6.15106879592881,52.77594955500422],[6.15127205730085,52.77578760741457],[6.1522434046934,52.77485738792895]]]],"type":"MultiPolygon"}
+}

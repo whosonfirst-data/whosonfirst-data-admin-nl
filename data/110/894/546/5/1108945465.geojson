@@ -1,0 +1,67 @@
+{
+  "id": 1108945465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-10-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.82496895962,52.3437392225,4.82496895962,52.3437392225",
+    "geom:latitude":52.343739,
+    "geom:longitude":4.824969,
+    "iso:country":"NL",
+    "lbl:latitude":52.343739,
+    "lbl:longitude":4.824969,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633337,
+        101751893,
+        1108802279,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:created":1491365068,
+    "wof:geomhash":"a6e141c23ba1fcbc0d6987358f155d87",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108802279,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "neighbourhood_id":1108945465,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1108945465,
+    "wof:lastmodified":1513269528,
+    "wof:name":"Park Haagseweg",
+    "wof:parent_id":1108802279,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158844267
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.82496895961831,
+    52.34373922254505,
+    4.82496895961831,
+    52.34373922254505
+],
+  "geometry": {"coordinates":[4.82496895961831,52.34373922254505],"type":"Point"}
+}

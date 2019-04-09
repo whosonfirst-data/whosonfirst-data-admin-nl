@@ -1,0 +1,80 @@
+{
+  "id": 1158825849,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05051906",
+    "cbsnl:BU_NAAM":"Krabbegors",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"488",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050519",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":588691.033877,
+    "geom:bbox":"4.62122157573,51.7928289816,4.64364673159,51.8057099212",
+    "geom:latitude":51.800308,
+    "geom:longitude":4.635288,
+    "iso:country":"NL",
+    "lbl:latitude":51.799588,
+    "lbl:longitude":4.635118,
+    "mps:latitude":51.799588,
+    "mps:longitude":4.635118,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Krabbegors"
+    ],
+    "name:nld_x_preferred":[
+        "Krabbegors"
+    ],
+    "reversegeo:latitude":51.799588,
+    "reversegeo:longitude":4.635118,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829571,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"2ebb08964f89255eb895515de6e0ec2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829571,
+            "neighbourhood_id":1158825849,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825849,
+    "wof:lastmodified":1513588021,
+    "wof:name":"Krabbegors",
+    "wof:parent_id":1158829571,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.621221575730003,
+    51.79282898163864,
+    4.643646731587619,
+    51.80570992119865
+],
+  "geometry": {"coordinates":[[[[4.62122157573,51.80080368213817],[4.62329524812037,51.80075997933525],[4.62603711865107,51.80102218457278],[4.62788799256276,51.80131312467005],[4.6301590353304,51.80168806816953],[4.63217886215544,51.80213104944889],[4.63490738606101,51.8028145137264],[4.63682608945969,51.80346675163862],[4.63833041437506,51.80399344714462],[4.63993743815676,51.80468849756808],[4.64175311577472,51.80559237353093],[4.64195779694757,51.80570992119865],[4.64364673158762,51.80480081599107],[4.63988729699918,51.80029116082158],[4.63890999459743,51.79905350470269],[4.63399578032887,51.79282898163864],[4.63402945292832,51.79436832848946],[4.63346951330867,51.79590386283369],[4.63286367653205,51.79700453918089],[4.63214537952318,51.79768715164437],[4.63048804132364,51.798940683822],[4.6296106121212,51.7994469924391],[4.62782087051373,51.7999601209222],[4.62122157573,51.80080368213817]]]],"type":"MultiPolygon"}
+}

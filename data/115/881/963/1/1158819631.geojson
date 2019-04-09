@@ -1,0 +1,80 @@
+{
+  "id": 1158819631,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03990502",
+    "cbsnl:BU_NAAM":"Oud Zuid",
+    "cbsnl:GM_CODE":"GM0399",
+    "cbsnl:GM_NAAM":"Heiloo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1796",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK039905",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":369709.926218,
+    "geom:bbox":"4.69689071595,52.5934938387,4.70881548653,52.6008990277",
+    "geom:latitude":52.596949,
+    "geom:longitude":4.702877,
+    "iso:country":"NL",
+    "lbl:latitude":52.59697,
+    "lbl:longitude":4.702787,
+    "mps:latitude":52.59697,
+    "mps:longitude":4.702787,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oud Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Oud Zuid"
+    ],
+    "reversegeo:latitude":52.59697,
+    "reversegeo:longitude":4.702787,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823319,
+        85633337,
+        101807337,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"59da971b86e14c0041a06761f844d0f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101807337,
+            "macrohood_id":1158823319,
+            "neighbourhood_id":1158819631,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158819631,
+    "wof:lastmodified":1513464162,
+    "wof:name":"Oud Zuid",
+    "wof:parent_id":1158823319,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.696890715947266,
+    52.5934938387183,
+    4.708815486530718,
+    52.60089902770754
+],
+  "geometry": {"coordinates":[[[[4.70881548653072,52.5983720024448],[4.70729935768938,52.5964814371814],[4.70656035369545,52.5955517968674],[4.7057714980296,52.59455939602933],[4.7050679918507,52.5934938387183],[4.69733895337872,52.59500366541612],[4.69723882818602,52.59515197861212],[4.69711285572682,52.59538947812533],[4.69706232552717,52.59549341149069],[4.69689071594727,52.59552219361315],[4.6976844809344,52.59636061126332],[4.69922296728547,52.59805203560828],[4.70040107176804,52.59933934152603],[4.70155548697203,52.60058183131265],[4.70183193304045,52.60089902770754],[4.70312381868646,52.60041652404452],[4.70336605242901,52.60030402788923],[4.70353015093293,52.60006092522096],[4.70379960655004,52.59991604718709],[4.708471387222,52.59846227120962],[4.70881548653072,52.5983720024448]]]],"type":"MultiPolygon"}
+}

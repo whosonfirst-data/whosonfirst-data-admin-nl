@@ -1,0 +1,80 @@
+{
+  "id": 1158791657,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17011001",
+    "cbsnl:BU_NAAM":"Wapserveen-West",
+    "cbsnl:GM_CODE":"GM1701",
+    "cbsnl:GM_NAAM":"Westerveld",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"17",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170110",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":631136.09589,
+    "geom:bbox":"6.18045808078,52.8072241119,6.19875478655,52.820635312",
+    "geom:latitude":52.814063,
+    "geom:longitude":6.189201,
+    "iso:country":"NL",
+    "lbl:latitude":52.81088,
+    "lbl:longitude":6.185251,
+    "mps:latitude":52.81088,
+    "mps:longitude":6.185251,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Wapserveen-West"
+    ],
+    "name:nld_x_preferred":[
+        "Wapserveen-West"
+    ],
+    "reversegeo:latitude":52.81088,
+    "reversegeo:longitude":6.185251,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474613,
+        85633337,
+        1158792167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"091f6e1cb2ad1f40780db2d2d8e68d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474613,
+            "locality_id":1158792167,
+            "neighbourhood_id":1158791657,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791657,
+    "wof:lastmodified":1513292355,
+    "wof:name":"Wapserveen-West",
+    "wof:parent_id":1158792167,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.180458080784814,
+    52.80722411191245,
+    6.198754786548691,
+    52.82063531203868
+],
+  "geometry": {"coordinates":[[[[6.19875478654869,52.81734374213375],[6.19541049018513,52.8162666794052],[6.19443525797033,52.81606939638007],[6.19174621802811,52.81430365509719],[6.18813541930108,52.81176218051575],[6.18997208891829,52.80960529463847],[6.18512124108595,52.80722411191245],[6.18414033072726,52.80803546363963],[6.18273923202011,52.8091620284154],[6.18209526448114,52.8096982221001],[6.18207489101817,52.80971563978702],[6.18205400674716,52.80973349256563],[6.18190683519873,52.809855924948],[6.18121866061781,52.81041565766114],[6.18045808078481,52.81103425690004],[6.18207527810102,52.81224193626407],[6.18294837418785,52.81289390204702],[6.18603056884291,52.8150060154699],[6.18680354410366,52.81557462424858],[6.18984664141103,52.81781297087275],[6.19121455226722,52.81870526201022],[6.19334117396648,52.81939637854715],[6.19579837394969,52.82007341875151],[6.19767054664709,52.82063531203868],[6.19875478654869,52.81734374213375]]]],"type":"MultiPolygon"}
+}

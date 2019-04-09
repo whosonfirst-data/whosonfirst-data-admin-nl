@@ -1,0 +1,80 @@
+{
+  "id": 1158819771,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04000607",
+    "cbsnl:BU_NAAM":"De Kooy",
+    "cbsnl:GM_CODE":"GM0400",
+    "cbsnl:GM_NAAM":"Den Helder",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"66",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK040006",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000122,
+    "geom:area_square_m":909512.499223,
+    "geom:bbox":"4.77493159172,52.918113689,4.79244937506,52.9284659373",
+    "geom:latitude":52.923777,
+    "geom:longitude":4.782681,
+    "iso:country":"NL",
+    "lbl:latitude":52.92435,
+    "lbl:longitude":4.782515,
+    "mps:latitude":52.92435,
+    "mps:longitude":4.782515,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Kooy"
+    ],
+    "name:nld_x_preferred":[
+        "De Kooy"
+    ],
+    "reversegeo:latitude":52.92435,
+    "reversegeo:longitude":4.782515,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474079,
+        85633337,
+        101806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3a5222388a236123c7a1f373a55ab13b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474079,
+            "locality_id":101806071,
+            "neighbourhood_id":1158819771,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158819771,
+    "wof:lastmodified":1513464170,
+    "wof:name":"De Kooy",
+    "wof:parent_id":101806071,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.774931591722385,
+    52.918113689037824,
+    4.792449375064695,
+    52.92846593729205
+],
+  "geometry": {"coordinates":[[[[4.77736497028619,52.92840611782491],[4.77873984535475,52.92834966149595],[4.78008167776666,52.92832110226131],[4.78366066423992,52.92836282605796],[4.78715445608959,52.92843266047255],[4.78841352848984,52.92846593729205],[4.78860824653862,52.9281529440825],[4.78932726631965,52.92679002681608],[4.79018630001347,52.92531153986175],[4.79172759581666,52.9227479509257],[4.7924493750647,52.92161193595187],[4.78898745557882,52.92099367229461],[4.78864864836912,52.92151600596235],[4.78074436186239,52.92001469572861],[4.78167330023406,52.91811368903782],[4.77493159172239,52.91836857989606],[4.7755059873299,52.92034857275772],[4.77607638378571,52.92261779562555],[4.77587219642507,52.92392542168772],[4.77582093939248,52.92419251009159],[4.77611313297085,52.92520274838864],[4.77736497028619,52.92840611782491]]]],"type":"MultiPolygon"}
+}

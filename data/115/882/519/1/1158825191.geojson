@@ -1,0 +1,80 @@
+{
+  "id": 1158825191,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05010005",
+    "cbsnl:BU_NAAM":"Kleine Goote",
+    "cbsnl:GM_CODE":"GM0501",
+    "cbsnl:GM_NAAM":"Brielle",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"939",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":208937.42851,
+    "geom:bbox":"4.16331807493,51.8870409555,4.17031840861,51.8944823415",
+    "geom:latitude":51.89103,
+    "geom:longitude":4.166507,
+    "iso:country":"NL",
+    "lbl:latitude":51.891132,
+    "lbl:longitude":4.166216,
+    "mps:latitude":51.891132,
+    "mps:longitude":4.166216,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kleine Goote"
+    ],
+    "name:nld_x_preferred":[
+        "Kleine Goote"
+    ],
+    "reversegeo:latitude":51.891132,
+    "reversegeo:longitude":4.166216,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474161,
+        85633337,
+        101754623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"37659bf8dd0b7858d046fd20fb68ef17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474161,
+            "locality_id":101754623,
+            "neighbourhood_id":1158825191,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825191,
+    "wof:lastmodified":1513587974,
+    "wof:name":"Kleine Goote",
+    "wof:parent_id":101754623,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.163318074930636,
+    51.88704095550593,
+    4.170318408612086,
+    51.89448234152956
+],
+  "geometry": {"coordinates":[[[[4.16364785815853,51.89213590576196],[4.16913395021896,51.89448234152956],[4.16918416671415,51.89443875966707],[4.16963636009037,51.89404989104238],[4.17031840861209,51.89322433715965],[4.1700715942394,51.89209813563384],[4.16819875416821,51.89031964936724],[4.16608001195102,51.88826075491822],[4.16523459468752,51.88704095550593],[4.1634252297873,51.88741515288716],[4.16331807493064,51.88743731322666],[4.16364810734355,51.88847619267946],[4.16387225748786,51.88852628104432],[4.16391857126878,51.88859699233901],[4.16399952702478,51.88872087352274],[4.16374808205514,51.89072565016846],[4.16364785815853,51.89213590576196]]]],"type":"MultiPolygon"}
+}

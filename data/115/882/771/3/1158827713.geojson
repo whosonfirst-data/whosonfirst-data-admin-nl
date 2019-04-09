@@ -1,0 +1,82 @@
+{
+  "id": 1158827713,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06420507",
+    "cbsnl:BU_NAAM":"Dichtersbuurt-West",
+    "cbsnl:GM_CODE":"GM0642",
+    "cbsnl:GM_NAAM":"Zwijndrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1625",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK064205",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":97508.275033,
+    "geom:bbox":"4.63107840151,51.8058616684,4.63704487666,51.8096458435",
+    "geom:latitude":51.807771,
+    "geom:longitude":4.634146,
+    "iso:country":"NL",
+    "lbl:latitude":51.80774,
+    "lbl:longitude":4.634146,
+    "mps:latitude":51.80774,
+    "mps:longitude":4.634146,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Dichtersbuurt-West"
+    ],
+    "name:nld_x_preferred":[
+        "Dichtersbuurt-West"
+    ],
+    "reversegeo:latitude":51.80774,
+    "reversegeo:longitude":4.634146,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831151,
+        404474291,
+        85633337,
+        101754703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b3c5a59f819426b2124d961c15e232b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474291,
+            "locality_id":101754703,
+            "macrohood_id":1158831151,
+            "neighbourhood_id":1158827713,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827713,
+    "wof:lastmodified":1513588166,
+    "wof:name":"Dichtersbuurt-West",
+    "wof:parent_id":1158831151,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.631078401510936,
+    51.80586166839311,
+    4.63704487665545,
+    51.80964584347507
+],
+  "geometry": {"coordinates":[[[[4.63249965882287,51.80877163023192],[4.63258873369839,51.80875705713271],[4.63271540469051,51.80875750298524],[4.63279696973288,51.80877319146092],[4.63598469302412,51.80964584347507],[4.63609447625248,51.80949723459909],[4.63623249099556,51.80930077124327],[4.63634307416957,51.80888978683955],[4.63653574254421,51.80820363514182],[4.63663505348948,51.80796775062069],[4.63673746890748,51.80768900954956],[4.63704487665545,51.80725405391681],[4.63605914424042,51.80700819700356],[4.63545188186141,51.80682018325489],[4.63442015980223,51.8064318004196],[4.63355585143158,51.80613570081728],[4.63273439412621,51.80586166839311],[4.6322086530546,51.80649694418029],[4.63172797536286,51.80714797687492],[4.63107840151094,51.80805736099037],[4.63158872543191,51.80819959589049],[4.63209304455681,51.80834475579292],[4.63228544646018,51.80846203834395],[4.63241096567345,51.80861091650688],[4.63249965882287,51.80877163023192]]]],"type":"MultiPolygon"}
+}

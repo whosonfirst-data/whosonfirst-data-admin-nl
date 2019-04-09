@@ -1,0 +1,80 @@
+{
+  "id": 1158828199,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17830710",
+    "cbsnl:BU_NAAM":"De Lier West",
+    "cbsnl:GM_CODE":"GM1783",
+    "cbsnl:GM_NAAM":"Westland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1149",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK178307",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":450684.405688,
+    "geom:bbox":"4.23530254765,51.9729154294,4.24627032844,51.9805663262",
+    "geom:latitude":51.976537,
+    "geom:longitude":4.241175,
+    "iso:country":"NL",
+    "lbl:latitude":51.976637,
+    "lbl:longitude":4.241175,
+    "mps:latitude":51.976637,
+    "mps:longitude":4.241175,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Lier West"
+    ],
+    "name:nld_x_preferred":[
+        "De Lier West"
+    ],
+    "reversegeo:latitude":51.976637,
+    "reversegeo:longitude":4.241175,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
+        85633337,
+        101807027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"2e74ab57c9180c76492a4a615571ea16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474667,
+            "locality_id":101807027,
+            "neighbourhood_id":1158828199,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828199,
+    "wof:lastmodified":1513588208,
+    "wof:name":"De Lier West",
+    "wof:parent_id":101807027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.235302547645704,
+    51.97291542940534,
+    4.246270328440081,
+    51.9805663262004
+],
+  "geometry": {"coordinates":[[[[4.23861015643505,51.97983929001293],[4.23870114276507,51.9798560560342],[4.24270369736728,51.9805663262004],[4.24309448462579,51.98050692985139],[4.24512489794586,51.97738736552926],[4.2461608770702,51.97579548735178],[4.24615998056355,51.97528145262279],[4.24615958857701,51.97505741521498],[4.24578847009157,51.97416183727832],[4.24627032844008,51.97291542940534],[4.23891550650356,51.97300603890015],[4.2377551553424,51.9751030169479],[4.23737416859515,51.97533097713966],[4.23663296474622,51.97532706274642],[4.23607115776202,51.97620358493825],[4.23660346005267,51.9763307603492],[4.23671200696736,51.97653840137417],[4.23701786609236,51.97664676245857],[4.2353025476457,51.9793072332353],[4.2367421802831,51.97949508314035],[4.23861015643505,51.97983929001293]]]],"type":"MultiPolygon"}
+}

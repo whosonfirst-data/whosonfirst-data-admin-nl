@@ -1,0 +1,80 @@
+{
+  "id": 1158791027,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01185105",
+    "cbsnl:BU_NAAM":"Schutlanden-Oost",
+    "cbsnl:GM_CODE":"GM0118",
+    "cbsnl:GM_NAAM":"Hoogeveen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1276",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011851",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:area_square_m":460917.666357,
+    "geom:bbox":"6.45341582933,52.7117992296,6.46471429007,52.7191527131",
+    "geom:latitude":52.715587,
+    "geom:longitude":6.459426,
+    "iso:country":"NL",
+    "lbl:latitude":52.715282,
+    "lbl:longitude":6.459534,
+    "mps:latitude":52.715282,
+    "mps:longitude":6.459534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schutlanden-Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Schutlanden-Oost"
+    ],
+    "reversegeo:latitude":52.715282,
+    "reversegeo:longitude":6.459534,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473811,
+        85633337,
+        101837877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4cdce23be397d4f0ec344555e34c6dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473811,
+            "locality_id":101837877,
+            "neighbourhood_id":1158791027,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791027,
+    "wof:lastmodified":1513292313,
+    "wof:name":"Schutlanden-Oost",
+    "wof:parent_id":101837877,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.453415829328373,
+    52.71179922964319,
+    6.464714290071194,
+    52.71915271311256
+],
+  "geometry": {"coordinates":[[[[6.46466967833773,52.71915271311256],[6.46467255075245,52.71910141351352],[6.46471429007119,52.7180230019904],[6.46466105793675,52.71697527018669],[6.46460116695458,52.71661815657519],[6.46446178039413,52.71604493552893],[6.46418259630707,52.71529265457689],[6.46395822942945,52.71479458680923],[6.46360011055967,52.71415794628522],[6.46336417574185,52.7138076815808],[6.46302174063898,52.71333128297365],[6.46172236100534,52.71179922964319],[6.45494490452995,52.7122358060168],[6.45483139732189,52.71224238412181],[6.45524023222902,52.71473294823756],[6.45525378984292,52.7149003381594],[6.45522480813476,52.71507388508465],[6.45514163924382,52.71527697040857],[6.45503764286141,52.71542121898546],[6.45397250297043,52.71655288206086],[6.45387291268042,52.71667190143031],[6.45378983780105,52.71684504134181],[6.45341582932837,52.71804203768563],[6.45369471229657,52.71807011792659],[6.45871334636896,52.71854575404804],[6.46105234550067,52.71876735414472],[6.46466967833773,52.71915271311256]]]],"type":"MultiPolygon"}
+}

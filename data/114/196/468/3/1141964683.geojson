@@ -1,0 +1,80 @@
+{
+  "id": 1141964683,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03040202",
+    "cbsnl:BU_NAAM":"Heesselt",
+    "cbsnl:GM_CODE":"GM0304",
+    "cbsnl:GM_NAAM":"Neerijnen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"56",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK030402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":154459.732902,
+    "geom:bbox":"5.34294735841,51.811973615,5.35129517012,51.8160327458",
+    "geom:latitude":51.813831,
+    "geom:longitude":5.346779,
+    "iso:country":"NL",
+    "lbl:latitude":51.814044,
+    "lbl:longitude":5.345953,
+    "mps:latitude":51.814044,
+    "mps:longitude":5.345953,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Heesselt"
+    ],
+    "name:nld_x_preferred":[
+        "Heesselt"
+    ],
+    "reversegeo:latitude":51.814044,
+    "reversegeo:longitude":5.345953,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473967,
+        85633337,
+        1158783577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"19ecdd1383670da40351e87f9323aed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473967,
+            "locality_id":1158783577,
+            "neighbourhood_id":1141964683,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141964683,
+    "wof:lastmodified":1513368838,
+    "wof:name":"Heesselt",
+    "wof:parent_id":1158783577,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.342947358411489,
+    51.811973615044394,
+    5.351295170121566,
+    51.816032745770244
+],
+  "geometry": {"coordinates":[[[[5.34837685159965,51.8143895332913],[5.34898641356395,51.81463248496175],[5.35060462001144,51.81507258555128],[5.35124838456542,51.81507194047246],[5.35129517012157,51.81464950131115],[5.35099401567141,51.81409662435433],[5.35038532727343,51.81361640110542],[5.34813739166527,51.81197361504439],[5.3455981237524,51.81218930765142],[5.34326148627165,51.81277972719307],[5.34294735841149,51.81355991159401],[5.34295160997166,51.81361384342625],[5.34506239205962,51.81593895468103],[5.3452764472957,51.81567486986916],[5.34623252312173,51.81603274577024],[5.3467492977209,51.81562284972431],[5.34818642798595,51.81459314499692],[5.34837685159965,51.8143895332913]]]],"type":"MultiPolygon"}
+}

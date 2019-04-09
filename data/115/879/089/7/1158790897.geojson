@@ -1,0 +1,80 @@
+{
+  "id": 1158790897,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01140802",
+    "cbsnl:BU_NAAM":"Barger-Oosterveen",
+    "cbsnl:GM_CODE":"GM0114",
+    "cbsnl:GM_NAAM":"Emmen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"56",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011408",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":426073.530994,
+    "geom:bbox":"6.97475020511,52.6965964639,6.98493083805,52.7065214446",
+    "geom:latitude":52.702328,
+    "geom:longitude":6.978948,
+    "iso:country":"NL",
+    "lbl:latitude":52.702675,
+    "lbl:longitude":6.978601,
+    "mps:latitude":52.702675,
+    "mps:longitude":6.978601,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Barger-Oosterveen"
+    ],
+    "name:nld_x_preferred":[
+        "Barger-Oosterveen"
+    ],
+    "reversegeo:latitude":52.702675,
+    "reversegeo:longitude":6.978601,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473809,
+        85633337,
+        101837879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9407d4f2e62953750329a6084479e5a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473809,
+            "locality_id":101837879,
+            "neighbourhood_id":1158790897,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158790897,
+    "wof:lastmodified":1513292305,
+    "wof:name":"Barger-Oosterveen",
+    "wof:parent_id":101837879,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.974750205114504,
+    52.69659646391615,
+    6.984930838050173,
+    52.70652144461674
+],
+  "geometry": {"coordinates":[[[[6.98138110027941,52.70652144461674],[6.98493083805017,52.70637196128843],[6.98491213474305,52.70621060955018],[6.98480250069664,52.70621522752452],[6.98449830155678,52.70349571129179],[6.98312962496682,52.70352363426758],[6.98295584792732,52.70295584756992],[6.9826096956189,52.70230266277999],[6.98210400052921,52.70170279639309],[6.98124535202552,52.70098644020538],[6.97991687093114,52.70008953512281],[6.9788493489984,52.69920477334184],[6.97820177528932,52.6982749275578],[6.97795729817306,52.69736031680433],[6.97785159492308,52.69659646391615],[6.97481133077413,52.69672696345297],[6.97572599269317,52.70469201911986],[6.9747502051145,52.7047328541885],[6.97480441850835,52.70573712449276],[6.98124199083305,52.70546346635017],[6.98138110027941,52.70652144461674]]]],"type":"MultiPolygon"}
+}

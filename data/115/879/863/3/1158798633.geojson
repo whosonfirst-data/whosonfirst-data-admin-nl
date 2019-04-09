@@ -1,0 +1,82 @@
+{
+  "id": 1158798633,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08280604",
+    "cbsnl:BU_NAAM":"Vondellaan-Zuid",
+    "cbsnl:GM_CODE":"GM0828",
+    "cbsnl:GM_NAAM":"Oss",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1395",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082806",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000058,
+    "geom:area_square_m":441148.852011,
+    "geom:bbox":"5.50307998524,51.7436421516,5.51745951693,51.7513615261",
+    "geom:latitude":51.747562,
+    "geom:longitude":5.510324,
+    "iso:country":"NL",
+    "lbl:latitude":51.747414,
+    "lbl:longitude":5.510324,
+    "mps:latitude":51.747414,
+    "mps:longitude":5.510324,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vondellaan-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Vondellaan-Zuid"
+    ],
+    "reversegeo:latitude":51.747414,
+    "reversegeo:longitude":5.510324,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801743,
+        404474415,
+        85633337,
+        101751807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"07362eab0460e84b46ead74c62cbb890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":101751807,
+            "macrohood_id":1158801743,
+            "neighbourhood_id":1158798633,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798633,
+    "wof:lastmodified":1513432688,
+    "wof:name":"Vondellaan-Zuid",
+    "wof:parent_id":1158801743,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.503079985235711,
+    51.74364215160536,
+    5.517459516929065,
+    51.75136152608871
+],
+  "geometry": {"coordinates":[[[[5.51745951692907,51.74821790609791],[5.51291945037099,51.74573559700305],[5.50993169961374,51.74468908587907],[5.50645789892064,51.74364215160536],[5.50307998523571,51.74789033954826],[5.51499085985634,51.75136152608871],[5.51745951692907,51.74821790609791]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158806639,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09650002",
+    "cbsnl:BU_NAAM":"Huls",
+    "cbsnl:GM_CODE":"GM0965",
+    "cbsnl:GM_NAAM":"Simpelveld",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"284",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK096500",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":439308.410319,
+    "geom:bbox":"5.96471737899,50.8394786783,5.97834138094,50.8470889693",
+    "geom:latitude":50.843545,
+    "geom:longitude":5.970785,
+    "iso:country":"NL",
+    "lbl:latitude":50.844046,
+    "lbl:longitude":5.970888,
+    "mps:latitude":50.844046,
+    "mps:longitude":5.970888,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Huls"
+    ],
+    "name:nld_x_preferred":[
+        "Huls"
+    ],
+    "reversegeo:latitude":50.844046,
+    "reversegeo:longitude":5.970888,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474519,
+        85633337,
+        101839277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"eecd7ce732990f7b0adc2be275abd2d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474519,
+            "locality_id":101839277,
+            "neighbourhood_id":1158806639,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806639,
+    "wof:lastmodified":1513404045,
+    "wof:name":"Huls",
+    "wof:parent_id":101839277,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.964717378991868,
+    50.83947867825502,
+    5.978341380935539,
+    50.84708896929803
+],
+  "geometry": {"coordinates":[[[[5.9680388228795,50.83947867825502],[5.96784533235776,50.83977432154598],[5.96699582355261,50.84041680240816],[5.96571461415097,50.84150302124723],[5.96516110361771,50.84208557833809],[5.96471737899187,50.84464318907682],[5.96765770711524,50.84542595141563],[5.96781498030524,50.84597348840148],[5.97105109074419,50.84666169871638],[5.97299170092718,50.84708896929803],[5.97363768354434,50.84697951061681],[5.97451256153399,50.84586858236697],[5.97650355032565,50.84355895942059],[5.97802919591116,50.84328683986403],[5.97834138093554,50.84238747022572],[5.97715609336441,50.84140811012344],[5.97620358715192,50.84196775414637],[5.97559946637924,50.84201381117958],[5.97437210693865,50.84196274790852],[5.97313596516981,50.84188362561456],[5.97184145560377,50.84167893982943],[5.97089895008173,50.84147049565031],[5.9701124722796,50.8410213651434],[5.96811032788364,50.83952045576037],[5.9680388228795,50.83947867825502]]]],"type":"MultiPolygon"}
+}

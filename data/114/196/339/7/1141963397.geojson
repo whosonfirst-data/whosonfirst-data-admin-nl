@@ -1,0 +1,82 @@
+{
+  "id": 1141963397,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02430808",
+    "cbsnl:BU_NAAM":"Stromenwaard",
+    "cbsnl:GM_CODE":"GM0243",
+    "cbsnl:GM_NAAM":"Harderwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1415",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK024308",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":109554.166557,
+    "geom:bbox":"5.60928061312,52.3383120125,5.61531346523,52.3428841139",
+    "geom:latitude":52.34052,
+    "geom:longitude":5.612301,
+    "iso:country":"NL",
+    "lbl:latitude":52.340651,
+    "lbl:longitude":5.612255,
+    "mps:latitude":52.340651,
+    "mps:longitude":5.612255,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Stromenwaard"
+    ],
+    "name:nld_x_preferred":[
+        "Stromenwaard"
+    ],
+    "reversegeo:latitude":52.340651,
+    "reversegeo:longitude":5.612255,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158784033,
+        404473907,
+        85633337,
+        101837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"067325f308459cb79b95ae7f0e774fe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473907,
+            "locality_id":101837769,
+            "macrohood_id":1158784033,
+            "neighbourhood_id":1141963397,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963397,
+    "wof:lastmodified":1513368742,
+    "wof:name":"Stromenwaard",
+    "wof:parent_id":1158784033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.609280613121046,
+    52.33831201252876,
+    5.615313465226299,
+    52.34288411389598
+],
+  "geometry": {"coordinates":[[[[5.61067659075437,52.34109555877799],[5.61229075430453,52.34233556560842],[5.61278707389928,52.34259687582891],[5.61399916976343,52.34288411389598],[5.6153134652263,52.34068971848031],[5.61426046882873,52.34038315268732],[5.61403819319426,52.34030114302021],[5.61384828043767,52.34021343551103],[5.61367231638502,52.34011360681368],[5.61350257313141,52.33999501442509],[5.61338983261272,52.33989802376144],[5.61328828043077,52.33979666258735],[5.6131955498733,52.33967887694836],[5.61313517094862,52.33958655623264],[5.61308521942703,52.33949191982628],[5.6130459285537,52.33939540834118],[5.61301748327344,52.33929747564446],[5.61300002106624,52.33919857678841],[5.61301321221187,52.33831201252876],[5.60928061312105,52.33897373880973],[5.61006002103826,52.34062188357962],[5.61067659075437,52.34109555877799]]]],"type":"MultiPolygon"}
+}

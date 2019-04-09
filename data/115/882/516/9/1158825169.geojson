@@ -1,0 +1,80 @@
+{
+  "id": 1158825169,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04895080",
+    "cbsnl:BU_NAAM":"BT Achterzeedijk",
+    "cbsnl:GM_CODE":"GM0489",
+    "cbsnl:GM_NAAM":"Barendrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"91",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK048950",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":48169.790791,
+    "geom:bbox":"4.52720275439,51.8330992728,4.53087475944,51.8356994344",
+    "geom:latitude":51.834194,
+    "geom:longitude":4.529182,
+    "iso:country":"NL",
+    "lbl:latitude":51.834097,
+    "lbl:longitude":4.529033,
+    "mps:latitude":51.834097,
+    "mps:longitude":4.529033,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "BT Achterzeedijk"
+    ],
+    "name:nld_x_preferred":[
+        "BT Achterzeedijk"
+    ],
+    "reversegeo:latitude":51.834097,
+    "reversegeo:longitude":4.529033,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831083,
+        85633337,
+        101754615,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4e21e71f9494875d3c514239bb8907de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754615,
+            "macrohood_id":1158831083,
+            "neighbourhood_id":1158825169,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825169,
+    "wof:lastmodified":1513587972,
+    "wof:name":"BT Achterzeedijk",
+    "wof:parent_id":1158831083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.527202754389135,
+    51.83309927275103,
+    4.530874759442594,
+    51.835699434406166
+],
+  "geometry": {"coordinates":[[[[4.52845465501314,51.83569943440617],[4.52951865292435,51.83534992179951],[4.52929855725263,51.83512996848294],[4.53081481052126,51.83458525311271],[4.53087475944259,51.83311682455685],[4.52847217477604,51.83309927275103],[4.52720275438914,51.83414200516033],[4.52774735239815,51.83414599379685],[4.52776651200465,51.83482101762796],[4.52773069382868,51.83501925092183],[4.52845465501314,51.83569943440617]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1158784491,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07030403",
+    "cbsnl:BU_NAAM":"Rilland - Werfkampen",
+    "cbsnl:GM_CODE":"GM0703",
+    "cbsnl:GM_NAAM":"Reimerswaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"373",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK070304",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:area_square_m":288787.98923,
+    "geom:bbox":"4.16812167,51.4126304486,4.18074930258,51.419444061",
+    "geom:latitude":51.416183,
+    "geom:longitude":4.174571,
+    "iso:country":"NL",
+    "lbl:latitude":51.41644,
+    "lbl:longitude":4.17467,
+    "mps:latitude":51.41644,
+    "mps:longitude":4.17467,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Werfkampen"
+    ],
+    "name:eng_x_variant":[
+        "Rilland - Werfkampen"
+    ],
+    "name:nld_x_preferred":[
+        "Werfkampen"
+    ],
+    "name:nld_x_variant":[
+        "Rilland - Werfkampen"
+    ],
+    "reversegeo:latitude":51.41644,
+    "reversegeo:longitude":4.17467,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474323,
+        85633337,
+        101809823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d8a282b12c16962c94e7bf5c9e7c059a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474323,
+            "locality_id":101809823,
+            "neighbourhood_id":1158784491,
+            "region_id":85687037
+        }
+    ],
+    "wof:id":1158784491,
+    "wof:lastmodified":1513628662,
+    "wof:name":"Werfkampen",
+    "wof:parent_id":101809823,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.168121670003458,
+    51.412630448592,
+    4.180749302583734,
+    51.41944406102573
+],
+  "geometry": {"coordinates":[[[[4.17946538464681,51.412630448592],[4.1770617311638,51.41336534085868],[4.17721379667191,51.41356199195278],[4.16912182046651,51.41602840175532],[4.16836753626442,51.41505896236096],[4.16812167000346,51.41513332492199],[4.16894744917304,51.41619463079985],[4.1688548071124,51.41622560324188],[4.17136585751706,51.41944406102573],[4.17165683837172,51.41935478062469],[4.17162727974907,51.41929325374537],[4.17305939995702,51.41886057295427],[4.17316531655329,51.4189977949739],[4.17676632597064,51.41791015462054],[4.17671071934394,51.41783895601848],[4.17859589833234,51.41728173149898],[4.17722470026364,51.41538821348514],[4.18074930258373,51.41429013480262],[4.17946538464681,51.412630448592]]]],"type":"MultiPolygon"}
+}

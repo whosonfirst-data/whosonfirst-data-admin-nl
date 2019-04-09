@@ -1,0 +1,80 @@
+{
+  "id": 1158798423,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08240802",
+    "cbsnl:BU_NAAM":"Omg. 't Westend",
+    "cbsnl:GM_CODE":"GM0824",
+    "cbsnl:GM_NAAM":"Oisterwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"917",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082408",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":123228.288813,
+    "geom:bbox":"5.16767516004,51.5718872912,5.17432148203,51.5763762365",
+    "geom:latitude":51.574181,
+    "geom:longitude":5.170703,
+    "iso:country":"NL",
+    "lbl:latitude":51.574279,
+    "lbl:longitude":5.170652,
+    "mps:latitude":51.574279,
+    "mps:longitude":5.170652,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "'t Westend"
+    ],
+    "name:nld_x_preferred":[
+        "'t Westend"
+    ],
+    "reversegeo:latitude":51.574279,
+    "reversegeo:longitude":5.170652,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474411,
+        85633337,
+        101808311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8b9631f65177b2cb01f1ad02c5b358d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474411,
+            "locality_id":101808311,
+            "neighbourhood_id":1158798423,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798423,
+    "wof:lastmodified":1513432675,
+    "wof:name":"'t Westend",
+    "wof:parent_id":101808311,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.167675160035323,
+    51.57188729117479,
+    5.174321482029042,
+    51.57637623649226
+],
+  "geometry": {"coordinates":[[[[5.17432148202904,51.57376311898037],[5.1698808573181,51.57194009294277],[5.16972486354635,51.57188729117479],[5.16824462369495,51.57347347493202],[5.16891811420739,51.57367693242557],[5.16807876889194,51.57469267725946],[5.16815588501542,51.57471098763386],[5.16767516003532,51.57527137688558],[5.17087186859536,51.57637623649226],[5.17432148202904,51.57376311898037]]]],"type":"MultiPolygon"}
+}

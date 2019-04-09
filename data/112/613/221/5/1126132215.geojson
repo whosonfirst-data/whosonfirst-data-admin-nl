@@ -1,0 +1,79 @@
+{
+  "id": 1126132215,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19000101",
+    "cbsnl:BU_NAAM":"Sneek binnen de grachten",
+    "cbsnl:GM_CODE":"GM1900",
+    "cbsnl:GM_NAAM":"S\u00fadwest-Frysl\u00e2n",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2421",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK190001",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":280981.357928,
+    "geom:bbox":"5.6567448964,53.0284885876,5.66708477263,53.0344632108",
+    "geom:latitude":53.031937,
+    "geom:longitude":5.661122,
+    "iso:country":"NL",
+    "lbl:latitude":53.031298,
+    "lbl:longitude":5.660604,
+    "mps:latitude":53.031298,
+    "mps:longitude":5.660604,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Sneek binnen de grachten"
+    ],
+    "name:eng_x_preferred":[
+        "Sneek binnen de grachten"
+    ],
+    "reversegeo:latitude":53.031298,
+    "reversegeo:longitude":5.660604,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        1141960735,
+        85633337,
+        101837971,
+        85687055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"fbef2747b28213e77fd63949db3a8ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1141960735,
+            "locality_id":101837971,
+            "neighbourhood_id":1126132215,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":1126132215,
+    "wof:lastmodified":1507246103,
+    "wof:name":"Sneek binnen de grachten",
+    "wof:parent_id":101837971,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.65674489640358,
+    53.02848858757167,
+    5.66708477262982,
+    53.03446321081974
+],
+  "geometry": {"coordinates":[[[[5.65965650483939,53.03409166787606],[5.65970970190909,53.03405254177842],[5.66069515371314,53.03404467564435],[5.66287273913407,53.03422501382072],[5.66385879181122,53.03434741880134],[5.66478680646711,53.03446321081974],[5.66543753298579,53.0341247194697],[5.66583783428946,53.033782875798],[5.66708477262982,53.03271454908834],[5.66383645458324,53.03153425514438],[5.66356984380121,53.03110578466664],[5.6628080339392,53.02967875038113],[5.66209880344964,53.0290086705884],[5.6620193704261,53.02893247115831],[5.66038886518883,53.02848858757167],[5.65950866585551,53.02858551022],[5.65920049865793,53.0289125212481],[5.65879629930265,53.02933971799199],[5.65780275011126,53.03038660675827],[5.65681382799217,53.03173619717493],[5.65674489640358,53.03335272898634],[5.65707818349195,53.03398662099889],[5.65792450386646,53.03414576236834],[5.65965650483939,53.03409166787606]]]],"type":"MultiPolygon"}
+}

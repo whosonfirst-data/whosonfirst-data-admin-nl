@@ -1,0 +1,80 @@
+{
+  "id": 1158827253,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06140005",
+    "cbsnl:BU_NAAM":"Nieuw gebied",
+    "cbsnl:GM_CODE":"GM0614",
+    "cbsnl:GM_NAAM":"Westvoorne",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"674",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK061400",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":344346.153154,
+    "geom:bbox":"4.05992384163,51.8654455481,4.07220364393,51.8723165743",
+    "geom:latitude":51.868869,
+    "geom:longitude":4.065693,
+    "iso:country":"NL",
+    "lbl:latitude":51.869454,
+    "lbl:longitude":4.065089,
+    "mps:latitude":51.869454,
+    "mps:longitude":4.065089,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Nieuw gebied"
+    ],
+    "name:nld_x_preferred":[
+        "Nieuw gebied"
+    ],
+    "reversegeo:latitude":51.869454,
+    "reversegeo:longitude":4.065089,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474267,
+        85633337,
+        101809839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b7ffe81b3f51087e58b37121a5df3337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474267,
+            "locality_id":101809839,
+            "neighbourhood_id":1158827253,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827253,
+    "wof:lastmodified":1513588132,
+    "wof:name":"Nieuw gebied",
+    "wof:parent_id":101809839,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.059923841632362,
+    51.86544554806741,
+    4.072203643925703,
+    51.87231657432195
+],
+  "geometry": {"coordinates":[[[[4.06608787602093,51.87231657432195],[4.06756903117619,51.86985048390748],[4.06840516731361,51.8690814581259],[4.06920920138066,51.86834630077956],[4.07103775168437,51.86802860380022],[4.0710433051303,51.8676397912111],[4.07153053279739,51.86748681900902],[4.07139243242765,51.86654999298967],[4.0722036439257,51.86596065068058],[4.07198943715508,51.86602202033924],[4.07093237248863,51.86558486928536],[4.0668299887951,51.86544554806741],[4.06610854061512,51.86571160864401],[4.06470557926073,51.86701275544624],[4.06374318336745,51.86741626387045],[4.06264144145423,51.86795135083071],[4.0623528513132,51.8682823855522],[4.06201783028364,51.86866430400873],[4.06084796498753,51.86962110504712],[4.0600886123803,51.87112273653445],[4.05992384163236,51.87205295621273],[4.06044981314851,51.87207238358462],[4.0660186229632,51.87228714063448],[4.06608787602093,51.87231657432195]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,127 @@
+{
+  "id": 85859711,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06290103",
+    "cbsnl:BU_NAAM":"Zijlwatering en haven",
+    "cbsnl:GM_CODE":"GM0629",
+    "cbsnl:GM_NAAM":"Wassenaar",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2143",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK062901",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":638978.674416,
+    "geom:bbox":"4.39515184349,52.1437139296,4.41153991759,52.1533253775",
+    "geom:latitude":52.14851,
+    "geom:longitude":4.40324,
+    "gn:id":"",
+    "iso:country":"NL",
+    "lbl:latitude":52.148625,
+    "lbl:longitude":4.4039,
+    "mps:latitude":52.148533,
+    "mps:longitude":4.403116,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Zijlwatering en haven"
+    ],
+    "name:nld_x_colloquial":[
+        "Zylwatering"
+    ],
+    "name:nld_x_preferred":[
+        "Zijlwatering en haven"
+    ],
+    "name:nld_x_variant":[
+        "Zijlwatering en haven"
+    ],
+    "name:unk_x_variant":[
+        "Zijlwatering"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":2744991,
+    "qs:gn_nam_loc":"Wassenaar, Wassenaar, Zuid-Holland, NL",
+    "qs:gn_namadm1":"11",
+    "qs:local_max":767,
+    "qs:local_sum":2836,
+    "qs:localhoods":8,
+    "qs:name":"Zijlwatering",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Zuid-Holland",
+    "qs:name_adm2":"Wassenaar",
+    "qs:name_local":"Wassenaar",
+    "qs:photo_max":43,
+    "qs:photo_sum":213,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346383,
+    "qs:woe_adm2":12592468,
+    "qs:woe_lau":0,
+    "qs:woe_local":734528,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":52.148533,
+    "reversegeo:longitude":4.403116,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831323,
+        85633337,
+        101754719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20063924,
+        "qs:id":1087196,
+        "qs_pg:id":1087196
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"7372b92c19928c1664b1ae9c3fc4772d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754719,
+            "macrohood_id":1158831323,
+            "neighbourhood_id":85859711,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":85859711,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527270306,
+    "wof:name":"Zijlwatering",
+    "wof:parent_id":1158831323,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.39515184349392,
+    52.14371392961799,
+    4.4115399175944,
+    52.15332537747506
+],
+  "geometry": {"coordinates":[[[[4.40221199625392,52.15332537747506],[4.40225389819826,52.15327782776026],[4.40317574252079,52.15311839029336],[4.40330179471502,52.15309697042098],[4.40370722389873,52.15300579026312],[4.40426163174183,52.15288110252911],[4.40558601843637,52.15244551285839],[4.40643799095461,52.15213435047408],[4.4076144361198,52.15161829805196],[4.40870770267678,52.15105744478822],[4.40982859169646,52.15055270597033],[4.41072714670723,52.15007111728469],[4.4115399175944,52.14969049367083],[4.40835398824604,52.14715546507526],[4.40764037109921,52.14654534404384],[4.40715142429883,52.14638679142884],[4.40361974853654,52.14371392961799],[4.39925019062065,52.14562679729099],[4.39823994201094,52.14482219244848],[4.39806800213346,52.14468525076932],[4.39755528328505,52.14502841000191],[4.39770205858474,52.14515305585783],[4.3951937715861,52.14669586152208],[4.39515184349392,52.14686539938799],[4.39600692273657,52.14768773347887],[4.39630965719837,52.14755942932501],[4.39727907123481,52.14857975732206],[4.39822094642257,52.149518269639],[4.39989228950744,52.15105509006677],[4.40112857140989,52.15236828486896],[4.40221199625392,52.15332537747506]]]],"type":"MultiPolygon"}
+}

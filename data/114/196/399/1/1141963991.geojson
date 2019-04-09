@@ -1,0 +1,80 @@
+{
+  "id": 1141963991,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02740203",
+    "cbsnl:BU_NAAM":"Kievitsdel",
+    "cbsnl:GM_CODE":"GM0274",
+    "cbsnl:GM_NAAM":"Renkum",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"346",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK027402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:area_square_m":477033.001491,
+    "geom:bbox":"5.77417641222,51.975653228,5.78865822174,51.9859267977",
+    "geom:latitude":51.980455,
+    "geom:longitude":5.780128,
+    "iso:country":"NL",
+    "lbl:latitude":51.981059,
+    "lbl:longitude":5.780128,
+    "mps:latitude":51.981059,
+    "mps:longitude":5.780128,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kievitsdel"
+    ],
+    "name:nld_x_preferred":[
+        "Kievitsdel"
+    ],
+    "reversegeo:latitude":51.981059,
+    "reversegeo:longitude":5.780128,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473931,
+        85633337,
+        101808667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6cd416a353a488c09c2182f7509de433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473931,
+            "locality_id":101808667,
+            "neighbourhood_id":1141963991,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963991,
+    "wof:lastmodified":1513368784,
+    "wof:name":"Kievitsdel",
+    "wof:parent_id":101808667,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.774176412218772,
+    51.97565322799193,
+    5.78865822174343,
+    51.985926797654564
+],
+  "geometry": {"coordinates":[[[[5.77417641221877,51.97565322799193],[5.7747212257572,51.97722522159966],[5.77546114123016,51.97997122552602],[5.77594283536277,51.98162347447841],[5.77659014962952,51.98241145657539],[5.77865220530319,51.98319838497648],[5.78302528536246,51.98437637735567],[5.78785183686144,51.98592679765456],[5.78865822174343,51.98445699605509],[5.78454922209815,51.98352914887332],[5.78438364912594,51.98078295209335],[5.78084612001664,51.97858176735602],[5.78161448550525,51.97590714874191],[5.7789143782025,51.97587460441729],[5.77631869661339,51.97597760015766],[5.77480384162325,51.97599608612882],[5.77445389067391,51.97607925719601],[5.77417641221877,51.97565322799193]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158819285,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03940241",
+    "cbsnl:BU_NAAM":"Nieuw-Vennep 't Kabel",
+    "cbsnl:GM_CODE":"GM0394",
+    "cbsnl:GM_NAAM":"Haarlemmermeer",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"105",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK039402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":433767.255807,
+    "geom:bbox":"4.64143061117,52.2496966171,4.65675382899,52.2585938034",
+    "geom:latitude":52.254147,
+    "geom:longitude":4.649095,
+    "iso:country":"NL",
+    "lbl:latitude":52.254141,
+    "lbl:longitude":4.649095,
+    "mps:latitude":52.254141,
+    "mps:longitude":4.649095,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "'t Kabel"
+    ],
+    "name:nld_x_preferred":[
+        "'t Kabel"
+    ],
+    "reversegeo:latitude":52.254141,
+    "reversegeo:longitude":4.649095,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474065,
+        85633337,
+        101803713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"db22acbc761c6ac18f2e3517e2653901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474065,
+            "locality_id":101803713,
+            "neighbourhood_id":1158819285,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158819285,
+    "wof:lastmodified":1513464131,
+    "wof:name":"'t Kabel",
+    "wof:parent_id":101803713,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.641430611173275,
+    52.24969661713876,
+    4.656753828986578,
+    52.25859380342661
+],
+  "geometry": {"coordinates":[[[[4.64143061117328,52.25571319707073],[4.64171233482714,52.25590993919178],[4.64342278829626,52.2571043520658],[4.64555595493031,52.25859380342661],[4.64594286455733,52.25838688373809],[4.64659239353652,52.25803949683603],[4.64682997305223,52.25791266825835],[4.64867117119387,52.25692972328167],[4.64879439636935,52.25686398892147],[4.64988710376255,52.2562810632576],[4.65138982905875,52.25547936113411],[4.65232169458467,52.25498218460278],[4.65268892779549,52.25478625695689],[4.65305613987026,52.25459032969091],[4.65333275856941,52.25444224020571],[4.65348621753111,52.25436008732687],[4.65588085347013,52.25307808157499],[4.65674354583079,52.25261623277355],[4.65675382898658,52.25261072376853],[4.65612260908976,52.25215775184176],[4.65258449915703,52.24969661713876],[4.65254218140716,52.2497194441865],[4.6512705988691,52.25040549156791],[4.64143061117328,52.25571319707073]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1108802841,
+  "type": "Feature",
+  "properties": {
+    "amsgis:CODE":"53",
+    "amsgis:DOCDATUM":"20090619",
+    "amsgis:DOCNR":"raadsbesluit 116/292",
+    "amsgis:INGSDATUM":"20100501",
+    "amsgis:NAAM":"IJselbuurt",
+    "amsgis:VOLLCODE":"K53",
+    "amsgis:_categories":"buurtcombinatie",
+    "amsgis:_id":"buurtcombinatie.3630012052067.0000000000",
+    "amsgis:categorie":"91",
+    "amsgis:externe_id":"3630012052067",
+    "amsgis:online_tijdsaspect":"1",
+    "amsgis:titel":"IJselbuurt",
+    "amsgis:titel_key":"ijselbuurt_1",
+    "amsgis:type":"Buurtcombinatiegrenzen",
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-10-09",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":291038.793162,
+    "geom:bbox":"4.89511569576,52.3461078253,4.91270357471,52.3500281595",
+    "geom:latitude":52.347884,
+    "geom:longitude":4.904889,
+    "iso:country":"NL",
+    "lbl:latitude":52.347705,
+    "lbl:longitude":4.904889,
+    "mps:latitude":52.347705,
+    "mps:longitude":4.904889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "reversegeo:latitude":52.347705,
+    "reversegeo:longitude":4.904889,
+    "src:geom":"amsgis",
+    "wof:belongsto":[
+        102191581,
+        85633337,
+        101751893,
+        1108802281,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"NL",
+    "wof:geomhash":"a51f34f87135d6babc900924d0e7dba5",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108802281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "neighbourhood_id":1108802841,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1108802841,
+    "wof:lastmodified":1513269519,
+    "wof:name":"IJselbuurt",
+    "wof:parent_id":1108802281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1108945491
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.89511569575813,
+    52.3461078252789,
+    4.91270357470917,
+    52.35002815948303
+],
+  "geometry": {"coordinates":[[[4.91270357470917,52.34733548869826],[4.90523244186423,52.34629009656509],[4.90392916505503,52.3461078252789],[4.90295036995347,52.34649129074979],[4.90277463904116,52.34656013580629],[4.90266769014251,52.34656539956534],[4.90262567408632,52.3465674674605],[4.89998679400511,52.34669731450425],[4.89981886315629,52.34670557557602],[4.89529878938989,52.3469284892401],[4.89511569575813,52.34693751506347],[4.89525779141329,52.34801112232171],[4.8962218992589,52.34796460292478],[4.89979991276515,52.34846215476285],[4.90418952250596,52.34907359463463],[4.90533419325815,52.34922693662146],[4.90975474482298,52.34984644529762],[4.91105980952974,52.35002815948303],[4.91222854939478,52.34811366933699],[4.91270357470917,52.34733548869826]]],"type":"Polygon"}
+}

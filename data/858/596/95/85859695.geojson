@@ -1,0 +1,131 @@
+{
+  "id": 85859695,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06060000",
+    "cbsnl:BU_NAAM":"Buurt 00",
+    "cbsnl:GM_CODE":"GM0606",
+    "cbsnl:GM_NAAM":"Schiedam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"5232",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060600",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":201097.889374,
+    "geom:bbox":"4.39672941647,51.9139128687,4.40279997421,51.9193306884",
+    "geom:latitude":51.916708,
+    "geom:longitude":4.39986,
+    "iso:country":"NL",
+    "lbl:latitude":51.916833,
+    "lbl:longitude":4.399955,
+    "mps:latitude":51.916684,
+    "mps:longitude":4.399859,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":15,
+    "name:dut_x_preferred":[
+        "Oude Centrum"
+    ],
+    "name:eng_x_preferred":[
+        "Centrum"
+    ],
+    "name:fre_x_preferred":[
+        "Oude Centrum"
+    ],
+    "name:nld_x_preferred":[
+        "Centrum"
+    ],
+    "name:unk_x_variant":[
+        "Centrum"
+    ],
+    "qs:gn_adm0_cc":"NL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2747596,
+    "qs:gn_nam_loc":"Schiedam, Schiedam, Zuid-Holland, NL",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Centrum",
+    "qs:local_max":1642,
+    "qs:local_sum":5724,
+    "qs:localhoods":15,
+    "qs:name":"Centrum",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Zuid-Holland",
+    "qs:name_adm2":"Schiedam",
+    "qs:name_local":"Schiedam",
+    "qs:photo_max":200,
+    "qs:photo_sum":1642,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":44,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346383,
+    "qs:woe_adm2":12592385,
+    "qs:woe_lau":0,
+    "qs:woe_local":733254,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":51.916684,
+    "reversegeo:longitude":4.399859,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg",
+        "mz"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":124,
+    "wof:belongsto":[
+        102191581,
+        101751845,
+        85633337,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2757973,
+        "gp:id":20063956,
+        "qs:id":1082605,
+        "qs_pg:id":236280,
+        "tgn:id":7262808,
+        "wd:id":"Q2273370"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"9db1a3cd3721d261599b25fa8a6670f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "neighbourhood_id":85859695,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":85859695,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527270336,
+    "wof:name":"Centrum",
+    "wof:parent_id":101751845,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3967294164721,
+    51.91391286873792,
+    4.40279997421155,
+    51.91933068841755
+],
+  "geometry": {"coordinates":[[[[4.40203599039989,51.91933068841755],[4.40202017870238,51.91920635166157],[4.40265496546095,51.91818778798895],[4.40267457865626,51.9180182882072],[4.40279997421155,51.91693068715935],[4.40249195912333,51.91691187502909],[4.40247969172086,51.91659619057586],[4.40245343763259,51.91604311107873],[4.40243567010503,51.91580331096807],[4.40252738153699,51.91579599304909],[4.40247703960413,51.91564934864284],[4.40249759551833,51.91498844255788],[4.40273546704627,51.91476130302583],[4.40221184780732,51.91450159712223],[4.40179884551805,51.91434326424261],[4.40149530136702,51.91391286873792],[4.39885834921136,51.9143511178344],[4.39730770828099,51.91485296080845],[4.39691137009703,51.91597238304564],[4.39691059464639,51.91602779083225],[4.39682272280051,51.91609165874482],[4.3967294164721,51.91644209315299],[4.3967447366865,51.91715909600645],[4.39675239263542,51.91735361755608],[4.39675970024642,51.91753930972765],[4.39685096906078,51.91798752449655],[4.39695426070104,51.91824339035962],[4.39714513308215,51.91840858037577],[4.39744481232835,51.91857949791099],[4.39792288711209,51.91877597177604],[4.39853374048752,51.91894950630025],[4.39929986732257,51.91913877410006],[4.40079116481622,51.9192571461574],[4.40088505534908,51.91926269459174],[4.40203599039989,51.91933068841755]]]],"type":"MultiPolygon"}
+}

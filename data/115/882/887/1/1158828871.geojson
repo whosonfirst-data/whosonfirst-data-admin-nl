@@ -1,0 +1,82 @@
+{
+  "id": 1158828871,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19300802",
+    "cbsnl:BU_NAAM":"Sterrenkwartier-Midden",
+    "cbsnl:GM_CODE":"GM1930",
+    "cbsnl:GM_NAAM":"Nissewaard",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3087",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK193008",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":95437.088356,
+    "geom:bbox":"4.3185746252,51.8384563426,4.32321352481,51.8415262662",
+    "geom:latitude":51.839993,
+    "geom:longitude":4.320892,
+    "iso:country":"NL",
+    "lbl:latitude":51.839993,
+    "lbl:longitude":4.320892,
+    "mps:latitude":51.839993,
+    "mps:longitude":4.320892,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Sterrenkwartier-Midden"
+    ],
+    "name:nld_x_preferred":[
+        "Sterrenkwartier-Midden"
+    ],
+    "reversegeo:latitude":51.839993,
+    "reversegeo:longitude":4.320892,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831181,
+        1158824747,
+        85633337,
+        101751847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"33fc385fca0af8485feae915e86871ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824747,
+            "locality_id":101751847,
+            "macrohood_id":1158831181,
+            "neighbourhood_id":1158828871,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828871,
+    "wof:lastmodified":1513588280,
+    "wof:name":"Sterrenkwartier-Midden",
+    "wof:parent_id":1158831181,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.318574625197928,
+    51.83845634262677,
+    4.323213524808163,
+    51.84152626616529
+],
+  "geometry": {"coordinates":[[[[4.31857462519793,51.84134936034484],[4.32287482871142,51.84152626616529],[4.32321352480816,51.83864026675818],[4.31890943824672,51.83845634262677],[4.31885927655276,51.8388897894308],[4.31857462519793,51.84134936034484]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158828135,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17830407",
+    "cbsnl:BU_NAAM":"Dorp oost",
+    "cbsnl:GM_CODE":"GM1783",
+    "cbsnl:GM_NAAM":"Westland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1432",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK178304",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":274474.35771,
+    "geom:bbox":"4.16718008387,52.0034858735,4.17593373407,52.0103211612",
+    "geom:latitude":52.006909,
+    "geom:longitude":4.171841,
+    "iso:country":"NL",
+    "lbl:latitude":52.006786,
+    "lbl:longitude":4.171758,
+    "mps:latitude":52.006786,
+    "mps:longitude":4.171758,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Dorp oost"
+    ],
+    "name:nld_x_preferred":[
+        "Dorp oost"
+    ],
+    "reversegeo:latitude":52.006786,
+    "reversegeo:longitude":4.171758,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
+        85633337,
+        101808481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"95a14af399398fae2153875273c6627f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474667,
+            "locality_id":101808481,
+            "neighbourhood_id":1158828135,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828135,
+    "wof:lastmodified":1513588202,
+    "wof:name":"Dorp oost",
+    "wof:parent_id":101808481,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.167180083871703,
+    52.00348587345511,
+    4.175933734074786,
+    52.010321161217654
+],
+  "geometry": {"coordinates":[[[[4.1671800838717,52.00846570321676],[4.17349240254057,52.01032116121765],[4.17562167977614,52.0073231187525],[4.17468930886258,52.00723412919034],[4.17445192095208,52.00721147057126],[4.17463303002553,52.00689857538707],[4.17564250395907,52.00537691725798],[4.17593373407479,52.00476232707859],[4.17061373272063,52.00348587345511],[4.17025147039938,52.00408336906596],[4.16897798128425,52.0058500754069],[4.16836386773946,52.00670197576421],[4.1671800838717,52.00846570321676]]]],"type":"MultiPolygon"}
+}

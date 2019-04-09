@@ -1,0 +1,82 @@
+{
+  "id": 1158821231,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19420305",
+    "cbsnl:BU_NAAM":"Meijerkamp",
+    "cbsnl:GM_CODE":"GM1942",
+    "cbsnl:GM_NAAM":"Gooise Meren",
+    "cbsnl:IND_WBI":"2",
+    "cbsnl:OAD":"2514",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK194203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:area_square_m":232641.010756,
+    "geom:bbox":"5.15641229399,52.2639709816,5.16316173684,52.2710795836",
+    "geom:latitude":52.266999,
+    "geom:longitude":5.159869,
+    "iso:country":"NL",
+    "lbl:latitude":52.266586,
+    "lbl:longitude":5.159935,
+    "mps:latitude":52.266586,
+    "mps:longitude":5.159935,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Meijerkamp"
+    ],
+    "name:nld_x_preferred":[
+        "Meijerkamp"
+    ],
+    "reversegeo:latitude":52.266586,
+    "reversegeo:longitude":5.159935,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823009,
+        1158818281,
+        85633337,
+        101753097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ded1535fcd5f896aecc915f59d72414d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158818281,
+            "locality_id":101753097,
+            "macrohood_id":1158823009,
+            "neighbourhood_id":1158821231,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158821231,
+    "wof:lastmodified":1513464288,
+    "wof:name":"Meijerkamp",
+    "wof:parent_id":1158823009,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.156412293987104,
+    52.26397098163594,
+    5.163161736840904,
+    52.27107958362346
+],
+  "geometry": {"coordinates":[[[[5.16074867409946,52.27107230443902],[5.1608834701475,52.27107958362346],[5.16130651626207,52.26999567958091],[5.16269566321357,52.26643383081549],[5.1631617368409,52.26524186730072],[5.16194011091642,52.264076471872],[5.16126522090818,52.26397098163594],[5.15981866120509,52.26411201339516],[5.15851134937262,52.26427857388391],[5.15718100848552,52.26460404764132],[5.1564122939871,52.26537802860883],[5.15717998805329,52.26774868166493],[5.15730231210994,52.26773391888081],[5.15747006485548,52.2678906286075],[5.15766210815318,52.26812053161882],[5.15817021442247,52.26844941759602],[5.15851475690806,52.26860646807409],[5.15857551947153,52.26878314676095],[5.15861764016696,52.26949467720588],[5.15884534829143,52.26997831422854],[5.15880019359338,52.27048069919212],[5.15871315318406,52.27089200417291],[5.15869953532739,52.27095854300203],[5.16074867409946,52.27107230443902]]]],"type":"MultiPolygon"}
+}

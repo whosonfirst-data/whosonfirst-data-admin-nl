@@ -1,0 +1,80 @@
+{
+  "id": 1158793445,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16510104",
+    "cbsnl:BU_NAAM":"Hooilandseweg",
+    "cbsnl:GM_CODE":"GM1651",
+    "cbsnl:GM_NAAM":"Eemsmond",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"106",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK165101",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:area_square_m":764359.155369,
+    "geom:bbox":"6.76854442043,53.4129450176,6.78969003383,53.4210376444",
+    "geom:latitude":53.416638,
+    "geom:longitude":6.778698,
+    "iso:country":"NL",
+    "lbl:latitude":53.416524,
+    "lbl:longitude":6.778712,
+    "mps:latitude":53.416524,
+    "mps:longitude":6.778712,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hooilandseweg"
+    ],
+    "name:nld_x_preferred":[
+        "Hooilandseweg"
+    ],
+    "reversegeo:latitude":53.416524,
+    "reversegeo:longitude":6.778712,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404474561,
+        85633337,
+        101807537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b2c557b5c5a21ccc4cf90b8f1c7b7019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474561,
+            "locality_id":101807537,
+            "neighbourhood_id":1158793445,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793445,
+    "wof:lastmodified":1513382308,
+    "wof:name":"Hooilandseweg",
+    "wof:parent_id":101807537,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.76854442042523,
+    53.41294501764668,
+    6.789690033830361,
+    53.42103764443254
+],
+  "geometry": {"coordinates":[[[[6.76854442042523,53.41706554126959],[6.76858312723307,53.41714372550644],[6.77262846873768,53.42103764443254],[6.77431384422168,53.4206323991295],[6.77651200919149,53.42036386576883],[6.77905523094511,53.41984250160753],[6.78072987556797,53.41938505662279],[6.78341836397527,53.41861423885219],[6.78533187874404,53.41801748048884],[6.78726637337415,53.41728004106665],[6.78969003383036,53.41618697324612],[6.78825113555027,53.41528320918347],[6.78743425958722,53.41444801630434],[6.78691385157881,53.41347851151482],[6.78682762506193,53.41355140321256],[6.78468943186936,53.4131583888584],[6.7810519053362,53.41294501764668],[6.77901662881919,53.41307864662553],[6.77704785581935,53.41344511256128],[6.77526852000234,53.41391494872629],[6.77351626321763,53.41456248488237],[6.77031884719556,53.41592583772155],[6.76854442042523,53.41706554126959]]]],"type":"MultiPolygon"}
+}

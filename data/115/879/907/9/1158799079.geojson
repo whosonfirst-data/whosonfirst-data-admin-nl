@@ -1,0 +1,82 @@
+{
+  "id": 1158799079,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08550103",
+    "cbsnl:BU_NAAM":"Hoevenseweg",
+    "cbsnl:GM_CODE":"GM0855",
+    "cbsnl:GM_NAAM":"Tilburg",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2117",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK085501",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":249651.663017,
+    "geom:bbox":"5.09980116369,51.5487321753,5.10992762331,51.554989496",
+    "geom:latitude":51.551934,
+    "geom:longitude":5.104828,
+    "iso:country":"NL",
+    "lbl:latitude":51.551844,
+    "lbl:longitude":5.104828,
+    "mps:latitude":51.551844,
+    "mps:longitude":5.104828,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hoevenseweg"
+    ],
+    "name:nld_x_preferred":[
+        "Hoevenseweg"
+    ],
+    "reversegeo:latitude":51.551844,
+    "reversegeo:longitude":5.104828,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801785,
+        404474435,
+        85633337,
+        101751817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"36d6f2fdc0f0255e840fd981e6cf0b89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474435,
+            "locality_id":101751817,
+            "macrohood_id":1158801785,
+            "neighbourhood_id":1158799079,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799079,
+    "wof:lastmodified":1513432724,
+    "wof:name":"Hoevenseweg",
+    "wof:parent_id":1158801785,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.099801163690104,
+    51.54873217526873,
+    5.10992762331117,
+    51.55498949599331
+],
+  "geometry": {"coordinates":[[[[5.10619057442059,51.55498949599331],[5.10774217892655,51.55333121370111],[5.10808159512056,51.55300214086935],[5.10875997854485,51.55241500172834],[5.10978849290889,51.55162644524958],[5.10992762331117,51.55150902416515],[5.10889792134141,51.55107961697249],[5.10382304111976,51.54873217526873],[5.10145561218693,51.55104638524359],[5.0998011636901,51.55275556730869],[5.10040854494499,51.55292604518758],[5.10382259582463,51.5541217701389],[5.10619057442059,51.55498949599331]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158806677,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09710201",
+    "cbsnl:BU_NAAM":"Urmond ten westen van Julianakanaal",
+    "cbsnl:GM_CODE":"GM0971",
+    "cbsnl:GM_NAAM":"Stein",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"543",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK097102",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":630727.281826,
+    "geom:bbox":"5.75913814412,50.9849903323,5.77211579552,50.9976878534",
+    "geom:latitude":50.992688,
+    "geom:longitude":5.765851,
+    "iso:country":"NL",
+    "lbl:latitude":50.992636,
+    "lbl:longitude":5.765851,
+    "mps:latitude":50.992636,
+    "mps:longitude":5.765851,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Urmond ten westen van Julianakanaal"
+    ],
+    "name:nld_x_preferred":[
+        "Urmond ten westen van Julianakanaal"
+    ],
+    "reversegeo:latitude":50.992636,
+    "reversegeo:longitude":5.765851,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474521,
+        85633337,
+        101839285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f73c0d39f2bce2991b98d2c7d3671937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474521,
+            "locality_id":101839285,
+            "neighbourhood_id":1158806677,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806677,
+    "wof:lastmodified":1513404048,
+    "wof:name":"Urmond ten westen van Julianakanaal",
+    "wof:parent_id":101839285,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.759138144119803,
+    50.984990332258334,
+    5.772115795523738,
+    50.997687853367204
+],
+  "geometry": {"coordinates":[[[[5.7660870812788,50.9976878533672],[5.7699340747352,50.99730321821327],[5.77211579552374,50.99707126714555],[5.77191597230328,50.99635619156795],[5.77125639215269,50.99444487300149],[5.77007815409986,50.99235155516767],[5.76851041439297,50.98999546252524],[5.76623343727279,50.98709952967636],[5.76518488625677,50.98584704161229],[5.76439618153589,50.98499033225833],[5.76466495762065,50.98599452616399],[5.76375727737049,50.9873267106009],[5.76291545031661,50.98888198989881],[5.76123623491373,50.99063941412646],[5.7591381441198,50.99316631752197],[5.75967993957199,50.99346709176538],[5.76070573460963,50.99416878573039],[5.76169109446123,50.99476354418273],[5.76271548796157,50.99540814534616],[5.76373288128641,50.99599451309361],[5.76493916804833,50.99652003001853],[5.76571838417875,50.99731417041311],[5.7660870812788,50.9976878533672]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158796933,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07560006",
+    "cbsnl:BU_NAAM":"Hollesteeg",
+    "cbsnl:GM_CODE":"GM0756",
+    "cbsnl:GM_NAAM":"Boxmeer",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"844",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK075600",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":323898.033314,
+    "geom:bbox":"5.92930958792,51.6525452276,5.94275854286,51.6570940649",
+    "geom:latitude":51.655122,
+    "geom:longitude":5.93636,
+    "iso:country":"NL",
+    "lbl:latitude":51.655138,
+    "lbl:longitude":5.93636,
+    "mps:latitude":51.655138,
+    "mps:longitude":5.93636,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hollesteeg"
+    ],
+    "name:nld_x_preferred":[
+        "Hollesteeg"
+    ],
+    "reversegeo:latitude":51.655138,
+    "reversegeo:longitude":5.93636,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474359,
+        85633337,
+        101839331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"bff7e6daf40a14646324cb9c2da220af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474359,
+            "locality_id":101839331,
+            "neighbourhood_id":1158796933,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158796933,
+    "wof:lastmodified":1513432558,
+    "wof:name":"Hollesteeg",
+    "wof:parent_id":101839331,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.929309587918187,
+    51.652545227600505,
+    5.942758542858122,
+    51.65709406487748
+],
+  "geometry": {"coordinates":[[[[5.94242735046919,51.65703463582357],[5.94275854285812,51.6550603236125],[5.94275345839722,51.65494040636694],[5.94271913286684,51.65414872002668],[5.9412646709665,51.65375224832159],[5.93889308906994,51.6536721636671],[5.93801812712839,51.6536338699594],[5.93787164621965,51.65341602050741],[5.93665287840518,51.6531602367708],[5.93648141516924,51.65352508428531],[5.93548984208492,51.6533103529071],[5.93437480379018,51.65304198025058],[5.93321692582168,51.65272154901373],[5.93229561855279,51.65254522760051],[5.92930958791819,51.65599643427468],[5.93176383833972,51.65601369039022],[5.93177475627239,51.65697739694556],[5.93446352713632,51.65709406487748],[5.93445341859742,51.65685562911619],[5.93603967737284,51.65694482801134],[5.93605622019118,51.65676329215007],[5.93998131123944,51.65693694855405],[5.94242735046919,51.65703463582357]]]],"type":"MultiPolygon"}
+}

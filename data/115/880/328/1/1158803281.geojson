@@ -1,0 +1,81 @@
+{
+  "id": 1158803281,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01800305",
+    "cbsnl:BU_NAAM":"Verspreide huizen Lankhorst",
+    "cbsnl:GM_CODE":"GM0180",
+    "cbsnl:GM_NAAM":"Staphorst",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"54",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK018003",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00047,
+    "geom:area_square_m":3523253.810018,
+    "geom:bbox":"6.19925121068,52.6569960586,6.25080418982,52.6714064228",
+    "geom:latitude":52.665776,
+    "geom:longitude":6.222224,
+    "iso:country":"NL",
+    "lbl:latitude":52.666478,
+    "lbl:longitude":6.221735,
+    "mps:latitude":52.666478,
+    "mps:longitude":6.221735,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen Lankhorst"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen Lankhorst"
+    ],
+    "reversegeo:latitude":52.666478,
+    "reversegeo:longitude":6.221735,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473853,
+        85633337,
+        101837859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1cddc770a77906d0118bad83ef1bc49f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473853,
+            "locality_id":101837859,
+            "neighbourhood_id":1158803281,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803281,
+    "wof:lastmodified":1513524328,
+    "wof:name":"Verspreide huizen Lankhorst",
+    "wof:parent_id":101837859,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.199251210676684,
+    52.65699605863056,
+    6.250804189817329,
+    52.67140642279089
+],
+  "geometry": {"coordinates":[[[[6.19925121067668,52.67115220215861],[6.19992396318038,52.67124281632024],[6.20031300486117,52.67140642279089],[6.21343180800782,52.67135924325386],[6.22778376032872,52.67138616468383],[6.23795541427939,52.66962419544893],[6.25074524362686,52.66729778385945],[6.25080418981733,52.66209279456525],[6.24558065599036,52.65983967140548],[6.24193745800887,52.66342774562365],[6.23267709222702,52.66260223959762],[6.22677461255268,52.6620590422722],[6.2221715896285,52.66158563627765],[6.22086620939563,52.66157316913682],[6.21800424551506,52.66101435866323],[6.21396327744054,52.66023085510603],[6.20900255960202,52.65855595794328],[6.20464732519717,52.65699605863056],[6.20394132210998,52.65757807068302],[6.20334411345027,52.65852303830447],[6.20328558649069,52.65864196235629],[6.20025818843052,52.66637134513331],[6.1996707346344,52.66937882669548],[6.19925121067668,52.67115220215861]]]],"type":"MultiPolygon"}
+}

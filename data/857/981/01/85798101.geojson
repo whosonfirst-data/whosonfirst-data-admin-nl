@@ -1,0 +1,115 @@
+{
+  "id": 85798101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-08-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10038950.755174,
+    "geom:bbox":"6.560587,52.996307,6.560587,52.996307",
+    "geom:latitude":52.996307,
+    "geom:longitude":6.560587,
+    "gn:latitude":53.00806,
+    "gn:longitude":6.5605,
+    "iso:country":"NL",
+    "lbl:latitude":52.996307,
+    "lbl:longitude":6.560587,
+    "mps:latitude":53.005268,
+    "mps:longitude":6.566331,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:nld_x_preferred":[
+        "Noorderpark"
+    ],
+    "name:unk_x_variant":[
+        "Noorderpark"
+    ],
+    "qs:gn_adm0_cc":"NL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2759633,
+    "qs:gn_nam_loc":"Assen, Assen, Drenthe, NL",
+    "qs:gn_namadm1":"01",
+    "qs:gn_name":"Noorderpark",
+    "qs:local_max":5344,
+    "qs:local_sum":8178,
+    "qs:localhoods":4,
+    "qs:name":"Noorderpark",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Drenthe",
+    "qs:name_adm2":"Assen",
+    "qs:name_local":"Assen",
+    "qs:photo_max":254,
+    "qs:photo_sum":1581,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":70,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346373,
+    "qs:woe_adm2":12592048,
+    "qs:woe_lau":0,
+    "qs:woe_local":727378,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        1158792259,
+        404473805,
+        85633337,
+        101751879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2749910,
+        "gp:id":732142,
+        "qs:id":442003,
+        "qs_pg:id":442003
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"71b684364f72543deb40df2f268d1c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473805,
+            "locality_id":101751879,
+            "macrohood_id":1158792259,
+            "neighbourhood_id":85798101,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":85798101,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531861925,
+    "wof:name":"Noorderpark",
+    "wof:parent_id":1158792259,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158791961
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.560587,
+    52.996307,
+    6.560587,
+    52.996307
+],
+  "geometry": {"coordinates":[6.560587,52.996307],"type":"Point"}
+}

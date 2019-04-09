@@ -1,0 +1,80 @@
+{
+  "id": 1141963833,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02680735",
+    "cbsnl:BU_NAAM":"Aldenhof",
+    "cbsnl:GM_CODE":"GM0268",
+    "cbsnl:GM_NAAM":"Nijmegen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1835",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK026807",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":425325.125243,
+    "geom:bbox":"5.79446224951,51.8013115486,5.80648451842,51.8095244596",
+    "geom:latitude":51.80569,
+    "geom:longitude":5.800585,
+    "iso:country":"NL",
+    "lbl:latitude":51.805252,
+    "lbl:longitude":5.800675,
+    "mps:latitude":51.805252,
+    "mps:longitude":5.800675,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Aldenhof"
+    ],
+    "name:nld_x_preferred":[
+        "Aldenhof"
+    ],
+    "reversegeo:latitude":51.805252,
+    "reversegeo:longitude":5.800675,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473925,
+        85633337,
+        1158783841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"20d882f306c1ee89ce0d910f63052dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473925,
+            "locality_id":1158783841,
+            "neighbourhood_id":1141963833,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963833,
+    "wof:lastmodified":1513368773,
+    "wof:name":"Aldenhof",
+    "wof:parent_id":1158783841,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.794462249508705,
+    51.80131154861732,
+    5.806484518422351,
+    51.809524459618736
+],
+  "geometry": {"coordinates":[[[[5.7944622495087,51.80778232564472],[5.79459487474415,51.80784197651825],[5.79703803590414,51.80862894390577],[5.79748937903502,51.80803412630097],[5.79944661754843,51.80847499987051],[5.79898916241645,51.80919203413349],[5.80061312998137,51.80950372516096],[5.80286168820782,51.80946150971471],[5.80340762362711,51.80952445961874],[5.80340218183713,51.8083217070528],[5.80376667617202,51.80743420443476],[5.80456607967562,51.80622157038396],[5.80648451842235,51.80407546779737],[5.80637551964242,51.80404776845163],[5.80481365888462,51.80338032818533],[5.8001406557253,51.80131154861732],[5.80009494068161,51.80139063917972],[5.79881555662778,51.80226533357916],[5.79791121429975,51.80325808077851],[5.79581850169516,51.80606361874216],[5.7944622495087,51.80778232564472]]]],"type":"MultiPolygon"}
+}

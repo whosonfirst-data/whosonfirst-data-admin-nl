@@ -1,0 +1,80 @@
+{
+  "id": 1158791893,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17311600",
+    "cbsnl:BU_NAAM":"Garminge",
+    "cbsnl:GM_CODE":"GM1731",
+    "cbsnl:GM_NAAM":"Midden-Drenthe",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"17",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK173116",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":253170.712897,
+    "geom:bbox":"6.61821072978,52.8170309882,6.62890337122,52.8239459186",
+    "geom:latitude":52.820057,
+    "geom:longitude":6.623631,
+    "iso:country":"NL",
+    "lbl:latitude":52.81899,
+    "lbl:longitude":6.624886,
+    "mps:latitude":52.81899,
+    "mps:longitude":6.624886,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Garminge"
+    ],
+    "name:nld_x_preferred":[
+        "Garminge"
+    ],
+    "reversegeo:latitude":52.81899,
+    "reversegeo:longitude":6.624886,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474649,
+        85633337,
+        1158792231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e412c7e0e3bafe04ae498b878a527229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474649,
+            "locality_id":1158792231,
+            "neighbourhood_id":1158791893,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791893,
+    "wof:lastmodified":1513292371,
+    "wof:name":"Garminge",
+    "wof:parent_id":1158792231,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.618210729783696,
+    52.81703098822609,
+    6.628903371222291,
+    52.82394591858681
+],
+  "geometry": {"coordinates":[[[[6.62369965444353,52.81703285397755],[6.62213230642334,52.81721424922115],[6.6211683623822,52.81764440002023],[6.62155835571237,52.81811670168872],[6.62178563596383,52.81833454258846],[6.62297536114306,52.81948834749434],[6.62145725968614,52.82021072159798],[6.62014650068325,52.82129211895941],[6.6182107297837,52.82335510143105],[6.61974373681015,52.82394591858681],[6.62054346121177,52.82316191237487],[6.62187845868404,52.82372610193583],[6.62693611303636,52.81984548088163],[6.62802605919494,52.81935499017435],[6.62858217153232,52.81825271877478],[6.62890337122229,52.8176539478135],[6.62708249619372,52.81757572588893],[6.62723163085344,52.81703098822609],[6.62631889519454,52.81706575894049],[6.62369965444353,52.81703285397755]]]],"type":"MultiPolygon"}
+}

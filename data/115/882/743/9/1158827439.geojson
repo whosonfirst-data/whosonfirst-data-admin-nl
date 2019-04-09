@@ -1,0 +1,78 @@
+{
+  "id": 1158827439,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06270203",
+    "cbsnl:BU_NAAM":"Zuidplas 90",
+    "cbsnl:GM_CODE":"GM0627",
+    "cbsnl:GM_NAAM":"Waddinxveen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"746",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK062702",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":306917.250586,
+    "geom:bbox":"4.62504626697,52.0300224468,4.63741049555,52.0375431321",
+    "geom:latitude":52.033781,
+    "geom:longitude":4.63121,
+    "iso:country":"NL",
+    "lbl:latitude":52.033772,
+    "lbl:longitude":4.63121,
+    "mps:latitude":52.033772,
+    "mps:longitude":4.63121,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zuidplas 90"
+    ],
+    "name:nld_x_preferred":[
+        "Zuidplas 90"
+    ],
+    "reversegeo:latitude":52.033772,
+    "reversegeo:longitude":4.63121,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        101754715,
+        85633337,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"815cc083d7ed0c959d261084f24bde6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754715,
+            "neighbourhood_id":1158827439,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827439,
+    "wof:lastmodified":1513588149,
+    "wof:name":"Zuidplas 90",
+    "wof:parent_id":101754715,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.625046266971249,
+    52.03002244676681,
+    4.637410495551658,
+    52.03754313209723
+],
+  "geometry": {"coordinates":[[[[4.63741049555166,52.032387878497],[4.63478943181384,52.03076706631857],[4.6336356227853,52.03002244676681],[4.63301744565226,52.0303276538355],[4.63177086756072,52.03108544238934],[4.63057123746603,52.03180071304121],[4.62941052395123,52.03249243862238],[4.62783682540918,52.03343358048399],[4.62504626697125,52.03506839975954],[4.62890996676003,52.03754313209723],[4.62941329896482,52.03725266560294],[4.62969274417251,52.03726040822346],[4.63051094812027,52.03676327438455],[4.63070569360894,52.03664858932298],[4.63070870578831,52.03647024379222],[4.6308292968436,52.03646507311127],[4.63082146577161,52.03635800311449],[4.63365555406128,52.0346490083098],[4.63575443616072,52.03336927718859],[4.63722772033115,52.03248065315847],[4.63741049555166,52.032387878497]]]],"type":"MultiPolygon"}
+}

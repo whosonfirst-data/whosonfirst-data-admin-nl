@@ -1,0 +1,86 @@
+{
+  "id": 1141963159,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02300100",
+    "cbsnl:BU_NAAM":"Elburg Stad",
+    "cbsnl:GM_CODE":"GM0230",
+    "cbsnl:GM_NAAM":"Elburg",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"775",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK023001",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":218663.304385,
+    "geom:bbox":"5.8285978246,52.4454888312,5.83904591358,52.4519344301",
+    "geom:latitude":52.448622,
+    "geom:longitude":5.833929,
+    "iso:country":"NL",
+    "lbl:latitude":52.448625,
+    "lbl:longitude":5.833929,
+    "mps:latitude":52.448625,
+    "mps:longitude":5.833929,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Stad"
+    ],
+    "name:eng_x_variant":[
+        "Elburg Stad"
+    ],
+    "name:nld_x_preferred":[
+        "Stad"
+    ],
+    "name:nld_x_variant":[
+        "Elburg Stad"
+    ],
+    "reversegeo:latitude":52.448625,
+    "reversegeo:longitude":5.833929,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473895,
+        85633337,
+        101837785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"41790b717cec5fee94a7344d245e94a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473895,
+            "locality_id":101837785,
+            "neighbourhood_id":1141963159,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963159,
+    "wof:lastmodified":1513368726,
+    "wof:name":"Stad",
+    "wof:parent_id":101837785,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.828597824597529,
+    52.44548883116785,
+    5.839045913575512,
+    52.45193443006444
+],
+  "geometry": {"coordinates":[[[[5.83571896281431,52.44548883116785],[5.83562849233284,52.44556472468786],[5.83224080662931,52.4471520063785],[5.83118793865148,52.44760814158465],[5.83003778953289,52.44792251665029],[5.82859782459753,52.44821633495484],[5.830353143016,52.44930092454299],[5.83079173745309,52.449604859357],[5.83171530398673,52.45105120056765],[5.83248316302529,52.45193443006444],[5.83375955285061,52.45100194548061],[5.83477943011767,52.45032403162323],[5.83539500187859,52.45010150975304],[5.83904591357551,52.4488015800349],[5.83704568019968,52.44738298030508],[5.83638507045742,52.4464929125192],[5.83572644825347,52.4456604093506],[5.83571896281431,52.44548883116785]]]],"type":"MultiPolygon"}
+}

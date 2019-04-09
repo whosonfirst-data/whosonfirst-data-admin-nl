@@ -1,0 +1,82 @@
+{
+  "id": 1158803427,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01931160",
+    "cbsnl:BU_NAAM":"Indischebuurt",
+    "cbsnl:GM_CODE":"GM0193",
+    "cbsnl:GM_NAAM":"Zwolle",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3051",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK019311",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":101791.842031,
+    "geom:bbox":"6.10656101134,52.5146850249,6.11308700984,52.5186630658",
+    "geom:latitude":52.516767,
+    "geom:longitude":6.109624,
+    "iso:country":"NL",
+    "lbl:latitude":52.516887,
+    "lbl:longitude":6.109624,
+    "mps:latitude":52.516887,
+    "mps:longitude":6.109624,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Indischebuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Indischebuurt"
+    ],
+    "reversegeo:latitude":52.516887,
+    "reversegeo:longitude":6.109624,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805787,
+        404473861,
+        85633337,
+        101751861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"33d1dcd9110a1be01c63650cfbf0979b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158805787,
+            "neighbourhood_id":1158803427,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803427,
+    "wof:lastmodified":1513524338,
+    "wof:name":"Indischebuurt",
+    "wof:parent_id":1158805787,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.106561011340022,
+    52.51468502486689,
+    6.113087009839475,
+    52.5186630658173
+],
+  "geometry": {"coordinates":[[[[6.10969605408784,52.5186630658173],[6.11108472928171,52.51842224804268],[6.11308700983948,52.5173506629091],[6.10887075351419,52.51468502486689],[6.10752485834784,52.51533316647755],[6.10714380314486,52.51555608768281],[6.10703031866876,52.51567412048791],[6.10690248121593,52.51585560657763],[6.10677620928027,52.51613330584257],[6.10656101134002,52.51660275896213],[6.1072345791834,52.51685917735917],[6.10764177559656,52.5170585373464],[6.10910035757529,52.51824551767243],[6.10969605408784,52.5186630658173]]]],"type":"MultiPolygon"}
+}

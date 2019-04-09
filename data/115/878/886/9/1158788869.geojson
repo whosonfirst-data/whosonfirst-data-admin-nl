@@ -1,0 +1,81 @@
+{
+  "id": 1158788869,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07360308",
+    "cbsnl:BU_NAAM":"Verspreide huizen in de polder Groot-Mijdrecht",
+    "cbsnl:GM_CODE":"GM0736",
+    "cbsnl:GM_NAAM":"De Ronde Venen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"434",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK073603",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000368,
+    "geom:area_square_m":2787023.345002,
+    "geom:bbox":"4.88637811777,52.1963520734,4.91937966313,52.211829967",
+    "geom:latitude":52.205521,
+    "geom:longitude":4.905664,
+    "iso:country":"NL",
+    "lbl:latitude":52.205152,
+    "lbl:longitude":4.910928,
+    "mps:latitude":52.205152,
+    "mps:longitude":4.910928,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen in de polder Groot-Mijdrecht"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen in de polder Groot-Mijdrecht"
+    ],
+    "reversegeo:latitude":52.205152,
+    "reversegeo:longitude":4.910928,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474341,
+        85633337,
+        101837677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1ac44debb10b841c92880bb51ac8284c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474341,
+            "locality_id":101837677,
+            "neighbourhood_id":1158788869,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788869,
+    "wof:lastmodified":1513622047,
+    "wof:name":"Verspreide huizen in de polder Groot-Mijdrecht",
+    "wof:parent_id":101837677,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.886378117768402,
+    52.19635207343014,
+    4.91937966312776,
+    52.21182996700403
+],
+  "geometry": {"coordinates":[[[[4.91921354146243,52.21182996700403],[4.91926643812361,52.20707469799282],[4.91937966312776,52.19726644578114],[4.91680325898453,52.19635207343014],[4.91543704329703,52.19746731443655],[4.91487536887136,52.1973302490932],[4.9147973028279,52.19738583143338],[4.91403373864374,52.19752658202732],[4.91320799668042,52.19732441079313],[4.9116959501386,52.1968869075304],[4.91038952364644,52.19650077278354],[4.90931198001848,52.19645765470407],[4.90454612250094,52.19732976802306],[4.90464919852186,52.20226010538963],[4.89133615036249,52.20205849558737],[4.8912285145839,52.20673699378657],[4.88648923161444,52.20671699442264],[4.8863781177684,52.21154165484761],[4.91921354146243,52.21182996700403]]]],"type":"MultiPolygon"}
+}

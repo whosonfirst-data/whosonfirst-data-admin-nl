@@ -1,0 +1,80 @@
+{
+  "id": 1158826997,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06060301",
+    "cbsnl:BU_NAAM":"Schildersbuurt",
+    "cbsnl:GM_CODE":"GM0606",
+    "cbsnl:GM_NAAM":"Schiedam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2659",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060603",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":115239.541553,
+    "geom:bbox":"4.37843027635,51.910830887,4.38562552951,51.9152193778",
+    "geom:latitude":51.913008,
+    "geom:longitude":4.382001,
+    "iso:country":"NL",
+    "lbl:latitude":51.912916,
+    "lbl:longitude":4.382057,
+    "mps:latitude":51.912916,
+    "mps:longitude":4.382057,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schildersbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Schildersbuurt"
+    ],
+    "reversegeo:latitude":51.912916,
+    "reversegeo:longitude":4.382057,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831283,
+        85633337,
+        101751845,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"702db208096362a94c6e4f3fa616da2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "macrohood_id":1158831283,
+            "neighbourhood_id":1158826997,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826997,
+    "wof:lastmodified":1513588112,
+    "wof:name":"Schildersbuurt",
+    "wof:parent_id":1158831283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.378430276350386,
+    51.91083088702115,
+    4.385625529514259,
+    51.91521937782678
+],
+  "geometry": {"coordinates":[[[[4.37948296248183,51.91370751380875],[4.37969902949008,51.91375772638114],[4.37991156328264,51.91390445947938],[4.38278174762205,51.91467651355721],[4.38333829507339,51.9148127706858],[4.38556760207723,51.91521937782678],[4.38562552951426,51.91513480278073],[4.38558322015804,51.91512497495091],[4.38500173421597,51.91447113634091],[4.38421683361915,51.91335150719598],[4.38354275979172,51.91233534971141],[4.3835249085336,51.91129895135217],[4.38164103518573,51.9113645878931],[4.37933333755504,51.91111363883785],[4.37843027635039,51.91083088702115],[4.37906562016176,51.91137567069448],[4.37910642376061,51.91152342344049],[4.37944531408822,51.91191263204175],[4.37955218651186,51.91220837359126],[4.37955222594602,51.91321920357817],[4.37948296248183,51.91370751380875]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158803629,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17000301",
+    "cbsnl:BU_NAAM":"'t Sumpel",
+    "cbsnl:GM_CODE":"GM1700",
+    "cbsnl:GM_NAAM":"Twenterand",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"457",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170003",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":261662.406517,
+    "geom:bbox":"6.48144340657,52.4640057863,6.49147088674,52.4704405928",
+    "geom:latitude":52.466988,
+    "geom:longitude":6.487344,
+    "iso:country":"NL",
+    "lbl:latitude":52.466968,
+    "lbl:longitude":6.488256,
+    "mps:latitude":52.466968,
+    "mps:longitude":6.488256,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "'t Sumpel"
+    ],
+    "name:nld_x_preferred":[
+        "'t Sumpel"
+    ],
+    "reversegeo:latitude":52.466968,
+    "reversegeo:longitude":6.488256,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474611,
+        85633337,
+        101807205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7abd441954eceb2eb74bc6e0c6108400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474611,
+            "locality_id":101807205,
+            "neighbourhood_id":1158803629,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803629,
+    "wof:lastmodified":1513524351,
+    "wof:name":"'t Sumpel",
+    "wof:parent_id":101807205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.481443406566974,
+    52.46400578629313,
+    6.491470886743282,
+    52.47044059283015
+],
+  "geometry": {"coordinates":[[[[6.48144340656697,52.4670055275467],[6.48165100567761,52.46708943985158],[6.48992445818831,52.47044059283015],[6.49121726301914,52.46692965212964],[6.4911180514705,52.46672300855505],[6.49130395067662,52.46669360267072],[6.49140515958353,52.46635504578109],[6.49147088674328,52.46613516861074],[6.49087872171358,52.46622477695595],[6.49080588958728,52.46607315362986],[6.49025434300444,52.46473119383258],[6.49001080387602,52.46422282156414],[6.48947854192431,52.46401205831182],[6.48870304962472,52.46400578629313],[6.48797396431274,52.46427490216158],[6.48748790657407,52.46461759361186],[6.48679692732337,52.46501662880734],[6.48586743048234,52.46505907846303],[6.48417517468228,52.46529129199289],[6.48354851902244,52.46560480058498],[6.48144340656697,52.4670055275467]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1158806291,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09280003",
+    "cbsnl:BU_NAAM":"Kaalheide",
+    "cbsnl:GM_CODE":"GM0928",
+    "cbsnl:GM_NAAM":"Kerkrade",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1161",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK092800",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000116,
+    "geom:area_square_m":901598.398262,
+    "geom:bbox":"6.03184202064,50.8574959564,6.04993877551,50.8679895871",
+    "geom:latitude":50.862819,
+    "geom:longitude":6.04024,
+    "iso:country":"NL",
+    "lbl:latitude":50.863272,
+    "lbl:longitude":6.040068,
+    "mps:latitude":50.863272,
+    "mps:longitude":6.040068,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Kaalheide"
+    ],
+    "name:eng_x_preferred":[
+        "Kaalheide"
+    ],
+    "name:fre_x_preferred":[
+        "Kaalheide"
+    ],
+    "name:lim_x_preferred":[
+        "Kaalhei"
+    ],
+    "name:nld_x_preferred":[
+        "Kaalheide"
+    ],
+    "reversegeo:latitude":50.863272,
+    "reversegeo:longitude":6.040068,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158818151,
+        404474489,
+        85633337,
+        101839255,
+        85687033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2364203"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"96a183e1c357fe0929c37dbd93279b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":101839255,
+            "macrohood_id":1158818151,
+            "neighbourhood_id":1158806291,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806291,
+    "wof:lastmodified":1514492447,
+    "wof:name":"Kaalheide",
+    "wof:parent_id":1158818151,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.03184202064474,
+    50.85749595640546,
+    6.0499387755077,
+    50.86798958714648
+],
+  "geometry": {"coordinates":[[[[6.03222666654845,50.86777644430012],[6.03785956581181,50.86770977055594],[6.03933772888189,50.86776970451038],[6.03941562890675,50.8673594214469],[6.0408421265413,50.86798958714648],[6.04093269285906,50.86794655726973],[6.04111712098438,50.86798706509587],[6.04328933840027,50.86713145922861],[6.04362287928077,50.86662865643489],[6.04384780086143,50.865978499591],[6.04393170219908,50.86587483092811],[6.04396369907776,50.86583054734638],[6.04800047722486,50.86034418541983],[6.0499387755077,50.85774341062425],[6.0481894358008,50.85766156783509],[6.0449701599965,50.85759200459515],[6.0434833688059,50.85749595640546],[6.04202135445578,50.85946581731606],[6.0390651010385,50.85860412858241],[6.03758549262321,50.85993749809641],[6.0347369060438,50.8590590798786],[6.03412654811397,50.86091058249642],[6.03368127403055,50.86238193371837],[6.0333648433699,50.86311630724572],[6.03184202064474,50.86473131334476],[6.03344900950022,50.86486953811055],[6.03222666654845,50.86777644430012]]]],"type":"MultiPolygon"}
+}

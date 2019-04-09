@@ -1,0 +1,82 @@
+{
+  "id": 1158819749,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04000507",
+    "cbsnl:BU_NAAM":"Landmetersbuurt",
+    "cbsnl:GM_CODE":"GM0400",
+    "cbsnl:GM_NAAM":"Den Helder",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1163",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK040005",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":291527.996389,
+    "geom:bbox":"4.7644695234,52.9268868681,4.7728917397,52.9332724941",
+    "geom:latitude":52.930204,
+    "geom:longitude":4.769162,
+    "iso:country":"NL",
+    "lbl:latitude":52.929897,
+    "lbl:longitude":4.768821,
+    "mps:latitude":52.929897,
+    "mps:longitude":4.768821,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Landmetersbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Landmetersbuurt"
+    ],
+    "reversegeo:latitude":52.929897,
+    "reversegeo:longitude":4.768821,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823003,
+        404474079,
+        85633337,
+        101806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"2689b86f1809f5c2af01c39b628c69ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474079,
+            "locality_id":101806071,
+            "macrohood_id":1158823003,
+            "neighbourhood_id":1158819749,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158819749,
+    "wof:lastmodified":1513464168,
+    "wof:name":"Landmetersbuurt",
+    "wof:parent_id":1158823003,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.764469523402675,
+    52.92688686808144,
+    4.772891739702548,
+    52.93327249408678
+],
+  "geometry": {"coordinates":[[[[4.77103222963576,52.93318536922998],[4.7719174516412,52.93327249408678],[4.77285314768925,52.93325765201681],[4.77287263829055,52.93282246473859],[4.77289173970255,52.93168070927953],[4.7728464287761,52.93056670306391],[4.77281869554475,52.92968138375458],[4.7726567091592,52.92914697319081],[4.77161548161853,52.9291623952175],[4.77153480856697,52.92697543319198],[4.76836265383481,52.92699330584964],[4.76711641101398,52.92688686808144],[4.7651136377905,52.93062498092909],[4.76446952340268,52.93188423825276],[4.76523663591494,52.93211121222618],[4.76585541634219,52.93221328407471],[4.76811262451689,52.93265972653466],[4.7697172854266,52.93298593013323],[4.77103222963576,52.93318536922998]]]],"type":"MultiPolygon"}
+}

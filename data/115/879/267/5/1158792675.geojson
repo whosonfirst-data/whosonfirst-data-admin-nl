@@ -1,0 +1,80 @@
+{
+  "id": 1158792675,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00140810",
+    "cbsnl:BU_NAAM":"De Buitenhof",
+    "cbsnl:GM_CODE":"GM0014",
+    "cbsnl:GM_NAAM":"Groningen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"364",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK001408",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":363662.788848,
+    "geom:bbox":"6.52395575308,53.1973421441,6.5334144809,53.2046592998",
+    "geom:latitude":53.200707,
+    "geom:longitude":6.52903,
+    "iso:country":"NL",
+    "lbl:latitude":53.200844,
+    "lbl:longitude":6.52912,
+    "mps:latitude":53.200844,
+    "mps:longitude":6.52912,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Buitenhof"
+    ],
+    "name:nld_x_preferred":[
+        "De Buitenhof"
+    ],
+    "reversegeo:latitude":53.200844,
+    "reversegeo:longitude":6.52912,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473713,
+        85633337,
+        101754893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"2d2743f55cd6f31a0651b4add162d408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473713,
+            "locality_id":101754893,
+            "neighbourhood_id":1158792675,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158792675,
+    "wof:lastmodified":1513382260,
+    "wof:name":"De Buitenhof",
+    "wof:parent_id":101754893,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.523955753084637,
+    53.19734214408863,
+    6.533414480900595,
+    53.20465929977106
+],
+  "geometry": {"coordinates":[[[[6.53191164419385,53.20465929977106],[6.53198362372717,53.20460254509057],[6.53291019083374,53.2014842472655],[6.5324439753966,53.20142611099163],[6.53299090421524,53.19906322053815],[6.5334144809006,53.19747189656263],[6.53206965764332,53.19734214408863],[6.52948237847039,53.19758410235831],[6.52890935653425,53.19764784343284],[6.52760487755981,53.19779980313515],[6.5248694503683,53.19845858247074],[6.5247551804146,53.198773363288],[6.52395575308464,53.20049328893838],[6.52501730011435,53.20077511285795],[6.52465985490194,53.20278100941277],[6.52481814618265,53.20280592120377],[6.5255272225372,53.2029772564015],[6.52656107509669,53.2032270595952],[6.52711244548732,53.20338735916233],[6.52780385243747,53.20364153411975],[6.52799511708904,53.20372680767274],[6.52834619627142,53.20389592093704],[6.52864685252299,53.2039747738044],[6.52914927247542,53.20406927340144],[6.53158638945466,53.20457163694505],[6.53191164419385,53.20465929977106]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1158787045,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09951222",
+    "cbsnl:BU_NAAM":"Damrif, Kustrif, Gors, Zandbank",
+    "cbsnl:GM_CODE":"GM0995",
+    "cbsnl:GM_NAAM":"Lelystad",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1987",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK099512",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":306255.995265,
+    "geom:bbox":"5.47788014104,52.5113953626,5.48549711533,52.5177620594",
+    "geom:latitude":52.514614,
+    "geom:longitude":5.481505,
+    "iso:country":"NL",
+    "lbl:latitude":52.514541,
+    "lbl:longitude":5.481505,
+    "mps:latitude":52.514541,
+    "mps:longitude":5.481505,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Damrif",
+        "Kustrif",
+        "Gors",
+        "Zandbank"
+    ],
+    "name:nld_x_preferred":[
+        "Damrif",
+        "Kustrif",
+        "Gors",
+        "Zandbank"
+    ],
+    "reversegeo:latitude":52.514541,
+    "reversegeo:longitude":5.481505,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158787361,
+        85633337,
+        101751873,
+        85687049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ab278e05dde5d5bf6b72cb669002e19e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751873,
+            "macrohood_id":1158787361,
+            "neighbourhood_id":1158787045,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158787045,
+    "wof:lastmodified":1513299290,
+    "wof:name":"Damrif, Kustrif, Gors, Zandbank",
+    "wof:parent_id":1158787361,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.477880141037909,
+    52.511395362559455,
+    5.485497115330585,
+    52.51776205941486
+],
+  "geometry": {"coordinates":[[[[5.47788014103791,52.51748691357596],[5.48542261065833,52.51776205941486],[5.4854660425566,52.5172920474739],[5.48526455149497,52.51724260060041],[5.48526904078621,52.51698256061494],[5.48549711533058,52.51687812798034],[5.48528528726782,52.5167296249037],[5.48441960363682,52.5166927432664],[5.48460946633473,52.51491703072967],[5.48475533571813,52.51484728052986],[5.48478176045197,52.51465270553522],[5.48465220367791,52.51450843127126],[5.48496260017801,52.51160601623238],[5.48151140806539,52.51146369539529],[5.48080853269044,52.51146673135219],[5.47895849227402,52.51139536255945],[5.47878867576479,52.51140669577883],[5.47869124202661,52.51143570994109],[5.47861893958114,52.51145723842902],[5.47849977766539,52.51154695159111],[5.47846786528687,52.51165340033953],[5.47834470296676,52.51272866404035],[5.47792609735946,52.51701623764673],[5.47788014103791,52.51748691357596]]]],"type":"MultiPolygon"}
+}

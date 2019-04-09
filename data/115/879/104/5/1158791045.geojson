@@ -1,0 +1,81 @@
+{
+  "id": 1158791045,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01185301",
+    "cbsnl:BU_NAAM":"Verspreide huizen Elim-Noord",
+    "cbsnl:GM_CODE":"GM0118",
+    "cbsnl:GM_NAAM":"Hoogeveen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"98",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011853",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000726,
+    "geom:area_square_m":5439831.165406,
+    "geom:bbox":"6.539910664,52.6822835693,6.60483290001,52.696352371",
+    "geom:latitude":52.689348,
+    "geom:longitude":6.572018,
+    "iso:country":"NL",
+    "lbl:latitude":52.689324,
+    "lbl:longitude":6.572017,
+    "mps:latitude":52.689324,
+    "mps:longitude":6.572017,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen Elim-Noord"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen Elim-Noord"
+    ],
+    "reversegeo:latitude":52.689324,
+    "reversegeo:longitude":6.572017,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473811,
+        85633337,
+        101807297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3d491089a96d62f31406dc89a6b451d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473811,
+            "locality_id":101807297,
+            "neighbourhood_id":1158791045,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791045,
+    "wof:lastmodified":1513292314,
+    "wof:name":"Verspreide huizen Elim-Noord",
+    "wof:parent_id":101807297,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.539910663999504,
+    52.682283569296686,
+    6.604832900014332,
+    52.696352370993466
+],
+  "geometry": {"coordinates":[[[[6.54098807661291,52.69635237099347],[6.55256948121999,52.69596554605416],[6.55699219087817,52.69576701831232],[6.55941179922828,52.69556653731211],[6.6039681414964,52.69384204696134],[6.60341338462971,52.68917738914322],[6.60297034633573,52.68538407347017],[6.60483290001433,52.68531813963109],[6.60453698499077,52.68228356929669],[6.59233839692095,52.6827588648196],[6.59212659638823,52.68276029160189],[6.59009719836139,52.6828488868919],[6.58691640434304,52.68297494418495],[6.58695685657681,52.68338422935741],[6.58094233471171,52.6836165718374],[6.58097977036747,52.68397531224199],[6.57921405424735,52.68404440712688],[6.5791829444095,52.68374121537106],[6.57626361471009,52.68384888462439],[6.576256986722,52.68378247397454],[6.57625157582062,52.68373087847751],[6.57530182716537,52.68376752181104],[6.575269863666,52.68346446774138],[6.57498288274723,52.68347564770699],[6.57497230154257,52.6834480708515],[6.57109934681133,52.68359936069778],[6.56426009218391,52.68387615975941],[6.54585737496541,52.68459367069591],[6.54302632790378,52.68469566193644],[6.5399106639995,52.6848248232025],[6.54098807661291,52.69635237099347]]]],"type":"MultiPolygon"}
+}

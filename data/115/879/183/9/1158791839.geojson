@@ -1,0 +1,80 @@
+{
+  "id": 1158791839,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17310602",
+    "cbsnl:BU_NAAM":"Smilde-Zuid",
+    "cbsnl:GM_CODE":"GM1731",
+    "cbsnl:GM_NAAM":"Midden-Drenthe",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"73",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK173106",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000098,
+    "geom:area_square_m":730202.951186,
+    "geom:bbox":"6.42184905942,52.9291852291,6.44156372599,52.9441381533",
+    "geom:latitude":52.936631,
+    "geom:longitude":6.431463,
+    "iso:country":"NL",
+    "lbl:latitude":52.936479,
+    "lbl:longitude":6.431463,
+    "mps:latitude":52.936479,
+    "mps:longitude":6.431463,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Smilde-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Smilde-Zuid"
+    ],
+    "reversegeo:latitude":52.936479,
+    "reversegeo:longitude":6.431463,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474649,
+        85633337,
+        101837893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"46de673117172b8cb07056906941daf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474649,
+            "locality_id":101837893,
+            "neighbourhood_id":1158791839,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791839,
+    "wof:lastmodified":1513292368,
+    "wof:name":"Smilde-Zuid",
+    "wof:parent_id":101837893,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.421849059418492,
+    52.92918522908352,
+    6.441563725988432,
+    52.944138153339225
+],
+  "geometry": {"coordinates":[[[[6.44156372598843,52.94252250875514],[6.43094122419105,52.93249646644019],[6.43076278035838,52.93249802590591],[6.42708881732563,52.92918522908352],[6.42214234376729,52.93113175691317],[6.42184905941849,52.93124888236767],[6.42332458895414,52.93256279289983],[6.42554782104342,52.93454870374513],[6.42559484575522,52.93459098303859],[6.42570265642338,52.93467766865098],[6.42789889084296,52.93645819347237],[6.4260649499272,52.93721221567639],[6.42675443045422,52.93792854436636],[6.42866177942745,52.93738618908975],[6.43598658429643,52.94413815333922],[6.43857282200203,52.94323750055091],[6.43814108045357,52.9424824634248],[6.44156372598843,52.94252250875514]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158791491,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16901103",
+    "cbsnl:BU_NAAM":"Berghuizen",
+    "cbsnl:GM_CODE":"GM1690",
+    "cbsnl:GM_NAAM":"De Wolden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"33",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK169011",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":371779.053532,
+    "geom:bbox":"6.28405587348,52.7089836995,6.29590619652,52.7162310198",
+    "geom:latitude":52.712773,
+    "geom:longitude":6.289662,
+    "iso:country":"NL",
+    "lbl:latitude":52.71276,
+    "lbl:longitude":6.289654,
+    "mps:latitude":52.71276,
+    "mps:longitude":6.289654,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Berghuizen"
+    ],
+    "name:nld_x_preferred":[
+        "Berghuizen"
+    ],
+    "reversegeo:latitude":52.71276,
+    "reversegeo:longitude":6.289654,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474601,
+        85633337,
+        101808789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"be45dd52a97ec48808e8045e7c9d0bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474601,
+            "locality_id":101808789,
+            "neighbourhood_id":1158791491,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791491,
+    "wof:lastmodified":1513292343,
+    "wof:name":"Berghuizen",
+    "wof:parent_id":101808789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.284055873478485,
+    52.70898369946456,
+    6.29590619651814,
+    52.71623101976244
+],
+  "geometry": {"coordinates":[[[[6.28861778773026,52.70898369946456],[6.28517713915797,52.71171715735128],[6.2856001325758,52.71192460663152],[6.28518869693013,52.71221418425034],[6.2862787606925,52.71254466267757],[6.28516814106982,52.71337932490956],[6.28559222273523,52.71370696962551],[6.28405587347848,52.7149273572705],[6.28681515446822,52.71603893479574],[6.28732057757122,52.71557282716599],[6.28956283795271,52.71623101976244],[6.29039345309012,52.71560065805643],[6.2913716065292,52.71588082509103],[6.29590619651814,52.71158627434605],[6.29439046869747,52.71106870893923],[6.29438193318326,52.71101372639686],[6.28861778773026,52.70898369946456]]]],"type":"MultiPolygon"}
+}

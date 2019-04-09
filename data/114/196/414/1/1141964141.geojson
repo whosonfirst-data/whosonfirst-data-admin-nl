@@ -1,0 +1,80 @@
+{
+  "id": 1141964141,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02850002",
+    "cbsnl:BU_NAAM":"Gietelo",
+    "cbsnl:GM_CODE":"GM0285",
+    "cbsnl:GM_NAAM":"Voorst",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"81",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK028500",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:area_square_m":716078.238295,
+    "geom:bbox":"6.12633218088,52.1789298166,6.13858326351,52.1928210019",
+    "geom:latitude":52.184447,
+    "geom:longitude":6.131545,
+    "iso:country":"NL",
+    "lbl:latitude":52.183817,
+    "lbl:longitude":6.131452,
+    "mps:latitude":52.183817,
+    "mps:longitude":6.131452,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Gietelo"
+    ],
+    "name:nld_x_preferred":[
+        "Gietelo"
+    ],
+    "reversegeo:latitude":52.183817,
+    "reversegeo:longitude":6.131452,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473945,
+        85633337,
+        1158783717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3859db32fd45fcbd3d15bc07f77eb930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473945,
+            "locality_id":1158783717,
+            "neighbourhood_id":1141964141,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141964141,
+    "wof:lastmodified":1513368795,
+    "wof:name":"Gietelo",
+    "wof:parent_id":1158783717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.126332180882998,
+    52.17892981663825,
+    6.13858326350922,
+    52.19282100192686
+],
+  "geometry": {"coordinates":[[[[6.12806917666146,52.19135834064623],[6.12823527159162,52.19141122686391],[6.13117649091034,52.19282100192686],[6.13102072562879,52.1911968038597],[6.1331263180182,52.18819662001928],[6.13713745479863,52.18358271014475],[6.13836195853194,52.18239577714807],[6.13858326350922,52.18087255049942],[6.13292711077348,52.17944448162562],[6.12830560845629,52.17892981663825],[6.12647121024041,52.1822130358352],[6.126332180883,52.182205759706],[6.12636701668616,52.18228110025641],[6.12684015830189,52.18295477822386],[6.12733621420616,52.1863152240446],[6.12750736266707,52.18685231911984],[6.12796549012862,52.18828221918576],[6.12806917666146,52.19135834064623]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1158791243,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16800709",
+    "cbsnl:BU_NAAM":"Verspreide huizen Spijkerboor",
+    "cbsnl:GM_CODE":"GM1680",
+    "cbsnl:GM_NAAM":"Aa en Hunze",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"-99999999",
+    "cbsnl:STED":"-99999999",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK168007",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":147650.672158,
+    "geom:bbox":"6.77039893823,53.0792910849,6.78009980338,53.083363528",
+    "geom:latitude":53.08141,
+    "geom:longitude":6.775045,
+    "iso:country":"NL",
+    "lbl:latitude":53.081414,
+    "lbl:longitude":6.775045,
+    "mps:latitude":53.081414,
+    "mps:longitude":6.775045,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen Spijkerboor"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen Spijkerboor"
+    ],
+    "reversegeo:latitude":53.081414,
+    "reversegeo:longitude":6.775045,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474593,
+        85633337,
+        1158792063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b925dfb32b8ee3a6c2d164777fa8ec9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474593,
+            "locality_id":1158792063,
+            "neighbourhood_id":1158791243,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791243,
+    "wof:lastmodified":1513292326,
+    "wof:name":"Verspreide huizen Spijkerboor",
+    "wof:parent_id":1158792063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.770398938225803,
+    53.079291084862355,
+    6.780099803384912,
+    53.08336352803497
+],
+  "geometry": {"coordinates":[[[[6.78009980338491,53.08153785128529],[6.7724504658153,53.07929108486235],[6.77240966984978,53.0793645772094],[6.7703989382258,53.08160034111055],[6.7773791339146,53.08336352803497],[6.78009980338491,53.08153785128529]]]],"type":"MultiPolygon"}
+}

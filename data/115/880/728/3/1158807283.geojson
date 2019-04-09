@@ -1,0 +1,80 @@
+{
+  "id": 1158807283,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU15070804",
+    "cbsnl:BU_NAAM":"Tuinhaversveld",
+    "cbsnl:GM_CODE":"GM1507",
+    "cbsnl:GM_NAAM":"Horst aan de Maas",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"629",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK150708",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":219673.731002,
+    "geom:bbox":"6.13437074297,51.4178861336,6.14359375043,51.4240180461",
+    "geom:latitude":51.42051,
+    "geom:longitude":6.138337,
+    "iso:country":"NL",
+    "lbl:latitude":51.42035,
+    "lbl:longitude":6.137953,
+    "mps:latitude":51.42035,
+    "mps:longitude":6.137953,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Tuinhaversveld"
+    ],
+    "name:nld_x_preferred":[
+        "Tuinhaversveld"
+    ],
+    "reversegeo:latitude":51.42035,
+    "reversegeo:longitude":6.137953,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474541,
+        85633337,
+        101839243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"357d07597966a2fbe8122b246cffb297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474541,
+            "locality_id":101839243,
+            "neighbourhood_id":1158807283,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158807283,
+    "wof:lastmodified":1513404091,
+    "wof:name":"Tuinhaversveld",
+    "wof:parent_id":101839243,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.13437074296612,
+    51.417886133568416,
+    6.143593750427587,
+    51.4240180460941
+],
+  "geometry": {"coordinates":[[[[6.13659304885777,51.42275889087981],[6.14025102627035,51.42169360980617],[6.14097115567432,51.42149931489053],[6.14185871258955,51.42140810615555],[6.14276245866079,51.4212633640631],[6.14359375042759,51.42087337925524],[6.14359113334938,51.42086971042736],[6.14291109822628,51.41991631316181],[6.14264989077742,51.41962954799673],[6.14267736193449,51.41922340798418],[6.14076142815635,51.41894501215155],[6.14070653657056,51.41893703407466],[6.13907621829643,51.41856295474972],[6.13712077837948,51.41816958669695],[6.13571136092705,51.41788613356842],[6.13562218616094,51.41827775341093],[6.13519182953313,51.4199492626824],[6.1346895047694,51.42285731054788],[6.13437074296612,51.4240180460941],[6.13461987549309,51.42395331950294],[6.13538424648788,51.42333246323309],[6.13659304885777,51.42275889087981]]]],"type":"MultiPolygon"}
+}

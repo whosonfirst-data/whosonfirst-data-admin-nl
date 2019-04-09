@@ -1,0 +1,73 @@
+{
+  "id": 1108808783,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03440934",
+    "cbsnl:BU_NAAM":"Leeuwesteyn",
+    "cbsnl:GM_CODE":"GM0344",
+    "cbsnl:GM_NAAM":"Utrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1671",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK034409",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:area_square_m":600899.168668,
+    "geom:bbox":"5.0703263139,52.0821945761,5.08028432245,52.0980366502",
+    "geom:latitude":52.090177,
+    "geom:longitude":5.075976,
+    "iso:country":"NL",
+    "lbl:latitude":52.090508,
+    "lbl:longitude":5.075976,
+    "mps:latitude":52.090508,
+    "mps:longitude":5.075976,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "reversegeo:latitude":52.090508,
+    "reversegeo:longitude":5.075976,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        85633337,
+        101751827,
+        1108808661,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7bb265dd732d66cca3eb19101bf7127c",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108808661,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808783,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1108808783,
+    "wof:lastmodified":1507246057,
+    "wof:name":"Leeuwesteyn",
+    "wof:parent_id":1108808661,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.07032631390009,
+    52.08219457607567,
+    5.08028432244768,
+    52.09803665016967
+],
+  "geometry": {"coordinates":[[[5.07716773672722,52.09803665016967],[5.07724127049411,52.09763307210897],[5.07773873807244,52.09490281400222],[5.07890365591829,52.08850791798041],[5.07892890504123,52.08839249613426],[5.08028432244768,52.08219457607567],[5.07703841615883,52.08243600328089],[5.07658684606506,52.08246958008886],[5.07610579597101,52.08242267004357],[5.07520183470386,52.08241703670677],[5.0751601580897,52.08459837194918],[5.07472176732626,52.08684650676454],[5.07394578385149,52.0889755585236],[5.0725463376479,52.09132466059472],[5.07032631390009,52.09427418417052],[5.07127779662789,52.09454817748149],[5.07301873311434,52.09505184691989],[5.07346028125603,52.09519436046535],[5.07227552904831,52.09660991563802],[5.07716773672722,52.09803665016967]]],"type":"Polygon"}
+}

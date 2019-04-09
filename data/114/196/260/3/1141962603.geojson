@@ -1,0 +1,86 @@
+{
+  "id": 1141962603,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02140000",
+    "cbsnl:BU_NAAM":"Buren-Oude Kern",
+    "cbsnl:GM_CODE":"GM0214",
+    "cbsnl:GM_NAAM":"Buren",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"374",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK021400",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":123157.910231,
+    "geom:bbox":"5.33030353669,51.9098495302,5.33837227759,51.9137953769",
+    "geom:latitude":51.911689,
+    "geom:longitude":5.334495,
+    "iso:country":"NL",
+    "lbl:latitude":51.911226,
+    "lbl:longitude":5.3341,
+    "mps:latitude":51.911226,
+    "mps:longitude":5.3341,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oude Kern"
+    ],
+    "name:eng_x_variant":[
+        "Buren-Oude Kern"
+    ],
+    "name:nld_x_preferred":[
+        "Oude Kern"
+    ],
+    "name:nld_x_variant":[
+        "Buren-Oude Kern"
+    ],
+    "reversegeo:latitude":51.911226,
+    "reversegeo:longitude":5.3341,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473879,
+        85633337,
+        101808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8c6f10571c08cca2b0acb80e7e5055ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473879,
+            "locality_id":101808615,
+            "neighbourhood_id":1141962603,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962603,
+    "wof:lastmodified":1513368687,
+    "wof:name":"Oude Kern",
+    "wof:parent_id":101808615,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.330303536686333,
+    51.90984953015203,
+    5.338372277590726,
+    51.913795376850295
+],
+  "geometry": {"coordinates":[[[[5.33031809142985,51.91011881294327],[5.33030353668633,51.91011788701174],[5.33045081634824,51.91062961865596],[5.33089808270859,51.91064520167193],[5.33113956487833,51.91128695279056],[5.33187758613651,51.9123093097948],[5.33253890326534,51.91229514190557],[5.33254623911315,51.91230036194413],[5.3335996915085,51.91249409333232],[5.33438444029639,51.91255090673415],[5.33537424739641,51.9137953768503],[5.33636270433711,51.91366912843375],[5.33749675994123,51.9133027797655],[5.33837227759073,51.9128115990545],[5.33707846636403,51.91166055873861],[5.33698562020008,51.91163271124558],[5.33656894478338,51.91120727698767],[5.33598513317771,51.91079637246267],[5.33519954332413,51.91031150552802],[5.3343134641654,51.90994624342325],[5.33349088701183,51.90984953015203],[5.3328631337557,51.90994727011567],[5.3321070928332,51.9102219043622],[5.33203985372443,51.91026804528686],[5.3318552099923,51.91029217667105],[5.33146994170845,51.91038036635432],[5.33097798251727,51.91041182311351],[5.33049238375627,51.9101997913171],[5.33031809142985,51.91011881294327]]]],"type":"MultiPolygon"}
+}

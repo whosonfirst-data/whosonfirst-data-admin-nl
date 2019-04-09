@@ -1,0 +1,82 @@
+{
+  "id": 1158827683,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06420401",
+    "cbsnl:BU_NAAM":"De Hoge Devel",
+    "cbsnl:GM_CODE":"GM0642",
+    "cbsnl:GM_NAAM":"Zwijndrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2018",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK064204",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":215811.624021,
+    "geom:bbox":"4.61961768789,51.8154774415,4.6274786922,51.8209372245",
+    "geom:latitude":51.818201,
+    "geom:longitude":4.623621,
+    "iso:country":"NL",
+    "lbl:latitude":51.818188,
+    "lbl:longitude":4.623621,
+    "mps:latitude":51.818188,
+    "mps:longitude":4.623621,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Hoge Devel"
+    ],
+    "name:nld_x_preferred":[
+        "De Hoge Devel"
+    ],
+    "reversegeo:latitude":51.818188,
+    "reversegeo:longitude":4.623621,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831141,
+        404474291,
+        85633337,
+        101754703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"675967a29fb64d1b3b49a0b3cb99e838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474291,
+            "locality_id":101754703,
+            "macrohood_id":1158831141,
+            "neighbourhood_id":1158827683,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827683,
+    "wof:lastmodified":1513588164,
+    "wof:name":"De Hoge Devel",
+    "wof:parent_id":1158831141,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.619617687891843,
+    51.815477441490515,
+    4.627478692204517,
+    51.82093722448069
+],
+  "geometry": {"coordinates":[[[[4.62738566591703,51.81894529657551],[4.6268645197275,51.81803029957917],[4.62598816541024,51.81698405881411],[4.62577724418148,51.81686961570934],[4.62485383844279,51.81636857310124],[4.62341081100611,51.81563620137505],[4.62289564707637,51.81547744149051],[4.62250856609803,51.81548167074366],[4.62143298332902,51.81566385146805],[4.61961768789184,51.81605701990009],[4.62054222486489,51.81826327980691],[4.62086585508945,51.81886851774127],[4.62107074524182,51.81918725614089],[4.62167538140868,51.81976687463691],[4.62185058064435,51.81988288393244],[4.62194456302862,51.81994732517256],[4.62262657156207,51.82041498548111],[4.6250055380002,51.82093722448069],[4.62581308264986,51.82089516785653],[4.62653912013153,51.82051472745986],[4.62723813781744,51.81979626753335],[4.62747869220452,51.8191086248791],[4.62738566591703,51.81894529657551]]]],"type":"MultiPolygon"}
+}

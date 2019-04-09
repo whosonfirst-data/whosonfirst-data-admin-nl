@@ -1,0 +1,88 @@
+{
+  "id": 1158792551,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00140104",
+    "cbsnl:BU_NAAM":"Grunobuurt",
+    "cbsnl:GM_CODE":"GM0014",
+    "cbsnl:GM_NAAM":"Groningen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3532",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK001401",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:area_square_m":229302.017043,
+    "geom:bbox":"6.55662972279,53.2021509238,6.56346471052,53.2105623098",
+    "geom:latitude":53.206166,
+    "geom:longitude":6.559997,
+    "iso:country":"NL",
+    "lbl:latitude":53.206091,
+    "lbl:longitude":6.560049,
+    "mps:latitude":53.206091,
+    "mps:longitude":6.560049,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Grunobuurt"
+    ],
+    "name:eng_x_preferred":[
+        "Grunobuurt"
+    ],
+    "name:fre_x_preferred":[
+        "Grunobuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Grunobuurt"
+    ],
+    "reversegeo:latitude":53.206091,
+    "reversegeo:longitude":6.560049,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404473713,
+        85633337,
+        101751909,
+        85687059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2788482"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"4ef11a319c2b707981a391935655f356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473713,
+            "locality_id":101751909,
+            "neighbourhood_id":1158792551,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158792551,
+    "wof:lastmodified":1514492307,
+    "wof:name":"Grunobuurt",
+    "wof:parent_id":101751909,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.55662972279064,
+    53.20215092383874,
+    6.56346471051899,
+    53.21056230982234
+],
+  "geometry": {"coordinates":[[[[6.55662972279064,53.21047322531768],[6.55933408449013,53.21056230982234],[6.55950923031817,53.2100380388739],[6.56037805828255,53.20931063333562],[6.56147704677238,53.20745227510184],[6.5624730755976,53.20562061479396],[6.56302161276244,53.2046118150361],[6.56346471051899,53.20297002344357],[6.56004454190738,53.20228339843885],[6.55960801049654,53.20219737032654],[6.55937233935057,53.20215092383874],[6.55920260688155,53.20244796228059],[6.55900391611053,53.20294191019873],[6.55832713183733,53.20406409409718],[6.55814703469409,53.20666652152495],[6.55814553890505,53.20668810318777],[6.55787235063896,53.20777641771026],[6.55776051331831,53.20806857891659],[6.55726655914585,53.20898138441772],[6.55685889124436,53.20962069801705],[6.55672300981817,53.2099983732787],[6.55662972279064,53.21047322531768]]]],"type":"MultiPolygon"}
+}

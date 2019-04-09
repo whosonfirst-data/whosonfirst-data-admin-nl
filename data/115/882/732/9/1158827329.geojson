@@ -1,0 +1,78 @@
+{
+  "id": 1158827329,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06220307",
+    "cbsnl:BU_NAAM":"Maasboulevard",
+    "cbsnl:GM_CODE":"GM0622",
+    "cbsnl:GM_NAAM":"Vlaardingen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2159",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK062203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":490962.651559,
+    "geom:bbox":"4.3381033854,51.89528484,4.34982280049,51.9037162984",
+    "geom:latitude":51.899598,
+    "geom:longitude":4.343862,
+    "iso:country":"NL",
+    "lbl:latitude":51.899532,
+    "lbl:longitude":4.343862,
+    "mps:latitude":51.899532,
+    "mps:longitude":4.343862,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Maasboulevard"
+    ],
+    "name:nld_x_preferred":[
+        "Maasboulevard"
+    ],
+    "reversegeo:latitude":51.899532,
+    "reversegeo:longitude":4.343862,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        101751851,
+        85633337,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f4bdc8b94f7a1f057234ca702b679e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751851,
+            "neighbourhood_id":1158827329,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827329,
+    "wof:lastmodified":1513588141,
+    "wof:name":"Maasboulevard",
+    "wof:parent_id":101751851,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.338103385404731,
+    51.89528484004683,
+    4.349822800486779,
+    51.903716298391295
+],
+  "geometry": {"coordinates":[[[[4.33810338540473,51.90204479559454],[4.33967669617254,51.90229029682914],[4.34712315592245,51.90371629839129],[4.3471451863184,51.90366705439045],[4.34982280048678,51.89767731996165],[4.34884819555136,51.89740462209697],[4.34867587430497,51.89735232959706],[4.34759107983293,51.89702312647334],[4.34637933566216,51.89665654497934],[4.34499820375619,51.8962658954716],[4.3441232347184,51.89603824351471],[4.34347821694701,51.89587493978921],[4.34331373403595,51.89583665101704],[4.34259457394172,51.89566921347923],[4.34111385323732,51.89535021750656],[4.34077656153763,51.89528484004683],[4.33814452186559,51.90150301741377],[4.33818819988017,51.90174751223429],[4.33810338540473,51.90204479559454]]]],"type":"MultiPolygon"}
+}

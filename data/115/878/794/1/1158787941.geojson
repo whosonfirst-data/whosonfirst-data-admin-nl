@@ -1,0 +1,80 @@
+{
+  "id": 1158787941,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03120200",
+    "cbsnl:BU_NAAM":"Werkhoven",
+    "cbsnl:GM_CODE":"GM0312",
+    "cbsnl:GM_NAAM":"Bunnik",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"269",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK031202",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00008,
+    "geom:area_square_m":605344.887755,
+    "geom:bbox":"5.2359198471,52.0148757258,5.25289310276,52.0279664542",
+    "geom:latitude":52.022943,
+    "geom:longitude":5.244038,
+    "iso:country":"NL",
+    "lbl:latitude":52.023798,
+    "lbl:longitude":5.243202,
+    "mps:latitude":52.023798,
+    "mps:longitude":5.243202,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Werkhoven"
+    ],
+    "name:nld_x_preferred":[
+        "Werkhoven"
+    ],
+    "reversegeo:latitude":52.023798,
+    "reversegeo:longitude":5.243202,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473981,
+        85633337,
+        101808431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6d6566ed6e6c098089b2b28055dd3791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473981,
+            "locality_id":101808431,
+            "neighbourhood_id":1158787941,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158787941,
+    "wof:lastmodified":1513621963,
+    "wof:name":"Werkhoven",
+    "wof:parent_id":101808431,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.235919847100396,
+    52.0148757257963,
+    5.252893102760115,
+    52.02796645422821
+],
+  "geometry": {"coordinates":[[[[5.24176108833219,52.0207709259383],[5.23955225241333,52.02342220540509],[5.238653879857,52.02344214288507],[5.23785844456122,52.02365432529177],[5.2359198471004,52.02484530712901],[5.23895589975051,52.02614935371896],[5.24333783768933,52.02796645422821],[5.24416743920152,52.02662345687181],[5.24916530661641,52.02717123334444],[5.25289310276012,52.02506164460501],[5.24865134062177,52.02374531111865],[5.24659433736288,52.02278198829695],[5.24531371778534,52.0218088921298],[5.24403163041827,52.01995662934415],[5.24401246863764,52.0184718773934],[5.24473883229097,52.01768011756602],[5.24573183866207,52.01735128016229],[5.24695460964757,52.01720640420905],[5.2474929145621,52.0170640744269],[5.24813304808678,52.01682018738233],[5.24853152193847,52.01655297733395],[5.24396886685495,52.0148757257963],[5.24158326218494,52.01783888781207],[5.24120536208159,52.01904283052517],[5.24163025299852,52.02061347205317],[5.24176108833219,52.0207709259383]]]],"type":"MultiPolygon"}
+}

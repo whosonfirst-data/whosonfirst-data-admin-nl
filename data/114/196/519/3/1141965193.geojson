@@ -1,0 +1,80 @@
+{
+  "id": 1141965193,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18760101",
+    "cbsnl:BU_NAAM":"Halle",
+    "cbsnl:GM_CODE":"GM1876",
+    "cbsnl:GM_NAAM":"Bronckhorst",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"127",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK187601",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:area_square_m":597758.656787,
+    "geom:bbox":"6.4237645492,51.9861512493,6.43795875854,51.9947656462",
+    "geom:latitude":51.990162,
+    "geom:longitude":6.430278,
+    "iso:country":"NL",
+    "lbl:latitude":51.990214,
+    "lbl:longitude":6.430278,
+    "mps:latitude":51.990214,
+    "mps:longitude":6.430278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Halle"
+    ],
+    "name:nld_x_preferred":[
+        "Halle"
+    ],
+    "reversegeo:latitude":51.990214,
+    "reversegeo:longitude":6.430278,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474673,
+        85633337,
+        1158783527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"15cede5a6993e5368e6ada3958edce5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474673,
+            "locality_id":1158783527,
+            "neighbourhood_id":1141965193,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141965193,
+    "wof:lastmodified":1513368877,
+    "wof:name":"Halle",
+    "wof:parent_id":1158783527,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.423764549196972,
+    51.98615124927555,
+    6.437958758542836,
+    51.994765646238484
+],
+  "geometry": {"coordinates":[[[[6.43308957201629,51.98615124927555],[6.42418597056884,51.98729525740963],[6.42397253008542,51.98744994860739],[6.42388103316484,51.98758558709831],[6.42418822745093,51.98820928524542],[6.42453735625785,51.98870789534747],[6.42376454919697,51.98934645180132],[6.42497800217358,51.99025092326685],[6.4249699160764,51.99084509863104],[6.42506479038515,51.99148415279187],[6.42461727227059,51.99222068746313],[6.42766988433379,51.99476564623848],[6.42929790933476,51.99420291853132],[6.43137756495075,51.99359374348672],[6.43493275434347,51.99287533138288],[6.43449026233861,51.99182421030043],[6.43795875854284,51.99127810575892],[6.4352578781138,51.98735779838361],[6.43403162136038,51.98745973017186],[6.43308957201629,51.98615124927555]]]],"type":"MultiPolygon"}
+}

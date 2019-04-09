@@ -1,0 +1,80 @@
+{
+  "id": 1158825147,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04893164",
+    "cbsnl:BU_NAAM":"Kilweg",
+    "cbsnl:GM_CODE":"GM0489",
+    "cbsnl:GM_NAAM":"Barendrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1210",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK048931",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:area_square_m":579554.670829,
+    "geom:bbox":"4.52000840328,51.8416210903,4.53626338458,51.848185821",
+    "geom:latitude":51.845037,
+    "geom:longitude":4.52836,
+    "iso:country":"NL",
+    "lbl:latitude":51.845065,
+    "lbl:longitude":4.52836,
+    "mps:latitude":51.845065,
+    "mps:longitude":4.52836,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kilweg"
+    ],
+    "name:nld_x_preferred":[
+        "Kilweg"
+    ],
+    "reversegeo:latitude":51.845065,
+    "reversegeo:longitude":4.52836,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831085,
+        85633337,
+        101754615,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"00fa5b79199ceb1409b28fc374b2f27c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754615,
+            "macrohood_id":1158831085,
+            "neighbourhood_id":1158825147,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825147,
+    "wof:lastmodified":1513587971,
+    "wof:name":"Kilweg",
+    "wof:parent_id":1158831085,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.520008403279598,
+    51.84162109033882,
+    4.536263384577044,
+    51.84818582102068
+],
+  "geometry": {"coordinates":[[[[4.52029149470647,51.84818223437978],[4.523184774998,51.84818582102068],[4.52542218593712,51.84787058978043],[4.52800518445512,51.84750661164451],[4.53202808704944,51.84689921773961],[4.53565472393915,51.84635152262156],[4.53624971498505,51.84630783685238],[4.53626338457704,51.84466873032597],[4.53625254435941,51.84185002293959],[4.53625686917773,51.84162109033882],[4.53382046298519,51.84167357014891],[4.53182791497716,51.84197666191593],[4.53009091336201,51.84232128435396],[4.52719547736657,51.84291544581596],[4.52497512292629,51.84339539754461],[4.52288707605832,51.84365793723077],[4.52102444783473,51.84386255473222],[4.5200084032796,51.8439045121531],[4.52021107370225,51.84782645767676],[4.52029149470647,51.84818223437978]]]],"type":"MultiPolygon"}
+}

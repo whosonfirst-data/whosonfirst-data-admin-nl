@@ -1,0 +1,80 @@
+{
+  "id": 1158825109,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04891431",
+    "cbsnl:BU_NAAM":"Meerwede Zuidoost",
+    "cbsnl:GM_CODE":"GM0489",
+    "cbsnl:GM_NAAM":"Barendrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1820",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK048914",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":270222.499926,
+    "geom:bbox":"4.50095346685,51.847974208,4.50859695394,51.8536105147",
+    "geom:latitude":51.850551,
+    "geom:longitude":4.504951,
+    "iso:country":"NL",
+    "lbl:latitude":51.850464,
+    "lbl:longitude":4.504953,
+    "mps:latitude":51.850464,
+    "mps:longitude":4.504953,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Meerwede Zuidoost"
+    ],
+    "name:nld_x_preferred":[
+        "Meerwede Zuidoost"
+    ],
+    "reversegeo:latitude":51.850464,
+    "reversegeo:longitude":4.504953,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831077,
+        85633337,
+        101754615,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"577e2c372fb2006e5b178e626c88f4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754615,
+            "macrohood_id":1158831077,
+            "neighbourhood_id":1158825109,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825109,
+    "wof:lastmodified":1513587968,
+    "wof:name":"Meerwede Zuidoost",
+    "wof:parent_id":1158831077,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.500953466848944,
+    51.847974208014634,
+    4.50859695394007,
+    51.853610514706915
+],
+  "geometry": {"coordinates":[[[[4.50139132660215,51.85235524463445],[4.50213995453556,51.85247536760804],[4.50319364581641,51.85268180100905],[4.50460065701054,51.85285118332272],[4.50571768479408,51.85309776848162],[4.50692815846165,51.85348399003873],[4.5072791433087,51.85356602043892],[4.50791934438119,51.85361051470692],[4.50859695394007,51.85357859600202],[4.50813247617586,51.84807341996799],[4.50540132670386,51.84797420801463],[4.50171148452417,51.8481846318041],[4.50097367000305,51.84821876511277],[4.50095346684894,51.84820754559679],[4.50109835859001,51.85002601687017],[4.50139132660215,51.85235524463445]]]],"type":"MultiPolygon"}
+}

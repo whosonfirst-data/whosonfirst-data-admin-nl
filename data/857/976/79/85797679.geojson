@@ -1,0 +1,124 @@
+{
+  "id": 85797679,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08990209",
+    "cbsnl:BU_NAAM":"Het Heufken",
+    "cbsnl:GM_CODE":"GM0899",
+    "cbsnl:GM_NAAM":"Brunssum",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2092",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK089902",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":103413.636196,
+    "geom:bbox":"5.95763509773,50.9434278826,5.96436439561,50.9469548071",
+    "geom:latitude":50.945163,
+    "geom:longitude":5.961242,
+    "gn:latitude":50.95,
+    "gn:longitude":5.96667,
+    "iso:country":"NL",
+    "lbl:latitude":50.950484,
+    "lbl:longitude":5.970431,
+    "mps:latitude":50.945042,
+    "mps:longitude":5.961242,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Het Heufken"
+    ],
+    "name:nld_x_preferred":[
+        "Het Heufken"
+    ],
+    "name:unk_x_variant":[
+        "Het Heufke"
+    ],
+    "qs:gn_adm0_cc":"NL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2758174,
+    "qs:gn_nam_loc":"Brunssum, Brunssum, Limburg, NL",
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Het Heufke",
+    "qs:local_max":426,
+    "qs:local_sum":489,
+    "qs:localhoods":2,
+    "qs:name":"Het Heufke",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Limburg",
+    "qs:name_adm2":"Brunssum",
+    "qs:name_local":"Brunssum",
+    "qs:photo_max":119,
+    "qs:photo_sum":426,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":47,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346377,
+    "qs:woe_adm2":12592096,
+    "qs:woe_lau":0,
+    "qs:woe_local":728094,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":50.945042,
+    "reversegeo:longitude":5.961242,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        1158818207,
+        85633337,
+        101839207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2754268,
+        "gp:id":730043,
+        "qs:id":1083130,
+        "qs_pg:id":1083130
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"0efe41a5caa2e1ef5da08fd952b069bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101839207,
+            "macrohood_id":1158818207,
+            "neighbourhood_id":85797679,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":85797679,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527269467,
+    "wof:name":"Het Heufken",
+    "wof:parent_id":1158818207,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.95763509773262,
+    50.94342788260921,
+    5.96436439561233,
+    50.94695480707899
+],
+  "geometry": {"coordinates":[[[[5.96433248525407,50.94640984559152],[5.96429001295599,50.9459468296579],[5.9638657732495,50.9449640897022],[5.96359367184022,50.94454180131449],[5.96349445982025,50.94455233599398],[5.96321547218067,50.94445345440489],[5.9625984577282,50.94429358289888],[5.96188194439942,50.94410913622942],[5.96136459478001,50.94398636630185],[5.96074805880253,50.94386408390045],[5.95997235735274,50.94370498678068],[5.95947469991997,50.94356957559538],[5.95905979355174,50.94344237325365],[5.95881160604665,50.94342788260921],[5.95763509773262,50.94517305299522],[5.95970037604529,50.94579236638606],[5.96152919154309,50.94618247612684],[5.96215389539743,50.94674425491827],[5.96262648804071,50.94672403527258],[5.96269521524745,50.94695480707899],[5.96328928667922,50.94687150012064],[5.96436439561233,50.94675771432966],[5.96433248525407,50.94640984559152]]]],"type":"MultiPolygon"}
+}

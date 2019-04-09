@@ -1,0 +1,80 @@
+{
+  "id": 1158787059,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09951661",
+    "cbsnl:BU_NAAM":"Bastion",
+    "cbsnl:GM_CODE":"GM0995",
+    "cbsnl:GM_NAAM":"Lelystad",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1487",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK099516",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":60169.259078,
+    "geom:bbox":"5.47756636539,52.5186235921,5.48199665493,52.5208409822",
+    "geom:latitude":52.51977,
+    "geom:longitude":5.479619,
+    "iso:country":"NL",
+    "lbl:latitude":52.519705,
+    "lbl:longitude":5.479439,
+    "mps:latitude":52.519705,
+    "mps:longitude":5.479439,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bastion"
+    ],
+    "name:nld_x_preferred":[
+        "Bastion"
+    ],
+    "reversegeo:latitude":52.519705,
+    "reversegeo:longitude":5.479439,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158787367,
+        85633337,
+        101751873,
+        85687049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e84116191b67f50d73acde36e3970078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751873,
+            "macrohood_id":1158787367,
+            "neighbourhood_id":1158787059,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158787059,
+    "wof:lastmodified":1513299290,
+    "wof:name":"Bastion",
+    "wof:parent_id":1158787367,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.477566365392281,
+    52.51862359208452,
+    5.481996654932029,
+    52.52084098216119
+],
+  "geometry": {"coordinates":[[[[5.47756636539228,52.52070012625135],[5.48147283196104,52.52084098216119],[5.48152662950572,52.52030117572615],[5.4815169320952,52.52023818249931],[5.48153364174573,52.52000366766367],[5.48191809818012,52.52001736124671],[5.48199665493203,52.5191936244413],[5.48194876613815,52.51915866258828],[5.48040883646328,52.51910195417327],[5.48042182383069,52.5189386379797],[5.48011763162156,52.51866169457751],[5.48007757215392,52.51863294353013],[5.48003549889622,52.51862359208452],[5.47875602703759,52.51866181694223],[5.47776836434376,52.51863161340552],[5.47756636539228,52.52070012625135]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158791119,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01190202",
+    "cbsnl:BU_NAAM":"Zeeheldenbuurt",
+    "cbsnl:GM_CODE":"GM0119",
+    "cbsnl:GM_NAAM":"Meppel",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"1780",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011902",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:area_square_m":228625.704118,
+    "geom:bbox":"6.19048068285,52.6963020522,6.20180105789,52.7030233266",
+    "geom:latitude":52.700657,
+    "geom:longitude":6.197536,
+    "iso:country":"NL",
+    "lbl:latitude":52.700563,
+    "lbl:longitude":6.198394,
+    "mps:latitude":52.700563,
+    "mps:longitude":6.198394,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zeeheldenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Zeeheldenbuurt"
+    ],
+    "reversegeo:latitude":52.700563,
+    "reversegeo:longitude":6.198394,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        1158792239,
+        404473813,
+        85633337,
+        101807279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e6a7575b00ceeb089423d75d6acb3132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473813,
+            "locality_id":101807279,
+            "macrohood_id":1158792239,
+            "neighbourhood_id":1158791119,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791119,
+    "wof:lastmodified":1513292319,
+    "wof:name":"Zeeheldenbuurt",
+    "wof:parent_id":1158792239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.190480682850454,
+    52.6963020521575,
+    6.20180105789088,
+    52.70302332655042
+],
+  "geometry": {"coordinates":[[[[6.19103295320156,52.70197589971962],[6.19148182996407,52.70208271387128],[6.19226729975222,52.70223735549161],[6.19334800718006,52.70231679348583],[6.20180105789088,52.70302332655042],[6.20102195294462,52.70131005506737],[6.20059063044932,52.70000319146227],[6.19990644188863,52.69736718989935],[6.19968238535872,52.69707262277655],[6.19934855162345,52.6963020521575],[6.19875250168683,52.69640574439599],[6.19873928347806,52.69691418856059],[6.19857049325357,52.69716264860083],[6.19836735814781,52.6973884415296],[6.19767638673519,52.6981396539614],[6.19642862037839,52.69946139442531],[6.19589817651981,52.70002945742979],[6.19555750287877,52.70036151637248],[6.19531167873517,52.70052233340526],[6.19490277552648,52.70062929949906],[6.19373304051525,52.70087194760725],[6.19218580336939,52.70118812730318],[6.19048068285045,52.70152939430024],[6.19103295320156,52.70197589971962]]]],"type":"MultiPolygon"}
+}

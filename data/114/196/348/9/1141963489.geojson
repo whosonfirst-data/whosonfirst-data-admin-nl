@@ -1,0 +1,80 @@
+{
+  "id": 1141963489,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02440002",
+    "cbsnl:BU_NAAM":"Ten oosten van Apeldoornseweg",
+    "cbsnl:GM_CODE":"GM0244",
+    "cbsnl:GM_NAAM":"Hattem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"502",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK024400",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000211,
+    "geom:area_square_m":1591151.821278,
+    "geom:bbox":"6.06570502311,52.4567138611,6.08336715161,52.4742325372",
+    "geom:latitude":52.464517,
+    "geom:longitude":6.074857,
+    "iso:country":"NL",
+    "lbl:latitude":52.464573,
+    "lbl:longitude":6.074683,
+    "mps:latitude":52.464573,
+    "mps:longitude":6.074683,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ten oosten van Apeldoornseweg"
+    ],
+    "name:nld_x_preferred":[
+        "Ten oosten van Apeldoornseweg"
+    ],
+    "reversegeo:latitude":52.464573,
+    "reversegeo:longitude":6.074683,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473909,
+        85633337,
+        101837771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7600aefa432d8e22cd7b2a862e5ada1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473909,
+            "locality_id":101837771,
+            "neighbourhood_id":1141963489,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963489,
+    "wof:lastmodified":1513368749,
+    "wof:name":"Ten oosten van Apeldoornseweg",
+    "wof:parent_id":101837771,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.065705023113315,
+    52.456713861132485,
+    6.083367151605167,
+    52.47423253724909
+],
+  "geometry": {"coordinates":[[[[6.07268874796929,52.47423253724909],[6.07553100236161,52.47244549722519],[6.07648793103487,52.47235989029624],[6.0787993057783,52.47175689097642],[6.08058212468965,52.47094573160522],[6.08226885525093,52.47011151373201],[6.08267564066424,52.46780210341102],[6.08336715160517,52.46649286614964],[6.08290983815,52.46519430268192],[6.08041538098967,52.46172085879559],[6.08294128188027,52.46158191282497],[6.08189219584389,52.45906421335443],[6.07825368066737,52.45671386113249],[6.07812887221659,52.45672975456245],[6.07230104161774,52.45748345013715],[6.06598062362901,52.45835932824236],[6.06570502311332,52.4592759655841],[6.06619511298206,52.46196749408981],[6.06789773318057,52.46551515733756],[6.06799822976259,52.46554603690888],[6.07048832539366,52.47079482624506],[6.07053997395216,52.47090771734331],[6.071357559117,52.47266654809081],[6.07193683741642,52.47386838959736],[6.07268874796929,52.47423253724909]]]],"type":"MultiPolygon"}
+}

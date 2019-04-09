@@ -1,0 +1,80 @@
+{
+  "id": 1158805977,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08890101",
+    "cbsnl:BU_NAAM":"Bussereind",
+    "cbsnl:GM_CODE":"GM0889",
+    "cbsnl:GM_NAAM":"Beesel",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"115",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK088901",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":574790.254019,
+    "geom:bbox":"6.04884621129,51.257117415,6.06386653209,51.2662680497",
+    "geom:latitude":51.26195,
+    "geom:longitude":6.056258,
+    "iso:country":"NL",
+    "lbl:latitude":51.261574,
+    "lbl:longitude":6.056144,
+    "mps:latitude":51.261574,
+    "mps:longitude":6.056144,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bussereind"
+    ],
+    "name:nld_x_preferred":[
+        "Bussereind"
+    ],
+    "reversegeo:latitude":51.261574,
+    "reversegeo:longitude":6.056144,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474473,
+        85633337,
+        101809489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9ee7c501a6389d51fb63534b75a14bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474473,
+            "locality_id":101809489,
+            "neighbourhood_id":1158805977,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158805977,
+    "wof:lastmodified":1513403996,
+    "wof:name":"Bussereind",
+    "wof:parent_id":101809489,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.048846211287587,
+    51.25711741504417,
+    6.063866532091746,
+    51.26626804972834
+],
+  "geometry": {"coordinates":[[[[6.05310210235654,51.26626804972834],[6.0538333376016,51.26591666079941],[6.05709925240007,51.26487230723589],[6.05930015552093,51.26438319328702],[6.06172043135443,51.26372843564565],[6.06386653209175,51.2632339345276],[6.05868920912754,51.25711741504417],[6.05218839155303,51.25929780406881],[6.05177074177301,51.259640650015],[6.05166654902472,51.26085223207075],[6.05123349867496,51.2622182268742],[6.05076403355228,51.26312795283353],[6.0500292001614,51.26394031017826],[6.04884621128759,51.26475774261927],[6.05310210235654,51.26626804972834]]]],"type":"MultiPolygon"}
+}

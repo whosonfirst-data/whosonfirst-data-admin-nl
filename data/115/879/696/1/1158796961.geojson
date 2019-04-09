@@ -1,0 +1,80 @@
+{
+  "id": 1158796961,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07560500",
+    "cbsnl:BU_NAAM":"Vortum-Mullem Centrum",
+    "cbsnl:GM_CODE":"GM0756",
+    "cbsnl:GM_NAAM":"Boxmeer",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"61",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK075605",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":649933.199,
+    "geom:bbox":"5.96814700546,51.6141855476,5.98602018882,51.6236739451",
+    "geom:latitude":51.619517,
+    "geom:longitude":5.977281,
+    "iso:country":"NL",
+    "lbl:latitude":51.619829,
+    "lbl:longitude":5.977416,
+    "mps:latitude":51.619829,
+    "mps:longitude":5.977416,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vortum-Mullem Centrum"
+    ],
+    "name:nld_x_preferred":[
+        "Vortum-Mullem Centrum"
+    ],
+    "reversegeo:latitude":51.619829,
+    "reversegeo:longitude":5.977416,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474359,
+        85633337,
+        1158801503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3c7326ceeef2f0ae17c1294bbb3b72b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474359,
+            "locality_id":1158801503,
+            "neighbourhood_id":1158796961,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158796961,
+    "wof:lastmodified":1513432560,
+    "wof:name":"Vortum-Mullem Centrum",
+    "wof:parent_id":1158801503,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.968147005458715,
+    51.61418554764172,
+    5.986020188821794,
+    51.62367394505671
+],
+  "geometry": {"coordinates":[[[[5.96914495748559,51.61418554764172],[5.96814700545872,51.61514275496531],[5.97001671798208,51.6172421575651],[5.96981999914649,51.61806813633077],[5.97000003597367,51.61936611405384],[5.97148329314028,51.62043455526378],[5.97444028524442,51.62182030350137],[5.97945620126035,51.62320512064734],[5.98028227233684,51.6234632948613],[5.98089584721845,51.62367394505671],[5.98158608209613,51.6232429124685],[5.98439174695669,51.62351906779953],[5.98497289653251,51.62332256017399],[5.98496840472207,51.62252033629365],[5.98600751469709,51.62122597645816],[5.98530657288126,51.62073770899055],[5.98602018882179,51.6195214174011],[5.98495005162482,51.61897380066192],[5.98435563748157,51.61879285033606],[5.98098364544108,51.61819990804835],[5.97800085945424,51.61734226231448],[5.97569823253102,51.61605471678228],[5.9722013894352,51.61581439636533],[5.96914495748559,51.61418554764172]]]],"type":"MultiPolygon"}
+}

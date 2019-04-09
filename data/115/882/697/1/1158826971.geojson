@@ -1,0 +1,80 @@
+{
+  "id": 1158826971,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06060101",
+    "cbsnl:BU_NAAM":"Stadserf",
+    "cbsnl:GM_CODE":"GM0606",
+    "cbsnl:GM_NAAM":"Schiedam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"4864",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060601",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":19408.399477,
+    "geom:bbox":"4.4020201787,51.9180182882,4.40439498549,51.919479156",
+    "geom:latitude":51.918782,
+    "geom:longitude":4.403299,
+    "iso:country":"NL",
+    "lbl:latitude":51.918741,
+    "lbl:longitude":4.403299,
+    "mps:latitude":51.918741,
+    "mps:longitude":4.403299,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Stadserf"
+    ],
+    "name:nld_x_preferred":[
+        "Stadserf"
+    ],
+    "reversegeo:latitude":51.918741,
+    "reversegeo:longitude":4.403299,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829591,
+        85633337,
+        101751845,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d13e091ae073cdb1e108aee4a17a4ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "macrohood_id":1158829591,
+            "neighbourhood_id":1158826971,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826971,
+    "wof:lastmodified":1513588111,
+    "wof:name":"Stadserf",
+    "wof:parent_id":1158829591,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.402020178702377,
+    51.9180182882072,
+    4.404394985492327,
+    51.919479156023094
+],
+  "geometry": {"coordinates":[[[[4.40204162478774,51.91937499287574],[4.40271885299354,51.91934547790661],[4.40342571782415,51.91939950787923],[4.40389407789137,51.91942502026566],[4.40420698458248,51.91947915602309],[4.40437490022523,51.91835482712012],[4.40439498549233,51.91822032841648],[4.40267457865626,51.9180182882072],[4.40265496546095,51.91818778798895],[4.40202017870238,51.91920635166157],[4.40203599039989,51.91933068841755],[4.40204162478774,51.91937499287574]]]],"type":"MultiPolygon"}
+}

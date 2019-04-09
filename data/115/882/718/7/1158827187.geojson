@@ -1,0 +1,82 @@
+{
+  "id": 1158827187,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06130103",
+    "cbsnl:BU_NAAM":"Poortugaal",
+    "cbsnl:GM_CODE":"GM0613",
+    "cbsnl:GM_NAAM":"Albrandswaard",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"816",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK061301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":38139.045951,
+    "geom:bbox":"4.40903310451,51.8592160414,4.41314891609,51.8641816827",
+    "geom:latitude":51.861572,
+    "geom:longitude":4.410918,
+    "iso:country":"NL",
+    "lbl:latitude":51.861597,
+    "lbl:longitude":4.410918,
+    "mps:latitude":51.861597,
+    "mps:longitude":4.410918,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Poortugaal"
+    ],
+    "name:nld_x_preferred":[
+        "Poortugaal"
+    ],
+    "reversegeo:latitude":51.861597,
+    "reversegeo:longitude":4.410918,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831131,
+        404474263,
+        85633337,
+        101754731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"355245894b24109049a441a46e39b4f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474263,
+            "locality_id":101754731,
+            "macrohood_id":1158831131,
+            "neighbourhood_id":1158827187,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827187,
+    "wof:lastmodified":1513588127,
+    "wof:name":"Poortugaal",
+    "wof:parent_id":1158831131,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.40903310451117,
+    51.85921604137075,
+    4.413148916085888,
+    51.86418168274593
+],
+  "geometry": {"coordinates":[[[[4.40933666744571,51.86023767487739],[4.4119496872583,51.86376449492925],[4.41239382531664,51.86366513576066],[4.41261250111912,51.86388187839451],[4.41274838192978,51.86405077932394],[4.41284480827219,51.86418168274593],[4.41314891608589,51.86403633841564],[4.41276809607782,51.86346794811279],[4.41211893110801,51.8625574624597],[4.41189469582966,51.86221028178146],[4.41139949835264,51.86150644257746],[4.41104072879777,51.86100547545722],[4.41038140177416,51.8600258314011],[4.41009023232214,51.85951997055428],[4.40986381715262,51.85921604137075],[4.40903310451117,51.85936130452363],[4.40914992170587,51.85967141971921],[4.40933666744571,51.86023767487739]]]],"type":"MultiPolygon"}
+}

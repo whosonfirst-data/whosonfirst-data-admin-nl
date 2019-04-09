@@ -1,0 +1,80 @@
+{
+  "id": 1158803191,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01770500",
+    "cbsnl:BU_NAAM":"Marienheem-Kern",
+    "cbsnl:GM_CODE":"GM0177",
+    "cbsnl:GM_NAAM":"Raalte",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"118",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK017705",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:area_square_m":528178.163719,
+    "geom:bbox":"6.31471370926,52.3783738052,6.32734408902,52.3870597932",
+    "geom:latitude":52.382372,
+    "geom:longitude":6.321565,
+    "iso:country":"NL",
+    "lbl:latitude":52.382436,
+    "lbl:longitude":6.321685,
+    "mps:latitude":52.382436,
+    "mps:longitude":6.321685,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Marienheem-Kern"
+    ],
+    "name:nld_x_preferred":[
+        "Mari\u00ebnheem-Kern"
+    ],
+    "reversegeo:latitude":52.382436,
+    "reversegeo:longitude":6.321685,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473849,
+        85633337,
+        101807155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"17269fc7ac7ac62868c0690b6f9699f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473849,
+            "locality_id":101807155,
+            "neighbourhood_id":1158803191,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803191,
+    "wof:lastmodified":1513524322,
+    "wof:name":"Marienheem-Kern",
+    "wof:parent_id":101807155,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.314713709257227,
+    52.37837380515749,
+    6.327344089022108,
+    52.38705979324686
+],
+  "geometry": {"coordinates":[[[[6.31626008257352,52.37964607440207],[6.31623334656439,52.38195059953178],[6.31504428428104,52.38317780913277],[6.31471370925723,52.38352475400341],[6.32045924677053,52.38599793483981],[6.32166559645627,52.38657376471205],[6.32587575807264,52.38705979324686],[6.3246773627764,52.38416165125715],[6.32522927744529,52.38393089049716],[6.32547869162404,52.38329890768137],[6.32537374159241,52.38195152875969],[6.32710850862329,52.38188467787],[6.32734408902211,52.37837380515749],[6.32561640727244,52.37856278420042],[6.31626008257352,52.37964607440207]]]],"type":"MultiPolygon"}
+}

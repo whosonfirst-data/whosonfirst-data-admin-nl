@@ -1,0 +1,98 @@
+{
+  "id": 1158783521,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01960009",
+    "cbsnl:BU_NAAM":"Verspreide huizen Geitenwaard",
+    "cbsnl:GM_CODE":"GM0196",
+    "cbsnl:GM_NAAM":"Rijnwaarden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"7",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK019600",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00014,
+    "geom:area_square_m":1069187.174515,
+    "geom:bbox":"6.0596348136,51.8754280729,6.09061014134,51.8852102858",
+    "geom:latitude":51.880908,
+    "geom:longitude":6.073453,
+    "iso:country":"NL",
+    "lbl:latitude":51.879465,
+    "lbl:longitude":6.072146,
+    "mps:latitude":51.879465,
+    "mps:longitude":6.072146,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:afr_x_preferred":[
+        "Geitenwaard"
+    ],
+    "name:cat_x_preferred":[
+        "Geitenwaard"
+    ],
+    "name:dut_x_preferred":[
+        "Geitenwaard"
+    ],
+    "name:eng_x_preferred":[
+        "Geitenwaard"
+    ],
+    "name:glg_x_preferred":[
+        "Geitenwaard"
+    ],
+    "name:nan_x_preferred":[
+        "Geitenwaard"
+    ],
+    "name:nld_x_preferred":[
+        "Geitenwaard"
+    ],
+    "name:spa_x_preferred":[
+        "Geitenwaard"
+    ],
+    "reversegeo:latitude":51.879465,
+    "reversegeo:longitude":6.072146,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404473863,
+        85633337,
+        85687043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q171210"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"bff5345570f95e8e8b17744a24327833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473863,
+            "locality_id":1158783521,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1158783521,
+    "wof:lastmodified":1514492258,
+    "wof:name":"Geitenwaard",
+    "wof:parent_id":404473863,
+    "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "neighbourhood"
+    ],
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05963481360031,
+    51.8754280728544,
+    6.09061014134161,
+    51.88521028583403
+],
+  "geometry": {"coordinates":[[[[6.09050603283703,51.88433456090952],[6.09061014134161,51.88430163406188],[6.08663583287391,51.88213300226784],[6.0852272017581,51.88178184092825],[6.08383789312392,51.88153391683601],[6.08198024874807,51.88096600268304],[6.08064762999191,51.88035900554854],[6.0800035663797,51.88003303771964],[6.0763209929312,51.87760812990648],[6.07541045991529,51.877139603053],[6.07442796928119,51.87669789543118],[6.07329710915706,51.87625676418122],[6.07215608646225,51.87590669295491],[6.07062953392752,51.87550997891217],[6.06945063821249,51.8754280728544],[6.06998201387185,51.87560475553623],[6.06790900122487,51.87680581176329],[6.06500323100141,51.8779866420006],[6.06293132539028,51.87888480133453],[6.06128479508787,51.88026502179432],[6.06028294198879,51.88193646106807],[6.06011009730648,51.8828065344157],[6.06061980948263,51.88367016536986],[6.05963481360031,51.88375867382329],[6.06011198166185,51.88438851033565],[6.06025337458529,51.88461606506526],[6.06119363931391,51.88446432763872],[6.06126021841192,51.88443950728377],[6.06274812923856,51.88389613753183],[6.06600813345907,51.8821130513541],[6.08685504721402,51.88521028583403],[6.08778517033443,51.88515530325441],[6.08837245427111,51.88499000360037],[6.09050603283703,51.88433456090952]]]],"type":"MultiPolygon"}
+}

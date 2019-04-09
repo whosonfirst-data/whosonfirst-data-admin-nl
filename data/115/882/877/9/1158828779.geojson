@@ -1,0 +1,80 @@
+{
+  "id": 1158828779,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19270300",
+    "cbsnl:BU_NAAM":"Dorp Goudriaan",
+    "cbsnl:GM_CODE":"GM1927",
+    "cbsnl:GM_NAAM":"Molenwaard",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"96",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK192703",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:area_square_m":522214.717019,
+    "geom:bbox":"4.88446330015,51.8991937547,4.89763281962,51.9056145966",
+    "geom:latitude":51.902565,
+    "geom:longitude":4.891641,
+    "iso:country":"NL",
+    "lbl:latitude":51.902394,
+    "lbl:longitude":4.891641,
+    "mps:latitude":51.902394,
+    "mps:longitude":4.891641,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Dorp Goudriaan"
+    ],
+    "name:nld_x_preferred":[
+        "Dorp Goudriaan"
+    ],
+    "reversegeo:latitude":51.902394,
+    "reversegeo:longitude":4.891641,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158824743,
+        85633337,
+        1158831375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f754c77470f9a03a19001035ad0fb91b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824743,
+            "locality_id":1158831375,
+            "neighbourhood_id":1158828779,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828779,
+    "wof:lastmodified":1513588273,
+    "wof:name":"Dorp Goudriaan",
+    "wof:parent_id":1158831375,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.884463300153053,
+    51.89919375471484,
+    4.897632819617022,
+    51.90561459658636
+],
+  "geometry": {"coordinates":[[[[4.88550261283522,51.90336980614934],[4.88538617025324,51.90363346452645],[4.88538320384188,51.90363884469253],[4.88537428542379,51.90365678345037],[4.88536979523722,51.90366844911247],[4.88532515109206,51.90376263687616],[4.88509922286832,51.90421558702884],[4.8850338330661,51.90434563972155],[4.88480493150824,51.9048039699667],[4.88467843772776,51.9050703853029],[4.88466654210726,51.90509460272912],[4.88463685778937,51.90515020410086],[4.88446330015305,51.90548684239293],[4.8966914414822,51.90561459658636],[4.89763281961702,51.89950359322231],[4.89238763524248,51.8992336018155],[4.88827768632568,51.89919375471484],[4.8882046830342,51.89935888736149],[4.88558122288275,51.90334475861531],[4.88550261283522,51.90336980614934]]]],"type":"MultiPolygon"}
+}

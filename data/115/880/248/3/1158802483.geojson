@@ -1,0 +1,81 @@
+{
+  "id": 1158802483,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01580160",
+    "cbsnl:BU_NAAM":"Verspreide huizen Langelo ten noorden van de spoorlijn",
+    "cbsnl:GM_CODE":"GM0158",
+    "cbsnl:GM_NAAM":"Haaksbergen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"177",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK015801",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000153,
+    "geom:area_square_m":1159995.175935,
+    "geom:bbox":"6.69423716179,52.1490015421,6.71667793718,52.1633363894",
+    "geom:latitude":52.155476,
+    "geom:longitude":6.706194,
+    "iso:country":"NL",
+    "lbl:latitude":52.154425,
+    "lbl:longitude":6.705433,
+    "mps:latitude":52.154425,
+    "mps:longitude":6.705433,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen Langelo ten noorden van de spoorlijn"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen Langelo ten noorden van de spoorlijn"
+    ],
+    "reversegeo:latitude":52.154425,
+    "reversegeo:longitude":6.705433,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473829,
+        85633337,
+        101807203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4a75ed139545a72b448c391e304f70d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473829,
+            "locality_id":101807203,
+            "neighbourhood_id":1158802483,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802483,
+    "wof:lastmodified":1513524264,
+    "wof:name":"Verspreide huizen Langelo ten noorden van de spoorlijn",
+    "wof:parent_id":101807203,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.694237161790215,
+    52.14900154212988,
+    6.716677937182893,
+    52.163336389399646
+],
+  "geometry": {"coordinates":[[[[6.71667793718289,52.16333638939965],[6.71649931619317,52.16288361650475],[6.71592169169161,52.16122071555021],[6.71547312814322,52.16096716300656],[6.7150680390891,52.1606446267142],[6.71477002027282,52.16025378648242],[6.71462845428818,52.16007925173019],[6.71466951240877,52.15962588409676],[6.71454448501408,52.15909051629561],[6.71460665962954,52.15888852479882],[6.71525490014896,52.15888122698029],[6.71525710162833,52.15670786254334],[6.71486486630175,52.1551605568126],[6.71482787124578,52.15440842673771],[6.71245818686427,52.15449387356275],[6.71149887276864,52.15472272107134],[6.71142451139115,52.15453113095041],[6.71050286119563,52.15456434229539],[6.70904074987234,52.15047868002841],[6.70645496737287,52.14969048143433],[6.70650554304808,52.14958626205865],[6.70053034342877,52.14900154212988],[6.70045917336594,52.14908913609588],[6.69914772846066,52.15070461029928],[6.69423716179022,52.1577202385126],[6.6947414388185,52.15766773713964],[6.69732805452514,52.15681935054038],[6.69864156846994,52.1565089593462],[6.69980122016557,52.15668201815607],[6.69961276781765,52.15717682125172],[6.71667793718289,52.16333638939965]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158825183,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05010001",
+    "cbsnl:BU_NAAM":"Spuilaan en omgeving",
+    "cbsnl:GM_CODE":"GM0501",
+    "cbsnl:GM_NAAM":"Brielle",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1524",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":286332.382039,
+    "geom:bbox":"4.15896742717,51.8921359058,4.16960029463,51.8994418903",
+    "geom:latitude":51.896145,
+    "geom:longitude":4.163752,
+    "iso:country":"NL",
+    "lbl:latitude":51.896409,
+    "lbl:longitude":4.163849,
+    "mps:latitude":51.896409,
+    "mps:longitude":4.163849,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Spuilaan en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Spuilaan en omgeving"
+    ],
+    "reversegeo:latitude":51.896409,
+    "reversegeo:longitude":4.163849,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474161,
+        85633337,
+        101754623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d4442653ec35f3fcd74fba1098b9f770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474161,
+            "locality_id":101754623,
+            "neighbourhood_id":1158825183,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825183,
+    "wof:lastmodified":1513587973,
+    "wof:name":"Spuilaan en omgeving",
+    "wof:parent_id":101754623,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.158967427169379,
+    51.89213590576196,
+    4.169600294629654,
+    51.8994418903278
+],
+  "geometry": {"coordinates":[[[[4.15896742716938,51.8994418903278],[4.15932117184267,51.89939165280536],[4.1625075221523,51.89909512096753],[4.16449796980671,51.89845767660059],[4.16481351914013,51.89842135215025],[4.16521906142397,51.89807695838248],[4.16575221116705,51.89762321425274],[4.16673316614181,51.89645021071453],[4.16943515794122,51.89479840019995],[4.16960029462965,51.89472370398293],[4.16924951814311,51.89451949632105],[4.16918416671415,51.89443875966707],[4.16913395021896,51.89448234152956],[4.16364785815853,51.89213590576196],[4.16360760347684,51.89270180403054],[4.16326387478401,51.89380838553237],[4.16235745856162,51.89491893115856],[4.15975900575811,51.89654140366844],[4.15903429309481,51.89699388454216],[4.15901926680883,51.89754403365662],[4.15899923883723,51.8982772825348],[4.15896742716938,51.8994418903278]]]],"type":"MultiPolygon"}
+}

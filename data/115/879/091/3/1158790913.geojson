@@ -1,0 +1,80 @@
+{
+  "id": 1158790913,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01140901",
+    "cbsnl:BU_NAAM":"Kamerlingswijk",
+    "cbsnl:GM_CODE":"GM0114",
+    "cbsnl:GM_NAAM":"Emmen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"98",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011409",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":444746.819235,
+    "geom:bbox":"7.04080430801,52.7026426643,7.04840472643,52.7119848826",
+    "geom:latitude":52.707335,
+    "geom:longitude":7.044601,
+    "iso:country":"NL",
+    "lbl:latitude":52.707329,
+    "lbl:longitude":7.044601,
+    "mps:latitude":52.707329,
+    "mps:longitude":7.044601,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kamerlingswijk"
+    ],
+    "name:nld_x_preferred":[
+        "Kamerlingswijk"
+    ],
+    "reversegeo:latitude":52.707329,
+    "reversegeo:longitude":7.044601,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473809,
+        85633337,
+        101837887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5611236954bd5bf10cb0392c28e40438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473809,
+            "locality_id":101837887,
+            "neighbourhood_id":1158790913,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158790913,
+    "wof:lastmodified":1513292306,
+    "wof:name":"Kamerlingswijk",
+    "wof:parent_id":101837887,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.040804308014001,
+    52.70264266432728,
+    7.048404726429335,
+    52.711984882571414
+],
+  "geometry": {"coordinates":[[[[7.04184448433866,52.71198488257141],[7.04840472642934,52.71170155688838],[7.04732885169871,52.70264266432728],[7.040804308014,52.7030000081259],[7.04184448433866,52.71198488257141]]]],"type":"MultiPolygon"}
+}

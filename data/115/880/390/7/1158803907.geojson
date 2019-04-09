@@ -1,0 +1,80 @@
+{
+  "id": 1158803907,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17350607",
+    "cbsnl:BU_NAAM":"Sint Annabrink",
+    "cbsnl:GM_CODE":"GM1735",
+    "cbsnl:GM_NAAM":"Hof van Twente",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"975",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK173506",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":154060.875492,
+    "geom:bbox":"6.70325134421,52.2562525666,6.71048014564,52.2598539147",
+    "geom:latitude":52.257899,
+    "geom:longitude":6.706954,
+    "iso:country":"NL",
+    "lbl:latitude":52.257851,
+    "lbl:longitude":6.706954,
+    "mps:latitude":52.257851,
+    "mps:longitude":6.706954,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Sint Annabrink"
+    ],
+    "name:nld_x_preferred":[
+        "Sint Annabrink"
+    ],
+    "reversegeo:latitude":52.257851,
+    "reversegeo:longitude":6.706954,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474653,
+        85633337,
+        101807169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3d5717e0d55c1e6cd07c3b72939d3d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474653,
+            "locality_id":101807169,
+            "neighbourhood_id":1158803907,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803907,
+    "wof:lastmodified":1513524370,
+    "wof:name":"Sint Annabrink",
+    "wof:parent_id":101807169,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.703251344209527,
+    52.256252566553414,
+    6.710480145637928,
+    52.25985391471518
+],
+  "geometry": {"coordinates":[[[[6.71001094067895,52.25985391471518],[6.71048014563793,52.25913039821904],[6.71028556535187,52.25864465246004],[6.71009365557095,52.25805607025808],[6.70996609521113,52.25755328223003],[6.71033288618307,52.25742698205484],[6.71010081008255,52.25717731756581],[6.709754801108,52.25680508257901],[6.70898044982285,52.25647863665827],[6.70829947533331,52.25628288308359],[6.70709153345555,52.25625256655341],[6.70511853599096,52.25625465219822],[6.70396518312135,52.25642931347507],[6.70325134420953,52.25660721290431],[6.70331134543811,52.25682934471572],[6.70326990593983,52.25686258998225],[6.70325274594002,52.25786537569424],[6.70355261368074,52.25850382215673],[6.70379096749452,52.25860491054365],[6.70382529996755,52.25873200541999],[6.7056123364337,52.25922443507499],[6.70877455020869,52.25975539358992],[6.71001094067895,52.25985391471518]]]],"type":"MultiPolygon"}
+}

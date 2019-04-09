@@ -1,0 +1,80 @@
+{
+  "id": 1158803141,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01770002",
+    "cbsnl:BU_NAAM":"Blekkershoek",
+    "cbsnl:GM_CODE":"GM0177",
+    "cbsnl:GM_NAAM":"Raalte",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1144",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK017700",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":349100.829043,
+    "geom:bbox":"6.26805280842,52.3871336835,6.27934278471,52.3937282765",
+    "geom:latitude":52.390597,
+    "geom:longitude":6.273294,
+    "iso:country":"NL",
+    "lbl:latitude":52.390544,
+    "lbl:longitude":6.273182,
+    "mps:latitude":52.390544,
+    "mps:longitude":6.273182,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Blekkershoek"
+    ],
+    "name:nld_x_preferred":[
+        "Blekkershoek"
+    ],
+    "reversegeo:latitude":52.390544,
+    "reversegeo:longitude":6.273182,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473849,
+        85633337,
+        101808759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5f8cfb54009cd5667127731c7f16d98a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473849,
+            "locality_id":101808759,
+            "neighbourhood_id":1158803141,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803141,
+    "wof:lastmodified":1513524318,
+    "wof:name":"Blekkershoek",
+    "wof:parent_id":101808759,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.268052808418862,
+    52.3871336835288,
+    6.279342784713085,
+    52.39372827645818
+],
+  "geometry": {"coordinates":[[[[6.26859749861771,52.39091110380607],[6.26863384274758,52.39096111033569],[6.26838582347121,52.39282543591202],[6.26805280841886,52.39337168776757],[6.27337562479516,52.39372827645818],[6.27867291904422,52.39071263094782],[6.27889109435408,52.39082053010676],[6.27892647553261,52.39067392815173],[6.27934278471309,52.3901907739067],[6.27763208124496,52.388915561844],[6.27616099789211,52.3879326006948],[6.27540380356291,52.38812871935301],[6.27494041008641,52.3871336835288],[6.27380033302084,52.38735091927826],[6.27224133683197,52.38740640270345],[6.27160744239738,52.3873636710921],[6.27150434309931,52.38735011838283],[6.27128217708431,52.38799526119114],[6.27006171365698,52.38941015147597],[6.26859749861771,52.39091110380607]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158793427,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16510002",
+    "cbsnl:BU_NAAM":"'t Lage van de Weg",
+    "cbsnl:GM_CODE":"GM1651",
+    "cbsnl:GM_NAAM":"Eemsmond",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"249",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK165100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":382006.446253,
+    "geom:bbox":"6.65130256688,53.4059890445,6.65864205269,53.4155923632",
+    "geom:latitude":53.410783,
+    "geom:longitude":6.654893,
+    "iso:country":"NL",
+    "lbl:latitude":53.411165,
+    "lbl:longitude":6.65526,
+    "mps:latitude":53.411165,
+    "mps:longitude":6.65526,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "'t Lage van de Weg"
+    ],
+    "name:nld_x_preferred":[
+        "'t Lage van de Weg"
+    ],
+    "reversegeo:latitude":53.411165,
+    "reversegeo:longitude":6.65526,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404474561,
+        85633337,
+        101807513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"cbde3953e6c2ea89e119fc653b59c754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474561,
+            "locality_id":101807513,
+            "neighbourhood_id":1158793427,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793427,
+    "wof:lastmodified":1513382307,
+    "wof:name":"'t Lage van de Weg",
+    "wof:parent_id":101807513,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.65130256687828,
+    53.40598904453552,
+    6.658642052693494,
+    53.415592363180615
+],
+  "geometry": {"coordinates":[[[[6.65193981180409,53.41442238570736],[6.65538915538032,53.41530322461216],[6.65646394894456,53.41559236318061],[6.65751181484418,53.4144058406],[6.65823022120438,53.41321379883637],[6.65864205269349,53.4115813120036],[6.65819838567391,53.41026225509167],[6.65745307441746,53.40834825382717],[6.65651388991211,53.40659017613969],[6.65580628395055,53.40635501533565],[6.65486097996118,53.40612235398954],[6.65381358308769,53.40598904453552],[6.6530159323601,53.40612604577016],[6.65227157472373,53.40638154752021],[6.65130256687828,53.40682024392147],[6.65134678558536,53.40740498885737],[6.65192044765188,53.40788757321262],[6.65246781281564,53.40987894511478],[6.65140372859837,53.41266396935609],[6.65143910030257,53.41273997822403],[6.65179101733295,53.41350289218165],[6.65193981180409,53.41442238570736]]]],"type":"MultiPolygon"}
+}

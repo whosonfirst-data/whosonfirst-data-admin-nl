@@ -1,0 +1,80 @@
+{
+  "id": 1158791779,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17301402",
+    "cbsnl:BU_NAAM":"Taarlo",
+    "cbsnl:GM_CODE":"GM1730",
+    "cbsnl:GM_NAAM":"Tynaarlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"13",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK173014",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":258402.152213,
+    "geom:bbox":"6.61691110497,53.0293798322,6.6292395844,53.0359958836",
+    "geom:latitude":53.032892,
+    "geom:longitude":6.623978,
+    "iso:country":"NL",
+    "lbl:latitude":53.033459,
+    "lbl:longitude":6.625519,
+    "mps:latitude":53.033459,
+    "mps:longitude":6.625519,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Taarlo"
+    ],
+    "name:nld_x_preferred":[
+        "Taarlo"
+    ],
+    "reversegeo:latitude":53.033459,
+    "reversegeo:longitude":6.625519,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474647,
+        85633337,
+        1158792205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"60c368eff7cfc62d11c9562f6f141b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474647,
+            "locality_id":1158792205,
+            "neighbourhood_id":1158791779,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791779,
+    "wof:lastmodified":1513292363,
+    "wof:name":"Taarlo",
+    "wof:parent_id":1158792205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.616911104974673,
+    53.02937983218531,
+    6.629239584395247,
+    53.03599588362508
+],
+  "geometry": {"coordinates":[[[[6.62424607772692,53.02937983218531],[6.62219775273109,53.030166580343],[6.62430051163163,53.03197202008729],[6.62315508183003,53.03253431456267],[6.6197711136107,53.03169412314122],[6.61954225501162,53.03240476972676],[6.61772336620164,53.03213759500884],[6.61691110497467,53.03299353459909],[6.61765855734161,53.03374861882401],[6.61952948958357,53.03363892638365],[6.61992564724331,53.034358859913],[6.62255627124759,53.03375823819138],[6.62341561926287,53.03498731869142],[6.62558572335534,53.03554060291413],[6.62615196917248,53.03599588362508],[6.62654577473277,53.0351172584696],[6.62715254778449,53.03511490120224],[6.62923958439525,53.0344304584183],[6.62780650722409,53.03279902423733],[6.62886147451256,53.03261900895556],[6.62424607772692,53.02937983218531]]]],"type":"MultiPolygon"}
+}

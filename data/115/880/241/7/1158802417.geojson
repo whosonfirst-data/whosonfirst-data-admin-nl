@@ -1,0 +1,80 @@
+{
+  "id": 1158802417,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01530806",
+    "cbsnl:BU_NAAM":"De Slank",
+    "cbsnl:GM_CODE":"GM0153",
+    "cbsnl:GM_NAAM":"Enschede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"421",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK015308",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0001,
+    "geom:area_square_m":756098.048626,
+    "geom:bbox":"6.94010834807,52.2206589455,6.96071436447,52.2283485174",
+    "geom:latitude":52.224458,
+    "geom:longitude":6.950186,
+    "iso:country":"NL",
+    "lbl:latitude":52.224334,
+    "lbl:longitude":6.95102,
+    "mps:latitude":52.224334,
+    "mps:longitude":6.95102,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Slank"
+    ],
+    "name:nld_x_preferred":[
+        "De Slank"
+    ],
+    "reversegeo:latitude":52.224334,
+    "reversegeo:longitude":6.95102,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473827,
+        85633337,
+        101754777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"95915bc27ad2dab6aa532d65e52fb354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473827,
+            "locality_id":101754777,
+            "neighbourhood_id":1158802417,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802417,
+    "wof:lastmodified":1513524260,
+    "wof:name":"De Slank",
+    "wof:parent_id":101754777,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.94010834807146,
+    52.22065894550201,
+    6.960714364470253,
+    52.22834851739296
+],
+  "geometry": {"coordinates":[[[[6.96071436447025,52.2256177021899],[6.95762646264203,52.22560136600201],[6.95769403691017,52.22469815236141],[6.95712451654283,52.22192264287256],[6.95691805051197,52.22096675900372],[6.9564864631996,52.22065894550201],[6.94010834807146,52.22246766712448],[6.9408729532158,52.22466022197686],[6.94116664099832,52.22497993259931],[6.94154963318359,52.22515979054707],[6.94122163112449,52.2254761292076],[6.9401322977584,52.22574140906913],[6.9406859889581,52.22725086945375],[6.94715064238578,52.22619182319803],[6.94802410504122,52.226121298706],[6.94831191768022,52.22765913265058],[6.95401580177269,52.22712395410859],[6.95445927695261,52.22731915250195],[6.95520638672541,52.22728050602579],[6.95554028156217,52.22834851739296],[6.95881882985463,52.22801765690438],[6.95871835365799,52.2264965022918],[6.96058455684115,52.22635674139184],[6.96071436447025,52.2256177021899]]]],"type":"MultiPolygon"}
+}

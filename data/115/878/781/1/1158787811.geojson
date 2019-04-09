@@ -1,0 +1,82 @@
+{
+  "id": 1158787811,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03073000",
+    "cbsnl:BU_NAAM":"De Bron Noord",
+    "cbsnl:GM_CODE":"GM0307",
+    "cbsnl:GM_NAAM":"Amersfoort",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1805",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK030730",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":197896.19517,
+    "geom:bbox":"5.41451096275,52.1927739228,5.42553050344,52.1959111476",
+    "geom:latitude":52.19463,
+    "geom:longitude":5.419655,
+    "iso:country":"NL",
+    "lbl:latitude":52.194904,
+    "lbl:longitude":5.419552,
+    "mps:latitude":52.194904,
+    "mps:longitude":5.419552,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Bron Noord"
+    ],
+    "name:nld_x_preferred":[
+        "De Bron Noord"
+    ],
+    "reversegeo:latitude":52.194904,
+    "reversegeo:longitude":5.419552,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        1158790301,
+        404473971,
+        85633337,
+        101751821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7d6e4f4545cf0c64f64a6c9158b39ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473971,
+            "locality_id":101751821,
+            "macrohood_id":1158790301,
+            "neighbourhood_id":1158787811,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158787811,
+    "wof:lastmodified":1513621954,
+    "wof:name":"De Bron Noord",
+    "wof:parent_id":1158790301,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.414510962747952,
+    52.19277392283633,
+    5.425530503441449,
+    52.195911147637304
+],
+  "geometry": {"coordinates":[[[[5.4254293283414,52.1959111476373],[5.42553050344145,52.19348132575675],[5.42522483036463,52.1935227777988],[5.42512826935509,52.19353362143135],[5.42504939483339,52.1935324696142],[5.4230294123601,52.19340540313105],[5.42296030072092,52.19382375010287],[5.42291666077952,52.19408789554966],[5.41958371769269,52.19394130015949],[5.4184939534765,52.19389334725934],[5.41862953347481,52.19307315872931],[5.41498390443755,52.19284580473052],[5.41498324856467,52.19280342684044],[5.41451096274795,52.19277392283633],[5.41455801290474,52.19583266283694],[5.4194279537694,52.1958679445726],[5.4254293283414,52.1959111476373]]]],"type":"MultiPolygon"}
+}

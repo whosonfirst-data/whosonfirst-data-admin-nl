@@ -1,0 +1,82 @@
+{
+  "id": 1158824869,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04840303",
+    "cbsnl:BU_NAAM":"Ericapark",
+    "cbsnl:GM_CODE":"GM0484",
+    "cbsnl:GM_NAAM":"Alphen aan den Rijn",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2817",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK048403",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:area_square_m":156464.720026,
+    "geom:bbox":"4.67603384606,52.1431711299,4.68247356907,52.1475461211",
+    "geom:latitude":52.145039,
+    "geom:longitude":4.679774,
+    "iso:country":"NL",
+    "lbl:latitude":52.145105,
+    "lbl:longitude":4.679774,
+    "mps:latitude":52.145105,
+    "mps:longitude":4.679774,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ericapark"
+    ],
+    "name:nld_x_preferred":[
+        "Ericapark"
+    ],
+    "reversegeo:latitude":52.145105,
+    "reversegeo:longitude":4.679774,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831209,
+        404474147,
+        85633337,
+        101751837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7fe6612396548778e6deb3f05d873aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474147,
+            "locality_id":101751837,
+            "macrohood_id":1158831209,
+            "neighbourhood_id":1158824869,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158824869,
+    "wof:lastmodified":1513587950,
+    "wof:name":"Ericapark",
+    "wof:parent_id":1158831209,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.676033846058307,
+    52.143171129863006,
+    4.682473569070453,
+    52.1475461211425
+],
+  "geometry": {"coordinates":[[[[4.68227048259187,52.1475461211425],[4.68229269733878,52.14737949371317],[4.68229825273906,52.14725197450593],[4.68244361531438,52.14391391246912],[4.68247356907045,52.14322605214443],[4.6778140691673,52.14317112986301],[4.67677890460962,52.1432138609073],[4.67609554769384,52.14325820443347],[4.67603384605831,52.14325902237142],[4.67635835145864,52.14362551301936],[4.67655037789958,52.14399346053742],[4.67721014290579,52.14498108866752],[4.67731037711517,52.1451710994775],[4.67740038743337,52.14534172373546],[4.67735028892566,52.14602331514286],[4.67760987568634,52.14673878752906],[4.67778939425971,52.14675045188478],[4.67857672321781,52.1468453110212],[4.6799160332873,52.1470357882875],[4.68123641342266,52.14727247821212],[4.68207287635815,52.14746813201678],[4.68227048259187,52.1475461211425]]]],"type":"MultiPolygon"}
+}

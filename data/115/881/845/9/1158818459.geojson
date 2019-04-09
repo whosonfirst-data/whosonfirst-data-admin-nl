@@ -1,0 +1,82 @@
+{
+  "id": 1158818459,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03610802",
+    "cbsnl:BU_NAAM":"Spoorbuurt",
+    "cbsnl:GM_CODE":"GM0361",
+    "cbsnl:GM_NAAM":"Alkmaar",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3270",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK036108",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":250278.733704,
+    "geom:bbox":"4.73559551242,52.6337892838,4.74918582138,52.6386653937",
+    "geom:latitude":52.636442,
+    "geom:longitude":4.742572,
+    "iso:country":"NL",
+    "lbl:latitude":52.636245,
+    "lbl:longitude":4.742469,
+    "mps:latitude":52.636245,
+    "mps:longitude":4.742469,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Spoorbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Spoorbuurt"
+    ],
+    "reversegeo:latitude":52.636245,
+    "reversegeo:longitude":4.742469,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823281,
+        404474025,
+        85633337,
+        101751887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4b4662e71653010fb0ad33d371edeb25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474025,
+            "locality_id":101751887,
+            "macrohood_id":1158823281,
+            "neighbourhood_id":1158818459,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818459,
+    "wof:lastmodified":1513464064,
+    "wof:name":"Spoorbuurt",
+    "wof:parent_id":1158823281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.735595512417786,
+    52.633789283843925,
+    4.749185821379519,
+    52.63866539370064
+],
+  "geometry": {"coordinates":[[[[4.74627273992199,52.63866539370064],[4.74706876304146,52.63614425631353],[4.74918582137952,52.63378928384392],[4.74690534300102,52.63438007162221],[4.74631824770934,52.63472920962156],[4.74594195851387,52.63520889955919],[4.74438833417036,52.6354845080765],[4.74312039649001,52.63450791821824],[4.74203907995978,52.63410571574183],[4.74162152193937,52.63437486547826],[4.73937190471441,52.63526854795798],[4.73836217776338,52.6356225336018],[4.73636098970016,52.63649055289456],[4.73559551241779,52.63690696588471],[4.73729119303408,52.63762264723285],[4.74627273992199,52.63866539370064]]]],"type":"MultiPolygon"}
+}

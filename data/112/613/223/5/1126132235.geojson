@@ -1,0 +1,79 @@
+{
+  "id": 1126132235,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19000110",
+    "cbsnl:BU_NAAM":"Stadsfenne",
+    "cbsnl:GM_CODE":"GM1900",
+    "cbsnl:GM_NAAM":"S\u00fadwest-Frysl\u00e2n",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1203",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK190001",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000108,
+    "geom:area_square_m":805961.237166,
+    "geom:bbox":"5.6723788925,53.0350718889,5.69018596339,53.0460693555",
+    "geom:latitude":53.040825,
+    "geom:longitude":5.681646,
+    "iso:country":"NL",
+    "lbl:latitude":53.040487,
+    "lbl:longitude":5.682255,
+    "mps:latitude":53.040487,
+    "mps:longitude":5.682255,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Stadsfenne"
+    ],
+    "name:eng_x_preferred":[
+        "Stadsfenne"
+    ],
+    "reversegeo:latitude":53.040487,
+    "reversegeo:longitude":5.682255,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        1141960735,
+        85633337,
+        101837971,
+        85687055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"18569114c5bfc3ecb7b80936d038bd23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1141960735,
+            "locality_id":101837971,
+            "neighbourhood_id":1126132235,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":1126132235,
+    "wof:lastmodified":1507246103,
+    "wof:name":"Stadsfenne",
+    "wof:parent_id":101837971,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6723788925016,
+    53.03507188890513,
+    5.69018596338971,
+    53.04606935550489
+],
+  "geometry": {"coordinates":[[[[5.67590443997367,53.04316688155863],[5.67739999835343,53.04429831595813],[5.67822735670913,53.04400920778514],[5.67985859668095,53.04606935550489],[5.68518239973691,53.04506033878607],[5.69018596338971,53.04238070407673],[5.68858598146128,53.04086716921738],[5.68779577501734,53.04022665187728],[5.68702222159351,53.0395995666396],[5.68696061477828,53.03955029751575],[5.68682189484538,53.03801402155465],[5.68635226835122,53.03693012489178],[5.68547882209588,53.03629653944908],[5.68442645270448,53.0358931009237],[5.6826348993181,53.03550776776358],[5.68151689981494,53.03507188890513],[5.67980854490257,53.03641332756717],[5.67865792066444,53.03732878757815],[5.67777925063985,53.03791895499084],[5.67588915660535,53.03862332513219],[5.6723788925016,53.03987126583392],[5.67278112343309,53.04028366634412],[5.6735052839785,53.04111651828569],[5.67435953327015,53.04178281074055],[5.67590443997367,53.04316688155863]]]],"type":"MultiPolygon"}
+}

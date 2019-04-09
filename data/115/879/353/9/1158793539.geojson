@@ -1,0 +1,80 @@
+{
+  "id": 1158793539,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16630303",
+    "cbsnl:BU_NAAM":"Molenrij",
+    "cbsnl:GM_CODE":"GM1663",
+    "cbsnl:GM_NAAM":"De Marne",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"90",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK166303",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":255035.395969,
+    "geom:bbox":"6.40033932113,53.3845294171,6.41104195729,53.388690197",
+    "geom:latitude":53.386723,
+    "geom:longitude":6.405382,
+    "iso:country":"NL",
+    "lbl:latitude":53.38665,
+    "lbl:longitude":6.405382,
+    "mps:latitude":53.38665,
+    "mps:longitude":6.405382,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Molenrij"
+    ],
+    "name:nld_x_preferred":[
+        "Molenrij"
+    ],
+    "reversegeo:latitude":53.38665,
+    "reversegeo:longitude":6.405382,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404474575,
+        85633337,
+        101874315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a6a05d97b65054b12c8850c750c76934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474575,
+            "locality_id":101874315,
+            "neighbourhood_id":1158793539,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793539,
+    "wof:lastmodified":1513382317,
+    "wof:name":"Molenrij",
+    "wof:parent_id":101874315,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.400339321129346,
+    53.38452941711423,
+    6.411041957291251,
+    53.38869019697329
+],
+  "geometry": {"coordinates":[[[[6.40411572262482,53.38868352600647],[6.40657953410693,53.38869019697329],[6.40896486295218,53.3883689469521],[6.41039160148753,53.38768739209838],[6.41104195729125,53.38679171906332],[6.41020328895351,53.38597104767145],[6.40801060875037,53.38502314772801],[6.40649986004364,53.3846944997378],[6.40423989044684,53.38452941711423],[6.40310619140752,53.38457269055531],[6.40229165009972,53.38476601746097],[6.40156164264867,53.38515855709938],[6.40097620761955,53.38589638466217],[6.40043284560685,53.38668664330787],[6.40033932112935,53.38725240360882],[6.40046012530433,53.38772481892857],[6.40107984703914,53.3881907827732],[6.40237288893888,53.38858592118584],[6.40411572262482,53.38868352600647]]]],"type":"MultiPolygon"}
+}

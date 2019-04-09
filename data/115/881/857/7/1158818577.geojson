@@ -1,0 +1,80 @@
+{
+  "id": 1158818577,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03730106",
+    "cbsnl:BU_NAAM":"Oudtburgh",
+    "cbsnl:GM_CODE":"GM0373",
+    "cbsnl:GM_NAAM":"Bergen (NH.)",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1010",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK037301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":335179.869442,
+    "geom:bbox":"4.70130042612,52.673301408,4.71380239631,52.6807941624",
+    "geom:latitude":52.67708,
+    "geom:longitude":4.708504,
+    "iso:country":"NL",
+    "lbl:latitude":52.67717,
+    "lbl:longitude":4.708603,
+    "mps:latitude":52.67717,
+    "mps:longitude":4.708603,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oudtburgh"
+    ],
+    "name:nld_x_preferred":[
+        "Oudtburgh"
+    ],
+    "reversegeo:latitude":52.67717,
+    "reversegeo:longitude":4.708603,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474041,
+        85633337,
+        101808083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c84cbf1e13d64ddedcad3ab36b921d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474041,
+            "locality_id":101808083,
+            "neighbourhood_id":1158818577,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818577,
+    "wof:lastmodified":1513464080,
+    "wof:name":"Oudtburgh",
+    "wof:parent_id":101808083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.701300426117076,
+    52.673301407971515,
+    4.713802396307426,
+    52.680794162414884
+],
+  "geometry": {"coordinates":[[[[4.70664295750283,52.67926487639595],[4.70869580999395,52.67997563735824],[4.70867641654406,52.68028895592048],[4.7104689166069,52.68079416241488],[4.71101727833274,52.68025367048477],[4.71243967405379,52.67886472088858],[4.71255197829086,52.67867908694303],[4.71286332467006,52.67836153098519],[4.71317466381002,52.67804397580996],[4.71339742623374,52.67779244138887],[4.71327037931754,52.6775123166522],[4.71323353928695,52.67705973776874],[4.71314680152864,52.67700602629663],[4.71332782139428,52.67662120686768],[4.71380239630743,52.67584059270352],[4.70942051524144,52.67461860984017],[4.70525879495491,52.67349192504824],[4.70499631533766,52.67330140797151],[4.70370549759107,52.67462467235155],[4.70653601047756,52.67563763953849],[4.70515739025687,52.67749627776001],[4.70192950074886,52.67644813140942],[4.7013095803054,52.67708124873408],[4.70130042611708,52.67709046349099],[4.70664295750283,52.67926487639595]]]],"type":"MultiPolygon"}
+}

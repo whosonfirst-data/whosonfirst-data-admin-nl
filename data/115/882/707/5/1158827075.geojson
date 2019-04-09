@@ -1,0 +1,80 @@
+{
+  "id": 1158827075,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06060903",
+    "cbsnl:BU_NAAM":"Kastelenbuurt",
+    "cbsnl:GM_CODE":"GM0606",
+    "cbsnl:GM_NAAM":"Schiedam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2029",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060609",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":227846.303128,
+    "geom:bbox":"4.36450014075,51.9420062872,4.37388164156,51.9480257494",
+    "geom:latitude":51.945352,
+    "geom:longitude":4.369399,
+    "iso:country":"NL",
+    "lbl:latitude":51.945403,
+    "lbl:longitude":4.369329,
+    "mps:latitude":51.945403,
+    "mps:longitude":4.369329,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kastelenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Kastelenbuurt"
+    ],
+    "reversegeo:latitude":51.945403,
+    "reversegeo:longitude":4.369329,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831041,
+        85633337,
+        101751845,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e1538aaf4ca2b3b10b2c7a7d9bfa8697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "macrohood_id":1158831041,
+            "neighbourhood_id":1158827075,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827075,
+    "wof:lastmodified":1513588117,
+    "wof:name":"Kastelenbuurt",
+    "wof:parent_id":1158831041,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.364500140752727,
+    51.942006287166144,
+    4.373881641562166,
+    51.94802574937118
+],
+  "geometry": {"coordinates":[[[[4.36450014075273,51.94613304823368],[4.36525755779464,51.94631660015089],[4.37276831543423,51.94802574937118],[4.37307164590684,51.94763735198438],[4.37368085604351,51.94592124464226],[4.37375585986702,51.94537722609394],[4.37388164156217,51.94446174114394],[4.37229761058112,51.94442619303962],[4.37168531470414,51.94441605260771],[4.36834933224185,51.94320913790012],[4.36847850086356,51.94247401364215],[4.36670303386782,51.94202069369664],[4.36659666527571,51.94200628716614],[4.36658148751639,51.94205924519819],[4.36619907054794,51.94412616570037],[4.36450014075273,51.94613304823368]]]],"type":"MultiPolygon"}
+}

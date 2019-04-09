@@ -1,0 +1,79 @@
+{
+  "id": 1125776473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-23",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.99862,51.21032,5.99862,51.21032",
+    "geom:latitude":51.21032,
+    "geom:longitude":5.99862,
+    "gn:gn_country":"NL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1070,
+    "gn:population":1075,
+    "iso:country":"NL",
+    "lbl:latitude":51.21032,
+    "lbl:longitude":5.99862,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NL",
+    "qs_pg:gn_country":"NL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2751789,
+    "qs_pg:gn_pop":1070,
+    "qs_pg:name":"Leeuwen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1037746,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        404474511,
+        85633337,
+        85687033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2751789,
+        "qs_pg:id":1037746
+    },
+    "wof:country":"NL",
+    "wof:created":1497290281,
+    "wof:geomhash":"1c0b780e2029a4bde42c4c408c7b87ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474511,
+            "locality_id":1125776473,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1125776473,
+    "wof:lastmodified":1524505993,
+    "wof:name":"Leeuwen",
+    "wof:parent_id":404474511,
+    "wof:placetype":"locality",
+    "wof:population":1075,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.99862,
+    51.21032,
+    5.99862,
+    51.21032
+],
+  "geometry": {"coordinates":[5.99862,51.21032],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158790687,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01091014",
+    "cbsnl:BU_NAAM":"Klinkenvlier",
+    "cbsnl:GM_CODE":"GM0109",
+    "cbsnl:GM_NAAM":"Coevorden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"222",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK010910",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":627194.449421,
+    "geom:bbox":"6.75445322237,52.6504368103,6.774328691,52.657671657",
+    "geom:latitude":52.654284,
+    "geom:longitude":6.765686,
+    "iso:country":"NL",
+    "lbl:latitude":52.653677,
+    "lbl:longitude":6.769148,
+    "mps:latitude":52.653677,
+    "mps:longitude":6.769148,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Klinkenvlier"
+    ],
+    "name:nld_x_preferred":[
+        "Klinkenvlier"
+    ],
+    "reversegeo:latitude":52.653677,
+    "reversegeo:longitude":6.769148,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473807,
+        85633337,
+        101807741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e61103a1743f30dd7fb21644e969ecc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473807,
+            "locality_id":101807741,
+            "neighbourhood_id":1158790687,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158790687,
+    "wof:lastmodified":1513292291,
+    "wof:name":"Klinkenvlier",
+    "wof:parent_id":101807741,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.754453222374599,
+    52.65043681033862,
+    6.774328690997326,
+    52.657671657006425
+],
+  "geometry": {"coordinates":[[[[6.75733556044294,52.65767165700642],[6.7590942713905,52.65706433885908],[6.76061498519458,52.6566322026573],[6.76219570674072,52.65630299653711],[6.76372370325592,52.65611257230442],[6.76559916967947,52.65612539001675],[6.76708033899321,52.65624639950585],[6.76879280068243,52.65650289554016],[6.76925603730289,52.65661885101088],[6.77314545829568,52.65759260225997],[6.77422819249596,52.65229353477092],[6.77432869099733,52.65187778307428],[6.77147932788413,52.65160006378642],[6.77047700729236,52.65043681033862],[6.7544645867148,52.65435354722791],[6.7544532223746,52.65435199156396],[6.7544843087756,52.65440106870939],[6.75456063405984,52.65443445913981],[6.75592358881981,52.65596107872081],[6.7567762613441,52.65690315860707],[6.75733556044294,52.65767165700642]]]],"type":"MultiPolygon"}
+}

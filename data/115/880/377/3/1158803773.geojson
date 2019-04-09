@@ -1,0 +1,81 @@
+{
+  "id": 1158803773,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17080808",
+    "cbsnl:BU_NAAM":"Verspreide huizen Sint Jansklooster",
+    "cbsnl:GM_CODE":"GM1708",
+    "cbsnl:GM_NAAM":"Steenwijkerland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"76",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170808",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000273,
+    "geom:area_square_m":2048491.868538,
+    "geom:bbox":"5.97063530934,52.6701255817,6.00199507534,52.6856245978",
+    "geom:latitude":52.677415,
+    "geom:longitude":5.98605,
+    "iso:country":"NL",
+    "lbl:latitude":52.677525,
+    "lbl:longitude":5.987119,
+    "mps:latitude":52.677525,
+    "mps:longitude":5.987119,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen Sint Jansklooster"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen Sint Jansklooster"
+    ],
+    "reversegeo:latitude":52.677525,
+    "reversegeo:longitude":5.987119,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474621,
+        85633337,
+        101807219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c2b7f6c56e9639228d6268adbf4e92b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474621,
+            "locality_id":101807219,
+            "neighbourhood_id":1158803773,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803773,
+    "wof:lastmodified":1513524361,
+    "wof:name":"Verspreide huizen Sint Jansklooster",
+    "wof:parent_id":101807219,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.970635309342025,
+    52.67012558173396,
+    6.001995075339466,
+    52.6856245977951
+],
+  "geometry": {"coordinates":[[[[5.98288342600899,52.68544495959619],[5.98288079257149,52.6854577738665],[5.98435557790053,52.68558465319012],[5.98574643912526,52.6856245977951],[5.98771463303405,52.68552080219106],[5.98929536507448,52.68532505766804],[5.99087414497113,52.68498849000021],[5.99368279087921,52.68422319655524],[5.99868359204343,52.68281292106844],[6.00110647659288,52.68209637009975],[6.00199507533947,52.68179788518056],[5.99761782502815,52.68061912991828],[5.99962630646029,52.67892455322387],[5.99517292482061,52.6774878329588],[5.99766043503306,52.67583773802501],[5.99579981633013,52.67484267834634],[5.99441009566977,52.67421534408417],[5.9864679601444,52.67062931085623],[5.98236365733129,52.67012558173396],[5.97063530934202,52.67113971909927],[5.97222034117583,52.67316162402516],[5.97289643692369,52.67580726058323],[5.97432215284849,52.67696912270703],[5.97754858716311,52.67858937165346],[5.97999796164081,52.67958992786016],[5.98259339686652,52.68191446411485],[5.98299582120686,52.68323720983577],[5.98301695609501,52.6847952500457],[5.98288342600899,52.68544495959619]]]],"type":"MultiPolygon"}
+}

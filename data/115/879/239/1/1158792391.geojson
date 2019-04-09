@@ -1,0 +1,80 @@
+{
+  "id": 1158792391,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00050006",
+    "cbsnl:BU_NAAM":"Noordwolde",
+    "cbsnl:GM_CODE":"GM0005",
+    "cbsnl:GM_NAAM":"Bedum",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"93",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK000500",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":236842.50997,
+    "geom:bbox":"6.58573996419,53.2686899128,6.59354540416,53.2739885114",
+    "geom:latitude":53.271325,
+    "geom:longitude":6.589707,
+    "iso:country":"NL",
+    "lbl:latitude":53.271338,
+    "lbl:longitude":6.589707,
+    "mps:latitude":53.271338,
+    "mps:longitude":6.589707,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Noordwolde"
+    ],
+    "name:nld_x_preferred":[
+        "Noordwolde"
+    ],
+    "reversegeo:latitude":53.271338,
+    "reversegeo:longitude":6.589707,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473703,
+        85633337,
+        1158796463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e90a1809a34491edfa361e72b7043483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473703,
+            "locality_id":1158796463,
+            "neighbourhood_id":1158792391,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158792391,
+    "wof:lastmodified":1513382242,
+    "wof:name":"Noordwolde",
+    "wof:parent_id":1158796463,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.585739964190524,
+    53.26868991280926,
+    6.593545404156843,
+    53.273988511363065
+],
+  "geometry": {"coordinates":[[[[6.59152384109795,53.26896074214915],[6.59103695660865,53.26881117115256],[6.58957373805558,53.26868991280926],[6.58844665887218,53.26880565759851],[6.58821800558501,53.26877817864357],[6.58687200520876,53.26936843754347],[6.58622098011589,53.26994500673817],[6.58573996419052,53.27054627164043],[6.58586326219318,53.27142681808316],[6.58632800639435,53.2723387771901],[6.58716614883184,53.27309929142341],[6.58806622032684,53.27371877253884],[6.58880412328131,53.27394784188196],[6.59012753918677,53.27398851136306],[6.59132126661471,53.27383894799139],[6.59236965592196,53.27342573420935],[6.59315333019803,53.27282758332917],[6.59354540415684,53.27199690889377],[6.59335304301842,53.27079636428096],[6.59260747425733,53.26970471737508],[6.5917657386678,53.26903469939538],[6.59152384109795,53.26896074214915]]]],"type":"MultiPolygon"}
+}

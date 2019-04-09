@@ -1,0 +1,86 @@
+{
+  "id": 1158784483,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07030401",
+    "cbsnl:BU_NAAM":"Rilland- Stationsbuurt",
+    "cbsnl:GM_CODE":"GM0703",
+    "cbsnl:GM_NAAM":"Reimerswaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"49",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK070304",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":250995.856306,
+    "geom:bbox":"4.15309928608,51.4207519698,4.1656355833,51.4255642643",
+    "geom:latitude":51.423291,
+    "geom:longitude":4.159609,
+    "iso:country":"NL",
+    "lbl:latitude":51.423323,
+    "lbl:longitude":4.159609,
+    "mps:latitude":51.423323,
+    "mps:longitude":4.159609,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Stationsbuurt"
+    ],
+    "name:eng_x_variant":[
+        "Rilland- Stationsbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Stationsbuurt"
+    ],
+    "name:nld_x_variant":[
+        "Rilland- Stationsbuurt"
+    ],
+    "reversegeo:latitude":51.423323,
+    "reversegeo:longitude":4.159609,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474323,
+        85633337,
+        101809823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c2f5e115f4832e7e2ca28238bbe1c851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474323,
+            "locality_id":101809823,
+            "neighbourhood_id":1158784483,
+            "region_id":85687037
+        }
+    ],
+    "wof:id":1158784483,
+    "wof:lastmodified":1513628661,
+    "wof:name":"Stationsbuurt",
+    "wof:parent_id":101809823,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.153099286078146,
+    51.42075196978478,
+    4.165635583295247,
+    51.42556426425521
+],
+  "geometry": {"coordinates":[[[[4.16318468814468,51.42075196978478],[4.15525795251532,51.42257570261595],[4.15511709690314,51.42428363701888],[4.15333453942427,51.42427518685751],[4.15309928607815,51.42496068272661],[4.15768933554993,51.42556426425521],[4.16100433593298,51.42471368986935],[4.16105969412168,51.42487327358928],[4.16460196204623,51.42370810484157],[4.16356485804935,51.42239065240084],[4.16459714023717,51.42224584733486],[4.16563558329525,51.42125045882479],[4.16455638868145,51.42100092724866],[4.16334184816834,51.4212828793539],[4.16318468814468,51.42075196978478]]]],"type":"MultiPolygon"}
+}

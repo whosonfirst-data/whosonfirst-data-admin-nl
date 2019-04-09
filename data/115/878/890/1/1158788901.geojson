@@ -1,0 +1,80 @@
+{
+  "id": 1158788901,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU15810002",
+    "cbsnl:BU_NAAM":"Doorn-West",
+    "cbsnl:GM_CODE":"GM1581",
+    "cbsnl:GM_NAAM":"Utrechtse Heuvelrug",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"493",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK158100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000257,
+    "geom:area_square_m":1955785.978626,
+    "geom:bbox":"5.31879398961,52.0354706253,5.34993442951,52.0521960293",
+    "geom:latitude":52.043409,
+    "geom:longitude":5.333968,
+    "iso:country":"NL",
+    "lbl:latitude":52.042539,
+    "lbl:longitude":5.33267,
+    "mps:latitude":52.042539,
+    "mps:longitude":5.33267,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Doorn-West"
+    ],
+    "name:nld_x_preferred":[
+        "Doorn-West"
+    ],
+    "reversegeo:latitude":52.042539,
+    "reversegeo:longitude":5.33267,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474547,
+        85633337,
+        101806997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"09af1ddedf3cda61e7a88d8e3c88d472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474547,
+            "locality_id":101806997,
+            "neighbourhood_id":1158788901,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788901,
+    "wof:lastmodified":1513622050,
+    "wof:name":"Doorn-West",
+    "wof:parent_id":101806997,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.318793989612567,
+    52.03547062528389,
+    5.349934429505208,
+    52.05219602933035
+],
+  "geometry": {"coordinates":[[[[5.34993442950521,52.04408982445921],[5.34809172396322,52.04428443784076],[5.34622719348551,52.04466383570254],[5.34542524890284,52.04491887239539],[5.34446381935266,52.0456996492319],[5.344023251355,52.04601575855727],[5.33676392318908,52.03831738888746],[5.33513201085021,52.03677241399607],[5.3340578133988,52.03547062528389],[5.33194613808,52.03574547961606],[5.32736883039237,52.03578903252369],[5.3210088899572,52.03650917981482],[5.31879398961257,52.03704383242606],[5.31946052460446,52.03779640747637],[5.32010239328929,52.03830909582872],[5.32551913631684,52.04506042551322],[5.33720597871694,52.05219602933035],[5.34935391772172,52.04783598617448],[5.34952141270962,52.04637912657949],[5.34993442950521,52.04408982445921]]]],"type":"MultiPolygon"}
+}

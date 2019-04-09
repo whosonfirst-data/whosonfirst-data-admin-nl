@@ -1,0 +1,80 @@
+{
+  "id": 1158790855,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01140408",
+    "cbsnl:BU_NAAM":"Limietweg",
+    "cbsnl:GM_CODE":"GM0114",
+    "cbsnl:GM_NAAM":"Emmen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"52",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011404",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000163,
+    "geom:area_square_m":1223206.647061,
+    "geom:bbox":"7.05096482266,52.7367499426,7.05929306451,52.7711129438",
+    "geom:latitude":52.754724,
+    "geom:longitude":7.054843,
+    "iso:country":"NL",
+    "lbl:latitude":52.753538,
+    "lbl:longitude":7.054559,
+    "mps:latitude":52.753538,
+    "mps:longitude":7.054559,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Limietweg"
+    ],
+    "name:nld_x_preferred":[
+        "Limietweg"
+    ],
+    "reversegeo:latitude":52.753538,
+    "reversegeo:longitude":7.054559,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473809,
+        85633337,
+        101807269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e953d65c5024a70c2b3aa544557042f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473809,
+            "locality_id":101807269,
+            "neighbourhood_id":1158790855,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158790855,
+    "wof:lastmodified":1513292302,
+    "wof:name":"Limietweg",
+    "wof:parent_id":101807269,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.050964822660008,
+    52.7367499425897,
+    7.059293064509555,
+    52.77111294384184
+],
+  "geometry": {"coordinates":[[[[7.05096482266001,52.7367499425897],[7.05377009362998,52.77104118533543],[7.05929306450956,52.77111294384184],[7.05841698332056,52.76076535147757],[7.05737472513527,52.76074866766925],[7.05541489198156,52.73678845555185],[7.05096482266001,52.7367499425897]]]],"type":"MultiPolygon"}
+}

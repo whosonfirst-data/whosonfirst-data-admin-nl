@@ -1,0 +1,80 @@
+{
+  "id": 1158790883,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01140707",
+    "cbsnl:BU_NAAM":"Verlengde Vaart",
+    "cbsnl:GM_CODE":"GM0114",
+    "cbsnl:GM_NAAM":"Emmen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"187",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011407",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":239362.231394,
+    "geom:bbox":"6.90035962422,52.7094628122,6.91963677779,52.7131005469",
+    "geom:latitude":52.711413,
+    "geom:longitude":6.911016,
+    "iso:country":"NL",
+    "lbl:latitude":52.71091,
+    "lbl:longitude":6.914083,
+    "mps:latitude":52.71091,
+    "mps:longitude":6.914083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verlengde Vaart"
+    ],
+    "name:nld_x_preferred":[
+        "Verlengde Vaart"
+    ],
+    "reversegeo:latitude":52.71091,
+    "reversegeo:longitude":6.914083,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473809,
+        85633337,
+        101807299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"cf56af97d1d6e39a8f64bf5d9c53bddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473809,
+            "locality_id":101807299,
+            "neighbourhood_id":1158790883,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158790883,
+    "wof:lastmodified":1513292304,
+    "wof:name":"Verlengde Vaart",
+    "wof:parent_id":101807299,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.900359624218783,
+    52.709462812175936,
+    6.919636777790012,
+    52.71310054694891
+],
+  "geometry": {"coordinates":[[[[6.90058279878062,52.71310054694891],[6.91788254367653,52.71161740112104],[6.91806990475107,52.71242213850669],[6.91963677779001,52.71229813621932],[6.91896489347002,52.70946281217594],[6.91260713830774,52.71000113304171],[6.91275324699636,52.71064902222049],[6.90039654965942,52.71171058158676],[6.90040756174746,52.71175825910984],[6.90041785806423,52.71180278196181],[6.90043728801657,52.71188684470843],[6.90046811137895,52.71202020671382],[6.90049690196784,52.71214480435437],[6.90038922520263,52.71215402970842],[6.90035962421878,52.71215656324328],[6.90058279878062,52.71310054694891]]]],"type":"MultiPolygon"}
+}

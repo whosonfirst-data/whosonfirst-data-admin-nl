@@ -1,0 +1,80 @@
+{
+  "id": 1158807655,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17290500",
+    "cbsnl:BU_NAAM":"Epen",
+    "cbsnl:GM_CODE":"GM1729",
+    "cbsnl:GM_NAAM":"Gulpen-Wittem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"139",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK172905",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000087,
+    "geom:area_square_m":680019.31437,
+    "geom:bbox":"5.90686369539,50.7708785507,5.91922481257,50.7801823379",
+    "geom:latitude":50.775751,
+    "geom:longitude":5.913519,
+    "iso:country":"NL",
+    "lbl:latitude":50.77554,
+    "lbl:longitude":5.913519,
+    "mps:latitude":50.77554,
+    "mps:longitude":5.913519,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Epen"
+    ],
+    "name:nld_x_preferred":[
+        "Epen"
+    ],
+    "reversegeo:latitude":50.77554,
+    "reversegeo:longitude":5.913519,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474645,
+        85633337,
+        101855217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5f4d1f83bdc40c6b3c0d875d8cdc9c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474645,
+            "locality_id":101855217,
+            "neighbourhood_id":1158807655,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158807655,
+    "wof:lastmodified":1513404136,
+    "wof:name":"Epen",
+    "wof:parent_id":101855217,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.906863695392151,
+    50.77087855066465,
+    5.919224812572665,
+    50.7801823378765
+],
+  "geometry": {"coordinates":[[[[5.90686476158602,50.77897337675086],[5.91453306894008,50.7796900308025],[5.91811441733052,50.7801823378765],[5.91813074337979,50.78011849715839],[5.91873302562584,50.77775248537407],[5.91918348054987,50.77536469776398],[5.91922481257266,50.77377178324018],[5.91899715092616,50.77234443819295],[5.91751683447515,50.7718196460607],[5.91750014635162,50.77176472323421],[5.91723932596447,50.77153877800487],[5.91684637827956,50.77141380318147],[5.91647512127766,50.77145032334178],[5.91486245530642,50.77087855066465],[5.91313063513586,50.77166034138592],[5.91159518842461,50.77214458035876],[5.9079929509526,50.77326286824555],[5.90686369539215,50.77875933430071],[5.90686476158602,50.77897337675086]]]],"type":"MultiPolygon"}
+}

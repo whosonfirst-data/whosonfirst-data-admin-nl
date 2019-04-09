@@ -1,0 +1,82 @@
+{
+  "id": 1158819729,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04000404",
+    "cbsnl:BU_NAAM":"Deltabuurt",
+    "cbsnl:GM_CODE":"GM0400",
+    "cbsnl:GM_NAAM":"Den Helder",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1635",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK040004",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000023,
+    "geom:area_square_m":171452.479771,
+    "geom:bbox":"4.73403995651,52.935815082,4.7410496188,52.9430546605",
+    "geom:latitude":52.939548,
+    "geom:longitude":4.73763,
+    "iso:country":"NL",
+    "lbl:latitude":52.939473,
+    "lbl:longitude":4.737683,
+    "mps:latitude":52.939473,
+    "mps:longitude":4.737683,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Deltabuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Deltabuurt"
+    ],
+    "reversegeo:latitude":52.939473,
+    "reversegeo:longitude":4.737683,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823015,
+        404474079,
+        85633337,
+        101806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7cdf3ecec8245ce85cf1761082d04310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474079,
+            "locality_id":101806071,
+            "macrohood_id":1158823015,
+            "neighbourhood_id":1158819729,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158819729,
+    "wof:lastmodified":1513464167,
+    "wof:name":"Deltabuurt",
+    "wof:parent_id":1158823015,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.734039956511669,
+    52.93581508202394,
+    4.741049618795944,
+    52.94305466048397
+],
+  "geometry": {"coordinates":[[[[4.73791585929149,52.94305466048397],[4.73791853307387,52.94305412651602],[4.74104961879594,52.94242772737798],[4.74099690573783,52.94219527110199],[4.74092127940713,52.94186176977927],[4.74058333773945,52.94127244514253],[4.74008703696119,52.9406339591356],[4.73959495401697,52.93971241692805],[4.73928432458772,52.93919569144582],[4.73910392669816,52.93872123218483],[4.73921412586303,52.93841403984636],[4.73927970629245,52.93830206335171],[4.73871624910576,52.93788506381298],[4.73750207579459,52.93711516976093],[4.73640039197723,52.93648011389229],[4.73601475860598,52.9362123481869],[4.7362036825509,52.93602221489147],[4.73587859991417,52.93581508202394],[4.73403995651167,52.93627581090424],[4.73420252394204,52.93654900149542],[4.73475279153859,52.93764162999852],[4.73566458624854,52.93914062310208],[4.73651566870209,52.94052245240358],[4.73737029397793,52.94216153448976],[4.73791487191624,52.94305304089522],[4.73791585929149,52.94305466048397]]]],"type":"MultiPolygon"}
+}

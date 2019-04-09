@@ -1,0 +1,80 @@
+{
+  "id": 1158818565,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03730102",
+    "cbsnl:BU_NAAM":"Van Reenen",
+    "cbsnl:GM_CODE":"GM0373",
+    "cbsnl:GM_NAAM":"Bergen (NH.)",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"939",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK037301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:area_square_m":405606.787193,
+    "geom:bbox":"4.69035342761,52.6670688782,4.70023951849,52.6756797107",
+    "geom:latitude":52.671199,
+    "geom:longitude":4.694512,
+    "iso:country":"NL",
+    "lbl:latitude":52.671271,
+    "lbl:longitude":4.694513,
+    "mps:latitude":52.671271,
+    "mps:longitude":4.694513,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Van Reenen"
+    ],
+    "name:nld_x_preferred":[
+        "Van Reenen"
+    ],
+    "reversegeo:latitude":52.671271,
+    "reversegeo:longitude":4.694513,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474041,
+        85633337,
+        101808083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"14d1180206aba1363173170258767be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474041,
+            "locality_id":101808083,
+            "neighbourhood_id":1158818565,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818565,
+    "wof:lastmodified":1513464079,
+    "wof:name":"Van Reenen",
+    "wof:parent_id":101808083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.690353427614762,
+    52.66706887823318,
+    4.700239518493326,
+    52.675679710743964
+],
+  "geometry": {"coordinates":[[[[4.69994121502379,52.67190597195788],[4.70023951849333,52.67175350807092],[4.69918722849045,52.67138765474683],[4.69928549223145,52.66976821120436],[4.69914767515862,52.66976741416761],[4.69898791484165,52.6688797217081],[4.69848255174892,52.66883554908],[4.69698106085754,52.668065348204],[4.6969627975882,52.66808964944879],[4.69312290532727,52.66706887823318],[4.69326114300378,52.66837901674825],[4.69035342761476,52.66812469980563],[4.69035799557078,52.66820083575864],[4.69074223741405,52.67442760008206],[4.69255867191407,52.67522994014253],[4.69268825821126,52.67531158185613],[4.69392884170542,52.67567971074396],[4.69546349409207,52.67419395456059],[4.69994121502379,52.67190597195788]]]],"type":"MultiPolygon"}
+}

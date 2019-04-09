@@ -1,0 +1,80 @@
+{
+  "id": 1158787291,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09956665",
+    "cbsnl:BU_NAAM":"Lindenlaan",
+    "cbsnl:GM_CODE":"GM0995",
+    "cbsnl:GM_NAAM":"Lelystad",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2088",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK099566",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":75453.853789,
+    "geom:bbox":"5.47843947561,52.5077223733,5.48151140807,52.5114667314",
+    "geom:latitude":52.509666,
+    "geom:longitude":5.480004,
+    "iso:country":"NL",
+    "lbl:latitude":52.509646,
+    "lbl:longitude":5.480025,
+    "mps:latitude":52.509646,
+    "mps:longitude":5.480025,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Lindenlaan"
+    ],
+    "name:nld_x_preferred":[
+        "Lindenlaan"
+    ],
+    "reversegeo:latitude":52.509646,
+    "reversegeo:longitude":5.480025,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158787409,
+        85633337,
+        101751873,
+        85687049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"cb2d2db59a3e88dd38c166a4faf0f489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751873,
+            "macrohood_id":1158787409,
+            "neighbourhood_id":1158787291,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158787291,
+    "wof:lastmodified":1513299305,
+    "wof:name":"Lindenlaan",
+    "wof:parent_id":1158787409,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.478439475605786,
+    52.507722373327894,
+    5.481511408065392,
+    52.51146673135219
+],
+  "geometry": {"coordinates":[[[[5.47869124202661,52.51143570994109],[5.47878867576479,52.51140669577883],[5.47895849227402,52.51139536255945],[5.48080853269044,52.51146673135219],[5.48151140806539,52.51146369539529],[5.48133258967291,52.50837811092079],[5.48131688450088,52.50810710756786],[5.48129609208141,52.50801006126709],[5.48123045359011,52.50794559501436],[5.48113304945358,52.50790399465745],[5.48101792261449,52.50788981066805],[5.47954778866428,52.50783786903896],[5.479284829681,52.50782779633305],[5.47914722626381,52.50780335162229],[5.47901330190687,52.50774750207513],[5.47897656529873,52.50772237332789],[5.47878560344544,52.50790989756713],[5.47868608061056,52.50800762864795],[5.47861060527503,52.50864242816413],[5.47856147147118,52.50875210969171],[5.47843947560579,52.5100402139937],[5.47873959740063,52.51007612907298],[5.47861752281714,52.51129257069702],[5.47862538065023,52.51137233955052],[5.47869124202661,52.51143570994109]]]],"type":"MultiPolygon"}
+}

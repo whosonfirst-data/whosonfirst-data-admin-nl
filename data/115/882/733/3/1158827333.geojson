@@ -1,0 +1,78 @@
+{
+  "id": 1158827333,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06220303",
+    "cbsnl:BU_NAAM":"'t Scheur",
+    "cbsnl:GM_CODE":"GM0622",
+    "cbsnl:GM_NAAM":"Vlaardingen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"567",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK062203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":459983.740781,
+    "geom:bbox":"4.30808053812,51.8946766632,4.31916520803,51.9012477635",
+    "geom:latitude":51.898069,
+    "geom:longitude":4.313863,
+    "iso:country":"NL",
+    "lbl:latitude":51.898016,
+    "lbl:longitude":4.313876,
+    "mps:latitude":51.898016,
+    "mps:longitude":4.313876,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "'t Scheur"
+    ],
+    "name:nld_x_preferred":[
+        "'t Scheur"
+    ],
+    "reversegeo:latitude":51.898016,
+    "reversegeo:longitude":4.313876,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        101751851,
+        85633337,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"864c08a3da348091cbcd31cd887fdbee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751851,
+            "neighbourhood_id":1158827333,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827333,
+    "wof:lastmodified":1513588141,
+    "wof:name":"'t Scheur",
+    "wof:parent_id":101751851,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.308080538119646,
+    51.894676663212095,
+    4.319165208034489,
+    51.901247763490424
+],
+  "geometry": {"coordinates":[[[[4.31916520803449,51.90124776349042],[4.31858158486066,51.8946766632121],[4.31792400009766,51.89474309005286],[4.31329092844668,51.89521098261081],[4.30819633166618,51.89569114779718],[4.30812931073037,51.89569637147318],[4.30872793152486,51.89994088519622],[4.30871096332356,51.90064832974905],[4.30808053811965,51.90104704475669],[4.30847304842087,51.90103042379418],[4.30955370942065,51.90093921432511],[4.31174673773192,51.90079750615855],[4.31295512155223,51.90082878533448],[4.31426060734361,51.90090138908671],[4.31709932702602,51.90108907765387],[4.31916520803449,51.90124776349042]]]],"type":"MultiPolygon"}
+}

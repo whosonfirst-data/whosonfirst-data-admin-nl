@@ -1,0 +1,80 @@
+{
+  "id": 1158825805,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05051100",
+    "cbsnl:BU_NAAM":"Amazone en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1560",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050511",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":292614.114886,
+    "geom:bbox":"4.70004504587,51.8034826294,4.7112568388,51.8100923284",
+    "geom:latitude":51.807028,
+    "geom:longitude":4.705677,
+    "iso:country":"NL",
+    "lbl:latitude":51.807054,
+    "lbl:longitude":4.705587,
+    "mps:latitude":51.807054,
+    "mps:longitude":4.705587,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Amazone en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Amazone en omgeving"
+    ],
+    "reversegeo:latitude":51.807054,
+    "reversegeo:longitude":4.705587,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829601,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1d6ff44a060eb2ef7cd3ce756fc39c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829601,
+            "neighbourhood_id":1158825805,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825805,
+    "wof:lastmodified":1513588018,
+    "wof:name":"Amazone en omgeving",
+    "wof:parent_id":1158829601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.700045045870564,
+    51.8034826294213,
+    4.711256838799871,
+    51.81009232837454
+],
+  "geometry": {"coordinates":[[[[4.71125683879987,51.80865182198445],[4.70601246763247,51.8034826294213],[4.70453636934282,51.80428775788194],[4.70262055380924,51.80498865044197],[4.70004504587056,51.80572477622665],[4.70042054921238,51.80607037213822],[4.70123867129338,51.80682180583869],[4.70165776668674,51.80720965788547],[4.70246490036258,51.80795411523683],[4.70317145708627,51.80860134164469],[4.70393101993349,51.80930409512948],[4.70474565189132,51.81004857996225],[4.70479311644152,51.81009232837454],[4.71092504379971,51.80884089159309],[4.71125683879987,51.80865182198445]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1158783855,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02300304",
+    "cbsnl:BU_NAAM":"Hoge Enk",
+    "cbsnl:GM_CODE":"GM0230",
+    "cbsnl:GM_NAAM":"Elburg",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"116",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK023003",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000148,
+    "geom:area_square_m":1116661.420239,
+    "geom:bbox":"5.82080385463,52.420254592,5.84914530469,52.4338342884",
+    "geom:latitude":52.427917,
+    "geom:longitude":5.834855,
+    "iso:country":"NL",
+    "lbl:latitude":52.428384,
+    "lbl:longitude":5.835818,
+    "mps:latitude":52.428384,
+    "mps:longitude":5.835818,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:eng_x_preferred":[
+        "Hoge Enk"
+    ],
+    "name:nld_x_preferred":[
+        "Hoge Enk"
+    ],
+    "reversegeo:latitude":52.428384,
+    "reversegeo:longitude":5.835818,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404473895,
+        85633337,
+        85687043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"fd1cc052a6faf65721696c3d80aa5355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473895,
+            "locality_id":1158783855,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1158783855,
+    "wof:lastmodified":1513368308,
+    "wof:name":"Hoge Enk",
+    "wof:parent_id":404473895,
+    "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "neighbourhood"
+    ],
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.82080385462917,
+    52.42025459203254,
+    5.849145304694604,
+    52.433834288359165
+],
+  "geometry": {"coordinates":[[[[5.82441070380135,52.4283387521358],[5.825984085642,52.42865760928024],[5.83299509500172,52.42988856323342],[5.83351635131597,52.4308429336042],[5.83864521095814,52.43188150141493],[5.83745146127075,52.43260757867832],[5.83873890026709,52.43356519078819],[5.84338728101586,52.4334431779921],[5.84820848010828,52.43383428835917],[5.84884706248576,52.43161748638673],[5.84892816542446,52.43163963918703],[5.8491453046946,52.43087203831241],[5.84049328962419,52.42712338308992],[5.83898816654719,52.42658735003334],[5.82906284010368,52.42305307733687],[5.82962623252422,52.42251705549227],[5.82314588196658,52.42025459203254],[5.82170383542415,52.42235512314796],[5.82080385462917,52.42366695611532],[5.82601338520146,52.42494001392845],[5.82441070380135,52.4283387521358]]]],"type":"MultiPolygon"}
+}

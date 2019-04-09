@@ -1,0 +1,80 @@
+{
+  "id": 1158825729,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050702",
+    "cbsnl:BU_NAAM":"Cornelis Evertsenstraat en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1916",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050507",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":193087.535086,
+    "geom:bbox":"4.64882963945,51.7841600663,4.65301825972,51.7920314134",
+    "geom:latitude":51.788334,
+    "geom:longitude":4.651183,
+    "iso:country":"NL",
+    "lbl:latitude":51.788429,
+    "lbl:longitude":4.651223,
+    "mps:latitude":51.788429,
+    "mps:longitude":4.651223,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Cornelis Evertsenstraat en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Cornelis Evertsenstraat en omgeving"
+    ],
+    "reversegeo:latitude":51.788429,
+    "reversegeo:longitude":4.651223,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829537,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3218eed37c309d25efbe505adec3a411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829537,
+            "neighbourhood_id":1158825729,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825729,
+    "wof:lastmodified":1513588013,
+    "wof:name":"Cornelis Evertsenstraat en omgeving",
+    "wof:parent_id":1158829537,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.648829639449659,
+    51.78416006633751,
+    4.65301825972275,
+    51.79203141338779
+],
+  "geometry": {"coordinates":[[[[4.64885819487498,51.79203141338779],[4.65264741495302,51.79192608664295],[4.65254192229774,51.79026224482535],[4.6529705260726,51.78985912376242],[4.65283545214005,51.78724019814086],[4.65301825972275,51.78556052419743],[4.65281761102419,51.78416006633751],[4.65032085955796,51.78418287084752],[4.65013837166202,51.78571393257845],[4.64882963944966,51.7916266696091],[4.64885819487498,51.79203141338779]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158827023,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06060404",
+    "cbsnl:BU_NAAM":"Maasboulevard",
+    "cbsnl:GM_CODE":"GM0606",
+    "cbsnl:GM_NAAM":"Schiedam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1333",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060604",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":222526.723838,
+    "geom:bbox":"4.39903690873,51.8995507591,4.40964986846,51.9059738432",
+    "geom:latitude":51.902209,
+    "geom:longitude":4.404112,
+    "iso:country":"NL",
+    "lbl:latitude":51.901725,
+    "lbl:longitude":4.402705,
+    "mps:latitude":51.901725,
+    "mps:longitude":4.402705,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Maasboulevard"
+    ],
+    "name:nld_x_preferred":[
+        "Maasboulevard"
+    ],
+    "reversegeo:latitude":51.901725,
+    "reversegeo:longitude":4.402705,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829553,
+        85633337,
+        101751845,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ad284a3fea335bb3acd4b3d0348fc7a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "macrohood_id":1158829553,
+            "neighbourhood_id":1158827023,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827023,
+    "wof:lastmodified":1513588114,
+    "wof:name":"Maasboulevard",
+    "wof:parent_id":1158829553,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.399036908730627,
+    51.89955075907343,
+    4.409649868455423,
+    51.90597384324801
+],
+  "geometry": {"coordinates":[[[[4.40682654143758,51.90415261167834],[4.40679040268163,51.90423236863938],[4.40879911473385,51.90597384324801],[4.40886789281395,51.90532272550431],[4.40964066731624,51.90199345598896],[4.40964986845542,51.90192527301328],[4.39969961108717,51.89955075907343],[4.39904660793169,51.90363884662337],[4.39903690873063,51.90371348594246],[4.40550669103794,51.90279326681679],[4.40747241022521,51.90273045985087],[4.40682654143758,51.90415261167834]]]],"type":"MultiPolygon"}
+}

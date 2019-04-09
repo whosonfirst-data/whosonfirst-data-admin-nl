@@ -1,0 +1,82 @@
+{
+  "id": 1158806769,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09831503",
+    "cbsnl:BU_NAAM":"Jezu\u00eftenbuurt",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1801",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098315",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":191802.334385,
+    "geom:bbox":"6.18016947667,51.3559309297,6.18870582678,51.361974078",
+    "geom:latitude":51.359098,
+    "geom:longitude":6.185364,
+    "iso:country":"NL",
+    "lbl:latitude":51.358782,
+    "lbl:longitude":6.186076,
+    "mps:latitude":51.358782,
+    "mps:longitude":6.186076,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Jezuitenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Jezu\u00eftenbuurt"
+    ],
+    "reversegeo:latitude":51.358782,
+    "reversegeo:longitude":6.186076,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        1158818267,
+        404474525,
+        85633337,
+        101839287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5f428fe36576df8201e4ddfb210f304f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818267,
+            "neighbourhood_id":1158806769,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806769,
+    "wof:lastmodified":1513404054,
+    "wof:name":"Jezuitenbuurt",
+    "wof:parent_id":1158818267,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.180169476666015,
+    51.35593092968279,
+    6.188705826775469,
+    51.361974078010505
+],
+  "geometry": {"coordinates":[[[[6.18675043172523,51.3619740780105],[6.18728520773621,51.36170293817337],[6.18870582677547,51.36148912009279],[6.18845507338063,51.36110970745632],[6.18787906381997,51.35978597928316],[6.1886774131025,51.35888877178296],[6.18804041427601,51.35777041679867],[6.18664713090666,51.35593092968279],[6.18645104725654,51.35600481017804],[6.18561437954789,51.35646862287362],[6.18505426334236,51.35681056053532],[6.18394897195186,51.35771127770983],[6.18338689957616,51.35808277473009],[6.18201950825885,51.35862786211559],[6.18016947666602,51.35982343428418],[6.18035683056865,51.36052510461608],[6.18147895662521,51.36023790028075],[6.18431851597078,51.36025115453553],[6.18474110080844,51.36038459238575],[6.18523442081779,51.36070295834374],[6.18616144128521,51.3614164322049],[6.18675043172523,51.3619740780105]]]],"type":"MultiPolygon"}
+}

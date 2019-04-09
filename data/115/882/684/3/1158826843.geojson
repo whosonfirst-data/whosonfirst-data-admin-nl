@@ -1,0 +1,80 @@
+{
+  "id": 1158826843,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05880302",
+    "cbsnl:BU_NAAM":"Zuidzijde (gedeeltelijk)",
+    "cbsnl:GM_CODE":"GM0588",
+    "cbsnl:GM_NAAM":"Korendijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"33",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK058803",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:area_square_m":474585.060702,
+    "geom:bbox":"4.34651347861,51.7756803839,4.37710068753,51.7814840054",
+    "geom:latitude":51.779694,
+    "geom:longitude":4.362356,
+    "iso:country":"NL",
+    "lbl:latitude":51.778835,
+    "lbl:longitude":4.366429,
+    "mps:latitude":51.778835,
+    "mps:longitude":4.366429,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zuidzijde (gedeeltelijk)"
+    ],
+    "name:nld_x_preferred":[
+        "Zuidzijde (gedeeltelijk)"
+    ],
+    "reversegeo:latitude":51.778835,
+    "reversegeo:longitude":4.366429,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474235,
+        85633337,
+        101808537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"aa9b1c6f651bf4a21927e9849be92b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474235,
+            "locality_id":101808537,
+            "neighbourhood_id":1158826843,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826843,
+    "wof:lastmodified":1513588099,
+    "wof:name":"Zuidzijde (gedeeltelijk)",
+    "wof:parent_id":101808537,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.346513478609758,
+    51.77568038393432,
+    4.377100687526721,
+    51.78148400535252
+],
+  "geometry": {"coordinates":[[[[4.37710068752672,51.78005121319767],[4.37658700121317,51.77894479328465],[4.36813673912131,51.77934527888848],[4.37056558049584,51.77673173329079],[4.36750165251641,51.77568038393432],[4.36689441684652,51.77629085045786],[4.36480588971825,51.77811709775187],[4.36348092231729,51.77908169191565],[4.36202711907227,51.779714516002],[4.35670863799752,51.77953026152171],[4.35139031208487,51.77952835566267],[4.34651347860976,51.77968574879262],[4.34654091505695,51.77984611069663],[4.34656829574886,51.78076492044847],[4.34655723478328,51.78086651195149],[4.34799427309621,51.78129724450663],[4.35053398239688,51.7812118523025],[4.35571453619187,51.78134545274565],[4.35981849124207,51.78148400535252],[4.36083976666493,51.78116484774097],[4.3643917505246,51.78114924867005],[4.37244312146087,51.78045399797186],[4.37710068752672,51.78005121319767]]]],"type":"MultiPolygon"}
+}

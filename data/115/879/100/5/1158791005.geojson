@@ -1,0 +1,80 @@
+{
+  "id": 1158791005,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01185002",
+    "cbsnl:BU_NAAM":"Bentinckspark",
+    "cbsnl:GM_CODE":"GM0118",
+    "cbsnl:GM_NAAM":"Hoogeveen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1488",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011850",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000096,
+    "geom:area_square_m":719404.298345,
+    "geom:bbox":"6.48977937196,52.7206492589,6.50358584327,52.7286176797",
+    "geom:latitude":52.724581,
+    "geom:longitude":6.496461,
+    "iso:country":"NL",
+    "lbl:latitude":52.724528,
+    "lbl:longitude":6.49646,
+    "mps:latitude":52.724528,
+    "mps:longitude":6.49646,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bentinckspark"
+    ],
+    "name:nld_x_preferred":[
+        "Bentinckspark"
+    ],
+    "reversegeo:latitude":52.724528,
+    "reversegeo:longitude":6.49646,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473811,
+        85633337,
+        101837877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0cf5849ba4b8c9be13355de330cc293b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473811,
+            "locality_id":101837877,
+            "neighbourhood_id":1158791005,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791005,
+    "wof:lastmodified":1513292312,
+    "wof:name":"Bentinckspark",
+    "wof:parent_id":101837877,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.489779371963488,
+    52.72064925894665,
+    6.5035858432685,
+    52.7286176796586
+],
+  "geometry": {"coordinates":[[[[6.49045199829817,52.7286176796586],[6.5035858432685,52.72804949593296],[6.50357831133024,52.72798250858357],[6.5028218064378,52.72482562090564],[6.50251695011782,52.72347862467061],[6.50240786129055,52.72299660000309],[6.50238437651251,52.72279886973465],[6.50235756709516,52.72214639905867],[6.50232803010052,52.72064925894665],[6.49682339701425,52.72069493066316],[6.49457376944601,52.72071738958152],[6.49358264249498,52.72075411873584],[6.49270707852176,52.72078976672211],[6.49103985479946,52.72087569443764],[6.48977937196349,52.72095069270612],[6.48982432865171,52.72111538733655],[6.49002067797269,52.72168296172151],[6.49045199829817,52.7286176796586]]]],"type":"MultiPolygon"}
+}

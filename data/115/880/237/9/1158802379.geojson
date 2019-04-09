@@ -1,0 +1,82 @@
+{
+  "id": 1158802379,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01530601",
+    "cbsnl:BU_NAAM":"Stroinkslanden-Zuid",
+    "cbsnl:GM_CODE":"GM0153",
+    "cbsnl:GM_NAAM":"Enschede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1307",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK015306",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000114,
+    "geom:area_square_m":863520.537758,
+    "geom:bbox":"6.8868850651,52.1844037147,6.91111583878,52.1941293225",
+    "geom:latitude":52.1891,
+    "geom:longitude":6.899115,
+    "iso:country":"NL",
+    "lbl:latitude":52.190156,
+    "lbl:longitude":6.902327,
+    "mps:latitude":52.190156,
+    "mps:longitude":6.902327,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Stroinkslanden-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Stroinkslanden-Zuid"
+    ],
+    "reversegeo:latitude":52.190156,
+    "reversegeo:longitude":6.902327,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805849,
+        404473827,
+        85633337,
+        101751871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"dd6f5969d11b4bd20d68bf4d19fc298e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473827,
+            "locality_id":101751871,
+            "macrohood_id":1158805849,
+            "neighbourhood_id":1158802379,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802379,
+    "wof:lastmodified":1513524257,
+    "wof:name":"Stroinkslanden-Zuid",
+    "wof:parent_id":1158805849,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.886885065104038,
+    52.184403714740746,
+    6.911115838775644,
+    52.19412932245276
+],
+  "geometry": {"coordinates":[[[[6.90078187273143,52.19232029969112],[6.90286392052181,52.19301281611389],[6.90359863604824,52.19339428232192],[6.90604978461423,52.19412932245276],[6.90872507387984,52.19211481306368],[6.91111583877564,52.18962942786894],[6.91023629326561,52.18847382943492],[6.90583844880267,52.18751370028514],[6.89891818596067,52.18744208887455],[6.89898032241334,52.18631807982261],[6.8942488785526,52.1856642822765],[6.89286651853319,52.1849200055624],[6.89000725944468,52.18481413541954],[6.88688506510404,52.18440371474075],[6.88803490458101,52.18615907352942],[6.88858747445642,52.18900460184689],[6.88905690699831,52.19022813319095],[6.8917774933272,52.1900891103298],[6.89354225601622,52.19018141511354],[6.89604775348037,52.19082872971389],[6.90078187273143,52.19232029969112]]]],"type":"MultiPolygon"}
+}

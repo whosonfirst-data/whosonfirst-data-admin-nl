@@ -1,0 +1,79 @@
+{
+  "id": 1126131881,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00980201",
+    "cbsnl:BU_NAAM":"Oldelamer",
+    "cbsnl:GM_CODE":"GM0098",
+    "cbsnl:GM_NAAM":"Weststellingwerf",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"13",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK009802",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000649,
+    "geom:area_square_m":4841602.302482,
+    "geom:bbox":"5.89834251685,52.8550615785,5.96327914132,52.8850819305",
+    "geom:latitude":52.870945,
+    "geom:longitude":5.930114,
+    "iso:country":"NL",
+    "lbl:latitude":52.876776,
+    "lbl:longitude":5.938649,
+    "mps:latitude":52.876776,
+    "mps:longitude":5.938649,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Oldelamer"
+    ],
+    "name:eng_x_preferred":[
+        "Oldelamer"
+    ],
+    "reversegeo:latitude":52.876776,
+    "reversegeo:longitude":5.938649,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        404473801,
+        85633337,
+        1141960177,
+        85687055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"2d2f98b4156e057499381e2a9245bdb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473801,
+            "locality_id":1141960177,
+            "neighbourhood_id":1126131881,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":1126131881,
+    "wof:lastmodified":1507246100,
+    "wof:name":"Oldelamer",
+    "wof:parent_id":1141960177,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.89834251684507,
+    52.85506157853538,
+    5.96327914131977,
+    52.8850819304806
+],
+  "geometry": {"coordinates":[[[[5.93772209896474,52.8850819304806],[5.94108465505618,52.88430419050316],[5.94729712914343,52.8828760803332],[5.9630766905428,52.87924786166953],[5.96327914131977,52.87918173097289],[5.94955167913634,52.87326659869839],[5.94921120240976,52.8731199230952],[5.94907681607579,52.87306438941945],[5.93221264615941,52.86598193712157],[5.92732778958982,52.8641130216115],[5.92670294269452,52.86379232900528],[5.92538954159796,52.86311920749755],[5.9167678308613,52.85770175890598],[5.91465827960361,52.85661753843929],[5.9116331310957,52.85506157853538],[5.9115727137611,52.85509161371913],[5.90678997551956,52.85615163311785],[5.90650289590835,52.85649269149576],[5.89834251684507,52.85833595398431],[5.90056201884905,52.85970306629613],[5.90704545069639,52.86403464308695],[5.90746084217642,52.86437207863542],[5.92560351496086,52.87601916109178],[5.93764256177463,52.88501489766676],[5.93772209896474,52.8850819304806]]]],"type":"MultiPolygon"}
+}

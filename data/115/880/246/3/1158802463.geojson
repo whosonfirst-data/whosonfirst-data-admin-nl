@@ -1,0 +1,80 @@
+{
+  "id": 1158802463,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01580030",
+    "cbsnl:BU_NAAM":"Zienesch",
+    "cbsnl:GM_CODE":"GM0158",
+    "cbsnl:GM_NAAM":"Haaksbergen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1420",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK015800",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":404633.432236,
+    "geom:bbox":"6.7237175111,52.1562038723,6.73589595382,52.1635231991",
+    "geom:latitude":52.159614,
+    "geom:longitude":6.729551,
+    "iso:country":"NL",
+    "lbl:latitude":52.159505,
+    "lbl:longitude":6.729667,
+    "mps:latitude":52.159505,
+    "mps:longitude":6.729667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zienesch"
+    ],
+    "name:nld_x_preferred":[
+        "Zienesch"
+    ],
+    "reversegeo:latitude":52.159505,
+    "reversegeo:longitude":6.729667,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473829,
+        85633337,
+        101807203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"65590b2c6b421e43848b7b4a30279095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473829,
+            "locality_id":101807203,
+            "neighbourhood_id":1158802463,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802463,
+    "wof:lastmodified":1513524263,
+    "wof:name":"Zienesch",
+    "wof:parent_id":101807203,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.723717511100277,
+    52.15620387227035,
+    6.735895953823517,
+    52.16352319913534
+],
+  "geometry": {"coordinates":[[[[6.73288261976872,52.16125959120313],[6.73282724775591,52.16117286279825],[6.73356640915285,52.16032957392924],[6.73459194620769,52.15871585294902],[6.73504031580558,52.15822729026599],[6.73589595382352,52.15779530550354],[6.73585574232154,52.1576435129432],[6.73389977539403,52.15694590284475],[6.73137015582399,52.15637418291333],[6.72989784649145,52.15620387227035],[6.72813871948355,52.15651153522311],[6.72527589871522,52.15798341382948],[6.72631105283152,52.15843178754707],[6.72389441545198,52.16026598853693],[6.72371751110028,52.16031462482825],[6.72574957423153,52.16266579544781],[6.72672640479514,52.16268167235085],[6.72804022232556,52.16295972684608],[6.72986967576112,52.16352319913534],[6.73288261976872,52.16125959120313]]]],"type":"MultiPolygon"}
+}

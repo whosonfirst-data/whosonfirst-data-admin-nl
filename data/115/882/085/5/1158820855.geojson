@@ -1,0 +1,80 @@
+{
+  "id": 1158820855,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04980100",
+    "cbsnl:BU_NAAM":"Westwoud",
+    "cbsnl:GM_CODE":"GM0498",
+    "cbsnl:GM_NAAM":"Drechterland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"204",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK049801",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000335,
+    "geom:area_square_m":2508966.912362,
+    "geom:bbox":"5.12517957555,52.677103491,5.15600277942,52.6960668831",
+    "geom:latitude":52.686651,
+    "geom:longitude":5.139852,
+    "iso:country":"NL",
+    "lbl:latitude":52.686827,
+    "lbl:longitude":5.139866,
+    "mps:latitude":52.686827,
+    "mps:longitude":5.139866,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Westwoud"
+    ],
+    "name:nld_x_preferred":[
+        "Westwoud"
+    ],
+    "reversegeo:latitude":52.686827,
+    "reversegeo:longitude":5.139866,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474155,
+        85633337,
+        101808799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"59d35d803d23873673e68077dd434656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474155,
+            "locality_id":101808799,
+            "neighbourhood_id":1158820855,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158820855,
+    "wof:lastmodified":1513464265,
+    "wof:name":"Westwoud",
+    "wof:parent_id":101808799,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.125179575551178,
+    52.67710349102771,
+    5.156002779416069,
+    52.69606688311427
+],
+  "geometry": {"coordinates":[[[[5.12517957555118,52.69107580651375],[5.12523385805735,52.69109361410331],[5.12544810978178,52.69116391417606],[5.12873857562911,52.69205234572533],[5.13072581462648,52.69258884152347],[5.1332067843323,52.69326203413476],[5.13465906855473,52.69365607381118],[5.13466423803718,52.69365747801622],[5.13587977728219,52.69398726453839],[5.13874977687368,52.69476584164701],[5.14354645761794,52.69606688311427],[5.15600277941607,52.68404700415671],[5.14758811030364,52.68081471427794],[5.13473722460064,52.67710349102771],[5.13283339954198,52.67904511914913],[5.13268250831368,52.67904929008729],[5.1274059990202,52.68616989663926],[5.12857754912988,52.6868787673847],[5.12517957555118,52.69107580651375]]]],"type":"MultiPolygon"}
+}

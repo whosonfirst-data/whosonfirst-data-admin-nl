@@ -1,0 +1,88 @@
+{
+  "id": 1158792553,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00140103",
+    "cbsnl:BU_NAAM":"Rivierenbuurt",
+    "cbsnl:GM_CODE":"GM0014",
+    "cbsnl:GM_NAAM":"Groningen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3917",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK001401",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:area_square_m":561675.775479,
+    "geom:bbox":"6.55933408449,53.2029700234,6.57416425096,53.210787793",
+    "geom:latitude":53.207397,
+    "geom:longitude":6.566929,
+    "iso:country":"NL",
+    "lbl:latitude":53.207202,
+    "lbl:longitude":6.566929,
+    "mps:latitude":53.207202,
+    "mps:longitude":6.566929,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Rivierenbuurt"
+    ],
+    "name:eng_x_preferred":[
+        "Rivierenbuurt"
+    ],
+    "name:fre_x_preferred":[
+        "Rivierenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Rivierenbuurt"
+    ],
+    "reversegeo:latitude":53.207202,
+    "reversegeo:longitude":6.566929,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404473713,
+        85633337,
+        101751909,
+        85687059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1865919"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"70fb6d05ece6a70f43e919afccb40b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473713,
+            "locality_id":101751909,
+            "neighbourhood_id":1158792553,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158792553,
+    "wof:lastmodified":1514492856,
+    "wof:name":"Rivierenbuurt",
+    "wof:parent_id":101751909,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.55933408449013,
+    53.20297002344357,
+    6.57416425095711,
+    53.21078779297238
+],
+  "geometry": {"coordinates":[[[[6.57132035845625,53.21073980899509],[6.57136116108422,53.21066643658029],[6.57185322149642,53.20976563236975],[6.57211416369195,53.20927465933831],[6.57212027071907,53.20926317017817],[6.57247943764316,53.20858294435163],[6.57378028140026,53.20613637900892],[6.57397902995497,53.20566648907878],[6.57416425095711,53.20535175634519],[6.57385516844433,53.20528299064383],[6.57022801458845,53.20445983062838],[6.56872211710959,53.20411803437931],[6.5685364995496,53.20407709953042],[6.56468976637437,53.20322867219932],[6.56369194840419,53.20301563854865],[6.56346471051899,53.20297002344357],[6.56302161276244,53.2046118150361],[6.5624730755976,53.20562061479396],[6.56147704677238,53.20745227510184],[6.56037805828255,53.20931063333562],[6.55950923031817,53.2100380388739],[6.55933408449013,53.21056230982234],[6.56104952571547,53.21061608080267],[6.56273452756709,53.2105411708032],[6.56805644529004,53.21071806046417],[6.5707378670115,53.21078779297238],[6.57132035845625,53.21073980899509]]]],"type":"MultiPolygon"}
+}

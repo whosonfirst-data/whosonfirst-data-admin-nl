@@ -1,0 +1,80 @@
+{
+  "id": 1158788375,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03450003",
+    "cbsnl:BU_NAAM":"Beatrixstraat en omgeving",
+    "cbsnl:GM_CODE":"GM0345",
+    "cbsnl:GM_NAAM":"Veenendaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3300",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK034500",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:area_square_m":158146.97771,
+    "geom:bbox":"5.54849329864,52.0233297009,5.55608455176,52.0308878755",
+    "geom:latitude":52.026657,
+    "geom:longitude":5.552189,
+    "iso:country":"NL",
+    "lbl:latitude":52.026725,
+    "lbl:longitude":5.55193,
+    "mps:latitude":52.026725,
+    "mps:longitude":5.55193,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Beatrixstraat en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Beatrixstraat en omgeving"
+    ],
+    "reversegeo:latitude":52.026725,
+    "reversegeo:longitude":5.55193,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158790337,
+        85633337,
+        101751829,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"92d4e5c89378fa924d1cdbd27dfbb22f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751829,
+            "macrohood_id":1158790337,
+            "neighbourhood_id":1158788375,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788375,
+    "wof:lastmodified":1513622004,
+    "wof:name":"Beatrixstraat en omgeving",
+    "wof:parent_id":1158790337,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.548493298637301,
+    52.0233297009071,
+    5.556084551763237,
+    52.03088787554658
+],
+  "geometry": {"coordinates":[[[[5.55608455176324,52.03080870553747],[5.55539249183177,52.03041393941839],[5.5546481441109,52.029247108057],[5.55519473660525,52.02916796281819],[5.55327106969853,52.02687718348425],[5.55339276707596,52.02681182240386],[5.5533006100381,52.02637220847148],[5.55317527641544,52.02613855360136],[5.55289116714878,52.02580740006377],[5.55267480133968,52.02543427156708],[5.55236451086719,52.02498294773269],[5.5538759028342,52.02438783073695],[5.55297187076694,52.0233297009071],[5.5484932986373,52.02432600192714],[5.54857783252201,52.02443258216393],[5.55072140153467,52.02713494567085],[5.55079555519934,52.02754711750573],[5.5511492142827,52.02814001204003],[5.55172370015003,52.02841308159368],[5.55239082156763,52.02872025038589],[5.55253226760281,52.02902687951151],[5.55298875346008,52.02898458948538],[5.55305246646761,52.02924361321892],[5.55319194702957,52.02981064758548],[5.55377352935431,52.03038281829512],[5.55513129161001,52.03088787554658],[5.55514149703624,52.03088702656721],[5.55608455176324,52.03080870553747]]]],"type":"MultiPolygon"}
+}

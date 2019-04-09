@@ -1,0 +1,80 @@
+{
+  "id": 1158825979,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05130302",
+    "cbsnl:BU_NAAM":"Groenhovenkwartier",
+    "cbsnl:GM_CODE":"GM0513",
+    "cbsnl:GM_NAAM":"Gouda",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1467",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK051303",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":240493.172806,
+    "geom:bbox":"4.68532052795,52.0264694538,4.6956288706,52.0326065819",
+    "geom:latitude":52.029575,
+    "geom:longitude":4.690342,
+    "iso:country":"NL",
+    "lbl:latitude":52.029652,
+    "lbl:longitude":4.690343,
+    "mps:latitude":52.029652,
+    "mps:longitude":4.690343,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Groenhovenkwartier"
+    ],
+    "name:nld_x_preferred":[
+        "Groenhovenkwartier"
+    ],
+    "reversegeo:latitude":52.029652,
+    "reversegeo:longitude":4.690343,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829413,
+        85633337,
+        101751839,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d8f0a12a31779d9ed73b6d51ee6c41d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751839,
+            "macrohood_id":1158829413,
+            "neighbourhood_id":1158825979,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825979,
+    "wof:lastmodified":1513588031,
+    "wof:name":"Groenhovenkwartier",
+    "wof:parent_id":1158829413,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.685320527952132,
+    52.026469453788536,
+    4.695628870604909,
+    52.03260658190642
+],
+  "geometry": {"coordinates":[[[[4.68532052795213,52.03009108953275],[4.68650780567141,52.03048020316987],[4.68666712296575,52.03035639207303],[4.68706643495674,52.03055956805763],[4.68797321545762,52.03101149962778],[4.68858525721685,52.03132010860435],[4.68933216860733,52.03169018539419],[4.68992186667963,52.03198436365361],[4.68997458210948,52.03201487666453],[4.69046013898656,52.03225917874958],[4.69076067536776,52.03240638926844],[4.69115104671472,52.03260658190642],[4.69119694359856,52.03257037844516],[4.69562887060491,52.02953060576436],[4.68895886992591,52.02646945378854],[4.68894261039125,52.02648283996962],[4.68745385485971,52.02786074545968],[4.68532052795213,52.03009108953275]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158798667,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08280709",
+    "cbsnl:BU_NAAM":"Schalkskamp",
+    "cbsnl:GM_CODE":"GM0828",
+    "cbsnl:GM_NAAM":"Oss",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1424",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082807",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":287767.221743,
+    "geom:bbox":"5.49804963121,51.774412532,5.50751522597,51.7816160293",
+    "geom:latitude":51.777907,
+    "geom:longitude":5.503202,
+    "iso:country":"NL",
+    "lbl:latitude":51.777699,
+    "lbl:longitude":5.503525,
+    "mps:latitude":51.777699,
+    "mps:longitude":5.503525,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schalkskamp"
+    ],
+    "name:nld_x_preferred":[
+        "Schalkskamp"
+    ],
+    "reversegeo:latitude":51.777699,
+    "reversegeo:longitude":5.503525,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801739,
+        404474415,
+        85633337,
+        101751807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d33c32579138722158a22ef457f55667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":101751807,
+            "macrohood_id":1158801739,
+            "neighbourhood_id":1158798667,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798667,
+    "wof:lastmodified":1513432690,
+    "wof:name":"Schalkskamp",
+    "wof:parent_id":1158801739,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.498049631207055,
+    51.77441253195094,
+    5.507515225968148,
+    51.7816160293365
+],
+  "geometry": {"coordinates":[[[[5.50253226542583,51.7816160293365],[5.50651096112993,51.77840964037322],[5.50677808096394,51.77796556484829],[5.50743019688066,51.77688179284124],[5.50751522596815,51.77540339093902],[5.5058305490753,51.77512618836246],[5.50588046834516,51.7750196499131],[5.50535388322192,51.77492689354774],[5.50455486782334,51.77475881194978],[5.50362884027783,51.7746021098305],[5.50304777290152,51.7744900955377],[5.50290260636009,51.77450149818156],[5.50244881640666,51.77447942746236],[5.50224920233639,51.77449088287343],[5.50197682012118,51.77443485405586],[5.50177712024657,51.77441253195094],[5.50166739263244,51.77445096403839],[5.5016379116403,51.77450060855858],[5.50203625575786,51.7746356077451],[5.50103101130604,51.77748142362184],[5.50049765755979,51.77750609615034],[5.49804963120705,51.77985834902665],[5.50253226542583,51.7816160293365]]]],"type":"MultiPolygon"}
+}

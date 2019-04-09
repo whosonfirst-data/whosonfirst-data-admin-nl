@@ -1,0 +1,80 @@
+{
+  "id": 1141964963,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17050200",
+    "cbsnl:BU_NAAM":"Oude Stad Huissen",
+    "cbsnl:GM_CODE":"GM1705",
+    "cbsnl:GM_NAAM":"Lingewaard",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1098",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170502",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000022,
+    "geom:area_square_m":164464.232005,
+    "geom:bbox":"5.93931144938,51.9344651884,5.94485582856,51.9403790323",
+    "geom:latitude":51.937312,
+    "geom:longitude":5.942099,
+    "iso:country":"NL",
+    "lbl:latitude":51.937386,
+    "lbl:longitude":5.942046,
+    "mps:latitude":51.937386,
+    "mps:longitude":5.942046,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oude Stad Huissen"
+    ],
+    "name:nld_x_preferred":[
+        "Oude Stad Huissen"
+    ],
+    "reversegeo:latitude":51.937386,
+    "reversegeo:longitude":5.942046,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474617,
+        85633337,
+        101754753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b479919d9bcfcb14d9f9a60ee3b9ece4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474617,
+            "locality_id":101754753,
+            "neighbourhood_id":1141964963,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141964963,
+    "wof:lastmodified":1513368860,
+    "wof:name":"Oude Stad Huissen",
+    "wof:parent_id":101754753,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.939311449375375,
+    51.93446518835868,
+    5.944855828563105,
+    51.94037903231188
+],
+  "geometry": {"coordinates":[[[[5.9447382172668,51.93467942165484],[5.9440512677768,51.93450572044831],[5.94365384160016,51.93446518835868],[5.94334467581253,51.93463490434811],[5.94279783411788,51.93485854818999],[5.94251975374459,51.93506210190295],[5.9418562024362,51.93538432429715],[5.94110524305932,51.93556566995679],[5.94027190955751,51.93579261870385],[5.93984223409474,51.9362154111929],[5.93939876720542,51.93703263115597],[5.93931144937538,51.93774761994089],[5.93979951074079,51.93911325050525],[5.94018204764538,51.9400633791221],[5.9407326598527,51.94037903231188],[5.94115679055409,51.94022254680202],[5.94222097390209,51.93971220836286],[5.94338488354388,51.93892668108357],[5.94417221823202,51.93815697065987],[5.94464924828899,51.93723086920093],[5.9448558285631,51.93595353435987],[5.9447382172668,51.93467942165484]]]],"type":"MultiPolygon"}
+}

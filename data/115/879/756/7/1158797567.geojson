@@ -1,0 +1,80 @@
+{
+  "id": 1158797567,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07771002",
+    "cbsnl:BU_NAAM":"Noord 3",
+    "cbsnl:GM_CODE":"GM0777",
+    "cbsnl:GM_NAAM":"Etten-Leur",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2153",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK077710",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":137646.501778,
+    "geom:bbox":"4.65148444894,51.5794503507,4.65945109531,51.5839157337",
+    "geom:latitude":51.581644,
+    "geom:longitude":4.654909,
+    "iso:country":"NL",
+    "lbl:latitude":51.581741,
+    "lbl:longitude":4.654517,
+    "mps:latitude":51.581741,
+    "mps:longitude":4.654517,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Noord 3"
+    ],
+    "name:nld_x_preferred":[
+        "Noord 3"
+    ],
+    "reversegeo:latitude":51.581741,
+    "reversegeo:longitude":4.654517,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474377,
+        85633337,
+        101839355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"fdf638310285e3cc6265b31bcb2efc48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474377,
+            "locality_id":101839355,
+            "neighbourhood_id":1158797567,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797567,
+    "wof:lastmodified":1513432602,
+    "wof:name":"Noord 3",
+    "wof:parent_id":101839355,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.651484448939391,
+    51.57945035065868,
+    4.659451095314827,
+    51.5839157336688
+],
+  "geometry": {"coordinates":[[[[4.65187932346867,51.58253595313608],[4.65148444893939,51.5831554650745],[4.65523100439946,51.5839157336688],[4.65711421068334,51.58124946280682],[4.65765284235603,51.58156482928555],[4.65872281079826,51.58189193603653],[4.65889898735023,51.58166658510348],[4.65945109531483,51.58088254850974],[4.65573903669775,51.58001095567128],[4.65345099945744,51.57945035065868],[4.65296083541228,51.58024419756488],[4.65285416672515,51.58088477791432],[4.65190805898959,51.5824908656399],[4.65187932346867,51.58253595313608]]]],"type":"MultiPolygon"}
+}

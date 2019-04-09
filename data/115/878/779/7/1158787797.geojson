@@ -1,0 +1,82 @@
+{
+  "id": 1158787797,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03072804",
+    "cbsnl:BU_NAAM":"Cycladen",
+    "cbsnl:GM_CODE":"GM0307",
+    "cbsnl:GM_NAAM":"Amersfoort",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1438",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK030728",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":136247.180192,
+    "geom:bbox":"5.41376890792,52.186545395,5.4234886039,52.1902966412",
+    "geom:latitude":52.188945,
+    "geom:longitude":5.418848,
+    "iso:country":"NL",
+    "lbl:latitude":52.188791,
+    "lbl:longitude":5.417643,
+    "mps:latitude":52.188791,
+    "mps:longitude":5.417643,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Cycladen"
+    ],
+    "name:nld_x_preferred":[
+        "Cycladen"
+    ],
+    "reversegeo:latitude":52.188791,
+    "reversegeo:longitude":5.417643,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        1158790297,
+        404473971,
+        85633337,
+        101751821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4be6399b5065cb0130b64478b04c51a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473971,
+            "locality_id":101751821,
+            "macrohood_id":1158790297,
+            "neighbourhood_id":1158787797,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158787797,
+    "wof:lastmodified":1513621953,
+    "wof:name":"Cycladen",
+    "wof:parent_id":1158790297,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.413768907920389,
+    52.186545395021405,
+    5.42348860390092,
+    52.190296641176936
+],
+  "geometry": {"coordinates":[[[[5.41446465030846,52.18976194493658],[5.4234719136599,52.19029664117694],[5.42348860390092,52.18879967869712],[5.4202188059995,52.18820340806894],[5.41983044743798,52.18817764958495],[5.41863057379259,52.18816386583146],[5.41860905372709,52.18697397509774],[5.41858837828898,52.18693574648452],[5.41856805610082,52.1868997285367],[5.41851091027884,52.18685825549066],[5.41790476172576,52.1865453950214],[5.4170699336622,52.18720595837498],[5.41644408912083,52.18770643531681],[5.41582523129656,52.18817874821156],[5.41522905546746,52.18860340744564],[5.41443175416908,52.18908441965723],[5.41435491632685,52.18912508971782],[5.41390368536449,52.1893639381085],[5.41381833100218,52.18940529821915],[5.41376890792039,52.18942924764844],[5.41446465030846,52.18976194493658]]]],"type":"MultiPolygon"}
+}

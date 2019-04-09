@@ -1,0 +1,86 @@
+{
+  "id": 1158784473,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07030206",
+    "cbsnl:BU_NAAM":"Krabbendijke - Zuidweg",
+    "cbsnl:GM_CODE":"GM0703",
+    "cbsnl:GM_NAAM":"Reimerswaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"354",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK070302",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":130419.623298,
+    "geom:bbox":"4.10817594456,51.4202605437,4.11247498481,51.4270296253",
+    "geom:latitude":51.423741,
+    "geom:longitude":4.110292,
+    "iso:country":"NL",
+    "lbl:latitude":51.423789,
+    "lbl:longitude":4.11026,
+    "mps:latitude":51.423789,
+    "mps:longitude":4.11026,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zuidweg"
+    ],
+    "name:eng_x_variant":[
+        "Krabbendijke - Zuidweg"
+    ],
+    "name:nld_x_preferred":[
+        "Zuidweg"
+    ],
+    "name:nld_x_variant":[
+        "Krabbendijke - Zuidweg"
+    ],
+    "reversegeo:latitude":51.423789,
+    "reversegeo:longitude":4.11026,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474323,
+        85633337,
+        101809813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4e869f09bca8db967ba484cb3610cd4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474323,
+            "locality_id":101809813,
+            "neighbourhood_id":1158784473,
+            "region_id":85687037
+        }
+    ],
+    "wof:id":1158784473,
+    "wof:lastmodified":1513628660,
+    "wof:name":"Zuidweg",
+    "wof:parent_id":101809813,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.108175944562293,
+    51.42026054370621,
+    4.112474984812163,
+    51.427029625311036
+],
+  "geometry": {"coordinates":[[[[4.11215502463665,51.42664828287727],[4.11200658442806,51.42598413513581],[4.11247498481216,51.42603821646074],[4.11050551532684,51.42026054370621],[4.10889123253476,51.42037842125129],[4.10907043417836,51.42149717171177],[4.10817594456229,51.42172783844144],[4.10974050516812,51.42670809210514],[4.11024976181981,51.42664532890383],[4.11030629583298,51.42702962531104],[4.11215502463665,51.42664828287727]]]],"type":"MultiPolygon"}
+}

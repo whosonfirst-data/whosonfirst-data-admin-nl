@@ -1,0 +1,81 @@
+{
+  "id": 1158788765,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06200209",
+    "cbsnl:BU_NAAM":"Verspreide huizen Everdingen",
+    "cbsnl:GM_CODE":"GM0620",
+    "cbsnl:GM_NAAM":"Vianen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"60",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK062002",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000586,
+    "geom:area_square_m":4465089.734218,
+    "geom:bbox":"5.12223381289,51.9413414146,5.16554539399,51.9681750177",
+    "geom:latitude":51.955989,
+    "geom:longitude":5.143627,
+    "iso:country":"NL",
+    "lbl:latitude":51.95409,
+    "lbl:longitude":5.14543,
+    "mps:latitude":51.95409,
+    "mps:longitude":5.14543,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen Everdingen"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen Everdingen"
+    ],
+    "reversegeo:latitude":51.95409,
+    "reversegeo:longitude":5.14543,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474271,
+        85633337,
+        101808453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1c4105e9db1e142d173cfa0dc91dda8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474271,
+            "locality_id":101808453,
+            "neighbourhood_id":1158788765,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788765,
+    "wof:lastmodified":1513622037,
+    "wof:name":"Verspreide huizen Everdingen",
+    "wof:parent_id":101808453,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.122233812887561,
+    51.94134141461981,
+    5.16554539399091,
+    51.96817501772378
+],
+  "geometry": {"coordinates":[[[[5.15085470253535,51.96817501772378],[5.15334083108324,51.9660677513628],[5.15120419310894,51.96202777189507],[5.15266088148868,51.96143746082037],[5.15335305260101,51.96123210895581],[5.15526374678495,51.96115499610502],[5.15744283957099,51.96122668232461],[5.15747265669112,51.96130762198535],[5.15870647239204,51.96126005276519],[5.15924988457,51.96360002685232],[5.16287007262231,51.96294294931439],[5.16554539399091,51.9624025443195],[5.15886636907073,51.95367736929216],[5.14777161504059,51.94134141461981],[5.14771028666391,51.94137920954887],[5.14257768737658,51.94439403853566],[5.13609251357582,51.9483225681106],[5.12967851168521,51.95228600511931],[5.12223381288756,51.95718689018238],[5.13180166198769,51.96775040380638],[5.13204969757358,51.96739422256749],[5.13372449501812,51.96533757022866],[5.13520674795613,51.96385769518543],[5.13798085986587,51.96213617555222],[5.14210444563079,51.963951470776],[5.14597993137229,51.96571134184367],[5.14937494369509,51.9673226497039],[5.15067053185344,51.96804600270033],[5.15085470253535,51.96817501772378]]]],"type":"MultiPolygon"}
+}

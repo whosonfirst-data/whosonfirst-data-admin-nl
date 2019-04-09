@@ -1,0 +1,80 @@
+{
+  "id": 1158820961,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08800100",
+    "cbsnl:BU_NAAM":"Neck (gedeeltelijk)",
+    "cbsnl:GM_CODE":"GM0880",
+    "cbsnl:GM_NAAM":"Wormerland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"184",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK088001",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":539911.740288,
+    "geom:bbox":"4.90694781469,52.5017759958,4.92558321628,52.5104538294",
+    "geom:latitude":52.506348,
+    "geom:longitude":4.916141,
+    "iso:country":"NL",
+    "lbl:latitude":52.505205,
+    "lbl:longitude":4.916774,
+    "mps:latitude":52.505205,
+    "mps:longitude":4.916774,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Neck (gedeeltelijk)"
+    ],
+    "name:nld_x_preferred":[
+        "Neck (gedeeltelijk)"
+    ],
+    "reversegeo:latitude":52.505205,
+    "reversegeo:longitude":4.916774,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474461,
+        85633337,
+        101855433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"de0605e4b37757b153a30cdc7906acff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474461,
+            "locality_id":101855433,
+            "neighbourhood_id":1158820961,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158820961,
+    "wof:lastmodified":1513464271,
+    "wof:name":"Neck (gedeeltelijk)",
+    "wof:parent_id":101855433,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.906947814694616,
+    52.501775995763076,
+    4.925583216279206,
+    52.51045382937183
+],
+  "geometry": {"coordinates":[[[[4.92511803480974,52.50552990669252],[4.92519643363814,52.50550922280949],[4.92522557378863,52.50550153479017],[4.92524614740872,52.50549611457954],[4.92526584941437,52.50549091587756],[4.92530408692047,52.50548082824207],[4.92533991752671,52.50547137796589],[4.92545545736,52.50544090204178],[4.92546151241841,52.50543929860556],[4.92557477106208,52.50540722289492],[4.92558321627921,52.50540382786258],[4.92553364794477,52.50538617413778],[4.9161636037837,52.50177599576308],[4.91611577245685,52.5018378748911],[4.90694781469462,52.51012265539376],[4.90974295576692,52.51045382937183],[4.91389163619807,52.50956805481288],[4.91634518404794,52.50864143825788],[4.91755743048474,52.50795505054655],[4.92009295411111,52.50845571663516],[4.92055676520827,52.50777449645345],[4.92154559621177,52.50744584578884],[4.9231611795923,52.50676912953247],[4.92436469427082,52.50562708867078],[4.92511803480974,52.50552990669252]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158801945,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01411601",
+    "cbsnl:BU_NAAM":"Ossenkoppelerhoek-Oost",
+    "cbsnl:GM_CODE":"GM0141",
+    "cbsnl:GM_NAAM":"Almelo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2404",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK014116",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000022,
+    "geom:area_square_m":163695.26585,
+    "geom:bbox":"6.65746137738,52.3402505425,6.66280403715,52.3462276434",
+    "geom:latitude":52.343157,
+    "geom:longitude":6.65953,
+    "iso:country":"NL",
+    "lbl:latitude":52.343138,
+    "lbl:longitude":6.659479,
+    "mps:latitude":52.343138,
+    "mps:longitude":6.659479,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ossenkoppelerhoek-Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Ossenkoppelerhoek-Oost"
+    ],
+    "reversegeo:latitude":52.343138,
+    "reversegeo:longitude":6.659479,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805819,
+        404473819,
+        85633337,
+        101751863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"60c5264e62450a52fff197ed8f32fc33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473819,
+            "locality_id":101751863,
+            "macrohood_id":1158805819,
+            "neighbourhood_id":1158801945,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158801945,
+    "wof:lastmodified":1513524227,
+    "wof:name":"Ossenkoppelerhoek-Oost",
+    "wof:parent_id":1158805819,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.657461377375165,
+    52.3402505425415,
+    6.66280403715081,
+    52.34622764340328
+],
+  "geometry": {"coordinates":[[[[6.65815251177891,52.34581291994264],[6.65865802271265,52.34580748742063],[6.65971453571376,52.34590370695804],[6.66056982297559,52.34622764340328],[6.66064184390923,52.34607630934008],[6.66085764051106,52.34562090578699],[6.66087338944181,52.3454985471074],[6.66175709879196,52.34484016384083],[6.66280403715081,52.34426877803817],[6.66128976103961,52.34389044379285],[6.66138638413488,52.34279138913733],[6.66145050509191,52.34056855178049],[6.66143813331865,52.34053694244894],[6.66105241239688,52.34051160397681],[6.65756303184786,52.3402505425415],[6.65763395607085,52.34070960483263],[6.65751223762917,52.34259317749945],[6.65746137737517,52.34388442849173],[6.6574686368498,52.3441379954046],[6.65749062503567,52.34490600252322],[6.65778020019234,52.34581691964316],[6.65815251177891,52.34581291994264]]]],"type":"MultiPolygon"}
+}

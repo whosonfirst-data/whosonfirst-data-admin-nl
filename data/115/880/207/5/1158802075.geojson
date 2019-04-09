@@ -1,0 +1,80 @@
+{
+  "id": 1158802075,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01480009",
+    "cbsnl:BU_NAAM":"De Gerner Marke",
+    "cbsnl:GM_CODE":"GM0148",
+    "cbsnl:GM_NAAM":"Dalfsen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"784",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK014800",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":298623.116071,
+    "geom:bbox":"6.25960197573,52.512052353,6.27060981596,52.5173189312",
+    "geom:latitude":52.514902,
+    "geom:longitude":6.265416,
+    "iso:country":"NL",
+    "lbl:latitude":52.515264,
+    "lbl:longitude":6.265521,
+    "mps:latitude":52.515264,
+    "mps:longitude":6.265521,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Gerner Marke"
+    ],
+    "name:nld_x_preferred":[
+        "De Gerner Marke"
+    ],
+    "reversegeo:latitude":52.515264,
+    "reversegeo:longitude":6.265521,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473823,
+        85633337,
+        101803703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0081e54996c2811d676b1febdd7df826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473823,
+            "locality_id":101803703,
+            "neighbourhood_id":1158802075,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802075,
+    "wof:lastmodified":1513524236,
+    "wof:name":"De Gerner Marke",
+    "wof:parent_id":101803703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.259601975729177,
+    52.51205235295238,
+    6.270609815961543,
+    52.517318931195675
+],
+  "geometry": {"coordinates":[[[[6.25969445935168,52.51550312571771],[6.25960197572918,52.51559902046635],[6.25990466989043,52.51659977052731],[6.26003645796238,52.51731893119567],[6.26071129810647,52.51728766177932],[6.26186594779892,52.51716150157593],[6.26344091497987,52.51715968135886],[6.26628671240254,52.51721705838929],[6.26771686459139,52.51720645056417],[6.26736064923329,52.5162678829114],[6.26741769217101,52.51590469920167],[6.26971335304241,52.51577979509434],[6.27041939113386,52.51572551752133],[6.27060981596154,52.51216513631196],[6.27034356694742,52.51213871747018],[6.26718405964447,52.51205235295238],[6.26698806024321,52.51280803501003],[6.26608666524411,52.51277050700244],[6.26567536215518,52.51275337989811],[6.26565682683402,52.51305882941382],[6.2656413024719,52.51331470380335],[6.26515417924,52.51336084606935],[6.26503636273282,52.51343163543523],[6.26403530163977,52.51368704663074],[6.26278341030893,52.51348227507125],[6.26193633704673,52.51318041220689],[6.25969445935168,52.51550312571771]]]],"type":"MultiPolygon"}
+}

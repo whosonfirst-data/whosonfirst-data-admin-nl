@@ -1,0 +1,80 @@
+{
+  "id": 1158799795,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16580001",
+    "cbsnl:BU_NAAM":"Bedrijventerrein De Poortmannen",
+    "cbsnl:GM_CODE":"GM1658",
+    "cbsnl:GM_NAAM":"Heeze-Leende",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"171",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK165800",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":323707.14028,
+    "geom:bbox":"5.57986019405,51.3646590482,5.58959611066,51.3731147775",
+    "geom:latitude":51.368675,
+    "geom:longitude":5.584074,
+    "iso:country":"NL",
+    "lbl:latitude":51.368847,
+    "lbl:longitude":5.583742,
+    "mps:latitude":51.368847,
+    "mps:longitude":5.583742,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein De Poortmannen"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein De Poortmannen"
+    ],
+    "reversegeo:latitude":51.368847,
+    "reversegeo:longitude":5.583742,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474567,
+        85633337,
+        101809717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"30ba5336f656efa3da4840025076e00b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474567,
+            "locality_id":101809717,
+            "neighbourhood_id":1158799795,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799795,
+    "wof:lastmodified":1513432778,
+    "wof:name":"Bedrijventerrein De Poortmannen",
+    "wof:parent_id":101809717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.579860194045281,
+    51.364659048200934,
+    5.589596110661717,
+    51.37311477754516
+],
+  "geometry": {"coordinates":[[[[5.58647731911761,51.37112454092121],[5.5858975694851,51.36995699610561],[5.58680489190773,51.3694234246077],[5.58663642954893,51.36922905151042],[5.58654924529507,51.36909830124454],[5.58611020128103,51.36880551422655],[5.58707579360306,51.36790330061633],[5.58722419890597,51.36608226585284],[5.58925745701254,51.36619645199137],[5.58959611066172,51.36500148524134],[5.58650009889757,51.36498744227954],[5.58387164648497,51.36465904820093],[5.58352947703359,51.36507058005241],[5.58141591696889,51.3681086663868],[5.57986019404528,51.37078848758538],[5.58041924279439,51.3724538476541],[5.58278879440327,51.37311477754516],[5.58302752123307,51.372479547036],[5.58295381040356,51.37219259439882],[5.58447356725227,51.37181222024508],[5.58464997179701,51.37202652727821],[5.58489005129979,51.37217612053114],[5.58521256058156,51.37203315674986],[5.58565727752842,51.37187060244685],[5.58515024088553,51.37147905161427],[5.58562866742109,51.37138076518176],[5.58616648463731,51.37121495980661],[5.58647731911761,51.37112454092121]]]],"type":"MultiPolygon"}
+}

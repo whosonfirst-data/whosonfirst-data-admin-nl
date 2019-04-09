@@ -1,0 +1,80 @@
+{
+  "id": 1158818851,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03840221",
+    "cbsnl:BU_NAAM":"Oud-Diemen",
+    "cbsnl:GM_CODE":"GM0384",
+    "cbsnl:GM_NAAM":"Diemen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1723",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK038402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":21857.648034,
+    "geom:bbox":"4.97007495131,52.3473198011,4.97306638816,52.3496153482",
+    "geom:latitude":52.348445,
+    "geom:longitude":4.97163,
+    "iso:country":"NL",
+    "lbl:latitude":52.348512,
+    "lbl:longitude":4.971777,
+    "mps:latitude":52.348512,
+    "mps:longitude":4.971777,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oud-Diemen"
+    ],
+    "name:nld_x_preferred":[
+        "Oud-Diemen"
+    ],
+    "reversegeo:latitude":52.348512,
+    "reversegeo:longitude":4.971777,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823005,
+        85633337,
+        1158822543,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"215e650846b207a58de951d59756e21f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":1158822543,
+            "macrohood_id":1158823005,
+            "neighbourhood_id":1158818851,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818851,
+    "wof:lastmodified":1513464102,
+    "wof:name":"Oud-Diemen",
+    "wof:parent_id":1158823005,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.970074951310683,
+    52.34731980107628,
+    4.973066388159149,
+    52.34961534817197
+],
+  "geometry": {"coordinates":[[[[4.97007495131068,52.34760868891131],[4.97107057321247,52.34847108253403],[4.97141083185314,52.34885593999869],[4.97144242549978,52.34941244795233],[4.97139569046487,52.34961534817197],[4.97198730483327,52.34950957240357],[4.97306638815915,52.34916536150757],[4.97138703928413,52.34731980107628],[4.97007495131068,52.34760868891131]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158828347,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18920203",
+    "cbsnl:BU_NAAM":"Bloemenbuurt",
+    "cbsnl:GM_CODE":"GM1892",
+    "cbsnl:GM_NAAM":"Zuidplas",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"808",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK189202",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":212010.671681,
+    "geom:bbox":"4.58008045234,52.0093271764,4.59011417214,52.0154397054",
+    "geom:latitude":52.012264,
+    "geom:longitude":4.585134,
+    "iso:country":"NL",
+    "lbl:latitude":52.012002,
+    "lbl:longitude":4.585209,
+    "mps:latitude":52.012002,
+    "mps:longitude":4.585209,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bloemenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Bloemenbuurt"
+    ],
+    "reversegeo:latitude":52.012002,
+    "reversegeo:longitude":4.585209,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158824737,
+        85633337,
+        101803695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0cde657af9ee5b32a833662bffd991d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824737,
+            "locality_id":101803695,
+            "neighbourhood_id":1158828347,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828347,
+    "wof:lastmodified":1513588220,
+    "wof:name":"Bloemenbuurt",
+    "wof:parent_id":101803695,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.580080452344904,
+    52.00932717644388,
+    4.590114172139655,
+    52.01543970543592
+],
+  "geometry": {"coordinates":[[[[4.5800804523449,52.01494478580568],[4.58116021513553,52.01522569572062],[4.58205365889101,52.01543970543592],[4.58221697119797,52.01514639421313],[4.58246541068318,52.01500737795049],[4.58267215207584,52.01473116815913],[4.58301065442881,52.01478829656117],[4.58343744902653,52.01440951072806],[4.58400562747774,52.01445230374149],[4.58503791229181,52.01456687222271],[4.58620427549781,52.01385052556535],[4.58871316899576,52.01229267765881],[4.58877676642464,52.01233174526071],[4.58886442145252,52.01227487398278],[4.59011417213966,52.011523149204],[4.58973748359944,52.0112868823355],[4.58741953789376,52.0098329363512],[4.58700588005441,52.01008611773455],[4.58586795555253,52.00936069754924],[4.58564484710134,52.00964747262984],[4.58534817502882,52.0095768191244],[4.58436720661607,52.00932717644388],[4.583323977925,52.01102015913837],[4.58183293831183,52.01345798058754],[4.5800804523449,52.01494478580568]]]],"type":"MultiPolygon"}
+}

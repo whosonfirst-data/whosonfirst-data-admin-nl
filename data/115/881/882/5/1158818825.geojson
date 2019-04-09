@@ -1,0 +1,80 @@
+{
+  "id": 1158818825,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03840007",
+    "cbsnl:BU_NAAM":"Schelpenhoek",
+    "cbsnl:GM_CODE":"GM0384",
+    "cbsnl:GM_NAAM":"Diemen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2776",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK038400",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":127910.62568,
+    "geom:bbox":"4.95789154542,52.3324937088,4.96586701618,52.3367311403",
+    "geom:latitude":52.334666,
+    "geom:longitude":4.961372,
+    "iso:country":"NL",
+    "lbl:latitude":52.334656,
+    "lbl:longitude":4.960707,
+    "mps:latitude":52.334656,
+    "mps:longitude":4.960707,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schelpenhoek"
+    ],
+    "name:nld_x_preferred":[
+        "Schelpenhoek"
+    ],
+    "reversegeo:latitude":52.334656,
+    "reversegeo:longitude":4.960707,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823043,
+        85633337,
+        1158822543,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"32934612bc262145f0a57533576c628f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":1158822543,
+            "macrohood_id":1158823043,
+            "neighbourhood_id":1158818825,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818825,
+    "wof:lastmodified":1513464097,
+    "wof:name":"Schelpenhoek",
+    "wof:parent_id":1158823043,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.957891545420029,
+    52.33249370879533,
+    4.965867016177534,
+    52.33673114033528
+],
+  "geometry": {"coordinates":[[[[4.95973486341985,52.33673114033528],[4.9604383648827,52.33652023814648],[4.9606691619401,52.33668766368952],[4.96185780542448,52.33597407323378],[4.96209793023353,52.33614185811812],[4.96273206550118,52.33577636506285],[4.96375831386523,52.33553596667177],[4.96512607752555,52.335253527734],[4.96586701617753,52.3351081506928],[4.96515057949201,52.33472558557635],[4.96294455281578,52.33342795681273],[4.96026580249316,52.33249370879533],[4.96009084850001,52.33253436326712],[4.95943903911473,52.33348386873747],[4.95919110825889,52.33379389033581],[4.95789154542003,52.33466998161708],[4.95882538459945,52.33559787737977],[4.95904762879273,52.33552517079114],[4.95943279637741,52.33591002918261],[4.9592591416382,52.33602885916655],[4.95941305075535,52.33618178092629],[4.95973486341985,52.33673114033528]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158807639,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17290301",
+    "cbsnl:BU_NAAM":"Wahlwiller",
+    "cbsnl:GM_CODE":"GM1729",
+    "cbsnl:GM_NAAM":"Gulpen-Wittem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"104",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK172903",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":412218.866689,
+    "geom:bbox":"5.92932783524,50.8076166873,5.94462127763,50.8126200093",
+    "geom:latitude":50.809762,
+    "geom:longitude":5.937311,
+    "iso:country":"NL",
+    "lbl:latitude":50.810032,
+    "lbl:longitude":5.937457,
+    "mps:latitude":50.810032,
+    "mps:longitude":5.937457,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Wahlwiller"
+    ],
+    "name:nld_x_preferred":[
+        "Wahlwiller"
+    ],
+    "reversegeo:latitude":50.810032,
+    "reversegeo:longitude":5.937457,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474645,
+        85633337,
+        1158817955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c16fcaffaebd7769584ea6922983237c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474645,
+            "locality_id":1158817955,
+            "neighbourhood_id":1158807639,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158807639,
+    "wof:lastmodified":1513404134,
+    "wof:name":"Wahlwiller",
+    "wof:parent_id":1158817955,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.929327835235531,
+    50.807616687333486,
+    5.944621277631711,
+    50.81262000932597
+],
+  "geometry": {"coordinates":[[[[5.92932783523553,50.80761668733349],[5.93004904039945,50.80887793192744],[5.93121028366397,50.81111970248997],[5.93558944999938,50.81115340189726],[5.9359043499357,50.81173732047074],[5.93521098686669,50.81188741839635],[5.93551455580209,50.81262000932597],[5.93799392441765,50.81208772065788],[5.93894655489156,50.81248355652023],[5.94012326867036,50.81223770189479],[5.94011607997908,50.81163474722928],[5.9407171219394,50.81157174582582],[5.943196035148,50.81159495754353],[5.94462127763171,50.81167236121519],[5.94312034880607,50.8076480539382],[5.94157260410287,50.80777066104137],[5.93880005415005,50.80784769804534],[5.9355304214975,50.80787871337269],[5.9316155628296,50.80768682948896],[5.92932783523553,50.80761668733349]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158825647,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050302",
+    "cbsnl:BU_NAAM":"Erasmuslaan en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3162",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050503",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000019,
+    "geom:area_square_m":143057.611095,
+    "geom:bbox":"4.65328285093,51.8048142997,4.66183044164,51.8088061288",
+    "geom:latitude":51.806796,
+    "geom:longitude":4.657636,
+    "iso:country":"NL",
+    "lbl:latitude":51.807086,
+    "lbl:longitude":4.657636,
+    "mps:latitude":51.807086,
+    "mps:longitude":4.657636,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Erasmuslaan en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Erasmuslaan en omgeving"
+    ],
+    "reversegeo:latitude":51.807086,
+    "reversegeo:longitude":4.657636,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829427,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3423d24b5a38b2c0a3604387f28df685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829427,
+            "neighbourhood_id":1158825647,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825647,
+    "wof:lastmodified":1513588008,
+    "wof:name":"Erasmuslaan en omgeving",
+    "wof:parent_id":1158829427,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.653282850925125,
+    51.804814299718224,
+    4.661830441638429,
+    51.808806128843216
+],
+  "geometry": {"coordinates":[[[[4.65721414480172,51.80880612884322],[4.659323477547,51.80834050349784],[4.66160549526022,51.80806221675383],[4.66110337686305,51.80674826334635],[4.66137398129245,51.80670378051304],[4.66183044163843,51.80649374171566],[4.65628040295399,51.80512417468881],[4.65495570031369,51.80481429971822],[4.65328285092512,51.80561223801835],[4.65721414480172,51.80880612884322]]]],"type":"MultiPolygon"}
+}

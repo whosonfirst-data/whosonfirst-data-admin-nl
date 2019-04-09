@@ -1,0 +1,79 @@
+{
+  "id": 1126090213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.64541,52.05154,4.64541,52.05154",
+    "geom:latitude":52.05154,
+    "geom:longitude":4.64541,
+    "gn:gn_country":"NL",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":5160,
+    "gn:population":5160,
+    "iso:country":"NL",
+    "lbl:latitude":52.05154,
+    "lbl:longitude":4.64541,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NL",
+    "qs_pg:gn_country":"NL",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":6948947,
+    "qs_pg:gn_pop":5160,
+    "qs_pg:name":"Groenswaard",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":653191,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        101754715,
+        85633337,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6948947,
+        "qs_pg:id":653191
+    },
+    "wof:country":"NL",
+    "wof:created":1497313597,
+    "wof:geomhash":"f3f6726ec67cace298d3bd9f986af980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754715,
+            "neighbourhood_id":1126090213,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1126090213,
+    "wof:lastmodified":1513579983,
+    "wof:name":"Groenswaard",
+    "wof:parent_id":101754715,
+    "wof:placetype":"neighbourhood",
+    "wof:population":5160,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.64541,
+    52.05154,
+    4.64541,
+    52.05154
+],
+  "geometry": {"coordinates":[4.64541,52.05154],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158797573,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07771005",
+    "cbsnl:BU_NAAM":"Baai 2",
+    "cbsnl:GM_CODE":"GM0777",
+    "cbsnl:GM_NAAM":"Etten-Leur",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2272",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK077710",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":118479.359288,
+    "geom:bbox":"4.64720529597,51.5783997197,4.65345099946,51.5825359531",
+    "geom:latitude":51.580398,
+    "geom:longitude":4.650406,
+    "iso:country":"NL",
+    "lbl:latitude":51.580379,
+    "lbl:longitude":4.650406,
+    "mps:latitude":51.580379,
+    "mps:longitude":4.650406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Baai 2"
+    ],
+    "name:nld_x_preferred":[
+        "Baai 2"
+    ],
+    "reversegeo:latitude":51.580379,
+    "reversegeo:longitude":4.650406,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474377,
+        85633337,
+        101839355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4e494d8b35ea6ae4c5ad3c1bb1167e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474377,
+            "locality_id":101839355,
+            "neighbourhood_id":1158797573,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797573,
+    "wof:lastmodified":1513432603,
+    "wof:name":"Baai 2",
+    "wof:parent_id":101839355,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.647205295973582,
+    51.57839971967707,
+    4.653450999457436,
+    51.58253595313608
+],
+  "geometry": {"coordinates":[[[[4.65187932346867,51.58253595313608],[4.65190805898959,51.5824908656399],[4.65285416672515,51.58088477791432],[4.65296083541228,51.58024419756488],[4.65345099945744,51.57945035065868],[4.6491636378635,51.57839971967707],[4.64891568433165,51.57875394026798],[4.64857775518925,51.57895980947382],[4.64720529597358,51.58105716888787],[4.6473282197235,51.58121394952342],[4.6472853371949,51.58127868588498],[4.64949560369083,51.58166965416098],[4.65020146496671,51.58198611004979],[4.65187932346867,51.58253595313608]]]],"type":"MultiPolygon"}
+}

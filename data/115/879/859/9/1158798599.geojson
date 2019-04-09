@@ -1,0 +1,82 @@
+{
+  "id": 1158798599,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08280305",
+    "cbsnl:BU_NAAM":"Oranjebuurt II",
+    "cbsnl:GM_CODE":"GM0828",
+    "cbsnl:GM_NAAM":"Oss",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1021",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082803",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":92574.255059,
+    "geom:bbox":"5.53414526807,51.7523632392,5.53922712171,51.7559787357",
+    "geom:latitude":51.753969,
+    "geom:longitude":5.536445,
+    "iso:country":"NL",
+    "lbl:latitude":51.754077,
+    "lbl:longitude":5.536445,
+    "mps:latitude":51.754077,
+    "mps:longitude":5.536445,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oranjebuurt II"
+    ],
+    "name:nld_x_preferred":[
+        "Oranjebuurt II"
+    ],
+    "reversegeo:latitude":51.754077,
+    "reversegeo:longitude":5.536445,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801749,
+        404474415,
+        85633337,
+        101751807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"fef6d71c5565ad22c57fec3e9e0f75db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":101751807,
+            "macrohood_id":1158801749,
+            "neighbourhood_id":1158798599,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798599,
+    "wof:lastmodified":1513432686,
+    "wof:name":"Oranjebuurt II",
+    "wof:parent_id":1158801749,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.534145268073456,
+    51.7523632392236,
+    5.539227121714442,
+    51.75597873569831
+],
+  "geometry": {"coordinates":[[[[5.53922712171444,51.75295217180425],[5.53476284948366,51.7523632392236],[5.53441013876664,51.75239079062303],[5.53433923110694,51.75278127151557],[5.53432868423248,51.75340619025521],[5.53426904183556,51.75441392400783],[5.53414526807346,51.75505460647389],[5.53520823658026,51.75513478584376],[5.53650458957653,51.75559013041909],[5.53749616672998,51.75597873569831],[5.53922712171444,51.75295217180425]]]],"type":"MultiPolygon"}
+}

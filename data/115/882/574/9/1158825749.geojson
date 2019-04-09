@@ -1,0 +1,80 @@
+{
+  "id": 1158825749,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050900",
+    "cbsnl:BU_NAAM":"Sterrenburg 1-West",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3032",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050509",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":360672.592445,
+    "geom:bbox":"4.66640582957,51.7841368625,4.67749936199,51.7907782055",
+    "geom:latitude":51.786776,
+    "geom:longitude":4.672851,
+    "iso:country":"NL",
+    "lbl:latitude":51.787094,
+    "lbl:longitude":4.672746,
+    "mps:latitude":51.787094,
+    "mps:longitude":4.672746,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Sterrenburg 1-West"
+    ],
+    "name:nld_x_preferred":[
+        "Sterrenburg 1-West"
+    ],
+    "reversegeo:latitude":51.787094,
+    "reversegeo:longitude":4.672746,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829529,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"119c3957ca8bd3581d3660c2ef1e069b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829529,
+            "neighbourhood_id":1158825749,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825749,
+    "wof:lastmodified":1513588014,
+    "wof:name":"Sterrenburg 1-West",
+    "wof:parent_id":1158829529,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.666405829572582,
+    51.78413686249287,
+    4.677499361990173,
+    51.79077820550713
+],
+  "geometry": {"coordinates":[[[[4.6721191677954,51.79077820550713],[4.67345234913477,51.79032773743276],[4.6743548077353,51.78996332213421],[4.67646717312754,51.78869027021264],[4.67713270708347,51.78818348223232],[4.67749936199017,51.7876748821358],[4.67744448287271,51.78546399632726],[4.67732016998812,51.78413686249287],[4.66873401379212,51.7843605396765],[4.66640582957258,51.78439110118571],[4.66660646644975,51.78461320625881],[4.66737769798385,51.78547655167312],[4.66806665587399,51.78624353573796],[4.6688229661273,51.78709261148609],[4.66943351504232,51.78777742302557],[4.66998027267243,51.78839166256485],[4.67062202198008,51.78909966946814],[4.67130183259009,51.78986542684813],[4.67193438671156,51.79057106702621],[4.6721191677954,51.79077820550713]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1158800017,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16840009",
+    "cbsnl:BU_NAAM":"Verspreide huizen ten zuidwesten van Cuijk",
+    "cbsnl:GM_CODE":"GM1684",
+    "cbsnl:GM_NAAM":"Cuijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"435",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK168400",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000186,
+    "geom:area_square_m":1425288.621399,
+    "geom:bbox":"5.86453969331,51.7057783625,5.88801138261,51.7193643831",
+    "geom:latitude":51.712026,
+    "geom:longitude":5.876317,
+    "iso:country":"NL",
+    "lbl:latitude":51.712256,
+    "lbl:longitude":5.876488,
+    "mps:latitude":51.712256,
+    "mps:longitude":5.876488,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen ten zuidwesten van Cuijk"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen ten zuidwesten van Cuijk"
+    ],
+    "reversegeo:latitude":51.712256,
+    "reversegeo:longitude":5.876488,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474597,
+        85633337,
+        101839723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"fe24769c3d84189edbd87abbb1ae5886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474597,
+            "locality_id":101839723,
+            "neighbourhood_id":1158800017,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158800017,
+    "wof:lastmodified":1513432794,
+    "wof:name":"Verspreide huizen ten zuidwesten van Cuijk",
+    "wof:parent_id":101839723,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.864539693306254,
+    51.70577836252079,
+    5.888011382605834,
+    51.71936438305991
+],
+  "geometry": {"coordinates":[[[[5.8795500271624,51.71936438305991],[5.88302636671179,51.71437452030085],[5.88637808401242,51.7098173779297],[5.88789687954352,51.70782103738834],[5.88801138260583,51.70770903097083],[5.88661988103572,51.7074759343235],[5.88426787996003,51.70726459702926],[5.88144034560933,51.70668781074443],[5.87900787482165,51.70624244060871],[5.876738684779,51.70577836252079],[5.87581896153893,51.70622517381625],[5.8752976149852,51.70644953609395],[5.87302395940541,51.7073129099761],[5.87218890073066,51.70769276982895],[5.87162097815485,51.70787770077413],[5.86965532269296,51.70833974091311],[5.86817538409543,51.70849863540275],[5.8675872220731,51.70869599136527],[5.86705746516308,51.70894366377917],[5.86651870853098,51.70930260686343],[5.86618180113567,51.70959527201565],[5.86453969330625,51.70988062413628],[5.86623269286446,51.71275455978479],[5.87059592069461,51.71484445922832],[5.86891818677773,51.71750834851237],[5.86910092530964,51.71755450436635],[5.87144388142834,51.71782798136102],[5.87652322252005,51.71861668753994],[5.8795500271624,51.71936438305991]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,121 @@
+{
+  "id": 85859691,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06060201",
+    "cbsnl:BU_NAAM":"Brandersbuurt",
+    "cbsnl:GM_CODE":"GM0606",
+    "cbsnl:GM_NAAM":"Schiedam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"4839",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060602",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000019,
+    "geom:area_square_m":143827.904926,
+    "geom:bbox":"4.3923886288,51.9173203141,4.40128723257,51.9210026414",
+    "geom:latitude":51.919154,
+    "geom:longitude":4.396512,
+    "gn:id":"",
+    "iso:country":"NL",
+    "lbl:latitude":51.9191,
+    "lbl:longitude":4.396128,
+    "mps:latitude":51.918791,
+    "mps:longitude":4.395698,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Brandersbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Brandersbuurt"
+    ],
+    "name:unk_x_variant":[
+        "Branders Buuri"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":2747596,
+    "qs:gn_nam_loc":"Schiedam, Schiedam, Zuid-Holland, NL",
+    "qs:gn_namadm1":"11",
+    "qs:local_max":1642,
+    "qs:local_sum":5724,
+    "qs:localhoods":15,
+    "qs:name":"Branders Buuri",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Zuid-Holland",
+    "qs:name_adm2":"Schiedam",
+    "qs:name_local":"Schiedam",
+    "qs:photo_max":131,
+    "qs:photo_sum":288,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346383,
+    "qs:woe_adm2":12592385,
+    "qs:woe_lau":0,
+    "qs:woe_local":733254,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":51.918791,
+    "reversegeo:longitude":4.395698,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831281,
+        85633337,
+        101751845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20063919,
+        "qs:id":1087193,
+        "qs_pg:id":1087193
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"1c03f16763efb0c1679f6fd834bdfc7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "macrohood_id":1158831281,
+            "neighbourhood_id":85859691,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":85859691,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527270337,
+    "wof:name":"Brandersbuurt",
+    "wof:parent_id":1158831281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.39238862880428,
+    51.91732031406197,
+    4.40128723257019,
+    51.92100264138413
+],
+  "geometry": {"coordinates":[[[[4.39621810859362,51.9203800564525],[4.39822470657226,51.92079696019968],[4.39970207791203,51.92100264138413],[4.39982234488706,51.92094958931605],[4.40021191760845,51.92096625671947],[4.40128723257019,51.92042939688107],[4.40120906604331,51.9203378533358],[4.40124364144913,51.92032260001712],[4.40088505534908,51.91926269459174],[4.40079116481622,51.9192571461574],[4.39929986732257,51.91913877410006],[4.39853374048752,51.91894950630025],[4.39792288711209,51.91877597177604],[4.39744481232835,51.91857949791099],[4.39714513308215,51.91840858037577],[4.39695426070104,51.91824339035962],[4.39685096906078,51.91798752449655],[4.39675970024642,51.91753930972765],[4.39675239263542,51.91735361755608],[4.39290536125097,51.91732031406197],[4.39272723274339,51.91733846897782],[4.39260969140442,51.91739505855652],[4.39238862880428,51.91839347835609],[4.39261955331633,51.91908420226017],[4.3938941050853,51.91970172690836],[4.39608244320504,51.92035194605921],[4.39621810859362,51.9203800564525]]]],"type":"MultiPolygon"}
+}

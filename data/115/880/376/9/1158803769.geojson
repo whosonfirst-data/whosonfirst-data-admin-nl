@@ -1,0 +1,80 @@
+{
+  "id": 1158803769,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17080900",
+    "cbsnl:BU_NAAM":"Heetveld kern",
+    "cbsnl:GM_CODE":"GM1708",
+    "cbsnl:GM_NAAM":"Steenwijkerland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"81",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170809",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":443646.459331,
+    "geom:bbox":"6.00788720871,52.6583001594,6.0167221619,52.6688059522",
+    "geom:latitude":52.663073,
+    "geom:longitude":6.011949,
+    "iso:country":"NL",
+    "lbl:latitude":52.662328,
+    "lbl:longitude":6.011589,
+    "mps:latitude":52.662328,
+    "mps:longitude":6.011589,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Heetveld kern"
+    ],
+    "name:nld_x_preferred":[
+        "Heetveld kern"
+    ],
+    "reversegeo:latitude":52.662328,
+    "reversegeo:longitude":6.011589,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474621,
+        85633337,
+        101807219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f4ccae28898e3c9748f80009d996a75f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474621,
+            "locality_id":101807219,
+            "neighbourhood_id":1158803769,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803769,
+    "wof:lastmodified":1513524361,
+    "wof:name":"Heetveld kern",
+    "wof:parent_id":101807219,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.007887208707698,
+    52.658300159427455,
+    6.016722161901854,
+    52.66880595222675
+],
+  "geometry": {"coordinates":[[[[6.00916869556171,52.66740625343507],[6.01073972429033,52.6681302013978],[6.01196524908891,52.66880595222675],[6.01275742888706,52.66860294527908],[6.01411468328209,52.66868089488928],[6.01490603649479,52.66842086482398],[6.01493451198133,52.66842520809227],[6.01379194289705,52.66495178263025],[6.01672216190185,52.65915555615772],[6.00907748690792,52.65830015942745],[6.0078872087077,52.66408712441937],[6.00943467288201,52.66460843777542],[6.00992288170542,52.66598991134106],[6.00916869556171,52.66740625343507]]]],"type":"MultiPolygon"}
+}

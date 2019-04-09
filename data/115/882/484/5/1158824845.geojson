@@ -1,0 +1,82 @@
+{
+  "id": 1158824845,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04840204",
+    "cbsnl:BU_NAAM":"Horstenbuurt-Zuid",
+    "cbsnl:GM_CODE":"GM0484",
+    "cbsnl:GM_NAAM":"Alphen aan den Rijn",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"3045",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK048402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":192061.966029,
+    "geom:bbox":"4.66232322817,52.1479378339,4.67142667781,52.1522273883",
+    "geom:latitude":52.150158,
+    "geom:longitude":4.666626,
+    "iso:country":"NL",
+    "lbl:latitude":52.150129,
+    "lbl:longitude":4.666626,
+    "mps:latitude":52.150129,
+    "mps:longitude":4.666626,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Horstenbuurt-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Horstenbuurt-Zuid"
+    ],
+    "reversegeo:latitude":52.150129,
+    "reversegeo:longitude":4.666626,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831211,
+        404474147,
+        85633337,
+        101751837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"32de8ad9f0bbbcce90b54267c83cc8b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474147,
+            "locality_id":101751837,
+            "macrohood_id":1158831211,
+            "neighbourhood_id":1158824845,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158824845,
+    "wof:lastmodified":1513587949,
+    "wof:name":"Horstenbuurt-Zuid",
+    "wof:parent_id":1158831211,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.662323228174621,
+    52.14793783389929,
+    4.67142667780565,
+    52.152227388323354
+],
+  "geometry": {"coordinates":[[[[4.6631069082625,52.15222738832335],[4.66435442155204,52.15211019876136],[4.66493725900056,52.15201502882937],[4.66520893998009,52.15198311697932],[4.66729820232568,52.15171958260237],[4.6681265158274,52.15161851871159],[4.66896456360162,52.15149039818217],[4.66889806877423,52.15130307755621],[4.67032195200934,52.1510799675543],[4.67142667780565,52.15090228911193],[4.66936135944345,52.14793783389929],[4.66885811269098,52.14802309665971],[4.66477264356893,52.14881090910072],[4.6646414691487,52.14883620040671],[4.66263346356531,52.14922725901796],[4.66232322817462,52.14929202059425],[4.66272735811514,52.15082067887624],[4.6627483189624,52.15089996165413],[4.6631069082625,52.15222738832335]]]],"type":"MultiPolygon"}
+}

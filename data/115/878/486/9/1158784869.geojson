@@ -1,0 +1,80 @@
+{
+  "id": 1158784869,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16761000",
+    "cbsnl:BU_NAAM":"Kerkwerve",
+    "cbsnl:GM_CODE":"GM1676",
+    "cbsnl:GM_NAAM":"Schouwen-Duiveland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"99",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK167610",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":225400.222735,
+    "geom:bbox":"3.89481316351,51.6820488534,3.90381748048,51.6889897658",
+    "geom:latitude":51.685716,
+    "geom:longitude":3.899087,
+    "iso:country":"NL",
+    "lbl:latitude":51.686172,
+    "lbl:longitude":3.899087,
+    "mps:latitude":51.686172,
+    "mps:longitude":3.899087,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kerkwerve"
+    ],
+    "name:nld_x_preferred":[
+        "Kerkwerve"
+    ],
+    "reversegeo:latitude":51.686172,
+    "reversegeo:longitude":3.899087,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474591,
+        85633337,
+        101855265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5aed803a4f22dee2d4976e8e73759580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474591,
+            "locality_id":101855265,
+            "neighbourhood_id":1158784869,
+            "region_id":85687037
+        }
+    ],
+    "wof:id":1158784869,
+    "wof:lastmodified":1513628717,
+    "wof:name":"Kerkwerve",
+    "wof:parent_id":101855265,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.894813163510996,
+    51.682048853449764,
+    3.903817480477338,
+    51.68898976576266
+],
+  "geometry": {"coordinates":[[[[3.90097018752515,51.68816851125617],[3.90072230244517,51.68790803198587],[3.90155243113736,51.68757077333458],[3.90176108979419,51.68714022600238],[3.90229330032298,51.68741020795976],[3.90381748047734,51.68542030848513],[3.90136097883819,51.68475088743219],[3.89924770403801,51.68399503495191],[3.89980756949317,51.68274526318392],[3.89912568374388,51.68254696994997],[3.89928970038815,51.68208074139581],[3.89826194057692,51.68204885344976],[3.89778249564011,51.68385953892623],[3.89574542751712,51.68360717956351],[3.894813163511,51.68541124170979],[3.89550882485357,51.68573559034132],[3.89758687438465,51.68771451787192],[3.89967225342494,51.68898976576266],[3.90097018752515,51.68816851125617]]]],"type":"MultiPolygon"}
+}

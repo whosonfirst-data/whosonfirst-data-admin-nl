@@ -1,0 +1,80 @@
+{
+  "id": 1158800113,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17020500",
+    "cbsnl:BU_NAAM":"Landhorst",
+    "cbsnl:GM_CODE":"GM1702",
+    "cbsnl:GM_NAAM":"Sint Anthonis",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"65",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170205",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":253779.428117,
+    "geom:bbox":"5.78726917303,51.6149555614,5.79780632348,51.620993502",
+    "geom:latitude":51.618,
+    "geom:longitude":5.792562,
+    "iso:country":"NL",
+    "lbl:latitude":51.617926,
+    "lbl:longitude":5.792562,
+    "mps:latitude":51.617926,
+    "mps:longitude":5.792562,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Landhorst"
+    ],
+    "name:nld_x_preferred":[
+        "Landhorst"
+    ],
+    "reversegeo:latitude":51.617926,
+    "reversegeo:longitude":5.792562,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474615,
+        85633337,
+        1158801581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6f727a19c936a0bf61ae3d958ae947cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474615,
+            "locality_id":1158801581,
+            "neighbourhood_id":1158800113,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158800113,
+    "wof:lastmodified":1513432801,
+    "wof:name":"Landhorst",
+    "wof:parent_id":1158801581,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.787269173025261,
+    51.61495556137745,
+    5.797806323482637,
+    51.62099350196546
+],
+  "geometry": {"coordinates":[[[[5.79131954020476,51.61495556137745],[5.78927234269929,51.6164420954463],[5.78726917302526,51.61835652471642],[5.79428828532486,51.62099350196546],[5.79780632348264,51.61783601662129],[5.79131954020476,51.61495556137745]]]],"type":"MultiPolygon"}
+}

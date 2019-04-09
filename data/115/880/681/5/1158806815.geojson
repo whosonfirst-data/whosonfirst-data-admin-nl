@@ -1,0 +1,82 @@
+{
+  "id": 1158806815,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09832203",
+    "cbsnl:BU_NAAM":"Vastenavondkamp-Zuid",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2327",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098322",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":262085.325967,
+    "geom:bbox":"6.1361890265,51.3697642118,6.14701662116,51.3747818523",
+    "geom:latitude":51.372133,
+    "geom:longitude":6.141872,
+    "iso:country":"NL",
+    "lbl:latitude":51.372111,
+    "lbl:longitude":6.141872,
+    "mps:latitude":51.372111,
+    "mps:longitude":6.141872,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vastenavondkamp-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Vastenavondkamp-Zuid"
+    ],
+    "reversegeo:latitude":51.372111,
+    "reversegeo:longitude":6.141872,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        1158818269,
+        404474525,
+        85633337,
+        101839199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a223f14ae4a694f9bbdcecc91348d471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "macrohood_id":1158818269,
+            "neighbourhood_id":1158806815,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806815,
+    "wof:lastmodified":1513404057,
+    "wof:name":"Vastenavondkamp-Zuid",
+    "wof:parent_id":1158818269,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.13618902649996,
+    51.36976421181688,
+    6.147016621161278,
+    51.374781852279924
+],
+  "geometry": {"coordinates":[[[[6.13649883694677,51.37289134634567],[6.13741126175075,51.37291783354251],[6.13798177400724,51.37293842916829],[6.13996640986764,51.37344878752895],[6.1412633310838,51.37379726456061],[6.14419847664962,51.37437240718523],[6.14613416827378,51.37478185227992],[6.14625753932661,51.37442732990172],[6.14664802763551,51.37389892613623],[6.14676143036131,51.37372289886039],[6.14701662116128,51.37336063889835],[6.14673708934879,51.37317558104581],[6.14620200528103,51.37255617219154],[6.14622723835405,51.37172152208694],[6.14635255667697,51.37139896970633],[6.14557105869032,51.37097281319024],[6.14524981817141,51.37091377834606],[6.14552947812131,51.37062451742349],[6.14450343120238,51.37021674435368],[6.14368826453687,51.36991665894008],[6.14365089247571,51.36976421181688],[6.14330644716197,51.36977041554081],[6.14335719375932,51.37023302201473],[6.1369905760845,51.37054345160319],[6.13689406032453,51.3699714817555],[6.13618902649996,51.37000873659708],[6.13645524717065,51.37163585630395],[6.13649883694677,51.37289134634567]]]],"type":"MultiPolygon"}
+}

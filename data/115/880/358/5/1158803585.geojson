@@ -1,0 +1,80 @@
+{
+  "id": 1158803585,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17000001",
+    "cbsnl:BU_NAAM":"Midden",
+    "cbsnl:GM_CODE":"GM1700",
+    "cbsnl:GM_NAAM":"Twenterand",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"745",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170000",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":563695.959587,
+    "geom:bbox":"6.6195035058,52.4095284109,6.63446943771,52.4190783985",
+    "geom:latitude":52.414687,
+    "geom:longitude":6.626551,
+    "iso:country":"NL",
+    "lbl:latitude":52.414761,
+    "lbl:longitude":6.626551,
+    "mps:latitude":52.414761,
+    "mps:longitude":6.626551,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Midden"
+    ],
+    "name:nld_x_preferred":[
+        "Midden"
+    ],
+    "reversegeo:latitude":52.414761,
+    "reversegeo:longitude":6.626551,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474611,
+        85633337,
+        101808749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b31b9a76897b5e4b769d2414a8c65f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474611,
+            "locality_id":101808749,
+            "neighbourhood_id":1158803585,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803585,
+    "wof:lastmodified":1513524348,
+    "wof:name":"Midden",
+    "wof:parent_id":101808749,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.619503505804659,
+    52.409528410939274,
+    6.634469437710338,
+    52.419078398516056
+],
+  "geometry": {"coordinates":[[[[6.61990987259782,52.41587621734884],[6.63172039858032,52.41907839851606],[6.63177490474264,52.41898260423689],[6.63434439384498,52.41480011803783],[6.63446943771034,52.41454263113666],[6.619750850919,52.40952841093927],[6.61950350580466,52.41030398818095],[6.62132001357071,52.4108774615505],[6.6204747867907,52.41208706275912],[6.62029721092739,52.41315768859791],[6.61993325252227,52.4158167061974],[6.61990987259782,52.41587621734884]]]],"type":"MultiPolygon"}
+}

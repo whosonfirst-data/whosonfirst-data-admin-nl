@@ -1,0 +1,120 @@
+{
+  "id": 85859957,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17050202",
+    "cbsnl:BU_NAAM":"Het Zand",
+    "cbsnl:GM_CODE":"GM1705",
+    "cbsnl:GM_NAAM":"Lingewaard",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"887",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170502",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":426754.666623,
+    "geom:bbox":"5.92691885027,51.9228326218,5.93994814417,51.9309079332",
+    "geom:latitude":51.92677,
+    "geom:longitude":5.933881,
+    "gn:id":"",
+    "iso:country":"NL",
+    "lbl:latitude":51.935798,
+    "lbl:longitude":5.932714,
+    "mps:latitude":51.927268,
+    "mps:longitude":5.933874,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Het Zand"
+    ],
+    "name:nld_x_preferred":[
+        "Het Zand"
+    ],
+    "name:unk_x_variant":[
+        "Hetzand"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":2753504,
+    "qs:gn_nam_loc":"huissen",
+    "qs:gn_namadm1":"03",
+    "qs:local_max":226,
+    "qs:local_sum":226,
+    "qs:localhoods":1,
+    "qs:name":"Hetzand",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Gelderland",
+    "qs:name_adm2":"Lingewaard",
+    "qs:name_local":"Huissen",
+    "qs:photo_max":29,
+    "qs:photo_sum":226,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":51,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346375,
+    "qs:woe_adm2":23388407,
+    "qs:woe_lau":0,
+    "qs:woe_local":730425,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":51.927268,
+    "reversegeo:longitude":5.933874,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        404474617,
+        85633337,
+        101754753,
+        85687043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20064021,
+        "qs:id":229740,
+        "qs_pg:id":229740
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"767031d0cab278255a46ad1a5cf6cb86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474617,
+            "locality_id":101754753,
+            "neighbourhood_id":85859957,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":85859957,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527270294,
+    "wof:name":"Het Zand",
+    "wof:parent_id":101754753,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.92691885026617,
+    51.92283262178425,
+    5.93994814417324,
+    51.93090793319161
+],
+  "geometry": {"coordinates":[[[[5.9314737388791,51.93004063379291],[5.93207936350884,51.930640926329],[5.93228616122354,51.93090793319161],[5.93309174278414,51.93079436804962],[5.93434970603821,51.93035004963516],[5.93560198139877,51.92966558659879],[5.93665098942577,51.9290070613655],[5.93672003723995,51.92906179253789],[5.93735876101905,51.92862735968897],[5.93843927968278,51.92781951635921],[5.93994814417324,51.92626922951641],[5.93823292220419,51.92546102357696],[5.93931085993517,51.92456161521233],[5.93767325542577,51.92416762969562],[5.93611870749871,51.92352324180018],[5.93480791256578,51.92308246459713],[5.93387153182745,51.92283262178425],[5.93345851102254,51.92293875063684],[5.9329996896979,51.92310801195067],[5.93262782493373,51.92336759525752],[5.93249477012107,51.92367128954213],[5.93237283635995,51.9240493690649],[5.93224247895253,51.92444462333348],[5.93236502898673,51.92471623483941],[5.92712164123792,51.92607719279273],[5.92715124889164,51.92610343222903],[5.92691885026617,51.92620646283518],[5.92824425307992,51.92716863860357],[5.92901806781724,51.92784286438024],[5.9291114560016,51.92784449374692],[5.93058106488246,51.92915578782321],[5.9314737388791,51.93004063379291]]]],"type":"MultiPolygon"}
+}

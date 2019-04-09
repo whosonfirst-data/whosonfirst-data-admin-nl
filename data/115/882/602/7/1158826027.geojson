@@ -1,0 +1,80 @@
+{
+  "id": 1158826027,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05130603",
+    "cbsnl:BU_NAAM":"Kadenbuurt",
+    "cbsnl:GM_CODE":"GM0513",
+    "cbsnl:GM_NAAM":"Gouda",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3585",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK051306",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":270822.00899,
+    "geom:bbox":"4.70925873571,52.0127426136,4.7231634263,52.0171609475",
+    "geom:latitude":52.015324,
+    "geom:longitude":4.71601,
+    "iso:country":"NL",
+    "lbl:latitude":52.014919,
+    "lbl:longitude":4.715536,
+    "mps:latitude":52.014919,
+    "mps:longitude":4.715536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kadenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Kadenbuurt"
+    ],
+    "reversegeo:latitude":52.014919,
+    "reversegeo:longitude":4.715536,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831227,
+        85633337,
+        101751839,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"356daebb823260d16a2855656e23663c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751839,
+            "macrohood_id":1158831227,
+            "neighbourhood_id":1158826027,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826027,
+    "wof:lastmodified":1513588034,
+    "wof:name":"Kadenbuurt",
+    "wof:parent_id":1158831227,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.709258735706009,
+    52.012742613636675,
+    4.723163426302513,
+    52.017160947457235
+],
+  "geometry": {"coordinates":[[[[4.70925873570601,52.01716094745723],[4.71026126026633,52.01714171780432],[4.71092872932796,52.01712926128851],[4.7113808397147,52.01709590390285],[4.71570658987896,52.01677095218374],[4.72199416356615,52.01626818691489],[4.72224358779431,52.01624824856866],[4.72300449874285,52.01621911781622],[4.72316342630251,52.01493298827391],[4.72251200026805,52.01477359356881],[4.72151603025871,52.01452988169007],[4.71578300742862,52.0131285602672],[4.71450249317558,52.01274261363668],[4.71432171222813,52.01304269184381],[4.71403090378362,52.01321206396059],[4.71342867430154,52.01391275368688],[4.71227823260711,52.01450986987122],[4.71151100110424,52.01492470704967],[4.71066298737681,52.01528876766383],[4.71009357850186,52.01536219936515],[4.70955240916635,52.01556270319877],[4.70925873570601,52.01716094745723]]]],"type":"MultiPolygon"}
+}

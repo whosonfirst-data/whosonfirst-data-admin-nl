@@ -1,0 +1,80 @@
+{
+  "id": 1158827029,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06060603",
+    "cbsnl:BU_NAAM":"Staatsliedenbuurt",
+    "cbsnl:GM_CODE":"GM0606",
+    "cbsnl:GM_NAAM":"Schiedam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2672",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060606",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:area_square_m":161022.943969,
+    "geom:bbox":"4.38315812047,51.9214630184,4.39503373348,51.9264203365",
+    "geom:latitude":51.924123,
+    "geom:longitude":4.389474,
+    "iso:country":"NL",
+    "lbl:latitude":51.924255,
+    "lbl:longitude":4.389384,
+    "mps:latitude":51.924255,
+    "mps:longitude":4.389384,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Staatsliedenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Staatsliedenbuurt"
+    ],
+    "reversegeo:latitude":51.924255,
+    "reversegeo:longitude":4.389384,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829433,
+        85633337,
+        101751845,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3187fdfac85ba31a349665abe005ba88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "macrohood_id":1158829433,
+            "neighbourhood_id":1158827029,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827029,
+    "wof:lastmodified":1513588114,
+    "wof:name":"Staatsliedenbuurt",
+    "wof:parent_id":1158829433,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.383158120465136,
+    51.921463018351055,
+    4.395033733479565,
+    51.92642033648005
+],
+  "geometry": {"coordinates":[[[[4.39492981918737,51.92433775558958],[4.39293981449398,51.92432009653982],[4.39092475908952,51.92386988648315],[4.38790964896715,51.92273669859065],[4.38496460200257,51.92146301835106],[4.38449192321398,51.92175758339958],[4.38315812046514,51.92259030758655],[4.38704567991203,51.92436896977448],[4.39100096776651,51.92580650180977],[4.39489439190596,51.92642033648005],[4.39503373347956,51.92641140024849],[4.39493173752752,51.92440518798364],[4.39492981918737,51.92433775558958]]]],"type":"MultiPolygon"}
+}

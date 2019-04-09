@@ -1,0 +1,78 @@
+{
+  "id": 1158825071,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04890614",
+    "cbsnl:BU_NAAM":"Ter Leede",
+    "cbsnl:GM_CODE":"GM0489",
+    "cbsnl:GM_NAAM":"Barendrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1293",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK048906",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":276987.011022,
+    "geom:bbox":"4.53624971499,51.8415981202,4.54761435414,51.8463078369",
+    "geom:latitude":51.843507,
+    "geom:longitude":4.54078,
+    "iso:country":"NL",
+    "lbl:latitude":51.843465,
+    "lbl:longitude":4.54078,
+    "mps:latitude":51.843465,
+    "mps:longitude":4.54078,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ter Leede"
+    ],
+    "name:nld_x_preferred":[
+        "Ter Leede"
+    ],
+    "reversegeo:latitude":51.843465,
+    "reversegeo:longitude":4.54078,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        101754615,
+        85633337,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3b885d9e91f64fe5f520b47b4029d035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754615,
+            "neighbourhood_id":1158825071,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825071,
+    "wof:lastmodified":1513587965,
+    "wof:name":"Ter Leede",
+    "wof:parent_id":101754615,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.536249714985051,
+    51.841598120179505,
+    4.547614354143841,
+    51.84630783685238
+],
+  "geometry": {"coordinates":[[[[4.53624971498505,51.84630783685238],[4.53751589497154,51.84622606064477],[4.53774394561496,51.84602921524861],[4.53816388208315,51.84585360666328],[4.53848655951887,51.84573684409762],[4.5390648400828,51.84566162519342],[4.54034820256725,51.84542100336331],[4.54064093913827,51.84535540750144],[4.54253781800135,51.84503162811433],[4.54379307057334,51.84474291063281],[4.5447941954778,51.84433325891081],[4.5455367384894,51.84404084295617],[4.54637465539053,51.84378880321264],[4.54679231555784,51.84373224649001],[4.54711569855995,51.84357576379723],[4.54761435414384,51.84300359415375],[4.54719384561004,51.8428220427407],[4.54547732871642,51.84207531806224],[4.54445721720794,51.84179010694157],[4.54305077076412,51.8416013562916],[4.53984633972383,51.8415981201795],[4.53625686917773,51.84162109033882],[4.53625254435941,51.84185002293959],[4.53626338457704,51.84466873032597],[4.53624971498505,51.84630783685238]]]],"type":"MultiPolygon"}
+}

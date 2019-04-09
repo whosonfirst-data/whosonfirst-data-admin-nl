@@ -1,0 +1,80 @@
+{
+  "id": 1158800019,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16840200",
+    "cbsnl:BU_NAAM":"Sint Agatha",
+    "cbsnl:GM_CODE":"GM1684",
+    "cbsnl:GM_NAAM":"Cuijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"79",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK168402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":467718.959548,
+    "geom:bbox":"5.9061225848,51.7085605748,5.92062458093,51.7167146711",
+    "geom:latitude":51.712615,
+    "geom:longitude":5.913736,
+    "iso:country":"NL",
+    "lbl:latitude":51.712634,
+    "lbl:longitude":5.913736,
+    "mps:latitude":51.712634,
+    "mps:longitude":5.913736,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Sint Agatha"
+    ],
+    "name:nld_x_preferred":[
+        "Sint Agatha"
+    ],
+    "reversegeo:latitude":51.712634,
+    "reversegeo:longitude":5.913736,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474597,
+        85633337,
+        1158801603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f8172847924dbb0106f1b7a13527e8f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474597,
+            "locality_id":1158801603,
+            "neighbourhood_id":1158800019,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158800019,
+    "wof:lastmodified":1513432794,
+    "wof:name":"Sint Agatha",
+    "wof:parent_id":1158801603,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.906122584796719,
+    51.70856057484313,
+    5.920624580932293,
+    51.71671467113771
+],
+  "geometry": {"coordinates":[[[[5.9167098097533,51.70856057484313],[5.91511929849874,51.70926549910387],[5.90612258479672,51.71290650013488],[5.90786085433537,51.71470100529344],[5.90828984211304,51.71451202254977],[5.91039769194685,51.71671467113771],[5.91744674674553,51.71402963492692],[5.91841749056315,51.71377074600991],[5.91907484415241,51.71343349636288],[5.91982285025179,51.71292392520743],[5.92062458093229,51.71110569441715],[5.9167098097533,51.70856057484313]]]],"type":"MultiPolygon"}
+}

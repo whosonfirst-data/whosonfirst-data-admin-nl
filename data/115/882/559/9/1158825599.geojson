@@ -1,0 +1,80 @@
+{
+  "id": 1158825599,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050101",
+    "cbsnl:BU_NAAM":"Groenmarkt en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3803",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050501",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":91704.773517,
+    "geom:bbox":"4.65903871121,51.8135698833,4.66691571352,51.8166508618",
+    "geom:latitude":51.814848,
+    "geom:longitude":4.663451,
+    "iso:country":"NL",
+    "lbl:latitude":51.814708,
+    "lbl:longitude":4.66351,
+    "mps:latitude":51.814708,
+    "mps:longitude":4.66351,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Groenmarkt en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Groenmarkt en omgeving"
+    ],
+    "reversegeo:latitude":51.814708,
+    "reversegeo:longitude":4.66351,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829543,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5c1d1681c2c0f93667f95d1f544ed809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829543,
+            "neighbourhood_id":1158825599,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825599,
+    "wof:lastmodified":1513588005,
+    "wof:name":"Groenmarkt en omgeving",
+    "wof:parent_id":1158829543,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.659038711211409,
+    51.81356988329914,
+    4.666915713520432,
+    51.8166508617677
+],
+  "geometry": {"coordinates":[[[[4.66691571352043,51.8149945254605],[4.66543981550699,51.81438342316615],[4.66523800209272,51.81426007973482],[4.6643835083661,51.81379221721034],[4.66397132548196,51.81366377312408],[4.66369960614098,51.81361715485098],[4.66342409703256,51.81356988329914],[4.65910878349096,51.81399421439746],[4.65903871121141,51.81401827412174],[4.65914489314186,51.81417296286511],[4.65925054748034,51.81424009855177],[4.66089572088009,51.81495459997349],[4.6611307657785,51.81528865368598],[4.66164245467315,51.81517584658842],[4.66349611701241,51.81582378053265],[4.66501024325039,51.8166508617677],[4.66596691935221,51.81610958626171],[4.66675732549993,51.81520715112946],[4.66691571352043,51.8149945254605]]]],"type":"MultiPolygon"}
+}

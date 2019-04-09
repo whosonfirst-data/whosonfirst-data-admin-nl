@@ -1,0 +1,80 @@
+{
+  "id": 1158825869,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05051916",
+    "cbsnl:BU_NAAM":"Dordtse Kil II",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"341",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050519",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:area_square_m":599551.130637,
+    "geom:bbox":"4.62692913055,51.772571025,4.64421297672,51.7776380972",
+    "geom:latitude":51.775028,
+    "geom:longitude":4.635471,
+    "iso:country":"NL",
+    "lbl:latitude":51.77503,
+    "lbl:longitude":4.635471,
+    "mps:latitude":51.77503,
+    "mps:longitude":4.635471,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Dordtse Kil II"
+    ],
+    "name:nld_x_preferred":[
+        "Dordtse Kil II"
+    ],
+    "reversegeo:latitude":51.77503,
+    "reversegeo:longitude":4.635471,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829571,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ec46e3fa0e476600d842951e2ea27db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829571,
+            "neighbourhood_id":1158825869,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825869,
+    "wof:lastmodified":1513588022,
+    "wof:name":"Dordtse Kil II",
+    "wof:parent_id":1158829571,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.626929130553811,
+    51.77257102504759,
+    4.644212976722058,
+    51.77763809715022
+],
+  "geometry": {"coordinates":[[[[4.62771195641684,51.77763809715022],[4.63039325495732,51.77754774592244],[4.63389145202432,51.77745372710122],[4.63622064136711,51.77744016979648],[4.64412701525483,51.77719734187551],[4.64407565344113,51.77623674977163],[4.64406989822838,51.77557776722797],[4.64421297672206,51.77518058090116],[4.6434604365718,51.7751898423119],[4.64329708997722,51.77257102504759],[4.62692913055381,51.77266315538324],[4.62698531320475,51.77290645843233],[4.62698693341984,51.77291348920416],[4.62700827322076,51.77300482738974],[4.62714876296521,51.7735338990782],[4.62738880225667,51.77462994311836],[4.62756713062303,51.77566717747719],[4.62757123514364,51.77569103324797],[4.62759312920945,51.77598121531408],[4.62762263812646,51.7763346285297],[4.62765090169806,51.77673368733012],[4.62768396063733,51.77717418827505],[4.62770563511031,51.77753341992165],[4.62770823153562,51.7775763220184],[4.62771195641684,51.77763809715022]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1141962251,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02021780",
+    "cbsnl:BU_NAAM":"Groene Weide",
+    "cbsnl:GM_CODE":"GM0202",
+    "cbsnl:GM_NAAM":"Arnhem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2184",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK020217",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:area_square_m":520814.118057,
+    "geom:bbox":"5.90544916967,51.9652011357,5.91977554079,51.9746628279",
+    "geom:latitude":51.969806,
+    "geom:longitude":5.912824,
+    "iso:country":"NL",
+    "lbl:latitude":51.969987,
+    "lbl:longitude":5.912824,
+    "mps:latitude":51.969987,
+    "mps:longitude":5.912824,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Groene Weide"
+    ],
+    "name:nld_x_preferred":[
+        "Groene Weide"
+    ],
+    "reversegeo:latitude":51.969987,
+    "reversegeo:longitude":5.912824,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158783323,
+        404473871,
+        85633337,
+        101751857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3f98e0686a9b83e31d7ee3523afccd54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473871,
+            "locality_id":101751857,
+            "macrohood_id":1158783323,
+            "neighbourhood_id":1141962251,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962251,
+    "wof:lastmodified":1513368659,
+    "wof:name":"Groene Weide",
+    "wof:parent_id":1158783323,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.905449169671936,
+    51.96520113567586,
+    5.919775540792514,
+    51.97466282794469
+],
+  "geometry": {"coordinates":[[[[5.90878776116883,51.97192151154609],[5.90967745616214,51.97283886705995],[5.91038516830061,51.97362309967613],[5.91134345367242,51.97466282794469],[5.91394528771812,51.97326367045913],[5.91709713016294,51.97161102262698],[5.91977554079251,51.97085711244081],[5.91840354720962,51.96901747034233],[5.91678607810162,51.96710755047803],[5.91488697510582,51.96536515730611],[5.91478318915689,51.96520113567586],[5.91399649273483,51.96561633048957],[5.91268604783558,51.96616509126228],[5.91129131361653,51.96672589834827],[5.91047051478465,51.96709178481802],[5.91016457244652,51.9671857259719],[5.90872422737078,51.96770895401588],[5.90730607855252,51.96814128397389],[5.90596004555248,51.96852024708076],[5.90544916967194,51.96863755077542],[5.90790114883064,51.97101582038511],[5.90832383732142,51.9714480853681],[5.90878776116883,51.97192151154609]]]],"type":"MultiPolygon"}
+}

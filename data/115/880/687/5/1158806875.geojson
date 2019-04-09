@@ -1,0 +1,80 @@
+{
+  "id": 1158806875,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09832811",
+    "cbsnl:BU_NAAM":"Floriade Park",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"19",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098328",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000159,
+    "geom:area_square_m":1222685.704048,
+    "geom:bbox":"6.10712729528,51.3980860467,6.12748562159,51.4136900376",
+    "geom:latitude":51.406669,
+    "geom:longitude":6.119412,
+    "iso:country":"NL",
+    "lbl:latitude":51.407662,
+    "lbl:longitude":6.120106,
+    "mps:latitude":51.407662,
+    "mps:longitude":6.120106,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Floriade Park"
+    ],
+    "name:nld_x_preferred":[
+        "Floriade Park"
+    ],
+    "reversegeo:latitude":51.407662,
+    "reversegeo:longitude":6.120106,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474525,
+        85633337,
+        101839199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9b00dff3a807041605e926bf4f5c9179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "neighbourhood_id":1158806875,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806875,
+    "wof:lastmodified":1513404061,
+    "wof:name":"Floriade Park",
+    "wof:parent_id":101839199,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.107127295283436,
+    51.39808604673134,
+    6.127485621587099,
+    51.41369003759314
+],
+  "geometry": {"coordinates":[[[[6.12306181371954,51.41369003759314],[6.12427855211768,51.41132812996543],[6.12489322345497,51.40969543345091],[6.12568349600681,51.40639506027226],[6.1274856215871,51.39885802578775],[6.12618078887892,51.39841325807302],[6.12334172968035,51.39808604673134],[6.12101821133191,51.40014659563757],[6.12134477244229,51.40034679202117],[6.11971053969203,51.40158137692075],[6.11804686509897,51.40331591163053],[6.11358475499281,51.40486654039996],[6.11209306001916,51.40668261709157],[6.10881873365772,51.40766655143135],[6.10712729528344,51.40886625366149],[6.10774612302981,51.4095518863929],[6.1176068251899,51.41263037966406],[6.12306181371954,51.41369003759314]]]],"type":"MultiPolygon"}
+}

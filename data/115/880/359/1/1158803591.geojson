@@ -1,0 +1,80 @@
+{
+  "id": 1158803591,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17000004",
+    "cbsnl:BU_NAAM":"West ten oosten Kanaal",
+    "cbsnl:GM_CODE":"GM1700",
+    "cbsnl:GM_NAAM":"Twenterand",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"625",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170000",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":294346.487282,
+    "geom:bbox":"6.60050839456,52.396601457,6.60982110564,52.405782286",
+    "geom:latitude":52.401112,
+    "geom:longitude":6.605072,
+    "iso:country":"NL",
+    "lbl:latitude":52.40108,
+    "lbl:longitude":6.605001,
+    "mps:latitude":52.40108,
+    "mps:longitude":6.605001,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "West ten oosten Kanaal"
+    ],
+    "name:nld_x_preferred":[
+        "West ten oosten Kanaal"
+    ],
+    "reversegeo:latitude":52.40108,
+    "reversegeo:longitude":6.605001,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474611,
+        85633337,
+        101808749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a333aa6ee4cb34302c297b147fa6528d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474611,
+            "locality_id":101808749,
+            "neighbourhood_id":1158803591,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803591,
+    "wof:lastmodified":1513524348,
+    "wof:name":"West ten oosten Kanaal",
+    "wof:parent_id":101808749,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.600508394559538,
+    52.3966014569506,
+    6.609821105641171,
+    52.405782285954416
+],
+  "geometry": {"coordinates":[[[[6.60050839455954,52.40421642325418],[6.60193635109697,52.40457311336585],[6.60170120061784,52.4048406831292],[6.60470308825746,52.40578228595442],[6.60619585415999,52.40299232036139],[6.6063426180433,52.40271834948226],[6.60982110564117,52.39787648936765],[6.60549699538334,52.3966014569506],[6.60050839455954,52.40421642325418]]]],"type":"MultiPolygon"}
+}

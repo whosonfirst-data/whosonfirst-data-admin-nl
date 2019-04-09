@@ -1,0 +1,80 @@
+{
+  "id": 1158790739,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01093038",
+    "cbsnl:BU_NAAM":"Geesbrug",
+    "cbsnl:GM_CODE":"GM0109",
+    "cbsnl:GM_NAAM":"Coevorden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"113",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK010930",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":514408.845804,
+    "geom:bbox":"6.6276747829,52.7229275007,6.63830260966,52.7330047759",
+    "geom:latitude":52.727404,
+    "geom:longitude":6.633635,
+    "iso:country":"NL",
+    "lbl:latitude":52.726785,
+    "lbl:longitude":6.633735,
+    "mps:latitude":52.726785,
+    "mps:longitude":6.633735,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Geesbrug"
+    ],
+    "name:nld_x_preferred":[
+        "Geesbrug"
+    ],
+    "reversegeo:latitude":52.726785,
+    "reversegeo:longitude":6.633735,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473807,
+        85633337,
+        101807303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ac1aba1ea83f7df5655a33361aa48945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473807,
+            "locality_id":101807303,
+            "neighbourhood_id":1158790739,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158790739,
+    "wof:lastmodified":1513292294,
+    "wof:name":"Geesbrug",
+    "wof:parent_id":101807303,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.627674782904083,
+    52.72292750066228,
+    6.638302609659417,
+    52.73300477585951
+],
+  "geometry": {"coordinates":[[[[6.63805617532502,52.72869107177139],[6.63806332342604,52.72869086883163],[6.63767171445818,52.72678406583704],[6.63766564240338,52.72614590017928],[6.63739935222001,52.7250645465778],[6.63720713110041,52.72452171365465],[6.63716593450271,52.72432108966228],[6.63691641372355,52.72394808168468],[6.63629485722808,52.72292750066228],[6.6296352817636,52.7230932687316],[6.62982435021139,52.72584885458739],[6.62884492534661,52.72686008901042],[6.62995012480022,52.72725131942322],[6.62797984613594,52.72920031132568],[6.62767478290408,52.7301348474783],[6.6318946987609,52.73010090400983],[6.63264765616761,52.73033626006749],[6.63326740735308,52.73084151324057],[6.63388660537351,52.73210005691919],[6.63583851723474,52.73300477585951],[6.63811691137362,52.73044461651041],[6.63731910835822,52.7302440328184],[6.63830260965942,52.72886081662327],[6.63805617532502,52.72869107177139]]]],"type":"MultiPolygon"}
+}

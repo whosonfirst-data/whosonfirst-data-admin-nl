@@ -1,0 +1,80 @@
+{
+  "id": 1158790843,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01140304",
+    "cbsnl:BU_NAAM":"Hoofdkanaal",
+    "cbsnl:GM_CODE":"GM0114",
+    "cbsnl:GM_NAAM":"Emmen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"39",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011403",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":559802.712439,
+    "geom:bbox":"7.06105543609,52.8208045178,7.07998314793,52.8344529357",
+    "geom:latitude":52.82789,
+    "geom:longitude":7.07062,
+    "iso:country":"NL",
+    "lbl:latitude":52.82794,
+    "lbl:longitude":7.07062,
+    "mps:latitude":52.82794,
+    "mps:longitude":7.07062,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hoofdkanaal"
+    ],
+    "name:nld_x_preferred":[
+        "Hoofdkanaal"
+    ],
+    "reversegeo:latitude":52.82794,
+    "reversegeo:longitude":7.07062,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473809,
+        85633337,
+        101837873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8a52c810285e769186cf2c22405029d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473809,
+            "locality_id":101837873,
+            "neighbourhood_id":1158790843,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158790843,
+    "wof:lastmodified":1513292301,
+    "wof:name":"Hoofdkanaal",
+    "wof:parent_id":101837873,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.06105543609034,
+    52.820804517848536,
+    7.079983147925649,
+    52.834452935748395
+],
+  "geometry": {"coordinates":[[[[7.06105543609034,52.82247987165961],[7.07444080736184,52.83360336865142],[7.07722590565241,52.83445293574839],[7.07942342793136,52.83445276524281],[7.07949563106729,52.8337505529004],[7.07971872367216,52.83375689541989],[7.07998314792565,52.83314785872331],[7.07266017777482,52.82712918826218],[7.06496768859739,52.82080451784854],[7.06105543609034,52.82247987165961]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101874253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-09-11",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.940828,51.137209,5.940828,51.137209",
+    "geom:latitude":51.137209,
+    "geom:longitude":5.940828,
+    "iso:country":"NL",
+    "lbl:latitude":51.137209,
+    "lbl:longitude":5.940828,
+    "mps:latitude":51.137209,
+    "mps:longitude":5.940828,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Nederland",
+    "qs:a1":"*Limburg",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Berg, Aan de",
+    "qs:loc_alt":"Berg, Aan de",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404474581,
+        85633337,
+        85687033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "qs:id":5
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"b7f9cd04c385c73bb277ad445b005c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474581,
+            "locality_id":101874253,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":101874253,
+    "wof:lastmodified":1544751621,
+    "wof:name":"Berg, Aan de",
+    "wof:parent_id":404474581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158817753
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.940828,
+    51.137209,
+    5.940828,
+    51.137209
+],
+  "geometry": {"coordinates":[5.940828,51.137209],"type":"Point"}
+}

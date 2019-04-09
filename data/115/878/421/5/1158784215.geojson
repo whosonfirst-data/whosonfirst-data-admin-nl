@@ -1,0 +1,86 @@
+{
+  "id": 1158784215,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06541401",
+    "cbsnl:BU_NAAM":"'s-Heer Abtskerke (Kern)",
+    "cbsnl:GM_CODE":"GM0654",
+    "cbsnl:GM_NAAM":"Borsele",
+    "cbsnl:IND_WBI":"2",
+    "cbsnl:OAD":"60",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK065414",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":249921.715107,
+    "geom:bbox":"3.87629597321,51.4668408877,3.88668056649,51.4736071748",
+    "geom:latitude":51.470391,
+    "geom:longitude":3.881339,
+    "iso:country":"NL",
+    "lbl:latitude":51.470159,
+    "lbl:longitude":3.880552,
+    "mps:latitude":51.470159,
+    "mps:longitude":3.880552,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "'s-Heer Abtskerke"
+    ],
+    "name:eng_x_variant":[
+        "'s-Heer Abtskerke (Kern)"
+    ],
+    "name:nld_x_preferred":[
+        "'s-Heer Abtskerke"
+    ],
+    "name:nld_x_variant":[
+        "'s-Heer Abtskerke (Kern)"
+    ],
+    "reversegeo:latitude":51.470159,
+    "reversegeo:longitude":3.880552,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474299,
+        85633337,
+        1158786489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"94394301d03d3a07b16828c592c49d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474299,
+            "locality_id":1158786489,
+            "neighbourhood_id":1158784215,
+            "region_id":85687037
+        }
+    ],
+    "wof:id":1158784215,
+    "wof:lastmodified":1513628624,
+    "wof:name":"'s-Heer Abtskerke",
+    "wof:parent_id":1158786489,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.876295973212544,
+    51.46684088771486,
+    3.886680566486275,
+    51.47360717477532
+],
+  "geometry": {"coordinates":[[[[3.87838473607761,51.46897879251109],[3.87629597321254,51.47139083102633],[3.8781564267621,51.47238102092493],[3.87912221296384,51.47166979407387],[3.87945033308059,51.47180287817961],[3.88118722375906,51.47260827319896],[3.88194961066886,51.47238521222533],[3.88314680906667,51.47351540373855],[3.88405735796562,51.47294194244479],[3.88490619901286,51.47360717477532],[3.88668056648627,51.47343587256692],[3.88664313495507,51.4731316994305],[3.88529877437062,51.47281577123795],[3.88518669014789,51.47237831512299],[3.88458410802568,51.47220508747981],[3.88475307085461,51.47180833257632],[3.88366220557565,51.47137793504444],[3.88460731058935,51.47035907003762],[3.88245697394394,51.46959053282199],[3.88306009870102,51.46879819945828],[3.88365155405943,51.46884543461096],[3.8848969982638,51.46769080937815],[3.88297088048908,51.46684088771486],[3.88187465796433,51.46730771680577],[3.88116753990099,51.46816050829496],[3.87981598750602,51.4678160482925],[3.87825449155164,51.46890051370803],[3.87838473607761,51.46897879251109]]]],"type":"MultiPolygon"}
+}

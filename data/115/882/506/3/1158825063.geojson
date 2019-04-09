@@ -1,0 +1,80 @@
+{
+  "id": 1158825063,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04890511",
+    "cbsnl:BU_NAAM":"Buitenoord 1",
+    "cbsnl:GM_CODE":"GM0489",
+    "cbsnl:GM_NAAM":"Barendrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2116",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK048905",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:area_square_m":238933.776301,
+    "geom:bbox":"4.53623805545,51.8454210034,4.54148150928,51.8529069972",
+    "geom:latitude":51.849235,
+    "geom:longitude":4.538567,
+    "iso:country":"NL",
+    "lbl:latitude":51.849335,
+    "lbl:longitude":4.538304,
+    "mps:latitude":51.849335,
+    "mps:longitude":4.538304,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Buitenoord 1"
+    ],
+    "name:nld_x_preferred":[
+        "Buitenoord 1"
+    ],
+    "reversegeo:latitude":51.849335,
+    "reversegeo:longitude":4.538304,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831071,
+        85633337,
+        101754615,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a1ebba28d63e474932ddbd8a881483c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754615,
+            "macrohood_id":1158831071,
+            "neighbourhood_id":1158825063,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825063,
+    "wof:lastmodified":1513587964,
+    "wof:name":"Buitenoord 1",
+    "wof:parent_id":1158831071,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.536238055449508,
+    51.84542100336331,
+    4.541481509283486,
+    51.8529069972
+],
+  "geometry": {"coordinates":[[[[4.53636413145536,51.8529069972],[4.5384804666493,51.85286276289386],[4.53947546803685,51.85279055294414],[4.53985350198472,51.85267689197318],[4.53986229312343,51.852674249571],[4.54021893180802,51.85245847675493],[4.54035048391778,51.85228078185066],[4.54082713551471,51.85079550863482],[4.54106302601251,51.85018187474714],[4.54142150282011,51.84986686661752],[4.54059351994787,51.84958300512597],[4.540075612614,51.84815010734191],[4.54117521514304,51.84762210105993],[4.54148150928349,51.84667153191922],[4.54034820256725,51.84542100336331],[4.5390648400828,51.84566162519342],[4.53848655951887,51.84573684409762],[4.53816388208315,51.84585360666328],[4.53774394561496,51.84602921524861],[4.53751589497154,51.84622606064477],[4.53624971498505,51.84630783685238],[4.53623805544951,51.84770551908457],[4.53626331657538,51.85145725434761],[4.53634787407036,51.85267320631899],[4.53636413145536,51.8529069972]]]],"type":"MultiPolygon"}
+}

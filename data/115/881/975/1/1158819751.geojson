@@ -1,0 +1,82 @@
+{
+  "id": 1158819751,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04000508",
+    "cbsnl:BU_NAAM":"Waterkeringsbuurt",
+    "cbsnl:GM_CODE":"GM0400",
+    "cbsnl:GM_NAAM":"Den Helder",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1282",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK040005",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":204004.920251,
+    "geom:bbox":"4.77265670916,52.9283496615,4.77932431615,52.9332917086",
+    "geom:latitude":52.930782,
+    "geom:longitude":4.775878,
+    "iso:country":"NL",
+    "lbl:latitude":52.930842,
+    "lbl:longitude":4.775941,
+    "mps:latitude":52.930842,
+    "mps:longitude":4.775941,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Waterkeringsbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Waterkeringsbuurt"
+    ],
+    "reversegeo:latitude":52.930842,
+    "reversegeo:longitude":4.775941,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823003,
+        404474079,
+        85633337,
+        101806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b6a6d6dd722245bf6d4a0643dd44b22e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474079,
+            "locality_id":101806071,
+            "macrohood_id":1158823003,
+            "neighbourhood_id":1158819751,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158819751,
+    "wof:lastmodified":1513464169,
+    "wof:name":"Waterkeringsbuurt",
+    "wof:parent_id":1158823003,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.772656709159204,
+    52.92834966149595,
+    4.779324316148603,
+    52.93329170857438
+],
+  "geometry": {"coordinates":[[[[4.77743226112349,52.93327549302128],[4.77783074780921,52.93264790449537],[4.77826526118536,52.93198567747852],[4.77866300223845,52.93130135567914],[4.77904047034182,52.93078711114224],[4.7792479296757,52.93030738605773],[4.7793243161486,52.92984496685716],[4.77925814197493,52.92936609571765],[4.7791653031478,52.9290915330887],[4.7789949198,52.92882893214447],[4.77873010729112,52.92851474003839],[4.77873984535475,52.92834966149595],[4.77736497028619,52.92840611782491],[4.77637019749174,52.92839935193824],[4.77626910362073,52.92840051889986],[4.7742091647964,52.92841917353681],[4.77427059978933,52.92912381099602],[4.7726567091592,52.92914697319081],[4.77281869554475,52.92968138375458],[4.7728464287761,52.93056670306391],[4.77289173970255,52.93168070927953],[4.77287263829055,52.93282246473859],[4.77285314768925,52.93325765201681],[4.7732874646927,52.93325089788835],[4.77544056677269,52.93329170857438],[4.77712176083827,52.93325256489188],[4.77743226112349,52.93327549302128]]]],"type":"MultiPolygon"}
+}

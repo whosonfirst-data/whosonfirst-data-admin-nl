@@ -1,0 +1,80 @@
+{
+  "id": 1158825711,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050603",
+    "cbsnl:BU_NAAM":"Amerstraat en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1138",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050506",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":85044.761486,
+    "geom:bbox":"4.69234489026,51.8163710008,4.69854948082,51.8191775821",
+    "geom:latitude":51.817699,
+    "geom:longitude":4.69521,
+    "iso:country":"NL",
+    "lbl:latitude":51.817718,
+    "lbl:longitude":4.69521,
+    "mps:latitude":51.817718,
+    "mps:longitude":4.69521,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Amerstraat en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Amerstraat en omgeving"
+    ],
+    "reversegeo:latitude":51.817718,
+    "reversegeo:longitude":4.69521,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829599,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f267cdf9295740dc6ea7ee1de9e95341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829599,
+            "neighbourhood_id":1158825711,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825711,
+    "wof:lastmodified":1513588012,
+    "wof:name":"Amerstraat en omgeving",
+    "wof:parent_id":1158829599,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.692344890259374,
+    51.81637100081343,
+    4.698549480824401,
+    51.819177582114776
+],
+  "geometry": {"coordinates":[[[[4.6985494808244,51.81801900389603],[4.69818391604146,51.81726093089483],[4.6976375256979,51.81637100081343],[4.69630888048297,51.81664578983301],[4.69363313312968,51.81685428314588],[4.69234489025937,51.81690569156281],[4.69253962461012,51.81832973897084],[4.69290689593565,51.81917758211478],[4.6985494808244,51.81801900389603]]]],"type":"MultiPolygon"}
+}

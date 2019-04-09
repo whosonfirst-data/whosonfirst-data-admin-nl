@@ -1,0 +1,80 @@
+{
+  "id": 1158787029,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09951115",
+    "cbsnl:BU_NAAM":"Groene Velden",
+    "cbsnl:GM_CODE":"GM0995",
+    "cbsnl:GM_NAAM":"Lelystad",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"201",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK099511",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":562050.179923,
+    "geom:bbox":"5.49365733582,52.528880575,5.50550980051,52.5365811343",
+    "geom:latitude":52.532641,
+    "geom:longitude":5.499507,
+    "iso:country":"NL",
+    "lbl:latitude":52.532686,
+    "lbl:longitude":5.499507,
+    "mps:latitude":52.532686,
+    "mps:longitude":5.499507,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Groene Velden"
+    ],
+    "name:nld_x_preferred":[
+        "Groene Velden"
+    ],
+    "reversegeo:latitude":52.532686,
+    "reversegeo:longitude":5.499507,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158787421,
+        85633337,
+        101751873,
+        85687049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0c03ee0798dc049b4cc3f8c1376197c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751873,
+            "macrohood_id":1158787421,
+            "neighbourhood_id":1158787029,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158787029,
+    "wof:lastmodified":1513299288,
+    "wof:name":"Groene Velden",
+    "wof:parent_id":1158787421,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.493657335815431,
+    52.52888057497433,
+    5.505509800505632,
+    52.53658113434317
+],
+  "geometry": {"coordinates":[[[[5.4952012241046,52.53658113434317],[5.50550980050563,52.53584179585768],[5.50484632901395,52.53258306545183],[5.5042454764309,52.52927871371288],[5.50110691404187,52.52916093331719],[5.50111458248658,52.52904327358179],[5.50038430766437,52.52901188490232],[5.50036548468658,52.52913247237533],[5.4998819414777,52.52911432781613],[5.49365733581543,52.52888057497433],[5.49378773848028,52.52952980042629],[5.49431988844067,52.53217896884378],[5.4952012241046,52.53658113434317]]]],"type":"MultiPolygon"}
+}

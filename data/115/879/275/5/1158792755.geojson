@@ -1,0 +1,80 @@
+{
+  "id": 1158792755,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00141211",
+    "cbsnl:BU_NAAM":"Ruischerwaard",
+    "cbsnl:GM_CODE":"GM0014",
+    "cbsnl:GM_NAAM":"Groningen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1203",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK001412",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":278028.619778,
+    "geom:bbox":"6.61038113387,53.2260844163,6.62563608868,53.231942046",
+    "geom:latitude":53.229089,
+    "geom:longitude":6.617893,
+    "iso:country":"NL",
+    "lbl:latitude":53.229078,
+    "lbl:longitude":6.617893,
+    "mps:latitude":53.229078,
+    "mps:longitude":6.617893,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ruischerwaard"
+    ],
+    "name:nld_x_preferred":[
+        "Ruischerwaard"
+    ],
+    "reversegeo:latitude":53.229078,
+    "reversegeo:longitude":6.617893,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473713,
+        85633337,
+        1158796475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9e60bdb9e9df80bebab0c171c4884212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473713,
+            "locality_id":1158796475,
+            "neighbourhood_id":1158792755,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158792755,
+    "wof:lastmodified":1513382264,
+    "wof:name":"Ruischerwaard",
+    "wof:parent_id":1158796475,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.610381133870645,
+    53.226084416340186,
+    6.625636088682771,
+    53.23194204600574
+],
+  "geometry": {"coordinates":[[[[6.62496426152681,53.23194204600574],[6.62517934036768,53.2314294210416],[6.62499545397473,53.23139020302013],[6.62563608868277,53.22986324078668],[6.62179957158977,53.22881111849303],[6.61214796247906,53.22608441634019],[6.61038113387064,53.22872162649324],[6.61324450951597,53.22932325286268],[6.61396595267184,53.22956255788802],[6.61740862455978,53.23034607076264],[6.61969670908521,53.23083149630074],[6.6207835986713,53.23106206468559],[6.62452609614591,53.23184705572115],[6.62496426152681,53.23194204600574]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1158784187,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06540701",
+    "cbsnl:BU_NAAM":"Kwadendamme (Kern)",
+    "cbsnl:GM_CODE":"GM0654",
+    "cbsnl:GM_NAAM":"Borsele",
+    "cbsnl:IND_WBI":"2",
+    "cbsnl:OAD":"125",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK065407",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":226175.710886,
+    "geom:bbox":"3.87241297344,51.4300129581,3.88154820561,51.4363961826",
+    "geom:latitude":51.432986,
+    "geom:longitude":3.876985,
+    "iso:country":"NL",
+    "lbl:latitude":51.432932,
+    "lbl:longitude":3.876916,
+    "mps:latitude":51.432932,
+    "mps:longitude":3.876916,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kwadendamme"
+    ],
+    "name:eng_x_variant":[
+        "Kwadendamme (Kern)"
+    ],
+    "name:nld_x_preferred":[
+        "Kwadendamme"
+    ],
+    "name:nld_x_variant":[
+        "Kwadendamme (Kern)"
+    ],
+    "reversegeo:latitude":51.432932,
+    "reversegeo:longitude":3.876916,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474299,
+        85633337,
+        1158786479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"23e7c85e5b691b9db4840420c1b461e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474299,
+            "locality_id":1158786479,
+            "neighbourhood_id":1158784187,
+            "region_id":85687037
+        }
+    ],
+    "wof:id":1158784187,
+    "wof:lastmodified":1513628621,
+    "wof:name":"Kwadendamme",
+    "wof:parent_id":1158786479,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.872412973435282,
+    51.43001295806629,
+    3.881548205606215,
+    51.43639618263961
+],
+  "geometry": {"coordinates":[[[[3.87947430962087,51.43433399196491],[3.87962593682435,51.43440115290937],[3.88009478696846,51.43343292005019],[3.88080461696029,51.43363621565343],[3.88154820560622,51.432617304681],[3.88032815507386,51.43230853083818],[3.88052516105901,51.43188770445537],[3.87860608717195,51.43124961164869],[3.87891221761429,51.43087430371249],[3.8779871161815,51.43034990667206],[3.87726462821216,51.4305967711241],[3.87619972673404,51.43001295806629],[3.87241297343528,51.43299965759334],[3.87708455721574,51.43598198533362],[3.87710700062449,51.43593366871889],[3.87781697729141,51.43639618263961],[3.87868655992974,51.43493570837295],[3.87909837051039,51.43500916846688],[3.87947430962087,51.43433399196491]]]],"type":"MultiPolygon"}
+}

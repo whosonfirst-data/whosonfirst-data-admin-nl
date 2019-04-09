@@ -1,0 +1,82 @@
+{
+  "id": 1158819721,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04000406",
+    "cbsnl:BU_NAAM":"Zuiderzeebuurt",
+    "cbsnl:GM_CODE":"GM0400",
+    "cbsnl:GM_NAAM":"Den Helder",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1863",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK040004",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":101404.802353,
+    "geom:bbox":"4.7432170321,52.9376941261,4.74922484996,52.9416948991",
+    "geom:latitude":52.93966,
+    "geom:longitude":4.746286,
+    "iso:country":"NL",
+    "lbl:latitude":52.939724,
+    "lbl:longitude":4.746286,
+    "mps:latitude":52.939724,
+    "mps:longitude":4.746286,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zuiderzeebuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Zuiderzeebuurt"
+    ],
+    "reversegeo:latitude":52.939724,
+    "reversegeo:longitude":4.746286,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823015,
+        404474079,
+        85633337,
+        101806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"dcd16c88932c31e11aaaf9ce0a433fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474079,
+            "locality_id":101806071,
+            "macrohood_id":1158823015,
+            "neighbourhood_id":1158819721,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158819721,
+    "wof:lastmodified":1513464167,
+    "wof:name":"Zuiderzeebuurt",
+    "wof:parent_id":1158823015,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.743217032103835,
+    52.93769412606301,
+    4.749224849959793,
+    52.94169489911743
+],
+  "geometry": {"coordinates":[[[[4.74527072606803,52.94128415076639],[4.74560070812275,52.94169489911743],[4.74598216856621,52.9415503545926],[4.74717096280021,52.94123321190972],[4.74838771779791,52.94083083463121],[4.74922484995979,52.94065388987213],[4.74842689847427,52.93947295047838],[4.74753027337588,52.93793145166011],[4.74736862292685,52.93769412606301],[4.74627858518648,52.93797978689131],[4.74420526146379,52.93847245590847],[4.74321703210383,52.93870752451308],[4.74333268009119,52.9389344979663],[4.74409179507826,52.93980747336333],[4.74447770551911,52.94036952596712],[4.74510403130234,52.94107665206637],[4.74527072606803,52.94128415076639]]]],"type":"MultiPolygon"}
+}

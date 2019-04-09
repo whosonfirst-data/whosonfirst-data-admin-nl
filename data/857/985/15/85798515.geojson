@@ -1,0 +1,131 @@
+{
+  "id": 85798515,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03440421",
+    "cbsnl:BU_NAAM":"Tuindorp en Van Lieflandlaan-West",
+    "cbsnl:GM_CODE":"GM0344",
+    "cbsnl:GM_NAAM":"Utrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"4467",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK034404",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000096,
+    "geom:area_square_m":728345.081205,
+    "geom:bbox":"5.11444137501,52.1032528477,5.13680313699,52.1124696842",
+    "geom:latitude":52.107658,
+    "geom:longitude":5.127281,
+    "gn:latitude":52.1056,
+    "gn:longitude":5.12875,
+    "iso:country":"NL",
+    "lbl:latitude":52.091726,
+    "lbl:longitude":5.125221,
+    "mps:latitude":52.093174,
+    "mps:longitude":5.132254,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":4,
+    "name:dut_x_preferred":[
+        "Tuindorp"
+    ],
+    "name:eng_x_preferred":[
+        "Tuindorp"
+    ],
+    "name:fre_x_preferred":[
+        "Tuindorp"
+    ],
+    "name:nld_x_preferred":[
+        "Tuindorp"
+    ],
+    "name:unk_x_variant":[
+        "Tuindorp"
+    ],
+    "qs:gn_adm0_cc":"NL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2745912,
+    "qs:gn_nam_loc":"Utrecht, Utrecht, Utrecht, NL",
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Tuindorp",
+    "qs:local_max":27849,
+    "qs:local_sum":80122,
+    "qs:localhoods":12,
+    "qs:name":"Tuindorp",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Utrecht",
+    "qs:name_adm2":"Utrecht",
+    "qs:name_local":"Utrecht",
+    "qs:photo_max":7428,
+    "qs:photo_sum":27849,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":107,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346381,
+    "qs:woe_adm2":12592434,
+    "qs:woe_lau":0,
+    "qs:woe_local":734047,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":52.10733,
+    "reversegeo:longitude":5.129314,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633337,
+        101751827,
+        1108808663,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2746124,
+        "gp:id":733959,
+        "qs:id":102240,
+        "qs_pg:id":102240,
+        "wd:id":"Q14509052"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"634885f1b26c6cf764adaf4b58e858bf",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108808663,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751827,
+            "neighbourhood_id":85798515,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":85798515,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1514493056,
+    "wof:name":"Tuindorp en Van Lieflandlaan-West",
+    "wof:parent_id":1108808663,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.11444137501112,
+    52.10325284772237,
+    5.13680313699138,
+    52.11246968418245
+],
+  "geometry": {"coordinates":[[[[5.13680313699138,52.11246968418245],[5.1351719406032,52.11010222364985],[5.13536564339706,52.11003958619578],[5.13561624157635,52.10997005941162],[5.13503100889812,52.10887591876362],[5.13437855746213,52.10772208461664],[5.13326376477829,52.10585514856547],[5.13232254891212,52.10419880640134],[5.13183914546297,52.10325284772237],[5.13059569173652,52.10354876758036],[5.12564065930423,52.10462756602482],[5.12409329933144,52.10496440262974],[5.11948473315549,52.10592202578476],[5.11922385953102,52.10597622451758],[5.11797106107747,52.10613223487827],[5.1179540058886,52.10613336443348],[5.11696918588567,52.1061987198757],[5.11586264717115,52.10622953391838],[5.11538316312958,52.10619812259195],[5.11444137501112,52.10707367544191],[5.11493593257918,52.10728709759783],[5.11678476540834,52.10794496180561],[5.11714990762883,52.10805973052158],[5.11905497319874,52.10858408055024],[5.11915011462226,52.10860669505005],[5.11942370386168,52.10867173372513],[5.12196578293593,52.10922669166585],[5.12669333382085,52.11025996768104],[5.13314284543705,52.11166977835885],[5.13680313699138,52.11246968418245]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1141964585,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03010302",
+    "cbsnl:BU_NAAM":"Braamkamp",
+    "cbsnl:GM_CODE":"GM0301",
+    "cbsnl:GM_NAAM":"Zutphen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1318",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK030103",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":247412.325838,
+    "geom:bbox":"6.1992444166,52.1201626865,6.2103297375,52.1244450821",
+    "geom:latitude":52.122351,
+    "geom:longitude":6.204372,
+    "iso:country":"NL",
+    "lbl:latitude":52.122526,
+    "lbl:longitude":6.204266,
+    "mps:latitude":52.122526,
+    "mps:longitude":6.204266,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Braamkamp"
+    ],
+    "name:nld_x_preferred":[
+        "Braamkamp"
+    ],
+    "reversegeo:latitude":52.122526,
+    "reversegeo:longitude":6.204266,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158783335,
+        404473961,
+        85633337,
+        101837807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"524dbd57a39bcbba454646b610622247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473961,
+            "locality_id":101837807,
+            "macrohood_id":1158783335,
+            "neighbourhood_id":1141964585,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141964585,
+    "wof:lastmodified":1513368829,
+    "wof:name":"Braamkamp",
+    "wof:parent_id":1158783335,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.19924441660248,
+    52.12016268654282,
+    6.210329737500577,
+    52.12444508214995
+],
+  "geometry": {"coordinates":[[[[6.19967713243282,52.12342449015176],[6.20085546369197,52.12359918585895],[6.2016370344268,52.12379988213744],[6.20321444193955,52.12432628885961],[6.20343091640739,52.12438367255277],[6.20359858631043,52.12438987313829],[6.20393338793026,52.12437283964049],[6.20571248343104,52.12414704334755],[6.20630519667847,52.12408594886277],[6.20652858012278,52.12410268745551],[6.20697618693604,52.12418189104343],[6.20753523858868,52.12444508214995],[6.20788268721313,52.12424061388467],[6.20841597028345,52.12380737235192],[6.20891157715818,52.12338182405684],[6.20938797213657,52.12294514525793],[6.20969045919429,52.12263155172284],[6.20990513604853,52.12233211596033],[6.21005425551341,52.12206021890159],[6.21032973750058,52.12147596529422],[6.19977826763766,52.12016268654282],[6.19924441660248,52.12144786485243],[6.19959063353102,52.12160835713124],[6.19967713243282,52.12342449015176]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1141963001,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02280102",
+    "cbsnl:BU_NAAM":"Bosrand",
+    "cbsnl:GM_CODE":"GM0228",
+    "cbsnl:GM_NAAM":"Ede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"875",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022801",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":549454.400954,
+    "geom:bbox":"5.65775901087,52.0469719872,5.68382262635,52.055263277",
+    "geom:latitude":52.052154,
+    "geom:longitude":5.672439,
+    "iso:country":"NL",
+    "lbl:latitude":52.053488,
+    "lbl:longitude":5.67155,
+    "mps:latitude":52.053488,
+    "mps:longitude":5.67155,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bosrand"
+    ],
+    "name:nld_x_preferred":[
+        "Bosrand"
+    ],
+    "reversegeo:latitude":52.053488,
+    "reversegeo:longitude":5.67155,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158783999,
+        404473893,
+        85633337,
+        101751855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"cb0a86fddca5669c9fe5e514a946b1e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473893,
+            "locality_id":101751855,
+            "macrohood_id":1158783999,
+            "neighbourhood_id":1141963001,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963001,
+    "wof:lastmodified":1513368717,
+    "wof:name":"Bosrand",
+    "wof:parent_id":1158783999,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.657759010870986,
+    52.046971987249094,
+    5.683822626349498,
+    52.05526327701797
+],
+  "geometry": {"coordinates":[[[[5.66695674513974,52.05168998842891],[5.66695600720601,52.05168994519837],[5.65970813245712,52.05126586755188],[5.65775901087099,52.05286561214323],[5.66406660418328,52.05392344605445],[5.66425154874551,52.05395445668029],[5.67052026788035,52.05502045545035],[5.67212200759179,52.05526327701797],[5.67292061581462,52.05464260792883],[5.67342078954322,52.05438258866381],[5.67392097258693,52.05412256723154],[5.67580548147424,52.05377233247996],[5.6791633213143,52.05309707799474],[5.6838226263495,52.05126221016669],[5.68267236543091,52.04697198724909],[5.68100132991191,52.04820530740297],[5.67952130889056,52.04933399215265],[5.6780399336515,52.05026362831818],[5.67616546965674,52.05095889120661],[5.67446934528227,52.05146663177143],[5.6723129869236,52.05181797932277],[5.66695674513974,52.05168998842891]]]],"type":"MultiPolygon"}
+}

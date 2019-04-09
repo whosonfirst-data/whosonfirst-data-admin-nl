@@ -1,0 +1,82 @@
+{
+  "id": 1158821169,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19420001",
+    "cbsnl:BU_NAAM":"Raadhuisplein",
+    "cbsnl:GM_CODE":"GM1942",
+    "cbsnl:GM_NAAM":"Gooise Meren",
+    "cbsnl:IND_WBI":"2",
+    "cbsnl:OAD":"2900",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK194200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":201757.27465,
+    "geom:bbox":"5.15779172811,52.2753971963,5.16620391068,52.2803371406",
+    "geom:latitude":52.277855,
+    "geom:longitude":5.161913,
+    "iso:country":"NL",
+    "lbl:latitude":52.277842,
+    "lbl:longitude":5.161832,
+    "mps:latitude":52.277842,
+    "mps:longitude":5.161832,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Raadhuisplein"
+    ],
+    "name:nld_x_preferred":[
+        "Raadhuisplein"
+    ],
+    "reversegeo:latitude":52.277842,
+    "reversegeo:longitude":5.161832,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823103,
+        1158818281,
+        85633337,
+        101753097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6d18b26fba2043d8bfb729b4081a0c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158818281,
+            "locality_id":101753097,
+            "macrohood_id":1158823103,
+            "neighbourhood_id":1158821169,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158821169,
+    "wof:lastmodified":1513464284,
+    "wof:name":"Raadhuisplein",
+    "wof:parent_id":1158823103,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.157791728105147,
+    52.27539719626419,
+    5.166203910683856,
+    52.28033714055231
+],
+  "geometry": {"coordinates":[[[[5.16311780357596,52.28006177077066],[5.16466833911166,52.28033714055231],[5.16506522454515,52.27976884823588],[5.1645886854472,52.27927896274234],[5.16603375941178,52.27686143943855],[5.16620391068386,52.27680670745801],[5.1654821975392,52.27640736578941],[5.16504870913637,52.27633549342349],[5.16426127472857,52.27617138889715],[5.16343491106265,52.27614735893381],[5.162736009868,52.27618002119642],[5.16226976642638,52.27593112877902],[5.15933334079878,52.27539719626419],[5.15806021585479,52.27846405735521],[5.15779172810515,52.2791151494427],[5.16311780357596,52.28006177077066]]]],"type":"MultiPolygon"}
+}

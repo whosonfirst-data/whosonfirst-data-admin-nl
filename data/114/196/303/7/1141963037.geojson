@@ -1,0 +1,82 @@
+{
+  "id": 1141963037,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02280401",
+    "cbsnl:BU_NAAM":"De Bergen",
+    "cbsnl:GM_CODE":"GM0228",
+    "cbsnl:GM_NAAM":"Ede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1199",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022804",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":247559.701309,
+    "geom:bbox":"5.63983727577,52.0496000917,5.64990417683,52.0543958149",
+    "geom:latitude":52.052186,
+    "geom:longitude":5.645198,
+    "iso:country":"NL",
+    "lbl:latitude":52.052175,
+    "lbl:longitude":5.645198,
+    "mps:latitude":52.052175,
+    "mps:longitude":5.645198,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Bergen"
+    ],
+    "name:nld_x_preferred":[
+        "De Bergen"
+    ],
+    "reversegeo:latitude":52.052175,
+    "reversegeo:longitude":5.645198,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158784003,
+        404473893,
+        85633337,
+        101751855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6519291cc9baf89c1921e43a0985dbe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473893,
+            "locality_id":101751855,
+            "macrohood_id":1158784003,
+            "neighbourhood_id":1141963037,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963037,
+    "wof:lastmodified":1513368719,
+    "wof:name":"De Bergen",
+    "wof:parent_id":1158784003,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.639837275774571,
+    52.0496000916997,
+    5.649904176832489,
+    52.05439581491402
+],
+  "geometry": {"coordinates":[[[[5.64978861291632,52.0506126180852],[5.64769793892829,52.050642745605],[5.64545511909663,52.05043005020663],[5.64437659486532,52.05010595400512],[5.64253608856778,52.04963693313924],[5.64239152470203,52.0496000916997],[5.64180889931541,52.05046114424059],[5.64106694031339,52.05155761159503],[5.64039054025537,52.05263185387583],[5.63983727577457,52.05357759137395],[5.648330386246,52.05424352110632],[5.64924072360105,52.05439581491402],[5.6493404696735,52.0540111528043],[5.64946347744037,52.05348893932706],[5.64955105346255,52.05304341870642],[5.64966241438689,52.05239320342085],[5.64974873771384,52.05204044336891],[5.64982043249484,52.05185345627157],[5.6498872407445,52.05172073241732],[5.64990417683249,52.05148906346289],[5.64985329513864,52.0510965200445],[5.64978861291632,52.0506126180852]]]],"type":"MultiPolygon"}
+}

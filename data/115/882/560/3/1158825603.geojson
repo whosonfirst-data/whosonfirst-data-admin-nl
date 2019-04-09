@@ -1,0 +1,80 @@
+{
+  "id": 1158825603,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050103",
+    "cbsnl:BU_NAAM":"Wijnstraat en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3257",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050501",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":77561.256456,
+    "geom:bbox":"4.66542935649,51.817066698,4.67137610792,51.8208455233",
+    "geom:latitude":51.818838,
+    "geom:longitude":4.668758,
+    "iso:country":"NL",
+    "lbl:latitude":51.818234,
+    "lbl:longitude":4.668465,
+    "mps:latitude":51.818234,
+    "mps:longitude":4.668465,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Wijnstraat en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Wijnstraat en omgeving"
+    ],
+    "reversegeo:latitude":51.818234,
+    "reversegeo:longitude":4.668465,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829543,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4a2ac8f4d1accc39758cffb69a3558d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829543,
+            "neighbourhood_id":1158825603,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825603,
+    "wof:lastmodified":1513588005,
+    "wof:name":"Wijnstraat en omgeving",
+    "wof:parent_id":1158829543,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.66542935649102,
+    51.817066697964776,
+    4.67137610791675,
+    51.82084552325495
+],
+  "geometry": {"coordinates":[[[[4.66839204650315,51.82054656344759],[4.66913031372232,51.8206840736626],[4.67042918176289,51.82082145020936],[4.67137610791675,51.82084552325495],[4.6706155924987,51.81904297451077],[4.66917499293902,51.81767716100157],[4.66883642633176,51.81719455456984],[4.66882130830886,51.81710575321356],[4.66813318688556,51.81720369526229],[4.66809054233703,51.81706669796478],[4.6665437144354,51.81719035007701],[4.66542935649102,51.81754038812856],[4.66542967449809,51.81761291119297],[4.66748761513744,51.81880417097571],[4.66884928826547,51.8195109956191],[4.66839204650315,51.82054656344759]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158828125,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17830403",
+    "cbsnl:BU_NAAM":"V/d kasteelewijk",
+    "cbsnl:GM_CODE":"GM1783",
+    "cbsnl:GM_NAAM":"Westland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2216",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK178304",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":206862.547359,
+    "geom:bbox":"4.16321570245,52.0005596297,4.17145268976,52.0058500754",
+    "geom:latitude":52.003129,
+    "geom:longitude":4.16718,
+    "iso:country":"NL",
+    "lbl:latitude":52.003225,
+    "lbl:longitude":4.167101,
+    "mps:latitude":52.003225,
+    "mps:longitude":4.167101,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "V/d kasteelewijk"
+    ],
+    "name:nld_x_preferred":[
+        "V/d kasteelewijk"
+    ],
+    "reversegeo:latitude":52.003225,
+    "reversegeo:longitude":4.167101,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
+        85633337,
+        101808481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b95c233afe54b036fc5f53cada1af556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474667,
+            "locality_id":101808481,
+            "neighbourhood_id":1158828125,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828125,
+    "wof:lastmodified":1513588201,
+    "wof:name":"V/d kasteelewijk",
+    "wof:parent_id":101808481,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.163215702453575,
+    52.000559629713116,
+    4.171452689758152,
+    52.0058500754069
+],
+  "geometry": {"coordinates":[[[[4.16365462134434,52.0045484227685],[4.16703838820616,52.00544636827434],[4.16711733628935,52.00534313707434],[4.16897798128425,52.0058500754069],[4.17025147039938,52.00408336906596],[4.17061373272063,52.00348587345511],[4.17111861265707,52.00265312452704],[4.17145268975815,52.00210207593934],[4.17052926599969,52.00179929078674],[4.16457724138483,52.00055962971312],[4.1642303328736,52.00109160762991],[4.16405085138887,52.00136683258368],[4.163617422219,52.00213702514269],[4.16321570245358,52.00278688584007],[4.16461209719627,52.00316325148344],[4.16365462134434,52.0045484227685]]]],"type":"MultiPolygon"}
+}

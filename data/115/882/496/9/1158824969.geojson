@@ -1,0 +1,80 @@
+{
+  "id": 1158824969,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04844503",
+    "cbsnl:BU_NAAM":"Aarlanderveen Dorp",
+    "cbsnl:GM_CODE":"GM0484",
+    "cbsnl:GM_NAAM":"Alphen aan den Rijn",
+    "cbsnl:IND_WBI":"2",
+    "cbsnl:OAD":"119",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK048445",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:area_square_m":469168.447072,
+    "geom:bbox":"4.71892691167,52.1336776769,4.7315561421,52.1438247588",
+    "geom:latitude":52.138435,
+    "geom:longitude":4.72557,
+    "iso:country":"NL",
+    "lbl:latitude":52.138342,
+    "lbl:longitude":4.725666,
+    "mps:latitude":52.138342,
+    "mps:longitude":4.725666,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Aarlanderveen Dorp"
+    ],
+    "name:nld_x_preferred":[
+        "Aarlanderveen Dorp"
+    ],
+    "reversegeo:latitude":52.138342,
+    "reversegeo:longitude":4.725666,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474147,
+        85633337,
+        101807017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"97236389121fbc7c2de0e20eadc6b818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474147,
+            "locality_id":101807017,
+            "neighbourhood_id":1158824969,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158824969,
+    "wof:lastmodified":1513587957,
+    "wof:name":"Aarlanderveen Dorp",
+    "wof:parent_id":101807017,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.718926911666169,
+    52.13367767690696,
+    4.731556142103586,
+    52.14382475883444
+],
+  "geometry": {"coordinates":[[[[4.72844427775643,52.14382475883444],[4.72859658522338,52.14338504359462],[4.72891131749618,52.14295622020896],[4.72921439718472,52.14251273447357],[4.72960403735416,52.14178629102382],[4.72967519538275,52.14165362615515],[4.73012691372147,52.14136463769274],[4.73048243197726,52.14090506460338],[4.73090796683732,52.14026219287555],[4.73114949392224,52.13949833085746],[4.73155614210359,52.13864323732415],[4.73130445596756,52.13858037275345],[4.73063242950596,52.13814319043363],[4.73041859060569,52.13832441386384],[4.72994095941042,52.138036490737],[4.72972786742656,52.13786874476859],[4.72440456629501,52.13367767690696],[4.71990869731127,52.13583970429199],[4.71892691166617,52.13696470760389],[4.72662577207496,52.14273259658481],[4.72724584672832,52.14319706006616],[4.7275363654314,52.14326115645946],[4.72844427775643,52.14382475883444]]]],"type":"MultiPolygon"}
+}

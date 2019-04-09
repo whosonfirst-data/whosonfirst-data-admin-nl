@@ -1,0 +1,80 @@
+{
+  "id": 1158825637,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050300",
+    "cbsnl:BU_NAAM":"Zuidendijk",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2817",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050503",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":92727.055047,
+    "geom:bbox":"4.64985559261,51.794897901,4.65918343438,51.8016893401",
+    "geom:latitude":51.798141,
+    "geom:longitude":4.654486,
+    "iso:country":"NL",
+    "lbl:latitude":51.798164,
+    "lbl:longitude":4.654486,
+    "mps:latitude":51.798164,
+    "mps:longitude":4.654486,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zuidendijk"
+    ],
+    "name:nld_x_preferred":[
+        "Zuidendijk"
+    ],
+    "reversegeo:latitude":51.798164,
+    "reversegeo:longitude":4.654486,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829427,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a7434e80cae24e70cf005bbca0fb17c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829427,
+            "neighbourhood_id":1158825637,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825637,
+    "wof:lastmodified":1513588007,
+    "wof:name":"Zuidendijk",
+    "wof:parent_id":1158829427,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.649855592613125,
+    51.79489790097487,
+    4.659183434384653,
+    51.80168934009723
+],
+  "geometry": {"coordinates":[[[[4.64989134531897,51.80168934009723],[4.65066430868333,51.80164347156037],[4.65200348230191,51.80107864263781],[4.6540540151666,51.79938891491086],[4.65522030715232,51.79842776305174],[4.65539068300332,51.79777976076874],[4.65555251859957,51.79763656407294],[4.65590429926915,51.79747056968746],[4.6562820371617,51.7974095802155],[4.65639709510291,51.79737226559904],[4.65667119155909,51.79721377631087],[4.65782736809762,51.79609936793672],[4.65783401977165,51.79596050738296],[4.65883434327648,51.79514425568016],[4.65918343438465,51.79504147013449],[4.65818003376848,51.79489790097487],[4.6573523894726,51.79498826883565],[4.65694013575283,51.79516884832091],[4.6560649044869,51.79572888566577],[4.65323762797263,51.79853246343635],[4.6513649757238,51.80018237670185],[4.64985559261313,51.80139314433913],[4.64989134531897,51.80168934009723]]]],"type":"MultiPolygon"}
+}

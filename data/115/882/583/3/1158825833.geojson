@@ -1,0 +1,80 @@
+{
+  "id": 1158825833,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05051112",
+    "cbsnl:BU_NAAM":"Bildersteeg en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"-99999999",
+    "cbsnl:STED":"-99999999",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050511",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000019,
+    "geom:area_square_m":143405.93751,
+    "geom:bbox":"4.73420949615,51.7942209764,4.73964175973,51.8031842966",
+    "geom:latitude":51.798154,
+    "geom:longitude":4.737553,
+    "iso:country":"NL",
+    "lbl:latitude":51.798037,
+    "lbl:longitude":4.737964,
+    "mps:latitude":51.798037,
+    "mps:longitude":4.737964,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bildersteeg en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Bildersteeg en omgeving"
+    ],
+    "reversegeo:latitude":51.798037,
+    "reversegeo:longitude":4.737964,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829601,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b99a72e81be81b23095daf5451cec36d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829601,
+            "neighbourhood_id":1158825833,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825833,
+    "wof:lastmodified":1513588020,
+    "wof:name":"Bildersteeg en omgeving",
+    "wof:parent_id":1158829601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.734209496146717,
+    51.794220976408184,
+    4.739641759727037,
+    51.8031842966175
+],
+  "geometry": {"coordinates":[[[[4.7392276833526,51.8031842966175],[4.73925166382939,51.80311127188873],[4.73927264611782,51.80281342049044],[4.73935103015692,51.80161968103357],[4.73964175972704,51.7970091102809],[4.73754249578262,51.79615997298451],[4.73720931261748,51.79597635564588],[4.73587217511376,51.795034768414],[4.73476145010826,51.79422097640818],[4.73420949614672,51.79429528345073],[4.73483307486701,51.79550098003288],[4.73481155466104,51.79583449179026],[4.73593771516093,51.79776661258058],[4.73861078765682,51.8023291684131],[4.73878562184921,51.80243022483266],[4.73902121601788,51.80247706491993],[4.7392276833526,51.8031842966175]]]],"type":"MultiPolygon"}
+}

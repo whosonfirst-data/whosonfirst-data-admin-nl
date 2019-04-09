@@ -1,0 +1,80 @@
+{
+  "id": 1141962773,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02220303",
+    "cbsnl:BU_NAAM":"Sch\u00f6neveld-Noord",
+    "cbsnl:GM_CODE":"GM0222",
+    "cbsnl:GM_NAAM":"Doetinchem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1499",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":390557.639787,
+    "geom:bbox":"6.30136689869,51.9622298164,6.31766617708,51.9677069576",
+    "geom:latitude":51.964822,
+    "geom:longitude":6.308459,
+    "iso:country":"NL",
+    "lbl:latitude":51.964811,
+    "lbl:longitude":6.308459,
+    "mps:latitude":51.964811,
+    "mps:longitude":6.308459,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schoneveld-Noord"
+    ],
+    "name:nld_x_preferred":[
+        "Schoneveld-Noord"
+    ],
+    "reversegeo:latitude":51.964811,
+    "reversegeo:longitude":6.308459,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473885,
+        85633337,
+        101808663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f4477820dc7f95770c810a2b67794194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473885,
+            "locality_id":101808663,
+            "neighbourhood_id":1141962773,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962773,
+    "wof:lastmodified":1513368699,
+    "wof:name":"Schoneveld-Noord",
+    "wof:parent_id":101808663,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.301366898692169,
+    51.96222981636453,
+    6.317666177084928,
+    51.96770695764494
+],
+  "geometry": {"coordinates":[[[[6.31766617708493,51.96763236889143],[6.31542397005087,51.96553736066841],[6.31283522914737,51.9631509967477],[6.31185295404861,51.96222981636453],[6.31060723886234,51.96270448601158],[6.31009210641472,51.96282545062517],[6.3099627615912,51.96270387955181],[6.30973531547104,51.96277376102935],[6.30682179870602,51.96275433103249],[6.30654445588502,51.96276892249055],[6.30166941710432,51.96271386717815],[6.30166047765108,51.9640876374386],[6.30163596167111,51.96487771803145],[6.30157754753265,51.96546080823917],[6.30136689869217,51.96613350573209],[6.3024278183146,51.96626010984365],[6.30657536252383,51.96658202506328],[6.30891589229125,51.96692430635144],[6.3098964803143,51.96690073948842],[6.31139243844862,51.96672898679637],[6.31334655998943,51.96653983993226],[6.31433154207751,51.96656345354765],[6.31526709459115,51.9667682605675],[6.31612907260532,51.96715553321054],[6.31691811420606,51.96770695764494],[6.31766617708493,51.96763236889143]]]],"type":"MultiPolygon"}
+}

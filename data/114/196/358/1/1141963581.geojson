@@ -1,0 +1,80 @@
+{
+  "id": 1141963581,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02620000",
+    "cbsnl:BU_NAAM":"Vesting",
+    "cbsnl:GM_CODE":"GM0262",
+    "cbsnl:GM_NAAM":"Lochem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1296",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK026200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":128082.969398,
+    "geom:bbox":"6.41163258999,52.1597123773,6.41896037451,52.1628749994",
+    "geom:latitude":52.161434,
+    "geom:longitude":6.415327,
+    "iso:country":"NL",
+    "lbl:latitude":52.161444,
+    "lbl:longitude":6.415327,
+    "mps:latitude":52.161444,
+    "mps:longitude":6.415327,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vesting"
+    ],
+    "name:nld_x_preferred":[
+        "Vesting"
+    ],
+    "reversegeo:latitude":52.161444,
+    "reversegeo:longitude":6.415327,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473915,
+        85633337,
+        101807065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5676621342ff2d9173fb23809fe59dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473915,
+            "locality_id":101807065,
+            "neighbourhood_id":1141963581,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963581,
+    "wof:lastmodified":1513368756,
+    "wof:name":"Vesting",
+    "wof:parent_id":101807065,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.411632589990482,
+    52.159712377287185,
+    6.418960374506093,
+    52.16287499943412
+],
+  "geometry": {"coordinates":[[[[6.41175015682531,52.16226421263576],[6.41213857935774,52.16272483026945],[6.41273261157957,52.16287499943412],[6.41396732328092,52.1628597630684],[6.4159925257901,52.16270925424283],[6.41762582932199,52.16254921285391],[6.4182785956548,52.16214716880991],[6.41896037450609,52.16122269020941],[6.41808274931796,52.15986859860573],[6.41721981557064,52.15971237728719],[6.41658445434195,52.15985809017143],[6.41568739305752,52.16006366434826],[6.41288134996631,52.16057348196979],[6.41201575001112,52.16093717750178],[6.41163258999048,52.16149582907694],[6.41166596419167,52.1618750247861],[6.41169533303026,52.16219919824146],[6.41175015682531,52.16226421263576]]]],"type":"MultiPolygon"}
+}

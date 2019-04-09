@@ -1,0 +1,80 @@
+{
+  "id": 1158799251,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08560114",
+    "cbsnl:BU_NAAM":"Vluchtoord",
+    "cbsnl:GM_CODE":"GM0856",
+    "cbsnl:GM_NAAM":"Uden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"345",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK085601",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":335704.908413,
+    "geom:bbox":"5.64169381451,51.6712686658,5.65314633919,51.6787705358",
+    "geom:latitude":51.67458,
+    "geom:longitude":5.646234,
+    "iso:country":"NL",
+    "lbl:latitude":51.674486,
+    "lbl:longitude":5.645183,
+    "mps:latitude":51.674486,
+    "mps:longitude":5.645183,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vluchtoord"
+    ],
+    "name:nld_x_preferred":[
+        "Vluchtoord"
+    ],
+    "reversegeo:latitude":51.674486,
+    "reversegeo:longitude":5.645183,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474437,
+        85633337,
+        101839391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"bc07143a228846275b2aef0d8345a978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474437,
+            "locality_id":101839391,
+            "neighbourhood_id":1158799251,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799251,
+    "wof:lastmodified":1513432734,
+    "wof:name":"Vluchtoord",
+    "wof:parent_id":101839391,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.641693814513282,
+    51.6712686658244,
+    5.65314633919333,
+    51.67877053578307
+],
+  "geometry": {"coordinates":[[[[5.64169381451328,51.67674730270495],[5.64504467109543,51.67877053578307],[5.64529609871823,51.67864919684395],[5.64630800262702,51.67802422356547],[5.64565851291376,51.67751134621731],[5.64876633741496,51.6755581398814],[5.6487365915033,51.67552997507461],[5.64954428558029,51.67522621288371],[5.65001349503253,51.67556845613532],[5.65314633919333,51.67381848517994],[5.65242120972323,51.67329198197285],[5.65107350798083,51.67291477026145],[5.65105789731198,51.67285474611357],[5.64439870235223,51.67168645640703],[5.64440258004127,51.67149431766278],[5.64252199682571,51.6712686658244],[5.64245090259773,51.67138355440908],[5.64248800867138,51.67197174328146],[5.64257299473201,51.67386543042706],[5.64250365194694,51.67474322839197],[5.64235949541768,51.67552880775852],[5.64214051239545,51.67622216500308],[5.64169381451328,51.67674730270495]]]],"type":"MultiPolygon"}
+}

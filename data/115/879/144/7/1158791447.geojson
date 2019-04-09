@@ -1,0 +1,80 @@
+{
+  "id": 1158791447,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16900500",
+    "cbsnl:BU_NAAM":"Fort",
+    "cbsnl:GM_CODE":"GM1690",
+    "cbsnl:GM_NAAM":"De Wolden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"39",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK169005",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":307085.79866,
+    "geom:bbox":"6.37782443398,52.6465107194,6.39187690664,52.6565913885",
+    "geom:latitude":52.65103,
+    "geom:longitude":6.385525,
+    "iso:country":"NL",
+    "lbl:latitude":52.650108,
+    "lbl:longitude":6.386001,
+    "mps:latitude":52.650108,
+    "mps:longitude":6.386001,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Fort"
+    ],
+    "name:nld_x_preferred":[
+        "Fort"
+    ],
+    "reversegeo:latitude":52.650108,
+    "reversegeo:longitude":6.386001,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474601,
+        85633337,
+        1158792127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ad8b9c175f5b130b7a6e0592723e67b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474601,
+            "locality_id":1158792127,
+            "neighbourhood_id":1158791447,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791447,
+    "wof:lastmodified":1513292340,
+    "wof:name":"Fort",
+    "wof:parent_id":1158792127,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.377824433975006,
+    52.64651071943077,
+    6.391876906637238,
+    52.656591388503216
+],
+  "geometry": {"coordinates":[[[[6.38719664048457,52.64845104605353],[6.38535903900643,52.6477991504503],[6.38370244934935,52.64981550288525],[6.38402273384187,52.64991521496381],[6.38250044816124,52.65125914796516],[6.38384355296889,52.65166419350465],[6.38314642142356,52.65221405372514],[6.38047899550688,52.65358732063984],[6.37782443397501,52.65475988243931],[6.38031478190971,52.65659138850322],[6.38270943369461,52.6552383892817],[6.38144606079271,52.65433138456425],[6.38697184507905,52.65173171906818],[6.38871461063187,52.65193808855989],[6.39187690663724,52.64772233245471],[6.38850618864851,52.64652761760942],[6.38841160348683,52.64651071943077],[6.38829580392384,52.64717453154879],[6.38781394443853,52.64736732876894],[6.38719664048457,52.64845104605353]]]],"type":"MultiPolygon"}
+}

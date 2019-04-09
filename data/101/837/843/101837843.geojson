@@ -1,0 +1,104 @@
+{
+  "id": 101837843,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17080013",
+    "cbsnl:BU_NAAM":"Tuk",
+    "cbsnl:GM_CODE":"GM1708",
+    "cbsnl:GM_NAAM":"Steenwijkerland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"324",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170800",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:area_square_m":724558.09848,
+    "geom:bbox":"6.08826339726,52.7902047711,6.10224420765,52.8010378326",
+    "geom:latitude":52.796097,
+    "geom:longitude":6.094966,
+    "gn:population":1490,
+    "iso:country":"NL",
+    "lbl:latitude":52.786121,
+    "lbl:longitude":6.097043,
+    "mps:latitude":52.796504,
+    "mps:longitude":6.094966,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:eng_x_preferred":[
+        "Tuk"
+    ],
+    "name:nld_x_preferred":[
+        "Tuk"
+    ],
+    "qs:a0":"Nederland",
+    "qs:a1":"*Overijssel",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la":"Steenwijkerland",
+    "qs:la_lc":"*NL231708",
+    "qs:level":"locality",
+    "qs:loc":"Tuk",
+    "qs:loc_alt":"Tuk",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "reversegeo:latitude":52.796504,
+    "reversegeo:longitude":6.094966,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        404474621,
+        85633337,
+        85687045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2746120,
+        "gp:id":733966,
+        "qs:id":218354,
+        "qs_pg:id":218354,
+        "tgn:id":7271938
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"ff27c6b073d79a59247fa6975fd1b1f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474621,
+            "locality_id":101837843,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":101837843,
+    "wof:lastmodified":1513523526,
+    "wof:name":"Tuk",
+    "wof:parent_id":404474621,
+    "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "neighbourhood"
+    ],
+    "wof:population":1490,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.088263397259044,
+    52.79020477108077,
+    6.10224420765024,
+    52.80103783260029
+],
+  "geometry": {"coordinates":[[[[6.09591844272064,52.80103783260029],[6.10224420765024,52.79629648436576],[6.09961036461663,52.79525460748232],[6.10046766786141,52.79449681880853],[6.10015090919265,52.79412182198772],[6.10137964273705,52.79328653722008],[6.09988053966516,52.79276809113264],[6.10073081506838,52.79159637763082],[6.09892263884554,52.79115503619204],[6.09755046392478,52.79078689525747],[6.09674245246575,52.79075407601867],[6.09587259881444,52.79072162136745],[6.09543664272135,52.79064894772386],[6.09421446378037,52.79021415831856],[6.09418744462411,52.79020477108077],[6.09237310118747,52.79322728595615],[6.08826339725904,52.79645146089272],[6.08907461603623,52.8005503567654],[6.09044762750196,52.80095622436056],[6.0956029203911,52.80092568780199],[6.09591844272064,52.80103783260029]]]],"type":"MultiPolygon"}
+}

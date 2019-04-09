@@ -1,0 +1,80 @@
+{
+  "id": 1158803261,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01800100",
+    "cbsnl:BU_NAAM":"Rouveen kern",
+    "cbsnl:GM_CODE":"GM0180",
+    "cbsnl:GM_NAAM":"Staphorst",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"206",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK018001",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":374773.807117,
+    "geom:bbox":"6.17468034018,52.6120426249,6.18962349116,52.6196422803",
+    "geom:latitude":52.615673,
+    "geom:longitude":6.180956,
+    "iso:country":"NL",
+    "lbl:latitude":52.615572,
+    "lbl:longitude":6.180954,
+    "mps:latitude":52.615572,
+    "mps:longitude":6.180954,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Rouveen kern"
+    ],
+    "name:nld_x_preferred":[
+        "Rouveen kern"
+    ],
+    "reversegeo:latitude":52.615572,
+    "reversegeo:longitude":6.180954,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473853,
+        85633337,
+        101837857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"77de4ecee3b3780a2aac921f03e22f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473853,
+            "locality_id":101837857,
+            "neighbourhood_id":1158803261,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803261,
+    "wof:lastmodified":1513524327,
+    "wof:name":"Rouveen kern",
+    "wof:parent_id":101837857,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.174680340175843,
+    52.6120426248988,
+    6.189623491158845,
+    52.61964228033579
+],
+  "geometry": {"coordinates":[[[[6.17488287046738,52.61964228033579],[6.1753985340402,52.61949871196434],[6.18311544201318,52.61694426002411],[6.18387417235403,52.61668303201115],[6.1853916107942,52.61617320169043],[6.18774530453266,52.61527996355507],[6.18672488832388,52.61478634455487],[6.18840585663675,52.61344319019465],[6.18962349115885,52.61236630346136],[6.18946283396776,52.612379954754],[6.18943936111358,52.6120426248988],[6.18826903098435,52.61236721244322],[6.18599542703619,52.61297459472606],[6.18394769141726,52.61356664821974],[6.18331314392915,52.61350205848213],[6.18333576193844,52.61350190690872],[6.18258091176324,52.61303881292704],[6.18026245315152,52.61367392355144],[6.17834858124931,52.61416860253163],[6.17835684256584,52.61417727605964],[6.17535291244219,52.61492280620201],[6.17522357936533,52.61574564767174],[6.17494362411453,52.61751915578379],[6.17468034017584,52.61938748068488],[6.17488287046738,52.61964228033579]]]],"type":"MultiPolygon"}
+}

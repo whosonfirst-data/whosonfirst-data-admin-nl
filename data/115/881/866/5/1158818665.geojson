@@ -1,0 +1,82 @@
+{
+  "id": 1158818665,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03750201",
+    "cbsnl:BU_NAAM":"Oud Sportpark",
+    "cbsnl:GM_CODE":"GM0375",
+    "cbsnl:GM_NAAM":"Beverwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2584",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK037502",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":77566.987718,
+    "geom:bbox":"4.66253356611,52.4811615827,4.66744501503,52.4856082289",
+    "geom:latitude":52.483266,
+    "geom:longitude":4.664617,
+    "iso:country":"NL",
+    "lbl:latitude":52.482807,
+    "lbl:longitude":4.665064,
+    "mps:latitude":52.482807,
+    "mps:longitude":4.665064,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oud Sportpark"
+    ],
+    "name:nld_x_preferred":[
+        "Oud Sportpark"
+    ],
+    "reversegeo:latitude":52.482807,
+    "reversegeo:longitude":4.665064,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823149,
+        404474043,
+        85633337,
+        101754793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"64d5798f9b5bfcfa264c6c1cfc33cbd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474043,
+            "locality_id":101754793,
+            "macrohood_id":1158823149,
+            "neighbourhood_id":1158818665,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818665,
+    "wof:lastmodified":1513464085,
+    "wof:name":"Oud Sportpark",
+    "wof:parent_id":1158823149,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.662533566112421,
+    52.48116158270995,
+    4.667445015025879,
+    52.48560822887426
+],
+  "geometry": {"coordinates":[[[[4.66368946529405,52.48560822887426],[4.66494637387145,52.48551674496299],[4.66528038291117,52.48516460897239],[4.66534418173693,52.48477234769266],[4.66471075682585,52.48443679038684],[4.66744501502588,52.48242220309048],[4.66357301061814,52.48118530599741],[4.66350565960829,52.48116158270995],[4.66260416003127,52.48236660622833],[4.66415162566792,52.48315994425778],[4.66408134046923,52.48321404900425],[4.66437713680636,52.48349989124051],[4.66253356611242,52.48475967512128],[4.66360529281565,52.48550857077416],[4.66368918271867,52.48559727508261],[4.66368946529405,52.48560822887426]]]],"type":"MultiPolygon"}
+}

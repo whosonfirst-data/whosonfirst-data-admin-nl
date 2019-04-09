@@ -1,0 +1,80 @@
+{
+  "id": 1158788427,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03450403",
+    "cbsnl:BU_NAAM":"De Gelderse blom",
+    "cbsnl:GM_CODE":"GM0345",
+    "cbsnl:GM_NAAM":"Veenendaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2043",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK034504",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:area_square_m":232545.564008,
+    "geom:bbox":"5.55277329143,52.0350169443,5.56537259576,52.0384413827",
+    "geom:latitude":52.036494,
+    "geom:longitude":5.558464,
+    "iso:country":"NL",
+    "lbl:latitude":52.036436,
+    "lbl:longitude":5.558464,
+    "mps:latitude":52.036436,
+    "mps:longitude":5.558464,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Gelderse blom"
+    ],
+    "name:nld_x_preferred":[
+        "De Gelderse blom"
+    ],
+    "reversegeo:latitude":52.036436,
+    "reversegeo:longitude":5.558464,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158790341,
+        85633337,
+        101751829,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f0148222e33c16cca5dd6b7f16c40880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751829,
+            "macrohood_id":1158790341,
+            "neighbourhood_id":1158788427,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788427,
+    "wof:lastmodified":1513622008,
+    "wof:name":"De Gelderse blom",
+    "wof:parent_id":1158790341,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.552773291428767,
+    52.03501694430916,
+    5.565372595764852,
+    52.038441382732515
+],
+  "geometry": {"coordinates":[[[[5.55400160700513,52.03844138273251],[5.55544495418423,52.03839931789952],[5.55729975680245,52.03815571637708],[5.55835296611627,52.03773255644813],[5.55979859131785,52.0377665853708],[5.56147787034572,52.03760750204459],[5.56253206673197,52.03744933028942],[5.56331165236992,52.03700243819126],[5.56428712218774,52.03669980871434],[5.56516592027814,52.03665029531999],[5.56537259576485,52.03664148313864],[5.5648528205499,52.03599419541371],[5.56484914000271,52.03599447965652],[5.56406678331497,52.03501694430916],[5.56199534612539,52.03506489130768],[5.5592218789147,52.03510511954406],[5.55744470246155,52.0351799853256],[5.55486655375445,52.03521982974565],[5.55284734496047,52.03533195250073],[5.55277329142877,52.03548639520527],[5.55280166066851,52.03558000580925],[5.55340335206696,52.03756541226803],[5.55395319880576,52.03820981159462],[5.55400160700513,52.03844138273251]]]],"type":"MultiPolygon"}
+}

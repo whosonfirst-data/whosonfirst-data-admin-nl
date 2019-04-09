@@ -1,0 +1,80 @@
+{
+  "id": 1158798385,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08230100",
+    "cbsnl:BU_NAAM":"Spoordonk",
+    "cbsnl:GM_CODE":"GM0823",
+    "cbsnl:GM_NAAM":"Oirschot",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"129",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":224650.892259,
+    "geom:bbox":"5.26573983165,51.5153909342,5.27526641477,51.5205940364",
+    "geom:latitude":51.518143,
+    "geom:longitude":5.270668,
+    "iso:country":"NL",
+    "lbl:latitude":51.518101,
+    "lbl:longitude":5.270668,
+    "mps:latitude":51.518101,
+    "mps:longitude":5.270668,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Spoordonk"
+    ],
+    "name:nld_x_preferred":[
+        "Spoordonk"
+    ],
+    "reversegeo:latitude":51.518101,
+    "reversegeo:longitude":5.270668,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474407,
+        85633337,
+        1158801563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1209081c939774fbc93f447c88e162a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474407,
+            "locality_id":1158801563,
+            "neighbourhood_id":1158798385,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798385,
+    "wof:lastmodified":1513432672,
+    "wof:name":"Spoordonk",
+    "wof:parent_id":1158801563,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.265739831652585,
+    51.51539093421153,
+    5.275266414773433,
+    51.520594036385596
+],
+  "geometry": {"coordinates":[[[[5.26965846941608,51.51539093421153],[5.26836821190397,51.51572586324713],[5.26871417815235,51.51616553391423],[5.26888742432838,51.51663143196745],[5.26883752220688,51.51695047808903],[5.26868390736068,51.51733065531825],[5.26825635505569,51.51770043965938],[5.26771801379126,51.51808022371309],[5.26694752965727,51.51855835928568],[5.26573983165258,51.5192124385198],[5.26670576896564,51.5205940363856],[5.2691616886454,51.52033221918805],[5.27238295477787,51.5199121165784],[5.27526641477343,51.51796185019673],[5.27491029877089,51.51749859413709],[5.27481293324977,51.51718193155862],[5.27451509015288,51.51646339733473],[5.27439670785043,51.51599868197254],[5.27373999404972,51.51594130709926],[5.27311046086534,51.51590839125938],[5.27212459367811,51.51605124363385],[5.27065078870517,51.51606691832539],[5.26965846941608,51.51539093421153]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1141964507,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02990008",
+    "cbsnl:BU_NAAM":"Tatelaar",
+    "cbsnl:GM_CODE":"GM0299",
+    "cbsnl:GM_NAAM":"Zevenaar",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1242",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK029900",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":346086.343302,
+    "geom:bbox":"6.07959527346,51.9337244749,6.09071658951,51.9421793043",
+    "geom:latitude":51.937879,
+    "geom:longitude":6.084516,
+    "iso:country":"NL",
+    "lbl:latitude":51.938032,
+    "lbl:longitude":6.084432,
+    "mps:latitude":51.938032,
+    "mps:longitude":6.084432,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Tatelaar"
+    ],
+    "name:nld_x_preferred":[
+        "Tatelaar"
+    ],
+    "reversegeo:latitude":51.938032,
+    "reversegeo:longitude":6.084432,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473957,
+        85633337,
+        101809869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"dc660560717e9a0550b0bf95ef8c8db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473957,
+            "locality_id":101809869,
+            "neighbourhood_id":1141964507,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141964507,
+    "wof:lastmodified":1513368825,
+    "wof:name":"Tatelaar",
+    "wof:parent_id":101809869,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.079595273460079,
+    51.933724474857094,
+    6.09071658950793,
+    51.9421793043352
+],
+  "geometry": {"coordinates":[[[[6.08286437228671,51.9421793043352],[6.09071658950793,51.93845187305972],[6.08990829292955,51.9378068706121],[6.08972204651036,51.93778248933116],[6.08898514385135,51.93747345126145],[6.08708945702266,51.93642678161596],[6.08660874427045,51.93605999601679],[6.08618178450278,51.93564278315339],[6.08571864179911,51.93530141323695],[6.08546969833547,51.93515502038365],[6.08495950276764,51.93492809563635],[6.08441796148325,51.93461989729377],[6.08381123561778,51.93411362662893],[6.08336609747147,51.93372447485709],[6.08265954795637,51.93404097305687],[6.08208591522097,51.93439858930667],[6.08106002018117,51.93514963726021],[6.07959527346008,51.93581224818641],[6.08098945128425,51.93760027620239],[6.08143581632273,51.93864414269286],[6.08215617670422,51.94088729691055],[6.08265179271718,51.94183715839668],[6.0828333210428,51.94212932714356],[6.08286437228671,51.9421793043352]]]],"type":"MultiPolygon"}
+}

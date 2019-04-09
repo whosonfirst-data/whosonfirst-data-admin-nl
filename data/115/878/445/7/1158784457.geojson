@@ -1,0 +1,86 @@
+{
+  "id": 1158784457,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07030101",
+    "cbsnl:BU_NAAM":"Kruiningen - Zandweg",
+    "cbsnl:GM_CODE":"GM0703",
+    "cbsnl:GM_NAAM":"Reimerswaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"511",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK070301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":394504.689177,
+    "geom:bbox":"4.02314681996,51.4451458955,4.03470225445,51.4544717734",
+    "geom:latitude":51.449715,
+    "geom:longitude":4.028644,
+    "iso:country":"NL",
+    "lbl:latitude":51.451649,
+    "lbl:longitude":4.02825,
+    "mps:latitude":51.451649,
+    "mps:longitude":4.02825,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zandweg"
+    ],
+    "name:eng_x_variant":[
+        "Kruiningen - Zandweg"
+    ],
+    "name:nld_x_preferred":[
+        "Zandweg"
+    ],
+    "name:nld_x_variant":[
+        "Kruiningen - Zandweg"
+    ],
+    "reversegeo:latitude":51.451649,
+    "reversegeo:longitude":4.02825,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474323,
+        85633337,
+        101808383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"02343549f9328b285e80bccc3a618620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474323,
+            "locality_id":101808383,
+            "neighbourhood_id":1158784457,
+            "region_id":85687037
+        }
+    ],
+    "wof:id":1158784457,
+    "wof:lastmodified":1513628659,
+    "wof:name":"Zandweg",
+    "wof:parent_id":101808383,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.023146819962531,
+    51.445145895532164,
+    4.0347022544528,
+    51.45447177342655
+],
+  "geometry": {"coordinates":[[[[4.03149035626718,51.45385158262028],[4.03133570158538,51.4537110734556],[4.03047335372259,51.45266841787634],[4.03036279398742,51.4515561116819],[4.03120484150064,51.45042121358188],[4.03256179212879,51.4500890799177],[4.03071397416189,51.44881069977165],[4.03246432217905,51.44732723293959],[4.03334971468244,51.44714672798565],[4.0347022544528,51.44635440126712],[4.03403402941006,51.44587530997557],[4.03376344482751,51.445311051621],[4.03269856156673,51.44548947352369],[4.03155825046642,51.44514589553216],[4.02328118463601,51.44825109095781],[4.02586578980052,51.44862474993656],[4.02578181770279,51.44898571408658],[4.02664912140674,51.4490734482581],[4.02743577481031,51.44971829293235],[4.02314681996253,51.45177333906666],[4.02543109363488,51.4536359297112],[4.02677780193203,51.45447177342655],[4.02830608577334,51.45373282501619],[4.02878103637427,51.45412428498973],[4.03019808331846,51.45343256188694],[4.03037200163697,51.45335178868174],[4.03096506343099,51.45387487429321],[4.03149035626718,51.45385158262028]]]],"type":"MultiPolygon"}
+}

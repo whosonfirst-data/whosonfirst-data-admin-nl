@@ -1,0 +1,80 @@
+{
+  "id": 1158825617,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050109",
+    "cbsnl:BU_NAAM":"Augustijnenkamp en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3864",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050501",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":49379.548837,
+    "geom:bbox":"4.66875730553,51.8132698658,4.67361292713,51.8158958474",
+    "geom:latitude":51.814723,
+    "geom:longitude":4.67136,
+    "iso:country":"NL",
+    "lbl:latitude":51.814701,
+    "lbl:longitude":4.671397,
+    "mps:latitude":51.814701,
+    "mps:longitude":4.671397,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Augustijnenkamp en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Augustijnenkamp en omgeving"
+    ],
+    "reversegeo:latitude":51.814701,
+    "reversegeo:longitude":4.671397,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829543,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"fd735b36b8b0717deb46d22ab9c987fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829543,
+            "neighbourhood_id":1158825617,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825617,
+    "wof:lastmodified":1513588006,
+    "wof:name":"Augustijnenkamp en omgeving",
+    "wof:parent_id":1158829543,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.668757305527496,
+    51.81326986578158,
+    4.673612927125892,
+    51.815895847364196
+],
+  "geometry": {"coordinates":[[[[4.67361292712589,51.81490905848213],[4.67330784006381,51.8142625391035],[4.67220246280328,51.81326986578158],[4.67164528395198,51.81352532146202],[4.67096930822363,51.81389739934432],[4.67046156541205,51.81421577560674],[4.66950356965427,51.81487502886736],[4.6687573055275,51.81551132811053],[4.6691642965332,51.8156389142375],[4.66930128433729,51.81570855152708],[4.66935246075021,51.81583083159821],[4.6693181377191,51.81588368575763],[4.66938481746929,51.8158958473642],[4.67011571103458,51.81580827825201],[4.67242194367456,51.8152896840543],[4.67335203585079,51.81504684669346],[4.67361292712589,51.81490905848213]]]],"type":"MultiPolygon"}
+}

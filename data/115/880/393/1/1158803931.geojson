@@ -1,0 +1,80 @@
+{
+  "id": 1158803931,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17350900",
+    "cbsnl:BU_NAAM":"Bentelo kern",
+    "cbsnl:GM_CODE":"GM1735",
+    "cbsnl:GM_NAAM":"Hof van Twente",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"132",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK173509",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:area_square_m":593441.118745,
+    "geom:bbox":"6.67529382175,52.2198666375,6.68998608537,52.2296484943",
+    "geom:latitude":52.224286,
+    "geom:longitude":6.68275,
+    "iso:country":"NL",
+    "lbl:latitude":52.22341,
+    "lbl:longitude":6.68225,
+    "mps:latitude":52.22341,
+    "mps:longitude":6.68225,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bentelo kern"
+    ],
+    "name:nld_x_preferred":[
+        "Bentelo kern"
+    ],
+    "reversegeo:latitude":52.22341,
+    "reversegeo:longitude":6.68225,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474653,
+        85633337,
+        101856041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"28c682b7fabd0681b898002f3c171f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474653,
+            "locality_id":101856041,
+            "neighbourhood_id":1158803931,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803931,
+    "wof:lastmodified":1513524371,
+    "wof:name":"Bentelo kern",
+    "wof:parent_id":101856041,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.675293821749324,
+    52.21986663750643,
+    6.689986085371402,
+    52.22964849432613
+],
+  "geometry": {"coordinates":[[[[6.67941069713086,52.2199371666692],[6.67529382174932,52.22393835969824],[6.6777668536227,52.22583579849643],[6.68254898685016,52.22699326653943],[6.68160834559697,52.22832493853556],[6.68606335529749,52.22964849432613],[6.68757083292368,52.2277352601069],[6.68680794765333,52.22602342403913],[6.68959717625241,52.22580026934376],[6.68940968099314,52.22519194041634],[6.68947079360493,52.22492778236563],[6.6899860853714,52.2242327652564],[6.68880464125849,52.22327135162656],[6.68594977889162,52.22330110571336],[6.68471399332488,52.21986663750643],[6.67941069713086,52.2199371666692]]]],"type":"MultiPolygon"}
+}

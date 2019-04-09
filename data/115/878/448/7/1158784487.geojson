@@ -1,0 +1,86 @@
+{
+  "id": 1158784487,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07030402",
+    "cbsnl:BU_NAAM":"Rilland - Bath",
+    "cbsnl:GM_CODE":"GM0703",
+    "cbsnl:GM_NAAM":"Reimerswaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"24",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK070304",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":65782.441485,
+    "geom:bbox":"4.20739796296,51.4008434194,4.21290231914,51.403192821",
+    "geom:latitude":51.402024,
+    "geom:longitude":4.21021,
+    "iso:country":"NL",
+    "lbl:latitude":51.40214,
+    "lbl:longitude":4.210813,
+    "mps:latitude":51.40214,
+    "mps:longitude":4.210813,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bath"
+    ],
+    "name:eng_x_variant":[
+        "Rilland - Bath"
+    ],
+    "name:nld_x_preferred":[
+        "Bath"
+    ],
+    "name:nld_x_variant":[
+        "Rilland - Bath"
+    ],
+    "reversegeo:latitude":51.40214,
+    "reversegeo:longitude":4.210813,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474323,
+        85633337,
+        101809823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"eb362cab303a92a5bd426e6025480204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474323,
+            "locality_id":101809823,
+            "neighbourhood_id":1158784487,
+            "region_id":85687037
+        }
+    ],
+    "wof:id":1158784487,
+    "wof:lastmodified":1513628662,
+    "wof:name":"Bath",
+    "wof:parent_id":101809823,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.207397962964429,
+    51.400843419410904,
+    4.212902319144933,
+    51.4031928209978
+],
+  "geometry": {"coordinates":[[[[4.20829978971045,51.4008434194109],[4.20739796296443,51.40228076484104],[4.21011746916217,51.40290127739851],[4.20994522727055,51.4031928209978],[4.21196386827429,51.40313171640744],[4.21290231914493,51.40256977758614],[4.21189160118499,51.40122999117526],[4.20829978971045,51.4008434194109]]]],"type":"MultiPolygon"}
+}

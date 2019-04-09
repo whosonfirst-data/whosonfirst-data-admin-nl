@@ -1,0 +1,80 @@
+{
+  "id": 1158807473,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16690604",
+    "cbsnl:BU_NAAM":"Vlodrop Station",
+    "cbsnl:GM_CODE":"GM1669",
+    "cbsnl:GM_NAAM":"Roerdalen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"16",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK166906",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8148.228347,
+    "geom:bbox":"6.14823636412,51.1509846993,6.15238050496,51.1518050135",
+    "geom:latitude":51.151378,
+    "geom:longitude":6.149915,
+    "iso:country":"NL",
+    "lbl:latitude":51.151372,
+    "lbl:longitude":6.149915,
+    "mps:latitude":51.151372,
+    "mps:longitude":6.149915,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vlodrop Station"
+    ],
+    "name:nld_x_preferred":[
+        "Vlodrop Station"
+    ],
+    "reversegeo:latitude":51.151372,
+    "reversegeo:longitude":6.149915,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474581,
+        85633337,
+        101809599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1ae58a777faba28f4359cc1764316150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474581,
+            "locality_id":101809599,
+            "neighbourhood_id":1158807473,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158807473,
+    "wof:lastmodified":1513404111,
+    "wof:name":"Vlodrop Station",
+    "wof:parent_id":101809599,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.14823636411774,
+    51.15098469928987,
+    6.152380504960454,
+    51.151805013452716
+],
+  "geometry": {"coordinates":[[[[6.14972197876874,51.15151845649171],[6.14989971773204,51.15154132076295],[6.15074672196083,51.15166758915112],[6.15090601386933,51.151696736191],[6.15107531374374,51.15171827485722],[6.15123068099254,51.1517193474923],[6.15141985654122,51.15173571222199],[6.15234850441419,51.15180386538216],[6.15236985993878,51.15180501345272],[6.15238050496045,51.15174130566754],[6.15128061890963,51.15166769962651],[6.15122342981699,51.15166149591985],[6.15130463446262,51.15144111498039],[6.15065205380334,51.15133352873541],[6.14931173702257,51.15108974763205],[6.14836625200724,51.15098469928987],[6.14829882353692,51.15111605898854],[6.14823636411774,51.15118763511543],[6.14873619045853,51.15135984365195],[6.14878964888098,51.15137248240251],[6.14884310471593,51.15138512114554],[6.14928948895724,51.15146393071808],[6.14937258967397,51.15147614971652],[6.14972197876874,51.15151845649171]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158825763,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050909",
+    "cbsnl:BU_NAAM":"Wittenstein en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1451",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050509",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:area_square_m":599396.241484,
+    "geom:bbox":"4.66237863551,51.7679024768,4.67607891249,51.7769305905",
+    "geom:latitude":51.772671,
+    "geom:longitude":4.667949,
+    "iso:country":"NL",
+    "lbl:latitude":51.772829,
+    "lbl:longitude":4.667394,
+    "mps:latitude":51.772829,
+    "mps:longitude":4.667394,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Wittenstein en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Wittenstein en omgeving"
+    ],
+    "reversegeo:latitude":51.772829,
+    "reversegeo:longitude":4.667394,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829529,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9af67adf7ec0eb0bab82e849d98403f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829529,
+            "neighbourhood_id":1158825763,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825763,
+    "wof:lastmodified":1513588015,
+    "wof:name":"Wittenstein en omgeving",
+    "wof:parent_id":1158829529,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.662378635506798,
+    51.76790247681197,
+    4.67607891248547,
+    51.776930590453965
+],
+  "geometry": {"coordinates":[[[[4.66299772686521,51.77673124801299],[4.66396738358303,51.77672910557901],[4.66444909147897,51.77693059045396],[4.66504222825036,51.77690248725244],[4.66539484054315,51.77675378192],[4.66612153640314,51.77679795499734],[4.66731261729872,51.77644000643505],[4.66832020383368,51.77635409722626],[4.66916046038109,51.7760336910118],[4.67020650477007,51.77547630979412],[4.67139690307531,51.7751580183301],[4.67191059510155,51.77504204313909],[4.67340859549571,51.77486060001347],[4.67436733382903,51.7744535258299],[4.67524795751664,51.77327573579744],[4.67562848593087,51.77220606888775],[4.67580907363554,51.7718577825635],[4.67607891248547,51.77150884116728],[4.67158951440347,51.77033164252264],[4.6623786355068,51.76790247681197],[4.66299772686521,51.77673124801299]]]],"type":"MultiPolygon"}
+}

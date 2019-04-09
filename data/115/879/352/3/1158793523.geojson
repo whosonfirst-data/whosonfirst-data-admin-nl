@@ -1,0 +1,80 @@
+{
+  "id": 1158793523,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16630200",
+    "cbsnl:BU_NAAM":"Eenrum",
+    "cbsnl:GM_CODE":"GM1663",
+    "cbsnl:GM_NAAM":"De Marne",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"224",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK166302",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:area_square_m":716787.728188,
+    "geom:bbox":"6.45314019039,53.3577409715,6.46697009519,53.3685533335",
+    "geom:latitude":53.363634,
+    "geom:longitude":6.45967,
+    "iso:country":"NL",
+    "lbl:latitude":53.363871,
+    "lbl:longitude":6.459801,
+    "mps:latitude":53.363871,
+    "mps:longitude":6.459801,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Eenrum"
+    ],
+    "name:nld_x_preferred":[
+        "Eenrum"
+    ],
+    "reversegeo:latitude":53.363871,
+    "reversegeo:longitude":6.459801,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404474575,
+        85633337,
+        101803729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b70322b292191cdab64e69b65be1f7a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474575,
+            "locality_id":101803729,
+            "neighbourhood_id":1158793523,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793523,
+    "wof:lastmodified":1513382316,
+    "wof:name":"Eenrum",
+    "wof:parent_id":101803729,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.453140190389268,
+    53.357740971512094,
+    6.466970095191173,
+    53.36855333345443
+],
+  "geometry": {"coordinates":[[[[6.46459976791138,53.36142723835968],[6.46482696050458,53.36059577831473],[6.46473259022717,53.35959189581995],[6.46447168798842,53.35888266932815],[6.45937380021498,53.35774097151209],[6.45933730694751,53.3577834167634],[6.4568987038771,53.35938214093508],[6.45701701654487,53.35944534287024],[6.45649398374191,53.35987220806032],[6.45792109107342,53.36035800176045],[6.45526139630557,53.36204750411558],[6.45407399742796,53.36323181190925],[6.45314019038927,53.36689562296357],[6.45345291561354,53.36781670087722],[6.45411119933721,53.36818826683378],[6.45625975436364,53.36855333345443],[6.45836308970137,53.36855259388906],[6.46184235603982,53.36799982552095],[6.4639962193564,53.36749589194314],[6.46432878841523,53.3661427983926],[6.46443775020705,53.36298892846769],[6.46515468464175,53.36310065975495],[6.46697009519117,53.36258727073596],[6.46669653075683,53.36162036716794],[6.46459976791138,53.36142723835968]]]],"type":"MultiPolygon"}
+}

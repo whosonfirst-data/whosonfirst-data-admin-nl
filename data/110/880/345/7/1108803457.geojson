@@ -1,0 +1,83 @@
+{
+  "id": 1108803457,
+  "type": "Feature",
+  "properties": {
+    "amsgis:_categories":"buurt",
+    "amsgis:_id":"buurt.03630023754004",
+    "amsgis:categorie":"90",
+    "amsgis:code":"35f",
+    "amsgis:display":"Haveneiland Noordoost",
+    "amsgis:externe_id":"3630023754004",
+    "amsgis:naam":"Haveneiland Noordoost",
+    "amsgis:online_tijdsaspect":"1",
+    "amsgis:titel":"Haveneiland Noordoost",
+    "amsgis:titel_key":"haveneiland_noordoost_1",
+    "amsgis:type":"Buurtgrenzen",
+    "amsgis:type_2":"gebieden/buurt",
+    "amsgis:uri":"https://api.datapunt.amsterdam.nl/gebieden/buurt/03630023754004/",
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-10-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000111,
+    "geom:area_square_m":837958.03409,
+    "geom:bbox":"4.99187996565,52.3523018675,5.01029934973,52.3645713116",
+    "geom:latitude":52.357949,
+    "geom:longitude":5.001979,
+    "iso:country":"NL",
+    "lbl:latitude":52.357922,
+    "lbl:longitude":5.001979,
+    "mps:latitude":52.357922,
+    "mps:longitude":5.001979,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "reversegeo:latitude":52.357922,
+    "reversegeo:longitude":5.001979,
+    "src:geom":"amsgis",
+    "wof:belongsto":[
+        1108802833,
+        102191581,
+        85633337,
+        101751893,
+        1108802289,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"NL",
+    "wof:geomhash":"79e653406e3c465f68a91ed5fc097ca2",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108802289,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108803457,
+            "neighbourhood_id":1108802833,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1108803457,
+    "wof:lastmodified":1513269523,
+    "wof:name":"Haveneiland Noordoost",
+    "wof:parent_id":1108802833,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158844323
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.99187996564977,
+    52.3523018675487,
+    5.01029934973142,
+    52.36457131164672
+],
+  "geometry": {"coordinates":[[[5.00475177177684,52.36457131164672],[5.00622022121632,52.36287989942841],[5.00984906424411,52.35869943409975],[5.01029934973142,52.35818063742177],[5.00656888451204,52.35484481371444],[5.0065026772352,52.35478560482825],[5.00535187544462,52.35375641633016],[5.00388275563292,52.35450886391934],[5.00074352224565,52.3523018675487],[5.0006313803487,52.35236151262826],[4.99187996564977,52.35701531529393],[4.99499943099497,52.35915539414809],[4.99605713827202,52.35861850093688],[5.00475177177684,52.36457131164672]]],"type":"Polygon"}
+}

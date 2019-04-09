@@ -1,0 +1,82 @@
+{
+  "id": 1158802347,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01530207",
+    "cbsnl:BU_NAAM":"'t Zwering",
+    "cbsnl:GM_CODE":"GM0153",
+    "cbsnl:GM_NAAM":"Enschede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1610",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK015302",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":665024.439155,
+    "geom:bbox":"6.84419800935,52.2052845991,6.85974978551,52.214429322",
+    "geom:latitude":52.210281,
+    "geom:longitude":6.85321,
+    "iso:country":"NL",
+    "lbl:latitude":52.210631,
+    "lbl:longitude":6.853358,
+    "mps:latitude":52.210631,
+    "mps:longitude":6.853358,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "'t Zwering"
+    ],
+    "name:nld_x_preferred":[
+        "'t Zwering"
+    ],
+    "reversegeo:latitude":52.210631,
+    "reversegeo:longitude":6.853358,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805839,
+        404473827,
+        85633337,
+        101751871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7555a8758bde6017b224d33da0392e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473827,
+            "locality_id":101751871,
+            "macrohood_id":1158805839,
+            "neighbourhood_id":1158802347,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802347,
+    "wof:lastmodified":1513524255,
+    "wof:name":"'t Zwering",
+    "wof:parent_id":1158805839,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.844198009349169,
+    52.205284599128426,
+    6.859749785512054,
+    52.21442932202501
+],
+  "geometry": {"coordinates":[[[[6.8578659862482,52.21316389348919],[6.85720735177919,52.2131344174379],[6.85753719206465,52.21234987312895],[6.85707280005859,52.21213713465083],[6.8575309046705,52.21134758460342],[6.85828429470262,52.21145663613499],[6.85907458354814,52.20977608351009],[6.85912657684399,52.20929892812525],[6.85877068390723,52.20794400705256],[6.858703526496,52.20737040095825],[6.85956616198163,52.20645528288944],[6.85974978551205,52.20550008759375],[6.85428853414465,52.20528459912843],[6.85236311722469,52.20669147880272],[6.84885336752009,52.20897670331598],[6.84419800934917,52.21281008840764],[6.84545406490429,52.2132451541971],[6.84824273317294,52.21418299835539],[6.84905854508956,52.21357158197918],[6.85346360684605,52.21442932202501],[6.85752340256363,52.21440527220896],[6.8575069330714,52.21394182856295],[6.8578659862482,52.21316389348919]]]],"type":"MultiPolygon"}
+}

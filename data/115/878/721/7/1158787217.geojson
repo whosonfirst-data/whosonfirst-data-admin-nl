@@ -1,0 +1,80 @@
+{
+  "id": 1158787217,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09954331",
+    "cbsnl:BU_NAAM":"Landerijen Noord/West",
+    "cbsnl:GM_CODE":"GM0995",
+    "cbsnl:GM_NAAM":"Lelystad",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1257",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK099543",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":545498.903544,
+    "geom:bbox":"5.49792519903,52.4934044299,5.51058429941,52.4998354131",
+    "geom:latitude":52.496735,
+    "geom:longitude":5.504131,
+    "iso:country":"NL",
+    "lbl:latitude":52.496735,
+    "lbl:longitude":5.504131,
+    "mps:latitude":52.496735,
+    "mps:longitude":5.504131,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Landerijen Noord/West"
+    ],
+    "name:nld_x_preferred":[
+        "Landerijen Noord/West"
+    ],
+    "reversegeo:latitude":52.496735,
+    "reversegeo:longitude":5.504131,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158787383,
+        85633337,
+        101751873,
+        85687049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e9a530cb15b094f595865e32bd7466ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751873,
+            "macrohood_id":1158787383,
+            "neighbourhood_id":1158787217,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158787217,
+    "wof:lastmodified":1513299301,
+    "wof:name":"Landerijen Noord/West",
+    "wof:parent_id":1158787383,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.497925199033415,
+    52.4934044299235,
+    5.51058429941317,
+    52.49983541308527
+],
+  "geometry": {"coordinates":[[[[5.4983659183311,52.49983292576326],[5.49942199467207,52.49983541308527],[5.50183705884019,52.49981761870924],[5.50189483283462,52.4998171925117],[5.50409747365669,52.49978016278389],[5.50678835653696,52.49970772605385],[5.50903306636646,52.49962340229162],[5.50934472000644,52.49960405676745],[5.50959012441381,52.49958081786377],[5.50994458411298,52.49954240579638],[5.51058429941317,52.49951123835407],[5.51037754326867,52.49883993090425],[5.50991551116717,52.49523046031778],[5.50974760136904,52.49397026240917],[5.50962108260136,52.4934044299235],[5.50863161256087,52.49355142642515],[5.508352298884,52.49357794821252],[5.5026127477037,52.49373015952718],[5.49851715369986,52.49384448750966],[5.49838288238436,52.49390922385617],[5.49792519903342,52.49392598444681],[5.49795421493933,52.49428725337148],[5.49797909748666,52.49459710291172],[5.49818570836091,52.49762886392122],[5.4983659183311,52.49983292576326]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158798607,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08280402",
+    "cbsnl:BU_NAAM":"Mettegeupel",
+    "cbsnl:GM_CODE":"GM0828",
+    "cbsnl:GM_NAAM":"Oss",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1686",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082804",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:area_square_m":476143.32626,
+    "geom:bbox":"5.50677808096,51.7740689367,5.52543177821,51.7793213765",
+    "geom:latitude":51.776616,
+    "geom:longitude":5.515413,
+    "iso:country":"NL",
+    "lbl:latitude":51.777217,
+    "lbl:longitude":5.51541,
+    "mps:latitude":51.777217,
+    "mps:longitude":5.51541,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Mettegeupel"
+    ],
+    "name:nld_x_preferred":[
+        "Mettegeupel"
+    ],
+    "reversegeo:latitude":51.777217,
+    "reversegeo:longitude":5.51541,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801747,
+        404474415,
+        85633337,
+        101751807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9925b44f15b3de739b3611437770f7a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":101751807,
+            "macrohood_id":1158801747,
+            "neighbourhood_id":1158798607,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798607,
+    "wof:lastmodified":1513432687,
+    "wof:name":"Mettegeupel",
+    "wof:parent_id":1158801747,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.506778080963939,
+    51.77406893672529,
+    5.525431778211679,
+    51.77932137646015
+],
+  "geometry": {"coordinates":[[[[5.51792795473982,51.77892102820785],[5.52036970141857,51.77810650977212],[5.52543177821168,51.77551394647813],[5.52532108358189,51.77433159089816],[5.52529649351169,51.77406893672529],[5.52112435647406,51.77438191562066],[5.52108797138603,51.77493699230896],[5.52040561257014,51.77485968456018],[5.52027641543874,51.77549800938152],[5.51967862520792,51.77554109956187],[5.51808547661447,51.77539177409069],[5.51020809794035,51.77460961230474],[5.51032479729501,51.77434984861326],[5.50888011373665,51.77427355482589],[5.50881632455486,51.77430939318467],[5.507584459279,51.7742002753584],[5.50751522596815,51.77540339093902],[5.50743019688066,51.77688179284124],[5.50677808096394,51.77796556484829],[5.50979135381504,51.77837226549463],[5.51327589782117,51.77911909899078],[5.51556758154179,51.77932137646015],[5.51792795473982,51.77892102820785]]]],"type":"MultiPolygon"}
+}

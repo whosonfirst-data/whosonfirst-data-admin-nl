@@ -1,0 +1,78 @@
+{
+  "id": 1158826921,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06030332",
+    "cbsnl:BU_NAAM":"Huis te Lande",
+    "cbsnl:GM_CODE":"GM0603",
+    "cbsnl:GM_NAAM":"Rijswijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3256",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060303",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":154891.936529,
+    "geom:bbox":"4.31297257695,52.0408229444,4.32087578838,52.04648073",
+    "geom:latitude":52.043637,
+    "geom:longitude":4.316923,
+    "iso:country":"NL",
+    "lbl:latitude":52.043706,
+    "lbl:longitude":4.316863,
+    "mps:latitude":52.043706,
+    "mps:longitude":4.316863,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Huis te Lande"
+    ],
+    "name:nld_x_preferred":[
+        "Huis te Lande"
+    ],
+    "reversegeo:latitude":52.043706,
+    "reversegeo:longitude":4.316863,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        101754743,
+        85633337,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"cbb3e3dcb04b1b1b45f5d436b14bfa56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754743,
+            "neighbourhood_id":1158826921,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826921,
+    "wof:lastmodified":1513588107,
+    "wof:name":"Huis te Lande",
+    "wof:parent_id":101754743,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.312972576954442,
+    52.040822944430225,
+    4.320875788380831,
+    52.04648073000459
+],
+  "geometry": {"coordinates":[[[[4.31658116769142,52.04648073000459],[4.316943048577,52.04608589775697],[4.31892535455571,52.04397447577581],[4.31960173531753,52.04330844753067],[4.32087578838083,52.04240207640578],[4.31969052447004,52.04177678448502],[4.3191973832339,52.04150594005291],[4.31851500353066,52.04114831540376],[4.31786100287638,52.04082294443023],[4.315008368539,52.04304308389192],[4.31339537299322,52.04439122887303],[4.31297257695444,52.04482768780958],[4.3132907248317,52.04495207288517],[4.31384144996097,52.04516699013372],[4.31405812849383,52.04527362115393],[4.31475059047278,52.04560830683888],[4.31568470644691,52.04606365979842],[4.31658116769142,52.04648073000459]]]],"type":"MultiPolygon"}
+}

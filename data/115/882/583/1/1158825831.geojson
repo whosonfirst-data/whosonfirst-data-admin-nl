@@ -1,0 +1,80 @@
+{
+  "id": 1158825831,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05051111",
+    "cbsnl:BU_NAAM":"Johanna Naber-erf en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1522",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050511",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":298733.087592,
+    "geom:bbox":"4.73086651914,51.7977666126,4.73950730484,51.8054470604",
+    "geom:latitude":51.801786,
+    "geom:longitude":4.735188,
+    "iso:country":"NL",
+    "lbl:latitude":51.801675,
+    "lbl:longitude":4.735106,
+    "mps:latitude":51.801675,
+    "mps:longitude":4.735106,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Johanna Naber-erf en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Johanna Naber-erf en omgeving"
+    ],
+    "reversegeo:latitude":51.801675,
+    "reversegeo:longitude":4.735106,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829601,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"769888a7b258cc2cc85e6ec53f1dd981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829601,
+            "neighbourhood_id":1158825831,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825831,
+    "wof:lastmodified":1513588019,
+    "wof:name":"Johanna Naber-erf en omgeving",
+    "wof:parent_id":1158829601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.730866519143404,
+    51.79776661258058,
+    4.739507304837288,
+    51.805447060355284
+],
+  "geometry": {"coordinates":[[[[4.73950730483729,51.80414208811695],[4.7392276833526,51.8031842966175],[4.73902121601788,51.80247706491993],[4.73878562184921,51.80243022483266],[4.73861078765682,51.8023291684131],[4.73593771516093,51.79776661258058],[4.73590316116178,51.79777835606541],[4.73134085809776,51.79925488951736],[4.73143703611643,51.79974334826444],[4.73188265978805,51.8003574253126],[4.73242288677596,51.80118679354949],[4.73158705461002,51.80201658657833],[4.73111324667403,51.80254880709381],[4.7308665191434,51.80274542853278],[4.73139255524615,51.80294208410007],[4.73283883212376,51.8036393800738],[4.73407206324571,51.80443154273981],[4.73526171209228,51.80544706035528],[4.73715280923178,51.80494716841689],[4.73950730483729,51.80414208811695]]]],"type":"MultiPolygon"}
+}

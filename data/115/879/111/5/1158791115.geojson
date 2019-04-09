@@ -1,0 +1,82 @@
+{
+  "id": 1158791115,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01190200",
+    "cbsnl:BU_NAAM":"Heinsiusbuurt",
+    "cbsnl:GM_CODE":"GM0119",
+    "cbsnl:GM_NAAM":"Meppel",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"1462",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011902",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:area_square_m":233476.215028,
+    "geom:bbox":"6.18722124023,52.7015293943,6.19519329032,52.7085363026",
+    "geom:latitude":52.705591,
+    "geom:longitude":6.191158,
+    "iso:country":"NL",
+    "lbl:latitude":52.706067,
+    "lbl:longitude":6.19143,
+    "mps:latitude":52.706067,
+    "mps:longitude":6.19143,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Heinsiusbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Heinsiusbuurt"
+    ],
+    "reversegeo:latitude":52.706067,
+    "reversegeo:longitude":6.19143,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        1158792239,
+        404473813,
+        85633337,
+        101807279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7c6755ba9a7df9279f216c539ead5688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473813,
+            "locality_id":101807279,
+            "macrohood_id":1158792239,
+            "neighbourhood_id":1158791115,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791115,
+    "wof:lastmodified":1513292319,
+    "wof:name":"Heinsiusbuurt",
+    "wof:parent_id":1158792239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.187221240230515,
+    52.701529394300245,
+    6.195193290324078,
+    52.70853630259171
+],
+  "geometry": {"coordinates":[[[[6.18964941127072,52.70853630259171],[6.19072234722398,52.70845120688241],[6.19445991389536,52.70811448394488],[6.19519329032408,52.70803220464209],[6.19455779804421,52.7063736451209],[6.19177985002466,52.70257973908731],[6.19103295320156,52.70197589971962],[6.19048068285045,52.70152939430024],[6.18969135173791,52.70165379558421],[6.18867377080596,52.70187132414656],[6.18846956298471,52.70187498270154],[6.18876487556518,52.70228106590766],[6.18890028170286,52.70256818850583],[6.18900553230836,52.70273126497435],[6.18968053472909,52.70405393707532],[6.1891438093854,52.70419310187356],[6.18952733717221,52.7048287150178],[6.18874981051833,52.70502033036131],[6.18806235847234,52.70505319971084],[6.18722124023051,52.70524919459454],[6.18901767175314,52.70780093287352],[6.18964941127072,52.70853630259171]]]],"type":"MultiPolygon"}
+}

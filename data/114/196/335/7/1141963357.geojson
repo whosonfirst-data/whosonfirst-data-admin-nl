@@ -1,0 +1,82 @@
+{
+  "id": 1141963357,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02430302",
+    "cbsnl:BU_NAAM":"Zeebuurt-west",
+    "cbsnl:GM_CODE":"GM0243",
+    "cbsnl:GM_NAAM":"Harderwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1825",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK024303",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":116873.654185,
+    "geom:bbox":"5.62180132391,52.3482044351,5.62918257505,52.3519090151",
+    "geom:latitude":52.349673,
+    "geom:longitude":5.625823,
+    "iso:country":"NL",
+    "lbl:latitude":52.349858,
+    "lbl:longitude":5.625767,
+    "mps:latitude":52.349858,
+    "mps:longitude":5.625767,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zeebuurt-west"
+    ],
+    "name:nld_x_preferred":[
+        "Zeebuurt-west"
+    ],
+    "reversegeo:latitude":52.349858,
+    "reversegeo:longitude":5.625767,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158784023,
+        404473907,
+        85633337,
+        101837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a42bff1489d093eb600b7abd6c911598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473907,
+            "locality_id":101837769,
+            "macrohood_id":1158784023,
+            "neighbourhood_id":1141963357,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963357,
+    "wof:lastmodified":1513368740,
+    "wof:name":"Zeebuurt-west",
+    "wof:parent_id":1158784023,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.62180132391213,
+    52.34820443507179,
+    5.629182575050795,
+    52.35190901514973
+],
+  "geometry": {"coordinates":[[[[5.62427815798983,52.35077346658499],[5.62556362198963,52.35190901514973],[5.62754745299116,52.35092126322196],[5.62848055993718,52.35017602979139],[5.62918257505079,52.34865475815333],[5.62624660290967,52.34820443507179],[5.62346514018738,52.34843389701742],[5.62180132391213,52.34861278152117],[5.62320967979089,52.34964106956181],[5.62328857236182,52.34992277138132],[5.62427815798983,52.35077346658499]]]],"type":"MultiPolygon"}
+}

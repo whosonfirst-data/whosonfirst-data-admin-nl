@@ -1,0 +1,80 @@
+{
+  "id": 1141964661,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03040101",
+    "cbsnl:BU_NAAM":"Waardenburg-West",
+    "cbsnl:GM_CODE":"GM0304",
+    "cbsnl:GM_NAAM":"Neerijnen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"310",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK030401",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":437135.637173,
+    "geom:bbox":"5.24363958064,51.8231206196,5.25660697561,51.8322838363",
+    "geom:latitude":51.827853,
+    "geom:longitude":5.250573,
+    "iso:country":"NL",
+    "lbl:latitude":51.827606,
+    "lbl:longitude":5.250475,
+    "mps:latitude":51.827606,
+    "mps:longitude":5.250475,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Waardenburg-West"
+    ],
+    "name:nld_x_preferred":[
+        "Waardenburg-West"
+    ],
+    "reversegeo:latitude":51.827606,
+    "reversegeo:longitude":5.250475,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473967,
+        85633337,
+        101808741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1c8895daa63ac4f500d0a4e5b05c28ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473967,
+            "locality_id":101808741,
+            "neighbourhood_id":1141964661,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141964661,
+    "wof:lastmodified":1513368836,
+    "wof:name":"Waardenburg-West",
+    "wof:parent_id":101808741,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.243639580641506,
+    51.82312061962656,
+    5.256606975608245,
+    51.83228383633869
+],
+  "geometry": {"coordinates":[[[[5.24363958064151,51.82965092126189],[5.25055741374276,51.83059932419717],[5.25225834618742,51.83228383633869],[5.25302134233166,51.83146390868199],[5.2531506991226,51.83133821924557],[5.25322208037801,51.83126920371391],[5.25660697560825,51.82816921879874],[5.25655587120498,51.82773687722196],[5.25634538493279,51.82778692222747],[5.25435884994841,51.82604263630065],[5.25231260415,51.82491591563676],[5.25092392116265,51.82364695287578],[5.24975923538101,51.82312061962656],[5.24845191514763,51.82469204800694],[5.24518480978586,51.82807956726126],[5.24485600145302,51.8284134253712],[5.24363958064151,51.82965092126189]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158818839,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03840114",
+    "cbsnl:BU_NAAM":"Centrum-Oost",
+    "cbsnl:GM_CODE":"GM0384",
+    "cbsnl:GM_NAAM":"Diemen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2681",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK038401",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":198985.590618,
+    "geom:bbox":"4.96127142571,52.3358621448,4.97114802383,52.3409582895",
+    "geom:latitude":52.338516,
+    "geom:longitude":4.966017,
+    "iso:country":"NL",
+    "lbl:latitude":52.338345,
+    "lbl:longitude":4.966017,
+    "mps:latitude":52.338345,
+    "mps:longitude":4.966017,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Centrum-Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Centrum-Oost"
+    ],
+    "reversegeo:latitude":52.338345,
+    "reversegeo:longitude":4.966017,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823029,
+        85633337,
+        1158822543,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"190e4670a9ba1230ba76769155c81a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":1158822543,
+            "macrohood_id":1158823029,
+            "neighbourhood_id":1158818839,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818839,
+    "wof:lastmodified":1513464100,
+    "wof:name":"Centrum-Oost",
+    "wof:parent_id":1158823029,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.961271425711104,
+    52.33586214478534,
+    4.971148023827701,
+    52.340958289467785
+],
+  "geometry": {"coordinates":[[[[4.9711480238277,52.33867811186663],[4.96996297560117,52.33784454164018],[4.96828326628074,52.33671598238773],[4.9670148400999,52.33586214478534],[4.96528426756911,52.33671235183976],[4.96374717068141,52.33742588058963],[4.96291901238604,52.33763693376412],[4.9620456848933,52.33782338513761],[4.9612714257111,52.33793491439472],[4.96192066149424,52.33862115785288],[4.96294942145771,52.34045301229106],[4.96326294705608,52.34095828946779],[4.9643903678634,52.34076009865402],[4.96600997286081,52.34033895655071],[4.96776075107829,52.33985084931953],[4.96973793699551,52.33930958870184],[4.9711480238277,52.33867811186663]]]],"type":"MultiPolygon"}
+}

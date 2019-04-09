@@ -1,0 +1,84 @@
+{
+  "id": 1158800105,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17060001",
+    "cbsnl:BU_NAAM":"Heikant, Meemortel, Bosch",
+    "cbsnl:GM_CODE":"GM1706",
+    "cbsnl:GM_NAAM":"Cranendonck",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"341",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170600",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000251,
+    "geom:area_square_m":1939170.499623,
+    "geom:bbox":"5.57821719353,51.2562533103,5.59977317886,51.2761020152",
+    "geom:latitude":51.267204,
+    "geom:longitude":5.590148,
+    "iso:country":"NL",
+    "lbl:latitude":51.269538,
+    "lbl:longitude":5.592846,
+    "mps:latitude":51.269538,
+    "mps:longitude":5.592846,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Heikant",
+        "Meemortel",
+        "Bosch"
+    ],
+    "name:nld_x_preferred":[
+        "Heikant",
+        "Meemortel",
+        "Bosch"
+    ],
+    "reversegeo:latitude":51.269538,
+    "reversegeo:longitude":5.592846,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474619,
+        85633337,
+        101839335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6e0985deaefb72a2dbda8efd6ecbdd8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474619,
+            "locality_id":101839335,
+            "neighbourhood_id":1158800105,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158800105,
+    "wof:lastmodified":1513432800,
+    "wof:name":"Heikant, Meemortel, Bosch",
+    "wof:parent_id":101839335,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.578217193526553,
+    51.25625331034217,
+    5.599773178858757,
+    51.27610201518009
+],
+  "geometry": {"coordinates":[[[[5.59977152924257,51.27578227381778],[5.59977317885876,51.2752213133147],[5.59935789927394,51.2703644807899],[5.59898741050301,51.26708874638339],[5.59794869507089,51.26584484468468],[5.59572843877569,51.26410502497588],[5.59243324308429,51.26063588453552],[5.58979007501487,51.25740905453887],[5.58694010907823,51.25625331034217],[5.58691970042505,51.25650053685341],[5.58407645160177,51.25791662548775],[5.58124356516359,51.25939021087015],[5.57821719352655,51.26196067578675],[5.58433961852956,51.26637152853618],[5.58684965550525,51.26717595470094],[5.58663069361114,51.26745261138745],[5.58653563495238,51.26794571529017],[5.58615370231826,51.26847284381379],[5.58554855410607,51.26881984690148],[5.58542528351438,51.26897558424185],[5.58686377157918,51.27041076614461],[5.58400270558355,51.27126929530009],[5.58511428286397,51.27595814439866],[5.58933118397566,51.27610201518009],[5.59627278897651,51.27599086464673],[5.59977152924257,51.27578227381778]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158787005,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03030702",
+    "cbsnl:BU_NAAM":"Centrum Swifterbant",
+    "cbsnl:GM_CODE":"GM0303",
+    "cbsnl:GM_NAAM":"Dronten",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"796",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK030307",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":47476.812368,
+    "geom:bbox":"5.64227079816,52.5697921378,5.6468721991,52.5729846612",
+    "geom:latitude":52.571543,
+    "geom:longitude":5.644313,
+    "iso:country":"NL",
+    "lbl:latitude":52.571767,
+    "lbl:longitude":5.644278,
+    "mps:latitude":52.571767,
+    "mps:longitude":5.644278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Centrum Swifterbant"
+    ],
+    "name:nld_x_preferred":[
+        "Centrum Swifterbant"
+    ],
+    "reversegeo:latitude":52.571767,
+    "reversegeo:longitude":5.644278,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473965,
+        85633337,
+        101808773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"2f279aceab11cae6e65f6e4fd3c4ed01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473965,
+            "locality_id":101808773,
+            "neighbourhood_id":1158787005,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158787005,
+    "wof:lastmodified":1513299287,
+    "wof:name":"Centrum Swifterbant",
+    "wof:parent_id":101808773,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.642270798156488,
+    52.56979213783615,
+    5.646872199096383,
+    52.57298466120416
+],
+  "geometry": {"coordinates":[[[[5.64227079815649,52.57189941885265],[5.642623881337,52.5722298648268],[5.64363640693212,52.57261650427216],[5.64461796021976,52.57298466120416],[5.6451125595938,52.57243744862863],[5.64574778362834,52.57186392098038],[5.64635324164561,52.57136197296395],[5.64687219909638,52.57087495902903],[5.64514864021798,52.57096773982745],[5.64451211415429,52.57073065661474],[5.64462739398893,52.57061923314981],[5.64402025320287,52.57035754478311],[5.64365232105863,52.57033053627327],[5.6438486876485,52.56991762520373],[5.64374435277225,52.56979213783615],[5.64362471948485,52.56990670475638],[5.6435220696713,52.56990315204333],[5.64335071045594,52.56987614680437],[5.64305329155736,52.57057684773751],[5.64331619639906,52.57061827928883],[5.64316314190356,52.57099171219852],[5.64296322757904,52.57146630868726],[5.64279413094592,52.57153280065631],[5.64301302890457,52.57160718879215],[5.64227079815649,52.57189941885265]]]],"type":"MultiPolygon"}
+}

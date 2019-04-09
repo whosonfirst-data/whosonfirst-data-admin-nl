@@ -1,0 +1,80 @@
+{
+  "id": 1158828139,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17830409",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Teylingen",
+    "cbsnl:GM_CODE":"GM1783",
+    "cbsnl:GM_NAAM":"Westland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"896",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK178304",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000107,
+    "geom:area_square_m":818355.914114,
+    "geom:bbox":"4.16864126903,51.9883506804,4.18571837489,51.99889177",
+    "geom:latitude":51.993559,
+    "geom:longitude":4.177623,
+    "iso:country":"NL",
+    "lbl:latitude":51.993958,
+    "lbl:longitude":4.177786,
+    "mps:latitude":51.993958,
+    "mps:longitude":4.177786,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Teylingen"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Teylingen"
+    ],
+    "reversegeo:latitude":51.993958,
+    "reversegeo:longitude":4.177786,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
+        85633337,
+        101808481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"01fc503cd1d8c6ec7675c1dc64b90bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474667,
+            "locality_id":101808481,
+            "neighbourhood_id":1158828139,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828139,
+    "wof:lastmodified":1513588202,
+    "wof:name":"Bedrijventerrein Teylingen",
+    "wof:parent_id":101808481,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.168641269033392,
+    51.98835068043621,
+    4.185718374890728,
+    51.9988917700352
+],
+  "geometry": {"coordinates":[[[[4.17302661819848,51.99786112440982],[4.17583684135576,51.99826669700925],[4.17607460027441,51.99842518481625],[4.17822323438927,51.99872947894003],[4.18115656398915,51.9988917700352],[4.18200661649861,51.99784864797034],[4.1822343674473,51.99737953894339],[4.1822068080243,51.99700409657742],[4.18252320655178,51.99603789494977],[4.18348238744714,51.99276422494288],[4.18356326647851,51.99248816219507],[4.18416022337041,51.99195443528672],[4.18368472157609,51.99163749219424],[4.18370538757047,51.99086746147464],[4.18301930843627,51.9903823608168],[4.18314165257233,51.99031641250285],[4.18571837489073,51.98879643042369],[4.1848424792094,51.98854773795851],[4.18156670209703,51.98835068043621],[4.17972263024057,51.98861136081552],[4.16881902326764,51.99219261434693],[4.16864126903339,51.99225545525471],[4.17093018028984,51.99470249515689],[4.17276908080187,51.9966682103268],[4.1730987154747,51.99734625082422],[4.17302661819848,51.99786112440982]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158827015,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06060309",
+    "cbsnl:BU_NAAM":"Distillateursbuurt",
+    "cbsnl:GM_CODE":"GM0606",
+    "cbsnl:GM_NAAM":"Schiedam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1870",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060603",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":151018.489403,
+    "geom:bbox":"4.37113527973,51.9089486377,4.37955222595,51.9137075138",
+    "geom:latitude":51.911372,
+    "geom:longitude":4.375586,
+    "iso:country":"NL",
+    "lbl:latitude":51.911387,
+    "lbl:longitude":4.375583,
+    "mps:latitude":51.911387,
+    "mps:longitude":4.375583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Distillateursbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Distillateursbuurt"
+    ],
+    "reversegeo:latitude":51.911387,
+    "reversegeo:longitude":4.375583,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831283,
+        85633337,
+        101751845,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c10f00f25f9827246cd5e21347e48bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "macrohood_id":1158831283,
+            "neighbourhood_id":1158827015,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827015,
+    "wof:lastmodified":1513588113,
+    "wof:name":"Distillateursbuurt",
+    "wof:parent_id":1158831283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.371135279729016,
+    51.90894863774667,
+    4.379552225946023,
+    51.913707513808745
+],
+  "geometry": {"coordinates":[[[[4.37865629219381,51.91349549646559],[4.37942582026222,51.9136942345651],[4.37948296248183,51.91370751380875],[4.37955222594602,51.91321920357817],[4.37955218651186,51.91220837359126],[4.37944531408822,51.91191263204175],[4.37910642376061,51.91152342344049],[4.37906562016176,51.91137567069448],[4.37843027635039,51.91083088702115],[4.37814242098359,51.91073038151643],[4.37135783121707,51.90898848192908],[4.37113527972902,51.90894863774667],[4.37250828511641,51.91190435593306],[4.37865629219381,51.91349549646559]]]],"type":"MultiPolygon"}
+}

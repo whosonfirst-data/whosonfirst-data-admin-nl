@@ -1,0 +1,80 @@
+{
+  "id": 1158802067,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01480005",
+    "cbsnl:BU_NAAM":"Dalfsen-Polhaar-Oost",
+    "cbsnl:GM_CODE":"GM0148",
+    "cbsnl:GM_NAAM":"Dalfsen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1116",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK014800",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":264878.175849,
+    "geom:bbox":"6.25389876047,52.5101726966,6.26197375802,52.5160871253",
+    "geom:latitude":52.513241,
+    "geom:longitude":6.257617,
+    "iso:country":"NL",
+    "lbl:latitude":52.51329,
+    "lbl:longitude":6.257614,
+    "mps:latitude":52.51329,
+    "mps:longitude":6.257614,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Polhaar-Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Polhaar-Oost"
+    ],
+    "reversegeo:latitude":52.51329,
+    "reversegeo:longitude":6.257614,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473823,
+        85633337,
+        101803703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"88c195f0e9eab30333e4bd22c7b8f923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473823,
+            "locality_id":101803703,
+            "neighbourhood_id":1158802067,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802067,
+    "wof:lastmodified":1513524235,
+    "wof:name":"Polhaar-Oost",
+    "wof:parent_id":101803703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.25389876047173,
+    52.5101726965934,
+    6.26197375802039,
+    52.51608712525547
+],
+  "geometry": {"coordinates":[[[[6.25389876047173,52.51603713466006],[6.25520518692775,52.51608712525547],[6.25733823849773,52.51585579065821],[6.25942078450789,52.51552760788471],[6.25969445935168,52.51550312571771],[6.26193633704673,52.51318041220689],[6.26197375802039,52.51314053447842],[6.26128527433227,52.51274481212381],[6.26106080435395,52.51040515575679],[6.26078069608113,52.5101726965934],[6.26068846186185,52.5101992157286],[6.25864400949618,52.51057825936083],[6.2561091336774,52.5110445588321],[6.25413043524263,52.51148230597703],[6.25409268646,52.51210357966652],[6.25390325713377,52.5158090379083],[6.25389876047173,52.51603713466006]]]],"type":"MultiPolygon"}
+}

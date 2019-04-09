@@ -1,0 +1,80 @@
+{
+  "id": 101855213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.726802,50.772829,5.726802,50.772829",
+    "geom:latitude":50.772829,
+    "geom:longitude":5.726802,
+    "iso:country":"NL",
+    "lbl:latitude":50.772829,
+    "lbl:longitude":5.726802,
+    "mps:latitude":50.772829,
+    "mps:longitude":5.726802,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Nederland",
+    "qs:a1":"*Limburg",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mariadorp",
+    "qs:loc_alt":"Mariadorp",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158805871,
+        85633337,
+        85687033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2751195,
+        "gp:id":730279,
+        "qs:id":1,
+        "tgn:id":7269457
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"2c9b56af590384dc121047d4016222c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101855213,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":101855213,
+    "wof:lastmodified":1544742884,
+    "wof:name":"Mariadorp",
+    "wof:parent_id":1158805871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158807819
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.726802,
+    50.772829,
+    5.726802,
+    50.772829
+],
+  "geometry": {"coordinates":[5.726802,50.772829],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1126132457,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19001600",
+    "cbsnl:BU_NAAM":"Parrega",
+    "cbsnl:GM_CODE":"GM1900",
+    "cbsnl:GM_NAAM":"S\u00fadwest-Frysl\u00e2n",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"57",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK190016",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":555653.243097,
+    "geom:bbox":"5.47239231422,53.0113652061,5.48377063093,53.0213467592",
+    "geom:latitude":53.01669,
+    "geom:longitude":5.477295,
+    "iso:country":"NL",
+    "lbl:latitude":53.016948,
+    "lbl:longitude":5.477187,
+    "mps:latitude":53.016948,
+    "mps:longitude":5.477187,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Parrega"
+    ],
+    "name:eng_x_preferred":[
+        "Parrega"
+    ],
+    "reversegeo:latitude":53.016948,
+    "reversegeo:longitude":5.477187,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        1141960735,
+        85633337,
+        1141960547,
+        85687055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"861733f507c0481cc34c37ab19275265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1141960735,
+            "locality_id":1141960547,
+            "neighbourhood_id":1126132457,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":1126132457,
+    "wof:lastmodified":1507246106,
+    "wof:name":"Parrega",
+    "wof:parent_id":1141960547,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.47239231421522,
+    53.0113652060864,
+    5.48377063093127,
+    53.02134675916496
+],
+  "geometry": {"coordinates":[[[[5.4747496889786,53.02134675916496],[5.48167446144546,53.020445680504],[5.48244749308115,53.02021985114025],[5.48276101622929,53.01984555408053],[5.48291046216785,53.01929840522505],[5.48288824977393,53.01872780522694],[5.48254985852219,53.01795246347179],[5.48227337642991,53.0175281636893],[5.48377063093127,53.0168340235575],[5.48323453784728,53.01650238323257],[5.48233270716112,53.01678905534663],[5.480984409181,53.01554994319483],[5.48037288442173,53.01461134743091],[5.47806118444514,53.0113652060864],[5.47417262859736,53.0122571680153],[5.4732242591614,53.0126521213117],[5.4725604943793,53.01299350768095],[5.47239231421522,53.01460832233548],[5.47282410146962,53.01668661307249],[5.47344728726341,53.01909781153207],[5.47376326150462,53.01991812765448],[5.47463466457321,53.02123451719662],[5.4747496889786,53.02134675916496]]]],"type":"MultiPolygon"}
+}

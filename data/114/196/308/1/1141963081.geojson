@@ -1,0 +1,80 @@
+{
+  "id": 1141963081,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02283001",
+    "cbsnl:BU_NAAM":"De Laar",
+    "cbsnl:GM_CODE":"GM0228",
+    "cbsnl:GM_NAAM":"Ede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1156",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022830",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:area_square_m":959308.809564,
+    "geom:bbox":"5.67297731786,52.0016043623,5.68687260514,52.0126529379",
+    "geom:latitude":52.007556,
+    "geom:longitude":5.680177,
+    "iso:country":"NL",
+    "lbl:latitude":52.007167,
+    "lbl:longitude":5.680177,
+    "mps:latitude":52.007167,
+    "mps:longitude":5.680177,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Laar"
+    ],
+    "name:nld_x_preferred":[
+        "De Laar"
+    ],
+    "reversegeo:latitude":52.007167,
+    "reversegeo:longitude":5.680177,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473893,
+        85633337,
+        101837743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a1095742d5673217d7624248442ca43d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473893,
+            "locality_id":101837743,
+            "neighbourhood_id":1141963081,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963081,
+    "wof:lastmodified":1513368721,
+    "wof:name":"De Laar",
+    "wof:parent_id":101837743,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.672977317857765,
+    52.001604362308676,
+    5.686872605139489,
+    52.01265293790985
+],
+  "geometry": {"coordinates":[[[[5.68567005610182,52.00299081614814],[5.68544800595392,52.0029791462948],[5.67999434604757,52.00198773715933],[5.67812027378887,52.00177983316828],[5.67569217934946,52.00160436230868],[5.67438655200774,52.00632445181407],[5.67323103676111,52.01050105772342],[5.67308066482654,52.01104452480485],[5.67297731785777,52.01265293790985],[5.67516624134041,52.01244838938239],[5.67766835476867,52.01232815045406],[5.67891135662508,52.01231988806187],[5.68015435266265,52.01231161255571],[5.68364888803214,52.01239620000276],[5.68684184309235,52.01259553051],[5.68657662500686,52.01061537276306],[5.6865626473234,52.01046788388835],[5.68687260513949,52.00478270458937],[5.68554897722954,52.00448887321556],[5.68567005610182,52.00299081614814]]]],"type":"MultiPolygon"}
+}

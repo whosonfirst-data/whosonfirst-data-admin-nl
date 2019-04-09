@@ -1,0 +1,80 @@
+{
+  "id": 1158797629,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07772009",
+    "cbsnl:BU_NAAM":"Hoge Neerstraat",
+    "cbsnl:GM_CODE":"GM0777",
+    "cbsnl:GM_NAAM":"Etten-Leur",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1268",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK077720",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":580076.343797,
+    "geom:bbox":"4.64892395072,51.559959359,4.66194490144,51.5716137901",
+    "geom:latitude":51.567057,
+    "geom:longitude":4.655767,
+    "iso:country":"NL",
+    "lbl:latitude":51.567327,
+    "lbl:longitude":4.65631,
+    "mps:latitude":51.567327,
+    "mps:longitude":4.65631,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hoge Neerstraat"
+    ],
+    "name:nld_x_preferred":[
+        "Hoge Neerstraat"
+    ],
+    "reversegeo:latitude":51.567327,
+    "reversegeo:longitude":4.65631,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474377,
+        85633337,
+        101839355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9083c3c2f37ffcfd0d0a0f450bf4db32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474377,
+            "locality_id":101839355,
+            "neighbourhood_id":1158797629,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797629,
+    "wof:lastmodified":1513432607,
+    "wof:name":"Hoge Neerstraat",
+    "wof:parent_id":101839355,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.648923950724678,
+    51.55995935900142,
+    4.661944901444157,
+    51.571613790072504
+],
+  "geometry": {"coordinates":[[[[4.64925750839862,51.56994405724807],[4.65057478234376,51.57029430221784],[4.65216190034976,51.57071854521217],[4.65385970873509,51.57107258325579],[4.65504949812759,51.57126229908341],[4.65547149050609,51.5713295887261],[4.65827853963337,51.57160053847071],[4.65841579605844,51.5716137900725],[4.6585820611115,51.57094477521157],[4.66089894745877,51.56842347638592],[4.66194490144416,51.56753531342734],[4.66113145729175,51.56686799612861],[4.65836390962683,51.56320646633189],[4.65577994120576,51.56027487688069],[4.65526670721525,51.55995935900142],[4.65490415951959,51.56167545567342],[4.65480574549042,51.56178996017546],[4.65368836972311,51.56369060817892],[4.65308482826564,51.56482156155172],[4.65256859747934,51.5655427439877],[4.65174334967167,51.56628613386714],[4.65149876112162,51.56700902022044],[4.6504767603913,51.56779945090367],[4.64993589929047,51.56841526062888],[4.64984400807782,51.56851988712899],[4.64908974388666,51.56962610291841],[4.64892395072468,51.56986925774645],[4.64925750839862,51.56994405724807]]]],"type":"MultiPolygon"}
+}

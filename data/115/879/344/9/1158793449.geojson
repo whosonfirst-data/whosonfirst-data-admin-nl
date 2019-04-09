@@ -1,0 +1,80 @@
+{
+  "id": 1158793449,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16510106",
+    "cbsnl:BU_NAAM":"Oudeschip",
+    "cbsnl:GM_CODE":"GM1651",
+    "cbsnl:GM_NAAM":"Eemsmond",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"26",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK165101",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000065,
+    "geom:area_square_m":475465.618862,
+    "geom:bbox":"6.81592793874,53.4260232263,6.83341087973,53.4327897446",
+    "geom:latitude":53.429173,
+    "geom:longitude":6.823424,
+    "iso:country":"NL",
+    "lbl:latitude":53.429095,
+    "lbl:longitude":6.823424,
+    "mps:latitude":53.429095,
+    "mps:longitude":6.823424,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oudeschip"
+    ],
+    "name:nld_x_preferred":[
+        "Oudeschip"
+    ],
+    "reversegeo:latitude":53.429095,
+    "reversegeo:longitude":6.823424,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404474561,
+        85633337,
+        1158796651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"58f39faf9a23aa673b670313602a4aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474561,
+            "locality_id":1158796651,
+            "neighbourhood_id":1158793449,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793449,
+    "wof:lastmodified":1513382309,
+    "wof:name":"Oudeschip",
+    "wof:parent_id":1158796651,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.815927938739031,
+    53.426023226303734,
+    6.833410879726212,
+    53.43278974460652
+],
+  "geometry": {"coordinates":[[[[6.8192448295067,53.43278974460652],[6.81991435802004,53.43219543502705],[6.82270526407622,53.43178421826433],[6.82661914980166,53.43071138911456],[6.82961311102418,53.42998082092472],[6.83265602914735,53.42866099302262],[6.83341087972621,53.4283358119847],[6.83256721506298,53.42800736770473],[6.83135459011796,53.42810260292541],[6.8270418297654,53.42602322630373],[6.82641049463792,53.42609836477825],[6.82434411308247,53.42648361649888],[6.82251791203559,53.42671994441773],[6.82096866550468,53.42704224794085],[6.81941986411372,53.42751953497454],[6.81842459781915,53.42767739419778],[6.8177265615353,53.427950780726],[6.81648005789738,53.42865527012535],[6.81613405938579,53.42924347598802],[6.81592793873903,53.43024169969046],[6.81629728529413,53.43116738211796],[6.81694468083211,53.43163090657006],[6.81812716555776,53.43216389192892],[6.8192448295067,53.43278974460652]]]],"type":"MultiPolygon"}
+}

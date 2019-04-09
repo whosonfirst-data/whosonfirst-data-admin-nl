@@ -1,0 +1,82 @@
+{
+  "id": 1158824783,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04820305",
+    "cbsnl:BU_NAAM":"Drentsebuurt",
+    "cbsnl:GM_CODE":"GM0482",
+    "cbsnl:GM_NAAM":"Alblasserdam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1967",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK048203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":113916.907206,
+    "geom:bbox":"4.65938053315,51.8640304573,4.66549225589,51.8686191112",
+    "geom:latitude":51.866318,
+    "geom:longitude":4.662372,
+    "iso:country":"NL",
+    "lbl:latitude":51.866472,
+    "lbl:longitude":4.66258,
+    "mps:latitude":51.866472,
+    "mps:longitude":4.66258,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Drentsebuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Drentsebuurt"
+    ],
+    "reversegeo:latitude":51.866472,
+    "reversegeo:longitude":4.66258,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831059,
+        404474145,
+        85633337,
+        101754613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d4bd37342c39afe89dc2a104313c14f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474145,
+            "locality_id":101754613,
+            "macrohood_id":1158831059,
+            "neighbourhood_id":1158824783,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158824783,
+    "wof:lastmodified":1513587945,
+    "wof:name":"Drentsebuurt",
+    "wof:parent_id":1158831059,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.659380533146616,
+    51.86403045727278,
+    4.66549225589388,
+    51.86861911118755
+],
+  "geometry": {"coordinates":[[[[4.66549225589388,51.86740960430704],[4.66510960936568,51.86698428749995],[4.66437302737541,51.86606365465099],[4.66404097019722,51.86565201709691],[4.66396391161733,51.86555648780885],[4.66277089148765,51.86426258404481],[4.66262913809542,51.86413683990177],[4.66245337668003,51.86403045727278],[4.65982148159025,51.8648757264633],[4.65938053314662,51.86504224907664],[4.66096412506393,51.86670473985854],[4.66064012457109,51.86686153630134],[4.66039115289431,51.86701364022521],[4.660165775719,51.86717439661458],[4.66083569449583,51.86759306995688],[4.66248596531374,51.86861911118755],[4.66301491845032,51.86828554847905],[4.66345958599474,51.86808308832443],[4.66368259203477,51.86799165630684],[4.66414650226972,51.86783519883312],[4.66549225589388,51.86740960430704]]]],"type":"MultiPolygon"}
+}

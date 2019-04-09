@@ -1,0 +1,80 @@
+{
+  "id": 1158797497,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07721634",
+    "cbsnl:BU_NAAM":"Bos- en Zandrijk",
+    "cbsnl:GM_CODE":"GM0772",
+    "cbsnl:GM_NAAM":"Eindhoven",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"806",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK077216",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":381983.749347,
+    "geom:bbox":"5.39996659667,51.4440146121,5.41408204342,51.4511875326",
+    "geom:latitude":51.447195,
+    "geom:longitude":5.408239,
+    "iso:country":"NL",
+    "lbl:latitude":51.447739,
+    "lbl:longitude":5.410114,
+    "mps:latitude":51.447739,
+    "mps:longitude":5.410114,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bos- en Zandrijk"
+    ],
+    "name:nld_x_preferred":[
+        "Bos- en Zandrijk"
+    ],
+    "reversegeo:latitude":51.447739,
+    "reversegeo:longitude":5.410114,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158801465,
+        85633337,
+        101751819,
+        85687035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e6c43f53e7c4ef86bb6a57de897d7ee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751819,
+            "macrohood_id":1158801465,
+            "neighbourhood_id":1158797497,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797497,
+    "wof:lastmodified":1513432597,
+    "wof:name":"Bos- en Zandrijk",
+    "wof:parent_id":1158801465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.399966596668532,
+    51.4440146120781,
+    5.414082043423774,
+    51.45118753257328
+],
+  "geometry": {"coordinates":[[[[5.41408204342377,51.44891191950555],[5.41349067536287,51.44792950559729],[5.41208909534588,51.44550420870467],[5.41132257086751,51.44417120519726],[5.41127674293183,51.44410011400862],[5.41109554894714,51.4440146120781],[5.40900793306774,51.44552630718808],[5.40741906502667,51.44468164216931],[5.40723855348802,51.44458567679002],[5.40712373287843,51.44452463299469],[5.40389885698684,51.44479653859852],[5.39996659666853,51.44496932098333],[5.40021196558958,51.44537419913792],[5.40090125375573,51.4457479309869],[5.40359924278875,51.44721068370124],[5.40362928749794,51.44731432786302],[5.40358401765115,51.44735098079626],[5.40520841953231,51.44825514356892],[5.40531549270589,51.44831473933637],[5.4057654762599,51.44855375983303],[5.40690614051248,51.44915963056763],[5.40697273877219,51.44911170065919],[5.40709846926758,51.44911402502944],[5.40958744939704,51.45046709899572],[5.4101370071609,51.45076583405571],[5.41091278917092,51.45118753257328],[5.41408204342377,51.44891191950555]]]],"type":"MultiPolygon"}
+}

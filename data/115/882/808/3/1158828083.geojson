@@ -1,0 +1,80 @@
+{
+  "id": 1158828083,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17830159",
+    "cbsnl:BU_NAAM":"Hoogeland Oost",
+    "cbsnl:GM_CODE":"GM1783",
+    "cbsnl:GM_NAAM":"Westland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1127",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK178301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":427219.026858,
+    "geom:bbox":"4.20761787161,51.9815609753,4.22128035624,51.9886104533",
+    "geom:latitude":51.985367,
+    "geom:longitude":4.215942,
+    "iso:country":"NL",
+    "lbl:latitude":51.984895,
+    "lbl:longitude":4.216403,
+    "mps:latitude":51.984895,
+    "mps:longitude":4.216403,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hoogeland Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Hoogeland Oost"
+    ],
+    "reversegeo:latitude":51.984895,
+    "reversegeo:longitude":4.216403,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
+        85633337,
+        101837719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"dfe604031185972ec6c7eef76ab285c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474667,
+            "locality_id":101837719,
+            "neighbourhood_id":1158828083,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828083,
+    "wof:lastmodified":1513588197,
+    "wof:name":"Hoogeland Oost",
+    "wof:parent_id":101837719,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.207617871605461,
+    51.98156097526569,
+    4.221280356239898,
+    51.9886104532897
+],
+  "geometry": {"coordinates":[[[[4.2212803562399,51.9886104532897],[4.22063753532313,51.98591221538005],[4.2205094524388,51.98537454268833],[4.21973808992697,51.98213625063519],[4.21965639985255,51.98179327441652],[4.21474974187146,51.98156097526569],[4.21206708863625,51.98475928345506],[4.21171830038241,51.98512966170476],[4.21159518967405,51.98613038532542],[4.20791641151111,51.98606336944749],[4.20761787160546,51.98723935974495],[4.21182586381808,51.98749962903651],[4.21297136561661,51.98760845744081],[4.2129648396303,51.987857710356],[4.2170129848496,51.98820190053288],[4.21708105385637,51.98825322170272],[4.2212803562399,51.9886104532897]]]],"type":"MultiPolygon"}
+}

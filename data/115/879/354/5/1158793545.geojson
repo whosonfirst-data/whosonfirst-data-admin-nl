@@ -1,0 +1,80 @@
+{
+  "id": 1158793545,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16630302",
+    "cbsnl:BU_NAAM":"Kruisweg",
+    "cbsnl:GM_CODE":"GM1663",
+    "cbsnl:GM_NAAM":"De Marne",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"122",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK166303",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":608940.687056,
+    "geom:bbox":"6.36682588773,53.3840528963,6.37804042037,53.3950162344",
+    "geom:latitude":53.38873,
+    "geom:longitude":6.372912,
+    "iso:country":"NL",
+    "lbl:latitude":53.388543,
+    "lbl:longitude":6.373581,
+    "mps:latitude":53.388543,
+    "mps:longitude":6.373581,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kruisweg"
+    ],
+    "name:nld_x_preferred":[
+        "Kruisweg"
+    ],
+    "reversegeo:latitude":53.388543,
+    "reversegeo:longitude":6.373581,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404474575,
+        85633337,
+        101874315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"fe11fa8468f8ad9f5e6534b8d22b7f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474575,
+            "locality_id":101874315,
+            "neighbourhood_id":1158793545,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793545,
+    "wof:lastmodified":1513382318,
+    "wof:name":"Kruisweg",
+    "wof:parent_id":101874315,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.366825887734659,
+    53.38405289628098,
+    6.378040420368622,
+    53.39501623444041
+],
+  "geometry": {"coordinates":[[[[6.36684721384865,53.3871152729248],[6.36682588773466,53.38716879969857],[6.36704816302479,53.38854459474385],[6.3670475839754,53.38859121338222],[6.36781638606518,53.38921450356794],[6.37077414774941,53.39150191069623],[6.37091479708185,53.39226004416935],[6.371293048805,53.39296232097247],[6.37347874026138,53.39479096764241],[6.37415592882472,53.39501623444041],[6.37468321705132,53.39480973313056],[6.37616800285404,53.39335141982949],[6.37758345540297,53.39071261258445],[6.37804042036862,53.38882299499058],[6.37795312503416,53.38666491832392],[6.37614516869561,53.38497476860213],[6.37473372246628,53.38424504665159],[6.37138531595492,53.38405289628098],[6.36942554201059,53.38451088941935],[6.36766918527125,53.3853333590331],[6.36741003989865,53.38556516407757],[6.36700196884009,53.3867231388644],[6.36684721384865,53.3871152729248]]]],"type":"MultiPolygon"}
+}

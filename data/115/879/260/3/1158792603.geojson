@@ -1,0 +1,80 @@
+{
+  "id": 1158792603,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00140503",
+    "cbsnl:BU_NAAM":"Kop van Oost",
+    "cbsnl:GM_CODE":"GM0014",
+    "cbsnl:GM_NAAM":"Groningen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"4309",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK001405",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":62919.655359,
+    "geom:bbox":"6.58014520311,53.2157291806,6.58658436324,53.2185786907",
+    "geom:latitude":53.217174,
+    "geom:longitude":6.583404,
+    "iso:country":"NL",
+    "lbl:latitude":53.217145,
+    "lbl:longitude":6.583405,
+    "mps:latitude":53.217145,
+    "mps:longitude":6.583405,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kop van Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Kop van Oost"
+    ],
+    "reversegeo:latitude":53.217145,
+    "reversegeo:longitude":6.583405,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473713,
+        85633337,
+        101751909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b1ddfe0d136893f0a59c3df8937f5791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473713,
+            "locality_id":101751909,
+            "neighbourhood_id":1158792603,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158792603,
+    "wof:lastmodified":1513382255,
+    "wof:name":"Kop van Oost",
+    "wof:parent_id":101751909,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.580145203111357,
+    53.215729180601464,
+    6.586584363243837,
+    53.218578690701406
+],
+  "geometry": {"coordinates":[[[[6.5854503626887,53.21857869070141],[6.58658436324384,53.21742355128698],[6.58179397989452,53.21572918060146],[6.58014520311136,53.21705153616741],[6.58020307046287,53.21706920514545],[6.58022669185136,53.21707641818729],[6.58460192607643,53.21833471586923],[6.5854503626887,53.21857869070141]]]],"type":"MultiPolygon"}
+}

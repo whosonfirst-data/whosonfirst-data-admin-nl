@@ -1,0 +1,79 @@
+{
+  "id": 1125766903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-23",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.01758,52.13926,5.01758,52.13926",
+    "geom:latitude":52.13926,
+    "geom:longitude":5.01758,
+    "gn:gn_country":"NL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1500,
+    "gn:population":1080,
+    "iso:country":"NL",
+    "lbl:latitude":52.13926,
+    "lbl:longitude":5.01758,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NL",
+    "qs_pg:gn_country":"NL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8449928,
+    "qs_pg:gn_pop":1500,
+    "qs_pg:name":"Spechtenkamp",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":771256,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1158787499,
+        85633337,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8449928,
+        "qs_pg:id":771256
+    },
+    "wof:country":"NL",
+    "wof:created":1497289929,
+    "wof:geomhash":"648d2ba84d747c78f9f5a9e393d7a091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158787499,
+            "locality_id":1125766903,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1125766903,
+    "wof:lastmodified":1524505993,
+    "wof:name":"Spechtenkamp",
+    "wof:parent_id":1158787499,
+    "wof:placetype":"locality",
+    "wof:population":1080,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.01758,
+    52.13926,
+    5.01758,
+    52.13926
+],
+  "geometry": {"coordinates":[5.01758,52.13926],"type":"Point"}
+}

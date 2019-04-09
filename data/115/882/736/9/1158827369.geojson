@@ -1,0 +1,80 @@
+{
+  "id": 1158827369,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06220604",
+    "cbsnl:BU_NAAM":"Vogelbuurt Noord",
+    "cbsnl:GM_CODE":"GM0622",
+    "cbsnl:GM_NAAM":"Vlaardingen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3660",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK062206",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":260535.108492,
+    "geom:bbox":"4.34952983117,51.9299015313,4.36266977201,51.9355695759",
+    "geom:latitude":51.932506,
+    "geom:longitude":4.355697,
+    "iso:country":"NL",
+    "lbl:latitude":51.932374,
+    "lbl:longitude":4.356345,
+    "mps:latitude":51.932374,
+    "mps:longitude":4.356345,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vogelbuurt Noord"
+    ],
+    "name:nld_x_preferred":[
+        "Vogelbuurt Noord"
+    ],
+    "reversegeo:latitude":51.932374,
+    "reversegeo:longitude":4.356345,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831319,
+        85633337,
+        101751851,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4dfaf358edd06ec5c3300b05f4f6942c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751851,
+            "macrohood_id":1158831319,
+            "neighbourhood_id":1158827369,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827369,
+    "wof:lastmodified":1513588144,
+    "wof:name":"Vogelbuurt Noord",
+    "wof:parent_id":1158831319,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.349529831170096,
+    51.929901531259766,
+    4.362669772012757,
+    51.93556957592229
+],
+  "geometry": {"coordinates":[[[[4.35829573818297,51.93466392085021],[4.36228429749226,51.93556957592229],[4.36256884014447,51.93490703970226],[4.36262831020886,51.93474537187063],[4.36266977201276,51.93463402707246],[4.36169092917286,51.93436436976813],[4.35893509288332,51.93367259478048],[4.36029992875003,51.93150669343917],[4.35922262421969,51.93124025203736],[4.35628300430326,51.93051309766042],[4.35543177903781,51.93076714996397],[4.35524259777823,51.93082335411474],[4.35126156321661,51.92990153125977],[4.34953183987312,51.93267029832613],[4.3495298311701,51.93267365142227],[4.34956870979691,51.93268242056194],[4.35829573818297,51.93466392085021]]]],"type":"MultiPolygon"}
+}

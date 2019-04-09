@@ -1,0 +1,81 @@
+{
+  "id": 1158803219,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01770808",
+    "cbsnl:BU_NAAM":"Verspreide huizen Rozendaal",
+    "cbsnl:GM_CODE":"GM0177",
+    "cbsnl:GM_NAAM":"Raalte",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"297",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK017708",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000113,
+    "geom:area_square_m":853286.963357,
+    "geom:bbox":"6.20712764993,52.4263969369,6.226721278,52.4401178635",
+    "geom:latitude":52.434196,
+    "geom:longitude":6.217272,
+    "iso:country":"NL",
+    "lbl:latitude":52.435032,
+    "lbl:longitude":6.217421,
+    "mps:latitude":52.435032,
+    "mps:longitude":6.217421,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen Rozendaal"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen Rozendaal"
+    ],
+    "reversegeo:latitude":52.435032,
+    "reversegeo:longitude":6.217421,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473849,
+        85633337,
+        101807223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"151534cfa155cf8afec3f0378478d628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473849,
+            "locality_id":101807223,
+            "neighbourhood_id":1158803219,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803219,
+    "wof:lastmodified":1513524324,
+    "wof:name":"Verspreide huizen Rozendaal",
+    "wof:parent_id":101807223,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.207127649934471,
+    52.42639693692052,
+    6.226721278003782,
+    52.44011786345415
+],
+  "geometry": {"coordinates":[[[[6.20712764993447,52.43646951510529],[6.21093883155804,52.43817407664871],[6.21334156559437,52.43934542729489],[6.21572544093878,52.4398834984251],[6.21819467412465,52.44011786345415],[6.22129069929909,52.43723684379194],[6.22141708468826,52.4368469463673],[6.2218183761817,52.43675424114549],[6.22231415644534,52.43660329053353],[6.22214773271437,52.43527257575918],[6.22227366387223,52.43516383369792],[6.22218700772182,52.43228832694554],[6.2203469595721,52.43170808398707],[6.22516054657858,52.42996980319342],[6.22597316208314,52.4299452326682],[6.22672127800378,52.42976663565178],[6.22296647548595,52.42645503286959],[6.22264191903198,52.42639693692052],[6.22287232514614,52.42660315627045],[6.20712764993447,52.43646951510529]]]],"type":"MultiPolygon"}
+}

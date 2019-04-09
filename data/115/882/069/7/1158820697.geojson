@@ -1,0 +1,82 @@
+{
+  "id": 1158820697,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04730101",
+    "cbsnl:BU_NAAM":"Boulevard Noord",
+    "cbsnl:GM_CODE":"GM0473",
+    "cbsnl:GM_NAAM":"Zandvoort",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1978",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK047301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":190494.394966,
+    "geom:bbox":"4.52795256232,52.3753067552,4.53463863541,52.3851759308",
+    "geom:latitude":52.38034,
+    "geom:longitude":4.531303,
+    "iso:country":"NL",
+    "lbl:latitude":52.379419,
+    "lbl:longitude":4.530796,
+    "mps:latitude":52.379419,
+    "mps:longitude":4.530796,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Boulevard Noord"
+    ],
+    "name:nld_x_preferred":[
+        "Boulevard Noord"
+    ],
+    "reversegeo:latitude":52.379419,
+    "reversegeo:longitude":4.530796,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823097,
+        404474135,
+        85633337,
+        101808813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a50774f23e52dcc1acc397a59986b690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474135,
+            "locality_id":101808813,
+            "macrohood_id":1158823097,
+            "neighbourhood_id":1158820697,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158820697,
+    "wof:lastmodified":1513464254,
+    "wof:name":"Boulevard Noord",
+    "wof:parent_id":1158823097,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.527952562323818,
+    52.37530675515974,
+    4.5346386354143,
+    52.38517593075343
+],
+  "geometry": {"coordinates":[[[[4.53459026825985,52.38326740157692],[4.53405205376798,52.38253303252969],[4.53269384397876,52.3808142053342],[4.53220185091704,52.37995497409518],[4.53232827365642,52.37974486127543],[4.53279075159211,52.37959094439303],[4.53056199144174,52.37632654830863],[4.53019756719103,52.3757651328165],[4.52988468370495,52.37530675515974],[4.52935730465227,52.37543446016697],[4.52982239681853,52.37616908545446],[4.52913037826545,52.37631763532398],[4.5283881883645,52.37732053106218],[4.52821530384863,52.3772733049859],[4.52795256232382,52.37766367967687],[4.52826649738791,52.37816662473515],[4.52941225497268,52.37997119067652],[4.53050643170404,52.38171954682926],[4.53152740074166,52.38330039281656],[4.53205759344941,52.38392109519037],[4.53287399904353,52.38517593075343],[4.53341918785129,52.3850411534286],[4.53359040654602,52.38489402152778],[4.53446356268415,52.38408928300299],[4.5346386354143,52.3836958637538],[4.53459026825985,52.38326740157692]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158797729,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07850916",
+    "cbsnl:BU_NAAM":"De Villa",
+    "cbsnl:GM_CODE":"GM0785",
+    "cbsnl:GM_NAAM":"Goirle",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1152",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK078509",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":116628.721202,
+    "geom:bbox":"5.04216592431,51.5198108091,5.05123394613,51.5227851328",
+    "geom:latitude":51.521657,
+    "geom:longitude":5.04679,
+    "iso:country":"NL",
+    "lbl:latitude":51.521269,
+    "lbl:longitude":5.047237,
+    "mps:latitude":51.521269,
+    "mps:longitude":5.047237,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Villa"
+    ],
+    "name:nld_x_preferred":[
+        "De Villa"
+    ],
+    "reversegeo:latitude":51.521269,
+    "reversegeo:longitude":5.047237,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474383,
+        85633337,
+        101754577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1cf99f6486469f9f6505f57929cc9a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474383,
+            "locality_id":101754577,
+            "neighbourhood_id":1158797729,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797729,
+    "wof:lastmodified":1513432615,
+    "wof:name":"De Villa",
+    "wof:parent_id":101754577,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.042165924310337,
+    51.5198108090711,
+    5.051233946126784,
+    51.52278513278335
+],
+  "geometry": {"coordinates":[[[[5.04543003611719,51.52270556557283],[5.04775328017863,51.52267009930267],[5.04818806102611,51.52260358630118],[5.04990745247949,51.52255207661592],[5.05030662098899,51.5224063887814],[5.05123394612678,51.52186197059781],[5.05117641990145,51.52183753617327],[5.0473433734673,51.5198108090711],[5.04464770579145,51.521048555406],[5.04220599905104,51.52228699850423],[5.04216592431034,51.52278513278335],[5.0429211065648,51.52278021416207],[5.04384427764383,51.52273774370156],[5.04543003611719,51.52270556557283]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158828339,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18920103",
+    "cbsnl:BU_NAAM":"Moerkapelle West",
+    "cbsnl:GM_CODE":"GM1892",
+    "cbsnl:GM_NAAM":"Zuidplas",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"481",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK189201",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":105265.322433,
+    "geom:bbox":"4.56826391966,52.0441655708,4.57464322755,52.0473015414",
+    "geom:latitude":52.04567,
+    "geom:longitude":4.571457,
+    "iso:country":"NL",
+    "lbl:latitude":52.045696,
+    "lbl:longitude":4.571457,
+    "mps:latitude":52.045696,
+    "mps:longitude":4.571457,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Moerkapelle West"
+    ],
+    "name:nld_x_preferred":[
+        "Moerkapelle West"
+    ],
+    "reversegeo:latitude":52.045696,
+    "reversegeo:longitude":4.571457,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158824737,
+        85633337,
+        101807047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d08dd907e0f2ecb5e8dae5139351b951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824737,
+            "locality_id":101807047,
+            "neighbourhood_id":1158828339,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828339,
+    "wof:lastmodified":1513588219,
+    "wof:name":"Moerkapelle West",
+    "wof:parent_id":101807047,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.568263919663608,
+    52.044165570778596,
+    4.574643227553117,
+    52.047301541398554
+],
+  "geometry": {"coordinates":[[[[4.57420784192532,52.04730154139855],[4.57434250822212,52.04647649106432],[4.5740774441697,52.04616473662508],[4.57425890088552,52.04606883864443],[4.57440804551653,52.04544749651403],[4.574551333826,52.04537933314883],[4.57464322755312,52.04487973175901],[4.57378544594707,52.04478283617065],[4.57350892804365,52.04475159827052],[4.56993599964251,52.04435176566653],[4.56826391966361,52.0441655707786],[4.56863402161176,52.04642671670939],[4.57420784192532,52.04730154139855]]]],"type":"MultiPolygon"}
+}

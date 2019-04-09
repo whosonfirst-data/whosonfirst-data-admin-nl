@@ -1,0 +1,82 @@
+{
+  "id": 1158802289,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01530003",
+    "cbsnl:BU_NAAM":"De Bothoven",
+    "cbsnl:GM_CODE":"GM0153",
+    "cbsnl:GM_NAAM":"Enschede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3962",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK015300",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":644432.290147,
+    "geom:bbox":"6.89930675635,52.2164187923,6.91212141626,52.2244948335",
+    "geom:latitude":52.220306,
+    "geom:longitude":6.9059,
+    "iso:country":"NL",
+    "lbl:latitude":52.220274,
+    "lbl:longitude":6.9059,
+    "mps:latitude":52.220274,
+    "mps:longitude":6.9059,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Bothoven"
+    ],
+    "name:nld_x_preferred":[
+        "De Bothoven"
+    ],
+    "reversegeo:latitude":52.220274,
+    "reversegeo:longitude":6.9059,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805835,
+        404473827,
+        85633337,
+        101751871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a7ccce6d29ef5403396597cbfc3e735a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473827,
+            "locality_id":101751871,
+            "macrohood_id":1158805835,
+            "neighbourhood_id":1158802289,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802289,
+    "wof:lastmodified":1513524252,
+    "wof:name":"De Bothoven",
+    "wof:parent_id":1158805835,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.899306756348072,
+    52.21641879225923,
+    6.912121416263466,
+    52.22449483346675
+],
+  "geometry": {"coordinates":[[[[6.89930675634807,52.22342680074975],[6.90955825804347,52.22449483346675],[6.90974023406442,52.22335634454773],[6.91142030998336,52.22312213359734],[6.91192860304897,52.22229146780691],[6.9120027437426,52.22146026689049],[6.91172538702726,52.22017794189069],[6.91212141626347,52.21893348388142],[6.91175375482562,52.21795782395732],[6.91090059710079,52.21688307729075],[6.90885998303903,52.21654336105111],[6.9064155016229,52.21641879225923],[6.90434020766859,52.21648135005623],[6.90011108905217,52.21695876861279],[6.90031544358402,52.2185008095742],[6.90016668515258,52.21983931939118],[6.90003459350337,52.221266632927],[6.89930675634807,52.22342680074975]]]],"type":"MultiPolygon"}
+}

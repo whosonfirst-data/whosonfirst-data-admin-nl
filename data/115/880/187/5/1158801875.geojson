@@ -1,0 +1,82 @@
+{
+  "id": 1158801875,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01411003",
+    "cbsnl:BU_NAAM":"Java en omgeving",
+    "cbsnl:GM_CODE":"GM0141",
+    "cbsnl:GM_NAAM":"Almelo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1798",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK014110",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":98217.68964,
+    "geom:bbox":"6.66125748002,52.3598099658,6.66774313175,52.3621828934",
+    "geom:latitude":52.361055,
+    "geom:longitude":6.664364,
+    "iso:country":"NL",
+    "lbl:latitude":52.36105,
+    "lbl:longitude":6.664364,
+    "mps:latitude":52.36105,
+    "mps:longitude":6.664364,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Java en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Java en omgeving"
+    ],
+    "reversegeo:latitude":52.36105,
+    "reversegeo:longitude":6.664364,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805833,
+        404473819,
+        85633337,
+        101751863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"435c549a4a868029b00047354e0c139c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473819,
+            "locality_id":101751863,
+            "macrohood_id":1158805833,
+            "neighbourhood_id":1158801875,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158801875,
+    "wof:lastmodified":1513524223,
+    "wof:name":"Java en omgeving",
+    "wof:parent_id":1158805833,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.661257480020167,
+    52.35980996578106,
+    6.667743131754666,
+    52.36218289335379
+],
+  "geometry": {"coordinates":[[[[6.66125748002017,52.36186765105087],[6.66174320329369,52.36193376756849],[6.66306757665392,52.36208493903595],[6.66435390195594,52.36209353272081],[6.66580704533504,52.36218289335379],[6.66744958305613,52.3621176596092],[6.66774313175467,52.36210633763765],[6.66750287800923,52.36091233483921],[6.66724576969488,52.3601036182167],[6.66591474326922,52.35992700391432],[6.66596610833831,52.36035593310845],[6.6652262870401,52.36038780211567],[6.66517974379951,52.36012595224143],[6.6639656795825,52.35994805265559],[6.66127131286751,52.35980996578106],[6.66125748002017,52.36186765105087]]]],"type":"MultiPolygon"}
+}

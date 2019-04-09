@@ -1,0 +1,82 @@
+{
+  "id": 1158802383,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01530606",
+    "cbsnl:BU_NAAM":"Wesselerbrink Noord-West",
+    "cbsnl:GM_CODE":"GM0153",
+    "cbsnl:GM_NAAM":"Enschede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2250",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK015306",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000146,
+    "geom:area_square_m":1108515.85511,
+    "geom:bbox":"6.8586866093,52.1911357073,6.87967870692,52.2021152537",
+    "geom:latitude":52.196854,
+    "geom:longitude":6.87108,
+    "iso:country":"NL",
+    "lbl:latitude":52.196418,
+    "lbl:longitude":6.87233,
+    "mps:latitude":52.196418,
+    "mps:longitude":6.87233,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Wesselerbrink Noord-West"
+    ],
+    "name:nld_x_preferred":[
+        "Wesselerbrink Noord-West"
+    ],
+    "reversegeo:latitude":52.196418,
+    "reversegeo:longitude":6.87233,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805849,
+        404473827,
+        85633337,
+        101751871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5e7eb433b80dcb7fef809a2ddf1f51e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473827,
+            "locality_id":101751871,
+            "macrohood_id":1158805849,
+            "neighbourhood_id":1158802383,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802383,
+    "wof:lastmodified":1513524257,
+    "wof:name":"Wesselerbrink Noord-West",
+    "wof:parent_id":1158805849,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.858686609296919,
+    52.19113570729399,
+    6.879678706923127,
+    52.20211525367568
+],
+  "geometry": {"coordinates":[[[[6.85868660929692,52.20211525367568],[6.86125046783746,52.20191359364597],[6.86421060235055,52.20177632802162],[6.86876323970815,52.20164511917198],[6.87388846294893,52.2014208007881],[6.87967870692313,52.20105874999384],[6.87821658997668,52.19535415627083],[6.87744853897442,52.19113570729399],[6.87174138232884,52.19137030624584],[6.86917936967292,52.19153154965661],[6.86652533437254,52.19187077651327],[6.86279481080925,52.1925061320558],[6.86327551100177,52.19378861805087],[6.86390416905934,52.19397669811693],[6.86499230475185,52.19441231701431],[6.86580793733318,52.19484178331088],[6.8665381947422,52.19527709319192],[6.8673398096892,52.19597212977384],[6.86282973944929,52.19922104211322],[6.86268251025777,52.19994453441872],[6.86232769089818,52.20027395298975],[6.86156744544616,52.2005797613235],[6.86021761654658,52.20108745706032],[6.85868660929692,52.20211525367568]]]],"type":"MultiPolygon"}
+}

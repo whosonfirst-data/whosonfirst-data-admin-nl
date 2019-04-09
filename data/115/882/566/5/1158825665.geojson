@@ -1,0 +1,80 @@
+{
+  "id": 1158825665,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050403",
+    "cbsnl:BU_NAAM":"Emmastraat en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3648",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050504",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":65554.955888,
+    "geom:bbox":"4.67247035106,51.8026216937,4.67687022742,51.8060944252",
+    "geom:latitude":51.804273,
+    "geom:longitude":4.674514,
+    "iso:country":"NL",
+    "lbl:latitude":51.80412,
+    "lbl:longitude":4.674664,
+    "mps:latitude":51.80412,
+    "mps:longitude":4.674664,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Emmastraat en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Emmastraat en omgeving"
+    ],
+    "reversegeo:latitude":51.80412,
+    "reversegeo:longitude":4.674664,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831089,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e0baa6d2d29ccbd42eb1cca33ffbfef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158831089,
+            "neighbourhood_id":1158825665,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825665,
+    "wof:lastmodified":1513588009,
+    "wof:name":"Emmastraat en omgeving",
+    "wof:parent_id":1158831089,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.672470351063755,
+    51.80262169367244,
+    4.676870227419673,
+    51.80609442520717
+],
+  "geometry": {"coordinates":[[[[4.67247035106375,51.80544013062306],[4.67435131868508,51.80609442520717],[4.67548991888283,51.80493377965411],[4.67643450174983,51.80426107558214],[4.67672909148647,51.80397973441164],[4.67684939805415,51.80382554305899],[4.67687022741967,51.80365473119213],[4.67683734414875,51.80347244827399],[4.67474181668437,51.80289031024084],[4.67391356110203,51.80262169367244],[4.67259308472162,51.8040561181182],[4.67343172238843,51.80434968721161],[4.67247035106375,51.80544013062306]]]],"type":"MultiPolygon"}
+}

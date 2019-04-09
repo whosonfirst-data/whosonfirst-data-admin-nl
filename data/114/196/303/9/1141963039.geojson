@@ -1,0 +1,82 @@
+{
+  "id": 1141963039,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02280402",
+    "cbsnl:BU_NAAM":"De Bossen",
+    "cbsnl:GM_CODE":"GM0228",
+    "cbsnl:GM_NAAM":"Ede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1634",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022804",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":316657.63903,
+    "geom:bbox":"5.63205758812,52.0472239188,5.6423915247,52.0535775914",
+    "geom:latitude":52.05052,
+    "geom:longitude":5.636825,
+    "iso:country":"NL",
+    "lbl:latitude":52.050688,
+    "lbl:longitude":5.636727,
+    "mps:latitude":52.050688,
+    "mps:longitude":5.636727,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Bossen"
+    ],
+    "name:nld_x_preferred":[
+        "De Bossen"
+    ],
+    "reversegeo:latitude":52.050688,
+    "reversegeo:longitude":5.636727,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158784003,
+        404473893,
+        85633337,
+        101751855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a760d835dc4eb1150186389d60127b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473893,
+            "locality_id":101751855,
+            "macrohood_id":1158784003,
+            "neighbourhood_id":1141963039,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963039,
+    "wof:lastmodified":1513368719,
+    "wof:name":"De Bossen",
+    "wof:parent_id":1158784003,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.632057588124185,
+    52.04722391878202,
+    5.642391524702033,
+    52.05357759137395
+],
+  "geometry": {"coordinates":[[[[5.63983727577457,52.05357759137395],[5.64039054025537,52.05263185387583],[5.64106694031339,52.05155761159503],[5.64180889931541,52.05046114424059],[5.64239152470203,52.0496000916997],[5.63656563525266,52.04811519696815],[5.6356699706824,52.04788687889643],[5.63407945246792,52.04750923781119],[5.63205758812419,52.04722391878202],[5.63344335929114,52.05269835531907],[5.63596201551697,52.053070489254],[5.63769623833027,52.05340961775883],[5.63983727577457,52.05357759137395]]]],"type":"MultiPolygon"}
+}

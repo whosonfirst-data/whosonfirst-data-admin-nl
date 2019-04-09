@@ -1,0 +1,82 @@
+{
+  "id": 1158802309,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01530101",
+    "cbsnl:BU_NAAM":"Wooldrik",
+    "cbsnl:GM_CODE":"GM0153",
+    "cbsnl:GM_NAAM":"Enschede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1841",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK015301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000073,
+    "geom:area_square_m":553899.841619,
+    "geom:bbox":"6.9115802773,52.2123652383,6.92645090359,52.2191530241",
+    "geom:latitude":52.215919,
+    "geom:longitude":6.919674,
+    "iso:country":"NL",
+    "lbl:latitude":52.215723,
+    "lbl:longitude":6.919528,
+    "mps:latitude":52.215723,
+    "mps:longitude":6.919528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Wooldrik"
+    ],
+    "name:nld_x_preferred":[
+        "Wooldrik"
+    ],
+    "reversegeo:latitude":52.215723,
+    "reversegeo:longitude":6.919528,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805837,
+        404473827,
+        85633337,
+        101751871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3ef1816fca18f34f7531b5307a8234c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473827,
+            "locality_id":101751871,
+            "macrohood_id":1158805837,
+            "neighbourhood_id":1158802309,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802309,
+    "wof:lastmodified":1513524253,
+    "wof:name":"Wooldrik",
+    "wof:parent_id":1158805837,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.911580277303159,
+    52.21236523828439,
+    6.926450903591333,
+    52.21915302413678
+],
+  "geometry": {"coordinates":[[[[6.91158027730316,52.21706216206881],[6.91374759857892,52.21763318151006],[6.9150165532653,52.21812892531224],[6.91577648152132,52.21857586215668],[6.91699108660087,52.21906280364179],[6.91807080995676,52.21915302413678],[6.9212956785607,52.21888807697718],[6.92645090359133,52.21853247523701],[6.9259345082233,52.21448655031006],[6.92594174580431,52.21445898839019],[6.9227662662877,52.21282773999707],[6.91915687679387,52.21236523828439],[6.91800678643934,52.21264820438144],[6.91683579390943,52.21260847160391],[6.9158726574817,52.21288903879275],[6.91519647373352,52.2132927792084],[6.91398602076781,52.21382673416893],[6.91391848879879,52.21456941849797],[6.91455663628952,52.215088931024],[6.91392574055619,52.21519226524716],[6.91331367653711,52.21543378136561],[6.91258573292211,52.215996915331],[6.91158027730316,52.21706216206881]]]],"type":"MultiPolygon"}
+}

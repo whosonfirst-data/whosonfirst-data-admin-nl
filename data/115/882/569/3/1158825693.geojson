@@ -1,0 +1,80 @@
+{
+  "id": 1158825693,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050506",
+    "cbsnl:BU_NAAM":"Hoekenessestraat en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2866",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050505",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":71330.076814,
+    "geom:bbox":"4.67457831668,51.8025853018,4.68132662639,51.8066410032",
+    "geom:latitude":51.804982,
+    "geom:longitude":4.678913,
+    "iso:country":"NL",
+    "lbl:latitude":51.804838,
+    "lbl:longitude":4.679475,
+    "mps:latitude":51.804838,
+    "mps:longitude":4.679475,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hoekenessestraat en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Hoekenessestraat en omgeving"
+    ],
+    "reversegeo:latitude":51.804838,
+    "reversegeo:longitude":4.679475,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829563,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e5c5e4defde1b0eb631dfb765d550a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829563,
+            "neighbourhood_id":1158825693,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825693,
+    "wof:lastmodified":1513588011,
+    "wof:name":"Hoekenessestraat en omgeving",
+    "wof:parent_id":1158829563,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.674578316683196,
+    51.802585301780375,
+    4.681326626386189,
+    51.8066410032206
+],
+  "geometry": {"coordinates":[[[[4.67458590254289,51.80652286661014],[4.6745783166832,51.8066410032206],[4.68034259752117,51.80597339470953],[4.68100113116694,51.80536420659686],[4.68132662638619,51.80485691209481],[4.67907536744138,51.80258530178038],[4.678775157273,51.80269708851358],[4.67871473496414,51.80272126644491],[4.67872604610498,51.80300872282314],[4.6786795132839,51.80337198844349],[4.67860664738538,51.80363960512468],[4.67847491829473,51.80399200190813],[4.67833483406692,51.80428567313422],[4.67816167367156,51.804558436463],[4.67796283755274,51.80481148695025],[4.67777032703257,51.80501625517459],[4.67755001746853,51.80521855457764],[4.67737521892013,51.80535900420943],[4.67713505362573,51.80552551878804],[4.67687080119397,51.80568958613262],[4.67649458231777,51.80589266507759],[4.67617496223879,51.80603683646184],[4.67566618645002,51.80623105728895],[4.67484870207301,51.80646539236157],[4.67458590254289,51.80652286661014]]]],"type":"MultiPolygon"}
+}

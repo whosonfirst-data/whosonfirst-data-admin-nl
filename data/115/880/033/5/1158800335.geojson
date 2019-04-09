@@ -1,0 +1,80 @@
+{
+  "id": 1158800335,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17240200",
+    "cbsnl:BU_NAAM":"Luyksgestel",
+    "cbsnl:GM_CODE":"GM1724",
+    "cbsnl:GM_NAAM":"Bergeijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"306",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK172402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000302,
+    "geom:area_square_m":2333798.436227,
+    "geom:bbox":"5.30330299097,51.2792672354,5.33847159055,51.2983144717",
+    "geom:latitude":51.288652,
+    "geom:longitude":5.321829,
+    "iso:country":"NL",
+    "lbl:latitude":51.289198,
+    "lbl:longitude":5.321829,
+    "mps:latitude":51.289198,
+    "mps:longitude":5.321829,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Luyksgestel"
+    ],
+    "name:nld_x_preferred":[
+        "Luyksgestel"
+    ],
+    "reversegeo:latitude":51.289198,
+    "reversegeo:longitude":5.321829,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474639,
+        85633337,
+        101809697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e92c8f7f83cabc9e151c190b714a25f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474639,
+            "locality_id":101809697,
+            "neighbourhood_id":1158800335,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158800335,
+    "wof:lastmodified":1513432820,
+    "wof:name":"Luyksgestel",
+    "wof:parent_id":101809697,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.303302990972426,
+    51.27926723537326,
+    5.338471590553926,
+    51.29831447169714
+],
+  "geometry": {"coordinates":[[[[5.33251779627005,51.29831447169714],[5.33400540155567,51.2963589834341],[5.33847159055393,51.28954746329591],[5.33245936103071,51.28720238744289],[5.32668654788075,51.28515909134127],[5.3237780997102,51.28418226755733],[5.31996444012267,51.28281019107828],[5.31629704762243,51.28156869570857],[5.31559080848811,51.28136039941845],[5.31378132776033,51.28091798243907],[5.30750649275681,51.27926723537326],[5.30330299097243,51.2847375958485],[5.30784257196088,51.28628936593638],[5.31531959557227,51.2889413999582],[5.31320079490781,51.29067406036241],[5.31334848527908,51.29076404143757],[5.31556407324178,51.29202749880604],[5.31750366656403,51.29308569465389],[5.32138643782189,51.29476603698939],[5.32584033124639,51.29626171906498],[5.33096261020777,51.29790811587802],[5.33251779627005,51.29831447169714]]]],"type":"MultiPolygon"}
+}

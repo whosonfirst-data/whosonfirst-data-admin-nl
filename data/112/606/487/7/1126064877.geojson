@@ -1,0 +1,85 @@
+{
+  "id": 1126064877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4012,52.14863,5.4012,52.14863",
+    "geom:latitude":52.14863,
+    "geom:longitude":5.4012,
+    "gn:gn_country":"NL",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":7131,
+    "gn:population":7131,
+    "iso:country":"NL",
+    "lbl:latitude":52.14863,
+    "lbl:longitude":5.4012,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NL",
+    "qs_pg:gn_country":"NL",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":6950811,
+    "qs_pg:gn_pop":7131,
+    "qs_pg:name":"Randenbroek",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":161035,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        1158790283,
+        404473971,
+        85633337,
+        101751821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6950811,
+        "qs_pg:id":161035
+    },
+    "wof:country":"NL",
+    "wof:created":1497308705,
+    "wof:geomhash":"d4700041e5c3bd247bf6c29e682896a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473971,
+            "locality_id":101751821,
+            "macrohood_id":1158790283,
+            "neighbourhood_id":1126064877,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1126064877,
+    "wof:lastmodified":1513621739,
+    "wof:name":"Randenbroek",
+    "wof:parent_id":1158790283,
+    "wof:placetype":"neighbourhood",
+    "wof:population":7131,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        85797913
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4012,
+    52.14863,
+    5.4012,
+    52.14863
+],
+  "geometry": {"coordinates":[5.4012,52.14863],"type":"Point"}
+}

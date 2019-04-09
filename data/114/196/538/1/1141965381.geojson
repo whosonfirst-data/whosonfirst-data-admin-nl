@@ -1,0 +1,80 @@
+{
+  "id": 1141965381,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19550004",
+    "cbsnl:BU_NAAM":"Braamt",
+    "cbsnl:GM_CODE":"GM1955",
+    "cbsnl:GM_NAAM":"Montferland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"185",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK195500",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":197110.619147,
+    "geom:bbox":"6.2602903866,51.9218498407,6.26941102378,51.9265718972",
+    "geom:latitude":51.924059,
+    "geom:longitude":6.264652,
+    "iso:country":"NL",
+    "lbl:latitude":51.923913,
+    "lbl:longitude":6.264108,
+    "mps:latitude":51.923913,
+    "mps:longitude":6.264108,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Braamt"
+    ],
+    "name:nld_x_preferred":[
+        "Braamt"
+    ],
+    "reversegeo:latitude":51.923913,
+    "reversegeo:longitude":6.264108,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474689,
+        85633337,
+        101855333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"900a38440f92ae52e4dbe0598038b355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474689,
+            "locality_id":101855333,
+            "neighbourhood_id":1141965381,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141965381,
+    "wof:lastmodified":1513368889,
+    "wof:name":"Braamt",
+    "wof:parent_id":101855333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.260290386602,
+    51.921849840723304,
+    6.26941102377535,
+    51.92657189716043
+],
+  "geometry": {"coordinates":[[[[6.26675302534867,51.92343276308463],[6.26664157121455,51.92284504951739],[6.26678370670928,51.92262543952008],[6.26684723526528,51.92225967930869],[6.26655744052688,51.92225650205851],[6.26655997074909,51.92224914084763],[6.26455122418525,51.92189646317627],[6.26308203862398,51.9218498407233],[6.26223415762372,51.92235418763032],[6.26178552507297,51.92268027767966],[6.26123390472486,51.92317707630113],[6.260290386602,51.92496918798713],[6.26269242502145,51.92572799720198],[6.26388652518314,51.92657189716043],[6.26507766160655,51.9259950301011],[6.26582915468895,51.92519475675753],[6.26664321433565,51.92554961899383],[6.2669927725256,51.92521076926565],[6.26839984087327,51.92525808959032],[6.26941102377535,51.92520415480323],[6.26917137741092,51.92445258906361],[6.26907736929906,51.92444289979404],[6.26897779403659,51.92308494858936],[6.26675302534867,51.92343276308463]]]],"type":"MultiPolygon"}
+}

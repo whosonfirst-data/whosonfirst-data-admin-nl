@@ -1,0 +1,80 @@
+{
+  "id": 1158819785,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04000802",
+    "cbsnl:BU_NAAM":"Vogelzand",
+    "cbsnl:GM_CODE":"GM0400",
+    "cbsnl:GM_NAAM":"Den Helder",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1365",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK040008",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:area_square_m":356430.646337,
+    "geom:bbox":"4.73307945597,52.8910187979,4.74303059119,52.8992646959",
+    "geom:latitude":52.895265,
+    "geom:longitude":4.738388,
+    "iso:country":"NL",
+    "lbl:latitude":52.895502,
+    "lbl:longitude":4.738727,
+    "mps:latitude":52.895502,
+    "mps:longitude":4.738727,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vogelzand"
+    ],
+    "name:nld_x_preferred":[
+        "Vogelzand"
+    ],
+    "reversegeo:latitude":52.895502,
+    "reversegeo:longitude":4.738727,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474079,
+        85633337,
+        101806077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a3c23fd4e0f153f8405fb19713418776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474079,
+            "locality_id":101806077,
+            "neighbourhood_id":1158819785,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158819785,
+    "wof:lastmodified":1513464171,
+    "wof:name":"Vogelzand",
+    "wof:parent_id":101806077,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.733079455965249,
+    52.89101879785374,
+    4.743030591193302,
+    52.89926469592032
+],
+  "geometry": {"coordinates":[[[[4.73668765506049,52.89926469592032],[4.73733345365687,52.89920867562213],[4.73788705815171,52.89916057664805],[4.74060529950832,52.89895683720702],[4.7430305911933,52.8986582214638],[4.74296602981451,52.89829672030322],[4.74268529521182,52.89698315133287],[4.74223350617631,52.89597252039437],[4.74183966494674,52.89477347814751],[4.74112322628808,52.89377882207317],[4.74037958183362,52.8930244077406],[4.74007018766743,52.8927435834186],[4.73975794734205,52.89245937062214],[4.73917444086349,52.89202484404555],[4.73766778948664,52.89162517551138],[4.73689850192221,52.8914528198717],[4.73579729906573,52.89120609047012],[4.73385473835593,52.89104438628794],[4.73321700060901,52.89106617092193],[4.73307945596525,52.89101879785374],[4.7336923987159,52.89196351060487],[4.73501804861541,52.89423652809258],[4.73555420816776,52.89544704115072],[4.73615582860075,52.89676181778458],[4.7365675235402,52.89845187083768],[4.73668765506049,52.89926469592032]]]],"type":"MultiPolygon"}
+}

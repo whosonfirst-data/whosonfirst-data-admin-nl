@@ -1,0 +1,80 @@
+{
+  "id": 1158807873,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19030400",
+    "cbsnl:BU_NAAM":"Sint Geertruid",
+    "cbsnl:GM_CODE":"GM1903",
+    "cbsnl:GM_NAAM":"Eijsden-Margraten",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"182",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK190304",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:area_square_m":486652.535034,
+    "geom:bbox":"5.75834278439,50.7922737916,5.77313285911,50.7983589974",
+    "geom:latitude":50.795779,
+    "geom:longitude":5.765483,
+    "iso:country":"NL",
+    "lbl:latitude":50.795612,
+    "lbl:longitude":5.764602,
+    "mps:latitude":50.795612,
+    "mps:longitude":5.764602,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Sint Geertruid"
+    ],
+    "name:nld_x_preferred":[
+        "Sint Geertruid"
+    ],
+    "reversegeo:latitude":50.795612,
+    "reversegeo:longitude":5.764602,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        1158805871,
+        85633337,
+        101810595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ae9334ec99ddd763e6d71c02f4d0a474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810595,
+            "neighbourhood_id":1158807873,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158807873,
+    "wof:lastmodified":1513404150,
+    "wof:name":"Sint Geertruid",
+    "wof:parent_id":101810595,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.758342784394485,
+    50.79227379162462,
+    5.77313285911259,
+    50.79835899736183
+],
+  "geometry": {"coordinates":[[[[5.76107408047584,50.79227379162462],[5.76066544728685,50.79243578926634],[5.75948381886782,50.79308427089417],[5.75861730319956,50.7936263911069],[5.75834837211223,50.79405226074793],[5.75834278439449,50.79440649448286],[5.75861537129024,50.79479663254384],[5.75897732373939,50.79519378466612],[5.75951753519932,50.79571143228787],[5.76009211378095,50.79642334788159],[5.7604924937431,50.7971861057011],[5.76076758976536,50.79824140472778],[5.76593609143208,50.79823636853664],[5.76879063820288,50.79835899736183],[5.77292933469755,50.79833176614056],[5.77313285911259,50.79535774593298],[5.7721752792994,50.79497975709111],[5.76952301096854,50.79461272277891],[5.76840732795483,50.79451303910256],[5.76780625057552,50.79436586243752],[5.76643069524746,50.79367656253044],[5.76533891484662,50.79318912712287],[5.76327637626988,50.79262057640175],[5.76107408047584,50.79227379162462]]]],"type":"MultiPolygon"}
+}

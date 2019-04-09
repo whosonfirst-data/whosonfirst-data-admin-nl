@@ -1,0 +1,82 @@
+{
+  "id": 1158827723,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06420511",
+    "cbsnl:BU_NAAM":"Bloemenbuurt M(adelief) - Z(onnenbloem)",
+    "cbsnl:GM_CODE":"GM0642",
+    "cbsnl:GM_NAAM":"Zwijndrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2308",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK064205",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":70684.73675,
+    "geom:bbox":"4.62711792328,51.8108052443,4.63239695709,51.8143468366",
+    "geom:latitude":51.812562,
+    "geom:longitude":4.629769,
+    "iso:country":"NL",
+    "lbl:latitude":51.81252,
+    "lbl:longitude":4.629769,
+    "mps:latitude":51.81252,
+    "mps:longitude":4.629769,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bloemenbuurt M(adelief) - Z(onnenbloem)"
+    ],
+    "name:nld_x_preferred":[
+        "Bloemenbuurt M(adelief) - Z(onnenbloem)"
+    ],
+    "reversegeo:latitude":51.81252,
+    "reversegeo:longitude":4.629769,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831151,
+        404474291,
+        85633337,
+        101754703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"150a2ca61a8b5133fc7c7a286741efc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474291,
+            "locality_id":101754703,
+            "macrohood_id":1158831151,
+            "neighbourhood_id":1158827723,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827723,
+    "wof:lastmodified":1513588167,
+    "wof:name":"Bloemenbuurt M(adelief) - Z(onnenbloem)",
+    "wof:parent_id":1158831151,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.627117923276208,
+    51.810805244297704,
+    4.632396957085658,
+    51.81434683662947
+],
+  "geometry": {"coordinates":[[[[4.6276039297042,51.81271294440743],[4.62807825284102,51.81301314482437],[4.62942746799712,51.81390438516036],[4.63008478269315,51.81434683662947],[4.63059283789627,51.81404244756227],[4.63074956307447,51.81394146317963],[4.6308798819591,51.81385064509217],[4.63108326904088,51.81366865827884],[4.63118785101458,51.81354811014882],[4.63148642384108,51.81323664204506],[4.63160344163737,51.81313452850289],[4.63202929570498,51.81290858818411],[4.63207933703539,51.81288378691313],[4.63218031407125,51.81283446821591],[4.63239695708566,51.81271420873398],[4.62978315338423,51.81091504989656],[4.62961750745353,51.8108052442977],[4.62946570161088,51.81091431278446],[4.62930558815685,51.81101286454719],[4.6281357376901,51.8117237890134],[4.62711792327621,51.81231927569613],[4.62736366776903,51.8124819343041],[4.62730435931508,51.81251610282621],[4.6276039297042,51.81271294440743]]]],"type":"MultiPolygon"}
+}

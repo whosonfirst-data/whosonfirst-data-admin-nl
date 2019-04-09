@@ -1,0 +1,80 @@
+{
+  "id": 1158802433,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01530807",
+    "cbsnl:BU_NAAM":"Dolphia",
+    "cbsnl:GM_CODE":"GM0153",
+    "cbsnl:GM_NAAM":"Enschede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"740",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK015308",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":580862.802666,
+    "geom:bbox":"6.93919079476,52.2163905726,6.9564864632,52.2224676671",
+    "geom:latitude":52.219278,
+    "geom:longitude":6.947599,
+    "iso:country":"NL",
+    "lbl:latitude":52.219284,
+    "lbl:longitude":6.947599,
+    "mps:latitude":52.219284,
+    "mps:longitude":6.947599,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Dolphia"
+    ],
+    "name:nld_x_preferred":[
+        "Dolphia"
+    ],
+    "reversegeo:latitude":52.219284,
+    "reversegeo:longitude":6.947599,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473827,
+        85633337,
+        101754777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3f808548cb8679049c00ad36a407d3eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473827,
+            "locality_id":101754777,
+            "neighbourhood_id":1158802433,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802433,
+    "wof:lastmodified":1513524261,
+    "wof:name":"Dolphia",
+    "wof:parent_id":101754777,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.939190794763767,
+    52.21639057259084,
+    6.956486463199601,
+    52.22246766712448
+],
+  "geometry": {"coordinates":[[[[6.94010834807146,52.22246766712448],[6.9564864631996,52.22065894550201],[6.95614325931511,52.21956195174396],[6.95549086607058,52.21639057259084],[6.94734093421277,52.21694452713658],[6.93919079476377,52.21749791983851],[6.93964954645146,52.21998279528189],[6.94010834807146,52.22246766712448]]]],"type":"MultiPolygon"}
+}

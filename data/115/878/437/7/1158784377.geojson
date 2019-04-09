@@ -1,0 +1,86 @@
+{
+  "id": 1158784377,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06771339",
+    "cbsnl:BU_NAAM":"Kern Ossenisse",
+    "cbsnl:GM_CODE":"GM0677",
+    "cbsnl:GM_NAAM":"Hulst",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"43",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK067713",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":119118.501204,
+    "geom:bbox":"3.97630763882,51.3860973907,3.98304553709,51.3914679178",
+    "geom:latitude":51.388734,
+    "geom:longitude":3.979602,
+    "iso:country":"NL",
+    "lbl:latitude":51.388587,
+    "lbl:longitude":3.979653,
+    "mps:latitude":51.388587,
+    "mps:longitude":3.979653,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ossenisse"
+    ],
+    "name:eng_x_variant":[
+        "Kern Ossenisse"
+    ],
+    "name:nld_x_preferred":[
+        "Ossenisse"
+    ],
+    "name:nld_x_variant":[
+        "Kern Ossenisse"
+    ],
+    "reversegeo:latitude":51.388587,
+    "reversegeo:longitude":3.979653,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474307,
+        85633337,
+        1158786507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1bfd827fe6e07bc84f206c639b4e5b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474307,
+            "locality_id":1158786507,
+            "neighbourhood_id":1158784377,
+            "region_id":85687037
+        }
+    ],
+    "wof:id":1158784377,
+    "wof:lastmodified":1513628650,
+    "wof:name":"Ossenisse",
+    "wof:parent_id":1158786507,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.97630763882191,
+    51.386097390657156,
+    3.983045537085518,
+    51.3914679177588
+],
+  "geometry": {"coordinates":[[[[3.98297604271009,51.38609739065716],[3.98132597274283,51.38637204446544],[3.98129317504344,51.38689193671734],[3.97978298481017,51.38731421500926],[3.97642210517708,51.38825179480994],[3.97683521506355,51.38910518514191],[3.97767786760423,51.38877856504482],[3.97772868336525,51.38915591243858],[3.97752326395333,51.38960629259968],[3.97756005661403,51.39043380457662],[3.97630763882191,51.39065238908988],[3.9763585144759,51.39100023822034],[3.97684840534288,51.39129271808599],[3.97772265599117,51.3914679177588],[3.97840801824551,51.39138546063246],[3.97859925812971,51.39055255830701],[3.97851221133068,51.39015230111186],[3.97876220782337,51.38979404096791],[3.98185489427438,51.38989795010476],[3.98216316358949,51.3892139425153],[3.98157980360021,51.38917193890021],[3.98186396255399,51.38815655588275],[3.98198863082679,51.38758018040981],[3.98227646338821,51.38710718775325],[3.98304553708552,51.38692129584582],[3.98297604271009,51.38609739065716]]]],"type":"MultiPolygon"}
+}

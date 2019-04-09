@@ -1,0 +1,78 @@
+{
+  "id": 1158826935,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06030553",
+    "cbsnl:BU_NAAM":"Presidentenbuurt",
+    "cbsnl:GM_CODE":"GM0603",
+    "cbsnl:GM_NAAM":"Rijswijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3005",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060305",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":108340.090267,
+    "geom:bbox":"4.29955778368,52.0370537537,4.30548016945,52.0407390628",
+    "geom:latitude":52.038712,
+    "geom:longitude":4.302662,
+    "iso:country":"NL",
+    "lbl:latitude":52.038806,
+    "lbl:longitude":4.302718,
+    "mps:latitude":52.038806,
+    "mps:longitude":4.302718,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Presidentenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Presidentenbuurt"
+    ],
+    "reversegeo:latitude":52.038806,
+    "reversegeo:longitude":4.302718,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        101754743,
+        85633337,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d35281e8590383e002ed03e5b9bd9d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754743,
+            "neighbourhood_id":1158826935,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826935,
+    "wof:lastmodified":1513588108,
+    "wof:name":"Presidentenbuurt",
+    "wof:parent_id":101754743,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.299557783677809,
+    52.037053753723306,
+    4.30548016944532,
+    52.04073906279195
+],
+  "geometry": {"coordinates":[[[[4.29955778367781,52.03971427336467],[4.30352438038084,52.04073906279195],[4.30465233940117,52.03919257042062],[4.30480017634746,52.03895279624705],[4.30505466089541,52.03828240508373],[4.30548016944532,52.03715136294954],[4.30504553362612,52.03710690161905],[4.30461667520716,52.03707791659686],[4.30400860089682,52.03705375372331],[4.30340268501996,52.03705846125413],[4.30235559442115,52.03709204614495],[4.30198627764436,52.03711595993779],[4.30175475694756,52.03713314274135],[4.30156952069804,52.03717165967966],[4.30141652565172,52.03720347198438],[4.30125565871791,52.03730988972848],[4.3011263016471,52.03746260294005],[4.30070831939871,52.03803124346165],[4.30003505836022,52.03900350471969],[4.29955778367781,52.03971427336467]]]],"type":"MultiPolygon"}
+}

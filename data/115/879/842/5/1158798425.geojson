@@ -1,0 +1,80 @@
+{
+  "id": 1158798425,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08240803",
+    "cbsnl:BU_NAAM":"Omg. \"Prinsessen\"-wijk",
+    "cbsnl:GM_CODE":"GM0824",
+    "cbsnl:GM_NAAM":"Oisterwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1410",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082408",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":233914.989901,
+    "geom:bbox":"5.16699507722,51.573763119,5.18181899537,51.5791474513",
+    "geom:latitude":51.576611,
+    "geom:longitude":5.175488,
+    "iso:country":"NL",
+    "lbl:latitude":51.575957,
+    "lbl:longitude":5.174871,
+    "mps:latitude":51.575957,
+    "mps:longitude":5.174871,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Prinsessen-wijk"
+    ],
+    "name:nld_x_preferred":[
+        "Prinsessen-wijk"
+    ],
+    "reversegeo:latitude":51.575957,
+    "reversegeo:longitude":5.174871,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474411,
+        85633337,
+        101808311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c2ecb462285da0a7a90311082e2f4bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474411,
+            "locality_id":101808311,
+            "neighbourhood_id":1158798425,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798425,
+    "wof:lastmodified":1513432675,
+    "wof:name":"Prinsessen-wijk",
+    "wof:parent_id":101808311,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.166995077216933,
+    51.57376311898037,
+    5.181818995371787,
+    51.57914745132646
+],
+  "geometry": {"coordinates":[[[[5.18058212666271,51.57914745132646],[5.18181899537179,51.57710427644238],[5.18061772374119,51.57683877171872],[5.1796511024419,51.57663771334587],[5.17939833042583,51.57682120366678],[5.17930285332509,51.57674495453325],[5.17895240030098,51.57699568376323],[5.17843069491894,51.57597502436163],[5.17432148202904,51.57376311898037],[5.17087186859536,51.57637623649226],[5.16767516003532,51.57527137688558],[5.16699507721693,51.57606456145581],[5.16832546954093,51.57637258975974],[5.18058212666271,51.57914745132646]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158803719,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17080020",
+    "cbsnl:BU_NAAM":"Basse",
+    "cbsnl:GM_CODE":"GM1708",
+    "cbsnl:GM_NAAM":"Steenwijkerland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"35",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170800",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":129443.12333,
+    "geom:bbox":"6.02920168697,52.8034284875,6.0397455468,52.8074898498",
+    "geom:latitude":52.804679,
+    "geom:longitude":6.033953,
+    "iso:country":"NL",
+    "lbl:latitude":52.804566,
+    "lbl:longitude":6.032196,
+    "mps:latitude":52.804566,
+    "mps:longitude":6.032196,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Basse"
+    ],
+    "name:nld_x_preferred":[
+        "Basse"
+    ],
+    "reversegeo:latitude":52.804566,
+    "reversegeo:longitude":6.032196,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474621,
+        85633337,
+        101808769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1469b86fa8b8e9e97ba31f1cb3fff1ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474621,
+            "locality_id":101808769,
+            "neighbourhood_id":1158803719,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803719,
+    "wof:lastmodified":1513524357,
+    "wof:name":"Basse",
+    "wof:parent_id":101808769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.029201686965679,
+    52.80342848745685,
+    6.039745546800984,
+    52.807489849802984
+],
+  "geometry": {"coordinates":[[[[6.03160078563222,52.8074259224682],[6.03222569032102,52.80742254173763],[6.03250841469864,52.80553825620147],[6.033369858877,52.80496909744209],[6.03722325967779,52.8050986709876],[6.03846134012815,52.80479084980562],[6.03883333701606,52.80475118462795],[6.03914067034891,52.80452370761393],[6.03937725630608,52.80373156513378],[6.03974554680098,52.80342848745685],[6.0362681797426,52.80352274435444],[6.03241801714517,52.80361891885112],[6.02974803933929,52.80370861101511],[6.02920168696568,52.80457766827045],[6.03113302198328,52.80494357400322],[6.03073412265025,52.80739297197364],[6.03151598955494,52.80748984980298],[6.03160078563222,52.8074259224682]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158827009,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06060307",
+    "cbsnl:BU_NAAM":"Oranjekwartier",
+    "cbsnl:GM_CODE":"GM0606",
+    "cbsnl:GM_NAAM":"Schiedam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3721",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060603",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":357502.275204,
+    "geom:bbox":"4.3867882053,51.9063350673,4.40061089008,51.9132898267",
+    "geom:latitude":51.909602,
+    "geom:longitude":4.393637,
+    "iso:country":"NL",
+    "lbl:latitude":51.908986,
+    "lbl:longitude":4.393742,
+    "mps:latitude":51.908986,
+    "mps:longitude":4.393742,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oranjekwartier"
+    ],
+    "name:nld_x_preferred":[
+        "Oranjekwartier"
+    ],
+    "reversegeo:latitude":51.908986,
+    "reversegeo:longitude":4.393742,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831283,
+        85633337,
+        101751845,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ec69e0a48bc944f47d4d433e283b4fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "macrohood_id":1158831283,
+            "neighbourhood_id":1158827009,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827009,
+    "wof:lastmodified":1513588113,
+    "wof:name":"Oranjekwartier",
+    "wof:parent_id":1158831283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.386788205301392,
+    51.90633506731463,
+    4.400610890079609,
+    51.91328982667151
+],
+  "geometry": {"coordinates":[[[[4.3992387261373,51.91239475003374],[4.40061089007961,51.9116439127442],[4.39820087268605,51.91021156502313],[4.39697257649786,51.90913773040688],[4.39624312966549,51.90847539603401],[4.39604884447439,51.90753891768529],[4.39655057029274,51.9066012842445],[4.39502371826368,51.90638081809411],[4.39439608099445,51.90633506731463],[4.39051994840403,51.90734496248113],[4.38678820530139,51.90828741992859],[4.38928112937099,51.91124263243631],[4.39062169404355,51.9112163662503],[4.39090887008304,51.91121065557488],[4.391328334686,51.91124567184846],[4.39353985659065,51.91142787725094],[4.39491538235374,51.91169034385472],[4.39721441913709,51.91286030447665],[4.3976176112801,51.91328982667151],[4.398460622043,51.9128205136879],[4.3992387261373,51.91239475003374]]]],"type":"MultiPolygon"}
+}

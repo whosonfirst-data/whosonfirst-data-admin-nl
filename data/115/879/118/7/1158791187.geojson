@@ -1,0 +1,80 @@
+{
+  "id": 1158791187,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01191205",
+    "cbsnl:BU_NAAM":"Tussenboerslanden",
+    "cbsnl:GM_CODE":"GM0119",
+    "cbsnl:GM_NAAM":"Meppel",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"113",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011912",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":213628.180259,
+    "geom:bbox":"6.15149639635,52.7351054487,6.16356005529,52.7398740947",
+    "geom:latitude":52.737344,
+    "geom:longitude":6.157524,
+    "iso:country":"NL",
+    "lbl:latitude":52.737041,
+    "lbl:longitude":6.157616,
+    "mps:latitude":52.737041,
+    "mps:longitude":6.157616,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Tussenboerslanden"
+    ],
+    "name:nld_x_preferred":[
+        "Tussenboerslanden"
+    ],
+    "reversegeo:latitude":52.737041,
+    "reversegeo:longitude":6.157616,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473813,
+        85633337,
+        101807283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"fb82460c692ab48c397260ef5890f6d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473813,
+            "locality_id":101807283,
+            "neighbourhood_id":1158791187,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791187,
+    "wof:lastmodified":1513292323,
+    "wof:name":"Tussenboerslanden",
+    "wof:parent_id":101807283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.151496396348674,
+    52.735105448650096,
+    6.16356005528722,
+    52.73987409470511
+],
+  "geometry": {"coordinates":[[[[6.16356005528722,52.73652647706914],[6.16078833389095,52.73592383012351],[6.16053597319972,52.73635102383249],[6.15993926286655,52.73624640892395],[6.15733119768253,52.735671290528],[6.15719360268651,52.73577983801371],[6.15433730489389,52.7351054486501],[6.15149639634867,52.73946765700884],[6.15327919716795,52.73987409470511],[6.15460048425731,52.73772111145265],[6.16178372518417,52.73921420933699],[6.16356005528722,52.73652647706914]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1158819843,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04020404",
+    "cbsnl:BU_NAAM":"Staatsliedenkwartier",
+    "cbsnl:GM_CODE":"GM0402",
+    "cbsnl:GM_NAAM":"Hilversum",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3408",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK040204",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:area_square_m":419982.525071,
+    "geom:bbox":"5.15185436732,52.2111833387,5.1654630411,52.2187260795",
+    "geom:latitude":52.21469,
+    "geom:longitude":5.158623,
+    "iso:country":"NL",
+    "lbl:latitude":52.214723,
+    "lbl:longitude":5.158623,
+    "mps:latitude":52.214723,
+    "mps:longitude":5.158623,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Staatsliedenkwartier"
+    ],
+    "name:eng_x_preferred":[
+        "Staatsliedenkwartier"
+    ],
+    "name:fre_x_preferred":[
+        "Staatsliedenkwartier"
+    ],
+    "name:nld_x_preferred":[
+        "Staatsliedenkwartier"
+    ],
+    "reversegeo:latitude":52.214723,
+    "reversegeo:longitude":5.158623,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823045,
+        85633337,
+        101751905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1923836"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"f81e8b33227056a8aa8b240fe2c8be20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751905,
+            "macrohood_id":1158823045,
+            "neighbourhood_id":1158819843,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158819843,
+    "wof:lastmodified":1514492951,
+    "wof:name":"Staatsliedenkwartier",
+    "wof:parent_id":1158823045,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.15185436732182,
+    52.21118333866652,
+    5.1654630410973,
+    52.21872607947969
+],
+  "geometry": {"coordinates":[[[[5.1654630410973,52.21525633014146],[5.16514227211155,52.214583408279],[5.16478008280443,52.21409093826975],[5.16458947859062,52.21372329031233],[5.16411882569667,52.21264544080859],[5.16347866964056,52.21118333866652],[5.1617675012679,52.21143643457992],[5.15887363371543,52.21200856156644],[5.1520229571054,52.21410366893581],[5.15185436732182,52.21418974821091],[5.15187272773597,52.2142234388166],[5.15211967703261,52.21461831478845],[5.15261776833855,52.21529691220216],[5.15333203238827,52.21622111261842],[5.15361502979011,52.21658387444282],[5.15382081283874,52.2168824407108],[5.15412640277972,52.21735881967084],[5.15444013093609,52.21785835438265],[5.15459478386948,52.2181117392966],[5.15484614411462,52.21852913583529],[5.15496145383233,52.21872607947969],[5.1577371225409,52.21771298041265],[5.16146726234199,52.21623235072409],[5.16338535098843,52.21550142173164],[5.1643184986288,52.21524794820442],[5.16485552487108,52.21521161514682],[5.1654630410973,52.21525633014146]]]],"type":"MultiPolygon"}
+}

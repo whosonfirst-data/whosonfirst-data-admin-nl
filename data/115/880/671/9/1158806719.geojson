@@ -1,0 +1,82 @@
+{
+  "id": 1158806719,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09831204",
+    "cbsnl:BU_NAAM":"Hagerbroek",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1716",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098312",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":465360.329051,
+    "geom:bbox":"6.16577753068,51.3512815167,6.17735893112,51.3611016496",
+    "geom:latitude":51.356051,
+    "geom:longitude":6.172326,
+    "iso:country":"NL",
+    "lbl:latitude":51.355833,
+    "lbl:longitude":6.172414,
+    "mps:latitude":51.355833,
+    "mps:longitude":6.172414,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hagerbroek"
+    ],
+    "name:nld_x_preferred":[
+        "Hagerbroek"
+    ],
+    "reversegeo:latitude":51.355833,
+    "reversegeo:longitude":6.172414,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        1158818259,
+        404474525,
+        85633337,
+        101839287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b517a2135b269b6dc155542f8f0a7770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818259,
+            "neighbourhood_id":1158806719,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806719,
+    "wof:lastmodified":1513404051,
+    "wof:name":"Hagerbroek",
+    "wof:parent_id":1158818259,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.165777530684004,
+    51.351281516739895,
+    6.177358931118744,
+    51.3611016495906
+],
+  "geometry": {"coordinates":[[[[6.17368494943261,51.36088046394932],[6.17620291319677,51.3611016495906],[6.17735893111874,51.35845641770966],[6.17613579653384,51.35489064770605],[6.17430489922163,51.35336500281787],[6.17198061348317,51.35210873149832],[6.17000977283932,51.3512815167399],[6.16690733508703,51.35362060731121],[6.165777530684,51.3545477467438],[6.16855889903639,51.35642581688683],[6.16980035948802,51.35740652502488],[6.17028711450857,51.35780214230741],[6.17003631550122,51.35793496627908],[6.17065584329532,51.35843897135459],[6.17079219463118,51.35839650114167],[6.17138863646752,51.35893128219386],[6.1718657533249,51.35876414265517],[6.17281955052925,51.35973570172399],[6.17368494943261,51.36088046394932]]]],"type":"MultiPolygon"}
+}

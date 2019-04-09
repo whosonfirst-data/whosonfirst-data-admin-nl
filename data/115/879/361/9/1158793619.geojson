@@ -1,0 +1,80 @@
+{
+  "id": 1158793619,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18950800",
+    "cbsnl:BU_NAAM":"Nieuw-Scheemda",
+    "cbsnl:GM_CODE":"GM1895",
+    "cbsnl:GM_NAAM":"Oldambt",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"44",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK189508",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:area_square_m":676701.131317,
+    "geom:bbox":"6.93723365193,53.2066073187,6.94975609401,53.2195764196",
+    "geom:latitude":53.212606,
+    "geom:longitude":6.943106,
+    "iso:country":"NL",
+    "lbl:latitude":53.212481,
+    "lbl:longitude":6.943011,
+    "mps:latitude":53.212481,
+    "mps:longitude":6.943011,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Nieuw-Scheemda"
+    ],
+    "name:nld_x_preferred":[
+        "Nieuw-Scheemda"
+    ],
+    "reversegeo:latitude":53.212481,
+    "reversegeo:longitude":6.943011,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        1158792361,
+        85633337,
+        1158796601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1b11e6886d8cec20d501c9ad4685c94c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158792361,
+            "locality_id":1158796601,
+            "neighbourhood_id":1158793619,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793619,
+    "wof:lastmodified":1513382324,
+    "wof:name":"Nieuw-Scheemda",
+    "wof:parent_id":1158796601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.937233651926281,
+    53.20660731874397,
+    6.94975609400645,
+    53.21957641963581
+],
+  "geometry": {"coordinates":[[[[6.94286707964413,53.21879590283043],[6.94878924022686,53.21039079054465],[6.94967747162197,53.20936368744378],[6.94975609400645,53.20830949072376],[6.94877613036651,53.20745668542494],[6.94733372380225,53.20693229620372],[6.94610708944773,53.20666346632876],[6.94467833644809,53.20660731874397],[6.94380870766038,53.20702246331031],[6.94334946167019,53.20724017803047],[6.94191283571508,53.20837713289017],[6.94061902004005,53.20957175726726],[6.94021489793452,53.20994489767788],[6.93894770079017,53.21159693623203],[6.93813087976886,53.21303194313699],[6.93763919944946,53.21426558802818],[6.93735710017918,53.21554482990594],[6.93723365192628,53.2166950771097],[6.93723472708905,53.21676305935201],[6.93724354076014,53.21732042957366],[6.93898803750181,53.21814937439243],[6.9391283030187,53.21796666960842],[6.93999276838781,53.21836829103484],[6.94233136100442,53.21957641963581],[6.94251484323857,53.21933167765058],[6.94253113536695,53.21933960162401],[6.94286707964413,53.21879590283043]]]],"type":"MultiPolygon"}
+}

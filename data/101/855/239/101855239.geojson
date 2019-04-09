@@ -1,0 +1,89 @@
+{
+  "id": 101855239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-08-24",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.363773,51.427258,4.363773,51.427258",
+    "geom:latitude":51.427258,
+    "geom:longitude":4.363773,
+    "iso:country":"NL",
+    "lbl:latitude":51.427258,
+    "lbl:longitude":4.363773,
+    "mps:latitude":51.427258,
+    "mps:longitude":4.363773,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:nld_x_preferred":[
+        "Eiland"
+    ],
+    "qs:a0":"Nederland",
+    "qs:a1":"*Noord-Brabant",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Eiland",
+    "qs:loc_alt":"Eiland",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":101,
+    "wof:belongsto":[
+        102191581,
+        404474455,
+        85633337,
+        85687035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01ed9d08-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2756267,
+        "gp:id":729017,
+        "qs:id":4,
+        "tgn:id":7262060,
+        "wd:id":"Q5349285"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"820d07029e62308569486a6f62f8219b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474455,
+            "locality_id":101855239,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":101855239,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1544742889,
+    "wof:name":"Eiland",
+    "wof:parent_id":404474455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158799605
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.363773,
+    51.427258,
+    4.363773,
+    51.427258
+],
+  "geometry": {"coordinates":[4.363773,51.427258],"type":"Point"}
+}

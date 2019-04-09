@@ -1,0 +1,80 @@
+{
+  "id": 1158791591,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16990610",
+    "cbsnl:BU_NAAM":"Altena",
+    "cbsnl:GM_CODE":"GM1699",
+    "cbsnl:GM_NAAM":"Noordenveld",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"63",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK169906",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":192875.170517,
+    "geom:bbox":"6.47192137501,53.129954357,6.48103164986,53.1345365382",
+    "geom:latitude":53.132146,
+    "geom:longitude":6.476513,
+    "iso:country":"NL",
+    "lbl:latitude":53.132181,
+    "lbl:longitude":6.476513,
+    "mps:latitude":53.132181,
+    "mps:longitude":6.476513,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Altena"
+    ],
+    "name:nld_x_preferred":[
+        "Altena"
+    ],
+    "reversegeo:latitude":53.132181,
+    "reversegeo:longitude":6.476513,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474609,
+        85633337,
+        101807261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"11cbd62b1be8eda0cecb879795f888a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474609,
+            "locality_id":101807261,
+            "neighbourhood_id":1158791591,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791591,
+    "wof:lastmodified":1513292350,
+    "wof:name":"Altena",
+    "wof:parent_id":101807261,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.471921375009431,
+    53.12995435695671,
+    6.481031649864382,
+    53.13453653824958
+],
+  "geometry": {"coordinates":[[[[6.47535132106236,53.12995435695671],[6.47499733769089,53.13043554288954],[6.47318285470607,53.13005210309542],[6.47192137500943,53.13111101985156],[6.47370526028274,53.13289889860706],[6.47382077838058,53.13363249805839],[6.47909747911851,53.13453653824958],[6.48103164986438,53.13148426111564],[6.47535132106236,53.12995435695671]]]],"type":"MultiPolygon"}
+}

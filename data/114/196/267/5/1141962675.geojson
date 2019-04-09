@@ -1,0 +1,80 @@
+{
+  "id": 1141962675,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02140501",
+    "cbsnl:BU_NAAM":"Rijswijk",
+    "cbsnl:GM_CODE":"GM0214",
+    "cbsnl:GM_NAAM":"Buren",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"64",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK021405",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":301334.53101,
+    "geom:bbox":"5.35065987934,51.9556854779,5.36074490601,51.9620837511",
+    "geom:latitude":51.958797,
+    "geom:longitude":5.356394,
+    "iso:country":"NL",
+    "lbl:latitude":51.95862,
+    "lbl:longitude":5.356898,
+    "mps:latitude":51.95862,
+    "mps:longitude":5.356898,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Rijswijk"
+    ],
+    "name:nld_x_preferred":[
+        "Rijswijk"
+    ],
+    "reversegeo:latitude":51.95862,
+    "reversegeo:longitude":5.356898,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473879,
+        85633337,
+        101837645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"06b40b0acea909f7657ea70c2d830609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473879,
+            "locality_id":101837645,
+            "neighbourhood_id":1141962675,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962675,
+    "wof:lastmodified":1513368692,
+    "wof:name":"Rijswijk",
+    "wof:parent_id":101837645,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.350659879340743,
+    51.95568547791829,
+    5.360744906014214,
+    51.962083751121085
+],
+  "geometry": {"coordinates":[[[[5.35679693222553,51.95568547791829],[5.35065987934074,51.95850771999253],[5.35206179483819,51.95905277477096],[5.35114467619276,51.9597420625832],[5.35255540120275,51.96041828396892],[5.3549191709219,51.96106694691835],[5.35939701222349,51.96208375112109],[5.36062820945255,51.95640995137356],[5.36074490601421,51.95587405576186],[5.36056598056105,51.95592990937821],[5.35877197266321,51.95644715684379],[5.35679693222553,51.95568547791829]]]],"type":"MultiPolygon"}
+}

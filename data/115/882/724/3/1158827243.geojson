@@ -1,0 +1,80 @@
+{
+  "id": 1158827243,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06140001",
+    "cbsnl:BU_NAAM":"Helhoek",
+    "cbsnl:GM_CODE":"GM0614",
+    "cbsnl:GM_NAAM":"Westvoorne",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"118",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK061400",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":346137.77083,
+    "geom:bbox":"4.0880061712,51.8930346148,4.1010184904,51.8992038301",
+    "geom:latitude":51.896122,
+    "geom:longitude":4.093798,
+    "iso:country":"NL",
+    "lbl:latitude":51.896212,
+    "lbl:longitude":4.092615,
+    "mps:latitude":51.896212,
+    "mps:longitude":4.092615,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Helhoek"
+    ],
+    "name:nld_x_preferred":[
+        "Helhoek"
+    ],
+    "reversegeo:latitude":51.896212,
+    "reversegeo:longitude":4.092615,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474267,
+        85633337,
+        101809839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"33c1a4b7b9e1e653f19bcf948f36912a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474267,
+            "locality_id":101809839,
+            "neighbourhood_id":1158827243,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827243,
+    "wof:lastmodified":1513588132,
+    "wof:name":"Helhoek",
+    "wof:parent_id":101809839,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.08800617119821,
+    51.89303461476122,
+    4.101018490404492,
+    51.89920383010837
+],
+  "geometry": {"coordinates":[[[[4.10101849040449,51.89675595855904],[4.10002620953981,51.89594420396646],[4.09725908478352,51.89443596343432],[4.09056035714049,51.89303461476122],[4.09055099177362,51.89314687733226],[4.09001955245705,51.89387082828651],[4.08883659702844,51.8953241359437],[4.08800617119821,51.89653300226895],[4.09193976164803,51.89920383010837],[4.09522981866446,51.89801667275552],[4.09579051526437,51.89833212351765],[4.10101849040449,51.89675595855904]]]],"type":"MultiPolygon"}
+}

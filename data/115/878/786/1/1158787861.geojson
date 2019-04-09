@@ -1,0 +1,80 @@
+{
+  "id": 1158787861,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03080201",
+    "cbsnl:BU_NAAM":"Pr. Hendrikpark",
+    "cbsnl:GM_CODE":"GM0308",
+    "cbsnl:GM_NAAM":"Baarn",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"651",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK030802",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":338203.037821,
+    "geom:bbox":"5.27009520782,52.2030931604,5.28337531532,52.2093414709",
+    "geom:latitude":52.206956,
+    "geom:longitude":5.276235,
+    "iso:country":"NL",
+    "lbl:latitude":52.206768,
+    "lbl:longitude":5.275581,
+    "mps:latitude":52.206768,
+    "mps:longitude":5.275581,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Pr. Hendrikpark"
+    ],
+    "name:nld_x_preferred":[
+        "Pr. Hendrikpark"
+    ],
+    "reversegeo:latitude":52.206768,
+    "reversegeo:longitude":5.275581,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473973,
+        85633337,
+        101837651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"142ab633ce875d46a22530276953743f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473973,
+            "locality_id":101837651,
+            "neighbourhood_id":1158787861,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158787861,
+    "wof:lastmodified":1513621958,
+    "wof:name":"Pr. Hendrikpark",
+    "wof:parent_id":101837651,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.270095207816691,
+    52.20309316042843,
+    5.283375315322237,
+    52.20934147086796
+],
+  "geometry": {"coordinates":[[[[5.27807301030485,52.20909105627492],[5.27842382074755,52.2090456168772],[5.27912484209969,52.20890643568365],[5.27994019446473,52.20870569538153],[5.28081400692693,52.20844397529985],[5.28213701489459,52.20801904614397],[5.28337531532224,52.20738966717161],[5.28212390228113,52.20678794833771],[5.28009571795401,52.20581690000429],[5.27813338682547,52.20486736177271],[5.27513848423103,52.2034148496802],[5.27444878947848,52.20309316042843],[5.27325194716533,52.20490868383881],[5.27197312498537,52.20674265107366],[5.27058967205699,52.2086245125996],[5.27009520781669,52.20930065973],[5.27137367355212,52.20934147086796],[5.27366494176612,52.20932792680529],[5.2762826832143,52.20929486119668],[5.27807301030485,52.20909105627492]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158791021,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01185102",
+    "cbsnl:BU_NAAM":"Grittenhof",
+    "cbsnl:GM_CODE":"GM0118",
+    "cbsnl:GM_NAAM":"Hoogeveen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"966",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011851",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":287432.622712,
+    "geom:bbox":"6.45187406979,52.7240847675,6.46461133002,52.7296002457",
+    "geom:latitude":52.726805,
+    "geom:longitude":6.458434,
+    "iso:country":"NL",
+    "lbl:latitude":52.726979,
+    "lbl:longitude":6.458531,
+    "mps:latitude":52.726979,
+    "mps:longitude":6.458531,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Grittenhof"
+    ],
+    "name:nld_x_preferred":[
+        "Grittenhof"
+    ],
+    "reversegeo:latitude":52.726979,
+    "reversegeo:longitude":6.458531,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473811,
+        85633337,
+        101837877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c874b25ea7d1a07de40150d8f5bbbbb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473811,
+            "locality_id":101837877,
+            "neighbourhood_id":1158791021,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791021,
+    "wof:lastmodified":1513292313,
+    "wof:name":"Grittenhof",
+    "wof:parent_id":101837877,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.451874069790832,
+    52.72408476747924,
+    6.464611330023958,
+    52.72960024565235
+],
+  "geometry": {"coordinates":[[[[6.45187406979083,52.72703021175743],[6.46327909490601,52.72933151469679],[6.46461133002396,52.72960024565235],[6.46433249015959,52.72756556763799],[6.46427194013399,52.72675658478406],[6.46425607633733,52.72631336979203],[6.4642553016659,52.72587062709812],[6.46426904323045,52.72564598162975],[6.46139750289381,52.72561601325335],[6.45826269216366,52.7255819676496],[6.45802800900192,52.72557464752895],[6.4577221739557,52.7255664518476],[6.45739274588604,52.72553579409819],[6.45714105594367,52.72549397347132],[6.45700843308584,52.72546775160878],[6.45680531198139,52.72541371621478],[6.45657967555939,52.72534436470473],[6.45329842138749,52.72419114978378],[6.45308669663045,52.72413304576526],[6.45290545578567,52.72410311866942],[6.4527194331774,52.72408476747924],[6.45231186219031,52.7240870602362],[6.45200291981292,52.72408879670916],[6.45187406979083,52.72703021175743]]]],"type":"MultiPolygon"}
+}

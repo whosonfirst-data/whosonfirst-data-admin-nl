@@ -1,0 +1,114 @@
+{
+  "id": 85859589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-03",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:area_square_m":798454.326823,
+    "geom:bbox":"4.25076294856,52.0712144678,4.2626953125,52.0828817957",
+    "geom:latitude":52.076927,
+    "geom:longitude":4.256725,
+    "gn:id":"",
+    "iso:country":"NL",
+    "lbl:latitude":52.07578,
+    "lbl:longitude":4.257727,
+    "mps:latitude":52.076526,
+    "mps:longitude":4.256611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:nld_x_preferred":[
+        "Bloemenbuurt"
+    ],
+    "name:unk_x_variant":[
+        "Bloemenbuurt"
+    ],
+    "qs:gn_adm0_cc":"NL",
+    "qs:gn_id":0,
+    "qs:gn_local":2747373,
+    "qs:gn_nam_loc":"Den Haag",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":27506,
+    "qs:local_sum":103974,
+    "qs:localhoods":41,
+    "qs:name":"Bloemenbuurt",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Zuid-Holland",
+    "qs:name_adm2":"Den Haag",
+    "qs:name_local":"Den Haag",
+    "qs:photo_max":215,
+    "qs:photo_sum":664,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346383,
+    "qs:woe_adm2":12592017,
+    "qs:woe_lau":0,
+    "qs:woe_local":726874,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:latitude":51.9489,
+    "wd:longitude":6.3117,
+    "wd:wordcount":258,
+    "wof:belongsto":[
+        102191581,
+        404474179,
+        85633337,
+        101752763,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20063889,
+        "qs:id":211796,
+        "qs_pg:id":211796,
+        "wd:id":"Q2780376"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"cd53fbd937994a210e914d05fe3a95c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474179,
+            "locality_id":101752763,
+            "neighbourhood_id":85859589,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":85859589,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527269840,
+    "wof:name":"Bloemenbuurt",
+    "wof:parent_id":101752763,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1108808027
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.25076294856126,
+    52.07121446775342,
+    4.26269531250006,
+    52.08288179570003
+],
+  "geometry": {"coordinates":[[[4.25720214843875,52.08104525764695],[4.25994873047017,52.07955551925191],[4.26198582706911,52.08066043473669],[4.26269530955247,52.07950599538076],[4.26269531250006,52.07781800525372],[4.26269531250006,52.07612994967509],[4.26269531250006,52.07444183035362],[4.26269531250006,52.07275364994295],[4.26198575891129,52.07159925486697],[4.25994873047017,52.07270392448162],[4.25720214843938,52.07121446775342],[4.25436386438403,52.07275365400007],[4.25365442316485,52.0731383801748],[4.25247204797304,52.07275365400007],[4.25170898437273,52.07250536518096],[4.25145469527496,52.0727535901252],[4.2514546821881,52.07275365400007],[4.25076294856126,52.07612989270014],[4.25170898437088,52.07766915779392],[4.25170898437185,52.07950593995018],[4.25170898437193,52.07950600380006],[4.25170898437193,52.08288173187519],[4.25170898437105,52.08288179570003],[4.25720214844009,52.08288179570003],[4.25720214843858,52.08288173187519],[4.25720214843875,52.08104525764695]]],"type":"Polygon"}
+}

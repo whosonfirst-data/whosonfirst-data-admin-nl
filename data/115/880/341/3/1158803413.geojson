@@ -1,0 +1,82 @@
+{
+  "id": 1158803413,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01931100",
+    "cbsnl:BU_NAAM":"Het Noorden",
+    "cbsnl:GM_CODE":"GM0193",
+    "cbsnl:GM_NAAM":"Zwolle",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2955",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK019311",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":249633.271011,
+    "geom:bbox":"6.08370794431,52.5146299209,6.09343979504,52.5209052812",
+    "geom:latitude":52.517447,
+    "geom:longitude":6.089339,
+    "iso:country":"NL",
+    "lbl:latitude":52.517644,
+    "lbl:longitude":6.089339,
+    "mps:latitude":52.517644,
+    "mps:longitude":6.089339,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Het Noorden"
+    ],
+    "name:nld_x_preferred":[
+        "Het Noorden"
+    ],
+    "reversegeo:latitude":52.517644,
+    "reversegeo:longitude":6.089339,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805787,
+        404473861,
+        85633337,
+        101751861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4570eede92f20faff9400686ec9ec4fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158805787,
+            "neighbourhood_id":1158803413,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803413,
+    "wof:lastmodified":1513524337,
+    "wof:name":"Het Noorden",
+    "wof:parent_id":1158805787,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.083707944308052,
+    52.51462992090005,
+    6.093439795042358,
+    52.52090528122453
+],
+  "geometry": {"coordinates":[[[[6.09181654266494,52.52090528122453],[6.09221621578385,52.52057727023701],[6.09243288102182,52.52028206917419],[6.09254296366696,52.51983657063429],[6.09318505107067,52.51714236102153],[6.09343979504236,52.51597312859476],[6.09251075468693,52.51585200549306],[6.09178004078756,52.51534795292148],[6.089383274022,52.5156997724306],[6.08900609184376,52.51462992090005],[6.08810815317451,52.51484039379984],[6.08611345251187,52.51550354499312],[6.08496323066615,52.51605048375764],[6.08370794430805,52.51696998577178],[6.08425448268824,52.51722850214009],[6.08531479447307,52.51776490218763],[6.08703302718749,52.51860366245415],[6.08891480480399,52.51951194551462],[6.09045290500855,52.52024616292898],[6.09181654266494,52.52090528122453]]]],"type":"MultiPolygon"}
+}

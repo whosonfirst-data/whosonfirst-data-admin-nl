@@ -1,0 +1,80 @@
+{
+  "id": 1158820349,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04390701",
+    "cbsnl:BU_NAAM":"Hazepolder",
+    "cbsnl:GM_CODE":"GM0439",
+    "cbsnl:GM_NAAM":"Purmerend",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1698",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK043907",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":94271.831633,
+    "geom:bbox":"4.93435205645,52.5103533476,4.94347178799,52.5125351387",
+    "geom:latitude":52.511453,
+    "geom:longitude":4.93895,
+    "iso:country":"NL",
+    "lbl:latitude":52.511456,
+    "lbl:longitude":4.93895,
+    "mps:latitude":52.511456,
+    "mps:longitude":4.93895,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hazepolder"
+    ],
+    "name:nld_x_preferred":[
+        "Hazepolder"
+    ],
+    "reversegeo:latitude":52.511456,
+    "reversegeo:longitude":4.93895,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823241,
+        85633337,
+        101751889,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"bbbf435869825bed70df0daa06375fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751889,
+            "macrohood_id":1158823241,
+            "neighbourhood_id":1158820349,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158820349,
+    "wof:lastmodified":1513464221,
+    "wof:name":"Hazepolder",
+    "wof:parent_id":1158823241,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.934352056450892,
+    52.51035334759042,
+    4.94347178798946,
+    52.51253513866743
+],
+  "geometry": {"coordinates":[[[[4.94347178798946,52.51250210449786],[4.94312640026162,52.51100585682158],[4.9430986308551,52.51096362549049],[4.94242128556975,52.51109870748964],[4.93898192134639,52.51075154861698],[4.93538659687004,52.51035594940501],[4.93470373349475,52.51035334759042],[4.93469280055745,52.51039270870285],[4.93445686608932,52.51124234226265],[4.93440366950873,52.51143392175898],[4.9344007030019,52.51144457861272],[4.93435205645089,52.51164060606568],[4.93452706212811,52.51167597437558],[4.93465761445808,52.51170521403635],[4.93473103969954,52.5117216624765],[4.93512252934144,52.51174960438193],[4.93512423632107,52.51174981768732],[4.93542475874218,52.511786983651],[4.93574514771837,52.51182319974048],[4.93668178212801,52.51191848467969],[4.9373156452952,52.5119848078026],[4.93785604104651,52.51204270342487],[4.93960668705474,52.51223729067221],[4.94100165839045,52.51238788816381],[4.9421789177398,52.51250915375503],[4.94310077996635,52.51253513866743],[4.94347178798946,52.51250210449786]]]],"type":"MultiPolygon"}
+}

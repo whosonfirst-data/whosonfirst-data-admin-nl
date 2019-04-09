@@ -1,0 +1,80 @@
+{
+  "id": 1158803621,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17000200",
+    "cbsnl:BU_NAAM":"Vriezenveensewijk",
+    "cbsnl:GM_CODE":"GM1700",
+    "cbsnl:GM_NAAM":"Twenterand",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"347",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170002",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000135,
+    "geom:area_square_m":1016940.141904,
+    "geom:bbox":"6.61730087882,52.4432898251,6.62856353684,52.459711027",
+    "geom:latitude":52.451374,
+    "geom:longitude":6.623041,
+    "iso:country":"NL",
+    "lbl:latitude":52.450952,
+    "lbl:longitude":6.623041,
+    "mps:latitude":52.450952,
+    "mps:longitude":6.623041,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vriezenveensewijk"
+    ],
+    "name:nld_x_preferred":[
+        "Vriezenveensewijk"
+    ],
+    "reversegeo:latitude":52.450952,
+    "reversegeo:longitude":6.623041,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474611,
+        85633337,
+        101837855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ac6f114b6d5926c54da32c7fb031b971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474611,
+            "locality_id":101837855,
+            "neighbourhood_id":1158803621,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803621,
+    "wof:lastmodified":1513524351,
+    "wof:name":"Vriezenveensewijk",
+    "wof:parent_id":101837855,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.617300878817372,
+    52.44328982507208,
+    6.628563536836629,
+    52.459711026963575
+],
+  "geometry": {"coordinates":[[[[6.61730087881737,52.45752138225534],[6.62620751120054,52.45968466146071],[6.62634527789048,52.45971102696357],[6.62832407749539,52.44964052059451],[6.62856353683663,52.44564156786205],[6.61905290328008,52.44328982507208],[6.61767723275706,52.45434038556514],[6.61985075489152,52.45484951020499],[6.61976504673362,52.45557677148987],[6.61945171998847,52.45566822696284],[6.61906884740574,52.45582978372482],[6.61873799350945,52.45599360855812],[6.61849927772562,52.45616405952936],[6.61835388226332,52.45627595743178],[6.61818966185086,52.45642203722684],[6.61809910835163,52.45652213187933],[6.61795247256495,52.45669696035321],[6.61730087881737,52.45752138225534]]]],"type":"MultiPolygon"}
+}

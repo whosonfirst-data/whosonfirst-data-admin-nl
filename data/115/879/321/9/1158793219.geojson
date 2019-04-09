@@ -1,0 +1,80 @@
+{
+  "id": 1158793219,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00470007",
+    "cbsnl:BU_NAAM":"Buitenwoel",
+    "cbsnl:GM_CODE":"GM0047",
+    "cbsnl:GM_NAAM":"Veendam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"901",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK004700",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000293,
+    "geom:area_square_m":2174344.675355,
+    "geom:bbox":"6.84303922891,53.1094931623,6.87157145359,53.1218525676",
+    "geom:latitude":53.115404,
+    "geom:longitude":6.856678,
+    "iso:country":"NL",
+    "lbl:latitude":53.115665,
+    "lbl:longitude":6.856677,
+    "mps:latitude":53.115665,
+    "mps:longitude":6.856677,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Buitenwoel"
+    ],
+    "name:nld_x_preferred":[
+        "Buitenwoel"
+    ],
+    "reversegeo:latitude":53.115665,
+    "reversegeo:longitude":6.856677,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473737,
+        85633337,
+        101838023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5c99ec8c3ff59eee16fc57a47b3ea273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473737,
+            "locality_id":101838023,
+            "neighbourhood_id":1158793219,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793219,
+    "wof:lastmodified":1513382293,
+    "wof:name":"Buitenwoel",
+    "wof:parent_id":101838023,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.843039228913489,
+    53.109493162321485,
+    6.871571453591094,
+    53.12185256764282
+],
+  "geometry": {"coordinates":[[[[6.86699937785389,53.11828139966612],[6.86748205096086,53.11713448370637],[6.86943159604746,53.11703098097226],[6.87037826721789,53.11556266548505],[6.87062957634479,53.11562381522581],[6.87073633882637,53.11562249295915],[6.87101444204713,53.1154262625604],[6.87107682518454,53.11516844334368],[6.87109189365152,53.11456848109801],[6.87107284261209,53.11401178252144],[6.87157145359109,53.11297741640141],[6.87148182252487,53.11035884605188],[6.87035836928345,53.11040022106615],[6.8702997360956,53.10995495750126],[6.86977023377143,53.10970931109732],[6.86878847280959,53.10951812471858],[6.86717298680849,53.10949316232148],[6.84596785743195,53.11050655217766],[6.84303922891349,53.11078146917379],[6.84423407478481,53.12185256764282],[6.86582831594943,53.12095606103651],[6.86699937785389,53.11828139966612]]]],"type":"MultiPolygon"}
+}

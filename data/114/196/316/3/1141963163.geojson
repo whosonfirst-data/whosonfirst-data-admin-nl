@@ -1,0 +1,86 @@
+{
+  "id": 1141963163,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02300103",
+    "cbsnl:BU_NAAM":"Elburg De Vrijheid",
+    "cbsnl:GM_CODE":"GM0230",
+    "cbsnl:GM_NAAM":"Elburg",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"888",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK023001",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":399580.938611,
+    "geom:bbox":"5.84726048077,52.4484459653,5.86077112387,52.4561615551",
+    "geom:latitude":52.452236,
+    "geom:longitude":5.854999,
+    "iso:country":"NL",
+    "lbl:latitude":52.453059,
+    "lbl:longitude":5.855005,
+    "mps:latitude":52.453059,
+    "mps:longitude":5.855005,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Vrijheid"
+    ],
+    "name:eng_x_variant":[
+        "Elburg De Vrijheid"
+    ],
+    "name:nld_x_preferred":[
+        "De Vrijheid"
+    ],
+    "name:nld_x_variant":[
+        "Elburg De Vrijheid"
+    ],
+    "reversegeo:latitude":52.453059,
+    "reversegeo:longitude":5.855005,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473895,
+        85633337,
+        101837785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8f2bb609214e58e9b61411a05a956e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473895,
+            "locality_id":101837785,
+            "neighbourhood_id":1141963163,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963163,
+    "wof:lastmodified":1513368726,
+    "wof:name":"De Vrijheid",
+    "wof:parent_id":101837785,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.847260480768272,
+    52.44844596531137,
+    5.860771123873221,
+    52.45616155507607
+],
+  "geometry": {"coordinates":[[[[5.86072600020797,52.45299694900544],[5.8606291708005,52.45247605823783],[5.85982627206947,52.45251858435771],[5.85875045728186,52.44970892506616],[5.8604202611989,52.44917115829546],[5.86039191624487,52.4491426247818],[5.86013033896724,52.44888303020488],[5.85743021627184,52.44853961077902],[5.85519060774073,52.44844596531137],[5.85485915170825,52.44937748573549],[5.85574124951333,52.4494826941693],[5.85525336809471,52.45007611468791],[5.85247577086589,52.45089228419739],[5.85152751092218,52.45037641303271],[5.84863932336432,52.451308077509],[5.84733074668775,52.45165834420088],[5.84726048076827,52.45168726596221],[5.84802602832064,52.45245019612168],[5.84887396032318,52.45264715027573],[5.84971974142059,52.45276967705497],[5.85033540329649,52.45299841867509],[5.85102220748234,52.45339118373613],[5.85144652488701,52.45387204151407],[5.85230200769471,52.45491404838926],[5.85322879188701,52.45560694086073],[5.85595638012545,52.45616155507607],[5.8575132601651,52.45440365599716],[5.86077112387322,52.45323943240249],[5.86072600020797,52.45299694900544]]]],"type":"MultiPolygon"}
+}

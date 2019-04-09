@@ -1,0 +1,80 @@
+{
+  "id": 1158799837,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16590102",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Duivenakker",
+    "cbsnl:GM_CODE":"GM1659",
+    "cbsnl:GM_NAAM":"Laarbeek",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"462",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK165901",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":70098.074582,
+    "geom:bbox":"5.64412163385,51.503712655,5.64914005522,51.5072492326",
+    "geom:latitude":51.505606,
+    "geom:longitude":5.646686,
+    "iso:country":"NL",
+    "lbl:latitude":51.505524,
+    "lbl:longitude":5.646515,
+    "mps:latitude":51.505524,
+    "mps:longitude":5.646515,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Duivenakker"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Duivenakker"
+    ],
+    "reversegeo:latitude":51.505524,
+    "reversegeo:longitude":5.646515,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474569,
+        85633337,
+        101809681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1db8a0d4db0ecd9f112a9b4b21e0e460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474569,
+            "locality_id":101809681,
+            "neighbourhood_id":1158799837,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799837,
+    "wof:lastmodified":1513432782,
+    "wof:name":"Bedrijventerrein Duivenakker",
+    "wof:parent_id":101809681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.644121633848664,
+    51.50371265500362,
+    5.649140055221765,
+    51.50724923261221
+],
+  "geometry": {"coordinates":[[[[5.64688702194257,51.50371265500362],[5.64645612536545,51.50392119586442],[5.64615798829298,51.50408758763258],[5.64567764292989,51.50434791801383],[5.64518046167178,51.50457710580132],[5.64479962666666,51.50480603470267],[5.64455155772565,51.50499337956924],[5.64425404970011,51.5052740881211],[5.64412163384866,51.50537802982256],[5.646273048797,51.50678337204977],[5.64644073750136,51.50706305252577],[5.64659146504637,51.50724923261221],[5.64689021700662,51.5071864907375],[5.64728884250303,51.50715442303595],[5.64750449550216,51.50712276441721],[5.64810276062373,51.50713182110564],[5.64838515064819,51.50712079686057],[5.64849953993099,51.50677840825425],[5.64844813354986,51.50648835820763],[5.64834771977331,51.50636414541712],[5.6480969284119,51.50611583347726],[5.64914005522176,51.50544973876254],[5.64875691671945,51.50531576793809],[5.64847352557856,51.50515067291544],[5.6480072790832,51.50496492043079],[5.64770741732488,51.50483076003237],[5.64749071865435,51.50471720082039],[5.64734033896728,51.50455180630951],[5.64717324685699,51.5043757758797],[5.64708890101353,51.50414787607579],[5.64688702194257,51.50371265500362]]]],"type":"MultiPolygon"}
+}

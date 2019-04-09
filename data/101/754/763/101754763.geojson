@@ -1,0 +1,78 @@
+{
+  "id": 101754763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-07-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":632783.596696,
+    "geom:bbox":"5.72436280958,51.8176343146,5.73913439443,51.8266625961",
+    "geom:latitude":51.822283,
+    "geom:longitude":5.732281,
+    "geonames:id":"2744241,2744242",
+    "iso:country":"NL",
+    "lbl:latitude":51.821705,
+    "lbl:longitude":5.732879,
+    "mps:latitude":51.821705,
+    "mps:longitude":5.732879,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Nederland",
+    "qs:a1":"*Gelderland",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la":"Nijmegen",
+    "qs:la_lc":"*NL250268",
+    "qs:level":"locality",
+    "qs:loc":"Woezik",
+    "qs:loc_alt":"Woezik",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404473953,
+        85633337,
+        85687043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2744242,
+        "gp:id":734862,
+        "qs:id":206066
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"892234a77998f46d88341c3fdf46de8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473953,
+            "locality_id":101754763,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":101754763,
+    "wof:lastmodified":1513362751,
+    "wof:name":"Woezik",
+    "wof:parent_id":404473953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1141964299
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.72436280957817,
+    51.81763431456341,
+    5.73913439442737,
+    51.82666259608914
+],
+  "geometry": {"coordinates":[[[5.73913439442737,51.82043435091407],[5.73353432172581,51.81763431456341],[5.72772995904626,51.81863506674955],[5.72734432218084,51.82270669399151],[5.72444783519103,51.82260140461483],[5.72436280957817,51.8234983817714],[5.72581108014992,51.8235510365671],[5.72572607900815,51.82444801470507],[5.72717438132605,51.82450065288515],[5.72708940465839,51.82539763200475],[5.73143441618583,51.82555544324509],[5.7313495212702,51.82645242574313],[5.73714302804552,51.82666259608914],[5.73773640343398,51.82038368049899],[5.73913439442737,51.82043435091407]]],"type":"Polygon"}
+}

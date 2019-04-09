@@ -1,0 +1,80 @@
+{
+  "id": 1158828337,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18920202",
+    "cbsnl:BU_NAAM":"Swanla",
+    "cbsnl:GM_CODE":"GM1892",
+    "cbsnl:GM_NAAM":"Zuidplas",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"707",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK189202",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":197776.150671,
+    "geom:bbox":"4.58040474763,52.0138505256,4.58909485554,52.0193260042",
+    "geom:latitude":52.016429,
+    "geom:longitude":4.58418,
+    "iso:country":"NL",
+    "lbl:latitude":52.016617,
+    "lbl:longitude":4.583752,
+    "mps:latitude":52.016617,
+    "mps:longitude":4.583752,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Swanla"
+    ],
+    "name:nld_x_preferred":[
+        "Swanla"
+    ],
+    "reversegeo:latitude":52.016617,
+    "reversegeo:longitude":4.583752,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158824737,
+        85633337,
+        101803695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"bae83a7998c737a9911db8958aac1af4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824737,
+            "locality_id":101803695,
+            "neighbourhood_id":1158828337,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828337,
+    "wof:lastmodified":1513588219,
+    "wof:name":"Swanla",
+    "wof:parent_id":101803695,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.58040474763374,
+    52.01385052556535,
+    4.589094855538144,
+    52.019326004176065
+],
+  "geometry": {"coordinates":[[[[4.58116021513553,52.01522569572062],[4.5808478582276,52.0156418620166],[4.58082428620347,52.01569409660456],[4.58056433906987,52.01627012938633],[4.58040474763374,52.01817127995251],[4.58096694965195,52.0181546034463],[4.5828639309756,52.01932600417607],[4.58864638841378,52.01590519276451],[4.58909485553814,52.01563891686697],[4.58620427549781,52.01385052556535],[4.58503791229181,52.01456687222271],[4.58400562747774,52.01445230374149],[4.58343744902653,52.01440951072806],[4.58301065442881,52.01478829656117],[4.58267215207584,52.01473116815913],[4.58246541068318,52.01500737795049],[4.58221697119797,52.01514639421313],[4.58205365889101,52.01543970543592],[4.58116021513553,52.01522569572062]]]],"type":"MultiPolygon"}
+}

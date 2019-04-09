@@ -1,0 +1,80 @@
+{
+  "id": 1158825689,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050504",
+    "cbsnl:BU_NAAM":"Boeroestraat en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2209",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050505",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":68873.613378,
+    "geom:bbox":"4.68556009389,51.8054680993,4.69041926375,51.8096679492",
+    "geom:latitude":51.807506,
+    "geom:longitude":4.688043,
+    "iso:country":"NL",
+    "lbl:latitude":51.807441,
+    "lbl:longitude":4.687877,
+    "mps:latitude":51.807441,
+    "mps:longitude":4.687877,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Boeroestraat en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Boeroestraat en omgeving"
+    ],
+    "reversegeo:latitude":51.807441,
+    "reversegeo:longitude":4.687877,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829563,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"32b58acecfa1efe3d7abecbc1f31950b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829563,
+            "neighbourhood_id":1158825689,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825689,
+    "wof:lastmodified":1513588011,
+    "wof:name":"Boeroestraat en omgeving",
+    "wof:parent_id":1158829563,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.685560093894857,
+    51.805468099295965,
+    4.690419263746979,
+    51.809667949157785
+],
+  "geometry": {"coordinates":[[[[4.68556009389486,51.80647576035143],[4.68654699966002,51.80747800596338],[4.68864695450272,51.80966794915778],[4.69041926374698,51.80862661129743],[4.68810672051988,51.80629583251213],[4.68862904600971,51.80588247677551],[4.68878677488833,51.80561594524197],[4.6887867132833,51.80546809929596],[4.68818954217322,51.80547525801519],[4.6879307606352,51.8055556137328],[4.68667931135998,51.80601466079872],[4.68556009389486,51.80647576035143]]]],"type":"MultiPolygon"}
+}

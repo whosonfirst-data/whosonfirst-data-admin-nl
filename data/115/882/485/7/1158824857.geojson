@@ -1,0 +1,82 @@
+{
+  "id": 1158824857,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04840209",
+    "cbsnl:BU_NAAM":"Rijnoord",
+    "cbsnl:GM_CODE":"GM0484",
+    "cbsnl:GM_NAAM":"Alphen aan den Rijn",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"3169",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK048402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":121147.502056,
+    "geom:bbox":"4.6574239032,52.1420570462,4.66317770585,52.1459301095",
+    "geom:latitude":52.144049,
+    "geom:longitude":4.660199,
+    "iso:country":"NL",
+    "lbl:latitude":52.144035,
+    "lbl:longitude":4.660199,
+    "mps:latitude":52.144035,
+    "mps:longitude":4.660199,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Rijnoord"
+    ],
+    "name:nld_x_preferred":[
+        "Rijnoord"
+    ],
+    "reversegeo:latitude":52.144035,
+    "reversegeo:longitude":4.660199,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831211,
+        404474147,
+        85633337,
+        101751837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1d376a118185ab544b5e549e1960cc04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474147,
+            "locality_id":101751837,
+            "macrohood_id":1158831211,
+            "neighbourhood_id":1158824857,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158824857,
+    "wof:lastmodified":1513587950,
+    "wof:name":"Rijnoord",
+    "wof:parent_id":1158831211,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.657423903203514,
+    52.14205704622502,
+    4.663177705853978,
+    52.145930109451285
+],
+  "geometry": {"coordinates":[[[[4.65822285778548,52.14593010945129],[4.65842772031109,52.14591040886243],[4.66035844824629,52.14578474854697],[4.66232234802551,52.14546199893226],[4.66317770585398,52.14532141771605],[4.6627225389441,52.14437908441928],[4.66226243840367,52.14336416704912],[4.66202451127823,52.14283930970004],[4.66244379158138,52.14249182393592],[4.66143255723094,52.14205704622502],[4.65986166436083,52.14233526085562],[4.65834847953057,52.14257021671779],[4.65742390320351,52.14275510694461],[4.65767553270749,52.14360042942083],[4.65802144808231,52.14478150278117],[4.65805290743678,52.14507160974829],[4.65822285778548,52.14593010945129]]]],"type":"MultiPolygon"}
+}

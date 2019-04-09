@@ -1,0 +1,79 @@
+{
+  "id": 1126132039,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01400404",
+    "cbsnl:BU_NAAM":"Hilaard",
+    "cbsnl:GM_CODE":"GM0140",
+    "cbsnl:GM_NAAM":"Littenseradiel",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"40",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK014004",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":288983.118632,
+    "geom:bbox":"5.70602491552,53.1633616157,5.7182403939,53.1680923048",
+    "geom:latitude":53.165645,
+    "geom:longitude":5.712812,
+    "iso:country":"NL",
+    "lbl:latitude":53.165737,
+    "lbl:longitude":5.712812,
+    "mps:latitude":53.165737,
+    "mps:longitude":5.712812,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Hilaard"
+    ],
+    "name:eng_x_preferred":[
+        "Hilaard"
+    ],
+    "reversegeo:latitude":53.165737,
+    "reversegeo:longitude":5.712812,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        404473817,
+        85633337,
+        1141960665,
+        85687055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"601d2ee92b3b0583e0bdeb6b0f66150a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473817,
+            "locality_id":1141960665,
+            "neighbourhood_id":1126132039,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":1126132039,
+    "wof:lastmodified":1507246102,
+    "wof:name":"Hilaard",
+    "wof:parent_id":1141960665,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.70602491551509,
+    53.16336161573481,
+    5.71824039389635,
+    53.16809230475204
+],
+  "geometry": {"coordinates":[[[[5.71824039389635,53.16557421209473],[5.71814618471092,53.16556717243708],[5.71816599345331,53.16522453566004],[5.71806930433186,53.16452559700788],[5.71782298059791,53.16436228661944],[5.7173421107637,53.1640468640708],[5.71606593826405,53.16375384250001],[5.71443547678758,53.16347357014741],[5.71202904653524,53.16336161573481],[5.71076233853533,53.16354588074073],[5.7094269479307,53.16410884216413],[5.70796831957661,53.16481813700357],[5.70602491551509,53.16607458894215],[5.70636807004401,53.1665740707663],[5.70916860626808,53.16656489429354],[5.70947865678568,53.16703749888389],[5.71029005411543,53.16737733340305],[5.7109912179196,53.16775284275312],[5.71255800884124,53.16809230475204],[5.71408530589622,53.16799379871296],[5.7155244213438,53.16766806405701],[5.71687536372901,53.16717968563871],[5.71753932057491,53.16659153701374],[5.71791347654613,53.16605472945378],[5.71824039389635,53.16557421209473]]]],"type":"MultiPolygon"}
+}

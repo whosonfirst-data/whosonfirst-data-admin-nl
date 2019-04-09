@@ -1,0 +1,73 @@
+{
+  "id": 1108808853,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03440812",
+    "cbsnl:BU_NAAM":"Rivierenwijk",
+    "cbsnl:GM_CODE":"GM0344",
+    "cbsnl:GM_NAAM":"Utrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"4169",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK034408",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:area_square_m":769587.049922,
+    "geom:bbox":"5.10946268465,52.0625883205,5.12237418751,52.0797572526",
+    "geom:latitude":52.073111,
+    "geom:longitude":5.115218,
+    "iso:country":"NL",
+    "lbl:latitude":52.073507,
+    "lbl:longitude":5.114582,
+    "mps:latitude":52.073507,
+    "mps:longitude":5.114582,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "reversegeo:latitude":52.073507,
+    "reversegeo:longitude":5.114582,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        85633337,
+        101751827,
+        1108808679,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6299924d9c5179997f2d75bcd12bbba3",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108808679,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808853,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1108808853,
+    "wof:lastmodified":1507246058,
+    "wof:name":"Rivierenwijk",
+    "wof:parent_id":1108808679,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.10946268464964,
+    52.06258832047246,
+    5.12237418750932,
+    52.07975725261921
+],
+  "geometry": {"coordinates":[[[5.11969407528774,52.07975725261921],[5.12012586485891,52.0795250719686],[5.1208277450556,52.07920957826714],[5.12173362172988,52.07887967371085],[5.12237418750932,52.07865698782762],[5.11919125717838,52.07311894810728],[5.11699010797265,52.0693399749852],[5.11556696608452,52.06689622816715],[5.11308260795433,52.06258832047246],[5.11231962743946,52.0659207620208],[5.11202027759032,52.06709435933544],[5.11136316689209,52.06967042168374],[5.11115451445692,52.07047512284169],[5.11042529261349,52.07328729786809],[5.11009731602339,52.07455440577935],[5.10951482483727,52.07680464170189],[5.10946268464964,52.07696321261805],[5.11436419311269,52.07759559166183],[5.11520007083791,52.07805695850119],[5.1155072262573,52.07817915845888],[5.11919658025443,52.07956975495991],[5.11969407528774,52.07975725261921]]],"type":"Polygon"}
+}

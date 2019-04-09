@@ -1,0 +1,80 @@
+{
+  "id": 1158792981,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00220500",
+    "cbsnl:BU_NAAM":"Bebouwde kom Lettelbert",
+    "cbsnl:GM_CODE":"GM0022",
+    "cbsnl:GM_NAAM":"Leek",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"19",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK002205",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":233683.806519,
+    "geom:bbox":"6.40262272818,53.186924635,6.4217216992,53.1933599156",
+    "geom:latitude":53.190175,
+    "geom:longitude":6.411766,
+    "iso:country":"NL",
+    "lbl:latitude":53.190178,
+    "lbl:longitude":6.411754,
+    "mps:latitude":53.190178,
+    "mps:longitude":6.411754,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bebouwde kom Lettelbert"
+    ],
+    "name:nld_x_preferred":[
+        "Bebouwde kom Lettelbert"
+    ],
+    "reversegeo:latitude":53.190178,
+    "reversegeo:longitude":6.411754,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473721,
+        85633337,
+        1158796455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3a1c985d499946e7bfe5ac67608e6fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473721,
+            "locality_id":1158796455,
+            "neighbourhood_id":1158792981,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158792981,
+    "wof:lastmodified":1513382279,
+    "wof:name":"Bebouwde kom Lettelbert",
+    "wof:parent_id":1158796455,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.4026227281773,
+    53.18692463497866,
+    6.421721699200549,
+    53.193359915607374
+],
+  "geometry": {"coordinates":[[[[6.4026227281773,53.1886956828832],[6.40270801666582,53.1887039469884],[6.42079253094452,53.19335991560737],[6.42172169920055,53.19205226554776],[6.40304331387518,53.18692463497866],[6.4026227281773,53.1886956828832]]]],"type":"MultiPolygon"}
+}

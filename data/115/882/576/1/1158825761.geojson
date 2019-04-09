@@ -1,0 +1,80 @@
+{
+  "id": 1158825761,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050905",
+    "cbsnl:BU_NAAM":"Minnaertweg en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1974",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050509",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":181265.717897,
+    "geom:bbox":"4.68263300841,51.7786008747,4.68798820476,51.7839941068",
+    "geom:latitude":51.781172,
+    "geom:longitude":4.685555,
+    "iso:country":"NL",
+    "lbl:latitude":51.78085,
+    "lbl:longitude":4.685606,
+    "mps:latitude":51.78085,
+    "mps:longitude":4.685606,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Minnaertweg en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Minnaertweg en omgeving"
+    ],
+    "reversegeo:latitude":51.78085,
+    "reversegeo:longitude":4.685606,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829529,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9c486056e77d241485849414a105761a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829529,
+            "neighbourhood_id":1158825761,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825761,
+    "wof:lastmodified":1513588015,
+    "wof:name":"Minnaertweg en omgeving",
+    "wof:parent_id":1158829529,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.682633008414454,
+    51.7786008747428,
+    4.6879882047638,
+    51.78399410683894
+],
+  "geometry": {"coordinates":[[[[4.68469027356213,51.78399410683894],[4.6879882047638,51.78390239506677],[4.68769748146404,51.7786008747428],[4.68314707845515,51.77870525371694],[4.68323109415143,51.77949230537232],[4.68263300841445,51.78143341006722],[4.68318207471188,51.78263449507795],[4.68464356309531,51.78281940962612],[4.68469027356213,51.78399410683894]]]],"type":"MultiPolygon"}
+}

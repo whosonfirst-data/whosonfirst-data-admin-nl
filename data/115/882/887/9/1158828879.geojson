@@ -1,0 +1,82 @@
+{
+  "id": 1158828879,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19300902",
+    "cbsnl:BU_NAAM":"Schenkel-Industrieterrein",
+    "cbsnl:GM_CODE":"GM1930",
+    "cbsnl:GM_NAAM":"Nissewaard",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2563",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK193009",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":36757.813121,
+    "geom:bbox":"4.33823449555,51.8482034773,4.34401471082,51.8499827742",
+    "geom:latitude":51.848833,
+    "geom:longitude":4.341231,
+    "iso:country":"NL",
+    "lbl:latitude":51.848991,
+    "lbl:longitude":4.341275,
+    "mps:latitude":51.848991,
+    "mps:longitude":4.341275,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schenkel-Industrieterrein"
+    ],
+    "name:nld_x_preferred":[
+        "Schenkel-Industrieterrein"
+    ],
+    "reversegeo:latitude":51.848991,
+    "reversegeo:longitude":4.341275,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831187,
+        1158824747,
+        85633337,
+        101751847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"35c032f33106606107b1ddcf1f2a1308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824747,
+            "locality_id":101751847,
+            "macrohood_id":1158831187,
+            "neighbourhood_id":1158828879,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828879,
+    "wof:lastmodified":1513588280,
+    "wof:name":"Schenkel-Industrieterrein",
+    "wof:parent_id":1158831187,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.338234495554116,
+    51.84820347730105,
+    4.344014710816201,
+    51.84998277418926
+],
+  "geometry": {"coordinates":[[[[4.3440147108162,51.84828724094234],[4.34259066265106,51.8482745789661],[4.33877932184928,51.84824060527136],[4.33823449555412,51.84820347730105],[4.33867645609092,51.84839841369983],[4.33879554490728,51.84846330479909],[4.33919800644544,51.84870192172161],[4.33920714477537,51.84870752978358],[4.33963060190507,51.84896905029436],[4.34007655510741,51.84924357851781],[4.34127190268583,51.84998277418926],[4.3440147108162,51.84828724094234]]]],"type":"MultiPolygon"}
+}

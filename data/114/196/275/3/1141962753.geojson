@@ -1,0 +1,80 @@
+{
+  "id": 1141962753,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02220202",
+    "cbsnl:BU_NAAM":"Schrijvers en dichtersbuurt",
+    "cbsnl:GM_CODE":"GM0222",
+    "cbsnl:GM_NAAM":"Doetinchem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2001",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022202",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":384318.79511,
+    "geom:bbox":"6.29707324632,51.9671277481,6.31087015966,51.974452723",
+    "geom:latitude":51.970673,
+    "geom:longitude":6.303511,
+    "iso:country":"NL",
+    "lbl:latitude":51.971209,
+    "lbl:longitude":6.303981,
+    "mps:latitude":51.971209,
+    "mps:longitude":6.303981,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schrijvers en dichtersbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Schrijvers en dichtersbuurt"
+    ],
+    "reversegeo:latitude":51.971209,
+    "reversegeo:longitude":6.303981,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473885,
+        85633337,
+        101808663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4a6dab7a9dd4af2b07d1d189dd701607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473885,
+            "locality_id":101808663,
+            "neighbourhood_id":1141962753,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962753,
+    "wof:lastmodified":1513368698,
+    "wof:name":"Schrijvers en dichtersbuurt",
+    "wof:parent_id":101808663,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.297073246320689,
+    51.96712774808043,
+    6.310870159662446,
+    51.97445272296619
+],
+  "geometry": {"coordinates":[[[[6.30370317250391,51.97445272296619],[6.31087015966245,51.97081604728178],[6.30761455758514,51.9689249879001],[6.30710147845651,51.96921141367496],[6.30367962123303,51.96868763717526],[6.30097743418229,51.96712774808043],[6.3007081039416,51.96738257901094],[6.29943675522649,51.96793249107861],[6.29707324632069,51.96895373540666],[6.29753485940622,51.96989329805494],[6.29785556105444,51.97034897140257],[6.2985119656828,51.97087791431847],[6.30157847306033,51.97299468822715],[6.30370317250391,51.97445272296619]]]],"type":"MultiPolygon"}
+}

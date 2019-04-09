@@ -1,0 +1,80 @@
+{
+  "id": 1158825649,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050301",
+    "cbsnl:BU_NAAM":"Viottakade en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2360",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050503",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":252987.538119,
+    "geom:bbox":"4.64989134532,51.7993889149,4.65861959734,51.8063151318",
+    "geom:latitude":51.803217,
+    "geom:longitude":4.653517,
+    "iso:country":"NL",
+    "lbl:latitude":51.803063,
+    "lbl:longitude":4.653517,
+    "mps:latitude":51.803063,
+    "mps:longitude":4.653517,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Viottakade en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Viottakade en omgeving"
+    ],
+    "reversegeo:latitude":51.803063,
+    "reversegeo:longitude":4.653517,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829427,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"38762f694679d209130df0906d475d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829427,
+            "neighbourhood_id":1158825649,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825649,
+    "wof:lastmodified":1513588008,
+    "wof:name":"Viottakade en omgeving",
+    "wof:parent_id":1158829427,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.649891345318971,
+    51.79938891491086,
+    4.658619597343477,
+    51.80631513180414
+],
+  "geometry": {"coordinates":[[[[4.65009779321961,51.80628664083923],[4.6518091551698,51.80631513180414],[4.65328285092512,51.80561223801835],[4.65495570031369,51.80481429971822],[4.65628040295399,51.80512417468881],[4.65861959734348,51.80234449729912],[4.65489286127723,51.8013489530957],[4.6540540151666,51.79938891491086],[4.65200348230191,51.80107864263781],[4.65066430868333,51.80164347156037],[4.64989134531897,51.80168934009723],[4.65022973260494,51.80449242665263],[4.6502279231692,51.80568551217398],[4.65009779321961,51.80628664083923]]]],"type":"MultiPolygon"}
+}

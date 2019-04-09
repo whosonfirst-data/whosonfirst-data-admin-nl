@@ -1,0 +1,80 @@
+{
+  "id": 1158791471,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16900802",
+    "cbsnl:BU_NAAM":"Ruinerweide",
+    "cbsnl:GM_CODE":"GM1690",
+    "cbsnl:GM_NAAM":"De Wolden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"10",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK169008",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":259988.635941,
+    "geom:bbox":"6.32988115048,52.7256375588,6.3406272286,52.7335506776",
+    "geom:latitude":52.729785,
+    "geom:longitude":6.33519,
+    "iso:country":"NL",
+    "lbl:latitude":52.730569,
+    "lbl:longitude":6.33519,
+    "mps:latitude":52.730569,
+    "mps:longitude":6.33519,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ruinerweide"
+    ],
+    "name:nld_x_preferred":[
+        "Ruinerweide"
+    ],
+    "reversegeo:latitude":52.730569,
+    "reversegeo:longitude":6.33519,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474601,
+        85633337,
+        101808787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ad6655984076b1a50e93f651a84514da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474601,
+            "locality_id":101808787,
+            "neighbourhood_id":1158791471,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791471,
+    "wof:lastmodified":1513292341,
+    "wof:name":"Ruinerweide",
+    "wof:parent_id":101808787,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.329881150484383,
+    52.72563755883717,
+    6.340627228601791,
+    52.73355067762585
+],
+  "geometry": {"coordinates":[[[[6.33457408922642,52.72563755883717],[6.33261073585371,52.72760792468372],[6.33146308209473,52.7270429669324],[6.32988115048438,52.72845135862553],[6.33124609177985,52.72968585107051],[6.33314141242677,52.73113967689826],[6.33534459303387,52.73217872333561],[6.33728784087029,52.73297153058331],[6.33911270081977,52.73355067762585],[6.34062722860179,52.73082380977234],[6.338697366143,52.73037977328357],[6.337136471366,52.72980637552671],[6.33583009677506,52.72923430163424],[6.33439912538387,52.7287822856062],[6.33693381724221,52.72633324874989],[6.33457408922642,52.72563755883717]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158803851,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17350009",
+    "cbsnl:BU_NAAM":"Industriegebied Kevelhammerhoek",
+    "cbsnl:GM_CODE":"GM1735",
+    "cbsnl:GM_NAAM":"Hof van Twente",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"517",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK173500",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000058,
+    "geom:area_square_m":441418.055236,
+    "geom:bbox":"6.58448933644,52.2243347256,6.59926261999,52.2302356125",
+    "geom:latitude":52.227434,
+    "geom:longitude":6.591397,
+    "iso:country":"NL",
+    "lbl:latitude":52.227734,
+    "lbl:longitude":6.591257,
+    "mps:latitude":52.227734,
+    "mps:longitude":6.591257,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Industriegebied Kevelhammerhoek"
+    ],
+    "name:nld_x_preferred":[
+        "Industriegebied Kevelhammerhoek"
+    ],
+    "reversegeo:latitude":52.227734,
+    "reversegeo:longitude":6.591257,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474653,
+        85633337,
+        101807197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1b2d0fd6d6d708299a6c84c1ea38266b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474653,
+            "locality_id":101807197,
+            "neighbourhood_id":1158803851,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803851,
+    "wof:lastmodified":1513524366,
+    "wof:name":"Industriegebied Kevelhammerhoek",
+    "wof:parent_id":101807197,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.584489336435683,
+    52.224334725616146,
+    6.599262619986487,
+    52.23023561253682
+],
+  "geometry": {"coordinates":[[[[6.58770390014147,52.23023561253682],[6.58935669108795,52.23018480611222],[6.59488810919458,52.23011206731375],[6.59497861764471,52.22935075478138],[6.59711538775684,52.22919466584545],[6.5976050897238,52.22897107796852],[6.5982399504218,52.2286865605323],[6.59878354135964,52.22826845477809],[6.599139272406,52.22792401928479],[6.59926261998649,52.2276268093616],[6.59925774704939,52.22644556576544],[6.59833661414271,52.22631076441245],[6.59773745265418,52.22623713459972],[6.59590752619652,52.22598313190296],[6.59567552279691,52.22594590100027],[6.59010032752984,52.2251410458735],[6.58820893012162,52.22485159602619],[6.58751340231422,52.22474799735571],[6.58560974933182,52.22447773162646],[6.58539170367354,52.22441477684887],[6.5851604594804,52.22439661862517],[6.58464376763771,52.22433472561615],[6.5846265462075,52.22451074231977],[6.58448933643568,52.22795563593515],[6.58735371178787,52.22794453185718],[6.58769218832594,52.23018292318439],[6.58770390014147,52.23023561253682]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158806899,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09833202",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Windhond",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1416",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098332",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:area_square_m":240328.276118,
+    "geom:bbox":"6.13513876809,51.3326035566,6.14482832647,51.3389249185",
+    "geom:latitude":51.335262,
+    "geom:longitude":6.140365,
+    "iso:country":"NL",
+    "lbl:latitude":51.33527,
+    "lbl:longitude":6.140438,
+    "mps:latitude":51.33527,
+    "mps:longitude":6.140438,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Windhond"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Windhond"
+    ],
+    "reversegeo:latitude":51.33527,
+    "reversegeo:longitude":6.140438,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        1158818255,
+        404474525,
+        85633337,
+        101839319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"05606d97a91259ef96c74e81aa620cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839319,
+            "macrohood_id":1158818255,
+            "neighbourhood_id":1158806899,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806899,
+    "wof:lastmodified":1513404063,
+    "wof:name":"Bedrijventerrein Windhond",
+    "wof:parent_id":1158818255,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.13513876809024,
+    51.33260355657751,
+    6.144828326466068,
+    51.338924918492545
+],
+  "geometry": {"coordinates":[[[[6.14268539822605,51.33892491849254],[6.14482832646607,51.3353926784247],[6.14276330132621,51.33417639191969],[6.13994920684895,51.33260355657751],[6.1396834502214,51.33275988401325],[6.13809079093217,51.33268027489478],[6.13536572222564,51.33311131427772],[6.13513876809024,51.33362334879305],[6.1367442185624,51.33491823638125],[6.13997663956563,51.33740443453355],[6.14268539822605,51.33892491849254]]]],"type":"MultiPolygon"}
+}

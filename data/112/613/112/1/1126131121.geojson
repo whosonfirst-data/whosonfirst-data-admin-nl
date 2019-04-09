@@ -1,0 +1,79 @@
+{
+  "id": 1126131121,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00630103",
+    "cbsnl:BU_NAAM":"Nieuwe Bildtzijl en Nieuwe Bildtdijk",
+    "cbsnl:GM_CODE":"GM0063",
+    "cbsnl:GM_NAAM":"het Bildt",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"18",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK006301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000171,
+    "geom:area_square_m":1261493.777304,
+    "geom:bbox":"5.67972419231,53.3068285995,5.72171791461,53.3175978853",
+    "geom:latitude":53.312234,
+    "geom:longitude":5.70174,
+    "iso:country":"NL",
+    "lbl:latitude":53.31197,
+    "lbl:longitude":5.701739,
+    "mps:latitude":53.31197,
+    "mps:longitude":5.701739,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Nieuwe Bildtzijl en Nieuwe Bildtdijk"
+    ],
+    "name:eng_x_preferred":[
+        "Nieuwe Bildtzijl en Nieuwe Bildtdijk"
+    ],
+    "reversegeo:latitude":53.31197,
+    "reversegeo:longitude":5.701739,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        404473763,
+        85633337,
+        101874309,
+        85687055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9b05f1db9a570fde76074123c3f67773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473763,
+            "locality_id":101874309,
+            "neighbourhood_id":1126131121,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":1126131121,
+    "wof:lastmodified":1507246092,
+    "wof:name":"Nieuwe Bildtzijl en Nieuwe Bildtdijk",
+    "wof:parent_id":101874309,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.67972419231227,
+    53.30682859948567,
+    5.72171791460799,
+    53.31759788525476
+],
+  "geometry": {"coordinates":[[[[5.72171791460799,53.31611023827531],[5.72018497862314,53.31313387897174],[5.71790753565614,53.31332436814612],[5.71521343858962,53.3132003431211],[5.71190083292078,53.31244109658545],[5.70876993820971,53.31167060360255],[5.70607811823349,53.31063267221148],[5.70223340943127,53.30966622436096],[5.69782552362205,53.30881960385302],[5.6874874516613,53.30750539071961],[5.68071965589821,53.30695941151775],[5.67978422566581,53.30682859948567],[5.67972419231227,53.3077222224148],[5.68265810837257,53.30788127081082],[5.68247654384998,53.31114563281117],[5.68946333802706,53.31180159545439],[5.69364210794378,53.31248568519199],[5.69647785945088,53.31312311475367],[5.69853345737279,53.31375520208795],[5.70230305033012,53.3144776775428],[5.70760366102419,53.31582942594205],[5.7119540182074,53.31669886680241],[5.71502859732622,53.31731499619506],[5.71741997349829,53.31746119810695],[5.72165722110276,53.31759788525476],[5.72141454805881,53.31603321564197],[5.72143835949956,53.31603504529495],[5.72144474893309,53.31607339496894],[5.72146606253933,53.31607622914041],[5.72156518011306,53.31608940445219],[5.72171791460799,53.31611023827531]]]],"type":"MultiPolygon"}
+}

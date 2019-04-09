@@ -1,0 +1,79 @@
+{
+  "id": 1158790305,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:GM_CODE":"GM0327",
+    "cbsnl:GM_NAAM":"Leusden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1221",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK032705",
+    "cbsnl:WK_NAAM":"Wijk 05 't Ruige Veld",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":587712.236563,
+    "geom:bbox":"5.4237863976,52.1386935029,5.4384874669,52.1466859832",
+    "geom:latitude":52.142353,
+    "geom:longitude":5.430573,
+    "iso:country":"NL",
+    "lbl:latitude":52.142374,
+    "lbl:longitude":5.430573,
+    "mps:latitude":52.142374,
+    "mps:longitude":5.430573,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":13.0,
+    "name:eng_x_preferred":[
+        "'t Ruige Veld"
+    ],
+    "name:nld_x_preferred":[
+        "'t Ruige Veld"
+    ],
+    "reversegeo:latitude":52.142374,
+    "reversegeo:longitude":5.430573,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473989,
+        85633337,
+        101837659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"63a1a93eca1fe1545786019200d89105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473989,
+            "locality_id":101837659,
+            "macrohood_id":1158790305,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158790305,
+    "wof:lastmodified":1513621743,
+    "wof:name":"'t Ruige Veld",
+    "wof:parent_id":101837659,
+    "wof:placetype":"macrohood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.423786397602551,
+    52.1386935028687,
+    5.438487466897847,
+    52.14668598317041
+],
+  "geometry": {"coordinates":[[[[5.42489839577819,52.14260687655213],[5.42462651288077,52.14319157230678],[5.42443371865738,52.14329499497863],[5.42415590495218,52.14464439803289],[5.42378639760255,52.14665500309471],[5.42528895098015,52.14668598317041],[5.42798696909849,52.14668507732365],[5.42939429318795,52.14643207479399],[5.43645280443657,52.14247828584654],[5.43599797847538,52.14193638878849],[5.43614699583952,52.14190851981594],[5.43802198082786,52.14140159135503],[5.43848746689785,52.14087924491518],[5.43845413621616,52.1386935028687],[5.43835782309174,52.13869691530319],[5.43146781299981,52.13894351057834],[5.42758970872376,52.13908225446442],[5.42758486602496,52.14003582222846],[5.42658999964143,52.14008924461615],[5.42605547567921,52.14011835318681],[5.42489839577819,52.14260687655213]]]],"type":"MultiPolygon"}
+}

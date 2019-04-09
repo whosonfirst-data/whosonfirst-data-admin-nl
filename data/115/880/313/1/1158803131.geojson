@@ -1,0 +1,80 @@
+{
+  "id": 1158803131,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01751101",
+    "cbsnl:BU_NAAM":"Kern Witharen",
+    "cbsnl:GM_CODE":"GM0175",
+    "cbsnl:GM_NAAM":"Ommen",
+    "cbsnl:IND_WBI":"2",
+    "cbsnl:OAD":"33",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK017511",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":59090.636813,
+    "geom:bbox":"6.39353787639,52.5602835703,6.39747822225,52.5634456696",
+    "geom:latitude":52.561776,
+    "geom:longitude":6.395538,
+    "iso:country":"NL",
+    "lbl:latitude":52.561792,
+    "lbl:longitude":6.395575,
+    "mps:latitude":52.561792,
+    "mps:longitude":6.395575,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kern Witharen"
+    ],
+    "name:nld_x_preferred":[
+        "Kern Witharen"
+    ],
+    "reversegeo:latitude":52.561792,
+    "reversegeo:longitude":6.395575,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473847,
+        85633337,
+        1158805675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f74b22b7566436a2bdbf2c5bdbc5d12f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473847,
+            "locality_id":1158805675,
+            "neighbourhood_id":1158803131,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803131,
+    "wof:lastmodified":1513524318,
+    "wof:name":"Kern Witharen",
+    "wof:parent_id":1158805675,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.393537876394848,
+    52.56028357025977,
+    6.397478222252376,
+    52.56344566963576
+],
+  "geometry": {"coordinates":[[[[6.39531945416029,52.56081115353393],[6.39382188617809,52.56069096974455],[6.39381255311319,52.56074598236163],[6.39364271518355,52.56181243245174],[6.39359042695409,52.56213001019082],[6.39353787639485,52.56244776125766],[6.39497476982009,52.56254799026323],[6.39482511177022,52.56340329075127],[6.39544518632965,52.56344566963576],[6.39548895829022,52.56321406872062],[6.3958146230442,52.56317286139556],[6.39661508396116,52.56317583611156],[6.39747822225238,52.56054458296842],[6.39602387471952,52.56028357025977],[6.39593477691202,52.56085754333846],[6.39531945416029,52.56081115353393]]]],"type":"MultiPolygon"}
+}

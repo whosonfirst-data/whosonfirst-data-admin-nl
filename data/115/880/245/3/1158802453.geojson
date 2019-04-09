@@ -1,0 +1,80 @@
+{
+  "id": 1158802453,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01580010",
+    "cbsnl:BU_NAAM":"Veldmaat 1",
+    "cbsnl:GM_CODE":"GM0158",
+    "cbsnl:GM_NAAM":"Haaksbergen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"936",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK015800",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0001,
+    "geom:area_square_m":757726.365872,
+    "geom:bbox":"6.74845897941,52.1580289381,6.76590362521,52.1700449766",
+    "geom:latitude":52.164069,
+    "geom:longitude":6.756741,
+    "iso:country":"NL",
+    "lbl:latitude":52.164238,
+    "lbl:longitude":6.756851,
+    "mps:latitude":52.164238,
+    "mps:longitude":6.756851,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Veldmaat 1"
+    ],
+    "name:nld_x_preferred":[
+        "Veldmaat 1"
+    ],
+    "reversegeo:latitude":52.164238,
+    "reversegeo:longitude":6.756851,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473829,
+        85633337,
+        101807203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d7626b56ef8b8e5cabc73a78cbecdd3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473829,
+            "locality_id":101807203,
+            "neighbourhood_id":1158802453,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802453,
+    "wof:lastmodified":1513524263,
+    "wof:name":"Veldmaat 1",
+    "wof:parent_id":101807203,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.748458979411285,
+    52.15802893811505,
+    6.765903625209152,
+    52.17004497664075
+],
+  "geometry": {"coordinates":[[[[6.75787674792777,52.16996782196717],[6.75798145419158,52.17004497664075],[6.76590362520915,52.16484687204198],[6.75985459010312,52.16151142226813],[6.7562285752144,52.15976306494503],[6.75274669414728,52.15802893811505],[6.75251699245969,52.15832851820369],[6.75078185753033,52.16059191600502],[6.75006985472104,52.16178304580103],[6.74845897941128,52.16292527659199],[6.75229083190534,52.16581871332539],[6.75234623468379,52.16586020924779],[6.75527813558529,52.16803781970423],[6.75787674792777,52.16996782196717]]]],"type":"MultiPolygon"}
+}

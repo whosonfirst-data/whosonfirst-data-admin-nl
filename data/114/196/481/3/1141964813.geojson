@@ -1,0 +1,80 @@
+{
+  "id": 1141964813,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU15090301",
+    "cbsnl:BU_NAAM":"Westendorp",
+    "cbsnl:GM_CODE":"GM1509",
+    "cbsnl:GM_NAAM":"Oude IJsselstreek",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"87",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK150903",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":227882.002443,
+    "geom:bbox":"6.40762215465,51.9482555605,6.41940006995,51.952784009",
+    "geom:latitude":51.950294,
+    "geom:longitude":6.413373,
+    "iso:country":"NL",
+    "lbl:latitude":51.950192,
+    "lbl:longitude":6.414443,
+    "mps:latitude":51.950192,
+    "mps:longitude":6.414443,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Westendorp"
+    ],
+    "name:nld_x_preferred":[
+        "Westendorp"
+    ],
+    "reversegeo:latitude":51.950192,
+    "reversegeo:longitude":6.414443,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474543,
+        85633337,
+        101855389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"43afb42ea6a016f5eab8749986fe2969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474543,
+            "locality_id":101855389,
+            "neighbourhood_id":1141964813,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141964813,
+    "wof:lastmodified":1513368848,
+    "wof:name":"Westendorp",
+    "wof:parent_id":101855389,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.407622154650888,
+    51.94825556045998,
+    6.419400069945988,
+    51.95278400904482
+],
+  "geometry": {"coordinates":[[[[6.40886832973299,51.94831000852325],[6.4087642294697,51.94839967797454],[6.40762215465089,51.94967084179137],[6.40770373095532,51.95018980145736],[6.40813417756635,51.950887192594],[6.40865035534757,51.95112624804494],[6.40939707663198,51.95108829642706],[6.41070611057817,51.95100949024221],[6.41204936692806,51.95109582347381],[6.41283173095602,51.95127495561893],[6.41538693063207,51.95258017452985],[6.41604033626272,51.95278400904482],[6.41684838292697,51.95261429212434],[6.41761797654842,51.95243310991095],[6.41851303828062,51.9518168300717],[6.41940006994599,51.95097111569088],[6.41677815677132,51.95018707959306],[6.41621712985791,51.94970827887997],[6.4157755649606,51.9489076421472],[6.4154028764133,51.94825556045998],[6.41243894735705,51.9483488646737],[6.41041398746671,51.94885387227759],[6.40886832973299,51.94831000852325]]]],"type":"MultiPolygon"}
+}

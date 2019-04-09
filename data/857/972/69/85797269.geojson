@@ -1,0 +1,135 @@
+{
+  "id": 85797269,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08610003",
+    "cbsnl:BU_NAAM":"D'Ekker",
+    "cbsnl:GM_CODE":"GM0861",
+    "cbsnl:GM_NAAM":"Veldhoven",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2168",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK086100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:area_square_m":802097.776703,
+    "geom:bbox":"5.39617804827,51.4083157408,5.4125086462,51.4181281887",
+    "geom:latitude":51.413235,
+    "geom:longitude":5.404896,
+    "gn:latitude":51.41373,
+    "gn:longitude":5.40309,
+    "iso:country":"NL",
+    "lbl:latitude":51.407772,
+    "lbl:longitude":5.358582,
+    "mps:latitude":51.413016,
+    "mps:longitude":5.405713,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "In Ekker"
+    ],
+    "name:eng_x_preferred":[
+        "D'Ekker"
+    ],
+    "name:fra_x_preferred":[
+        "In Ecker"
+    ],
+    "name:nld_x_preferred":[
+        "D'Ekker"
+    ],
+    "name:nor_x_preferred":[
+        "In Eker"
+    ],
+    "name:por_x_preferred":[
+        "In Eker"
+    ],
+    "name:unk_x_variant":[
+        "D' Ekker"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"D\u2019 Ekker",
+    "qs:local_max":1072,
+    "qs:local_sum":1373,
+    "qs:localhoods":4,
+    "qs:name":"D' Ekker",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Noord-Brabant",
+    "qs:name_adm2":"Veldhoven",
+    "qs:name_local":"Veldhoven",
+    "qs:photo_max":3,
+    "qs:photo_sum":3,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346378,
+    "qs:woe_adm2":12592443,
+    "qs:woe_lau":0,
+    "qs:woe_local":12592443,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":51.413016,
+    "reversegeo:longitude":5.405713,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":157,
+    "wof:belongsto":[
+        102191581,
+        404474443,
+        85633337,
+        101754579,
+        85687035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2757442,
+        "gp:id":728243,
+        "qs:id":1250453,
+        "qs_pg:id":1250453
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"979847614026a47d55f42cbcd6cc6331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474443,
+            "locality_id":101754579,
+            "neighbourhood_id":85797269,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":85797269,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527269562,
+    "wof:name":"D'Ekker",
+    "wof:parent_id":101754579,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.39617804827167,
+    51.40831574075634,
+    5.41250864619573,
+    51.41812818869497
+],
+  "geometry": {"coordinates":[[[[5.41045362192387,51.41812818869497],[5.41062147212114,51.41737029716416],[5.41107587407474,51.41481854016458],[5.4115364287677,51.41335778210693],[5.4119858252823,51.41249027813085],[5.41250864619573,51.41162893498964],[5.41236314023771,51.41127475658848],[5.41152057336645,51.4105990981457],[5.41084088651089,51.41084558686658],[5.40991189310138,51.41018229385033],[5.40898318069612,51.4095819164026],[5.40828016082982,51.4093932840445],[5.40704125695329,51.40910052740154],[5.40468809722096,51.408402597149],[5.40454889923075,51.40908744529449],[5.40099271560465,51.40831574075634],[5.39617804827167,51.41592514473852],[5.39684647035051,51.41583885464441],[5.39929032309508,51.41619564352639],[5.40463532710463,51.41714214254537],[5.41045362192387,51.41812818869497]]]],"type":"MultiPolygon"}
+}

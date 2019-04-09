@@ -1,0 +1,80 @@
+{
+  "id": 1158825581,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05032806",
+    "cbsnl:BU_NAAM":"Professorenbuurt",
+    "cbsnl:GM_CODE":"GM0503",
+    "cbsnl:GM_NAAM":"Delft",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1957",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050328",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":213407.998827,
+    "geom:bbox":"4.37556744188,52.0014688782,4.3861144804,52.0067374503",
+    "geom:latitude":52.004098,
+    "geom:longitude":4.380777,
+    "iso:country":"NL",
+    "lbl:latitude":52.003975,
+    "lbl:longitude":4.380777,
+    "mps:latitude":52.003975,
+    "mps:longitude":4.380777,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Professorenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Professorenbuurt"
+    ],
+    "reversegeo:latitude":52.003975,
+    "reversegeo:longitude":4.380777,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829617,
+        85633337,
+        101752765,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"14c57ffefccfb4cd5dc7e4230fcfa741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752765,
+            "macrohood_id":1158829617,
+            "neighbourhood_id":1158825581,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825581,
+    "wof:lastmodified":1513588004,
+    "wof:name":"Professorenbuurt",
+    "wof:parent_id":1158829617,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.375567441878245,
+    52.001468878172325,
+    4.386114480404664,
+    52.00673745028143
+],
+  "geometry": {"coordinates":[[[[4.38373851845496,52.00664968616641],[4.3841643315823,52.00673745028143],[4.38469910648909,52.00630362576514],[4.38520570082834,52.00582039081738],[4.38570412330495,52.00526562362161],[4.38593093302147,52.00530953065947],[4.38611448040466,52.00499501267439],[4.38470682810917,52.00453857330139],[4.38420538062403,52.00402409999987],[4.38370835655076,52.00383298745057],[4.38423744373678,52.00311174676489],[4.38366289872357,52.00294244511987],[4.38353778321208,52.00300151234045],[4.38339290059204,52.00300674885505],[4.38143376888033,52.00248710207374],[4.37753118586778,52.00146887817233],[4.37658952975814,52.00281845632922],[4.37608063623938,52.00354954486685],[4.37594019958844,52.00375139433063],[4.37556744187825,52.00422522380153],[4.38210173519059,52.00599167633439],[4.38184063102886,52.00622998499227],[4.38220667069533,52.00628749293311],[4.38272121223282,52.00639975032949],[4.38373851845496,52.00664968616641]]]],"type":"MultiPolygon"}
+}

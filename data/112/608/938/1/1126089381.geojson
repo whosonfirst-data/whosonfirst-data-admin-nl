@@ -1,0 +1,93 @@
+{
+  "id": 1126089381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.15869,51.37782,6.15869,51.37782",
+    "geom:latitude":51.37782,
+    "geom:longitude":6.15869,
+    "gn:gn_country":"NL",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"NL",
+    "lbl:latitude":51.37782,
+    "lbl:longitude":6.15869,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NL",
+    "qs_pg:gn_country":"NL",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2746010,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ubroek",
+    "qs_pg:name_adm0":"Nederland",
+    "qs_pg:name_adm1":"Limburg",
+    "qs_pg:photos":492,
+    "qs_pg:photos_1k":100,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":492,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":899882,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424909,
+    "qs_pg:woe_id":734002,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424909,
+    "woe:name_adm0":"Nederland",
+    "woe:name_adm1":"Limburg",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        404474525,
+        85633337,
+        101839199,
+        85687033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2746010,
+        "gp:id":734002,
+        "qs_pg:id":899882
+    },
+    "wof:country":"NL",
+    "wof:created":1497313427,
+    "wof:geomhash":"8e27e5e70f60823f21f053f912f1a59a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "neighbourhood_id":1126089381,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1126089381,
+    "wof:lastmodified":1511998874,
+    "wof:name":"Ubroek",
+    "wof:parent_id":101839199,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        85798541
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.15869,
+    51.37782,
+    6.15869,
+    51.37782
+],
+  "geometry": {"coordinates":[6.15869,51.37782],"type":"Point"}
+}

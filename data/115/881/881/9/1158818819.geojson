@@ -1,0 +1,80 @@
+{
+  "id": 1158818819,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03840004",
+    "cbsnl:BU_NAAM":"Kruidenhof",
+    "cbsnl:GM_CODE":"GM0384",
+    "cbsnl:GM_NAAM":"Diemen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2703",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK038400",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":138744.259082,
+    "geom:bbox":"4.95320402418,52.3312057658,4.96026580249,52.3361817809",
+    "geom:latitude":52.333782,
+    "geom:longitude":4.956989,
+    "iso:country":"NL",
+    "lbl:latitude":52.333543,
+    "lbl:longitude":4.956748,
+    "mps:latitude":52.333543,
+    "mps:longitude":4.956748,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kruidenhof"
+    ],
+    "name:nld_x_preferred":[
+        "Kruidenhof"
+    ],
+    "reversegeo:latitude":52.333543,
+    "reversegeo:longitude":4.956748,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823043,
+        85633337,
+        1158822543,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"548178f53baaf7610f1bc5690ba9440e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":1158822543,
+            "macrohood_id":1158823043,
+            "neighbourhood_id":1158818819,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818819,
+    "wof:lastmodified":1513464097,
+    "wof:name":"Kruidenhof",
+    "wof:parent_id":1158823043,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.953204024177955,
+    52.33120576575235,
+    4.960265802493158,
+    52.33618178092629
+],
+  "geometry": {"coordinates":[[[[4.95713392874334,52.33614744145158],[4.95941305075535,52.33618178092629],[4.9592591416382,52.33602885916655],[4.95943279637741,52.33591002918261],[4.95904762879273,52.33552517079114],[4.95882538459945,52.33559787737977],[4.95789154542003,52.33466998161708],[4.95919110825889,52.33379389033581],[4.95943903911473,52.33348386873747],[4.96009084850001,52.33253436326712],[4.96026580249316,52.33249370879533],[4.95657670715853,52.33120576575235],[4.95646349071688,52.33139241229439],[4.95629936352753,52.33167576975664],[4.95577743017002,52.33223925514898],[4.95522124301224,52.33270542987901],[4.95474019402689,52.3329876300058],[4.95397099481889,52.33333898927918],[4.95320402417796,52.3336369880899],[4.9539062898424,52.33387380572416],[4.95404816052899,52.3340080572935],[4.95629575490784,52.3361348007795],[4.95713392874334,52.33614744145158]]]],"type":"MultiPolygon"}
+}

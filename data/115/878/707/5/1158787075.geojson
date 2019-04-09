@@ -1,0 +1,80 @@
+{
+  "id": 1158787075,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09951882",
+    "cbsnl:BU_NAAM":"Industrieterrein Oostervaart Midden",
+    "cbsnl:GM_CODE":"GM0995",
+    "cbsnl:GM_NAAM":"Lelystad",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"78",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK099518",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000108,
+    "geom:area_square_m":811791.844542,
+    "geom:bbox":"5.51906895838,52.5296731877,5.52859112976,52.5485409995",
+    "geom:latitude":52.539155,
+    "geom:longitude":5.523817,
+    "iso:country":"NL",
+    "lbl:latitude":52.539109,
+    "lbl:longitude":5.523812,
+    "mps:latitude":52.539109,
+    "mps:longitude":5.523812,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Industrieterrein Oostervaart Midden"
+    ],
+    "name:nld_x_preferred":[
+        "Industrieterrein Oostervaart Midden"
+    ],
+    "reversegeo:latitude":52.539109,
+    "reversegeo:longitude":5.523812,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158787379,
+        85633337,
+        101751873,
+        85687049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7f2ba1ab9951f99501bd8f7afc2bf5b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751873,
+            "macrohood_id":1158787379,
+            "neighbourhood_id":1158787075,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158787075,
+    "wof:lastmodified":1513299291,
+    "wof:name":"Industrieterrein Oostervaart Midden",
+    "wof:parent_id":1158787379,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.519068958377852,
+    52.52967318773584,
+    5.528591129761037,
+    52.54854099946626
+],
+  "geometry": {"coordinates":[[[[5.5225562912178,52.54854099946626],[5.52859112976104,52.54809339713378],[5.52668348105899,52.53901649030722],[5.52605042582477,52.53593108163286],[5.52578155810235,52.53452235584011],[5.52562821906072,52.53381225387404],[5.52517156627168,52.5304818879273],[5.52500795463218,52.52967318773584],[5.52227340557301,52.52989371241311],[5.52206237894,52.52994461416841],[5.52207265566153,52.53006680224765],[5.51906895837785,52.53028329738896],[5.52198846875991,52.54448574796416],[5.52206452946619,52.54545738367128],[5.52257331701948,52.54819373133931],[5.52257953499109,52.54838738308304],[5.5225562912178,52.54854099946626]]]],"type":"MultiPolygon"}
+}

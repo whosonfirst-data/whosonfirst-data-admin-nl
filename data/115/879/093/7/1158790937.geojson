@@ -1,0 +1,80 @@
+{
+  "id": 1158790937,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01142100",
+    "cbsnl:BU_NAAM":"Nieuw-Schoonebeek",
+    "cbsnl:GM_CODE":"GM0114",
+    "cbsnl:GM_NAAM":"Emmen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"116",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011421",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":618442.301878,
+    "geom:bbox":"6.97898324574,52.6435893357,6.99574926901,52.6529588783",
+    "geom:latitude":52.648223,
+    "geom:longitude":6.987263,
+    "iso:country":"NL",
+    "lbl:latitude":52.648863,
+    "lbl:longitude":6.986564,
+    "mps:latitude":52.648863,
+    "mps:longitude":6.986564,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Nieuw-Schoonebeek"
+    ],
+    "name:nld_x_preferred":[
+        "Nieuw-Schoonebeek"
+    ],
+    "reversegeo:latitude":52.648863,
+    "reversegeo:longitude":6.986564,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473809,
+        85633337,
+        101856067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ba12c3ed0c221485db7fa1a5e9b3f26f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473809,
+            "locality_id":101856067,
+            "neighbourhood_id":1158790937,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158790937,
+    "wof:lastmodified":1513292308,
+    "wof:name":"Nieuw-Schoonebeek",
+    "wof:parent_id":101856067,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.978983245736905,
+    52.643589335653964,
+    6.995749269006281,
+    52.65295887833329
+],
+  "geometry": {"coordinates":[[[[6.98059539381698,52.64897689039058],[6.98302606802943,52.65295887833329],[6.99121051440002,52.65129117537386],[6.9899255999536,52.64895918579847],[6.99574926900628,52.64777210975214],[6.99527564975958,52.64676034682729],[6.99385074572551,52.64466631287177],[6.99242714665301,52.64502468701863],[6.99206742384543,52.64460258762563],[6.99113623397585,52.64483178203114],[6.99009360965476,52.64358933565396],[6.98901239787793,52.64391060237628],[6.98789242039379,52.64433734068025],[6.98675806470368,52.64478821600741],[6.98751685856941,52.64532296070514],[6.98571041017966,52.64563486737525],[6.97956445260453,52.64703372986572],[6.9789832457369,52.64714127875123],[6.97921564203517,52.64734965756766],[6.98004000390329,52.64808879656596],[6.98059539381698,52.64897689039058]]]],"type":"MultiPolygon"}
+}

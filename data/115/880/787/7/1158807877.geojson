@@ -1,0 +1,80 @@
+{
+  "id": 1158807877,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19030402",
+    "cbsnl:BU_NAAM":"Herkenrade",
+    "cbsnl:GM_CODE":"GM1903",
+    "cbsnl:GM_NAAM":"Eijsden-Margraten",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"130",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK190304",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:area_square_m":431270.024201,
+    "geom:bbox":"5.77424451691,50.7936609189,5.78360249025,50.8008304357",
+    "geom:latitude":50.797292,
+    "geom:longitude":5.778681,
+    "iso:country":"NL",
+    "lbl:latitude":50.797185,
+    "lbl:longitude":5.778681,
+    "mps:latitude":50.797185,
+    "mps:longitude":5.778681,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Herkenrade"
+    ],
+    "name:nld_x_preferred":[
+        "Herkenrade"
+    ],
+    "reversegeo:latitude":50.797185,
+    "reversegeo:longitude":5.778681,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        1158805871,
+        85633337,
+        101810595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"11f7e31a73ef4d6ff23ab9787060475a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810595,
+            "neighbourhood_id":1158807877,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158807877,
+    "wof:lastmodified":1513404150,
+    "wof:name":"Herkenrade",
+    "wof:parent_id":101810595,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.774244516911231,
+    50.79366091887946,
+    5.783602490246626,
+    50.800830435716165
+],
+  "geometry": {"coordinates":[[[[5.77461362243842,50.79366091887946],[5.7742939595614,50.79393811732356],[5.77424451691123,50.79991136982752],[5.77605517998489,50.80001568177812],[5.77842939277042,50.80032424064685],[5.78119851238707,50.80070303262688],[5.7823046369651,50.80083043571616],[5.78302442543349,50.80040746222538],[5.78318438268921,50.80003724753013],[5.78349427061044,50.7992912338436],[5.78360249024663,50.79818411048421],[5.78330911727738,50.79689184646335],[5.78306071344754,50.79619325231396],[5.78111880072401,50.79431757183374],[5.78057981729477,50.79415395854289],[5.77951843737476,50.79408397160733],[5.77461362243842,50.79366091887946]]]],"type":"MultiPolygon"}
+}

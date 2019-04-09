@@ -1,0 +1,82 @@
+{
+  "id": 1158791111,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01190100",
+    "cbsnl:BU_NAAM":"Galgenkamp",
+    "cbsnl:GM_CODE":"GM0119",
+    "cbsnl:GM_NAAM":"Meppel",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"1260",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011901",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":81960.549768,
+    "geom:bbox":"6.18008693407,52.7014758727,6.18487729778,52.7053334819",
+    "geom:latitude":52.703737,
+    "geom:longitude":6.182771,
+    "iso:country":"NL",
+    "lbl:latitude":52.70376,
+    "lbl:longitude":6.182771,
+    "mps:latitude":52.70376,
+    "mps:longitude":6.182771,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Galgenkamp"
+    ],
+    "name:nld_x_preferred":[
+        "Galgenkamp"
+    ],
+    "reversegeo:latitude":52.70376,
+    "reversegeo:longitude":6.182771,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        1158792235,
+        404473813,
+        85633337,
+        101807279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b450bc0d799481d61de01363bdf17178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473813,
+            "locality_id":101807279,
+            "macrohood_id":1158792235,
+            "neighbourhood_id":1158791111,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791111,
+    "wof:lastmodified":1513292318,
+    "wof:name":"Galgenkamp",
+    "wof:parent_id":1158792235,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.180086934067496,
+    52.701475872724586,
+    6.184877297780242,
+    52.70533348185811
+],
+  "geometry": {"coordinates":[[[[6.18113863000701,52.7051434833147],[6.18257987851366,52.70533348185811],[6.18286324645369,52.70502063349635],[6.18397918498682,52.70524509039295],[6.18406232859919,52.70515134442803],[6.18425368287818,52.70480837427863],[6.18487729778024,52.70369299784203],[6.18479327422629,52.70341823276453],[6.18444502257682,52.70318477341652],[6.1841018681011,52.70271972009362],[6.18411228226094,52.70265329021952],[6.18433176402719,52.70257980976874],[6.1848131652725,52.70241471036142],[6.18464670694668,52.70208663993151],[6.1842888583212,52.70147587272459],[6.18386629536028,52.70151903945737],[6.18333431689579,52.70202919724033],[6.18258490428473,52.70252111491833],[6.18205249791542,52.7025012093852],[6.18178899146586,52.70283231539018],[6.18131548032346,52.70312171024789],[6.18080880294848,52.70355787873074],[6.1803990483577,52.70436657105642],[6.1800869340675,52.70500482565301],[6.18113863000701,52.7051434833147]]]],"type":"MultiPolygon"}
+}

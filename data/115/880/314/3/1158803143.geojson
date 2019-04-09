@@ -1,0 +1,80 @@
+{
+  "id": 1158803143,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01770003",
+    "cbsnl:BU_NAAM":"De Hofstee",
+    "cbsnl:GM_CODE":"GM0177",
+    "cbsnl:GM_NAAM":"Raalte",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1163",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK017700",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":98831.012239,
+    "geom:bbox":"6.26502923447,52.3871497254,6.2715043431,52.3909111038",
+    "geom:latitude":52.388531,
+    "geom:longitude":6.268336,
+    "iso:country":"NL",
+    "lbl:latitude":52.388705,
+    "lbl:longitude":6.268826,
+    "mps:latitude":52.388705,
+    "mps:longitude":6.268826,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Hofstee"
+    ],
+    "name:nld_x_preferred":[
+        "De Hofstee"
+    ],
+    "reversegeo:latitude":52.388705,
+    "reversegeo:longitude":6.268826,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473849,
+        85633337,
+        101808759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6bee79f93cf1f4f348c368ca0d286afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473849,
+            "locality_id":101808759,
+            "neighbourhood_id":1158803143,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803143,
+    "wof:lastmodified":1513524319,
+    "wof:name":"De Hofstee",
+    "wof:parent_id":101808759,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.265029234469648,
+    52.38714972538722,
+    6.271504343099309,
+    52.39091110380607
+],
+  "geometry": {"coordinates":[[[[6.26557084701995,52.38741030686803],[6.26502923446965,52.38758790435657],[6.26577284932178,52.38929825372372],[6.2668832273895,52.38929169128892],[6.26757943579685,52.38951205845102],[6.26859749861771,52.39091110380607],[6.27006171365698,52.38941015147597],[6.27128217708431,52.38799526119114],[6.27150434309931,52.38735011838283],[6.26990352015574,52.38714972538722],[6.26830602030807,52.38740430366292],[6.26685019112983,52.3874772043797],[6.26557084701995,52.38741030686803]]]],"type":"MultiPolygon"}
+}

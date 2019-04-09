@@ -1,0 +1,82 @@
+{
+  "id": 1158828869,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19300801",
+    "cbsnl:BU_NAAM":"Sterrenkwartier-Hoog",
+    "cbsnl:GM_CODE":"GM1930",
+    "cbsnl:GM_NAAM":"Nissewaard",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3184",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK193008",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":130796.468718,
+    "geom:bbox":"4.31731107352,51.8413028991,4.33093931966,51.8433330546",
+    "geom:latitude":51.842229,
+    "geom:longitude":4.324402,
+    "iso:country":"NL",
+    "lbl:latitude":51.842195,
+    "lbl:longitude":4.324376,
+    "mps:latitude":51.842195,
+    "mps:longitude":4.324376,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Sterrenkwartier-Hoog"
+    ],
+    "name:nld_x_preferred":[
+        "Sterrenkwartier-Hoog"
+    ],
+    "reversegeo:latitude":51.842195,
+    "reversegeo:longitude":4.324376,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831181,
+        1158824747,
+        85633337,
+        101751847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8db6017705bc800a0eae9f7978894ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824747,
+            "locality_id":101751847,
+            "macrohood_id":1158831181,
+            "neighbourhood_id":1158828869,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828869,
+    "wof:lastmodified":1513588280,
+    "wof:name":"Sterrenkwartier-Hoog",
+    "wof:parent_id":1158831181,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.317311073523461,
+    51.84130289906928,
+    4.330939319655759,
+    51.84333305456093
+],
+  "geometry": {"coordinates":[[[[4.33067876025679,51.84333305456093],[4.33068837423843,51.84323862000018],[4.33074055177308,51.84309618239954],[4.33078671959728,51.84297015168658],[4.33084923633646,51.84274068227209],[4.33089248941847,51.84238520942682],[4.33093683837251,51.84188556856415],[4.33093931965576,51.84185760451235],[4.32287482871142,51.84152626616529],[4.31857462519793,51.84134936034484],[4.31744592010426,51.84130289906928],[4.31731107352346,51.84248338774217],[4.31942462740723,51.84257731016437],[4.32272525585007,51.84272390895144],[4.32769902847002,51.84294464430177],[4.3273813359959,51.84318947014406],[4.32737994232914,51.84319046432597],[4.33067876025679,51.84333305456093]]]],"type":"MultiPolygon"}
+}

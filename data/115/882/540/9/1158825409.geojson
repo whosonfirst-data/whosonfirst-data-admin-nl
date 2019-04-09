@@ -1,0 +1,80 @@
+{
+  "id": 1158825409,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05031108",
+    "cbsnl:BU_NAAM":"Centrum-Zuidoost",
+    "cbsnl:GM_CODE":"GM0503",
+    "cbsnl:GM_NAAM":"Delft",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"4060",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050311",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":63621.574205,
+    "geom:bbox":"4.36236113193,52.0109036696,4.36907139128,52.013823987",
+    "geom:latitude":52.012277,
+    "geom:longitude":4.365807,
+    "iso:country":"NL",
+    "lbl:latitude":52.012424,
+    "lbl:longitude":4.365756,
+    "mps:latitude":52.012424,
+    "mps:longitude":4.365756,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Centrum-Zuidoost"
+    ],
+    "name:nld_x_preferred":[
+        "Centrum-Zuidoost"
+    ],
+    "reversegeo:latitude":52.012424,
+    "reversegeo:longitude":4.365756,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829545,
+        85633337,
+        101752765,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"471ebbebe12c60874989c037a4ff214e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752765,
+            "macrohood_id":1158829545,
+            "neighbourhood_id":1158825409,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825409,
+    "wof:lastmodified":1513587992,
+    "wof:name":"Centrum-Zuidoost",
+    "wof:parent_id":1158829545,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.362361131933825,
+    52.010903669603536,
+    4.369071391277185,
+    52.013823987025845
+],
+  "geometry": {"coordinates":[[[[4.36500161760139,52.01382398702584],[4.36682071782512,52.012720851193],[4.36739685131481,52.01237492367802],[4.36768879925889,52.01222014966687],[4.36871330448405,52.01155935733562],[4.36903110931569,52.01122772532621],[4.36907139127718,52.01090366960354],[4.36876443782936,52.01091171068825],[4.36842922870755,52.01091959638588],[4.36701285580237,52.0111338451355],[4.3664495328839,52.01124401711175],[4.36579185448525,52.01146752490259],[4.36481899632418,52.01184199980715],[4.363902286764,52.01211717941407],[4.36321481998739,52.01230445893781],[4.36250643994941,52.01248867594784],[4.36236113193382,52.01256839963335],[4.36252126485519,52.01265581566484],[4.36403391771656,52.01337018685015],[4.36500161760139,52.01382398702584]]]],"type":"MultiPolygon"}
+}

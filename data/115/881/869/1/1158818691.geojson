@@ -1,0 +1,82 @@
+{
+  "id": 1158818691,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03750601",
+    "cbsnl:BU_NAAM":"Zwaansmeer",
+    "cbsnl:GM_CODE":"GM0375",
+    "cbsnl:GM_NAAM":"Beverwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2896",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK037506",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":460960.067155,
+    "geom:bbox":"4.66554515426,52.484327634,4.67851999523,52.4938689339",
+    "geom:latitude":52.489036,
+    "geom:longitude":4.672018,
+    "iso:country":"NL",
+    "lbl:latitude":52.489013,
+    "lbl:longitude":4.672116,
+    "mps:latitude":52.489013,
+    "mps:longitude":4.672116,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zwaansmeer"
+    ],
+    "name:nld_x_preferred":[
+        "Zwaansmeer"
+    ],
+    "reversegeo:latitude":52.489013,
+    "reversegeo:longitude":4.672116,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823159,
+        404474043,
+        85633337,
+        101754793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8452d167d73eaf17f25eaec3f87048f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474043,
+            "locality_id":101754793,
+            "macrohood_id":1158823159,
+            "neighbourhood_id":1158818691,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818691,
+    "wof:lastmodified":1513464086,
+    "wof:name":"Zwaansmeer",
+    "wof:parent_id":1158823159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.665545154259025,
+    52.484327634015564,
+    4.678519995228673,
+    52.49386893391776
+],
+  "geometry": {"coordinates":[[[[4.66554515425902,52.49004651797792],[4.66595186430635,52.49029530900957],[4.66936591942477,52.49249917429159],[4.6704318211675,52.49386893391776],[4.67253788336875,52.49257141226937],[4.67851999522867,52.48874514490871],[4.67489610667425,52.48557691704345],[4.67322263824286,52.48463494856944],[4.67251509045483,52.48432763401556],[4.67129718620716,52.48517411632017],[4.67067274232439,52.48555147778423],[4.670654778351,52.48565922113475],[4.67027815566911,52.48645684657576],[4.66868251202084,52.4875310465729],[4.66759002722775,52.48826927528916],[4.66647320571607,52.48902391763471],[4.66554515425902,52.49004651797792]]]],"type":"MultiPolygon"}
+}

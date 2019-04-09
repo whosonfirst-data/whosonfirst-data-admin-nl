@@ -1,0 +1,82 @@
+{
+  "id": 1158818703,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03750702",
+    "cbsnl:BU_NAAM":"Wijkerbaan",
+    "cbsnl:GM_CODE":"GM0375",
+    "cbsnl:GM_NAAM":"Beverwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3590",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK037507",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:area_square_m":280529.946277,
+    "geom:bbox":"4.65832999626,52.4901335132,4.66822750772,52.4978660431",
+    "geom:latitude":52.494765,
+    "geom:longitude":4.662576,
+    "iso:country":"NL",
+    "lbl:latitude":52.49455,
+    "lbl:longitude":4.661828,
+    "mps:latitude":52.49455,
+    "mps:longitude":4.661828,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Wijkerbaan"
+    ],
+    "name:nld_x_preferred":[
+        "Wijkerbaan"
+    ],
+    "reversegeo:latitude":52.49455,
+    "reversegeo:longitude":4.661828,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823013,
+        404474043,
+        85633337,
+        101754793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5b6d1b9f7b9f9d03c61bedaca6c0a668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474043,
+            "locality_id":101754793,
+            "macrohood_id":1158823013,
+            "neighbourhood_id":1158818703,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818703,
+    "wof:lastmodified":1513464087,
+    "wof:name":"Wijkerbaan",
+    "wof:parent_id":1158823013,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.658329996259995,
+    52.49013351315342,
+    4.668227507718061,
+    52.49786604312777
+],
+  "geometry": {"coordinates":[[[[4.66499038714399,52.49786604312777],[4.66822750771806,52.4954986458326],[4.66807312254918,52.49539238776421],[4.6657782764398,52.49425612181246],[4.66424417580838,52.49330025349487],[4.66402116886345,52.49325470905976],[4.66292889305631,52.49251732387896],[4.66189502537109,52.49161601457028],[4.66101614583959,52.49088558141681],[4.66082491877441,52.49066349382738],[4.66081822187671,52.49057966805729],[4.66006063818791,52.49013351315342],[4.65983764626867,52.49160527828193],[4.65932318695024,52.49324854921939],[4.65832999625999,52.49641958450531],[4.65854542128345,52.49648578805846],[4.66161674879386,52.49704920711593],[4.66382600114479,52.49747781714767],[4.66452553700027,52.49765818282692],[4.66499038714399,52.49786604312777]]]],"type":"MultiPolygon"}
+}

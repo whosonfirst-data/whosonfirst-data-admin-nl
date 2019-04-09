@@ -1,0 +1,80 @@
+{
+  "id": 1158797615,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07772002",
+    "cbsnl:BU_NAAM":"Banakkers 3",
+    "cbsnl:GM_CODE":"GM0777",
+    "cbsnl:GM_NAAM":"Etten-Leur",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1511",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK077720",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":354497.877066,
+    "geom:bbox":"4.64214184007,51.5615460356,4.65490415952,51.5684152606",
+    "geom:latitude":51.56454,
+    "geom:longitude":4.648739,
+    "iso:country":"NL",
+    "lbl:latitude":51.565385,
+    "lbl:longitude":4.649271,
+    "mps:latitude":51.565385,
+    "mps:longitude":4.649271,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Banakkers 3"
+    ],
+    "name:nld_x_preferred":[
+        "Banakkers 3"
+    ],
+    "reversegeo:latitude":51.565385,
+    "reversegeo:longitude":4.649271,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474377,
+        85633337,
+        101839355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1915393a07b44844baa2563eae6f71d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474377,
+            "locality_id":101839355,
+            "neighbourhood_id":1158797615,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797615,
+    "wof:lastmodified":1513432606,
+    "wof:name":"Banakkers 3",
+    "wof:parent_id":101839355,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.642141840071775,
+    51.5615460356332,
+    4.654904159519586,
+    51.56841526062888
+],
+  "geometry": {"coordinates":[[[[4.64333718215213,51.56423914334343],[4.64438128034501,51.56522787544809],[4.64532022348362,51.56594986776413],[4.64705113881997,51.56720611884753],[4.64799371278044,51.56771018482849],[4.64993589929047,51.56841526062888],[4.6504767603913,51.56779945090367],[4.65149876112162,51.56700902022044],[4.65174334967167,51.56628613386714],[4.65256859747934,51.5655427439877],[4.65308482826564,51.56482156155172],[4.65368836972311,51.56369060817892],[4.65480574549042,51.56178996017546],[4.65490415951959,51.56167545567342],[4.65481394241999,51.56160988272669],[4.65430783506074,51.5615460356332],[4.65009883302981,51.56249047308084],[4.64962936519778,51.56257246607981],[4.64912167584095,51.56260567607027],[4.64454124030402,51.56239461396888],[4.64378297520789,51.56224416486404],[4.64336320974992,51.56237459362465],[4.64214184007178,51.56310712490867],[4.64333718215213,51.56423914334343]]]],"type":"MultiPolygon"}
+}

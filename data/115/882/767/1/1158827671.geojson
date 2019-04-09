@@ -1,0 +1,82 @@
+{
+  "id": 1158827671,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06420311",
+    "cbsnl:BU_NAAM":"Langeraarstraat en omgeving",
+    "cbsnl:GM_CODE":"GM0642",
+    "cbsnl:GM_NAAM":"Zwijndrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2353",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK064203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":33017.625959,
+    "geom:bbox":"4.63610445112,51.8225262076,4.63944057453,51.8251902903",
+    "geom:latitude":51.823875,
+    "geom:longitude":4.637765,
+    "iso:country":"NL",
+    "lbl:latitude":51.823881,
+    "lbl:longitude":4.63779,
+    "mps:latitude":51.823881,
+    "mps:longitude":4.63779,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Langeraarstraat en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Langeraarstraat en omgeving"
+    ],
+    "reversegeo:latitude":51.823881,
+    "reversegeo:longitude":4.63779,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831145,
+        404474291,
+        85633337,
+        101754703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"fcc6db7325189cd4a07297b133805c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474291,
+            "locality_id":101754703,
+            "macrohood_id":1158831145,
+            "neighbourhood_id":1158827671,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827671,
+    "wof:lastmodified":1513588164,
+    "wof:name":"Langeraarstraat en omgeving",
+    "wof:parent_id":1158831145,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.636104451117743,
+    51.82252620757554,
+    4.639440574528202,
+    51.82519029028902
+],
+  "geometry": {"coordinates":[[[[4.6383473158851,51.82502866058819],[4.6394405745282,51.8245247582947],[4.63845788392734,51.82346110890841],[4.63760361566481,51.82252620757554],[4.6363858090032,51.82304689546199],[4.63610445111774,51.82318257773037],[4.63674870947749,51.82388886857066],[4.63779616177595,51.82519029028902],[4.6383473158851,51.82502866058819]]]],"type":"MultiPolygon"}
+}

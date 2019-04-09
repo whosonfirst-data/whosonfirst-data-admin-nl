@@ -1,0 +1,82 @@
+{
+  "id": 1158803459,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01932000",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Voorst-A",
+    "cbsnl:GM_CODE":"GM0193",
+    "cbsnl:GM_NAAM":"Zwolle",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1162",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK019320",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:area_square_m":710358.140828,
+    "geom:bbox":"6.06621627799,52.5123935242,6.08370794431,52.5246846014",
+    "geom:latitude":52.518194,
+    "geom:longitude":6.074411,
+    "iso:country":"NL",
+    "lbl:latitude":52.517663,
+    "lbl:longitude":6.074279,
+    "mps:latitude":52.517663,
+    "mps:longitude":6.074279,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Voorst-A"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Voorst-A"
+    ],
+    "reversegeo:latitude":52.517663,
+    "reversegeo:longitude":6.074279,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805801,
+        404473861,
+        85633337,
+        101751861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"19d772c5a7dbf5004b3cb75037244de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158805801,
+            "neighbourhood_id":1158803459,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803459,
+    "wof:lastmodified":1513524340,
+    "wof:name":"Bedrijventerrein Voorst-A",
+    "wof:parent_id":1158805801,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.066216277988634,
+    52.51239352423943,
+    6.083707944308052,
+    52.524684601427076
+],
+  "geometry": {"coordinates":[[[[6.07170395243928,52.52468460142708],[6.07301339906018,52.52458767516612],[6.07391653244559,52.52369051680006],[6.07481352400396,52.52292371300809],[6.07509779524828,52.52217606508458],[6.07531501693345,52.52129350474615],[6.07625178186107,52.52039385476162],[6.07754191798701,52.5196618619306],[6.07882393371385,52.51904586173629],[6.08037880487447,52.51863800307616],[6.08163077124919,52.51832116282508],[6.08280833986672,52.517548905924],[6.08370794430805,52.51696998577178],[6.08196082326219,52.51609982004479],[6.08058607224576,52.51537693397584],[6.07925204677124,52.51461346661592],[6.07768625623107,52.51361786246493],[6.07588286908193,52.51239352423943],[6.07386063178107,52.51383377440524],[6.0730476808546,52.51438432793528],[6.07181718788296,52.5151637208333],[6.06621627798863,52.51866839187227],[6.06785038414667,52.51983253344957],[6.06890526359448,52.52071472166149],[6.06996084487192,52.52184161317497],[6.07059248122706,52.52290642698194],[6.0710310892724,52.52391123878475],[6.07170395243928,52.52468460142708]]]],"type":"MultiPolygon"}
+}

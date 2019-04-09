@@ -1,0 +1,80 @@
+{
+  "id": 1158825857,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05051911",
+    "cbsnl:BU_NAAM":"Amstelwijck-West",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"318",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050519",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":303181.169204,
+    "geom:bbox":"4.64406989823,51.7725558097,4.65049140421,51.7802306824",
+    "geom:latitude":51.776765,
+    "geom:longitude":4.647158,
+    "iso:country":"NL",
+    "lbl:latitude":51.776913,
+    "lbl:longitude":4.647097,
+    "mps:latitude":51.776913,
+    "mps:longitude":4.647097,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Amstelwijck-West"
+    ],
+    "name:nld_x_preferred":[
+        "Amstelwijck-West"
+    ],
+    "reversegeo:latitude":51.776913,
+    "reversegeo:longitude":4.647097,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829571,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a23f9f27329d2320f5af7a5e793bc134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829571,
+            "neighbourhood_id":1158825857,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825857,
+    "wof:lastmodified":1513588021,
+    "wof:name":"Amstelwijck-West",
+    "wof:parent_id":1158829571,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.644069898228384,
+    51.77255580965904,
+    4.65049140421072,
+    51.7802306823939
+],
+  "geometry": {"coordinates":[[[[4.64428920891349,51.7802306823939],[4.65049140421072,51.78009200559458],[4.65035967675939,51.77905365395869],[4.6500441627165,51.77737683776605],[4.64989792754931,51.77659958894402],[4.64957002680868,51.7752332897704],[4.64892815861675,51.7725585993299],[4.64574596093672,51.77255580965904],[4.64567194057525,51.77375412447786],[4.64551892298554,51.77406064365282],[4.64524863936697,51.77440153966262],[4.64473509272472,51.77484045444271],[4.64421297672206,51.77518058090116],[4.64406989822838,51.77557776722797],[4.64407565344113,51.77623674977163],[4.64412701525483,51.77719734187551],[4.64428920891349,51.7802306823939]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158819103,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03921502",
+    "cbsnl:BU_NAAM":"Van Schendelbuurt",
+    "cbsnl:GM_CODE":"GM0392",
+    "cbsnl:GM_NAAM":"Haarlem",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"2749",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK039215",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000019,
+    "geom:area_square_m":145878.242993,
+    "geom:bbox":"4.63937551532,52.4133301001,4.64746590054,52.4178699801",
+    "geom:latitude":52.415403,
+    "geom:longitude":4.643422,
+    "iso:country":"NL",
+    "lbl:latitude":52.415351,
+    "lbl:longitude":4.643698,
+    "mps:latitude":52.415351,
+    "mps:longitude":4.643698,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Van Schendelbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Van Schendelbuurt"
+    ],
+    "reversegeo:latitude":52.415351,
+    "reversegeo:longitude":4.643698,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823191,
+        404474061,
+        85633337,
+        101751897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c5df8abc205e1f7fc1c4af18c34e32f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474061,
+            "locality_id":101751897,
+            "macrohood_id":1158823191,
+            "neighbourhood_id":1158819103,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158819103,
+    "wof:lastmodified":1513464117,
+    "wof:name":"Van Schendelbuurt",
+    "wof:parent_id":1158823191,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.639375515317385,
+    52.41333010011799,
+    4.647465900538511,
+    52.41786998010362
+],
+  "geometry": {"coordinates":[[[[4.64746590053851,52.41578985616989],[4.64689713764089,52.41527458461336],[4.64630036707431,52.41473252873734],[4.6452722621032,52.41380634108825],[4.64480716482072,52.41333010011799],[4.64405604206053,52.41348357991562],[4.64252953560312,52.41379548108719],[4.64225212011158,52.41385814765936],[4.64147355781665,52.41403401401618],[4.63937551531738,52.41450790134452],[4.63957648401115,52.41471343092898],[4.63986964377552,52.41498644296495],[4.64026465157542,52.4152832220614],[4.64108006388917,52.41624793587719],[4.64189141554437,52.41717561476901],[4.6420608220001,52.41738126995534],[4.64240816754496,52.41776968750463],[4.64248929980792,52.41786998010362],[4.64385550105691,52.41746709435944],[4.64374011610504,52.41720608313438],[4.64372461226258,52.4171401538531],[4.64663521785122,52.41609189888727],[4.64746590053851,52.41578985616989]]]],"type":"MultiPolygon"}
+}

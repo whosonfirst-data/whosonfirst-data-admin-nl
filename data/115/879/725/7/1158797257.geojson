@@ -1,0 +1,80 @@
+{
+  "id": 1158797257,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07700102",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Duizel",
+    "cbsnl:GM_CODE":"GM0770",
+    "cbsnl:GM_NAAM":"Eersel",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"255",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK077001",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:area_square_m":159911.471192,
+    "geom:bbox":"5.29018454666,51.3621898039,5.29765088383,51.3665303946",
+    "geom:latitude":51.364145,
+    "geom:longitude":5.293569,
+    "iso:country":"NL",
+    "lbl:latitude":51.364351,
+    "lbl:longitude":5.29364,
+    "mps:latitude":51.364351,
+    "mps:longitude":5.29364,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Duizel"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Duizel"
+    ],
+    "reversegeo:latitude":51.364351,
+    "reversegeo:longitude":5.29364,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474371,
+        85633337,
+        101809709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6c355574e948ffa6e35a4f121dca428a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474371,
+            "locality_id":101809709,
+            "neighbourhood_id":1158797257,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797257,
+    "wof:lastmodified":1513432581,
+    "wof:name":"Bedrijventerrein Duizel",
+    "wof:parent_id":101809709,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.29018454665886,
+    51.36218980389489,
+    5.297650883825872,
+    51.36653039462572
+],
+  "geometry": {"coordinates":[[[[5.29112182345066,51.36650419261573],[5.29301973184413,51.3659741551219],[5.29557891223042,51.365264398712],[5.29765088382587,51.36457977342566],[5.29643780883817,51.36218980389489],[5.29294448323798,51.36307663837697],[5.29209352511227,51.36221162479661],[5.29018454665886,51.36264207521143],[5.29102799767547,51.36653039462572],[5.29112182345066,51.36650419261573]]]],"type":"MultiPolygon"}
+}

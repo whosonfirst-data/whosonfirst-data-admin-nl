@@ -1,0 +1,80 @@
+{
+  "id": 1158806801,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09831605",
+    "cbsnl:BU_NAAM":"Noorderpoort",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"245",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098316",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":142350.185972,
+    "geom:bbox":"6.17273966925,51.3917248041,6.18090155751,51.3956475664",
+    "geom:latitude":51.393871,
+    "geom:longitude":6.176276,
+    "iso:country":"NL",
+    "lbl:latitude":51.3937,
+    "lbl:longitude":6.176214,
+    "mps:latitude":51.3937,
+    "mps:longitude":6.176214,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Noorderpoort"
+    ],
+    "name:nld_x_preferred":[
+        "Noorderpoort"
+    ],
+    "reversegeo:latitude":51.3937,
+    "reversegeo:longitude":6.176214,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474525,
+        85633337,
+        1158817911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"efa21a24e960fc588cfd6a1d67775274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":1158817911,
+            "neighbourhood_id":1158806801,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806801,
+    "wof:lastmodified":1513404056,
+    "wof:name":"Noorderpoort",
+    "wof:parent_id":1158817911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.172739669251023,
+    51.3917248040792,
+    6.180901557509232,
+    51.39564756639634
+],
+  "geometry": {"coordinates":[[[[6.18090155750923,51.39458279905995],[6.17838434106528,51.3929484162167],[6.17869112385419,51.39273259984714],[6.17679979336394,51.39212518335592],[6.17446237071588,51.3917248040792],[6.17273966925102,51.39564756639634],[6.17613209171917,51.39538914144698],[6.18090155750923,51.39458279905995]]]],"type":"MultiPolygon"}
+}

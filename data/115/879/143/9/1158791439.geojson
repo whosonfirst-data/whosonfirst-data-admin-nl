@@ -1,0 +1,80 @@
+{
+  "id": 1158791439,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16900200",
+    "cbsnl:BU_NAAM":"Kerkenveld",
+    "cbsnl:GM_CODE":"GM1690",
+    "cbsnl:GM_NAAM":"De Wolden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"89",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK169002",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":529063.167154,
+    "geom:bbox":"6.4963974303,52.6586306928,6.50866826885,52.6699005146",
+    "geom:latitude":52.665274,
+    "geom:longitude":6.503486,
+    "iso:country":"NL",
+    "lbl:latitude":52.660825,
+    "lbl:longitude":6.505018,
+    "mps:latitude":52.660825,
+    "mps:longitude":6.505018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kerkenveld"
+    ],
+    "name:nld_x_preferred":[
+        "Kerkenveld"
+    ],
+    "reversegeo:latitude":52.660825,
+    "reversegeo:longitude":6.505018,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474601,
+        85633337,
+        1158792121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c9efae7fc5d53c88b446b056516a179e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474601,
+            "locality_id":1158792121,
+            "neighbourhood_id":1158791439,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791439,
+    "wof:lastmodified":1513292339,
+    "wof:name":"Kerkenveld",
+    "wof:parent_id":1158792121,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.496397430297859,
+    52.65863069283641,
+    6.508668268850894,
+    52.66990051462441
+],
+  "geometry": {"coordinates":[[[[6.49704786171924,52.66990051462441],[6.50204171444108,52.66976841596268],[6.50205149861357,52.66986269521065],[6.5075726645294,52.66965548392109],[6.50734399273983,52.66682903275772],[6.50856489887757,52.6668239852511],[6.50866826885089,52.66525352803165],[6.50719529357027,52.66534493119994],[6.50684984944464,52.65863069283641],[6.50266254527194,52.65864224983721],[6.50273566768223,52.65936676068531],[6.5013271582593,52.65931537016296],[6.50159209238822,52.66218615152427],[6.50357286768481,52.66212178747157],[6.50393185767921,52.66659683363362],[6.4996039295341,52.6666770042233],[6.49961823185939,52.66631118160421],[6.49639743029786,52.66633481267985],[6.49704786171924,52.66990051462441]]]],"type":"MultiPolygon"}
+}

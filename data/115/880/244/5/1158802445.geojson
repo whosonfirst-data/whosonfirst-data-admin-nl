@@ -1,0 +1,80 @@
+{
+  "id": 1158802445,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01580002",
+    "cbsnl:BU_NAAM":"Haaksbergen Kern-2",
+    "cbsnl:GM_CODE":"GM0158",
+    "cbsnl:GM_NAAM":"Haaksbergen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1171",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK015800",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":200338.01878,
+    "geom:bbox":"6.74521732148,52.1508781795,6.75274669415,52.1583285182",
+    "geom:latitude":52.154778,
+    "geom:longitude":6.748487,
+    "iso:country":"NL",
+    "lbl:latitude":52.154812,
+    "lbl:longitude":6.748232,
+    "mps:latitude":52.154812,
+    "mps:longitude":6.748232,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Haaksbergen Kern-2"
+    ],
+    "name:nld_x_preferred":[
+        "Haaksbergen Kern-2"
+    ],
+    "reversegeo:latitude":52.154812,
+    "reversegeo:longitude":6.748232,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473829,
+        85633337,
+        101807203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"27ecd75da1e95079f59ed47ce03c76eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473829,
+            "locality_id":101807203,
+            "neighbourhood_id":1158802445,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802445,
+    "wof:lastmodified":1513524262,
+    "wof:name":"Haaksbergen Kern-2",
+    "wof:parent_id":101807203,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.745217321475861,
+    52.150878179537365,
+    6.752746694147276,
+    52.15832851820369
+],
+  "geometry": {"coordinates":[[[[6.75251699245969,52.15832851820369],[6.75274669414728,52.15802893811505],[6.75265763238921,52.15798418305794],[6.75200880006613,52.15636271136279],[6.75095954027251,52.15488463667494],[6.74912846326175,52.15297118802644],[6.74802310982914,52.15194655829806],[6.74710575870875,52.1513352108423],[6.74637442394796,52.15087817953737],[6.74521732147586,52.15245560207554],[6.74540577551414,52.15370972924252],[6.74565818338071,52.1539095825725],[6.74613009393228,52.15494827464207],[6.74614613886842,52.15499322417514],[6.74613220110522,52.15501745720697],[6.74612360953451,52.15505667252528],[6.74609500191064,52.1550810751423],[6.74603252745968,52.15511790364419],[6.74526098029049,52.15551006193863],[6.74526492535575,52.15557256002453],[6.74585740558052,52.15587698073012],[6.74713037380299,52.15640558383605],[6.75251699245969,52.15832851820369]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158792701,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00141001",
+    "cbsnl:BU_NAAM":"Paddepoel-Zuid",
+    "cbsnl:GM_CODE":"GM0014",
+    "cbsnl:GM_NAAM":"Groningen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"4529",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK001410",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":556629.148828,
+    "geom:bbox":"6.53542771355,53.2209590071,6.55118015642,53.2297379344",
+    "geom:latitude":53.225818,
+    "geom:longitude":6.543361,
+    "iso:country":"NL",
+    "lbl:latitude":53.225558,
+    "lbl:longitude":6.543242,
+    "mps:latitude":53.225558,
+    "mps:longitude":6.543242,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Paddepoel-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Paddepoel-Zuid"
+    ],
+    "reversegeo:latitude":53.225558,
+    "reversegeo:longitude":6.543242,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        1158796101,
+        404473713,
+        85633337,
+        101751909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b9d3ec251f8b76132182b108d6527d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473713,
+            "locality_id":101751909,
+            "macrohood_id":1158796101,
+            "neighbourhood_id":1158792701,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158792701,
+    "wof:lastmodified":1513382261,
+    "wof:name":"Paddepoel-Zuid",
+    "wof:parent_id":1158796101,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.535427713550329,
+    53.22095900714796,
+    6.551180156420073,
+    53.22973793439202
+],
+  "geometry": {"coordinates":[[[[6.5460786169066,53.22973793439202],[6.54703803102377,53.22882509062075],[6.54778374472859,53.22905894147031],[6.54806750711703,53.22914792402447],[6.54867657686233,53.22925110154971],[6.54881263877623,53.22902018392953],[6.54909191916242,53.22868543517874],[6.5502978919566,53.22761696005666],[6.55118015642007,53.2268748507943],[6.55063772312497,53.22653395669145],[6.55042329739405,53.22647879236792],[6.55045685206654,53.22639921517115],[6.55050156078765,53.22629318455598],[6.55066788230685,53.22615794524519],[6.54884713539306,53.22501105266406],[6.54753628184931,53.22418530015949],[6.54749536709232,53.22416012384866],[6.54229377495705,53.22095900714796],[6.54035771975515,53.22217424984191],[6.53828655976407,53.22386424671279],[6.53683305287082,53.22537296637667],[6.53542771355033,53.22730625955618],[6.53628765246683,53.22751738496918],[6.54297609103266,53.22877585344557],[6.5460786169066,53.22973793439202]]]],"type":"MultiPolygon"}
+}

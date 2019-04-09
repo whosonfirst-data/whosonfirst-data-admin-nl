@@ -1,0 +1,80 @@
+{
+  "id": 1158798437,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08240903",
+    "cbsnl:BU_NAAM":"Omg. Bunders",
+    "cbsnl:GM_CODE":"GM0824",
+    "cbsnl:GM_NAAM":"Oisterwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1160",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082409",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":252971.718556,
+    "geom:bbox":"5.18226455025,51.5707327372,5.19191618415,51.5765584299",
+    "geom:latitude":51.573613,
+    "geom:longitude":5.186627,
+    "iso:country":"NL",
+    "lbl:latitude":51.57359,
+    "lbl:longitude":5.186627,
+    "mps:latitude":51.57359,
+    "mps:longitude":5.186627,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bunders"
+    ],
+    "name:nld_x_preferred":[
+        "Bunders"
+    ],
+    "reversegeo:latitude":51.57359,
+    "reversegeo:longitude":5.186627,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474411,
+        85633337,
+        101808311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c013439ade69177007fbd7af02dd5d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474411,
+            "locality_id":101808311,
+            "neighbourhood_id":1158798437,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798437,
+    "wof:lastmodified":1513432676,
+    "wof:name":"Bunders",
+    "wof:parent_id":101808311,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.182264550254971,
+    51.57073273717851,
+    5.191916184149083,
+    51.576558429942565
+],
+  "geometry": {"coordinates":[[[[5.18226455025497,51.57468998503097],[5.18563821183064,51.57528233093139],[5.18687306131306,51.57568222858399],[5.18805377134293,51.57619080656598],[5.18910570533809,51.57654765122289],[5.18954880029407,51.57655842994257],[5.19191618414908,51.57234818000629],[5.19141606446298,51.57220866802591],[5.19106458020606,51.57288503304148],[5.18926985806966,51.57247085333356],[5.18932849382006,51.57231937063065],[5.1865662594429,51.57156099745706],[5.18572531349995,51.57149515778298],[5.18473141751758,51.57131226403948],[5.18487814138554,51.57098508576258],[5.1845260535131,51.57092669605061],[5.18439184350261,51.57121922435213],[5.18346094976465,51.57102271400275],[5.18361782683388,51.57074849091465],[5.18294330557811,51.57073273717851],[5.18261031232505,51.57167855430263],[5.18230973469062,51.57355169014536],[5.18226455025497,51.57468998503097]]]],"type":"MultiPolygon"}
+}

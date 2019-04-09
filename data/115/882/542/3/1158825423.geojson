@@ -1,0 +1,80 @@
+{
+  "id": 1158825423,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05031204",
+    "cbsnl:BU_NAAM":"Koepoort",
+    "cbsnl:GM_CODE":"GM0503",
+    "cbsnl:GM_NAAM":"Delft",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3488",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050312",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":135300.047467,
+    "geom:bbox":"4.35928339104,52.0127208512,4.36794096115,52.0190877471",
+    "geom:latitude":52.016046,
+    "geom:longitude":4.363688,
+    "iso:country":"NL",
+    "lbl:latitude":52.016099,
+    "lbl:longitude":4.363754,
+    "mps:latitude":52.016099,
+    "mps:longitude":4.363754,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Koepoort"
+    ],
+    "name:nld_x_preferred":[
+        "Koepoort"
+    ],
+    "reversegeo:latitude":52.016099,
+    "reversegeo:longitude":4.363754,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829611,
+        85633337,
+        101752765,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"dd0777684fc1e8b69812a40f5963ee8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752765,
+            "macrohood_id":1158829611,
+            "neighbourhood_id":1158825423,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825423,
+    "wof:lastmodified":1513587993,
+    "wof:name":"Koepoort",
+    "wof:parent_id":1158829611,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.359283391042067,
+    52.012720851193,
+    4.367940961145344,
+    52.019087747116124
+],
+  "geometry": {"coordinates":[[[[4.36193638109058,52.01908774711612],[4.36234312727321,52.01871304238994],[4.36352574764622,52.01765861545535],[4.36478997230102,52.0165816050764],[4.36548375580164,52.01592821416134],[4.36646948410077,52.01502431886018],[4.36684303759606,52.01465173810864],[4.36695069975836,52.01447226711873],[4.36741389530378,52.01395619170508],[4.36773221973798,52.01352605134989],[4.36794096114534,52.01324462358698],[4.36682071782512,52.012720851193],[4.36500161760139,52.01382398702584],[4.36489158856148,52.01390258222465],[4.363183286677,52.01515092189425],[4.36252109330064,52.01563234969084],[4.36227659569274,52.0158126926016],[4.36045782237378,52.0171136944525],[4.35937251686099,52.0178736604881],[4.35928339104207,52.0179356235617],[4.35953498592269,52.01806303350664],[4.36193638109058,52.01908774711612]]]],"type":"MultiPolygon"}
+}

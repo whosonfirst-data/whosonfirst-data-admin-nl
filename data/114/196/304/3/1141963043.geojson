@@ -1,0 +1,82 @@
+{
+  "id": 1141963043,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02281002",
+    "cbsnl:BU_NAAM":"Hoogbouw-Zuid",
+    "cbsnl:GM_CODE":"GM0228",
+    "cbsnl:GM_NAAM":"Ede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2245",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022810",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":202203.587807,
+    "geom:bbox":"5.64724855869,52.0240382455,5.66018179327,52.0271992452",
+    "geom:latitude":52.025551,
+    "geom:longitude":5.653638,
+    "iso:country":"NL",
+    "lbl:latitude":52.025443,
+    "lbl:longitude":5.653638,
+    "mps:latitude":52.025443,
+    "mps:longitude":5.653638,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hoogbouw-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Hoogbouw-Zuid"
+    ],
+    "reversegeo:latitude":52.025443,
+    "reversegeo:longitude":5.653638,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158784007,
+        404473893,
+        85633337,
+        101751855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0a51b8229f2d81534f77901be4ebeabd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473893,
+            "locality_id":101751855,
+            "macrohood_id":1158784007,
+            "neighbourhood_id":1141963043,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963043,
+    "wof:lastmodified":1513368719,
+    "wof:name":"Hoogbouw-Zuid",
+    "wof:parent_id":1158784007,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.647248558693384,
+    52.02403824554765,
+    5.660181793269343,
+    52.02719924521695
+],
+  "geometry": {"coordinates":[[[[5.64724855869338,52.02673727833706],[5.64935738068862,52.02693583112882],[5.64957797605092,52.02594776593118],[5.65630770303665,52.02674336860294],[5.65947709077819,52.02719924521695],[5.65975740295003,52.0264416226387],[5.66003745221408,52.02568399990086],[5.66018179326934,52.02477891666584],[5.6575577718733,52.02474000996416],[5.656412441014,52.02473620852783],[5.65442246696102,52.02451589000574],[5.65405636066889,52.0244894707206],[5.64780573533349,52.02403824554765],[5.64780571921027,52.02403837834301],[5.6477064358636,52.02452599177438],[5.64724855869338,52.02673727833706]]]],"type":"MultiPolygon"}
+}

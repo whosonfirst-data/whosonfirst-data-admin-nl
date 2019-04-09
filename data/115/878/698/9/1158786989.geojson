@@ -1,0 +1,80 @@
+{
+  "id": 1158786989,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03030706",
+    "cbsnl:BU_NAAM":"De Kolk",
+    "cbsnl:GM_CODE":"GM0303",
+    "cbsnl:GM_NAAM":"Dronten",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"457",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK030307",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:area_square_m":280194.69471,
+    "geom:bbox":"5.6442206569,52.5697489958,5.65509447765,52.5763140331",
+    "geom:latitude":52.573299,
+    "geom:longitude":5.649474,
+    "iso:country":"NL",
+    "lbl:latitude":52.573099,
+    "lbl:longitude":5.649392,
+    "mps:latitude":52.573099,
+    "mps:longitude":5.649392,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Kolk"
+    ],
+    "name:nld_x_preferred":[
+        "De Kolk"
+    ],
+    "reversegeo:latitude":52.573099,
+    "reversegeo:longitude":5.649392,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473965,
+        85633337,
+        101808773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"2fe686fdc363267336977bc946023064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473965,
+            "locality_id":101808773,
+            "neighbourhood_id":1158786989,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158786989,
+    "wof:lastmodified":1513299285,
+    "wof:name":"De Kolk",
+    "wof:parent_id":101808773,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.644220656902641,
+    52.569748995823254,
+    5.655094477654304,
+    52.57631403314572
+],
+  "geometry": {"coordinates":[[[[5.64934445505729,52.56974899582325],[5.64930554966447,52.56977310106542],[5.64843462091239,52.57035383414621],[5.64855773083183,52.57044433374828],[5.64692981167281,52.57167022830669],[5.646389515964,52.57209506143506],[5.64526781879993,52.57329638201929],[5.64422065690264,52.57488377326085],[5.64572724590379,52.57518748609505],[5.64640108189364,52.57538192853566],[5.64717655276125,52.57567697141758],[5.64774347252027,52.57594000601531],[5.64815823276326,52.57617066833314],[5.64837686413466,52.57631403314572],[5.6550944776543,52.57370896452454],[5.65381409714493,52.57247848723486],[5.65286540666084,52.57156671744731],[5.65274695250368,52.57145287223494],[5.65250840609116,52.57122360258492],[5.65169542469344,52.57153761498323],[5.65141772181503,52.57126681956473],[5.64934445505729,52.56974899582325]]]],"type":"MultiPolygon"}
+}

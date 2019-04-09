@@ -1,0 +1,82 @@
+{
+  "id": 1158820765,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04792130",
+    "cbsnl:BU_NAAM":"Het Eiland",
+    "cbsnl:GM_CODE":"GM0479",
+    "cbsnl:GM_NAAM":"Zaanstad",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"2924",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK047921",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":274282.943239,
+    "geom:bbox":"4.82226864804,52.4309680542,4.83194003146,52.438717466",
+    "geom:latitude":52.434188,
+    "geom:longitude":4.82681,
+    "iso:country":"NL",
+    "lbl:latitude":52.434403,
+    "lbl:longitude":4.82648,
+    "mps:latitude":52.434403,
+    "mps:longitude":4.82648,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Het Eiland"
+    ],
+    "name:nld_x_preferred":[
+        "Het Eiland"
+    ],
+    "reversegeo:latitude":52.434403,
+    "reversegeo:longitude":4.82648,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823263,
+        404474143,
+        85633337,
+        101751901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5d7689e40371d4765905a91250f7f1c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474143,
+            "locality_id":101751901,
+            "macrohood_id":1158823263,
+            "neighbourhood_id":1158820765,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158820765,
+    "wof:lastmodified":1513464259,
+    "wof:name":"Het Eiland",
+    "wof:parent_id":1158823263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.822268648036484,
+    52.43096805415029,
+    4.831940031460252,
+    52.43871746595483
+],
+  "geometry": {"coordinates":[[[[4.82643951558145,52.43871746595483],[4.82752206293199,52.43740565048857],[4.83172594041091,52.43155974790626],[4.83194003146025,52.43130945661605],[4.83120243665268,52.43096805415029],[4.82799823068719,52.43158658000117],[4.82555028700512,52.43208378549728],[4.82312600704548,52.43274713584069],[4.82270257158919,52.43286299254721],[4.82226864803648,52.43429850688786],[4.82354320076918,52.4356948280029],[4.82508360706948,52.43661912552015],[4.82605942643177,52.43853756624236],[4.82643951558145,52.43871746595483]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158806735,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09831301",
+    "cbsnl:BU_NAAM":"De Tichelarij",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1964",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098313",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":358313.342943,
+    "geom:bbox":"6.18102018569,51.3722266603,6.19391135947,51.3790142286",
+    "geom:latitude":51.375358,
+    "geom:longitude":6.187673,
+    "iso:country":"NL",
+    "lbl:latitude":51.375818,
+    "lbl:longitude":6.188112,
+    "mps:latitude":51.375818,
+    "mps:longitude":6.188112,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Tichelarij"
+    ],
+    "name:nld_x_preferred":[
+        "De Tichelarij"
+    ],
+    "reversegeo:latitude":51.375818,
+    "reversegeo:longitude":6.188112,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        1158818261,
+        404474525,
+        85633337,
+        101839287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"eabc16fe4a456d99a4bbda2001688a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818261,
+            "neighbourhood_id":1158806735,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806735,
+    "wof:lastmodified":1513404052,
+    "wof:name":"De Tichelarij",
+    "wof:parent_id":1158818261,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.18102018568991,
+    51.372226660306744,
+    6.19391135947383,
+    51.37901422863487
+],
+  "geometry": {"coordinates":[[[[6.18805409910784,51.37901422863487],[6.19349563352527,51.37676269203791],[6.19391135947383,51.37647306076715],[6.19365326519931,51.3759292101786],[6.19230691684359,51.37443374743463],[6.1913906764917,51.37379736620751],[6.18469211808474,51.37263975852833],[6.18190412727474,51.37222666030674],[6.1817460427062,51.37287013552879],[6.18102018568991,51.37332553122129],[6.18350499905596,51.37553129420666],[6.18805409910784,51.37901422863487]]]],"type":"MultiPolygon"}
+}

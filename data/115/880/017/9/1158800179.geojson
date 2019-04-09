@@ -1,0 +1,80 @@
+{
+  "id": 1158800179,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17090200",
+    "cbsnl:BU_NAAM":"Langeweg",
+    "cbsnl:GM_CODE":"GM1709",
+    "cbsnl:GM_NAAM":"Moerdijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"89",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170902",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000058,
+    "geom:area_square_m":441847.552136,
+    "geom:bbox":"4.65787847401,51.6452780893,4.66998893838,51.6522657235",
+    "geom:latitude":51.648526,
+    "geom:longitude":4.664237,
+    "iso:country":"NL",
+    "lbl:latitude":51.648503,
+    "lbl:longitude":4.664237,
+    "mps:latitude":51.648503,
+    "mps:longitude":4.664237,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Langeweg"
+    ],
+    "name:nld_x_preferred":[
+        "Langeweg"
+    ],
+    "reversegeo:latitude":51.648503,
+    "reversegeo:longitude":4.664237,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474623,
+        85633337,
+        1158801531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6a4fd46fe7cc4f8b78ef55b558b330f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474623,
+            "locality_id":1158801531,
+            "neighbourhood_id":1158800179,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158800179,
+    "wof:lastmodified":1513432806,
+    "wof:name":"Langeweg",
+    "wof:parent_id":1158801531,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.657878474005685,
+    51.64527808928534,
+    4.669988938380772,
+    51.65226572345333
+],
+  "geometry": {"coordinates":[[[[4.65953414952486,51.64527808928534],[4.65858156670157,51.64585419098005],[4.659929280895,51.64668758129798],[4.65922048270322,51.64763711594745],[4.65856841721957,51.64855975043889],[4.65787847400568,51.64949844090463],[4.6583432680639,51.64979796760825],[4.65897304808114,51.65008054126795],[4.6633113117549,51.65114453653386],[4.6677036227546,51.65226572345333],[4.6681045769428,51.65177099362515],[4.66906841190584,51.65085555543496],[4.66949901323357,51.65004105604776],[4.66967668040832,51.64885927078974],[4.66973711589735,51.64841469410019],[4.66998893838077,51.64820949421251],[4.66967411467689,51.64789520291864],[4.66884923497451,51.64702918251401],[4.66804785755704,51.64600711729741],[4.66490857452985,51.6456745843908],[4.66296132929627,51.64553221391478],[4.65953414952486,51.64527808928534]]]],"type":"MultiPolygon"}
+}

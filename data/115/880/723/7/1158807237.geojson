@@ -1,0 +1,80 @@
+{
+  "id": 1158807237,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU15070403",
+    "cbsnl:BU_NAAM":"Weisterbeek",
+    "cbsnl:GM_CODE":"GM1507",
+    "cbsnl:GM_NAAM":"Horst aan de Maas",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1315",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK150704",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":125905.159485,
+    "geom:bbox":"6.04518579342,51.4504491913,6.0509201889,51.4545181852",
+    "geom:latitude":51.452755,
+    "geom:longitude":6.048005,
+    "iso:country":"NL",
+    "lbl:latitude":51.452619,
+    "lbl:longitude":6.04795,
+    "mps:latitude":51.452619,
+    "mps:longitude":6.04795,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Weisterbeek"
+    ],
+    "name:nld_x_preferred":[
+        "Weisterbeek"
+    ],
+    "reversegeo:latitude":51.452619,
+    "reversegeo:longitude":6.04795,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474541,
+        85633337,
+        101837631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4c23b5bb6885595fba1609356e4c7c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474541,
+            "locality_id":101837631,
+            "neighbourhood_id":1158807237,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158807237,
+    "wof:lastmodified":1513404088,
+    "wof:name":"Weisterbeek",
+    "wof:parent_id":101837631,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.045185793420067,
+    51.45044919125987,
+    6.050920188902196,
+    51.45451818519854
+],
+  "geometry": {"coordinates":[[[[6.0457225414774,51.45451405775051],[6.0470371578692,51.45451818519854],[6.04862845476521,51.45445137465982],[6.04920069278585,51.45433252190066],[6.04986683502131,51.45430562052607],[6.05051159948137,51.45408230238182],[6.0509201889022,51.45395387279044],[6.05073457791062,51.45367161572283],[6.05044518655302,51.45319234518764],[6.05031247706743,51.45289386731142],[6.05030710829353,51.45252519003683],[6.05038442682167,51.45195834007994],[6.05050772378427,51.4513598935463],[6.05051409246604,51.451335892713],[6.05035321282961,51.45132051061851],[6.04969400356831,51.45126819248458],[6.04922865084849,51.45116804615343],[6.04853695983817,51.45093835646422],[6.04783798352879,51.4507227178818],[6.04697472901275,51.45044977229627],[6.04697289068799,51.45044919125987],[6.04672861061416,51.45076708168243],[6.04657903470962,51.45099265971519],[6.04518579342007,51.45324541097963],[6.0454656458544,51.45339411782718],[6.0457225414774,51.45451405775051]]]],"type":"MultiPolygon"}
+}

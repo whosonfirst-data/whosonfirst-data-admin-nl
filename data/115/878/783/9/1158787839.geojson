@@ -1,0 +1,88 @@
+{
+  "id": 1158787839,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03080006",
+    "cbsnl:BU_NAAM":"Pekingpark",
+    "cbsnl:GM_CODE":"GM0308",
+    "cbsnl:GM_NAAM":"Baarn",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"2024",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK030800",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":189454.346517,
+    "geom:bbox":"5.28337531532,52.203166279,5.29134266949,52.209165359",
+    "geom:latitude":52.20676,
+    "geom:longitude":5.288139,
+    "iso:country":"NL",
+    "lbl:latitude":52.206652,
+    "lbl:longitude":5.288531,
+    "mps:latitude":52.206652,
+    "mps:longitude":5.288531,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Pekingpark"
+    ],
+    "name:eng_x_preferred":[
+        "Pekingpark"
+    ],
+    "name:fre_x_preferred":[
+        "Pekingpark"
+    ],
+    "name:nld_x_preferred":[
+        "Pekingpark"
+    ],
+    "reversegeo:latitude":52.206652,
+    "reversegeo:longitude":5.288531,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404473973,
+        85633337,
+        101837651,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q14067506"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"589c6b2006e264e906f3399cb68132a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473973,
+            "locality_id":101837651,
+            "neighbourhood_id":1158787839,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158787839,
+    "wof:lastmodified":1514492824,
+    "wof:name":"Pekingpark",
+    "wof:parent_id":101837651,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.28337531532224,
+    52.20316627903509,
+    5.29134266948571,
+    52.209165359034
+],
+  "geometry": {"coordinates":[[[[5.29134266948571,52.20895143984535],[5.2912328622944,52.20852085234996],[5.29102879336947,52.20768979209099],[5.29077142373371,52.20669273629429],[5.29053173791239,52.20569106204257],[5.29029615141392,52.20475514708725],[5.29009498379153,52.20400098738965],[5.2899685552059,52.20348892618178],[5.28971623459836,52.20316627903509],[5.28938064128144,52.20339968619535],[5.28754344878553,52.2047112201445],[5.28521801455237,52.20637199050138],[5.28371499940933,52.20719307316717],[5.28337531532224,52.20738966717161],[5.28387212949205,52.20764709710814],[5.28482996058007,52.20809475765564],[5.28555157781407,52.20844346519322],[5.28570849721551,52.20839953460973],[5.28695205778037,52.20861945865477],[5.28819372577067,52.20886803158144],[5.28923441315103,52.20907573073254],[5.28983950104825,52.209165359034],[5.29048183804944,52.20908839829281],[5.29134266948571,52.20895143984535]]]],"type":"MultiPolygon"}
+}

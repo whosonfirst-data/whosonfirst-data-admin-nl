@@ -1,0 +1,82 @@
+{
+  "id": 1158818677,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03750303",
+    "cbsnl:BU_NAAM":"De Naald",
+    "cbsnl:GM_CODE":"GM0375",
+    "cbsnl:GM_NAAM":"Beverwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3941",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK037503",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":44571.533639,
+    "geom:bbox":"4.65757467267,52.4894548468,4.66011183128,52.4932951864",
+    "geom:latitude":52.491092,
+    "geom:longitude":4.658943,
+    "iso:country":"NL",
+    "lbl:latitude":52.490952,
+    "lbl:longitude":4.658967,
+    "mps:latitude":52.490952,
+    "mps:longitude":4.658967,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Naald"
+    ],
+    "name:nld_x_preferred":[
+        "De Naald"
+    ],
+    "reversegeo:latitude":52.490952,
+    "reversegeo:longitude":4.658967,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823151,
+        404474043,
+        85633337,
+        101754793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"518080d81a08ee0889efd37429b841f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474043,
+            "locality_id":101754793,
+            "macrohood_id":1158823151,
+            "neighbourhood_id":1158818677,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818677,
+    "wof:lastmodified":1513464086,
+    "wof:name":"De Naald",
+    "wof:parent_id":1158823151,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.657574672669314,
+    52.489454846809075,
+    4.660111831281434,
+    52.4932951864193
+],
+  "geometry": {"coordinates":[[[[4.65787197674181,52.49044728214854],[4.6587305520469,52.4932951864193],[4.65932318695024,52.49324854921939],[4.65983764626867,52.49160527828193],[4.66006063818791,52.49013351315342],[4.66011183128143,52.48979763297713],[4.65757467266931,52.48945484680907],[4.65760840924043,52.48956746481099],[4.65787197674181,52.49044728214854]]]],"type":"MultiPolygon"}
+}

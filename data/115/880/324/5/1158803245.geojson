@@ -1,0 +1,80 @@
+{
+  "id": 1158803245,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01800001",
+    "cbsnl:BU_NAAM":"Staphorst plan-West",
+    "cbsnl:GM_CODE":"GM0180",
+    "cbsnl:GM_NAAM":"Staphorst",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"624",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK018000",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":356332.057708,
+    "geom:bbox":"6.19586910364,52.6408738862,6.20854687672,52.6492620522",
+    "geom:latitude":52.644749,
+    "geom:longitude":6.202525,
+    "iso:country":"NL",
+    "lbl:latitude":52.643807,
+    "lbl:longitude":6.204012,
+    "mps:latitude":52.643807,
+    "mps:longitude":6.204012,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Staphorst plan-West"
+    ],
+    "name:nld_x_preferred":[
+        "Staphorst plan-West"
+    ],
+    "reversegeo:latitude":52.643807,
+    "reversegeo:longitude":6.204012,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473853,
+        85633337,
+        101837859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7bd230236153989df21c82d5e502de42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473853,
+            "locality_id":101837859,
+            "neighbourhood_id":1158803245,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803245,
+    "wof:lastmodified":1513524326,
+    "wof:name":"Staphorst plan-West",
+    "wof:parent_id":101837859,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.195869103644124,
+    52.640873886158396,
+    6.208546876719987,
+    52.64926205220649
+],
+  "geometry": {"coordinates":[[[[6.2007679288365,52.64926205220649],[6.20193336209995,52.64556754492511],[6.20486316224196,52.64682279878944],[6.20493033118089,52.64685912730211],[6.20564070229424,52.64652170370321],[6.20631464381071,52.64590226625491],[6.20783028682722,52.64524387433242],[6.2071418548708,52.64533204152853],[6.20851681610142,52.6443493774873],[6.20776926620111,52.64387905034508],[6.20854687671999,52.64326422057521],[6.20521770647261,52.64150598331263],[6.20303574302278,52.6408738861584],[6.20222507930501,52.64170011340212],[6.20212658418818,52.64180414415871],[6.2011470256837,52.64268713017182],[6.20029040669875,52.64341648066527],[6.19977288818126,52.64348293177193],[6.19871337292095,52.64435380336229],[6.19595396766371,52.64663378803784],[6.19586910364412,52.64676468283476],[6.19816379259387,52.64771519547674],[6.19944904311306,52.64818556211486],[6.19994774231982,52.64854698422817],[6.20048549027883,52.6491715837419],[6.2007679288365,52.64926205220649]]]],"type":"MultiPolygon"}
+}

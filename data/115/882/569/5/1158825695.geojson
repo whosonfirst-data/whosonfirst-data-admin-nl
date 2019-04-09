@@ -1,0 +1,80 @@
+{
+  "id": 1158825695,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050508",
+    "cbsnl:BU_NAAM":"Heysterbachstraat en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2515",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050505",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":108864.971826,
+    "geom:bbox":"4.67907536744,51.8002335149,4.68679486654,51.8048569121",
+    "geom:latitude":51.802281,
+    "geom:longitude":4.682862,
+    "iso:country":"NL",
+    "lbl:latitude":51.802245,
+    "lbl:longitude":4.682862,
+    "mps:latitude":51.802245,
+    "mps:longitude":4.682862,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Heysterbachstraat en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Heysterbachstraat en omgeving"
+    ],
+    "reversegeo:latitude":51.802245,
+    "reversegeo:longitude":4.682862,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829563,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e806d6415a45dc5bfeb1cf2567a6af67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829563,
+            "neighbourhood_id":1158825695,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825695,
+    "wof:lastmodified":1513588011,
+    "wof:name":"Heysterbachstraat en omgeving",
+    "wof:parent_id":1158829563,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.679075367441382,
+    51.800233514862754,
+    4.686794866537382,
+    51.804856912094806
+],
+  "geometry": {"coordinates":[[[[4.68132662638619,51.80485691209481],[4.6813919593267,51.80475508581694],[4.68161744115687,51.80388289572313],[4.68679486653738,51.80180021990613],[4.68517377090419,51.80023351486275],[4.68061707286153,51.80195660677321],[4.67907536744138,51.80258530178038],[4.68132662638619,51.80485691209481]]]],"type":"MultiPolygon"}
+}

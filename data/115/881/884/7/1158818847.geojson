@@ -1,0 +1,80 @@
+{
+  "id": 1158818847,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03840117",
+    "cbsnl:BU_NAAM":"Ruimzicht-Oost",
+    "cbsnl:GM_CODE":"GM0384",
+    "cbsnl:GM_NAAM":"Diemen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2492",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK038401",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":259099.387691,
+    "geom:bbox":"4.96326294706,52.3386781119,4.9737999297,52.3451867081",
+    "geom:latitude":52.342,
+    "geom:longitude":4.968571,
+    "iso:country":"NL",
+    "lbl:latitude":52.342227,
+    "lbl:longitude":4.968651,
+    "mps:latitude":52.342227,
+    "mps:longitude":4.968651,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ruimzicht-Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Ruimzicht-Oost"
+    ],
+    "reversegeo:latitude":52.342227,
+    "reversegeo:longitude":4.968651,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823029,
+        85633337,
+        1158822543,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"decce7464d18c0a557ed33d50c3ce393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":1158822543,
+            "macrohood_id":1158823029,
+            "neighbourhood_id":1158818847,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818847,
+    "wof:lastmodified":1513464101,
+    "wof:name":"Ruimzicht-Oost",
+    "wof:parent_id":1158823029,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.963262947056076,
+    52.33867811186663,
+    4.973799929703296,
+    52.345186708077115
+],
+  "geometry": {"coordinates":[[[[4.96759110276652,52.34518670807712],[4.9737999297033,52.34320008443565],[4.97374096258451,52.34292125919397],[4.97136046068167,52.3424826323014],[4.97114123579887,52.34050343947623],[4.97254639230702,52.33977587134202],[4.97230259100176,52.3394902172757],[4.9711480238277,52.33867811186663],[4.96973793699551,52.33930958870184],[4.96776075107829,52.33985084931953],[4.96600997286081,52.34033895655071],[4.9643903678634,52.34076009865402],[4.96326294705608,52.34095828946779],[4.96353605874238,52.34139882509297],[4.96441577333173,52.34224569359818],[4.96535112673389,52.3431163464295],[4.966326604937,52.34393067854763],[4.96759110276652,52.34518670807712]]]],"type":"MultiPolygon"}
+}

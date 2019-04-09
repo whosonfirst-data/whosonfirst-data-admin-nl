@@ -1,0 +1,80 @@
+{
+  "id": 1158828329,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18920102",
+    "cbsnl:BU_NAAM":"Wilde Veenen",
+    "cbsnl:GM_CODE":"GM1892",
+    "cbsnl:GM_NAAM":"Zuidplas",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"438",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK189201",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":33372.635895,
+    "geom:bbox":"4.56818044749,52.0431410888,4.57389992175,52.0447828362",
+    "geom:latitude":52.044068,
+    "geom:longitude":4.571034,
+    "iso:country":"NL",
+    "lbl:latitude":52.044121,
+    "lbl:longitude":4.571034,
+    "mps:latitude":52.044121,
+    "mps:longitude":4.571034,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Wilde Veenen"
+    ],
+    "name:nld_x_preferred":[
+        "Wilde Veenen"
+    ],
+    "reversegeo:latitude":52.044121,
+    "reversegeo:longitude":4.571034,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158824737,
+        85633337,
+        101807047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"976027577015063f0eebe55e44a4b377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824737,
+            "locality_id":101807047,
+            "neighbourhood_id":1158828329,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828329,
+    "wof:lastmodified":1513588219,
+    "wof:name":"Wilde Veenen",
+    "wof:parent_id":101807047,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.568180447493315,
+    52.04314108884402,
+    4.573899921748185,
+    52.04478283617065
+],
+  "geometry": {"coordinates":[[[[4.56826391966361,52.0441655707786],[4.56993599964251,52.04435176566653],[4.57350892804365,52.04475159827052],[4.57378544594707,52.04478283617065],[4.57389992174819,52.04394467954722],[4.57212123874428,52.04383387834351],[4.56976210793319,52.04369151423846],[4.56964747092772,52.04324704145472],[4.56876157146272,52.04314108884402],[4.56876102418495,52.04366390953601],[4.56818044749332,52.04362068924787],[4.56826391966361,52.0441655707786]]]],"type":"MultiPolygon"}
+}

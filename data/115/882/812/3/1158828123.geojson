@@ -1,0 +1,80 @@
+{
+  "id": 1158828123,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17830401",
+    "cbsnl:BU_NAAM":"centrumgebied 's-Gravenzande",
+    "cbsnl:GM_CODE":"GM1783",
+    "cbsnl:GM_NAAM":"Westland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1915",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK178304",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":265632.604556,
+    "geom:bbox":"4.15667870521,51.9993572741,4.1646120972,52.0065065728",
+    "geom:latitude":52.0028,
+    "geom:longitude":4.160612,
+    "iso:country":"NL",
+    "lbl:latitude":52.002531,
+    "lbl:longitude":4.160536,
+    "mps:latitude":52.002531,
+    "mps:longitude":4.160536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Centrumgebied 's-Gravenzande"
+    ],
+    "name:nld_x_preferred":[
+        "Centrumgebied 's-Gravenzande"
+    ],
+    "reversegeo:latitude":52.002531,
+    "reversegeo:longitude":4.160536,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
+        85633337,
+        101808481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8094fb637f9dfe64868f1435fd09d514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474667,
+            "locality_id":101808481,
+            "neighbourhood_id":1158828123,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828123,
+    "wof:lastmodified":1513588201,
+    "wof:name":"Centrumgebied 's-Gravenzande",
+    "wof:parent_id":101808481,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.156678705211826,
+    51.999357274144174,
+    4.164612097196272,
+    52.00650657276297
+],
+  "geometry": {"coordinates":[[[[4.15667870521183,52.00437683228663],[4.15740150780521,52.00473829503411],[4.15784983240854,52.00523451614705],[4.15805138662781,52.00582319009192],[4.15910149157999,52.00607279751053],[4.16021430114341,52.00633729704237],[4.16073533791044,52.00650657276297],[4.16188018531794,52.00483416578753],[4.16231488061585,52.00419912171219],[4.16365462134434,52.0045484227685],[4.16461209719627,52.00316325148344],[4.16321570245358,52.00278688584007],[4.163617422219,52.00213702514269],[4.16405085138887,52.00136683258368],[4.1642303328736,52.00109160762991],[4.16457724138483,52.00055962971312],[4.16290341054012,52.00022436570479],[4.16259769541788,51.99994920154246],[4.16115693163707,51.99960758229203],[4.16109437137394,51.99959274792835],[4.15925329315126,51.99935727414417],[4.15896124053783,51.99994079359693],[4.15872774323269,52.00051837058201],[4.1583440112862,52.00115336236121],[4.15805227898727,52.00133710099121],[4.15779366097246,52.00186198225234],[4.15799051042085,52.00223433125051],[4.15667870521183,52.00437683228663]]]],"type":"MultiPolygon"}
+}

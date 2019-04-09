@@ -1,0 +1,80 @@
+{
+  "id": 1158797021,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07570207",
+    "cbsnl:BU_NAAM":"Vrilkhoven",
+    "cbsnl:GM_CODE":"GM0757",
+    "cbsnl:GM_NAAM":"Boxtel",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"49",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK075702",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00015,
+    "geom:area_square_m":1152212.117987,
+    "geom:bbox":"5.34116237149,51.5525651171,5.35984664497,51.5686974939",
+    "geom:latitude":51.561429,
+    "geom:longitude":5.350395,
+    "iso:country":"NL",
+    "lbl:latitude":51.561516,
+    "lbl:longitude":5.350253,
+    "mps:latitude":51.561516,
+    "mps:longitude":5.350253,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vrilkhoven"
+    ],
+    "name:nld_x_preferred":[
+        "Vrilkhoven"
+    ],
+    "reversegeo:latitude":51.561516,
+    "reversegeo:longitude":5.350253,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474361,
+        85633337,
+        101808179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f1e20c039ab69453c877db33a3320c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474361,
+            "locality_id":101808179,
+            "neighbourhood_id":1158797021,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797021,
+    "wof:lastmodified":1513432564,
+    "wof:name":"Vrilkhoven",
+    "wof:parent_id":101808179,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.341162371494661,
+    51.55256511705942,
+    5.359846644969462,
+    51.56869749387733
+],
+  "geometry": {"coordinates":[[[[5.35984664496946,51.56386223490581],[5.35014201148341,51.55256511705942],[5.34116237149466,51.56234883789408],[5.34877554494864,51.56766861299882],[5.3484419353208,51.56802158816817],[5.35042390301244,51.56869749387733],[5.35197548697537,51.56731681435443],[5.35373156963413,51.56658812821388],[5.35522959744161,51.56581749312032],[5.35700855197908,51.56543061087205],[5.35941407262364,51.56446324584078],[5.35984664496946,51.56386223490581]]]],"type":"MultiPolygon"}
+}

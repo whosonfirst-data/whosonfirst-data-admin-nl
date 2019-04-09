@@ -1,0 +1,80 @@
+{
+  "id": 1158827037,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06060605",
+    "cbsnl:BU_NAAM":"Hollandiabuurt",
+    "cbsnl:GM_CODE":"GM0606",
+    "cbsnl:GM_NAAM":"Schiedam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"4854",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060606",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":84206.653135,
+    "geom:bbox":"4.40204162479,51.9193454779,4.40683138655,51.9227963082",
+    "geom:latitude":51.920953,
+    "geom:longitude":4.404263,
+    "iso:country":"NL",
+    "lbl:latitude":51.921024,
+    "lbl:longitude":4.404217,
+    "mps:latitude":51.921024,
+    "mps:longitude":4.404217,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hollandiabuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Hollandiabuurt"
+    ],
+    "reversegeo:latitude":51.921024,
+    "reversegeo:longitude":4.404217,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829433,
+        85633337,
+        101751845,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"bc04ad0b62ef325505fc4a37cc89f15f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "macrohood_id":1158829433,
+            "neighbourhood_id":1158827037,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827037,
+    "wof:lastmodified":1513588115,
+    "wof:name":"Hollandiabuurt",
+    "wof:parent_id":1158829433,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.402041624787736,
+    51.91934547790661,
+    4.406831386549337,
+    51.92279630816237
+],
+  "geometry": {"coordinates":[[[[4.4034005990335,51.92279630816237],[4.40426284128315,51.9225537995323],[4.40585642338645,51.92216430477259],[4.40672606408706,51.92186790926539],[4.40683138654934,51.92176710069896],[4.40663564137879,51.92154074747433],[4.40646986709106,51.92095593454786],[4.4060446722739,51.92024226935641],[4.40501944476022,51.91961993935386],[4.40420698458248,51.91947915602309],[4.40389407789137,51.91942502026566],[4.40342571782415,51.91939950787923],[4.40271885299354,51.91934547790661],[4.40204162478774,51.91937499287574],[4.4021483397803,51.92021417410577],[4.40258309702336,51.92144226354538],[4.40262562652741,51.92170413666988],[4.40292938120936,51.92189348125284],[4.4034005990335,51.92279630816237]]]],"type":"MultiPolygon"}
+}

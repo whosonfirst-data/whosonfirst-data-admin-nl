@@ -1,0 +1,82 @@
+{
+  "id": 1158798603,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08280400",
+    "cbsnl:BU_NAAM":"Oorlogsheldenbuurt",
+    "cbsnl:GM_CODE":"GM0828",
+    "cbsnl:GM_NAAM":"Oss",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2196",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082804",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":87150.871428,
+    "geom:bbox":"5.51808547661,51.7723626459,5.52529649351,51.7755410996",
+    "geom:latitude":51.773806,
+    "geom:longitude":5.521728,
+    "iso:country":"NL",
+    "lbl:latitude":51.77349,
+    "lbl:longitude":5.521127,
+    "mps:latitude":51.77349,
+    "mps:longitude":5.521127,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oorlogsheldenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Oorlogsheldenbuurt"
+    ],
+    "reversegeo:latitude":51.77349,
+    "reversegeo:longitude":5.521127,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801747,
+        404474415,
+        85633337,
+        101751807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"98dd4e888c91db210862c8a37b86f24f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":101751807,
+            "macrohood_id":1158801747,
+            "neighbourhood_id":1158798603,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798603,
+    "wof:lastmodified":1513432686,
+    "wof:name":"Oorlogsheldenbuurt",
+    "wof:parent_id":1158801747,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.518085476614465,
+    51.772362645926655,
+    5.525296493511691,
+    51.77554109956187
+],
+  "geometry": {"coordinates":[[[[5.52529649351169,51.77406893672529],[5.52516004431208,51.77261072566134],[5.52180425459738,51.7728036678344],[5.52035386395179,51.77236264592666],[5.51978244399424,51.77343066957332],[5.51808547661447,51.77539177409069],[5.51967862520792,51.77554109956187],[5.52027641543874,51.77549800938152],[5.52040561257014,51.77485968456018],[5.52108797138603,51.77493699230896],[5.52112435647406,51.77438191562066],[5.52529649351169,51.77406893672529]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158797665,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07790202",
+    "cbsnl:BU_NAAM":"Geertruidenberg-Noord",
+    "cbsnl:GM_CODE":"GM0779",
+    "cbsnl:GM_NAAM":"Geertruidenberg",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"921",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK077902",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":328702.308319,
+    "geom:bbox":"4.84762218865,51.7027593656,4.86257134763,51.7077133144",
+    "geom:latitude":51.705128,
+    "geom:longitude":4.855721,
+    "iso:country":"NL",
+    "lbl:latitude":51.705102,
+    "lbl:longitude":4.856457,
+    "mps:latitude":51.705102,
+    "mps:longitude":4.856457,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Geertruidenberg-Noord"
+    ],
+    "name:nld_x_preferred":[
+        "Geertruidenberg-Noord"
+    ],
+    "reversegeo:latitude":51.705102,
+    "reversegeo:longitude":4.856457,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474379,
+        85633337,
+        101839357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1c2949c5b74d008e88c4468e1086386a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474379,
+            "locality_id":101839357,
+            "neighbourhood_id":1158797665,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797665,
+    "wof:lastmodified":1513432610,
+    "wof:name":"Geertruidenberg-Noord",
+    "wof:parent_id":101839357,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.847622188648188,
+    51.70275936559533,
+    4.862571347630436,
+    51.70771331441857
+],
+  "geometry": {"coordinates":[[[[4.86257134763044,51.70380484824196],[4.86078043082312,51.70305525237532],[4.86011070406461,51.7030432527429],[4.85848568312029,51.70333536631618],[4.85695750562529,51.70275936559533],[4.85436126180885,51.70333269247765],[4.85286406150533,51.70368822776795],[4.85202299618698,51.70385685983532],[4.85129688258814,51.70421505368341],[4.8488391016421,51.70474619351321],[4.84762218864819,51.70500997485779],[4.8485133828887,51.70606378072974],[4.84923398847873,51.70618254000289],[4.85229626264722,51.70662071277001],[4.85395087674604,51.70693808038192],[4.85621217274031,51.70729160466568],[4.85859184425917,51.70771331441857],[4.85976479073944,51.70658715497082],[4.86059696782652,51.70586365910452],[4.86142107360259,51.7049179347979],[4.86257134763044,51.70380484824196]]]],"type":"MultiPolygon"}
+}

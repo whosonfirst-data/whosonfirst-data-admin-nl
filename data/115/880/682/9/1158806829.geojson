@@ -1,0 +1,82 @@
+{
+  "id": 1158806829,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09832401",
+    "cbsnl:BU_NAAM":"Vossener-Centrum",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1901",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098324",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000022,
+    "geom:area_square_m":166298.015091,
+    "geom:bbox":"6.1272949829,51.3647690159,6.13574227391,51.3694216251",
+    "geom:latitude":51.366898,
+    "geom:longitude":6.131657,
+    "iso:country":"NL",
+    "lbl:latitude":51.367321,
+    "lbl:longitude":6.131945,
+    "mps:latitude":51.367321,
+    "mps:longitude":6.131945,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vossener-Centrum"
+    ],
+    "name:nld_x_preferred":[
+        "Vossener-Centrum"
+    ],
+    "reversegeo:latitude":51.367321,
+    "reversegeo:longitude":6.131945,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        1158818275,
+        404474525,
+        85633337,
+        101839199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"cfb04369f3b8410ecb44d85a1a335599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "macrohood_id":1158818275,
+            "neighbourhood_id":1158806829,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806829,
+    "wof:lastmodified":1513404058,
+    "wof:name":"Vossener-Centrum",
+    "wof:parent_id":1158818275,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.127294982904727,
+    51.36476901587624,
+    6.135742273905506,
+    51.3694216250668
+],
+  "geometry": {"coordinates":[[[[6.13574227390551,51.36768180679876],[6.13559937788601,51.36656075234857],[6.13492071468431,51.36484191164467],[6.13439578841997,51.36512947844324],[6.13197599203137,51.36589942162128],[6.13049187419093,51.36642109187531],[6.12987474487433,51.36563376431085],[6.12939298763539,51.36514872781432],[6.12931071207565,51.36476901587624],[6.12902661397663,51.36478251092934],[6.12834893204006,51.36484279012577],[6.127587935598,51.36495837072686],[6.12763462724009,51.3651103476767],[6.12729498290473,51.36523309028156],[6.12754306448607,51.36583197966146],[6.12810992920074,51.3666068281734],[6.12828915385838,51.36676658994016],[6.12875803977626,51.36743149139073],[6.1295290583477,51.36830660944102],[6.1301381850536,51.36911533391205],[6.13038403393008,51.36930882750326],[6.13102725583479,51.3694216250668],[6.13110893436092,51.36900581224165],[6.13489223617312,51.36776340054432],[6.13574227390551,51.36768180679876]]]],"type":"MultiPolygon"}
+}

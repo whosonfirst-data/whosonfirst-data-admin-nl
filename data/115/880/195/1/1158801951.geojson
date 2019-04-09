@@ -1,0 +1,82 @@
+{
+  "id": 1158801951,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01411605",
+    "cbsnl:BU_NAAM":"Ossenkoppelerhoek-Midden-Zuid",
+    "cbsnl:GM_CODE":"GM0141",
+    "cbsnl:GM_NAAM":"Almelo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2144",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK014116",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:area_square_m":281620.632019,
+    "geom:bbox":"6.64796844151,52.3395288674,6.65763395607,52.3447394758",
+    "geom:latitude":52.34219,
+    "geom:longitude":6.653086,
+    "iso:country":"NL",
+    "lbl:latitude":52.34206,
+    "lbl:longitude":6.652994,
+    "mps:latitude":52.34206,
+    "mps:longitude":6.652994,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ossenkoppelerhoek-Midden-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Ossenkoppelerhoek-Midden-Zuid"
+    ],
+    "reversegeo:latitude":52.34206,
+    "reversegeo:longitude":6.652994,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805819,
+        404473819,
+        85633337,
+        101751863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7c6a032deb4ee616a846c5cb8f3f8162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473819,
+            "locality_id":101751863,
+            "macrohood_id":1158805819,
+            "neighbourhood_id":1158801951,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158801951,
+    "wof:lastmodified":1513524227,
+    "wof:name":"Ossenkoppelerhoek-Midden-Zuid",
+    "wof:parent_id":1158805819,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.647968441509481,
+    52.339528867413684,
+    6.65763395607085,
+    52.34473947576162
+],
+  "geometry": {"coordinates":[[[[6.6480089506435,52.34473947576162],[6.64986850504727,52.34456205788874],[6.65421105232709,52.34414962114419],[6.6574686368498,52.3441379954046],[6.65746137737517,52.34388442849173],[6.65751223762917,52.34259317749945],[6.65763395607085,52.34070960483263],[6.65756303184786,52.3402505425415],[6.65665306672564,52.34018250555348],[6.65075540132374,52.33965409693051],[6.64938272395759,52.33952886741368],[6.64988336526942,52.34058782689014],[6.64900189912605,52.34261039349394],[6.64843570267021,52.34371444141605],[6.64796844150948,52.34379807270208],[6.648111210145,52.34431929386374],[6.64832390030309,52.34429090176704],[6.64841957983386,52.34465588536613],[6.6480089506435,52.34473947576162]]]],"type":"MultiPolygon"}
+}

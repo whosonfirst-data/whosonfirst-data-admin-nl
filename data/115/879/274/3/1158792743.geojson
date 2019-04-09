@@ -1,0 +1,80 @@
+{
+  "id": 1158792743,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00141205",
+    "cbsnl:BU_NAAM":"Hunzepark",
+    "cbsnl:GM_CODE":"GM0014",
+    "cbsnl:GM_NAAM":"Groningen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1116",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK001412",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":72732.590714,
+    "geom:bbox":"6.59819406182,53.2349011163,6.60470567373,53.2376820029",
+    "geom:latitude":53.236312,
+    "geom:longitude":6.601252,
+    "iso:country":"NL",
+    "lbl:latitude":53.236414,
+    "lbl:longitude":6.601203,
+    "mps:latitude":53.236414,
+    "mps:longitude":6.601203,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hunzepark"
+    ],
+    "name:nld_x_preferred":[
+        "Hunzepark"
+    ],
+    "reversegeo:latitude":53.236414,
+    "reversegeo:longitude":6.601203,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473713,
+        85633337,
+        1158796475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3bc655cecc5d22a9bdb2199a0ddc40d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473713,
+            "locality_id":1158796475,
+            "neighbourhood_id":1158792743,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158792743,
+    "wof:lastmodified":1513382263,
+    "wof:name":"Hunzepark",
+    "wof:parent_id":1158796475,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.598194061816939,
+    53.23490111626138,
+    6.604705673730734,
+    53.237682002877946
+],
+  "geometry": {"coordinates":[[[[6.60411158245473,53.23628838153928],[6.60443064230778,53.23615361214214],[6.60470567373073,53.23579592304274],[6.6042340603848,53.23564874586409],[6.60390685076003,53.23550050785453],[6.60361078842661,53.23530501714662],[6.60343217951952,53.23515008687774],[6.60318037375147,53.23490111626138],[6.60224403718987,53.23516988693214],[6.60148317751031,53.23536237581259],[6.60033904938803,53.23560730767656],[6.59840261602378,53.2359408852159],[6.59862340452972,53.23646089737468],[6.59819406181694,53.23717701802686],[6.60054541853007,53.23768200287795],[6.60278196745427,53.23673964643314],[6.60411158245473,53.23628838153928]]]],"type":"MultiPolygon"}
+}

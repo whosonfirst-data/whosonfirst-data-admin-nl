@@ -1,0 +1,82 @@
+{
+  "id": 1158827777,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06420802",
+    "cbsnl:BU_NAAM":"Dorp-Noordoost",
+    "cbsnl:GM_CODE":"GM0642",
+    "cbsnl:GM_NAAM":"Zwijndrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"531",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK064208",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000023,
+    "geom:area_square_m":175360.442078,
+    "geom:bbox":"4.56355013186,51.8343503756,4.57146625245,51.8395997767",
+    "geom:latitude":51.837031,
+    "geom:longitude":4.567804,
+    "iso:country":"NL",
+    "lbl:latitude":51.837274,
+    "lbl:longitude":4.567475,
+    "mps:latitude":51.837274,
+    "mps:longitude":4.567475,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Dorp-Noordoost"
+    ],
+    "name:nld_x_preferred":[
+        "Dorp-Noordoost"
+    ],
+    "reversegeo:latitude":51.837274,
+    "reversegeo:longitude":4.567475,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831159,
+        404474291,
+        85633337,
+        101808507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"23b8ba8ec5f912b83f16887133dca47c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474291,
+            "locality_id":101808507,
+            "macrohood_id":1158831159,
+            "neighbourhood_id":1158827777,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827777,
+    "wof:lastmodified":1513588170,
+    "wof:name":"Dorp-Noordoost",
+    "wof:parent_id":1158831159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.563550131862945,
+    51.83435037564378,
+    4.571466252450541,
+    51.839599776669246
+],
+  "geometry": {"coordinates":[[[[4.57064136440701,51.83863063632299],[4.57048342272239,51.83846821491485],[4.56938066891819,51.83750193192183],[4.56983043476496,51.83733526366262],[4.57119750267973,51.83687010036552],[4.57062662202581,51.83598392903766],[4.57064204531676,51.83596038875982],[4.57146625245054,51.83569415204099],[4.57042316152926,51.83435037564378],[4.56834038588539,51.83500102511623],[4.56716396025026,51.83536782190846],[4.56612003250918,51.83579465741869],[4.56456199056938,51.83645099638228],[4.56355013186294,51.83687483982372],[4.56380671050528,51.83719487560184],[4.5639519044315,51.83730738310115],[4.56418651486387,51.83745092457011],[4.56432882894406,51.83757185700232],[4.56457804298634,51.83781178559199],[4.56478676449265,51.83802947052502],[4.56496401380635,51.8383280165714],[4.56573988252039,51.83899731710345],[4.56646701383486,51.83959977666925],[4.56689096473497,51.83950400576038],[4.56699966862878,51.83937469463972],[4.56876238521313,51.83901367671667],[4.57064136440701,51.83863063632299]]]],"type":"MultiPolygon"}
+}

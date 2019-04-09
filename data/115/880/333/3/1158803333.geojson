@@ -1,0 +1,80 @@
+{
+  "id": 1158803333,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01830600",
+    "cbsnl:BU_NAAM":"Reutum kern",
+    "cbsnl:GM_CODE":"GM0183",
+    "cbsnl:GM_NAAM":"Tubbergen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"100",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK018306",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:area_square_m":706487.884069,
+    "geom:bbox":"6.83582893696,52.3855014079,6.8538241185,52.3960881394",
+    "geom:latitude":52.390803,
+    "geom:longitude":6.844923,
+    "iso:country":"NL",
+    "lbl:latitude":52.390476,
+    "lbl:longitude":6.84506,
+    "mps:latitude":52.390476,
+    "mps:longitude":6.84506,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Reutum kern"
+    ],
+    "name:nld_x_preferred":[
+        "Reutum kern"
+    ],
+    "reversegeo:latitude":52.390476,
+    "reversegeo:longitude":6.84506,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473855,
+        85633337,
+        101875791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"2b848daf55fb7b2c2f862b8b88f80981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473855,
+            "locality_id":101875791,
+            "neighbourhood_id":1158803333,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803333,
+    "wof:lastmodified":1513524332,
+    "wof:name":"Reutum kern",
+    "wof:parent_id":101875791,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.835828936964449,
+    52.38550140793709,
+    6.853824118495774,
+    52.396088139401634
+],
+  "geometry": {"coordinates":[[[[6.84143533482366,52.38550140793709],[6.84116949222103,52.39029935683401],[6.83582893696445,52.39317186635864],[6.83754242146523,52.39412279768437],[6.83843036025811,52.39449843333198],[6.84119683647461,52.39516195847501],[6.84379731296948,52.39608813940163],[6.84472915496401,52.39564605124053],[6.84571238959046,52.39476399487925],[6.84664210587535,52.39394522874463],[6.84780344526481,52.3930292169251],[6.84932087472151,52.39235177135035],[6.85128463390653,52.39153114838285],[6.85182965286959,52.3905524904248],[6.85235613800526,52.38963192339223],[6.85382411849577,52.38848564661636],[6.85144292223899,52.38671371139177],[6.84796810887913,52.38786423738137],[6.84608533545331,52.3866793036963],[6.84143533482366,52.38550140793709]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158818581,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03730109",
+    "cbsnl:BU_NAAM":"Saenegheest",
+    "cbsnl:GM_CODE":"GM0373",
+    "cbsnl:GM_NAAM":"Bergen (NH.)",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1050",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK037301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":296517.306767,
+    "geom:bbox":"4.71304983784,52.6648431687,4.72693810495,52.6700312725",
+    "geom:latitude":52.667283,
+    "geom:longitude":4.720261,
+    "iso:country":"NL",
+    "lbl:latitude":52.667517,
+    "lbl:longitude":4.720369,
+    "mps:latitude":52.667517,
+    "mps:longitude":4.720369,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Saenegheest"
+    ],
+    "name:nld_x_preferred":[
+        "Saenegheest"
+    ],
+    "reversegeo:latitude":52.667517,
+    "reversegeo:longitude":4.720369,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474041,
+        85633337,
+        101808083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0a68c5e269c9d4be69c56a5bb7036bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474041,
+            "locality_id":101808083,
+            "neighbourhood_id":1158818581,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818581,
+    "wof:lastmodified":1513464080,
+    "wof:name":"Saenegheest",
+    "wof:parent_id":101808083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.713049837839924,
+    52.6648431686709,
+    4.726938104952933,
+    52.67003127246152
+],
+  "geometry": {"coordinates":[[[[4.71304983783992,52.66856554864837],[4.71409091119054,52.66867872798978],[4.71434552058103,52.6693014110773],[4.71499950043038,52.66964662318193],[4.71547135761133,52.66990065075353],[4.71616917378459,52.6700309708558],[4.7162226452756,52.67003127246152],[4.71648291954853,52.66924804351297],[4.71965572918149,52.66887578850346],[4.71979076908565,52.66933068169692],[4.72092268517582,52.66924406452544],[4.72091857169108,52.66896684104499],[4.72146653986118,52.66889464083228],[4.72145603051146,52.66857413161312],[4.72302085095906,52.6682012016846],[4.7243619608162,52.66788767092533],[4.72515458773063,52.66781119975165],[4.72693810495293,52.66772197029324],[4.72687607903674,52.66619211280629],[4.72626636448705,52.6648431686709],[4.72618043605643,52.66484353429875],[4.72378930784551,52.6648821796556],[4.72033494387929,52.66575512791909],[4.71660883087086,52.66663431059631],[4.71319325983279,52.6670452710264],[4.71304983783992,52.66856554864837]]]],"type":"MultiPolygon"}
+}

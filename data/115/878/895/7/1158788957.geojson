@@ -1,0 +1,80 @@
+{
+  "id": 1158788957,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU15810403",
+    "cbsnl:BU_NAAM":"Valkenheide",
+    "cbsnl:GM_CODE":"GM1581",
+    "cbsnl:GM_NAAM":"Utrechtse Heuvelrug",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"32",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK158104",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:area_square_m":770864.493807,
+    "geom:bbox":"5.41086429609,52.0329235202,5.42592560467,52.0466124603",
+    "geom:latitude":52.04059,
+    "geom:longitude":5.417434,
+    "iso:country":"NL",
+    "lbl:latitude":52.040762,
+    "lbl:longitude":5.41692,
+    "mps:latitude":52.040762,
+    "mps:longitude":5.41692,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Valkenheide"
+    ],
+    "name:nld_x_preferred":[
+        "Valkenheide"
+    ],
+    "reversegeo:latitude":52.040762,
+    "reversegeo:longitude":5.41692,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474547,
+        85633337,
+        101837665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"53bd9b1ac0789c766f68b6c9205359af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474547,
+            "locality_id":101837665,
+            "neighbourhood_id":1158788957,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788957,
+    "wof:lastmodified":1513622054,
+    "wof:name":"Valkenheide",
+    "wof:parent_id":101837665,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.410864296087215,
+    52.03292352018391,
+    5.425925604672231,
+    52.04661246027942
+],
+  "geometry": {"coordinates":[[[[5.42592560467223,52.04110946287916],[5.42534607761657,52.04072092105571],[5.42471388851258,52.04026658822967],[5.42427203279217,52.03998841271422],[5.42169391725623,52.03832302199994],[5.4160994171882,52.03479616722117],[5.41588593888181,52.03463777040161],[5.41588144219242,52.03463443497741],[5.41572484083449,52.03450180875397],[5.41567099522042,52.03439153821227],[5.41508038549956,52.03305874412905],[5.41501228136223,52.03292352018391],[5.41494520601256,52.03307407972577],[5.41224492056163,52.03832542398095],[5.41086429608722,52.04103730861337],[5.41585241608416,52.04661246027942],[5.42052830972096,52.04485236584781],[5.42103230227903,52.04450168596262],[5.42267074201183,52.04330494460041],[5.42592560467223,52.04110946287916]]]],"type":"MultiPolygon"}
+}

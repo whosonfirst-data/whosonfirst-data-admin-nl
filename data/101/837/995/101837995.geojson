@@ -1,0 +1,84 @@
+{
+  "id": 101837995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-08-22",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000191,
+    "geom:area_square_m":1418032.013491,
+    "geom:bbox":"6.77242214834,53.1479633062,6.80842773664,53.1655062119",
+    "geom:latitude":53.156353,
+    "geom:longitude":6.783982,
+    "iso:country":"NL",
+    "lbl:latitude":53.151649,
+    "lbl:longitude":6.788941,
+    "mps:latitude":53.151649,
+    "mps:longitude":6.788941,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ceb_x_preferred":[
+        "Gro\u00dfes Meer"
+    ],
+    "name:deu_x_preferred":[
+        "Gro\u00dfes Meer"
+    ],
+    "qs:a0":"Nederland",
+    "qs:a1":"*Groningen",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la":"Slochteren",
+    "qs:la_lc":"*NL200040",
+    "qs:level":"locality",
+    "qs:loc":"Kleine Meer",
+    "qs:loc_alt":"Kleine Meer",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404473719,
+        85633337,
+        85687059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2752727,
+        "gp:id":730806,
+        "qs:id":385885,
+        "tgn:id":7265662
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"2b0b36d31786709fb56af422c45bee21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473719,
+            "locality_id":101837995,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":101837995,
+    "wof:lastmodified":1513371488,
+    "wof:name":"Kleine Meer",
+    "wof:parent_id":404473719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158796093
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.77242214834138,
+    53.14796330616173,
+    6.80842773664119,
+    53.16550621185195
+],
+  "geometry": {"coordinates":[[[[6.79547421103365,53.15901782187274],[6.78780776694435,53.15881409367432],[6.78774100945344,53.15971169965815],[6.78176646699268,53.15955256087796],[6.78210083932834,53.15506454887395],[6.79554222499792,53.1554221530821],[6.79594169000421,53.15003648435419],[6.79444837811053,53.14999683007397],[6.79451497473264,53.14909921921065],[6.791528420399,53.14901985714619],[6.7915950754886,53.14812224806826],[6.78562212097188,53.14796330616173],[6.78542177452238,53.150656121758],[6.78392844948633,53.1506163372884],[6.7836611498285,53.15420675288988],[6.77242214834138,53.15390662761803],[6.77523983807606,53.16550621185195],[6.79547421103365,53.15901782187274]]],[[[6.80842773664119,53.1548641213393],[6.8060631475675,53.15480163779193],[6.80600098884082,53.15564228660008],[6.80842773664119,53.1548641213393]]]],"type":"MultiPolygon"}
+}

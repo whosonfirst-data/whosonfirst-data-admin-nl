@@ -1,0 +1,110 @@
+{
+  "id": 85859761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-30",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000201,
+    "geom:area_square_m":1533335.665423,
+    "geom:bbox":"4.41101074219,51.9307182154,4.43104400525,51.944264879",
+    "geom:latitude":51.937381,
+    "geom:longitude":4.419945,
+    "gn:id":"",
+    "iso:country":"NL",
+    "lbl:latitude":51.933132,
+    "lbl:longitude":4.433487,
+    "mps:latitude":51.936347,
+    "mps:longitude":4.420947,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:nld_x_preferred":[
+        "Klein Polder West"
+    ],
+    "name:unk_x_variant":[
+        "Klein Polder West"
+    ],
+    "qs:gn_adm0_cc":"NL",
+    "qs:gn_id":0,
+    "qs:gn_local":2747891,
+    "qs:gn_nam_loc":"hofstraat",
+    "qs:gn_namadm1":"11",
+    "qs:local_max":13608,
+    "qs:local_sum":146545,
+    "qs:localhoods":77,
+    "qs:name":"Klein Polder West",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Zuid-Holland",
+    "qs:name_adm2":"Rotterdam",
+    "qs:name_local":"Rotterdam",
+    "qs:photo_max":28,
+    "qs:photo_sum":179,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346383,
+    "qs:woe_adm2":12592374,
+    "qs:woe_lau":0,
+    "qs:woe_local":733075,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        404474245,
+        85633337,
+        101751843,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20063938,
+        "qs:id":220137,
+        "qs_pg:id":220137
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"f00ec26a1e1787c9a3e288c7ed731de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474245,
+            "locality_id":101751843,
+            "neighbourhood_id":85859761,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":85859761,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527270306,
+    "wof:name":"Klein Polder West",
+    "wof:parent_id":101751843,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1108805669
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.41101074218767,
+    51.93071821540023,
+    4.431044005253,
+    51.94426487900007
+],
+  "geometry": {"coordinates":[[[4.42199707031162,51.9424157196769],[4.42294463937429,51.9408786126],[4.42749023438012,51.9408786126],[4.42749023437844,51.9408785486754],[4.42749023437844,51.93902914541606],[4.43023681641012,51.93754412722863],[4.43023681641012,51.9374920905001],[4.43023681641012,51.93579872742403],[4.431044005253,51.93448950241925],[4.43033335534295,51.93410531270003],[4.42749023437844,51.93256827198566],[4.42749023437923,51.93071827929997],[4.42749023437756,51.93071821540023],[4.42199707031187,51.93071821540023],[4.41650390625023,51.93071821540023],[4.41650390625023,51.93071827929997],[4.41650390625023,51.93410524880021],[4.41101074218767,51.93410524880021],[4.41101074218926,51.93410531270003],[4.41101074218847,51.93749202657513],[4.41101074218847,51.9374920905001],[4.41101074218847,51.9408785486754],[4.41101074218847,51.9408786126],[4.41101074218838,51.94426481512541],[4.41101074218918,51.94426487900007],[4.41650390624994,51.94426487900007],[4.42199707031011,51.94426487900007],[4.42199707031179,51.94426481512541],[4.42199707031162,51.9424157196769]]],"type":"Polygon"}
+}

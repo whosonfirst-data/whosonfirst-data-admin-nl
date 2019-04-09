@@ -1,0 +1,80 @@
+{
+  "id": 1158788365,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03450001",
+    "cbsnl:BU_NAAM":"Vijgendam en omgeving",
+    "cbsnl:GM_CODE":"GM0345",
+    "cbsnl:GM_NAAM":"Veenendaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2934",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK034500",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":139104.766988,
+    "geom:bbox":"5.55919770615,52.0259278743,5.56476894115,52.0311763215",
+    "geom:latitude":52.028974,
+    "geom:longitude":5.562471,
+    "iso:country":"NL",
+    "lbl:latitude":52.029105,
+    "lbl:longitude":5.562524,
+    "mps:latitude":52.029105,
+    "mps:longitude":5.562524,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vijgendam en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Vijgendam en omgeving"
+    ],
+    "reversegeo:latitude":52.029105,
+    "reversegeo:longitude":5.562524,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158790337,
+        85633337,
+        101751829,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"64ef8147099f33b46983554ba1c493d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751829,
+            "macrohood_id":1158790337,
+            "neighbourhood_id":1158788365,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788365,
+    "wof:lastmodified":1513622004,
+    "wof:name":"Vijgendam en omgeving",
+    "wof:parent_id":1158790337,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.559197706146096,
+    52.025927874291476,
+    5.564768941145839,
+    52.03117632151649
+],
+  "geometry": {"coordinates":[[[[5.56066317905347,52.03064839750357],[5.5607284510986,52.0307299711578],[5.5610276896728,52.03117632151649],[5.56229375306667,52.03113571581147],[5.5637100924885,52.03108581766459],[5.56404182277481,52.0310170581263],[5.56432903973532,52.03088693284987],[5.56459396086609,52.0307158853843],[5.56471477041266,52.03048362030678],[5.56476894114584,52.03019002057514],[5.56454996380319,52.0292948549919],[5.56456640732678,52.02834583268947],[5.5645673468846,52.02829611623036],[5.56429294178296,52.02764283746919],[5.56431725997164,52.02745205323773],[5.56444345135357,52.02689076436192],[5.56435658827025,52.02657403835915],[5.56403375526386,52.02611904521926],[5.56368955161339,52.02592787429148],[5.56341564110967,52.02612440611525],[5.560309814709,52.02835217463915],[5.5598177212453,52.02832958657808],[5.55958673185492,52.02853356209569],[5.55953777770253,52.02848732007113],[5.5591977061461,52.02881680124101],[5.56066317905347,52.03064839750357]]]],"type":"MultiPolygon"}
+}

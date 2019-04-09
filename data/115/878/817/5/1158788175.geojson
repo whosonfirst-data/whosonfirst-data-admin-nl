@@ -1,0 +1,80 @@
+{
+  "id": 1158788175,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03310005",
+    "cbsnl:BU_NAAM":"Wielsekade",
+    "cbsnl:GM_CODE":"GM0331",
+    "cbsnl:GM_NAAM":"Lopik",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"114",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK033100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000111,
+    "geom:area_square_m":845911.634368,
+    "geom:bbox":"4.90690013217,51.9671317228,4.93503203694,51.9773105296",
+    "geom:latitude":51.973591,
+    "geom:longitude":4.919886,
+    "iso:country":"NL",
+    "lbl:latitude":51.974375,
+    "lbl:longitude":4.919672,
+    "mps:latitude":51.974375,
+    "mps:longitude":4.919672,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Wielsekade"
+    ],
+    "name:nld_x_preferred":[
+        "Wielsekade"
+    ],
+    "reversegeo:latitude":51.974375,
+    "reversegeo:longitude":4.919672,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473993,
+        85633337,
+        101808449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"93de1c3d7645bd8c055680440f253284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473993,
+            "locality_id":101808449,
+            "neighbourhood_id":1158788175,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788175,
+    "wof:lastmodified":1513621987,
+    "wof:name":"Wielsekade",
+    "wof:parent_id":101808449,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.906900132172655,
+    51.967131722762886,
+    4.935032036937899,
+    51.97731052961515
+],
+  "geometry": {"coordinates":[[[[4.93257406166663,51.97729396003134],[4.93366556590286,51.97555292802488],[4.93391393482623,51.97553472567454],[4.9350320369379,51.97365165461445],[4.93247270927046,51.9737112244359],[4.92870962194861,51.97366151134051],[4.92515833897278,51.97326112246012],[4.92205507836916,51.97274105593998],[4.91810317395531,51.97196781865754],[4.91523445363008,51.97089207396736],[4.91301323877738,51.9695565224668],[4.91112931507878,51.96772063394649],[4.90956103950856,51.96713172276289],[4.90690013217266,51.97088446856404],[4.90785955619328,51.97152655208542],[4.90960680620556,51.97280999883654],[4.91195518267478,51.9741039959254],[4.91538169930543,51.97557389253358],[4.91786609113221,51.97613464256737],[4.92024687692232,51.97658285529404],[4.9229738161291,51.97692340479755],[4.92558049127417,51.97720864619101],[4.92763473292671,51.97730038950802],[4.92958529170705,51.97727934217387],[4.93183221337589,51.97731052961515],[4.93257406166663,51.97729396003134]]]],"type":"MultiPolygon"}
+}

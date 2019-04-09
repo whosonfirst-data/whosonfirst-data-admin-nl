@@ -1,0 +1,80 @@
+{
+  "id": 1158827053,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06060707",
+    "cbsnl:BU_NAAM":"Tuindorp",
+    "cbsnl:GM_CODE":"GM0606",
+    "cbsnl:GM_NAAM":"Schiedam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2253",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060607",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":247553.413422,
+    "geom:bbox":"4.37504056486,51.9257290927,4.38085742267,51.9329070812",
+    "geom:latitude":51.929504,
+    "geom:longitude":4.378102,
+    "iso:country":"NL",
+    "lbl:latitude":51.929586,
+    "lbl:longitude":4.378158,
+    "mps:latitude":51.929586,
+    "mps:longitude":4.378158,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Tuindorp"
+    ],
+    "name:nld_x_preferred":[
+        "Tuindorp"
+    ],
+    "reversegeo:latitude":51.929586,
+    "reversegeo:longitude":4.378158,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831033,
+        85633337,
+        101751845,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"440d214dfa0589c0ea307f60ef949208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "macrohood_id":1158831033,
+            "neighbourhood_id":1158827053,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827053,
+    "wof:lastmodified":1513588116,
+    "wof:name":"Tuindorp",
+    "wof:parent_id":1158831033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.375040564861015,
+    51.925729092742586,
+    4.380857422666751,
+    51.932907081205485
+],
+  "geometry": {"coordinates":[[[[4.37504056486102,51.93242190086176],[4.37517272059434,51.93243539828192],[4.38024890027294,51.93290708120549],[4.38085742266675,51.93109373729995],[4.38079962411742,51.92991121056651],[4.38032113945675,51.92812282879038],[4.37998176888067,51.92706204836212],[4.37986954153317,51.92635799017888],[4.38015555322016,51.92587139218418],[4.37661383143618,51.92573593797094],[4.37643849577152,51.92572909274259],[4.3756822570862,51.92910408007499],[4.3758136380873,51.92911616621312],[4.37504056486102,51.93242190086176]]]],"type":"MultiPolygon"}
+}

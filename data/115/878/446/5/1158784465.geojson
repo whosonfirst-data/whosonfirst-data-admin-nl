@@ -1,0 +1,86 @@
+{
+  "id": 1158784465,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07030201",
+    "cbsnl:BU_NAAM":"Krabbendijke - Oostpolder",
+    "cbsnl:GM_CODE":"GM0703",
+    "cbsnl:GM_NAAM":"Reimerswaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"452",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK070302",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":311475.564276,
+    "geom:bbox":"4.11699524539,51.4265657398,4.13089198167,51.4326888063",
+    "geom:latitude":51.429079,
+    "geom:longitude":4.122482,
+    "iso:country":"NL",
+    "lbl:latitude":51.428912,
+    "lbl:longitude":4.122377,
+    "mps:latitude":51.428912,
+    "mps:longitude":4.122377,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oostpolder"
+    ],
+    "name:eng_x_variant":[
+        "Krabbendijke - Oostpolder"
+    ],
+    "name:nld_x_preferred":[
+        "Oostpolder"
+    ],
+    "name:nld_x_variant":[
+        "Krabbendijke - Oostpolder"
+    ],
+    "reversegeo:latitude":51.428912,
+    "reversegeo:longitude":4.122377,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474323,
+        85633337,
+        101809813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"952fe08c6d498b1ce4eac09c2da7bb23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474323,
+            "locality_id":101809813,
+            "neighbourhood_id":1158784465,
+            "region_id":85687037
+        }
+    ],
+    "wof:id":1158784465,
+    "wof:lastmodified":1513628659,
+    "wof:name":"Oostpolder",
+    "wof:parent_id":101809813,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.116995245392078,
+    51.426565739816425,
+    4.130891981672694,
+    51.43268880630832
+],
+  "geometry": {"coordinates":[[[[4.11832640670662,51.43268880630832],[4.13089198167269,51.42767420387945],[4.12900589337811,51.42742386757114],[4.12425943770199,51.42681973329699],[4.12422496583744,51.42656573981643],[4.12289811959069,51.42657653578075],[4.11699524539208,51.42856503509268],[4.11832640670662,51.43268880630832]]]],"type":"MultiPolygon"}
+}

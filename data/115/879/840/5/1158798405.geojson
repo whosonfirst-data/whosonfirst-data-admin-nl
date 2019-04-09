@@ -1,0 +1,80 @@
+{
+  "id": 1158798405,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08240202",
+    "cbsnl:BU_NAAM":"Omg. Bej.Centrum/Molen",
+    "cbsnl:GM_CODE":"GM0824",
+    "cbsnl:GM_NAAM":"Oisterwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1294",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":352023.986475,
+    "geom:bbox":"5.17667918489,51.5791474513,5.1872850735,51.5872434612",
+    "geom:latitude":51.583809,
+    "geom:longitude":5.181024,
+    "iso:country":"NL",
+    "lbl:latitude":51.583804,
+    "lbl:longitude":5.180502,
+    "mps:latitude":51.583804,
+    "mps:longitude":5.180502,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Centrum/Molen"
+    ],
+    "name:nld_x_preferred":[
+        "Centrum/Molen"
+    ],
+    "reversegeo:latitude":51.583804,
+    "reversegeo:longitude":5.180502,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474411,
+        85633337,
+        101808311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9d5c67f3d693e1af37eb73d55bbf1d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474411,
+            "locality_id":101808311,
+            "neighbourhood_id":1158798405,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798405,
+    "wof:lastmodified":1513432674,
+    "wof:name":"Centrum/Molen",
+    "wof:parent_id":101808311,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.176679184886014,
+    51.57914745132646,
+    5.187285073497134,
+    51.58724346118561
+],
+  "geometry": {"coordinates":[[[[5.18728507349713,51.58691069672475],[5.18621248135813,51.58642480687254],[5.18569145291314,51.58603728948728],[5.18484616913575,51.58552369599145],[5.18326050873269,51.58501256578464],[5.18341389016837,51.58468787169638],[5.18336429098886,51.58431043452198],[5.18354849031311,51.58401958732647],[5.18318349432982,51.58386923558582],[5.18324268939426,51.58102511197472],[5.1841881547067,51.57996973735372],[5.18295672543921,51.57968755220865],[5.18058212666271,51.57914745132646],[5.17831706475925,51.58121696118894],[5.17667918488601,51.58652033814548],[5.17741516941381,51.58674230377621],[5.1787005613138,51.58691430556641],[5.18197857636918,51.58696429798832],[5.18601755093073,51.58724346118561],[5.18627891684888,51.58721710299496],[5.18667129732493,51.58719996783541],[5.18728507349713,51.58691069672475]]]],"type":"MultiPolygon"}
+}

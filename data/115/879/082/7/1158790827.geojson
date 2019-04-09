@@ -1,0 +1,80 @@
+{
+  "id": 1158790827,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01140206",
+    "cbsnl:BU_NAAM":"Oude Schuttingskanaal",
+    "cbsnl:GM_CODE":"GM0114",
+    "cbsnl:GM_NAAM":"Emmen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"17",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000127,
+    "geom:area_square_m":950820.901941,
+    "geom:bbox":"7.00579016451,52.8215909782,7.03305030208,52.8502322149",
+    "geom:latitude":52.837327,
+    "geom:longitude":7.018657,
+    "iso:country":"NL",
+    "lbl:latitude":52.836773,
+    "lbl:longitude":7.018455,
+    "mps:latitude":52.836773,
+    "mps:longitude":7.018455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oude Schuttingskanaal"
+    ],
+    "name:nld_x_preferred":[
+        "Oude Schuttingskanaal"
+    ],
+    "reversegeo:latitude":52.836773,
+    "reversegeo:longitude":7.018455,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473809,
+        85633337,
+        1158792023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c99a15ec2f9dd1c92dac65d5a0553fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473809,
+            "locality_id":1158792023,
+            "neighbourhood_id":1158790827,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158790827,
+    "wof:lastmodified":1513292300,
+    "wof:name":"Oude Schuttingskanaal",
+    "wof:parent_id":1158792023,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.005790164509866,
+    52.8215909781531,
+    7.033050302081753,
+    52.85023221487059
+],
+  "geometry": {"coordinates":[[[[7.00637752227735,52.84892113034279],[7.00638756916972,52.84892500303752],[7.00656163762247,52.84899215316099],[7.00730705119494,52.84929048380387],[7.00907518587996,52.84997827377336],[7.00927853678191,52.8500417054962],[7.00972803271496,52.85023221487059],[7.0120474846531,52.8480723948574],[7.01542144638741,52.84939195314685],[7.01755555278839,52.84739180958027],[7.0121545640755,52.84542779902365],[7.03211532720309,52.82465910044958],[7.03305030208175,52.82172511262841],[7.03227153541566,52.82165733283806],[7.03152005169731,52.8215909781531],[7.03135381824386,52.82164241913932],[7.02956815389871,52.82161105807209],[7.02949253336091,52.82319076779777],[7.00579016450987,52.84784871263172],[7.00700900128229,52.84831132036452],[7.00637752227735,52.84892113034279]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158788391,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03450201",
+    "cbsnl:BU_NAAM":"Het Ambacht",
+    "cbsnl:GM_CODE":"GM0345",
+    "cbsnl:GM_NAAM":"Veenendaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2321",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK034502",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":389860.911668,
+    "geom:bbox":"5.549793568,52.0102390859,5.56232084132,52.0201562397",
+    "geom:latitude":52.015553,
+    "geom:longitude":5.555818,
+    "iso:country":"NL",
+    "lbl:latitude":52.015022,
+    "lbl:longitude":5.556254,
+    "mps:latitude":52.015022,
+    "mps:longitude":5.556254,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Het Ambacht"
+    ],
+    "name:nld_x_preferred":[
+        "Het Ambacht"
+    ],
+    "reversegeo:latitude":52.015022,
+    "reversegeo:longitude":5.556254,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158790339,
+        85633337,
+        101751829,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9e671bbd29b157dd067e26b292a57e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751829,
+            "macrohood_id":1158790339,
+            "neighbourhood_id":1158788391,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788391,
+    "wof:lastmodified":1513622005,
+    "wof:name":"Het Ambacht",
+    "wof:parent_id":1158790339,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.54979356799569,
+    52.0102390859489,
+    5.562320841324872,
+    52.02015623967476
+],
+  "geometry": {"coordinates":[[[[5.54979356799569,52.01891082642548],[5.55077243055101,52.02011219306443],[5.55080901289384,52.02015623967476],[5.55492125799019,52.01840590635153],[5.55704235060853,52.01764869904353],[5.55939674537781,52.01690824724693],[5.5614814482717,52.01625437877164],[5.56232084132487,52.01600989115368],[5.55607409762703,52.0102390859489],[5.55319260696022,52.01464316826891],[5.54998222463299,52.01871029679185],[5.54979356799569,52.01891082642548]]]],"type":"MultiPolygon"}
+}

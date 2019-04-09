@@ -1,0 +1,80 @@
+{
+  "id": 1158828141,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17830410",
+    "cbsnl:BU_NAAM":"Heenweg",
+    "cbsnl:GM_CODE":"GM1783",
+    "cbsnl:GM_NAAM":"Westland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"201",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK178304",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":105983.7977,
+    "geom:bbox":"4.17635309759,51.9799286791,4.18323312069,51.9844497066",
+    "geom:latitude":51.982147,
+    "geom:longitude":4.180686,
+    "iso:country":"NL",
+    "lbl:latitude":51.982049,
+    "lbl:longitude":4.181207,
+    "mps:latitude":51.982049,
+    "mps:longitude":4.181207,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Heenweg"
+    ],
+    "name:nld_x_preferred":[
+        "Heenweg"
+    ],
+    "reversegeo:latitude":51.982049,
+    "reversegeo:longitude":4.181207,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
+        85633337,
+        101808481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"2804926b5f2d533140edd250bf4f98b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474667,
+            "locality_id":101808481,
+            "neighbourhood_id":1158828141,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828141,
+    "wof:lastmodified":1513588202,
+    "wof:name":"Heenweg",
+    "wof:parent_id":101808481,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.176353097585346,
+    51.97992867911397,
+    4.183233120689427,
+    51.98444970660097
+],
+  "geometry": {"coordinates":[[[[4.1816116951642,51.97992867911397],[4.17848316356218,51.98130966868953],[4.17736960235128,51.98180117319269],[4.17635309758535,51.98220154673367],[4.17692056044522,51.98270808820478],[4.1770973470181,51.98292855592871],[4.1774853293779,51.98282574422932],[4.17743932896014,51.9827654203663],[4.17758242401908,51.98272664737761],[4.17744543606463,51.98256197999136],[4.17814589313457,51.98236698894953],[4.17810765825016,51.98231611714866],[4.17891482653182,51.98210255144969],[4.1789693569107,51.98217904922362],[4.1795046004367,51.98203464372563],[4.18062233843578,51.98417811406817],[4.18076397254526,51.98444970660097],[4.18262727019119,51.98383514084919],[4.18323312068943,51.98375508430583],[4.1824533133596,51.98080656224276],[4.18232318180005,51.98081845629077],[4.18217660697795,51.98029083039825],[4.1820840590184,51.98032921268022],[4.1816116951642,51.97992867911397]]]],"type":"MultiPolygon"}
+}

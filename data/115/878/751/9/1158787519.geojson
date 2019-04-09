@@ -1,0 +1,82 @@
+{
+  "id": 1158787519,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03070108",
+    "cbsnl:BU_NAAM":"Schimmelpenninckstraat",
+    "cbsnl:GM_CODE":"GM0307",
+    "cbsnl:GM_NAAM":"Amersfoort",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3587",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK030701",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":47767.530882,
+    "geom:bbox":"5.38454237927,52.159170354,5.38969505042,52.1617238044",
+    "geom:latitude":52.160301,
+    "geom:longitude":5.387219,
+    "iso:country":"NL",
+    "lbl:latitude":52.160508,
+    "lbl:longitude":5.387394,
+    "mps:latitude":52.160508,
+    "mps:longitude":5.387394,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schimmelpenninckstraat"
+    ],
+    "name:nld_x_preferred":[
+        "Schimmelpenninckstraat"
+    ],
+    "reversegeo:latitude":52.160508,
+    "reversegeo:longitude":5.387394,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        1158790263,
+        404473971,
+        85633337,
+        101751821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"08d66458ef44eca7f0bc48b45f0ce03e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473971,
+            "locality_id":101751821,
+            "macrohood_id":1158790263,
+            "neighbourhood_id":1158787519,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158787519,
+    "wof:lastmodified":1513621935,
+    "wof:name":"Schimmelpenninckstraat",
+    "wof:parent_id":1158790263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38454237926876,
+    52.1591703540108,
+    5.3896950504187,
+    52.16172380437254
+],
+  "geometry": {"coordinates":[[[[5.3874119096292,52.16172380437254],[5.38781535892522,52.16143144328557],[5.38797708218693,52.16133978334056],[5.38884257422605,52.16098173058197],[5.3890360516528,52.16091429997222],[5.38905249266265,52.16090857417348],[5.38911151952741,52.16088799979204],[5.38946841836836,52.16060767787156],[5.38950233748407,52.16058103707229],[5.3896849818443,52.1604866418615],[5.3896950504187,52.16048363981062],[5.38959563994527,52.16041658315397],[5.38882209717423,52.15983448584551],[5.38860843594022,52.15974748587875],[5.3883337177838,52.15967163114353],[5.38762058021096,52.15956685545812],[5.38651041304509,52.15944187895714],[5.38540266489974,52.1592671704692],[5.38492486722459,52.1591703540108],[5.38454237926876,52.15940778037994],[5.38460135880599,52.15945522877323],[5.38546395429113,52.16015350621825],[5.38700088590954,52.16139286976304],[5.3874119096292,52.16172380437254]]]],"type":"MultiPolygon"}
+}

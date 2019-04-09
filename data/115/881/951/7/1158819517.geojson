@@ -1,0 +1,82 @@
+{
+  "id": 1158819517,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03970101",
+    "cbsnl:BU_NAAM":"Glipper Dreef en Staatsliedenbuurt",
+    "cbsnl:GM_CODE":"GM0397",
+    "cbsnl:GM_NAAM":"Heemstede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"646",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK039701",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":190437.237909,
+    "geom:bbox":"4.60898752581,52.3280644659,4.61656420816,52.3343074619",
+    "geom:latitude":52.331447,
+    "geom:longitude":4.612984,
+    "iso:country":"NL",
+    "lbl:latitude":52.331476,
+    "lbl:longitude":4.613242,
+    "mps:latitude":52.331476,
+    "mps:longitude":4.613242,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Glipper Dreef en Staatsliedenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Glipper Dreef en Staatsliedenbuurt"
+    ],
+    "reversegeo:latitude":52.331476,
+    "reversegeo:longitude":4.613242,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823229,
+        404474073,
+        85633337,
+        101754813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e8c8eb2f39d059e13fd28162e2e13c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474073,
+            "locality_id":101754813,
+            "macrohood_id":1158823229,
+            "neighbourhood_id":1158819517,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158819517,
+    "wof:lastmodified":1513464153,
+    "wof:name":"Glipper Dreef en Staatsliedenbuurt",
+    "wof:parent_id":1158823229,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.60898752580824,
+    52.32806446594099,
+    4.616564208162762,
+    52.334307461901105
+],
+  "geometry": {"coordinates":[[[[4.60898752580824,52.33203783776362],[4.6090612567026,52.33202532786373],[4.60915003441259,52.33206748121476],[4.61008849181423,52.33251574503467],[4.6112877834141,52.33340724953757],[4.61218905780357,52.3343074619011],[4.61507190013308,52.33339331942698],[4.61522227237773,52.333345634198],[4.61538016045278,52.33329638716781],[4.61546165242722,52.33265708729649],[4.61656420816276,52.33147340085998],[4.61644375544483,52.33134002028638],[4.616299631236,52.33118338229707],[4.61554938968983,52.33035394168774],[4.61476705625463,52.32949028530798],[4.61457886760001,52.32928344669688],[4.61400727246878,52.32865521711762],[4.61359929047203,52.32820148726126],[4.61354946163039,52.32814980407842],[4.61349502206166,52.32809331803865],[4.61346719378053,52.32806446594099],[4.61155021275257,52.32960810108001],[4.61013508165681,52.33089441147462],[4.60940396828871,52.3314078445597],[4.60898752580824,52.33203783776362]]]],"type":"MultiPolygon"}
+}

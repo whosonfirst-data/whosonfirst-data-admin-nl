@@ -1,0 +1,80 @@
+{
+  "id": 1158819639,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03990601",
+    "cbsnl:BU_NAAM":"Willibrord",
+    "cbsnl:GM_CODE":"GM0399",
+    "cbsnl:GM_NAAM":"Heiloo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1525",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK039906",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":253041.585223,
+    "geom:bbox":"4.7065603537,52.5930816789,4.71918390429,52.5983720024",
+    "geom:latitude":52.595709,
+    "geom:longitude":4.712766,
+    "iso:country":"NL",
+    "lbl:latitude":52.595849,
+    "lbl:longitude":4.712766,
+    "mps:latitude":52.595849,
+    "mps:longitude":4.712766,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Willibrord"
+    ],
+    "name:nld_x_preferred":[
+        "Willibrord"
+    ],
+    "reversegeo:latitude":52.595849,
+    "reversegeo:longitude":4.712766,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823321,
+        85633337,
+        101807337,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3cb7f5d5b679d283ee42cb0357a81c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101807337,
+            "macrohood_id":1158823321,
+            "neighbourhood_id":1158819639,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158819639,
+    "wof:lastmodified":1513464162,
+    "wof:name":"Willibrord",
+    "wof:parent_id":1158823321,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.70656035369545,
+    52.59308167888565,
+    4.719183904288601,
+    52.5983720024448
+],
+  "geometry": {"coordinates":[[[[4.7191839042886,52.59563520329364],[4.71871831197991,52.59494405911357],[4.71764419685047,52.59369813184385],[4.71709639165157,52.59308167888565],[4.71677272025875,52.59322336882554],[4.71223087533494,52.5945158412479],[4.71214595257996,52.59446315299238],[4.71189359108292,52.59414848632127],[4.7101701634276,52.59472599062027],[4.70993422665928,52.59473769757938],[4.70972072561253,52.59468427460408],[4.70931555906777,52.59455145054154],[4.70905598567327,52.59470658509186],[4.70838802458533,52.59493769615415],[4.70789190640027,52.59514368124538],[4.70656035369545,52.5955517968674],[4.70729935768938,52.5964814371814],[4.70881548653072,52.5983720024448],[4.71818260960527,52.59591417385954],[4.7191839042886,52.59563520329364]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158825601,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050102",
+    "cbsnl:BU_NAAM":"Grote Markt en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3487",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050501",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":41384.580431,
+    "geom:bbox":"4.66501024325,51.8149945255,4.66882130831,51.8175403881",
+    "geom:latitude":51.816372,
+    "geom:longitude":4.667082,
+    "iso:country":"NL",
+    "lbl:latitude":51.816212,
+    "lbl:longitude":4.667212,
+    "mps:latitude":51.816212,
+    "mps:longitude":4.667212,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Grote Markt en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Grote Markt en omgeving"
+    ],
+    "reversegeo:latitude":51.816212,
+    "reversegeo:longitude":4.667212,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829543,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b40208fd8802e6a759a1c4c2716fc4b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829543,
+            "neighbourhood_id":1158825601,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825601,
+    "wof:lastmodified":1513588005,
+    "wof:name":"Grote Markt en omgeving",
+    "wof:parent_id":1158829543,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.665010243250388,
+    51.8149945254605,
+    4.668821308308856,
+    51.817540388128556
+],
+  "geometry": {"coordinates":[[[[4.66882130830886,51.81710575321356],[4.66863525217098,51.81601252616021],[4.66860672870302,51.81591639589158],[4.66836423194662,51.81569710774738],[4.66762357298222,51.81527986272431],[4.66691571352043,51.8149945254605],[4.66675732549993,51.81520715112946],[4.66596691935221,51.81610958626171],[4.66501024325039,51.8166508617677],[4.66542639879272,51.81687817445303],[4.66542935649102,51.81754038812856],[4.6665437144354,51.81719035007701],[4.66809054233703,51.81706669796478],[4.66813318688556,51.81720369526229],[4.66882130830886,51.81710575321356]]]],"type":"MultiPolygon"}
+}

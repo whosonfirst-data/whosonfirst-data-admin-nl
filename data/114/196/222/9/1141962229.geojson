@@ -1,0 +1,80 @@
+{
+  "id": 1141962229,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02021366",
+    "cbsnl:BU_NAAM":"Schaarsbergen",
+    "cbsnl:GM_CODE":"GM0202",
+    "cbsnl:GM_NAAM":"Arnhem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"45",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK020213",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000152,
+    "geom:area_square_m":1160105.463124,
+    "geom:bbox":"5.86261535216,52.0127912804,5.87754644257,52.0325452111",
+    "geom:latitude":52.024404,
+    "geom:longitude":5.870985,
+    "iso:country":"NL",
+    "lbl:latitude":52.027665,
+    "lbl:longitude":5.869627,
+    "mps:latitude":52.027665,
+    "mps:longitude":5.869627,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schaarsbergen"
+    ],
+    "name:nld_x_preferred":[
+        "Schaarsbergen"
+    ],
+    "reversegeo:latitude":52.027665,
+    "reversegeo:longitude":5.869627,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473871,
+        85633337,
+        101855369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"951c3e64600b1b88fedcfa14d292c382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473871,
+            "locality_id":101855369,
+            "neighbourhood_id":1141962229,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962229,
+    "wof:lastmodified":1513368657,
+    "wof:name":"Schaarsbergen",
+    "wof:parent_id":101855369,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.862615352164228,
+    52.01279128040138,
+    5.877546442572746,
+    52.03254521111655
+],
+  "geometry": {"coordinates":[[[[5.87754644257275,52.01418088141762],[5.87637903402634,52.0139279232766],[5.87277045325378,52.01309924099977],[5.87203916101167,52.01279128040138],[5.87219906115059,52.01397168032955],[5.86488483233664,52.02760622785554],[5.86348892858387,52.02788153310112],[5.86261535216423,52.03206459828452],[5.86660666137564,52.03191628023988],[5.87057040321639,52.03178142294414],[5.87541244031274,52.03254521111655],[5.875917764367,52.02517005097811],[5.87456659452209,52.02552619660554],[5.87320083318966,52.02588238690501],[5.87754644257275,52.01418088141762]]]],"type":"MultiPolygon"}
+}

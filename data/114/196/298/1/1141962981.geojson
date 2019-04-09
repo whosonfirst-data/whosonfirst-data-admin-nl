@@ -1,0 +1,80 @@
+{
+  "id": 1141962981,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02260306",
+    "cbsnl:BU_NAAM":"De Ploen",
+    "cbsnl:GM_CODE":"GM0226",
+    "cbsnl:GM_NAAM":"Duiven",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1126",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022603",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:area_square_m":478551.458513,
+    "geom:bbox":"6.00710060257,51.9521430838,6.02759320942,51.9588533926",
+    "geom:latitude":51.955714,
+    "geom:longitude":6.01755,
+    "iso:country":"NL",
+    "lbl:latitude":51.956658,
+    "lbl:longitude":6.017394,
+    "mps:latitude":51.956658,
+    "mps:longitude":6.017394,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Ploen"
+    ],
+    "name:nld_x_preferred":[
+        "De Ploen"
+    ],
+    "reversegeo:latitude":51.956658,
+    "reversegeo:longitude":6.017394,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473891,
+        85633337,
+        101837765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"dc5116c7fb5490aa14c6aac43976d57e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473891,
+            "locality_id":101837765,
+            "neighbourhood_id":1141962981,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962981,
+    "wof:lastmodified":1513368716,
+    "wof:name":"De Ploen",
+    "wof:parent_id":101837765,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.007100602569328,
+    51.95214308378941,
+    6.027593209416315,
+    51.95885339261458
+],
+  "geometry": {"coordinates":[[[[6.02759320941631,51.95602430275151],[6.02638771852411,51.95385134450957],[6.0235730693362,51.95492612833747],[6.01705937069447,51.95448397646799],[6.01602128898419,51.95302872327122],[6.01666268758822,51.95214308378941],[6.00710060256933,51.95431632822683],[6.0106402495083,51.95548388006395],[6.01584171156262,51.95872547816732],[6.01821739151883,51.95885339261458],[6.02241128229152,51.95757727241621],[6.02759320941631,51.95602430275151]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158793463,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16510202",
+    "cbsnl:BU_NAAM":"Rottum",
+    "cbsnl:GM_CODE":"GM1651",
+    "cbsnl:GM_NAAM":"Eemsmond",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"19",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK165102",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":124151.569757,
+    "geom:bbox":"6.61759942739,53.3808549465,6.6232990652,53.3845768755",
+    "geom:latitude":53.382691,
+    "geom:longitude":6.620456,
+    "iso:country":"NL",
+    "lbl:latitude":53.382721,
+    "lbl:longitude":6.620456,
+    "mps:latitude":53.382721,
+    "mps:longitude":6.620456,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Rottum"
+    ],
+    "name:nld_x_preferred":[
+        "Rottum"
+    ],
+    "reversegeo:latitude":53.382721,
+    "reversegeo:longitude":6.620456,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404474561,
+        85633337,
+        1158796637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ba3fb2fbb0bda773b4c60b801103deae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474561,
+            "locality_id":1158796637,
+            "neighbourhood_id":1158793463,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793463,
+    "wof:lastmodified":1513382309,
+    "wof:name":"Rottum",
+    "wof:parent_id":1158796637,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.617599427394974,
+    53.380854946489585,
+    6.623299065195007,
+    53.3845768755454
+],
+  "geometry": {"coordinates":[[[[6.62110369329471,53.38455645420306],[6.62232189296686,53.38421540722904],[6.62289779651028,53.38380119309466],[6.62329906519501,53.38307145421729],[6.62326062128738,53.38210136393297],[6.62276385944673,53.38159932133413],[6.62211706046864,53.38116283963213],[6.6212220986264,53.38098107009177],[6.62037687650277,53.38085494648958],[6.61946475744299,53.38095920721015],[6.61842217730801,53.38119003696522],[6.61773074869815,53.38154756329781],[6.61759942739497,53.38184937352046],[6.61782580072427,53.38276868269704],[6.61775927100685,53.38328324689132],[6.61860462356102,53.38415072971399],[6.61956147259971,53.38444140260125],[6.62042652188581,53.3845768755454],[6.62110369329471,53.38455645420306]]]],"type":"MultiPolygon"}
+}

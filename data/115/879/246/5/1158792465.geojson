@@ -1,0 +1,80 @@
+{
+  "id": 1158792465,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00090106",
+    "cbsnl:BU_NAAM":"Lellens",
+    "cbsnl:GM_CODE":"GM0009",
+    "cbsnl:GM_NAAM":"Ten Boer",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"42",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK000901",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":282085.464428,
+    "geom:bbox":"6.70576484507,53.2971254116,6.71447679953,53.3030193182",
+    "geom:latitude":53.300166,
+    "geom:longitude":6.709982,
+    "iso:country":"NL",
+    "lbl:latitude":53.300035,
+    "lbl:longitude":6.709899,
+    "mps:latitude":53.300035,
+    "mps:longitude":6.709899,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Lellens"
+    ],
+    "name:nld_x_preferred":[
+        "Lellens"
+    ],
+    "reversegeo:latitude":53.300035,
+    "reversegeo:longitude":6.709899,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473709,
+        85633337,
+        1158796535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d9783e895a6a1372e00a6e91d1c2cff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473709,
+            "locality_id":1158796535,
+            "neighbourhood_id":1158792465,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158792465,
+    "wof:lastmodified":1513382246,
+    "wof:name":"Lellens",
+    "wof:parent_id":1158796535,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.705764845067821,
+    53.29712541157565,
+    6.714476799531642,
+    53.30301931822024
+],
+  "geometry": {"coordinates":[[[[6.70874731627551,53.29712812797595],[6.70827612471359,53.29731584454333],[6.70733721031661,53.29771314145773],[6.70653685741691,53.29846499198807],[6.70597497138155,53.29922096155297],[6.70576484506782,53.29995284687877],[6.70584294120001,53.3008433254349],[6.70611660893485,53.30145307787154],[6.70700291792779,53.30217517328015],[6.70818895327404,53.30260303197137],[6.70985090774805,53.30293353330448],[6.71113923355981,53.30301931822024],[6.7125074082802,53.30272846529358],[6.71354650813334,53.3019818037685],[6.71421120111766,53.30105841550886],[6.71447679953164,53.30018380370753],[6.71405843013731,53.29946052822392],[6.71327801627558,53.29876202972051],[6.71188439176716,53.29783102420906],[6.71006579837803,53.29712541157565],[6.70918964534342,53.29716875417435],[6.70897017267769,53.29715768931516],[6.70874731627551,53.29712812797595]]]],"type":"MultiPolygon"}
+}

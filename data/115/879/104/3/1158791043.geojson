@@ -1,0 +1,80 @@
+{
+  "id": 1158791043,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01185300",
+    "cbsnl:BU_NAAM":"Elim Kern",
+    "cbsnl:GM_CODE":"GM0118",
+    "cbsnl:GM_NAAM":"Hoogeveen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"258",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011853",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:area_square_m":684864.703395,
+    "geom:bbox":"6.56952750839,52.6781651046,6.59009719836,52.6840444071",
+    "geom:latitude":52.68115,
+    "geom:longitude":6.58057,
+    "iso:country":"NL",
+    "lbl:latitude":52.681041,
+    "lbl:longitude":6.581403,
+    "mps:latitude":52.681041,
+    "mps:longitude":6.581403,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Elim Kern"
+    ],
+    "name:nld_x_preferred":[
+        "Elim Kern"
+    ],
+    "reversegeo:latitude":52.681041,
+    "reversegeo:longitude":6.581403,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473811,
+        85633337,
+        101807297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"36c596f75a41501ace981f9074e14dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473811,
+            "locality_id":101807297,
+            "neighbourhood_id":1158791043,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791043,
+    "wof:lastmodified":1513292314,
+    "wof:name":"Elim Kern",
+    "wof:parent_id":101807297,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.56952750839289,
+    52.67816510458551,
+    6.590097198361386,
+    52.68404440712688
+],
+  "geometry": {"coordinates":[[[[6.57109934681133,52.68359936069778],[6.57497230154257,52.6834480708515],[6.57498288274723,52.68347564770699],[6.575269863666,52.68346446774138],[6.57530182716537,52.68376752181104],[6.57625157582062,52.68373087847751],[6.576256986722,52.68378247397454],[6.57626361471009,52.68384888462439],[6.5791829444095,52.68374121537106],[6.57921405424735,52.68404440712688],[6.58097977036747,52.68397531224199],[6.58094233471171,52.6836165718374],[6.58695685657681,52.68338422935741],[6.58691640434304,52.68297494418495],[6.59009719836139,52.6828488868919],[6.58949915443333,52.67816510458551],[6.57473338870228,52.67874475233869],[6.57486163841907,52.67949738423322],[6.57427779173776,52.67952252635675],[6.57434427153598,52.68037792788809],[6.56952750839289,52.68057129765221],[6.5697865609085,52.68289207417593],[6.57102568593869,52.68284040169384],[6.57109934681133,52.68359936069778]]]],"type":"MultiPolygon"}
+}

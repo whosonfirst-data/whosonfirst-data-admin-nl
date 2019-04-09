@@ -1,0 +1,82 @@
+{
+  "id": 1158798639,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08280607",
+    "cbsnl:BU_NAAM":"Witte Hoef",
+    "cbsnl:GM_CODE":"GM0828",
+    "cbsnl:GM_NAAM":"Oss",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"920",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082806",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000098,
+    "geom:area_square_m":752990.852,
+    "geom:bbox":"5.5158472398,51.7428885981,5.53359688694,51.7524543069",
+    "geom:latitude":51.74758,
+    "geom:longitude":5.526018,
+    "iso:country":"NL",
+    "lbl:latitude":51.747737,
+    "lbl:longitude":5.526018,
+    "mps:latitude":51.747737,
+    "mps:longitude":5.526018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Witte Hoef"
+    ],
+    "name:nld_x_preferred":[
+        "Witte Hoef"
+    ],
+    "reversegeo:latitude":51.747737,
+    "reversegeo:longitude":5.526018,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801743,
+        404474415,
+        85633337,
+        101751807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"bf6300e3be7fd867f4464c6853e21f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":101751807,
+            "macrohood_id":1158801743,
+            "neighbourhood_id":1158798639,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798639,
+    "wof:lastmodified":1513432689,
+    "wof:name":"Witte Hoef",
+    "wof:parent_id":1158801743,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.515847239798747,
+    51.74288859812698,
+    5.533596886935995,
+    51.75245430694075
+],
+  "geometry": {"coordinates":[[[[5.533596886936,51.75245430694075],[5.53315503039742,51.74716262870195],[5.53286239818631,51.74454426295549],[5.53063331095225,51.74400265296659],[5.52857855040836,51.7449989371918],[5.52550802344006,51.74457986736048],[5.52518013763815,51.74485664920203],[5.52388448434743,51.74494777331236],[5.52079258510672,51.74424883715551],[5.51896419978151,51.74288859812698],[5.51868521471625,51.74334142482931],[5.51584723979875,51.74538383318529],[5.51829349264044,51.7471981901168],[5.51745951692907,51.74821790609791],[5.52861852911632,51.75161691554595],[5.5318758236461,51.75225673353478],[5.533596886936,51.75245430694075]]]],"type":"MultiPolygon"}
+}

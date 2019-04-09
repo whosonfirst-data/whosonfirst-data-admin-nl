@@ -1,0 +1,80 @@
+{
+  "id": 1158803905,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17350606",
+    "cbsnl:BU_NAAM":"Hooijerinkses",
+    "cbsnl:GM_CODE":"GM1735",
+    "cbsnl:GM_NAAM":"Hof van Twente",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"982",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK173506",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:area_square_m":156975.749238,
+    "geom:bbox":"6.70996609521,52.2570885104,6.71933029955,52.2601739074",
+    "geom:latitude":52.258775,
+    "geom:longitude":6.714207,
+    "iso:country":"NL",
+    "lbl:latitude":52.2588,
+    "lbl:longitude":6.714207,
+    "mps:latitude":52.2588,
+    "mps:longitude":6.714207,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hooijerinkses"
+    ],
+    "name:nld_x_preferred":[
+        "Hooijerinkses"
+    ],
+    "reversegeo:latitude":52.2588,
+    "reversegeo:longitude":6.714207,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474653,
+        85633337,
+        101807169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"dc420c18e2cc48f2f63687eb18689abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474653,
+            "locality_id":101807169,
+            "neighbourhood_id":1158803905,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803905,
+    "wof:lastmodified":1513524369,
+    "wof:name":"Hooijerinkses",
+    "wof:parent_id":101807169,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.709966095211132,
+    52.25708851039196,
+    6.719330299546385,
+    52.2601739074202
+],
+  "geometry": {"coordinates":[[[[6.71840847773779,52.2601739074202],[6.71835527607646,52.25977281802798],[6.71916980203081,52.25854733764307],[6.71933029954639,52.25830626509862],[6.71831043565218,52.25822639040582],[6.71774571182238,52.2581266870358],[6.71762335244145,52.25800874171305],[6.71524926650842,52.25773051884367],[6.71319838657715,52.25742210745486],[6.71134171293506,52.25710485189357],[6.71043382261496,52.25708851039196],[6.71010081008255,52.25717731756581],[6.71033288618307,52.25742698205484],[6.70996609521113,52.25755328223003],[6.71009365557095,52.25805607025808],[6.71028556535187,52.25864465246004],[6.71048014563793,52.25913039821904],[6.71001094067895,52.25985391471518],[6.71045005807642,52.25988860293681],[6.71061593740123,52.25990191435675],[6.71840847773779,52.2601739074202]]]],"type":"MultiPolygon"}
+}

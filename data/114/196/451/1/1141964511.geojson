@@ -1,0 +1,80 @@
+{
+  "id": 1141964511,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02990011",
+    "cbsnl:BU_NAAM":"Mercurion",
+    "cbsnl:GM_CODE":"GM0299",
+    "cbsnl:GM_NAAM":"Zevenaar",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"816",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK029900",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:area_square_m":537340.093683,
+    "geom:bbox":"6.06038204347,51.9408872969,6.08286437229,51.9490830612",
+    "geom:latitude":51.944606,
+    "geom:longitude":6.071318,
+    "iso:country":"NL",
+    "lbl:latitude":51.944773,
+    "lbl:longitude":6.071319,
+    "mps:latitude":51.944773,
+    "mps:longitude":6.071319,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Mercurion"
+    ],
+    "name:nld_x_preferred":[
+        "Mercurion"
+    ],
+    "reversegeo:latitude":51.944773,
+    "reversegeo:longitude":6.071319,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473957,
+        85633337,
+        101809869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5c1d19a3e42bca5e89768a0953e8aedb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473957,
+            "locality_id":101809869,
+            "neighbourhood_id":1141964511,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141964511,
+    "wof:lastmodified":1513368825,
+    "wof:name":"Mercurion",
+    "wof:parent_id":101809869,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.060382043473601,
+    51.94088729691055,
+    6.082864372286708,
+    51.94908306121347
+],
+  "geometry": {"coordinates":[[[[6.06326291897103,51.94908306121347],[6.07141447193689,51.94645474203076],[6.07607828835605,51.94494125328879],[6.0795494611949,51.94364623244618],[6.08286437228671,51.9421793043352],[6.0828333210428,51.94212932714356],[6.08265179271718,51.94183715839668],[6.08215617670422,51.94088729691055],[6.08059319788821,51.94110239602519],[6.08048151576735,51.94114228411469],[6.08013140521164,51.94106690187536],[6.07944315606567,51.94103117471489],[6.07314437999149,51.94121195612036],[6.07324099450588,51.94244480515898],[6.06881961442395,51.9438608198344],[6.06530981886627,51.94498008847189],[6.06490292539418,51.94445981730426],[6.06111029634506,51.94564823381302],[6.06105061174381,51.94561459266586],[6.06108585104159,51.94565589381414],[6.0603820434736,51.94588087271959],[6.06046153926157,51.94596674286389],[6.06046294340259,51.94596826325885],[6.06302246721677,51.94881738704771],[6.06302921230664,51.9488248450719],[6.06326291897103,51.94908306121347]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158788137,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03270104",
+    "cbsnl:BU_NAAM":"Alandsbeek-West",
+    "cbsnl:GM_CODE":"GM0327",
+    "cbsnl:GM_NAAM":"Leusden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1510",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK032701",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":87217.056283,
+    "geom:bbox":"5.43793053121,52.1324259293,5.44092610146,52.1366819908",
+    "geom:latitude":52.134527,
+    "geom:longitude":5.43943,
+    "iso:country":"NL",
+    "lbl:latitude":52.134541,
+    "lbl:longitude":5.43943,
+    "mps:latitude":52.134541,
+    "mps:longitude":5.43943,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Alandsbeek-West"
+    ],
+    "name:nld_x_preferred":[
+        "Alandsbeek-West"
+    ],
+    "reversegeo:latitude":52.134541,
+    "reversegeo:longitude":5.43943,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        1158790309,
+        404473989,
+        85633337,
+        101837659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"37dd3bb50692f469d62394d378b02bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473989,
+            "locality_id":101837659,
+            "macrohood_id":1158790309,
+            "neighbourhood_id":1158788137,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788137,
+    "wof:lastmodified":1513621984,
+    "wof:name":"Alandsbeek-West",
+    "wof:parent_id":1158790309,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.437930531209591,
+    52.132425929326196,
+    5.440926101462099,
+    52.13668199079975
+],
+  "geometry": {"coordinates":[[[[5.4409261014621,52.13655326573247],[5.44069770886301,52.1324259293262],[5.43931596560552,52.13245997453686],[5.4379549480064,52.13246141104664],[5.43793053120959,52.13286138594555],[5.43821081221306,52.13668199079975],[5.4409261014621,52.13655326573247]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1141963109,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02284003",
+    "cbsnl:BU_NAAM":"Lunteren-Oost",
+    "cbsnl:GM_CODE":"GM0228",
+    "cbsnl:GM_NAAM":"Ede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"739",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022840",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000073,
+    "geom:area_square_m":552568.910375,
+    "geom:bbox":"5.62210102666,52.0795035455,5.63498482776,52.0927394346",
+    "geom:latitude":52.085856,
+    "geom:longitude":5.627276,
+    "iso:country":"NL",
+    "lbl:latitude":52.085495,
+    "lbl:longitude":5.627178,
+    "mps:latitude":52.085495,
+    "mps:longitude":5.627178,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Lunteren-Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Lunteren-Oost"
+    ],
+    "reversegeo:latitude":52.085495,
+    "reversegeo:longitude":5.627178,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473893,
+        85633337,
+        101807071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ac106f930b75156afb63918eb279ed56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473893,
+            "locality_id":101807071,
+            "neighbourhood_id":1141963109,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963109,
+    "wof:lastmodified":1513368723,
+    "wof:name":"Lunteren-Oost",
+    "wof:parent_id":101807071,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.622101026655161,
+    52.07950354552303,
+    5.634984827760712,
+    52.092739434649566
+],
+  "geometry": {"coordinates":[[[[5.62307800923026,52.09273943464957],[5.62647922520148,52.09196333941836],[5.6292249025754,52.08776773818529],[5.63024921482384,52.08484249407176],[5.63063608267973,52.08366823966561],[5.63244319306622,52.08255361828002],[5.63498482776071,52.08072403820188],[5.62971737502146,52.07950354552303],[5.62937665783092,52.07975251384556],[5.62682546027595,52.08150909547756],[5.62628643141468,52.08191888786423],[5.6256954567885,52.08259654612944],[5.62527301315872,52.08329092069081],[5.62448205102112,52.08492093887643],[5.62363746679326,52.08653361383685],[5.62318433354568,52.08731723906822],[5.62250463429284,52.08845810526961],[5.62232402480063,52.08890932549218],[5.62215981016378,52.08957655797543],[5.62210102665516,52.08999935642888],[5.6221114234108,52.09052534383003],[5.62219751731588,52.09094785371727],[5.62234522453337,52.09148765081229],[5.62288378458141,52.09240708614404],[5.62307800923026,52.09273943464957]]]],"type":"MultiPolygon"}
+}

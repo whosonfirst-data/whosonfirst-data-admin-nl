@@ -1,0 +1,80 @@
+{
+  "id": 1158800169,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17090005",
+    "cbsnl:BU_NAAM":"Schansdijk en omgeving",
+    "cbsnl:GM_CODE":"GM1709",
+    "cbsnl:GM_NAAM":"Moerdijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"964",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170900",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":489199.544377,
+    "geom:bbox":"4.60378919417,51.6467552848,4.61668613529,51.6538707724",
+    "geom:latitude":51.650414,
+    "geom:longitude":4.611056,
+    "iso:country":"NL",
+    "lbl:latitude":51.650299,
+    "lbl:longitude":4.611056,
+    "mps:latitude":51.650299,
+    "mps:longitude":4.611056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schansdijk en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Schansdijk en omgeving"
+    ],
+    "reversegeo:latitude":51.650299,
+    "reversegeo:longitude":4.611056,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474623,
+        85633337,
+        101809653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1d8c8172a1973d4a2ee52ed097f8c3a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474623,
+            "locality_id":101809653,
+            "neighbourhood_id":1158800169,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158800169,
+    "wof:lastmodified":1513432805,
+    "wof:name":"Schansdijk en omgeving",
+    "wof:parent_id":101809653,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.603789194170807,
+    51.64675528477662,
+    4.616686135293434,
+    51.65387077238866
+],
+  "geometry": {"coordinates":[[[[4.60785121848583,51.64779794037528],[4.60757958209392,51.64821327138799],[4.60601031936394,51.65031070265384],[4.60505268754002,51.65146022289077],[4.60378919417081,51.65241274127708],[4.60727937189552,51.65297622329401],[4.60841517696154,51.65373435671357],[4.6126430153307,51.65385313929374],[4.61612249561939,51.65387077238866],[4.61529277453515,51.65210348467552],[4.6148889349202,51.65138255414109],[4.61520617312051,51.65032227279671],[4.61654109298006,51.64778806019495],[4.61668613529343,51.64766935171702],[4.61590785255096,51.647043149997],[4.61566897729253,51.64681882057496],[4.61421355043035,51.64675528477662],[4.61116585893589,51.64678174700639],[4.60929226025728,51.64692577228985],[4.60808417369836,51.64743909251887],[4.60785121848583,51.64779794037528]]]],"type":"MultiPolygon"}
+}

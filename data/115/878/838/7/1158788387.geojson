@@ -1,0 +1,80 @@
+{
+  "id": 1158788387,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03450200",
+    "cbsnl:BU_NAAM":"Engelenburg",
+    "cbsnl:GM_CODE":"GM0345",
+    "cbsnl:GM_NAAM":"Veenendaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2753",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK034502",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":636428.916003,
+    "geom:bbox":"5.55080901289,52.0159771422,5.56978625873,52.0234362817",
+    "geom:latitude":52.020353,
+    "geom:longitude":5.559917,
+    "iso:country":"NL",
+    "lbl:latitude":52.019898,
+    "lbl:longitude":5.560098,
+    "mps:latitude":52.019898,
+    "mps:longitude":5.560098,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Engelenburg"
+    ],
+    "name:nld_x_preferred":[
+        "Engelenburg"
+    ],
+    "reversegeo:latitude":52.019898,
+    "reversegeo:longitude":5.560098,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158790339,
+        85633337,
+        101751829,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b292909339fac7de8c3ef5c4c9be23cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751829,
+            "macrohood_id":1158790339,
+            "neighbourhood_id":1158788387,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788387,
+    "wof:lastmodified":1513622005,
+    "wof:name":"Engelenburg",
+    "wof:parent_id":1158790339,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.550809012893836,
+    52.015977142153915,
+    5.56978625872571,
+    52.02343628169185
+],
+  "geometry": {"coordinates":[[[[5.55765048455007,52.02324995906433],[5.55906232861768,52.0231804933131],[5.56310265690625,52.02289448135193],[5.56315932536739,52.02289046536758],[5.56732392232515,52.02261086575723],[5.56967456437072,52.02243562434001],[5.56978625872571,52.02235989499918],[5.56956140740773,52.02220744550354],[5.56243292704168,52.01597714215391],[5.56232084132487,52.01600989115368],[5.5614814482717,52.01625437877164],[5.55939674537781,52.01690824724693],[5.55704235060853,52.01764869904353],[5.55492125799019,52.01840590635153],[5.55080901289384,52.02015623967476],[5.55337473946004,52.02324006674564],[5.55353389340598,52.02343112211837],[5.55379024120146,52.02343525333159],[5.55385740186496,52.02343628169185],[5.55765048455007,52.02324995906433]]]],"type":"MultiPolygon"}
+}

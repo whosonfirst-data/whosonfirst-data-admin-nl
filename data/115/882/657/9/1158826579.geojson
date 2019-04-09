@@ -1,0 +1,80 @@
+{
+  "id": 1158826579,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05690005",
+    "cbsnl:BU_NAAM":"Uitbreiding dorpskern Noorden",
+    "cbsnl:GM_CODE":"GM0569",
+    "cbsnl:GM_NAAM":"Nieuwkoop",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"213",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK056900",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":152174.443917,
+    "geom:bbox":"4.82354333806,52.1647534598,4.82981320476,52.1696305495",
+    "geom:latitude":52.167298,
+    "geom:longitude":4.826868,
+    "iso:country":"NL",
+    "lbl:latitude":52.167146,
+    "lbl:longitude":4.827118,
+    "mps:latitude":52.167146,
+    "mps:longitude":4.827118,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Uitbreiding dorpskern Noorden"
+    ],
+    "name:nld_x_preferred":[
+        "Uitbreiding dorpskern Noorden"
+    ],
+    "reversegeo:latitude":52.167146,
+    "reversegeo:longitude":4.827118,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474217,
+        85633337,
+        101855297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0570a60e06eaf7179f9db8338a1d8f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474217,
+            "locality_id":101855297,
+            "neighbourhood_id":1158826579,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826579,
+    "wof:lastmodified":1513588075,
+    "wof:name":"Uitbreiding dorpskern Noorden",
+    "wof:parent_id":101855297,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.823543338056571,
+    52.164753459793836,
+    4.829813204762531,
+    52.16963054949723
+],
+  "geometry": {"coordinates":[[[[4.82354333805657,52.16963054949723],[4.82581881756324,52.16943596379206],[4.82861103262158,52.16922447243632],[4.82873033647733,52.16907038087345],[4.82897719070801,52.16832788616939],[4.82928285159582,52.16724666021242],[4.82938380443828,52.16688953536494],[4.82981320476253,52.16537046731994],[4.82957626619898,52.16534850814557],[4.82957955419849,52.16532218697827],[4.82585809253517,52.16475345979384],[4.8252170808447,52.16610143373845],[4.82354333805657,52.16963054949723]]]],"type":"MultiPolygon"}
+}

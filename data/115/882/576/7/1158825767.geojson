@@ -1,0 +1,80 @@
+{
+  "id": 1158825767,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050908",
+    "cbsnl:BU_NAAM":"Vredenburg en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1672",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050509",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":330920.664483,
+    "geom:bbox":"4.67436733383,51.7715088412,4.68769748146,51.7787052537",
+    "geom:latitude":51.775039,
+    "geom:longitude":4.682074,
+    "iso:country":"NL",
+    "lbl:latitude":51.776253,
+    "lbl:longitude":4.684952,
+    "mps:latitude":51.776253,
+    "mps:longitude":4.684952,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vredenburg en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Vredenburg en omgeving"
+    ],
+    "reversegeo:latitude":51.776253,
+    "reversegeo:longitude":4.684952,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829529,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"15271588709fb995e8b3a5c676d2a2b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829529,
+            "neighbourhood_id":1158825767,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825767,
+    "wof:lastmodified":1513588015,
+    "wof:name":"Vredenburg en omgeving",
+    "wof:parent_id":1158829529,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.674367333829027,
+    51.77150884116728,
+    4.687697481464037,
+    51.778705253716936
+],
+  "geometry": {"coordinates":[[[[4.68769748146404,51.7786008747428],[4.68747292947101,51.77450515265151],[4.68744702093359,51.77449812707402],[4.67607891248547,51.77150884116728],[4.67580907363554,51.7718577825635],[4.67562848593087,51.77220606888775],[4.67524795751664,51.77327573579744],[4.67436733382903,51.7744535258299],[4.67459112839595,51.77500125557359],[4.67742143838507,51.77457805217313],[4.67855150047307,51.77491956196905],[4.6808586546856,51.77451073219661],[4.68140731576242,51.77572944261869],[4.68211971079717,51.77603317735552],[4.68241518263314,51.77624632217967],[4.6825615525881,51.77644096237952],[4.68304859019267,51.77778259270934],[4.68314707845515,51.77870525371694],[4.68769748146404,51.7786008747428]]]],"type":"MultiPolygon"}
+}

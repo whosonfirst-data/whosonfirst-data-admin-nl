@@ -1,0 +1,80 @@
+{
+  "id": 1158796717,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07380400",
+    "cbsnl:BU_NAAM":"Meeuwen",
+    "cbsnl:GM_CODE":"GM0738",
+    "cbsnl:GM_NAAM":"Aalburg",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"91",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK073804",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000065,
+    "geom:area_square_m":498872.473877,
+    "geom:bbox":"5.0032763525,51.7247102809,5.02171746244,51.7298497081",
+    "geom:latitude":51.727262,
+    "geom:longitude":5.012629,
+    "iso:country":"NL",
+    "lbl:latitude":51.727149,
+    "lbl:longitude":5.012629,
+    "mps:latitude":51.727149,
+    "mps:longitude":5.012629,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Meeuwen"
+    ],
+    "name:nld_x_preferred":[
+        "Meeuwen"
+    ],
+    "reversegeo:latitude":51.727149,
+    "reversegeo:longitude":5.012629,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474345,
+        85633337,
+        1158801555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"99dcd58edaddbf2ad401eee4cc155d8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474345,
+            "locality_id":1158801555,
+            "neighbourhood_id":1158796717,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158796717,
+    "wof:lastmodified":1513432541,
+    "wof:name":"Meeuwen",
+    "wof:parent_id":1158801555,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.003276352502651,
+    51.72471028088391,
+    5.021717462443112,
+    51.72984970812549
+],
+  "geometry": {"coordinates":[[[[5.0186788517803,51.72471028088391],[5.01560800296142,51.72483625777564],[5.01240645781361,51.72519010103456],[5.01028876087661,51.7255619533077],[5.00713894468742,51.72612704992906],[5.00327635250265,51.72708775319165],[5.00377399380074,51.72984970812549],[5.00686050276324,51.72962718426202],[5.01120351427032,51.72922210380381],[5.01667483722886,51.72887998331605],[5.02015856046405,51.72874459637963],[5.02089333628086,51.72666970161773],[5.02171746244311,51.7255206175403],[5.02155687590623,51.72515973196796],[5.0203114081728,51.72488983528864],[5.0186788517803,51.72471028088391]]]],"type":"MultiPolygon"}
+}

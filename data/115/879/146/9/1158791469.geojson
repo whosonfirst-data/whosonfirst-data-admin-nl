@@ -1,0 +1,80 @@
+{
+  "id": 1158791469,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16900804",
+    "cbsnl:BU_NAAM":"Hees",
+    "cbsnl:GM_CODE":"GM1690",
+    "cbsnl:GM_NAAM":"De Wolden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"16",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK169008",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":284299.54506,
+    "geom:bbox":"6.36101766179,52.7446164218,6.37413307907,52.7518584832",
+    "geom:latitude":52.748533,
+    "geom:longitude":6.366731,
+    "iso:country":"NL",
+    "lbl:latitude":52.749107,
+    "lbl:longitude":6.366731,
+    "mps:latitude":52.749107,
+    "mps:longitude":6.366731,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hees"
+    ],
+    "name:nld_x_preferred":[
+        "Hees"
+    ],
+    "reversegeo:latitude":52.749107,
+    "reversegeo:longitude":6.366731,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474601,
+        85633337,
+        101808787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7d9d943b91613b9eb2d99449c80c9b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474601,
+            "locality_id":101808787,
+            "neighbourhood_id":1158791469,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791469,
+    "wof:lastmodified":1513292341,
+    "wof:name":"Hees",
+    "wof:parent_id":101808787,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.361017661787125,
+    52.74461642184204,
+    6.374133079070599,
+    52.75185848315132
+],
+  "geometry": {"coordinates":[[[[6.36132583826931,52.74461642184204],[6.36101766178713,52.74687926473456],[6.36130268269519,52.74737573158494],[6.36280403818737,52.74855875737749],[6.36475071044662,52.74977181158637],[6.36643363332385,52.75051741422261],[6.36754587669156,52.75084809717666],[6.36960501073114,52.7512546545898],[6.37327548709476,52.75185848315132],[6.3741330790706,52.74981798614054],[6.37237633105482,52.74941686929215],[6.36943938037777,52.74882044575894],[6.36841892105429,52.74843229250467],[6.36692740014595,52.74775816526851],[6.36546726195005,52.74664225731597],[6.36495980351519,52.74586508564052],[6.36502568727994,52.74490738982345],[6.36132583826931,52.74461642184204]]]],"type":"MultiPolygon"}
+}

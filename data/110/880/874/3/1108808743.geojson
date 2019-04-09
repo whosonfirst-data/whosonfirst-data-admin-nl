@@ -1,0 +1,73 @@
+{
+  "id": 1108808743,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03440113",
+    "cbsnl:BU_NAAM":"Halve Maan-Zuid",
+    "cbsnl:GM_CODE":"GM0344",
+    "cbsnl:GM_NAAM":"Utrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2501",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK034401",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":231249.206345,
+    "geom:bbox":"5.07892890504,52.0815517843,5.08759922179,52.0885955857",
+    "geom:latitude":52.084674,
+    "geom:longitude":5.082282,
+    "iso:country":"NL",
+    "lbl:latitude":52.084307,
+    "lbl:longitude":5.081856,
+    "mps:latitude":52.084307,
+    "mps:longitude":5.081856,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "reversegeo:latitude":52.084307,
+    "reversegeo:longitude":5.081856,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        85633337,
+        101751827,
+        1108808675,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b2b65569545d1996a992a59983d4cb94",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108808675,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808743,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1108808743,
+    "wof:lastmodified":1507246057,
+    "wof:name":"Halve Maan-Zuid",
+    "wof:parent_id":1108808675,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.07892890504123,
+    52.08155178430257,
+    5.08759922178622,
+    52.08859558566699
+],
+  "geometry": {"coordinates":[[[5.08315722509634,52.08738830846294],[5.08323808099817,52.08692943239133],[5.08365037613974,52.08514661165805],[5.08392337751725,52.08468844514842],[5.08459831169809,52.08396744767275],[5.08585998654956,52.08317911657674],[5.08759922178622,52.08263577038476],[5.08700748550206,52.08206067205391],[5.08648814188774,52.08179549391297],[5.08591253536405,52.08159326624931],[5.08539168064064,52.08155178430257],[5.08248533869579,52.08198023946498],[5.08143319689552,52.08206355814545],[5.08028918703982,52.08217235221117],[5.08028432244768,52.08219457607567],[5.07892890504123,52.08839249613426],[5.08178997941387,52.08859558566699],[5.08184756623389,52.08858113852236],[5.08188168591006,52.08853746374979],[5.08210115378607,52.08734692225121],[5.082142014495,52.0873074264382],[5.08315722509634,52.08738830846294]]],"type":"Polygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158826043,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05130705",
+    "cbsnl:BU_NAAM":"Muziekbuurt",
+    "cbsnl:GM_CODE":"GM0513",
+    "cbsnl:GM_NAAM":"Gouda",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1624",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK051307",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":182450.680681,
+    "geom:bbox":"4.73259636682,52.0120937245,4.74517293045,52.0157812196",
+    "geom:latitude":52.014359,
+    "geom:longitude":4.739785,
+    "iso:country":"NL",
+    "lbl:latitude":52.014366,
+    "lbl:longitude":4.73988,
+    "mps:latitude":52.014366,
+    "mps:longitude":4.73988,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Muziekbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Muziekbuurt"
+    ],
+    "reversegeo:latitude":52.014366,
+    "reversegeo:longitude":4.73988,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829559,
+        85633337,
+        101751839,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f774a8b291f7299b07fc426ea27a3a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751839,
+            "macrohood_id":1158829559,
+            "neighbourhood_id":1158826043,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826043,
+    "wof:lastmodified":1513588035,
+    "wof:name":"Muziekbuurt",
+    "wof:parent_id":1158829559,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.73259636681659,
+    52.012093724481815,
+    4.745172930449656,
+    52.01578121960601
+],
+  "geometry": {"coordinates":[[[[4.73259636681659,52.01568326015038],[4.73435993611519,52.01572282810107],[4.73618002445688,52.01578121960601],[4.73817122516051,52.01569446527687],[4.74055254561904,52.01552134089483],[4.74297592655552,52.0152632893519],[4.74500781513775,52.0149713156395],[4.74511835798568,52.01478597052741],[4.74517293044966,52.01469498931488],[4.74395457699827,52.01466647719778],[4.74505216787319,52.01209372448182],[4.7449044594695,52.01212143690375],[4.74430279207374,52.01223331511223],[4.74207867451142,52.01262197386006],[4.74117287579628,52.01280772927583],[4.73896918038664,52.01341203096123],[4.73882712112719,52.01345098480701],[4.73874453592117,52.0133227258555],[4.73774879163563,52.01377648738954],[4.73602001316571,52.01426129845019],[4.73448003562899,52.01467353769961],[4.7329598237614,52.01483672165178],[4.73259636681659,52.01568326015038]]]],"type":"MultiPolygon"}
+}

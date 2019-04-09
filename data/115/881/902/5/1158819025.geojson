@@ -1,0 +1,93 @@
+{
+  "id": 1158819025,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03920703",
+    "cbsnl:BU_NAAM":"Cremerbuurt",
+    "cbsnl:GM_CODE":"GM0392",
+    "cbsnl:GM_NAAM":"Haarlem",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"3219",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK039207",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":94459.573378,
+    "geom:bbox":"4.65466847644,52.3789147775,4.6609953929,52.3817528596",
+    "geom:latitude":52.380372,
+    "geom:longitude":4.658313,
+    "iso:country":"NL",
+    "lbl:latitude":52.380357,
+    "lbl:longitude":4.658313,
+    "mps:latitude":52.380357,
+    "mps:longitude":4.658313,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Cremerbuurt"
+    ],
+    "name:eng_x_preferred":[
+        "Cremerbuurt"
+    ],
+    "name:fre_x_preferred":[
+        "Cremerbuurt"
+    ],
+    "name:ita_x_preferred":[
+        "Cremerbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Cremerbuurt"
+    ],
+    "reversegeo:latitude":52.380357,
+    "reversegeo:longitude":4.658313,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823175,
+        404474061,
+        85633337,
+        101751897,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q3696956"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"e4e3a761c92f87c0e3d4f989acd9ffd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474061,
+            "locality_id":101751897,
+            "macrohood_id":1158823175,
+            "neighbourhood_id":1158819025,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158819025,
+    "wof:lastmodified":1514492048,
+    "wof:name":"Cremerbuurt",
+    "wof:parent_id":1158823175,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.65466847643778,
+    52.37891477748042,
+    4.66099539289736,
+    52.38175285962981
+],
+  "geometry": {"coordinates":[[[[4.65613766762089,52.38145558494158],[4.65755129122055,52.38153838958522],[4.65758983102436,52.38154073579422],[4.65873156817035,52.38160755808729],[4.66088694675666,52.38175190291074],[4.66099481019892,52.38175285962981],[4.66098813453872,52.38164189396613],[4.66099539289736,52.38146977407263],[4.66092510339466,52.38104024272552],[4.66092233380687,52.38100672093186],[4.6608922839299,52.38085796696259],[4.66085770856102,52.38068680223471],[4.66077825410047,52.38030375895547],[4.66069692829492,52.37990550910475],[4.66054852942746,52.37922224694697],[4.66049294844551,52.37901612130286],[4.66043200851228,52.37891477748042],[4.66033999243535,52.37892935223642],[4.6600368920546,52.37896967992493],[4.65982191593529,52.37899129816554],[4.65979788138871,52.37899424612628],[4.6587494371144,52.37908826330595],[4.6571265127209,52.37925051646545],[4.65669793076711,52.3793423872148],[4.6558709857935,52.37963534351537],[4.65466847643778,52.37997441042359],[4.65468277110372,52.38003034609948],[4.65480937923799,52.38039020360061],[4.65520374681297,52.38058953993794],[4.65624340155948,52.38070022170056],[4.65613766762089,52.38145558494158]]]],"type":"MultiPolygon"}
+}

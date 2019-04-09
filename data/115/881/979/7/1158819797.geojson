@@ -1,0 +1,80 @@
+{
+  "id": 1158819797,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04000808",
+    "cbsnl:BU_NAAM":"Zwanenbalg",
+    "cbsnl:GM_CODE":"GM0400",
+    "cbsnl:GM_NAAM":"Den Helder",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"800",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK040008",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":247955.022519,
+    "geom:bbox":"4.7267898811,52.8816583886,4.73547445247,52.8867056968",
+    "geom:latitude":52.884133,
+    "geom:longitude":4.730899,
+    "iso:country":"NL",
+    "lbl:latitude":52.884298,
+    "lbl:longitude":4.730983,
+    "mps:latitude":52.884298,
+    "mps:longitude":4.730983,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zwanenbalg"
+    ],
+    "name:nld_x_preferred":[
+        "Zwanenbalg"
+    ],
+    "reversegeo:latitude":52.884298,
+    "reversegeo:longitude":4.730983,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474079,
+        85633337,
+        101806077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a5817088f4d59f50cd71856e014a7d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474079,
+            "locality_id":101806077,
+            "neighbourhood_id":1158819797,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158819797,
+    "wof:lastmodified":1513464172,
+    "wof:name":"Zwanenbalg",
+    "wof:parent_id":101806077,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.726789881101699,
+    52.881658388562144,
+    4.735474452472217,
+    52.88670569676883
+],
+  "geometry": {"coordinates":[[[[4.72801037175109,52.88664809286568],[4.72969375163124,52.88625570607984],[4.72983969120214,52.88647081239775],[4.73056299668526,52.886650450607],[4.73102681265055,52.88670569676883],[4.73198849321887,52.88648262493837],[4.73248476891485,52.88630968938716],[4.73315579444678,52.88610257752418],[4.73411771447127,52.8858619218353],[4.73547445247222,52.88549210670526],[4.73546963316858,52.88548595139984],[4.73496113718026,52.88491083442779],[4.73478400259075,52.88493514054529],[4.73476214449471,52.88494014193395],[4.73464126302294,52.88386228537387],[4.73417317524625,52.88165838856214],[4.72685969164828,52.88220246607018],[4.7267898811017,52.88220778654048],[4.72684053435384,52.88295202020635],[4.72702351232597,52.88371578008515],[4.72719566245658,52.88452048043107],[4.7273580112444,52.88537511584584],[4.72762778556802,52.88600342988237],[4.72801037175109,52.88664809286568]]]],"type":"MultiPolygon"}
+}

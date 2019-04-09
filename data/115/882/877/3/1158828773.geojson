@@ -1,0 +1,80 @@
+{
+  "id": 1158828773,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19270201",
+    "cbsnl:BU_NAAM":"Gijbeland Kern",
+    "cbsnl:GM_CODE":"GM1927",
+    "cbsnl:GM_NAAM":"Molenwaard",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"215",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK192702",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":356624.808571,
+    "geom:bbox":"4.81328756659,51.8754171181,4.82585066922,51.8819869404",
+    "geom:latitude":51.878723,
+    "geom:longitude":4.81948,
+    "iso:country":"NL",
+    "lbl:latitude":51.878741,
+    "lbl:longitude":4.819463,
+    "mps:latitude":51.878741,
+    "mps:longitude":4.819463,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Gijbeland Kern"
+    ],
+    "name:nld_x_preferred":[
+        "Gijbeland Kern"
+    ],
+    "reversegeo:latitude":51.878741,
+    "reversegeo:longitude":4.819463,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158824743,
+        85633337,
+        101855293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d51b14de8747b6c6a41b1a1176254b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824743,
+            "locality_id":101855293,
+            "neighbourhood_id":1158828773,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828773,
+    "wof:lastmodified":1513588273,
+    "wof:name":"Gijbeland Kern",
+    "wof:parent_id":101855293,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.813287566589699,
+    51.875417118078445,
+    4.825850669217576,
+    51.88198694041669
+],
+  "geometry": {"coordinates":[[[[4.81611903678416,51.87541711807845],[4.8132875665897,51.87960993475156],[4.82264410752864,51.88198694041669],[4.82582537515159,51.87799051058162],[4.82585066921758,51.87794568901757],[4.81611903678416,51.87541711807845]]]],"type":"MultiPolygon"}
+}

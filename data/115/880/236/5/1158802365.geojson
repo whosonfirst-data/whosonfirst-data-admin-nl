@@ -1,0 +1,82 @@
+{
+  "id": 1158802365,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01530502",
+    "cbsnl:BU_NAAM":"Park Stokhorst",
+    "cbsnl:GM_CODE":"GM0153",
+    "cbsnl:GM_NAAM":"Enschede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1772",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK015305",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":613636.95648,
+    "geom:bbox":"6.91561447931,52.2237565433,6.92892348434,52.2326882064",
+    "geom:latitude":52.22819,
+    "geom:longitude":6.92231,
+    "iso:country":"NL",
+    "lbl:latitude":52.228597,
+    "lbl:longitude":6.921645,
+    "mps:latitude":52.228597,
+    "mps:longitude":6.921645,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Park Stokhorst"
+    ],
+    "name:nld_x_preferred":[
+        "Park Stokhorst"
+    ],
+    "reversegeo:latitude":52.228597,
+    "reversegeo:longitude":6.921645,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805847,
+        404473827,
+        85633337,
+        101751871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0c69e76dfbfe4c7e797b0699f88a651b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473827,
+            "locality_id":101751871,
+            "macrohood_id":1158805847,
+            "neighbourhood_id":1158802365,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802365,
+    "wof:lastmodified":1513524256,
+    "wof:name":"Park Stokhorst",
+    "wof:parent_id":1158805847,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.915614479313864,
+    52.22375654333567,
+    6.928923484339237,
+    52.23268820643481
+],
+  "geometry": {"coordinates":[[[[6.92707556403884,52.23229569543667],[6.92624727035292,52.23129904777915],[6.92476240157981,52.23080607139814],[6.92677334860611,52.22836498125888],[6.92872568320684,52.22599341004206],[6.92892348433924,52.22547815655314],[6.92889258155461,52.22516959682893],[6.92861166613708,52.22375654333567],[6.92444112418169,52.22422361656209],[6.91997820530182,52.22471734875172],[6.91794896134064,52.22485471229626],[6.9165430001959,52.22488821330302],[6.9167290761482,52.2255924973102],[6.91778864436963,52.22708430927644],[6.91779570538781,52.22801463681656],[6.91653987371268,52.23009667556661],[6.91561447931386,52.23095045272695],[6.91844142977531,52.23224735815667],[6.92007114721301,52.23260199818501],[6.92122953074776,52.23268820643481],[6.92707556403884,52.23229569543667]]]],"type":"MultiPolygon"}
+}

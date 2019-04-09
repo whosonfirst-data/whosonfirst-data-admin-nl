@@ -1,0 +1,80 @@
+{
+  "id": 1158828181,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17830606",
+    "cbsnl:BU_NAAM":"Hofwijk en Oranjehof",
+    "cbsnl:GM_CODE":"GM1783",
+    "cbsnl:GM_NAAM":"Westland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1862",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK178306",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":428187.86677,
+    "geom:bbox":"4.26096832361,52.020981673,4.27338077337,52.0291494132",
+    "geom:latitude":52.025181,
+    "geom:longitude":4.267837,
+    "iso:country":"NL",
+    "lbl:latitude":52.024976,
+    "lbl:longitude":4.267931,
+    "mps:latitude":52.024976,
+    "mps:longitude":4.267931,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hofwijk en Oranjehof"
+    ],
+    "name:nld_x_preferred":[
+        "Hofwijk en Oranjehof"
+    ],
+    "reversegeo:latitude":52.024976,
+    "reversegeo:longitude":4.267931,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
+        85633337,
+        101754721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f8354b22994518629b7cfd135b3fb447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474667,
+            "locality_id":101754721,
+            "neighbourhood_id":1158828181,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828181,
+    "wof:lastmodified":1513588206,
+    "wof:name":"Hofwijk en Oranjehof",
+    "wof:parent_id":101754721,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.260968323612718,
+    52.020981673000584,
+    4.273380773368379,
+    52.02914941320708
+],
+  "geometry": {"coordinates":[[[[4.26965050158309,52.02880949062633],[4.27061954853288,52.02914941320708],[4.2728002035904,52.02606327356973],[4.27276230183489,52.0260569747072],[4.27234721165806,52.02598797804838],[4.27289572247458,52.02517647274859],[4.27264597957757,52.02506234322669],[4.27326631779731,52.02410174406569],[4.27338077336838,52.02365638654155],[4.27257359399811,52.0234966626342],[4.27296339662107,52.02317165553302],[4.27111396761631,52.0227125997526],[4.26875135522521,52.02210636981294],[4.26713668913308,52.0213973403308],[4.26620635879108,52.02098879519081],[4.26618909726631,52.02098167300058],[4.26588319996699,52.02124260616763],[4.26479857111427,52.0223423210962],[4.26415259465671,52.02313863382377],[4.26415330104172,52.02361126976216],[4.26166205527618,52.02700852879216],[4.26096832361272,52.02771325674784],[4.26484983422162,52.0273823778604],[4.26614917722704,52.02758118267825],[4.26953900364615,52.02877037881515],[4.26965050158309,52.02880949062633]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158825559,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05032701",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Zuideinde",
+    "cbsnl:GM_CODE":"GM0503",
+    "cbsnl:GM_NAAM":"Delft",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"4077",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050327",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":44558.126444,
+    "geom:bbox":"4.3586211341,52.0005231173,4.36374607951,52.0025015106",
+    "geom:latitude":52.001502,
+    "geom:longitude":4.360976,
+    "iso:country":"NL",
+    "lbl:latitude":52.001529,
+    "lbl:longitude":4.360549,
+    "mps:latitude":52.001529,
+    "mps:longitude":4.360549,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Zuideinde"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Zuideinde"
+    ],
+    "reversegeo:latitude":52.001529,
+    "reversegeo:longitude":4.360549,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829593,
+        85633337,
+        101752765,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3f8b806b8cb3b58df73851e9991d38bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752765,
+            "macrohood_id":1158829593,
+            "neighbourhood_id":1158825559,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825559,
+    "wof:lastmodified":1513588002,
+    "wof:name":"Bedrijventerrein Zuideinde",
+    "wof:parent_id":1158829593,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.358621134099789,
+    52.00052311731098,
+    4.363746079510483,
+    52.00250151058054
+],
+  "geometry": {"coordinates":[[[[4.36307498857173,52.00235241463401],[4.36350237042352,52.00178759348856],[4.36374607951048,52.001453173695],[4.36323057091416,52.00132401525159],[4.3631920212977,52.00136673582897],[4.36293622440486,52.00135039790968],[4.36249984606833,52.00125734014603],[4.36259249215125,52.00107792208368],[4.35981172722002,52.00052684689997],[4.35974650416436,52.00062128887706],[4.35934346190858,52.00052311731098],[4.35924509958873,52.00069088765008],[4.35878252728535,52.00148010550525],[4.35862113409979,52.00176705502487],[4.360276438676,52.00229432011307],[4.36090492636554,52.00250151058054],[4.36128548421405,52.00187121037587],[4.3622554538104,52.0021245159589],[4.36307498857173,52.00235241463401]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158806823,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09832303",
+    "cbsnl:BU_NAAM":"Annakamp-West",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1736",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098323",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":150638.82514,
+    "geom:bbox":"6.13207827571,51.3593649451,6.14078537883,51.3633210843",
+    "geom:latitude":51.361417,
+    "geom:longitude":6.136543,
+    "iso:country":"NL",
+    "lbl:latitude":51.361298,
+    "lbl:longitude":6.136839,
+    "mps:latitude":51.361298,
+    "mps:longitude":6.136839,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Annakamp-West"
+    ],
+    "name:nld_x_preferred":[
+        "Annakamp-West"
+    ],
+    "reversegeo:latitude":51.361298,
+    "reversegeo:longitude":6.136839,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        1158818273,
+        404474525,
+        85633337,
+        101839199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5783e9eb5200c6b6a63b77c7c262106f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "macrohood_id":1158818273,
+            "neighbourhood_id":1158806823,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806823,
+    "wof:lastmodified":1513404057,
+    "wof:name":"Annakamp-West",
+    "wof:parent_id":1158818273,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.132078275706799,
+    51.35936494510169,
+    6.14078537883355,
+    51.3633210843091
+],
+  "geometry": {"coordinates":[[[[6.13384133307901,51.36328923614593],[6.13475920850311,51.36295884495241],[6.13504227155617,51.3633210843091],[6.13635602125277,51.3631400535163],[6.13675127597147,51.36298829314338],[6.13673032576002,51.36276190395912],[6.1372338781833,51.36270101272424],[6.13721857000401,51.36258976927882],[6.13858306071612,51.36270142806718],[6.13898199918626,51.36218945400496],[6.13949105886893,51.36154938512389],[6.13991237202886,51.36162279942311],[6.14055303224472,51.36091958134997],[6.14011633539428,51.36058324978202],[6.14078537883355,51.36033297077648],[6.13826540440257,51.35936494510169],[6.1320782757068,51.36145507257351],[6.13384133307901,51.36328923614593]]]],"type":"MultiPolygon"}
+}

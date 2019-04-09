@@ -1,0 +1,80 @@
+{
+  "id": 1141963131,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02287002",
+    "cbsnl:BU_NAAM":"Legerplaats Harskamp",
+    "cbsnl:GM_CODE":"GM0228",
+    "cbsnl:GM_NAAM":"Ede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"213",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022870",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:area_square_m":474918.709638,
+    "geom:bbox":"5.75139084653,52.1204837618,5.76555207524,52.1283444419",
+    "geom:latitude":52.124724,
+    "geom:longitude":5.759267,
+    "iso:country":"NL",
+    "lbl:latitude":52.124951,
+    "lbl:longitude":5.760447,
+    "mps:latitude":52.124951,
+    "mps:longitude":5.760447,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Legerplaats Harskamp"
+    ],
+    "name:nld_x_preferred":[
+        "Legerplaats Harskamp"
+    ],
+    "reversegeo:latitude":52.124951,
+    "reversegeo:longitude":5.760447,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473893,
+        85633337,
+        101807095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"04616ff95b5673d0bad73ea8b1c05edb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473893,
+            "locality_id":101807095,
+            "neighbourhood_id":1141963131,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963131,
+    "wof:lastmodified":1513368724,
+    "wof:name":"Legerplaats Harskamp",
+    "wof:parent_id":101807095,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.751390846526435,
+    52.12048376183457,
+    5.765552075238479,
+    52.12834444194234
+],
+  "geometry": {"coordinates":[[[[5.76315263988277,52.12834444194234],[5.76555207523848,52.12242789744768],[5.76150674636614,52.12106881526668],[5.75988539751598,52.12048376183457],[5.75926533712569,52.121065648646],[5.75869032360073,52.12243757572286],[5.75743478007478,52.12382923271647],[5.75277769015451,52.12305619857269],[5.75242867718939,52.12384912814547],[5.75193257892868,52.12395631535084],[5.75139084652644,52.12594877623754],[5.75586068881269,52.12696132310597],[5.75867747094376,52.12765685379947],[5.76315263988277,52.12834444194234]]]],"type":"MultiPolygon"}
+}

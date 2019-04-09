@@ -1,0 +1,83 @@
+{
+  "id": 1108803953,
+  "type": "Feature",
+  "properties": {
+    "amsgis:_categories":"buurt",
+    "amsgis:_id":"buurt.03630000000597",
+    "amsgis:categorie":"90",
+    "amsgis:code":"35a",
+    "amsgis:display":"Steigereiland Noord",
+    "amsgis:externe_id":"3630000000597",
+    "amsgis:naam":"Steigereiland Noord",
+    "amsgis:online_tijdsaspect":"1",
+    "amsgis:titel":"Steigereiland Noord",
+    "amsgis:titel_key":"steigereiland_noord_4",
+    "amsgis:type":"Buurtgrenzen",
+    "amsgis:type_2":"gebieden/buurt",
+    "amsgis:uri":"https://api.datapunt.amsterdam.nl/gebieden/buurt/03630000000597/",
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-10-09",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000114,
+    "geom:area_square_m":861451.332411,
+    "geom:bbox":"4.9766413538,52.359965176,5.00125993894,52.3697272888",
+    "geom:latitude":52.365444,
+    "geom:longitude":4.987457,
+    "iso:country":"NL",
+    "lbl:latitude":52.36463,
+    "lbl:longitude":4.986245,
+    "mps:latitude":52.36463,
+    "mps:longitude":4.986245,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "reversegeo:latitude":52.36463,
+    "reversegeo:longitude":4.986245,
+    "src:geom":"amsgis",
+    "wof:belongsto":[
+        1108802833,
+        102191581,
+        85633337,
+        101751893,
+        1108802289,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"NL",
+    "wof:geomhash":"dcc809746657ea35be301457e2357766",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108802289,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108803953,
+            "neighbourhood_id":1108802833,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1108803953,
+    "wof:lastmodified":1513269525,
+    "wof:name":"Steigereiland Noord",
+    "wof:parent_id":1108802833,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158844331
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.97664135379803,
+    52.35996517604054,
+    5.00125993893888,
+    52.36972728878145
+],
+  "geometry": {"coordinates":[[[4.98641323904783,52.35996517604054],[4.98565805079879,52.36038719199382],[4.97961551978137,52.36359783567007],[4.97905973679077,52.36389166523257],[4.97771717491818,52.36456334406649],[4.97664135379803,52.36513492412825],[4.98402431013616,52.36962413770831],[4.98406081295732,52.36964632987496],[4.98419397881099,52.36972728878145],[4.98420231208992,52.36972464722278],[4.98653695483779,52.36912491635833],[4.98903869202632,52.36866567736873],[4.99140280076543,52.36837801710396],[4.9938689302504,52.36824418053673],[4.996450445019,52.36822923651254],[4.99874289819526,52.36835896248191],[5.00125993893888,52.36859273423669],[5.00107809605838,52.36848709523098],[4.98660926821063,52.3600723691969],[4.98641323904783,52.35996517604054]]],"type":"Polygon"}
+}

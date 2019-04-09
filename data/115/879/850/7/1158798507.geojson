@@ -1,0 +1,82 @@
+{
+  "id": 1158798507,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08260606",
+    "cbsnl:BU_NAAM":"Dammenbuurt",
+    "cbsnl:GM_CODE":"GM0826",
+    "cbsnl:GM_NAAM":"Oosterhout",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"997",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082606",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":272109.010505,
+    "geom:bbox":"4.85553789808,51.6624607956,4.86463935952,51.6692789128",
+    "geom:latitude":51.66545,
+    "geom:longitude":4.859953,
+    "iso:country":"NL",
+    "lbl:latitude":51.665254,
+    "lbl:longitude":4.859884,
+    "mps:latitude":51.665254,
+    "mps:longitude":4.859884,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Dammenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Dammenbuurt"
+    ],
+    "reversegeo:latitude":51.665254,
+    "reversegeo:longitude":4.859884,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801719,
+        404474413,
+        85633337,
+        101808317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9f9f0c6742c92708f14f29577556682e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474413,
+            "locality_id":101808317,
+            "macrohood_id":1158801719,
+            "neighbourhood_id":1158798507,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798507,
+    "wof:lastmodified":1513432680,
+    "wof:name":"Dammenbuurt",
+    "wof:parent_id":1158801719,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.855537898082249,
+    51.66246079560185,
+    4.864639359516967,
+    51.66927891280499
+],
+  "geometry": {"coordinates":[[[[4.86463935951697,51.66668196412712],[4.86390906338414,51.66508720761575],[4.86362886832825,51.6648076638712],[4.86281255812311,51.6629709485119],[4.86281846535573,51.66246079560185],[4.86117439772718,51.66275003673814],[4.85934271572857,51.66276552398803],[4.85821480746891,51.66296213277101],[4.85617967774416,51.66320119879465],[4.85632812295003,51.66355781306167],[4.85651041719538,51.66428238294579],[4.85673267903323,51.66485289297243],[4.85689812883657,51.66538755207971],[4.8569878256985,51.66587440744247],[4.85700497094949,51.66642575213051],[4.85690179648222,51.66708970430455],[4.85672438735598,51.66757535205891],[4.85641174808683,51.66820276151024],[4.856140045817,51.66859306379902],[4.85581081705801,51.66900683302148],[4.85553789808225,51.66927891280499],[4.85739485695153,51.66897841499745],[4.85856966486346,51.6680464177726],[4.86031058052201,51.66765086630015],[4.86388799060972,51.66683638341651],[4.86463935951697,51.66668196412712]]]],"type":"MultiPolygon"}
+}

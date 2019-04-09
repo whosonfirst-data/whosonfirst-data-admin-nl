@@ -1,0 +1,86 @@
+{
+  "id": 1141964691,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06680100",
+    "cbsnl:BU_NAAM":"Kern Alphen",
+    "cbsnl:GM_CODE":"GM0668",
+    "cbsnl:GM_NAAM":"West Maas en Waal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"169",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK066801",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":374597.878392,
+    "geom:bbox":"5.46522259755,51.8182487858,5.47630805414,51.8289885388",
+    "geom:latitude":51.822635,
+    "geom:longitude":5.471694,
+    "iso:country":"NL",
+    "lbl:latitude":51.82156,
+    "lbl:longitude":5.47224,
+    "mps:latitude":51.82156,
+    "mps:longitude":5.47224,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Alphen"
+    ],
+    "name:eng_x_variant":[
+        "Kern Alphen"
+    ],
+    "name:nld_x_preferred":[
+        "Alphen"
+    ],
+    "name:nld_x_variant":[
+        "Kern Alphen"
+    ],
+    "reversegeo:latitude":51.82156,
+    "reversegeo:longitude":5.47224,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474305,
+        85633337,
+        101808577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"96e77dd4fdbfc371d6d1bf01dbc841cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474305,
+            "locality_id":101808577,
+            "neighbourhood_id":1141964691,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141964691,
+    "wof:lastmodified":1513368838,
+    "wof:name":"Alphen",
+    "wof:parent_id":101808577,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.465222597546632,
+    51.818248785796506,
+    5.476308054141846,
+    51.828988538784635
+],
+  "geometry": {"coordinates":[[[[5.47416256094747,51.82898853878464],[5.47609125514314,51.82794893555066],[5.47507742367353,51.82726574186058],[5.47630805414185,51.82674629499778],[5.47525801355438,51.82469044036979],[5.47509402927385,51.82242549550853],[5.47386623760848,51.81824878579651],[5.47116061076996,51.81941025640521],[5.47031098909195,51.81878167655906],[5.469769003394,51.81981206922786],[5.46805890099781,51.81967478594782],[5.46807600472777,51.82036407072757],[5.46522259754663,51.82089098289097],[5.46566855067105,51.82125471377388],[5.46530489052195,51.82155887493728],[5.4685070736339,51.82376502560877],[5.4679437495885,51.82420331774612],[5.46869003438696,51.82467468994579],[5.47088554842628,51.82357993200456],[5.47299201717062,51.82528535395801],[5.47364839964775,51.82635280009142],[5.47379692457061,51.82744646270957],[5.47416256094747,51.82898853878464]]]],"type":"MultiPolygon"}
+}

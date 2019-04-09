@@ -1,0 +1,80 @@
+{
+  "id": 1158820955,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08800005",
+    "cbsnl:BU_NAAM":"Middentil",
+    "cbsnl:GM_CODE":"GM0880",
+    "cbsnl:GM_NAAM":"Wormerland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1338",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK088000",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":92896.705247,
+    "geom:bbox":"4.817678025,52.495153586,4.82133363729,52.4993859114",
+    "geom:latitude":52.497204,
+    "geom:longitude":4.819438,
+    "iso:country":"NL",
+    "lbl:latitude":52.497242,
+    "lbl:longitude":4.819406,
+    "mps:latitude":52.497242,
+    "mps:longitude":4.819406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Middentil"
+    ],
+    "name:nld_x_preferred":[
+        "Middentil"
+    ],
+    "reversegeo:latitude":52.497242,
+    "reversegeo:longitude":4.819406,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474461,
+        85633337,
+        101754867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"41ce3b5bd539db0eadeeff046e0488d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474461,
+            "locality_id":101754867,
+            "neighbourhood_id":1158820955,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158820955,
+    "wof:lastmodified":1513464270,
+    "wof:name":"Middentil",
+    "wof:parent_id":101754867,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.817678025004303,
+    52.49515358602132,
+    4.821333637288285,
+    52.4993859114486
+],
+  "geometry": {"coordinates":[[[[4.81798387462752,52.49923802629186],[4.82034139240171,52.49937233154706],[4.82053853185873,52.4993859114486],[4.82100906704391,52.4964291515258],[4.82115076232763,52.49641633159931],[4.82119160364226,52.49606989752112],[4.82129097702376,52.49570152397025],[4.82133363728829,52.49521289278125],[4.82099151004477,52.49520681488515],[4.8198852611763,52.49517042402915],[4.81822541051627,52.49515358602132],[4.81817888245431,52.49551540414445],[4.8181688495247,52.4955144300606],[4.8176780250043,52.4988663862544],[4.81785441152371,52.49911523048633],[4.81798387462752,52.49923802629186]]]],"type":"MultiPolygon"}
+}

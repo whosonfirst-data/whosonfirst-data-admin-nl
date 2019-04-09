@@ -1,0 +1,80 @@
+{
+  "id": 1158797795,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07860204",
+    "cbsnl:BU_NAAM":"Industrieterrein De Eek",
+    "cbsnl:GM_CODE":"GM0786",
+    "cbsnl:GM_NAAM":"Grave",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"735",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK078602",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":32874.116009,
+    "geom:bbox":"5.72903479644,51.7488081868,5.73193793978,51.7514402703",
+    "geom:latitude":51.750325,
+    "geom:longitude":5.730237,
+    "iso:country":"NL",
+    "lbl:latitude":51.75038,
+    "lbl:longitude":5.730138,
+    "mps:latitude":51.75038,
+    "mps:longitude":5.730138,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Industrieterrein De Eek"
+    ],
+    "name:nld_x_preferred":[
+        "Industrieterrein De Eek"
+    ],
+    "reversegeo:latitude":51.75038,
+    "reversegeo:longitude":5.730138,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474385,
+        85633337,
+        101855255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"92c8da25adf9b2647e6b97d98ba6b614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474385,
+            "locality_id":101855255,
+            "neighbourhood_id":1158797795,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797795,
+    "wof:lastmodified":1513432620,
+    "wof:name":"Industrieterrein De Eek",
+    "wof:parent_id":101855255,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.729034796435414,
+    51.74880818677901,
+    5.73193793977573,
+    51.75144027028768
+],
+  "geometry": {"coordinates":[[[[5.73193793977573,51.75097928070495],[5.73031833791951,51.74926414229912],[5.72947791525296,51.74880818677901],[5.72913433873803,51.74972039985257],[5.72903479643541,51.75032039052575],[5.72940239261202,51.7510535670101],[5.72980228498994,51.75121025784497],[5.73034500327681,51.75140248530882],[5.73067837339015,51.75144027028768],[5.73094850338394,51.75137487426969],[5.73142582223314,51.75117965712754],[5.73193793977573,51.75097928070495]]]],"type":"MultiPolygon"}
+}

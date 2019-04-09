@@ -1,0 +1,80 @@
+{
+  "id": 1158793023,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00240200",
+    "cbsnl:BU_NAAM":"Middelstum",
+    "cbsnl:GM_CODE":"GM0024",
+    "cbsnl:GM_NAAM":"Loppersum",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"344",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK002402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00016,
+    "geom:area_square_m":1180540.623849,
+    "geom:bbox":"6.63034126968,53.3419219941,6.6518671361,53.3522033285",
+    "geom:latitude":53.346915,
+    "geom:longitude":6.641761,
+    "iso:country":"NL",
+    "lbl:latitude":53.346677,
+    "lbl:longitude":6.641761,
+    "mps:latitude":53.346677,
+    "mps:longitude":6.641761,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Middelstum"
+    ],
+    "name:nld_x_preferred":[
+        "Middelstum"
+    ],
+    "reversegeo:latitude":53.346677,
+    "reversegeo:longitude":6.641761,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473723,
+        85633337,
+        101807485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ac3fb91e11a25ebee61e1068d8bd44eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473723,
+            "locality_id":101807485,
+            "neighbourhood_id":1158793023,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793023,
+    "wof:lastmodified":1513382281,
+    "wof:name":"Middelstum",
+    "wof:parent_id":101807485,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.63034126967822,
+    53.341921994125755,
+    6.651867136097121,
+    53.35220332847684
+],
+  "geometry": {"coordinates":[[[[6.64148114039446,53.34192199412576],[6.63837845009267,53.34241598264416],[6.63588363787892,53.34311419025563],[6.63332011749052,53.34424607672281],[6.63170748786056,53.3451288142758],[6.63060458533327,53.34624495404382],[6.63034126967822,53.34737262254155],[6.63051720287916,53.34847609317639],[6.63109721557577,53.34895422053479],[6.63301172348134,53.34957073022519],[6.63517640924281,53.35005712235052],[6.63870240502658,53.35072139404622],[6.64121106963482,53.35121027483],[6.64251809019684,53.35168357378575],[6.64379917312018,53.35199088462827],[6.64464478111898,53.35220332847684],[6.64872237801904,53.35179556229991],[6.65176522874818,53.34765526231278],[6.65186713609712,53.34693080718993],[6.65152436383456,53.34599704481232],[6.6508480656922,53.34510666385118],[6.64923948817601,53.34314660809047],[6.64781143223946,53.34257973620943],[6.64589051496651,53.34226231968039],[6.64148114039446,53.34192199412576]]]],"type":"MultiPolygon"}
+}

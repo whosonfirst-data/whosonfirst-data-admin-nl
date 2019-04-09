@@ -1,0 +1,80 @@
+{
+  "id": 1158784653,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07170201",
+    "cbsnl:BU_NAAM":"Breezand",
+    "cbsnl:GM_CODE":"GM0717",
+    "cbsnl:GM_NAAM":"Veere",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"282",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK071702",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":570226.676722,
+    "geom:bbox":"3.6101611582,51.5783614116,3.62233575268,51.5880353236",
+    "geom:latitude":51.58349,
+    "geom:longitude":3.615987,
+    "iso:country":"NL",
+    "lbl:latitude":51.583317,
+    "lbl:longitude":3.615987,
+    "mps:latitude":51.583317,
+    "mps:longitude":3.615987,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Breezand"
+    ],
+    "name:nld_x_preferred":[
+        "Breezand"
+    ],
+    "reversegeo:latitude":51.583317,
+    "reversegeo:longitude":3.615987,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474333,
+        85633337,
+        101808421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c16cc7a4d8b10a107fb70aad68c06da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474333,
+            "locality_id":101808421,
+            "neighbourhood_id":1158784653,
+            "region_id":85687037
+        }
+    ],
+    "wof:id":1158784653,
+    "wof:lastmodified":1513628691,
+    "wof:name":"Breezand",
+    "wof:parent_id":101808421,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.610161158196842,
+    51.578361411573184,
+    3.622335752675051,
+    51.58803532355269
+],
+  "geometry": {"coordinates":[[[[3.61640883399604,51.57892243567051],[3.61016115819684,51.58173518433951],[3.61132082794611,51.5846620545525],[3.61084215039912,51.58496410826518],[3.61090285966939,51.58529683316331],[3.61226880931513,51.58754355357007],[3.61289127000448,51.58754766374041],[3.61297914487735,51.58803532355269],[3.61460442014297,51.58782004705649],[3.61661858304171,51.58738475217702],[3.61853349731038,51.58691308585322],[3.62131458603497,51.5864974581599],[3.61991131404507,51.58433569450089],[3.62233575267505,51.58375731981011],[3.62175755328638,51.58241716785296],[3.62108363979448,51.58254268555164],[3.61921825155624,51.57977494232843],[3.61811809623592,51.57836141157318],[3.61664933950697,51.57892692223115],[3.61640883399604,51.57892243567051]]]],"type":"MultiPolygon"}
+}

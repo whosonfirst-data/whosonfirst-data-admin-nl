@@ -1,0 +1,80 @@
+{
+  "id": 1158825715,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050700",
+    "cbsnl:BU_NAAM":"Admiraalsplein",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2719",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050507",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":60375.096305,
+    "geom:bbox":"4.6525419223,51.7897972394,4.65611080487,51.7922134889",
+    "geom:latitude":51.791036,
+    "geom:longitude":4.6543,
+    "iso:country":"NL",
+    "lbl:latitude":51.791017,
+    "lbl:longitude":4.6543,
+    "mps:latitude":51.791017,
+    "mps:longitude":4.6543,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Admiraalsplein"
+    ],
+    "name:nld_x_preferred":[
+        "Admiraalsplein"
+    ],
+    "reversegeo:latitude":51.791017,
+    "reversegeo:longitude":4.6543,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829537,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b56d0f8d2f2f0a6265503cdb1085e49a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829537,
+            "neighbourhood_id":1158825715,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825715,
+    "wof:lastmodified":1513588012,
+    "wof:name":"Admiraalsplein",
+    "wof:parent_id":1158829537,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.652541922297738,
+    51.789797239410355,
+    4.656110804870086,
+    51.79221348893834
+],
+  "geometry": {"coordinates":[[[[4.65497609690058,51.79220174882727],[4.65611080487009,51.79209101075384],[4.65598827184618,51.79062462877553],[4.65598056161266,51.79053244643605],[4.65563707071504,51.78979723941035],[4.6529705260726,51.78985912376242],[4.65254192229774,51.79026224482535],[4.65264741495302,51.79192608664295],[4.65266563718317,51.79221348893834],[4.65497609690058,51.79220174882727]]]],"type":"MultiPolygon"}
+}

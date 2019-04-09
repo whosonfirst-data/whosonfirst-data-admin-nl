@@ -1,0 +1,82 @@
+{
+  "id": 1108804289,
+  "type": "Feature",
+  "properties": {
+    "amsgis:_categories":"buurt",
+    "amsgis:_id":"buurt.03630023753972",
+    "amsgis:categorie":"90",
+    "amsgis:code":"11j",
+    "amsgis:display":"Bretten West",
+    "amsgis:externe_id":"3630023753972",
+    "amsgis:naam":"Bretten West",
+    "amsgis:online_tijdsaspect":"1",
+    "amsgis:titel":"Bretten West",
+    "amsgis:titel_key":"bretten_west_3",
+    "amsgis:type":"Buurtgrenzen",
+    "amsgis:type_2":"gebieden/buurt",
+    "amsgis:uri":"https://api.datapunt.amsterdam.nl/gebieden/buurt/03630023753972/",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000197,
+    "geom:area_square_m":1489277.04576,
+    "geom:bbox":"4.75829847421,52.3841175627,4.80193608217,52.3891548903",
+    "geom:latitude":52.386626,
+    "geom:longitude":4.780902,
+    "iso:country":"NL",
+    "lbl:latitude":52.386735,
+    "lbl:longitude":4.780955,
+    "mps:latitude":52.386735,
+    "mps:longitude":4.780955,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "reversegeo:latitude":52.386735,
+    "reversegeo:longitude":4.780955,
+    "src:geom":"amsgis",
+    "wof:belongsto":[
+        1108802913,
+        102191581,
+        85633337,
+        101751893,
+        1108802279,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[
+        "wof:parent_id"
+    ],
+    "wof:country":"NL",
+    "wof:geomhash":"6cd2185fc2f7a57676ce9dcc6e7657df",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108802279,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108804289,
+            "neighbourhood_id":1108802913,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1108804289,
+    "wof:lastmodified":1495824127,
+    "wof:name":"Bretten West",
+    "wof:parent_id":1108802913,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.75829847421197,
+    52.38411756274828,
+    4.80193608216538,
+    52.38915489026412
+],
+  "geometry": {"coordinates":[[[4.76954261180623,52.38915489026412],[4.79450267551377,52.38914926741955],[4.80173258698821,52.38914964887496],[4.80193608216538,52.38453168248792],[4.80157153018905,52.38452370356698],[4.79815173023722,52.38448740836335],[4.79421719840163,52.3844442611126],[4.78734430108643,52.38437630999388],[4.75895262840723,52.38411756274828],[4.758946502877,52.38418755965458],[4.758944998116,52.3842678394907],[4.75894344236782,52.38435068057168],[4.75894343422083,52.38441967070895],[4.75868877167792,52.38606258805846],[4.75851477026848,52.38718513615292],[4.75851342777436,52.38719382918988],[4.75838285237218,52.3875988619419],[4.75834283214485,52.38770594545485],[4.7583231957876,52.38781338885783],[4.75829847421197,52.38794865590952],[4.7660825783623,52.38795500041374],[4.76648658666272,52.38837248787062],[4.76891721943571,52.38837602285469],[4.76954261180623,52.38915489026412]]],"type":"Polygon"}
+}

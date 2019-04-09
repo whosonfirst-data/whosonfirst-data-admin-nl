@@ -1,0 +1,122 @@
+{
+  "id": 85797091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-01",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000168,
+    "geom:area_square_m":1276336.024625,
+    "geom:bbox":"4.31213378906,52.0862573231,4.32861328125,52.0997569258",
+    "geom:latitude":52.093295,
+    "geom:longitude":4.320975,
+    "gn:latitude":52.0939,
+    "gn:longitude":4.32372,
+    "iso:country":"NL",
+    "lbl:latitude":52.095951,
+    "lbl:longitude":4.319812,
+    "mps:latitude":52.093007,
+    "mps:longitude":4.320975,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":16.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:nld_x_preferred":[
+        "Benoordenhout"
+    ],
+    "name:unk_x_variant":[
+        "Benoordenhout"
+    ],
+    "qs:gn_adm0_cc":"NL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2747373,
+    "qs:gn_nam_loc":"Den Haag",
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Benoordenhout",
+    "qs:local_max":27506,
+    "qs:local_sum":103974,
+    "qs:localhoods":41,
+    "qs:name":"Benoordenhout",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Zuid-Holland",
+    "qs:name_adm2":"Den Haag",
+    "qs:name_local":"Den Haag",
+    "qs:photo_max":121,
+    "qs:photo_sum":542,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":25,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346383,
+    "qs:woe_adm2":12592017,
+    "qs:woe_lau":0,
+    "qs:woe_local":726874,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "src:population":"wk",
+    "wd:latitude":52.0992,
+    "wd:longitude":4.3258,
+    "wd:population":12850,
+    "wd:wordcount":346,
+    "wof:belongsto":[
+        102191581,
+        404474179,
+        85633337,
+        101752763,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2759187,
+        "gp:id":727587,
+        "qs:id":1114685,
+        "qs_pg:id":1114685,
+        "wd:id":"Q4890135",
+        "wk:page":"Benoordenhout"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"d2098196805a8ffb64a3e736d4ae35a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474179,
+            "locality_id":101752763,
+            "neighbourhood_id":85797091,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":85797091,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527639330,
+    "wof:name":"Benoordenhout",
+    "wof:parent_id":101752763,
+    "wof:placetype":"neighbourhood",
+    "wof:population":12850,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1108805961
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.31213378906011,
+    52.08625732308458,
+    4.32861328125017,
+    52.09975692580001
+],
+  "geometry": {"coordinates":[[[4.32586669922017,52.09806969201266],[4.32586669922017,52.0963824103],[4.32861328125009,52.0963824103],[4.32861328125009,52.09300763959995],[4.32861328125017,52.09146813781975],[4.32861328125017,52.09117202527834],[4.32861328125017,52.0896326136001],[4.32861328125017,52.08794499881442],[4.32586669922017,52.08794499558145],[4.32586669922017,52.08625732622393],[4.32312011719,52.08625732308458],[4.32084648480384,52.08625732645184],[4.32037353516012,52.08625733230006],[4.32037353516012,52.08710117371929],[4.31900024414028,52.08710117410031],[4.3190002441402,52.08794500490005],[4.31762695312008,52.08794500490005],[4.31715401154264,52.08794499744512],[4.31488037109,52.08794499729298],[4.31488037109,52.08963260677517],[4.31488037109,52.09132015174286],[4.31488037109,52.0930076327751],[4.31488037109,52.09469505005372],[4.31488037109,52.0963824103],[4.31213378906011,52.0963824103],[4.31213378906011,52.09806968660952],[4.31213378906011,52.09975692580001],[4.31762695312096,52.09975692580001],[4.32312011719,52.09975692580001],[4.32312011719,52.09806969999995],[4.32586669922017,52.09806969201266]]],"type":"Polygon"}
+}

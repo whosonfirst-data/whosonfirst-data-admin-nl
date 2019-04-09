@@ -1,0 +1,80 @@
+{
+  "id": 1158820333,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04390503",
+    "cbsnl:BU_NAAM":"Maten- en Zuivelbuurt",
+    "cbsnl:GM_CODE":"GM0439",
+    "cbsnl:GM_NAAM":"Purmerend",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1925",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK043905",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:area_square_m":511475.0785,
+    "geom:bbox":"4.97793831959,52.4945104189,4.99359565498,52.5074723247",
+    "geom:latitude":52.501012,
+    "geom:longitude":4.9862,
+    "iso:country":"NL",
+    "lbl:latitude":52.50094,
+    "lbl:longitude":4.986316,
+    "mps:latitude":52.50094,
+    "mps:longitude":4.986316,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Maten- en Zuivelbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Maten- en Zuivelbuurt"
+    ],
+    "reversegeo:latitude":52.50094,
+    "reversegeo:longitude":4.986316,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823231,
+        85633337,
+        101751889,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"07625cce5ca291447d2b7a1ea44480c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751889,
+            "macrohood_id":1158823231,
+            "neighbourhood_id":1158820333,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158820333,
+    "wof:lastmodified":1513464220,
+    "wof:name":"Maten- en Zuivelbuurt",
+    "wof:parent_id":1158823231,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.977938319594589,
+    52.49451041888611,
+    4.993595654975425,
+    52.507472324708395
+],
+  "geometry": {"coordinates":[[[[4.9857560925364,52.50669406985594],[4.98569928753542,52.5068034127466],[4.98642126840492,52.5074723247084],[4.99359565497543,52.50482174254388],[4.99177198019661,52.50306201213004],[4.98428890948988,52.49589689913208],[4.98428933449354,52.49585027721037],[4.98416317404218,52.49589647208973],[4.98291799050662,52.49451041888611],[4.97793831959459,52.4962652735948],[4.97836859938857,52.49679785829598],[4.98062917250828,52.49718955589846],[4.98225041373957,52.49873054560148],[4.98186520496131,52.49957376746361],[4.98685182926084,52.50458095748085],[4.9857560925364,52.50669406985594]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158788411,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03450300",
+    "cbsnl:BU_NAAM":"'t Goeie Spoor en omgeving",
+    "cbsnl:GM_CODE":"GM0345",
+    "cbsnl:GM_NAAM":"Veenendaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3247",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK034503",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":274445.730175,
+    "geom:bbox":"5.53973824631,52.0189108264,5.55337473946,52.0274345574",
+    "geom:latitude":52.023392,
+    "geom:longitude":5.547074,
+    "iso:country":"NL",
+    "lbl:latitude":52.022103,
+    "lbl:longitude":5.549812,
+    "mps:latitude":52.022103,
+    "mps:longitude":5.549812,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "'t Goeie Spoor en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "'t Goeie Spoor en omgeving"
+    ],
+    "reversegeo:latitude":52.022103,
+    "reversegeo:longitude":5.549812,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158790333,
+        85633337,
+        101751829,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6c23d7481e251f3184a1020e8b1f289b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751829,
+            "macrohood_id":1158790333,
+            "neighbourhood_id":1158788411,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788411,
+    "wof:lastmodified":1513622007,
+    "wof:name":"'t Goeie Spoor en omgeving",
+    "wof:parent_id":1158790333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.539738246311445,
+    52.01891082642548,
+    5.553374739460042,
+    52.027434557371095
+],
+  "geometry": {"coordinates":[[[[5.53973824631144,52.02562326709831],[5.53999694452896,52.02591139452844],[5.54110748608004,52.02743455737109],[5.54229789362999,52.02721390783815],[5.54332833233129,52.0264328242891],[5.54334714320868,52.02640708791404],[5.54383531921197,52.02625570433474],[5.54429558235885,52.02562746896795],[5.54508956118358,52.02521559754938],[5.54857783252201,52.02443258216393],[5.5484932986373,52.02432600192714],[5.55297187076694,52.0233297009071],[5.55337473946004,52.02324006674564],[5.55080901289384,52.02015623967476],[5.55077243055101,52.02011219306443],[5.54979356799569,52.01891082642548],[5.54812184768571,52.02067676554525],[5.54570725044002,52.02284534451199],[5.54309116987088,52.0242948073545],[5.53973824631144,52.02562326709831]]]],"type":"MultiPolygon"}
+}

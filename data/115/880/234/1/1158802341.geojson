@@ -1,0 +1,82 @@
+{
+  "id": 1158802341,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01530300",
+    "cbsnl:BU_NAAM":"Tubantia-Toekomst",
+    "cbsnl:GM_CODE":"GM0153",
+    "cbsnl:GM_NAAM":"Enschede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1823",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK015303",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00015,
+    "geom:area_square_m":1137704.402392,
+    "geom:bbox":"6.85857661747,52.2209063467,6.88048350776,52.2317991076",
+    "geom:latitude":52.225643,
+    "geom:longitude":6.869446,
+    "iso:country":"NL",
+    "lbl:latitude":52.22582,
+    "lbl:longitude":6.869446,
+    "mps:latitude":52.22582,
+    "mps:longitude":6.869446,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Tubantia-Toekomst"
+    ],
+    "name:nld_x_preferred":[
+        "Tubantia-Toekomst"
+    ],
+    "reversegeo:latitude":52.22582,
+    "reversegeo:longitude":6.869446,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805841,
+        404473827,
+        85633337,
+        101751871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c3edd94945d25ebe6f016c636107e3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473827,
+            "locality_id":101751871,
+            "macrohood_id":1158805841,
+            "neighbourhood_id":1158802341,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802341,
+    "wof:lastmodified":1513524255,
+    "wof:name":"Tubantia-Toekomst",
+    "wof:parent_id":1158805841,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.858576617468073,
+    52.22090634666564,
+    6.880483507762603,
+    52.23179910756049
+],
+  "geometry": {"coordinates":[[[[6.86607709913486,52.23179910756049],[6.86916410607777,52.23065919300939],[6.87976586178385,52.22667209265887],[6.8804835077626,52.22631226173312],[6.87911885687866,52.22550583908884],[6.87869459040388,52.22350976069527],[6.87851181100157,52.22137554698595],[6.87475138174473,52.2210109160289],[6.87163270084422,52.22090634666564],[6.8681877551246,52.22118993740526],[6.86710918358315,52.2214315302082],[6.86460777033599,52.22207217869079],[6.86297324411137,52.22262262180092],[6.86121592403156,52.22345314776196],[6.85857661746807,52.22504046873101],[6.85967818346443,52.22626385011662],[6.85974560805402,52.22663124827969],[6.8601409149624,52.22729824754164],[6.8611156910255,52.22869441147527],[6.86192911264009,52.22855040060449],[6.86356971537816,52.23039325725013],[6.86440103157121,52.23015473153885],[6.86607709913486,52.23179910756049]]]],"type":"MultiPolygon"}
+}

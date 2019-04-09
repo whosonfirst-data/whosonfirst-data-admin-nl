@@ -1,0 +1,86 @@
+{
+  "id": 1158784599,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07158500",
+    "cbsnl:BU_NAAM":"Kern Zuiddorpe",
+    "cbsnl:GM_CODE":"GM0715",
+    "cbsnl:GM_NAAM":"Terneuzen",
+    "cbsnl:IND_WBI":"2",
+    "cbsnl:OAD":"106",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK071585",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:area_square_m":707877.80274,
+    "geom:bbox":"3.88629378071,51.2227549228,3.91132765753,51.2393033525",
+    "geom:latitude":51.231771,
+    "geom:longitude":3.899707,
+    "iso:country":"NL",
+    "lbl:latitude":51.232616,
+    "lbl:longitude":3.899708,
+    "mps:latitude":51.232616,
+    "mps:longitude":3.899708,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zuiddorpe"
+    ],
+    "name:eng_x_variant":[
+        "Kern Zuiddorpe"
+    ],
+    "name:nld_x_preferred":[
+        "Zuiddorpe"
+    ],
+    "name:nld_x_variant":[
+        "Kern Zuiddorpe"
+    ],
+    "reversegeo:latitude":51.232616,
+    "reversegeo:longitude":3.899708,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474329,
+        85633337,
+        101855269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9a4973dc3f6118920b4aaacd68c6ef0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474329,
+            "locality_id":101855269,
+            "neighbourhood_id":1158784599,
+            "region_id":85687037
+        }
+    ],
+    "wof:id":1158784599,
+    "wof:lastmodified":1513628675,
+    "wof:name":"Zuiddorpe",
+    "wof:parent_id":101855269,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.886293780707513,
+    51.22275492279442,
+    3.911327657525863,
+    51.239303352525575
+],
+  "geometry": {"coordinates":[[[[3.88860210837804,51.22299863284096],[3.88629378070751,51.2255379853407],[3.89624023176415,51.22859094597396],[3.89624626042571,51.2286155747201],[3.89699111038084,51.23166344166054],[3.89773605394669,51.23471130225895],[3.90177581893391,51.23617085801376],[3.90186723165862,51.23620388633867],[3.90191018998554,51.23623140511863],[3.90191442599587,51.23623306858156],[3.90153222925603,51.23664735615289],[3.90202003042323,51.23680764924491],[3.90235348188926,51.23641765953074],[3.90912378169039,51.23930335252557],[3.91091362278004,51.23906658832458],[3.91132765752586,51.23862239631585],[3.91127681857215,51.23601282777763],[3.90673819590035,51.2351192167975],[3.90474610592265,51.23318887985565],[3.89620727215802,51.2274608511247],[3.89301340699781,51.2242266301838],[3.89177583077798,51.22365871256432],[3.88887678005007,51.22275492279442],[3.88865374850482,51.22295614619097],[3.88860210837804,51.22299863284096]]]],"type":"MultiPolygon"}
+}

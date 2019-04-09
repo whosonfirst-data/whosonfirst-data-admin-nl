@@ -1,0 +1,80 @@
+{
+  "id": 1158803165,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01770103",
+    "cbsnl:BU_NAAM":"Hartkamp II",
+    "cbsnl:GM_CODE":"GM0177",
+    "cbsnl:GM_NAAM":"Raalte",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"920",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK017701",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":333262.150982,
+    "geom:bbox":"6.25923250573,52.3722988601,6.27016711272,52.3808599815",
+    "geom:latitude":52.376746,
+    "geom:longitude":6.264255,
+    "iso:country":"NL",
+    "lbl:latitude":52.376351,
+    "lbl:longitude":6.264174,
+    "mps:latitude":52.376351,
+    "mps:longitude":6.264174,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hartkamp II"
+    ],
+    "name:nld_x_preferred":[
+        "Hartkamp II"
+    ],
+    "reversegeo:latitude":52.376351,
+    "reversegeo:longitude":6.264174,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473849,
+        85633337,
+        101808759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9f50c4f368f0f7843ded3a210304198a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473849,
+            "locality_id":101808759,
+            "neighbourhood_id":1158803165,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803165,
+    "wof:lastmodified":1513524320,
+    "wof:name":"Hartkamp II",
+    "wof:parent_id":101808759,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.25923250573284,
+    52.372298860147566,
+    6.270167112722993,
+    52.38085998150678
+],
+  "geometry": {"coordinates":[[[[6.26429606339127,52.38023300767956],[6.26473927959642,52.38028280717974],[6.2650164944985,52.37929740734275],[6.26503279452346,52.37923970753766],[6.26696278527537,52.37776033027637],[6.27016711272299,52.37693653340758],[6.26973340463601,52.37617578647384],[6.26943264023582,52.3756721722957],[6.26792954171569,52.37497499821306],[6.2628894975331,52.37229886014757],[6.25923250573284,52.38085998150678],[6.26062743610954,52.38024581286918],[6.26203949723594,52.37997838459139],[6.26429606339127,52.38023300767956]]]],"type":"MultiPolygon"}
+}

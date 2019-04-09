@@ -1,0 +1,80 @@
+{
+  "id": 1158788917,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU15810107",
+    "cbsnl:BU_NAAM":"Hoenderdaal en Emmalaan",
+    "cbsnl:GM_CODE":"GM1581",
+    "cbsnl:GM_NAAM":"Utrechtse Heuvelrug",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1203",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK158101",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":773998.641522,
+    "geom:bbox":"5.25515862862,52.0490002443,5.27390419221,52.0599765845",
+    "geom:latitude":52.054541,
+    "geom:longitude":5.264441,
+    "iso:country":"NL",
+    "lbl:latitude":52.054335,
+    "lbl:longitude":5.264299,
+    "mps:latitude":52.054335,
+    "mps:longitude":5.264299,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hoenderdaal en Emmalaan"
+    ],
+    "name:nld_x_preferred":[
+        "Hoenderdaal en Emmalaan"
+    ],
+    "reversegeo:latitude":52.054335,
+    "reversegeo:longitude":5.264299,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474547,
+        85633337,
+        101806999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1155dda1764ee7dd0cd78547483f360b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474547,
+            "locality_id":101806999,
+            "neighbourhood_id":1158788917,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788917,
+    "wof:lastmodified":1513622051,
+    "wof:name":"Hoenderdaal en Emmalaan",
+    "wof:parent_id":101806999,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.255158628615338,
+    52.04900024432304,
+    5.273904192207152,
+    52.05997658450396
+],
+  "geometry": {"coordinates":[[[[5.26393693071733,52.05972677166326],[5.26790335853649,52.05740705662148],[5.2682090102978,52.05755829479256],[5.27390419220715,52.0541253945425],[5.27370203637413,52.0540150978054],[5.26485585228343,52.0491877944814],[5.26459338564202,52.04904455559868],[5.26463819088853,52.04900024432304],[5.26437520087242,52.04909965050177],[5.26393479640072,52.0494214461566],[5.26216195416474,52.05045225925817],[5.26241173490744,52.05066056926848],[5.25515862861534,52.0550302659582],[5.26350973464022,52.05997658450396],[5.26393693071733,52.05972677166326]]]],"type":"MultiPolygon"}
+}

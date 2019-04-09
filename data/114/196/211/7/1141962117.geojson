@@ -1,0 +1,80 @@
+{
+  "id": 1141962117,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02001702",
+    "cbsnl:BU_NAAM":"Beemte",
+    "cbsnl:GM_CODE":"GM0200",
+    "cbsnl:GM_NAAM":"Apeldoorn",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"38",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK020017",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":352476.400995,
+    "geom:bbox":"5.9809347767,52.2526540735,5.99277284525,52.2575105987",
+    "geom:latitude":52.255072,
+    "geom:longitude":5.987199,
+    "iso:country":"NL",
+    "lbl:latitude":52.255135,
+    "lbl:longitude":5.987199,
+    "mps:latitude":52.255135,
+    "mps:longitude":5.987199,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Beemte"
+    ],
+    "name:nld_x_preferred":[
+        "Beemte"
+    ],
+    "reversegeo:latitude":52.255135,
+    "reversegeo:longitude":5.987199,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473867,
+        85633337,
+        1158783661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7c54602094f380a06189867dad282078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473867,
+            "locality_id":1158783661,
+            "neighbourhood_id":1141962117,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962117,
+    "wof:lastmodified":1513368650,
+    "wof:name":"Beemte",
+    "wof:parent_id":1158783661,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.980934776703874,
+    52.252654073498704,
+    5.992772845252932,
+    52.25751059874456
+],
+  "geometry": {"coordinates":[[[[5.98093477670387,52.25324210050286],[5.98136439920766,52.25395609131145],[5.98204157180266,52.25514627053576],[5.98250916997615,52.25695132332725],[5.98580765004478,52.25751059874456],[5.98770561370818,52.25748186749913],[5.98964908808611,52.25736693539811],[5.99160712703098,52.25717932582537],[5.99264802371811,52.25705941075633],[5.99236884148779,52.25598183790875],[5.99277284525293,52.25594157162298],[5.99219551929944,52.253430052966],[5.99067270907141,52.25288136442961],[5.99057004355435,52.25284437133931],[5.98959298271478,52.2526540734987],[5.98394925798898,52.25294999554967],[5.98093477670387,52.25324210050286]]]],"type":"MultiPolygon"}
+}

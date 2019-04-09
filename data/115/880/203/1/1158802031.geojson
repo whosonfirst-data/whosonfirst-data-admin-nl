@@ -1,0 +1,80 @@
+{
+  "id": 1158802031,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01470004",
+    "cbsnl:BU_NAAM":"Dikkerslaan-Molenkampsweg en omgeving",
+    "cbsnl:GM_CODE":"GM0147",
+    "cbsnl:GM_NAAM":"Borne",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1276",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK014700",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000114,
+    "geom:area_square_m":863262.214224,
+    "geom:bbox":"6.73172196959,52.3016848797,6.75489275615,52.3123835651",
+    "geom:latitude":52.306736,
+    "geom:longitude":6.743402,
+    "iso:country":"NL",
+    "lbl:latitude":52.306261,
+    "lbl:longitude":6.743586,
+    "mps:latitude":52.306261,
+    "mps:longitude":6.743586,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Dikkerslaan-Molenkampsweg en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Dikkerslaan-Molenkampsweg en omgeving"
+    ],
+    "reversegeo:latitude":52.306261,
+    "reversegeo:longitude":6.743586,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473821,
+        85633337,
+        101754771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"95ed54603252e73ecc879e78147cea30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473821,
+            "locality_id":101754771,
+            "neighbourhood_id":1158802031,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802031,
+    "wof:lastmodified":1513524233,
+    "wof:name":"Dikkerslaan-Molenkampsweg en omgeving",
+    "wof:parent_id":101754771,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.731721969593568,
+    52.301684879672486,
+    6.754892756153308,
+    52.312383565130936
+],
+  "geometry": {"coordinates":[[[[6.7337929517666,52.30812923662889],[6.73387896263736,52.30816413839612],[6.73172196959357,52.30922952688388],[6.73300266754976,52.31016053408432],[6.73342458197016,52.31047404398397],[6.73383293790721,52.31084388110001],[6.7344262381096,52.31126778202825],[6.73496834378603,52.31151438127346],[6.73527743073044,52.31163256537609],[6.73587835258495,52.31180359355373],[6.73652508691766,52.31197409420207],[6.73756097161385,52.31238356513094],[6.73889535666845,52.31118518773604],[6.73904476860084,52.31127744442951],[6.73994854314736,52.31114210708806],[6.74084408208081,52.31064646306556],[6.74256898094007,52.30998147550407],[6.74375019031036,52.30961287068389],[6.74370718514709,52.30950268874735],[6.75264056354982,52.30652961231325],[6.75489275615331,52.30580357387622],[6.75424711472333,52.30493351038676],[6.75305054909028,52.30393160756248],[6.75249255370614,52.30362260236072],[6.75123365094504,52.30168487967249],[6.74706040645432,52.30220403411244],[6.74425467136438,52.30246268249278],[6.74396714432749,52.30265025322966],[6.74131728843954,52.30408569856415],[6.73659480023164,52.30656751086773],[6.7337929517666,52.30812923662889]]]],"type":"MultiPolygon"}
+}

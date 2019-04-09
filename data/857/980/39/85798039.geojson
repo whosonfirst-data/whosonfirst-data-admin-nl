@@ -1,0 +1,127 @@
+{
+  "id": 85798039,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17830504",
+    "cbsnl:BU_NAAM":"Kleine Geest en Molenwijk",
+    "cbsnl:GM_CODE":"GM1783",
+    "cbsnl:GM_NAAM":"Westland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1554",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK178305",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:area_square_m":418887.205607,
+    "geom:bbox":"4.16769034871,52.0235304877,4.18063157652,52.0333266885",
+    "geom:latitude":52.028533,
+    "geom:longitude":4.173322,
+    "gn:latitude":52.02847,
+    "gn:longitude":4.17416,
+    "iso:country":"NL",
+    "lbl:latitude":52.034547,
+    "lbl:longitude":4.176985,
+    "mps:latitude":52.028805,
+    "mps:longitude":4.17342,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Kleine Geest en Molenwijk"
+    ],
+    "name:nld_x_colloquial":[
+        "Molenwyk"
+    ],
+    "name:nld_x_preferred":[
+        "Kleine Geest en Molenwijk"
+    ],
+    "name:unk_x_variant":[
+        "Molenwijk"
+    ],
+    "qs:gn_adm0_cc":"NL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2750630,
+    "qs:gn_nam_loc":"Monster, Westland, Zuid-Holland, NL",
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Molenwijk",
+    "qs:local_max":1850,
+    "qs:local_sum":1850,
+    "qs:localhoods":1,
+    "qs:name":"Molenwijk",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Zuid-Holland",
+    "qs:name_adm2":"Westland",
+    "qs:name_local":"Monster",
+    "qs:photo_max":244,
+    "qs:photo_sum":1850,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":92,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346383,
+    "qs:woe_adm2":28995436,
+    "qs:woe_lau":0,
+    "qs:woe_local":731785,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":52.028805,
+    "reversegeo:longitude":4.17342,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        404474667,
+        85633337,
+        101807049,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2750648,
+        "gp:id":731778,
+        "qs:id":179751,
+        "qs_pg:id":179751
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"dba08f33190d00ac9a738cbb2b696c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474667,
+            "locality_id":101807049,
+            "neighbourhood_id":85798039,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":85798039,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527269548,
+    "wof:name":"Kleine Geest en Molenwijk",
+    "wof:parent_id":101807049,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.16769034871012,
+    52.02353048768109,
+    4.18063157652166,
+    52.03332668850337
+],
+  "geometry": {"coordinates":[[[[4.17486237499157,52.03227827181819],[4.17603705393337,52.03153860490969],[4.17913833252071,52.03279701842709],[4.18063157652166,52.03332668850337],[4.1803318101593,52.0322503868415],[4.17974602310674,52.03137392472809],[4.17838038122815,52.03001836813907],[4.17539483419296,52.02712037023502],[4.17408502456632,52.02634028747352],[4.17347177453454,52.02559704566303],[4.17330968125805,52.02510867308808],[4.17320493304953,52.02479307871228],[4.17271867533356,52.02403486326674],[4.17191288705599,52.02431205932037],[4.17158223029729,52.02443232297501],[4.17054204667694,52.02353048768109],[4.16928498781187,52.02408225675925],[4.16934654005818,52.02475277835973],[4.16936308975465,52.02493303506139],[4.16958217374874,52.02515973317306],[4.16893131538667,52.02539643420108],[4.16846368428089,52.02596120674608],[4.16808753885232,52.026536701198],[4.16769034871012,52.0263771047513],[4.16788438442178,52.02688639753001],[4.16835489246857,52.0284720074937],[4.16806872674209,52.02872388983739],[4.172665700466,52.03121324639752],[4.17486237499157,52.03227827181819]]]],"type":"MultiPolygon"}
+}

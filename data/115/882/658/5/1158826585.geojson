@@ -1,0 +1,72 @@
+{
+  "id": 1158826585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00014,
+    "geom:area_square_m":1065230.162478,
+    "geom:bbox":"4.80024938564,52.1620814724,4.82521708084,52.1729731031",
+    "geom:latitude":52.167512,
+    "geom:longitude":4.812051,
+    "iso:country":"NL",
+    "lbl:latitude":52.166865,
+    "lbl:longitude":4.809097,
+    "mps:latitude":52.166865,
+    "mps:longitude":4.809097,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen Noorden"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen Noorden"
+    ],
+    "reversegeo:latitude":52.166865,
+    "reversegeo:longitude":4.809097,
+    "src:geom":"mz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474217,
+        85633337,
+        101855297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0c1f1e46d6ac0c4700bf90f628c0f41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474217,
+            "locality_id":101855297,
+            "neighbourhood_id":1158826585,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826585,
+    "wof:lastmodified":1513588075,
+    "wof:name":"Verspreide huizen Noorden",
+    "wof:parent_id":101855297,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.800249385644907,
+    52.16208147242306,
+    4.825217080844701,
+    52.17297310313271
+],
+  "geometry": {"coordinates":[[[[4.80653452235631,52.16208147242306],[4.80559573991332,52.16373312390084],[4.80397894779407,52.16653484962704],[4.80024938564491,52.17297310313271],[4.80303463360262,52.17235315439655],[4.80621186852634,52.17163598427578],[4.80802958285615,52.17122930813345],[4.8098580805952,52.17083617573239],[4.81065867768521,52.17067355778882],[4.81106810926982,52.17060020121778],[4.81158087696676,52.17057537908954],[4.81206394362411,52.17055932678208],[4.81442836977091,52.17036316441502],[4.81677784008687,52.17017349788989],[4.81963279661929,52.16994968881339],[4.82339120001935,52.16964355673112],[4.82354333805657,52.16963054949723],[4.8252170808447,52.16610143373845],[4.82317901817076,52.16590998200825],[4.82133445799471,52.16544472524425],[4.81859289220328,52.16483467949124],[4.81177048913714,52.16333907709738],[4.80760857786692,52.16239040358553],[4.80672494701569,52.16213624990936],[4.80653452235631,52.16208147242306]]]],"type":"MultiPolygon"}
+}

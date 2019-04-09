@@ -1,0 +1,80 @@
+{
+  "id": 1158803229,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01770900",
+    "cbsnl:BU_NAAM":"Laag Zuthem-Kern",
+    "cbsnl:GM_CODE":"GM0177",
+    "cbsnl:GM_NAAM":"Raalte",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"53",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK017709",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":270344.823226,
+    "geom:bbox":"6.16581034739,52.4553795474,6.17866272503,52.4628760367",
+    "geom:latitude":52.459697,
+    "geom:longitude":6.172662,
+    "iso:country":"NL",
+    "lbl:latitude":52.460807,
+    "lbl:longitude":6.171494,
+    "mps:latitude":52.460807,
+    "mps:longitude":6.171494,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Laag Zuthem-Kern"
+    ],
+    "name:nld_x_preferred":[
+        "Laag Zuthem-Kern"
+    ],
+    "reversegeo:latitude":52.460807,
+    "reversegeo:longitude":6.171494,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473849,
+        85633337,
+        1158805677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9bebccc2fe64facf9d611bcaf257e411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473849,
+            "locality_id":1158805677,
+            "neighbourhood_id":1158803229,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803229,
+    "wof:lastmodified":1513524325,
+    "wof:name":"Laag Zuthem-Kern",
+    "wof:parent_id":1158805677,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.16581034739017,
+    52.455379547350006,
+    6.178662725027158,
+    52.46287603669478
+],
+  "geometry": {"coordinates":[[[[6.17686771180228,52.45537954735001],[6.17124631657094,52.4589490702552],[6.17093124685489,52.45886492965175],[6.16829274401828,52.46067540949961],[6.16581034739017,52.46206687263641],[6.16650681163195,52.46243528676889],[6.168184524001,52.46277476505278],[6.17011831187812,52.46287603669478],[6.17162251782775,52.46281581402776],[6.17239914898978,52.46262920084364],[6.17302344488287,52.46268363803084],[6.1731823975104,52.46166265249789],[6.17352899662614,52.46123538117781],[6.17437243602983,52.46029484307596],[6.17466993240482,52.45995288978529],[6.1750559623947,52.45961034548763],[6.17582965346157,52.45901796473175],[6.17631808544255,52.45874427689976],[6.17699111672295,52.45818346611839],[6.17732141076258,52.45783334889835],[6.17855427585894,52.45770146836148],[6.17866272502716,52.45645228576437],[6.17686771180228,52.45537954735001]]]],"type":"MultiPolygon"}
+}

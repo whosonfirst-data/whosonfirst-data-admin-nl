@@ -1,0 +1,82 @@
+{
+  "id": 1158826263,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05370506",
+    "cbsnl:BU_NAAM":"Zuid-West",
+    "cbsnl:GM_CODE":"GM0537",
+    "cbsnl:GM_NAAM":"Katwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1009",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK053705",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":225654.851716,
+    "geom:bbox":"4.38551766764,52.1946803885,4.39417511956,52.2008808331",
+    "geom:latitude":52.197348,
+    "geom:longitude":4.390063,
+    "iso:country":"NL",
+    "lbl:latitude":52.19733,
+    "lbl:longitude":4.390361,
+    "mps:latitude":52.19733,
+    "mps:longitude":4.390361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zuid-West"
+    ],
+    "name:nld_x_preferred":[
+        "Zuid-West"
+    ],
+    "reversegeo:latitude":52.19733,
+    "reversegeo:longitude":4.390361,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831245,
+        404474191,
+        85633337,
+        101754663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ccdd54feaf89820b174196aecdeffce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474191,
+            "locality_id":101754663,
+            "macrohood_id":1158831245,
+            "neighbourhood_id":1158826263,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826263,
+    "wof:lastmodified":1513588053,
+    "wof:name":"Zuid-West",
+    "wof:parent_id":1158831245,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.385517667636683,
+    52.19468038852473,
+    4.394175119555361,
+    52.20088083311367
+],
+  "geometry": {"coordinates":[[[[4.39004835054773,52.20088083311367],[4.39163287462069,52.20020743301611],[4.3922113423308,52.20004518037007],[4.39219005188633,52.19965765446131],[4.39237364121571,52.19923028582461],[4.3926494352686,52.19884975732496],[4.39292552075343,52.19844058105372],[4.39417511955536,52.19675480961814],[4.39383509521138,52.19680868734275],[4.39301888755423,52.19618610727886],[4.39169069325332,52.19507551463136],[4.39076867509427,52.19468038852473],[4.38951413533633,52.19473552131848],[4.38572735848903,52.19569668075526],[4.38551766763668,52.19577298777803],[4.38555805746487,52.19583175550112],[4.39004835054773,52.20088083311367]]]],"type":"MultiPolygon"}
+}

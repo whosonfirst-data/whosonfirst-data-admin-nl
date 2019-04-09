@@ -1,0 +1,78 @@
+{
+  "id": 1158783505,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02140202",
+    "cbsnl:BU_NAAM":"De Woerd",
+    "cbsnl:GM_CODE":"GM0214",
+    "cbsnl:GM_NAAM":"Buren",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"138",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK021402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":242390.611378,
+    "geom:bbox":"5.36624568318,51.9013467713,5.37828653998,51.9061855177",
+    "geom:latitude":51.904227,
+    "geom:longitude":5.372896,
+    "iso:country":"NL",
+    "lbl:latitude":51.904165,
+    "lbl:longitude":5.372896,
+    "mps:latitude":51.904165,
+    "mps:longitude":5.372896,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:eng_x_preferred":[
+        "De Woerd"
+    ],
+    "name:nld_x_preferred":[
+        "De Woerd"
+    ],
+    "reversegeo:latitude":51.904165,
+    "reversegeo:longitude":5.372896,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404473879,
+        85633337,
+        85687043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0eacd83292109a3c1b36e3f8a27c2fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473879,
+            "locality_id":1158783505,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1158783505,
+    "wof:lastmodified":1513367951,
+    "wof:name":"De Woerd",
+    "wof:parent_id":404473879,
+    "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "neighbourhood"
+    ],
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.366245683179435,
+    51.901346771343405,
+    5.378286539979587,
+    51.90618551772022
+],
+  "geometry": {"coordinates":[[[[5.37179601531196,51.90263248943313],[5.3710197745434,51.90326690244406],[5.36898116260432,51.90328655010196],[5.36624568317943,51.90495061188336],[5.36832326181349,51.90586242713878],[5.37069608728621,51.90618551772022],[5.37098247141695,51.90600129773176],[5.37190530981346,51.90574244466611],[5.37389906300025,51.90575251599448],[5.37588261565757,51.905705252321],[5.3769259502006,51.90560647580483],[5.37783593707094,51.90468609414491],[5.37828653997959,51.90397156119929],[5.37746117256991,51.90319569788939],[5.37685836944533,51.90223670997365],[5.37659702152543,51.90138645434511],[5.37576609394304,51.90134677134341],[5.37553909501266,51.90211777619528],[5.37497662780504,51.90248988985913],[5.37179601531196,51.90263248943313]]]],"type":"MultiPolygon"}
+}

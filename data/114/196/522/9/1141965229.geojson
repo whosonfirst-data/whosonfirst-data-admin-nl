@@ -1,0 +1,80 @@
+{
+  "id": 1141965229,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18760301",
+    "cbsnl:BU_NAAM":"Bronkhorst",
+    "cbsnl:GM_CODE":"GM1876",
+    "cbsnl:GM_NAAM":"Bronckhorst",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"67",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK187603",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":128033.001166,
+    "geom:bbox":"6.17796854864,52.0741828473,6.18419572829,52.0777491622",
+    "geom:latitude":52.07591,
+    "geom:longitude":6.180804,
+    "iso:country":"NL",
+    "lbl:latitude":52.076008,
+    "lbl:longitude":6.180434,
+    "mps:latitude":52.076008,
+    "mps:longitude":6.180434,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bronkhorst"
+    ],
+    "name:nld_x_preferred":[
+        "Bronkhorst"
+    ],
+    "reversegeo:latitude":52.076008,
+    "reversegeo:longitude":6.180434,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474673,
+        85633337,
+        101808561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"91f9628f77b2792a2fddd42f8a9520f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474673,
+            "locality_id":101808561,
+            "neighbourhood_id":1141965229,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141965229,
+    "wof:lastmodified":1513368878,
+    "wof:name":"Bronkhorst",
+    "wof:parent_id":101808561,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.177968548635662,
+    52.07418284725652,
+    6.184195728293779,
+    52.07774916217016
+],
+  "geometry": {"coordinates":[[[[6.17796854863566,52.07774107476386],[6.17822831216894,52.07774916217016],[6.18119208236878,52.07755226259417],[6.18154193691616,52.07688363726443],[6.18402541678907,52.07667557610005],[6.18419572829378,52.07493881729255],[6.18393625037778,52.07461333637917],[6.18347202634592,52.07443670725645],[6.18301841046046,52.07452319855127],[6.18051609574444,52.07448530575572],[6.18017386747867,52.07418284725652],[6.17964573808819,52.07425746592632],[6.17964558164211,52.07458301686142],[6.17808983041791,52.07453308237348],[6.17796854863566,52.07774107476386]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,127 @@
+{
+  "id": 85797417,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00140605",
+    "cbsnl:BU_NAAM":"De Wijert",
+    "cbsnl:GM_CODE":"GM0014",
+    "cbsnl:GM_NAAM":"Groningen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3418",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK001406",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":598035.644211,
+    "geom:bbox":"6.56300565509,53.1928013733,6.57748907829,53.2006989153",
+    "geom:latitude":53.196236,
+    "geom:longitude":6.569381,
+    "gn:latitude":53.1945,
+    "gn:longitude":6.57117,
+    "iso:country":"NL",
+    "lbl:latitude":53.210761,
+    "lbl:longitude":6.564551,
+    "mps:latitude":53.19672,
+    "mps:longitude":6.568795,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "De Wijert"
+    ],
+    "name:nld_x_colloquial":[
+        "De Wyert"
+    ],
+    "name:nld_x_preferred":[
+        "De Wijert"
+    ],
+    "name:unk_x_variant":[
+        "De Wijert"
+    ],
+    "qs:gn_adm0_cc":"NL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2755251,
+    "qs:gn_nam_loc":"Groningen, Groningen, Groningen, NL",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"De Wijert",
+    "qs:local_max":11821,
+    "qs:local_sum":35910,
+    "qs:localhoods":9,
+    "qs:name":"De Wijert",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Groningen",
+    "qs:name_adm2":"Groningen",
+    "qs:name_local":"Groningen",
+    "qs:photo_max":3504,
+    "qs:photo_sum":11821,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":136,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346376,
+    "qs:woe_adm2":12592177,
+    "qs:woe_lau":0,
+    "qs:woe_local":729549,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":53.19672,
+    "reversegeo:longitude":6.568795,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        404473713,
+        85633337,
+        101751909,
+        85687059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2756937,
+        "gp:id":728566,
+        "qs:id":490952,
+        "qs_pg:id":490952
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"3da99a3d257cdee933bca802f3c49cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473713,
+            "locality_id":101751909,
+            "neighbourhood_id":85797417,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":85797417,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527269548,
+    "wof:name":"De Wijert",
+    "wof:parent_id":101751909,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.56300565508508,
+    53.19280137326917,
+    6.57748907829198,
+    53.20069891526447
+],
+  "geometry": {"coordinates":[[[[6.56457960526052,53.19975458325713],[6.56505376287651,53.19963682322532],[6.56686476332592,53.19972386913251],[6.56722566940384,53.19988077042824],[6.56761894258242,53.19992293510116],[6.56937277234606,53.20069891526447],[6.56952793830738,53.20069617599265],[6.57043875596895,53.19994510479478],[6.57089692027875,53.20014439709806],[6.57437217108057,53.19807290515896],[6.57452708887561,53.19795396746338],[6.57466652392028,53.19776712452848],[6.57596815630899,53.19602285876791],[6.57748907829198,53.19393854432958],[6.57663684800772,53.19368421956665],[6.57540624168292,53.19332428742251],[6.574770795753,53.19329328688074],[6.57348708341653,53.19325476768567],[6.57225018748595,53.19319366583494],[6.57101449905708,53.19306605184155],[6.56942844657601,53.19298687629269],[6.56860311083969,53.19299914222375],[6.5657023614265,53.19286906365026],[6.56419352851834,53.19280137326917],[6.5640049644427,53.1931256271507],[6.56368186554974,53.19368546705694],[6.56335287302483,53.19434920381678],[6.56316406337709,53.19490464200292],[6.5630796438287,53.19525677563046],[6.56302911394963,53.19567008893006],[6.56300565508508,53.1961938263313],[6.56307359562636,53.19686472466068],[6.56315988746079,53.19722954277906],[6.56318548203167,53.19731108146725],[6.56318591790353,53.1973124659686],[6.56323308920918,53.1974627370996],[6.5633667859616,53.19782149343859],[6.56357646624582,53.19825688637047],[6.56380263200428,53.19864472664381],[6.56410536059956,53.19909455146198],[6.56457145920188,53.19974306870658],[6.56457960526052,53.19975458325713]]]],"type":"MultiPolygon"}
+}

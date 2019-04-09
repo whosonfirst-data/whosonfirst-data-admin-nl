@@ -1,0 +1,82 @@
+{
+  "id": 1158819727,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04000405",
+    "cbsnl:BU_NAAM":"Falga",
+    "cbsnl:GM_CODE":"GM0400",
+    "cbsnl:GM_NAAM":"Den Helder",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1903",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK040004",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":105169.666886,
+    "geom:bbox":"4.7391039267,52.9383020634,4.74527072607,52.9421952711",
+    "geom:latitude":52.940201,
+    "geom:longitude":4.741987,
+    "iso:country":"NL",
+    "lbl:latitude":52.940325,
+    "lbl:longitude":4.74194,
+    "mps:latitude":52.940325,
+    "mps:longitude":4.74194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Falga"
+    ],
+    "name:nld_x_preferred":[
+        "Falga"
+    ],
+    "reversegeo:latitude":52.940325,
+    "reversegeo:longitude":4.74194,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823015,
+        404474079,
+        85633337,
+        101806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0b13f738dd0c37f0e5305e4041e8d79f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474079,
+            "locality_id":101806071,
+            "macrohood_id":1158823015,
+            "neighbourhood_id":1158819727,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158819727,
+    "wof:lastmodified":1513464167,
+    "wof:name":"Falga",
+    "wof:parent_id":1158823015,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.739103926698156,
+    52.938302063351706,
+    4.745270726068027,
+    52.94219527110199
+],
+  "geometry": {"coordinates":[[[[4.74099690573783,52.94219527110199],[4.74527072606803,52.94128415076639],[4.74510403130234,52.94107665206637],[4.74447770551911,52.94036952596712],[4.74409179507826,52.93980747336333],[4.74333268009119,52.9389344979663],[4.74321703210383,52.93870752451308],[4.74195191680125,52.93865632933324],[4.74024352039381,52.93850723695432],[4.73939452901516,52.93838749777913],[4.73927970629245,52.93830206335171],[4.73921412586303,52.93841403984636],[4.73910392669816,52.93872123218483],[4.73928432458772,52.93919569144582],[4.73959495401697,52.93971241692805],[4.74008703696119,52.9406339591356],[4.74058333773945,52.94127244514253],[4.74092127940713,52.94186176977927],[4.74099690573783,52.94219527110199]]]],"type":"MultiPolygon"}
+}

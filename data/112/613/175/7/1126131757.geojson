@@ -1,0 +1,79 @@
+{
+  "id": 1126131757,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00900008",
+    "cbsnl:BU_NAAM":"De Swetten",
+    "cbsnl:GM_CODE":"GM0090",
+    "cbsnl:GM_NAAM":"Smallingerland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1867",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK009000",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000166,
+    "geom:area_square_m":1232887.108821,
+    "geom:bbox":"6.07930416574,53.1060013996,6.09713262145,53.1183505446",
+    "geom:latitude":53.111843,
+    "geom:longitude":6.088668,
+    "iso:country":"NL",
+    "lbl:latitude":53.111637,
+    "lbl:longitude":6.088668,
+    "mps:latitude":53.111637,
+    "mps:longitude":6.088668,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "De Swetten"
+    ],
+    "name:eng_x_preferred":[
+        "De Swetten"
+    ],
+    "reversegeo:latitude":53.111637,
+    "reversegeo:longitude":6.088668,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        404473791,
+        85633337,
+        101806135,
+        85687055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7e53318ec526fc6bd0e743fbb228a6e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473791,
+            "locality_id":101806135,
+            "neighbourhood_id":1126131757,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":1126131757,
+    "wof:lastmodified":1507246099,
+    "wof:name":"De Swetten",
+    "wof:parent_id":101806135,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.07930416574126,
+    53.1060013996029,
+    6.09713262144899,
+    53.11835054458668
+],
+  "geometry": {"coordinates":[[[[6.07930416574126,53.11493008677236],[6.08741887397464,53.1166880132457],[6.09542696735609,53.11835054458668],[6.09546247754877,53.11828125481924],[6.09643431984398,53.11678548962825],[6.09682734029333,53.11561721006084],[6.0968862988,53.11474239768138],[6.09688840896716,53.11341692843637],[6.09713262144899,53.10963287055805],[6.09450396146972,53.10942489253519],[6.09450722620287,53.10938224330064],[6.09415140913922,53.10935561845438],[6.09460189421437,53.10814568455683],[6.09472304285094,53.10656319172315],[6.09303932022614,53.1065006748171],[6.0900419347501,53.10638968958815],[6.08170063453536,53.1060013996029],[6.0799936855398,53.11209209843321],[6.07930416574126,53.11493008677236]]]],"type":"MultiPolygon"}
+}

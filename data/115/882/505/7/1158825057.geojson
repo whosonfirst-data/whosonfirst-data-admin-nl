@@ -1,0 +1,80 @@
+{
+  "id": 1158825057,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04890207",
+    "cbsnl:BU_NAAM":"Noord 4",
+    "cbsnl:GM_CODE":"GM0489",
+    "cbsnl:GM_NAAM":"Barendrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1663",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK048902",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":113604.157841,
+    "geom:bbox":"4.54807902728,51.8522379099,4.55417403864,51.8559951656",
+    "geom:latitude":51.854102,
+    "geom:longitude":4.550776,
+    "iso:country":"NL",
+    "lbl:latitude":51.854156,
+    "lbl:longitude":4.550776,
+    "mps:latitude":51.854156,
+    "mps:longitude":4.550776,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Noord 4"
+    ],
+    "name:nld_x_preferred":[
+        "Noord 4"
+    ],
+    "reversegeo:latitude":51.854156,
+    "reversegeo:longitude":4.550776,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831069,
+        85633337,
+        101754615,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"27b1774eb9fd9cb4e02fc4471e45f9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754615,
+            "macrohood_id":1158831069,
+            "neighbourhood_id":1158825057,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825057,
+    "wof:lastmodified":1513587964,
+    "wof:name":"Noord 4",
+    "wof:parent_id":1158831069,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.548079027277919,
+    51.85223790987255,
+    4.554174038637678,
+    51.85599516558439
+],
+  "geometry": {"coordinates":[[[[4.55178842257798,51.85599516558439],[4.55293815210802,51.85449478179],[4.55417403863768,51.85353093344837],[4.5532519654191,51.85312739870606],[4.55223560146141,51.85262393969914],[4.54961316105262,51.85230752120106],[4.54902306071823,51.85223790987255],[4.54807902727792,51.85551217892222],[4.55178842257798,51.85599516558439]]]],"type":"MultiPolygon"}
+}

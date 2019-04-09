@@ -1,0 +1,82 @@
+{
+  "id": 1158787021,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09951111",
+    "cbsnl:BU_NAAM":"Zuiderzeelaan, Waddenlaan",
+    "cbsnl:GM_CODE":"GM0995",
+    "cbsnl:GM_NAAM":"Lelystad",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1243",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK099511",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":453906.341899,
+    "geom:bbox":"5.4771976303,52.5207001263,5.4929902823,52.5253623587",
+    "geom:latitude":52.522941,
+    "geom:longitude":5.485093,
+    "iso:country":"NL",
+    "lbl:latitude":52.523112,
+    "lbl:longitude":5.485732,
+    "mps:latitude":52.523112,
+    "mps:longitude":5.485732,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zuiderzeelaan",
+        "Waddenlaan"
+    ],
+    "name:nld_x_preferred":[
+        "Zuiderzeelaan",
+        "Waddenlaan"
+    ],
+    "reversegeo:latitude":52.523112,
+    "reversegeo:longitude":5.485732,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158787421,
+        85633337,
+        101751873,
+        85687049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7dbda61e6d48c2e69cb9456e750c3c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751873,
+            "macrohood_id":1158787421,
+            "neighbourhood_id":1158787021,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158787021,
+    "wof:lastmodified":1513299288,
+    "wof:name":"Zuiderzeelaan, Waddenlaan",
+    "wof:parent_id":1158787421,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.477197630298627,
+    52.52070012625135,
+    5.492990282300893,
+    52.52536235871697
+],
+  "geometry": {"coordinates":[[[[5.47719763029863,52.52467051213973],[5.47850653660124,52.52471516425415],[5.47852979563023,52.52454219339231],[5.48132338504134,52.5246673204023],[5.48474124980696,52.5248162803831],[5.48478422276386,52.52485923076036],[5.4851664113082,52.52531517255084],[5.48520708708531,52.52534507545975],[5.48526027450017,52.52536235871697],[5.4853352550533,52.5253598523347],[5.48641817700362,52.52503436565126],[5.48646391440673,52.52501494194226],[5.48649560353106,52.52497334923838],[5.48653575039033,52.52494469113215],[5.48662346449026,52.5249240813194],[5.48686860359277,52.52493516373237],[5.48706185164283,52.52490180172074],[5.48712512127046,52.52503071774476],[5.48832029421512,52.52507123192235],[5.4924888081984,52.52520900105502],[5.4927992241048,52.52205933420728],[5.49299028230089,52.52125551561085],[5.48775571851959,52.52106725428899],[5.48147283196104,52.52084098216119],[5.47756636539228,52.52070012625135],[5.47719763029863,52.52467051213973]]]],"type":"MultiPolygon"}
+}

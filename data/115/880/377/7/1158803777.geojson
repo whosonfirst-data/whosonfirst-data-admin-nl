@@ -1,0 +1,80 @@
+{
+  "id": 1158803777,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17080901",
+    "cbsnl:BU_NAAM":"Tussen Sint Jansklooster en Heetveld",
+    "cbsnl:GM_CODE":"GM1708",
+    "cbsnl:GM_NAAM":"Steenwijkerland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"133",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170809",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000172,
+    "geom:area_square_m":1285955.375566,
+    "geom:bbox":"5.99441009567,52.6673709851,6.02359188084,52.6788667874",
+    "geom:latitude":52.672421,
+    "geom:longitude":6.01073,
+    "iso:country":"NL",
+    "lbl:latitude":52.672509,
+    "lbl:longitude":6.011727,
+    "mps:latitude":52.672509,
+    "mps:longitude":6.011727,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Tussen Sint Jansklooster en Heetveld"
+    ],
+    "name:nld_x_preferred":[
+        "Tussen Sint Jansklooster en Heetveld"
+    ],
+    "reversegeo:latitude":52.672509,
+    "reversegeo:longitude":6.011727,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474621,
+        85633337,
+        101807219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e530c79fcbe7b446585dad8762ee108a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474621,
+            "locality_id":101807219,
+            "neighbourhood_id":1158803777,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803777,
+    "wof:lastmodified":1513524361,
+    "wof:name":"Tussen Sint Jansklooster en Heetveld",
+    "wof:parent_id":101807219,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.994410095669768,
+    52.66737098505193,
+    6.023591880840982,
+    52.67886678739113
+],
+  "geometry": {"coordinates":[[[[5.99441009566977,52.67421534408417],[5.99579981633013,52.67484267834634],[5.99766043503306,52.67583773802501],[5.99767439884493,52.67582839886558],[5.9999341288199,52.67450689559809],[6.00146127417629,52.67363821387731],[6.01301827740411,52.67668414770909],[6.01289994021787,52.6770215094479],[6.01488769742476,52.6782462086539],[6.01607581236765,52.67886678739113],[6.02314306323691,52.67207308205456],[6.02323373712307,52.67187375525933],[6.02350450764299,52.67118984204806],[6.02359188084098,52.67076304289981],[6.0232111034066,52.67031010304418],[6.02274089791743,52.67014186032883],[6.02142654887751,52.66980792729983],[6.01908031084831,52.66918092159568],[6.01860981953377,52.66905507304103],[6.0175775670077,52.66883334299897],[6.01493451198133,52.66842520809227],[6.01490603649479,52.66842086482398],[6.01411468328209,52.66868089488928],[6.01275742888706,52.66860294527908],[6.01196524908891,52.66880595222675],[6.01073972429033,52.6681302013978],[6.00916869556171,52.66740625343507],[6.00909220288497,52.66737098505193],[6.00517335643068,52.66804551890027],[6.00349978124518,52.66876475436119],[5.99441009566977,52.67421534408417]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158802367,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01530501",
+    "cbsnl:BU_NAAM":"Ribbelt-Ribbelerbrink",
+    "cbsnl:GM_CODE":"GM0153",
+    "cbsnl:GM_NAAM":"Enschede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2647",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK015305",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":295316.201383,
+    "geom:bbox":"6.90873472616,52.2244948335,6.91779570539,52.2309504527",
+    "geom:latitude":52.227329,
+    "geom:longitude":6.913578,
+    "iso:country":"NL",
+    "lbl:latitude":52.227447,
+    "lbl:longitude":6.913578,
+    "mps:latitude":52.227447,
+    "mps:longitude":6.913578,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ribbelt-Ribbelerbrink"
+    ],
+    "name:nld_x_preferred":[
+        "Ribbelt-Ribbelerbrink"
+    ],
+    "reversegeo:latitude":52.227447,
+    "reversegeo:longitude":6.913578,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805847,
+        404473827,
+        85633337,
+        101751871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"05fd9d578de6af9154377eb180d0b0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473827,
+            "locality_id":101751871,
+            "macrohood_id":1158805847,
+            "neighbourhood_id":1158802367,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802367,
+    "wof:lastmodified":1513524256,
+    "wof:name":"Ribbelt-Ribbelerbrink",
+    "wof:parent_id":1158805847,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.90873472616257,
+    52.22449483346675,
+    6.917795705387811,
+    52.23095045272695
+],
+  "geometry": {"coordinates":[[[[6.90873472616257,52.22772740639792],[6.91014211823232,52.22848070999961],[6.91198215747359,52.22932811463719],[6.91561447931386,52.23095045272695],[6.91653987371268,52.23009667556661],[6.91779570538781,52.22801463681656],[6.91778864436963,52.22708430927644],[6.9167290761482,52.2255924973102],[6.9165430001959,52.22488821330302],[6.91371972958327,52.22486506963945],[6.90955825804347,52.22449483346675],[6.90944711506831,52.22667687175765],[6.90873472616257,52.22772740639792]]]],"type":"MultiPolygon"}
+}

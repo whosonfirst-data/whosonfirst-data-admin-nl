@@ -1,0 +1,95 @@
+{
+  "id": 101809551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000086,
+    "geom:area_square_m":667642.82061,
+    "geom:bbox":"5.69164471881,50.8938371533,5.71059351039,50.9034945477",
+    "geom:latitude":50.898051,
+    "geom:longitude":5.699181,
+    "iso:country":"NL",
+    "lbl:latitude":50.899372,
+    "lbl:longitude":5.695879,
+    "mps:latitude":50.899372,
+    "mps:longitude":5.695879,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fra_x_preferred":[
+        "Itteren"
+    ],
+    "name:lim_x_preferred":[
+        "Ittere"
+    ],
+    "name:nld_x_preferred":[
+        "Itteren"
+    ],
+    "qs:a0":"Nederland",
+    "qs:a1":"*Limburg",
+    "qs:a1r":"0Limburg",
+    "qs:adm0":"Nederland",
+    "qs:la":"Lanaken",
+    "qs:la_lc":"*BE273042",
+    "qs:level":"locality",
+    "qs:loc":"Itteren",
+    "qs:loc_alt":"Itteren",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":50.8958,
+    "wd:longitude":5.7047,
+    "wd:wordcount":131,
+    "wof:belongsto":[
+        102191581,
+        404474495,
+        85633337,
+        85687033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2753300,
+        "gp:id":730519,
+        "qs:id":187610,
+        "qs_pg:id":187610,
+        "tgn:id":7266928,
+        "wd:id":"Q2350291",
+        "wk:page":"Itteren"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"5df03bb40e3356b68c2328dd2c1bb59a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474495,
+            "locality_id":101809551,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":101809551,
+    "wof:lastmodified":1527715161,
+    "wof:name":"Itteren",
+    "wof:parent_id":404474495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158806409
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.69164471881351,
+    50.89383715333065,
+    5.71059351038508,
+    50.90349454773838
+],
+  "geometry": {"coordinates":[[[5.69832636323491,50.90349454773838],[5.69865853973988,50.89990600150168],[5.70007794689133,50.89995881537584],[5.70016095383721,50.89906167696108],[5.70299972254298,50.8991672501449],[5.70308267103712,50.89827010911694],[5.70450203259037,50.89832286842761],[5.70458494987497,50.89742572595691],[5.70742362737781,50.89753119001807],[5.70750648621919,50.89663404493683],[5.7103451210703,50.89673943703275],[5.71059351038508,50.89404799314008],[5.70491657931586,50.89383715333065],[5.70483367790956,50.89473429689866],[5.70341442529957,50.89468154226262],[5.70324855611045,50.89647582623837],[5.6947327757963,50.89615891885114],[5.69489897178909,50.89436464891457],[5.69206051098541,50.89425887855003],[5.69164471881351,50.8987445396159],[5.69306408390617,50.8987974393599],[5.6926483283832,50.90328309941998],[5.69832636323491,50.90349454773838]]],"type":"Polygon"}
+}

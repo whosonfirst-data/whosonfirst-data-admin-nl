@@ -1,0 +1,80 @@
+{
+  "id": 1158788929,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU15810105",
+    "cbsnl:BU_NAAM":"Loolaankwartier en Beukenstein",
+    "cbsnl:GM_CODE":"GM1581",
+    "cbsnl:GM_NAAM":"Utrechtse Heuvelrug",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1040",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK158101",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000092,
+    "geom:area_square_m":699210.426044,
+    "geom:bbox":"5.26393693072,52.0541253945,5.28051179879,52.064741577",
+    "geom:latitude":52.059465,
+    "geom:longitude":5.273172,
+    "iso:country":"NL",
+    "lbl:latitude":52.059325,
+    "lbl:longitude":5.273737,
+    "mps:latitude":52.059325,
+    "mps:longitude":5.273737,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Loolaankwartier en Beukenstein"
+    ],
+    "name:nld_x_preferred":[
+        "Loolaankwartier en Beukenstein"
+    ],
+    "reversegeo:latitude":52.059325,
+    "reversegeo:longitude":5.273737,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474547,
+        85633337,
+        101806999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d41e54b49357e27a4af2cb2ecbebde93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474547,
+            "locality_id":101806999,
+            "neighbourhood_id":1158788929,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788929,
+    "wof:lastmodified":1513622052,
+    "wof:name":"Loolaankwartier en Beukenstein",
+    "wof:parent_id":101806999,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.263936930717327,
+    52.054125394542496,
+    5.280511798791235,
+    52.064741577036166
+],
+  "geometry": {"coordinates":[[[[5.27661743682183,52.06454069585455],[5.27792286469208,52.06474157703617],[5.27782365602441,52.06132405188542],[5.28031611311215,52.05899505503363],[5.28051179879123,52.05881210014957],[5.27651430930556,52.05530025857627],[5.27630234246141,52.05543375716889],[5.27390419220715,52.0541253945425],[5.2682090102978,52.05755829479256],[5.26790335853649,52.05740705662148],[5.26393693071733,52.05972677166326],[5.26690185876038,52.06121145947732],[5.26870854902844,52.06202390130208],[5.27150140731347,52.06293896316424],[5.27429392218289,52.06385367793959],[5.27514836330993,52.06431597218231],[5.27536378041158,52.06418809663535],[5.27639313609405,52.06450617996603],[5.27661743682183,52.06454069585455]]]],"type":"MultiPolygon"}
+}

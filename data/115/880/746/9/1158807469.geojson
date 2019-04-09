@@ -1,0 +1,80 @@
+{
+  "id": 1158807469,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16690603",
+    "cbsnl:BU_NAAM":"Rothenbach",
+    "cbsnl:GM_CODE":"GM1669",
+    "cbsnl:GM_NAAM":"Roerdalen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"33",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK166906",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":49544.05918,
+    "geom:bbox":"6.11213781019,51.14007193,6.1197819327,51.1417700669",
+    "geom:latitude":51.140868,
+    "geom:longitude":6.115508,
+    "iso:country":"NL",
+    "lbl:latitude":51.140979,
+    "lbl:longitude":6.113858,
+    "mps:latitude":51.140979,
+    "mps:longitude":6.113858,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Rothenbach"
+    ],
+    "name:nld_x_preferred":[
+        "Rothenbach"
+    ],
+    "reversegeo:latitude":51.140979,
+    "reversegeo:longitude":6.113858,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474581,
+        85633337,
+        101809599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"97b3fe611e63c45244f4e864dd53d92d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474581,
+            "locality_id":101809599,
+            "neighbourhood_id":1158807469,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158807469,
+    "wof:lastmodified":1513404110,
+    "wof:name":"Rothenbach",
+    "wof:parent_id":101809599,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.112137810192188,
+    51.14007192997219,
+    6.119781932701088,
+    51.141770066914454
+],
+  "geometry": {"coordinates":[[[[6.11428077723748,51.14153660569541],[6.11441441561909,51.14151483992577],[6.11502654158835,51.14141513754439],[6.1166374749021,51.14115102362651],[6.11740481590874,51.14100224857722],[6.11736518113888,51.14092605489363],[6.11760702251619,51.14083839997905],[6.11770346211326,51.1408482658895],[6.11795585183191,51.14108611099429],[6.11847484923881,51.14132862292285],[6.11876434042287,51.14111765907987],[6.11909134622735,51.14127526050487],[6.11978193270109,51.14064647591011],[6.11891697120725,51.14021794976877],[6.11866693393872,51.14027279269951],[6.11831846768482,51.14011779912075],[6.11804104308777,51.14033400563628],[6.11785163775233,51.14048488390178],[6.11714926412928,51.14034660934324],[6.11647524335219,51.14078174582818],[6.11213781019219,51.14007192997219],[6.11284732324106,51.14177006691445],[6.11362952017102,51.14164267574508],[6.11428077723748,51.14153660569541]]]],"type":"MultiPolygon"}
+}

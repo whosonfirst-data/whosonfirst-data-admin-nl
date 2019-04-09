@@ -1,0 +1,82 @@
+{
+  "id": 1158818451,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03610704",
+    "cbsnl:BU_NAAM":"Daalmeer-Noordoost",
+    "cbsnl:GM_CODE":"GM0361",
+    "cbsnl:GM_NAAM":"Alkmaar",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1468",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK036107",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:area_square_m":412287.788606,
+    "geom:bbox":"4.7650858944,52.6678488591,4.778577619,52.6742866973",
+    "geom:latitude":52.671236,
+    "geom:longitude":4.771388,
+    "iso:country":"NL",
+    "lbl:latitude":52.671332,
+    "lbl:longitude":4.771388,
+    "mps:latitude":52.671332,
+    "mps:longitude":4.771388,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Daalmeer-Noordoost"
+    ],
+    "name:nld_x_preferred":[
+        "Daalmeer-Noordoost"
+    ],
+    "reversegeo:latitude":52.671332,
+    "reversegeo:longitude":4.771388,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823279,
+        404474025,
+        85633337,
+        101751887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"bd0563609aae979d7b16c39b07fe20e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474025,
+            "locality_id":101751887,
+            "macrohood_id":1158823279,
+            "neighbourhood_id":1158818451,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818451,
+    "wof:lastmodified":1513464064,
+    "wof:name":"Daalmeer-Noordoost",
+    "wof:parent_id":1158823279,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.765085894397691,
+    52.66784885913995,
+    4.778577619000189,
+    52.67428669730017
+],
+  "geometry": {"coordinates":[[[[4.77857761900019,52.67230474356244],[4.77852222664026,52.67217731879601],[4.7784763877978,52.67209129246443],[4.77837402969481,52.67189738250567],[4.77825348963708,52.67169045592205],[4.77772136139961,52.67078685596682],[4.77715799243408,52.6698274262511],[4.77642258375234,52.66859132975679],[4.77633798657361,52.66845248367974],[4.77597017347877,52.66784885913995],[4.77471919906078,52.66813434523324],[4.77381387267148,52.66902480465005],[4.77325205026694,52.66913424638873],[4.77316195524924,52.66902234001289],[4.76586586726249,52.66936731171059],[4.76508589439769,52.66963824338956],[4.76562464450557,52.67356756316558],[4.76604055315594,52.67374498549788],[4.76648530388808,52.67386953222913],[4.7669020233959,52.67388518643037],[4.76720536979828,52.67428669730017],[4.77857761900019,52.67230474356244]]]],"type":"MultiPolygon"}
+}

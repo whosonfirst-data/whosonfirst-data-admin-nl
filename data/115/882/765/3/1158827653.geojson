@@ -1,0 +1,82 @@
+{
+  "id": 1158827653,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06420303",
+    "cbsnl:BU_NAAM":"Schildersbuurt",
+    "cbsnl:GM_CODE":"GM0642",
+    "cbsnl:GM_NAAM":"Zwijndrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2712",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK064203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:area_square_m":162986.793854,
+    "geom:bbox":"4.63610677273,51.8160327656,4.64452481018,51.8212350719",
+    "geom:latitude":51.818588,
+    "geom:longitude":4.640147,
+    "iso:country":"NL",
+    "lbl:latitude":51.818751,
+    "lbl:longitude":4.640211,
+    "mps:latitude":51.818751,
+    "mps:longitude":4.640211,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schildersbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Schildersbuurt"
+    ],
+    "reversegeo:latitude":51.818751,
+    "reversegeo:longitude":4.640211,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831145,
+        404474291,
+        85633337,
+        101754703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6df73c9e4f7cebb34f1774b58791bdaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474291,
+            "locality_id":101754703,
+            "macrohood_id":1158831145,
+            "neighbourhood_id":1158827653,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827653,
+    "wof:lastmodified":1513588162,
+    "wof:name":"Schildersbuurt",
+    "wof:parent_id":1158831145,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.636106772728343,
+    51.81603276559002,
+    4.644524810179295,
+    51.82123507189852
+],
+  "geometry": {"coordinates":[[[[4.6400081561089,51.8211823866926],[4.64083562167196,51.82083803692219],[4.6418323110933,51.8204297226003],[4.64325760251313,51.81984894552716],[4.64404760040441,51.81953169739235],[4.64442122298842,51.81936913791846],[4.64452481017929,51.81930050857338],[4.64403013354015,51.81905074560746],[4.64203066331686,51.81765966023819],[4.64095769615618,51.81691899656787],[4.63967392762151,51.81603276559002],[4.63945634628097,51.81611956734325],[4.63880556804834,51.81638320152725],[4.63853839227339,51.81649319999741],[4.63799616228464,51.81671653369713],[4.63767709537295,51.81684711532898],[4.63666895450298,51.81727233676679],[4.63610677272834,51.8175064820455],[4.63814253433845,51.81941672867398],[4.63843302372926,51.8196987148301],[4.63953541812986,51.82073304287144],[4.6396239540933,51.82081000196101],[4.63948340233526,51.82087045400053],[4.6398673703987,51.82123507189852],[4.6400081561089,51.8211823866926]]]],"type":"MultiPolygon"}
+}

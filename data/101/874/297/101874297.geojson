@@ -1,0 +1,85 @@
+{
+  "id": 101874297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-07-12",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.565912,53.134929,5.565912,53.134929",
+    "geom:latitude":53.134929,
+    "geom:longitude":5.565912,
+    "iso:country":"NL",
+    "lbl:latitude":53.134929,
+    "lbl:longitude":5.565912,
+    "mps:latitude":53.134929,
+    "mps:longitude":5.565912,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"no reliable reference",
+    "name:fry_x_preferred":[
+        "Tritsum"
+    ],
+    "name:nld_x_preferred":[
+        "Tritzum"
+    ],
+    "qs:a0":"Nederland",
+    "qs:a1":"*Friesland",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tritzum",
+    "qs:loc_alt":"Tritzum",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404473767,
+        85633337,
+        85687055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2746151,
+        "gp:id":733951,
+        "qs:id":7,
+        "tgn:id":7271841
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"e95ed2a5fe4383f3c098d65cd564418e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473767,
+            "locality_id":101874297,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":101874297,
+    "wof:lastmodified":1544751637,
+    "wof:name":"Tritzum",
+    "wof:parent_id":404473767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.565912,
+    53.134929,
+    5.565912,
+    53.134929
+],
+  "geometry": {"coordinates":[5.565912,53.134929],"type":"Point"}
+}

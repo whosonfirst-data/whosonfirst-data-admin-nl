@@ -1,0 +1,78 @@
+{
+  "id": 1158827419,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06260013",
+    "cbsnl:BU_NAAM":"Bloemenwijk",
+    "cbsnl:GM_CODE":"GM0626",
+    "cbsnl:GM_NAAM":"Voorschoten",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1809",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK062600",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":228149.698289,
+    "geom:bbox":"4.43487329358,52.1213151141,4.44457377603,52.1271744044",
+    "geom:latitude":52.124292,
+    "geom:longitude":4.439753,
+    "iso:country":"NL",
+    "lbl:latitude":52.124243,
+    "lbl:longitude":4.439754,
+    "mps:latitude":52.124243,
+    "mps:longitude":4.439754,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bloemenwijk"
+    ],
+    "name:nld_x_preferred":[
+        "Bloemenwijk"
+    ],
+    "reversegeo:latitude":52.124243,
+    "reversegeo:longitude":4.439754,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        101754713,
+        85633337,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ea2fa03ea9a02364559f07c266109917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754713,
+            "neighbourhood_id":1158827419,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827419,
+    "wof:lastmodified":1513588147,
+    "wof:name":"Bloemenwijk",
+    "wof:parent_id":101754713,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.434873293578194,
+    52.121315114060366,
+    4.444573776028067,
+    52.12717440438187
+],
+  "geometry": {"coordinates":[[[[4.44457377602807,52.12467313874986],[4.44430560158465,52.12433200730466],[4.44373838831579,52.12363497477331],[4.44332678855569,52.12322519008355],[4.44320644541968,52.12310537478044],[4.4425539076044,52.12252729888347],[4.44252118625181,52.12254452493234],[4.44201263640365,52.12207696800446],[4.44140349638792,52.12153082205785],[4.44130729554375,52.1214465363259],[4.44129201963415,52.12145447842158],[4.44129264674825,52.12152723475534],[4.44104159640623,52.12131511406037],[4.43487329357819,52.12415413977906],[4.43649736309196,52.12580961295923],[4.43657314473022,52.12577685330878],[4.43741755438492,52.12659702768464],[4.43759661109626,52.12661688018009],[4.43824284860374,52.12717440438187],[4.44457377602807,52.12467313874986]]]],"type":"MultiPolygon"}
+}

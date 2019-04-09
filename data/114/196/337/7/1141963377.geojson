@@ -1,0 +1,82 @@
+{
+  "id": 1141963377,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02430701",
+    "cbsnl:BU_NAAM":"nachthok",
+    "cbsnl:GM_CODE":"GM0243",
+    "cbsnl:GM_NAAM":"Harderwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1671",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK024307",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":70374.870335,
+    "geom:bbox":"5.61210350351,52.3356433579,5.61905568715,52.3383120125",
+    "geom:latitude":52.337261,
+    "geom:longitude":5.614948,
+    "iso:country":"NL",
+    "lbl:latitude":52.337128,
+    "lbl:longitude":5.613737,
+    "mps:latitude":52.337128,
+    "mps:longitude":5.613737,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "nachthok"
+    ],
+    "name:nld_x_preferred":[
+        "nachthok"
+    ],
+    "reversegeo:latitude":52.337128,
+    "reversegeo:longitude":5.613737,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158784031,
+        404473907,
+        85633337,
+        101837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8f172929283bcdf8b6bce1a989ca34b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473907,
+            "locality_id":101837769,
+            "macrohood_id":1158784031,
+            "neighbourhood_id":1141963377,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963377,
+    "wof:lastmodified":1513368741,
+    "wof:name":"nachthok",
+    "wof:parent_id":1158784031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.612103503507887,
+    52.33564335785331,
+    5.619055687145101,
+    52.33831201252876
+],
+  "geometry": {"coordinates":[[[[5.61301321221187,52.33831201252876],[5.61385889692167,52.33821921475204],[5.61869940118384,52.33800120290151],[5.61879417013066,52.33798051803394],[5.6190556871451,52.33743562457655],[5.61725869292139,52.33713952104033],[5.61695091799416,52.33708765665232],[5.61664640072784,52.33702901587233],[5.61634554551081,52.336963671449],[5.61604874067806,52.33689171042864],[5.61575637549413,52.33681322808742],[5.61546883297408,52.33672832520286],[5.61518648454644,52.33663711519458],[5.61490970164071,52.33653971367962],[5.61463884589254,52.33643624946188],[5.61437427001045,52.3363268590448],[5.61411631775864,52.33621168333967],[5.61386533114874,52.33609087313708],[5.61362163699562,52.33596458693848],[5.6133855487054,52.33583299040351],[5.61315737700737,52.33569625358655],[5.61307526979325,52.33564335785331],[5.61210350350789,52.33603658359958],[5.61276667596528,52.33758104797303],[5.61301321221187,52.33831201252876]]]],"type":"MultiPolygon"}
+}

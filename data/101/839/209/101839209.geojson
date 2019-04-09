@@ -1,0 +1,100 @@
+{
+  "id": 101839209,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18830602",
+    "cbsnl:BU_NAAM":"Buchten",
+    "cbsnl:GM_CODE":"GM1883",
+    "cbsnl:GM_NAAM":"Sittard-Geleen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"762",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK188306",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000128,
+    "geom:area_square_m":994414.436512,
+    "geom:bbox":"5.80520593543,51.037587714,5.82080135411,51.049454938",
+    "geom:latitude":51.043316,
+    "geom:longitude":5.812966,
+    "iso:country":"NL",
+    "lbl:latitude":51.043614,
+    "lbl:longitude":5.809632,
+    "mps:latitude":51.043626,
+    "mps:longitude":5.812966,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:eng_x_preferred":[
+        "Buchten"
+    ],
+    "name:nld_x_preferred":[
+        "Buchten"
+    ],
+    "qs:a0":"Nederland",
+    "qs:a1":"*Limburg",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la":"Echt-Susteren",
+    "qs:la_lc":"*NL311711",
+    "qs:level":"locality",
+    "qs:loc":"Buchten",
+    "qs:loc_alt":"Buchten",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "reversegeo:latitude":51.043626,
+    "reversegeo:longitude":5.812966,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404474675,
+        85633337,
+        85687033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2758167,
+        "gp:id":728098,
+        "qs:id":266789,
+        "qs_pg:id":266789,
+        "tgn:id":7262600
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"7d13acc6411b1ce8a185df76e3c38d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474675,
+            "locality_id":101839209,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":101839209,
+    "wof:lastmodified":1513403096,
+    "wof:name":"Buchten",
+    "wof:parent_id":404474675,
+    "wof:placetype":"locality",
+    "wof:placetype_alt":[
+        "neighbourhood"
+    ],
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.805205935425297,
+    51.03758771399557,
+    5.820801354110381,
+    51.049454938004104
+],
+  "geometry": {"coordinates":[[[[5.82065428466531,51.03938585413328],[5.82016491648133,51.03934610938884],[5.81535735998599,51.03874036209623],[5.81137740997068,51.03805020751852],[5.80856316822516,51.03758771399557],[5.8084214360839,51.03784974816835],[5.80617637894472,51.04274952996148],[5.8056819970751,51.04358278848153],[5.8052059354253,51.04439884425808],[5.80525153408756,51.04485711340054],[5.80593115990811,51.04557657992595],[5.80724858128071,51.04664879678882],[5.80800506563176,51.04750702030292],[5.80851675938091,51.04810376656278],[5.80908321168979,51.04844974368192],[5.80998197943856,51.04865855176263],[5.81146462967464,51.04875566428404],[5.81351316098558,51.04898719829901],[5.81609289595309,51.0494549380041],[5.81609950819535,51.04939929363291],[5.81619808870409,51.04895482164615],[5.81637984292285,51.04825385806429],[5.81686518200498,51.04739811485786],[5.81751848002703,51.04665944518545],[5.81868416643925,51.0453446975665],[5.81945293979832,51.04445277565932],[5.82014935561025,51.04330858635763],[5.82061504502602,51.04203491661347],[5.82080135411038,51.04092858499646],[5.82065428466531,51.03938585413328]]]],"type":"MultiPolygon"}
+}

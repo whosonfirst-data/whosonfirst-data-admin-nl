@@ -1,0 +1,80 @@
+{
+  "id": 1158825811,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05051102",
+    "cbsnl:BU_NAAM":"Azobe en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1807",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050511",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":223438.420024,
+    "geom:bbox":"4.7112568388,51.8054070147,4.71896396628,51.8131687665",
+    "geom:latitude":51.808982,
+    "geom:longitude":4.715313,
+    "iso:country":"NL",
+    "lbl:latitude":51.808979,
+    "lbl:longitude":4.714934,
+    "mps:latitude":51.808979,
+    "mps:longitude":4.714934,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Azobe en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Azobe en omgeving"
+    ],
+    "reversegeo:latitude":51.808979,
+    "reversegeo:longitude":4.714934,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829601,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"70a08e54f70cf2e4fe601599659933f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829601,
+            "neighbourhood_id":1158825811,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825811,
+    "wof:lastmodified":1513588018,
+    "wof:name":"Azobe en omgeving",
+    "wof:parent_id":1158829601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.711256838799871,
+    51.80540701466432,
+    4.718963966284701,
+    51.81316876654947
+],
+  "geometry": {"coordinates":[[[[4.71396027949138,51.81316876654947],[4.71442323256031,51.81314992974088],[4.71519333565116,51.81262626838051],[4.71582144776192,51.81219915496934],[4.71658152721872,51.81024611731244],[4.7189639662847,51.80855033820825],[4.7180759588125,51.80632111979218],[4.7169505719821,51.80540701466432],[4.71125683879987,51.80865182198445],[4.71256701961881,51.80994298483852],[4.71352790788869,51.81135731274539],[4.71396027949138,51.81316876654947]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158803429,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01931170",
+    "cbsnl:BU_NAAM":"Meppelerstraatweg-Zuid",
+    "cbsnl:GM_CODE":"GM0193",
+    "cbsnl:GM_NAAM":"Zwolle",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2502",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK019311",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":54966.575145,
+    "geom:bbox":"6.10969605409,52.518422248,6.11630029929,52.5228105913",
+    "geom:latitude":52.520542,
+    "geom:longitude":6.113133,
+    "iso:country":"NL",
+    "lbl:latitude":52.520572,
+    "lbl:longitude":6.113083,
+    "mps:latitude":52.520572,
+    "mps:longitude":6.113083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Meppelerstraatweg-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Meppelerstraatweg-Zuid"
+    ],
+    "reversegeo:latitude":52.520572,
+    "reversegeo:longitude":6.113083,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805787,
+        404473861,
+        85633337,
+        101751861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9e179561d56f95eb7255ad63b3d5bc82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158805787,
+            "neighbourhood_id":1158803429,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803429,
+    "wof:lastmodified":1513524338,
+    "wof:name":"Meppelerstraatweg-Zuid",
+    "wof:parent_id":1158805787,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.109696054087845,
+    52.518422248042675,
+    6.116300299290802,
+    52.52281059133715
+],
+  "geometry": {"coordinates":[[[[6.11582026997449,52.52281059133715],[6.11599713379277,52.52270785135669],[6.1163002992908,52.5218805317898],[6.11348812562063,52.52025680833096],[6.11108472928171,52.51842224804268],[6.10969605408784,52.5186630658173],[6.11087847914167,52.51963608605904],[6.11194455810143,52.52049133858884],[6.11252206358377,52.52086537710359],[6.11582026997449,52.52281059133715]]]],"type":"MultiPolygon"}
+}

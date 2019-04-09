@@ -1,0 +1,80 @@
+{
+  "id": 1158827001,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06060303",
+    "cbsnl:BU_NAAM":"Fabribuurt",
+    "cbsnl:GM_CODE":"GM0606",
+    "cbsnl:GM_NAAM":"Schiedam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"4533",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060603",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":91112.612815,
+    "geom:bbox":"4.38854653114,51.9135976443,4.39454260965,51.917338469",
+    "geom:latitude":51.915528,
+    "geom:longitude":4.391161,
+    "iso:country":"NL",
+    "lbl:latitude":51.915559,
+    "lbl:longitude":4.391161,
+    "mps:latitude":51.915559,
+    "mps:longitude":4.391161,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Fabribuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Fabribuurt"
+    ],
+    "reversegeo:latitude":51.915559,
+    "reversegeo:longitude":4.391161,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831283,
+        85633337,
+        101751845,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3cb283d2a95e9a07d26005ce6792d265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "macrohood_id":1158831283,
+            "neighbourhood_id":1158827001,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827001,
+    "wof:lastmodified":1513588113,
+    "wof:name":"Fabribuurt",
+    "wof:parent_id":1158831283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.388546531137726,
+    51.91359764432431,
+    4.394542609646924,
+    51.917338468977825
+],
+  "geometry": {"coordinates":[[[[4.39454260964692,51.91606044074302],[4.39448623502058,51.9160311969063],[4.3930878891234,51.91531235451151],[4.39262265077856,51.91503364919355],[4.39245826437442,51.91485884201546],[4.39229499640735,51.91477917249289],[4.39048923234152,51.91394461073013],[4.39035845628402,51.91401312396542],[4.38997409146538,51.91390565205199],[4.38941792831966,51.91369763245254],[4.38879984094928,51.91359764432431],[4.38854653113773,51.91402040770387],[4.38877772100806,51.91520159506053],[4.38898062454261,51.91596456243637],[4.38967360520678,51.91626988587965],[4.39077247462499,51.91674381916545],[4.39272723274339,51.91733846897782],[4.39338512131749,51.91683448013539],[4.39454260964692,51.91606044074302]]]],"type":"MultiPolygon"}
+}

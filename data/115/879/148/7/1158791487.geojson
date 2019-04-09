@@ -1,0 +1,80 @@
+{
+  "id": 1158791487,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16901102",
+    "cbsnl:BU_NAAM":"Oosteinde",
+    "cbsnl:GM_CODE":"GM1690",
+    "cbsnl:GM_NAAM":"De Wolden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"65",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK169011",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":227837.726284,
+    "geom:bbox":"6.27797270032,52.7355291184,6.28661100785,52.7439742182",
+    "geom:latitude":52.739785,
+    "geom:longitude":6.282213,
+    "iso:country":"NL",
+    "lbl:latitude":52.73977,
+    "lbl:longitude":6.282213,
+    "mps:latitude":52.73977,
+    "mps:longitude":6.282213,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oosteinde"
+    ],
+    "name:nld_x_preferred":[
+        "Oosteinde"
+    ],
+    "reversegeo:latitude":52.73977,
+    "reversegeo:longitude":6.282213,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474601,
+        85633337,
+        101808789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7731e6042b0937683181f36f7a079f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474601,
+            "locality_id":101808789,
+            "neighbourhood_id":1158791487,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791487,
+    "wof:lastmodified":1513292343,
+    "wof:name":"Oosteinde",
+    "wof:parent_id":101808789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.277972700321815,
+    52.735529118379475,
+    6.28661100784826,
+    52.74397421821314
+],
+  "geometry": {"coordinates":[[[[6.27797270032181,52.74165356281884],[6.27891151137551,52.74267108419275],[6.27953696590496,52.74357017965404],[6.2805626248252,52.74397421821314],[6.28661100784826,52.73770217004628],[6.28390570438223,52.73552911837947],[6.27797270032181,52.74165356281884]]]],"type":"MultiPolygon"}
+}

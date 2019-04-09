@@ -1,0 +1,82 @@
+{
+  "id": 1158828449,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19010311",
+    "cbsnl:BU_NAAM":"Groote Wetering",
+    "cbsnl:GM_CODE":"GM1901",
+    "cbsnl:GM_NAAM":"Bodegraven-Reeuwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"401",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK190103",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":356895.461017,
+    "geom:bbox":"4.7551076877,52.0662523732,4.76561741779,52.0730822321",
+    "geom:latitude":52.069258,
+    "geom:longitude":4.760844,
+    "iso:country":"NL",
+    "lbl:latitude":52.069501,
+    "lbl:longitude":4.760844,
+    "mps:latitude":52.069501,
+    "mps:longitude":4.760844,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Groote Wetering"
+    ],
+    "name:nld_x_preferred":[
+        "Groote Wetering"
+    ],
+    "reversegeo:latitude":52.069501,
+    "reversegeo:longitude":4.760844,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831327,
+        1158824739,
+        85633337,
+        101754619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"19225ee9e1aea6f30c0ef80d098ad67f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824739,
+            "locality_id":101754619,
+            "macrohood_id":1158831327,
+            "neighbourhood_id":1158828449,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828449,
+    "wof:lastmodified":1513588228,
+    "wof:name":"Groote Wetering",
+    "wof:parent_id":1158831327,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.755107687704004,
+    52.06625237321422,
+    4.765617417787224,
+    52.07308223210631
+],
+  "geometry": {"coordinates":[[[[4.75901262650557,52.07308223210631],[4.76242572026669,52.07209088076361],[4.76561741778722,52.07170356828286],[4.76420650162965,52.06625237321422],[4.76260539869914,52.06634895690858],[4.76205834223679,52.06636446394006],[4.76151470159423,52.06641104949722],[4.76071563557753,52.06645972648468],[4.75997706481854,52.06649577695512],[4.75931295064805,52.06654688867118],[4.75862408410884,52.06658155960405],[4.75856595833548,52.06647628440857],[4.75782047316725,52.06649356178841],[4.7568747769897,52.06650995225509],[4.75647058627418,52.0665127420051],[4.755107687704,52.06639233295271],[4.75657244212493,52.06847927100689],[4.75730831061572,52.06946489753939],[4.75725475278733,52.06992666488788],[4.75692003943451,52.07041586019635],[4.75761794025338,52.07076592284267],[4.75831069113614,52.07149149287957],[4.75901262650557,52.07308223210631]]]],"type":"MultiPolygon"}
+}

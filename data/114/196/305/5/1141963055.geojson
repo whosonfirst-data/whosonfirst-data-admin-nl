@@ -1,0 +1,82 @@
+{
+  "id": 1141963055,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02281102",
+    "cbsnl:BU_NAAM":"Maandereng-Oost",
+    "cbsnl:GM_CODE":"GM0228",
+    "cbsnl:GM_NAAM":"Ede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2033",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022811",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":218720.507702,
+    "geom:bbox":"5.65395108865,52.0182355566,5.66156110305,52.0247789167",
+    "geom:latitude":52.021946,
+    "geom:longitude":5.65832,
+    "iso:country":"NL",
+    "lbl:latitude":52.022555,
+    "lbl:longitude":5.658262,
+    "mps:latitude":52.022555,
+    "mps:longitude":5.658262,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Maandereng-Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Maandereng-Oost"
+    ],
+    "reversegeo:latitude":52.022555,
+    "reversegeo:longitude":5.658262,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158784009,
+        404473893,
+        85633337,
+        101751855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"293770e8d260593023a681160757e9e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473893,
+            "locality_id":101751855,
+            "macrohood_id":1158784009,
+            "neighbourhood_id":1141963055,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963055,
+    "wof:lastmodified":1513368720,
+    "wof:name":"Maandereng-Oost",
+    "wof:parent_id":1158784009,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.653951088650423,
+    52.018235556629044,
+    5.661561103051079,
+    52.02477891666584
+],
+  "geometry": {"coordinates":[[[[5.65405636066889,52.0244894707206],[5.65442246696102,52.02451589000574],[5.656412441014,52.02473620852783],[5.6575577718733,52.02474000996416],[5.66018179326934,52.02477891666584],[5.66019658114843,52.02378949456981],[5.66042052364806,52.02300005668904],[5.66156110305108,52.01875759286906],[5.65842297903391,52.01823555662904],[5.65822501332358,52.01872096085791],[5.65795252001454,52.01882952918858],[5.65747018198665,52.0202920239453],[5.65718795349673,52.02060300617232],[5.6566326411492,52.0209281050375],[5.65566937971301,52.02229152839558],[5.65545848708579,52.02344670452732],[5.65395108865042,52.02334786107657],[5.65405636066889,52.0244894707206]]]],"type":"MultiPolygon"}
+}

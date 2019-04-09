@@ -1,0 +1,80 @@
+{
+  "id": 1158825597,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050100",
+    "cbsnl:BU_NAAM":"Nieuwe Haven en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3458",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050501",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":226397.903002,
+    "geom:bbox":"4.65631665787,51.8137883768,4.66884928827,51.8205465634",
+    "geom:latitude":51.817199,
+    "geom:longitude":4.66253,
+    "iso:country":"NL",
+    "lbl:latitude":51.817119,
+    "lbl:longitude":4.66253,
+    "mps:latitude":51.817119,
+    "mps:longitude":4.66253,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Nieuwe Haven en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Nieuwe Haven en omgeving"
+    ],
+    "reversegeo:latitude":51.817119,
+    "reversegeo:longitude":4.66253,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829543,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"128ce23e864bc3d0bfe49c6b6e2cca47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829543,
+            "neighbourhood_id":1158825597,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825597,
+    "wof:lastmodified":1513588005,
+    "wof:name":"Nieuwe Haven en omgeving",
+    "wof:parent_id":1158829543,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.656316657865079,
+    51.81378837675851,
+    4.668849288265469,
+    51.82054656344759
+],
+  "geometry": {"coordinates":[[[[4.66444243334089,51.81948229121107],[4.66450010583265,51.81950429510329],[4.66500509739898,51.81969697442484],[4.66600510456457,51.82001772713653],[4.66736890675904,51.82035598390501],[4.66839204650315,51.82054656344759],[4.66884928826547,51.8195109956191],[4.66748761513744,51.81880417097571],[4.66542967449809,51.81761291119297],[4.66542935649102,51.81754038812856],[4.66542639879272,51.81687817445303],[4.66501024325039,51.8166508617677],[4.66349611701241,51.81582378053265],[4.66164245467315,51.81517584658842],[4.6611307657785,51.81528865368598],[4.66089572088009,51.81495459997349],[4.65925054748034,51.81424009855177],[4.65914489314186,51.81417296286511],[4.65903871121141,51.81401827412174],[4.65892383921223,51.81378837675851],[4.65631665786508,51.81542972453972],[4.65639580286265,51.81547373331635],[4.6564585394223,51.81550861936545],[4.65858438129824,51.81669068878232],[4.65867049310694,51.81673857085245],[4.6618985203259,51.81851162649663],[4.66324879653546,51.81902685471908],[4.66444243334089,51.81948229121107]]]],"type":"MultiPolygon"}
+}

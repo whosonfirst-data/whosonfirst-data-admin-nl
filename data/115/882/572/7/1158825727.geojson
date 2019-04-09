@@ -1,0 +1,80 @@
+{
+  "id": 1158825727,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050701",
+    "cbsnl:BU_NAAM":"Van Kinsbergenstraat en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2281",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050507",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":357028.718068,
+    "geom:bbox":"4.65281761102,51.7839248304,4.66337413674,51.7906246288",
+    "geom:latitude":51.786689,
+    "geom:longitude":4.657075,
+    "iso:country":"NL",
+    "lbl:latitude":51.786753,
+    "lbl:longitude":4.656019,
+    "mps:latitude":51.786753,
+    "mps:longitude":4.656019,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Van Kinsbergenstraat en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Van Kinsbergenstraat en omgeving"
+    ],
+    "reversegeo:latitude":51.786753,
+    "reversegeo:longitude":4.656019,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829537,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"887f1b686e7d066164474634f63b11f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829537,
+            "neighbourhood_id":1158825727,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825727,
+    "wof:lastmodified":1513588013,
+    "wof:name":"Van Kinsbergenstraat en omgeving",
+    "wof:parent_id":1158829537,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.652817611024191,
+    51.78392483037926,
+    4.663374136735143,
+    51.790624628775525
+],
+  "geometry": {"coordinates":[[[[4.65598827184618,51.79062462877553],[4.65870982328506,51.790496204871],[4.65842550766207,51.78771553413996],[4.66211401386318,51.78618517824225],[4.66337413673514,51.78465690743852],[4.66333915590804,51.78392483037926],[4.65420901554312,51.7841290212521],[4.65281761102419,51.78416006633751],[4.65301825972275,51.78556052419743],[4.65283545214005,51.78724019814086],[4.6529705260726,51.78985912376242],[4.65563707071504,51.78979723941035],[4.65598056161266,51.79053244643605],[4.65598827184618,51.79062462877553]]]],"type":"MultiPolygon"}
+}

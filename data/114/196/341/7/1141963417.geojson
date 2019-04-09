@@ -1,0 +1,82 @@
+{
+  "id": 1141963417,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02431101",
+    "cbsnl:BU_NAAM":"Broekland",
+    "cbsnl:GM_CODE":"GM0243",
+    "cbsnl:GM_NAAM":"Harderwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1278",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK024311",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":275465.130574,
+    "geom:bbox":"5.63612106077,52.3502463837,5.64815017654,52.3560802392",
+    "geom:latitude":52.352739,
+    "geom:longitude":5.642307,
+    "iso:country":"NL",
+    "lbl:latitude":52.352956,
+    "lbl:longitude":5.64272,
+    "mps:latitude":52.352956,
+    "mps:longitude":5.64272,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Broekland"
+    ],
+    "name:nld_x_preferred":[
+        "Broekland"
+    ],
+    "reversegeo:latitude":52.352956,
+    "reversegeo:longitude":5.64272,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158784037,
+        404473907,
+        85633337,
+        101837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"eeaa1c85157862f6ff97826a8afdf987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473907,
+            "locality_id":101837769,
+            "macrohood_id":1158784037,
+            "neighbourhood_id":1141963417,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963417,
+    "wof:lastmodified":1513368744,
+    "wof:name":"Broekland",
+    "wof:parent_id":1158784037,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.636121060766119,
+    52.35024638370708,
+    5.64815017653974,
+    52.356080239195045
+],
+  "geometry": {"coordinates":[[[[5.64379416326917,52.35591494458003],[5.6446880609585,52.35523186647359],[5.64609721299915,52.35395527973631],[5.64729141545974,52.35285384321286],[5.64770342939728,52.35247381965198],[5.64805330554016,52.35215110393278],[5.64815017653974,52.35206175107249],[5.64669281342633,52.35155589458824],[5.64636771561614,52.35144304639074],[5.64600724242536,52.35131791946247],[5.64439474981823,52.35103090642195],[5.64436655665158,52.35109301120781],[5.64095085949709,52.3505360310447],[5.63998891063875,52.35037915041489],[5.63917486024511,52.35024638370708],[5.63612106076612,52.35179460956686],[5.64003458174254,52.35409197856587],[5.64342204935755,52.35608023919504],[5.64379416326917,52.35591494458003]]]],"type":"MultiPolygon"}
+}

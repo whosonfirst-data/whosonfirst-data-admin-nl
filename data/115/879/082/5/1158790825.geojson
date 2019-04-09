@@ -1,0 +1,80 @@
+{
+  "id": 1158790825,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01140200",
+    "cbsnl:BU_NAAM":"Roswinkel-Centrum",
+    "cbsnl:GM_CODE":"GM0114",
+    "cbsnl:GM_NAAM":"Emmen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"71",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":393998.955348,
+    "geom:bbox":"7.03064593896,52.8346016326,7.04863621622,52.8410338682",
+    "geom:latitude":52.837444,
+    "geom:longitude":7.040494,
+    "iso:country":"NL",
+    "lbl:latitude":52.837628,
+    "lbl:longitude":7.040494,
+    "mps:latitude":52.837628,
+    "mps:longitude":7.040494,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Roswinkel-Centrum"
+    ],
+    "name:nld_x_preferred":[
+        "Roswinkel-Centrum"
+    ],
+    "reversegeo:latitude":52.837628,
+    "reversegeo:longitude":7.040494,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473809,
+        85633337,
+        1158792023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3c03019c7458c6cdac420e2a4c62f532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473809,
+            "locality_id":1158792023,
+            "neighbourhood_id":1158790825,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158790825,
+    "wof:lastmodified":1513292300,
+    "wof:name":"Roswinkel-Centrum",
+    "wof:parent_id":1158792023,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.030645938956447,
+    52.83460163261279,
+    7.048636216220313,
+    52.8410338682309
+],
+  "geometry": {"coordinates":[[[[7.0352568794745,52.83895059957648],[7.03852111603871,52.84012365328124],[7.03897553156119,52.83963825068655],[7.04277919735521,52.8410338682309],[7.04592061781914,52.83749221993745],[7.04738798166493,52.83802713487245],[7.04863621622031,52.8366952344424],[7.0445065116865,52.83517045715772],[7.04347715564818,52.83612752022897],[7.04231759399322,52.83570621973826],[7.03919431743271,52.83460163261279],[7.03780191135719,52.83604544460132],[7.03462425092749,52.83489692797252],[7.03370934175888,52.83579127535109],[7.03115087905797,52.83486711561039],[7.03064593895645,52.83538423900041],[7.03317689531182,52.83631174687194],[7.0366938210424,52.83754996728875],[7.0352568794745,52.83895059957648]]]],"type":"MultiPolygon"}
+}

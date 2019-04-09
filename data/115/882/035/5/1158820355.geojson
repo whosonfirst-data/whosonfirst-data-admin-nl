@@ -1,0 +1,80 @@
+{
+  "id": 1158820355,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04390702",
+    "cbsnl:BU_NAAM":"Azi\u00eb",
+    "cbsnl:GM_CODE":"GM0439",
+    "cbsnl:GM_NAAM":"Purmerend",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2126",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK043907",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000073,
+    "geom:area_square_m":552911.28628,
+    "geom:bbox":"4.93948084805,52.4874395172,4.94944235784,52.4991178012",
+    "geom:latitude":52.493405,
+    "geom:longitude":4.94467,
+    "iso:country":"NL",
+    "lbl:latitude":52.493379,
+    "lbl:longitude":4.944575,
+    "mps:latitude":52.493379,
+    "mps:longitude":4.944575,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Azie"
+    ],
+    "name:nld_x_preferred":[
+        "Azi\u00eb"
+    ],
+    "reversegeo:latitude":52.493379,
+    "reversegeo:longitude":4.944575,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823241,
+        85633337,
+        101751889,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5e185cdd0404cf67815b26f81d959f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751889,
+            "macrohood_id":1158823241,
+            "neighbourhood_id":1158820355,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158820355,
+    "wof:lastmodified":1513464221,
+    "wof:name":"Azie",
+    "wof:parent_id":1158823241,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.939480848049077,
+    52.48743951718145,
+    4.949442357837181,
+    52.49911780118432
+],
+  "geometry": {"coordinates":[[[[4.93948084804908,52.49798229240866],[4.94237409136544,52.49866442325587],[4.94551499659168,52.49906008986321],[4.94585347402553,52.49911780118432],[4.94702627975425,52.49655484000171],[4.94855606068646,52.49216817157333],[4.94944235783718,52.48954570528144],[4.94906879082632,52.48777801056888],[4.94897667926536,52.48743951718145],[4.94725452489076,52.48778281073633],[4.94422946113934,52.48846246452197],[4.94296413931906,52.4892256002202],[4.94194711802397,52.49029662970771],[4.94155978360129,52.4912930655677],[4.94103585520563,52.4933641082728],[4.93960873117072,52.49765782318162],[4.93948084804908,52.49798229240866]]]],"type":"MultiPolygon"}
+}

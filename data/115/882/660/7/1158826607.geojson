@@ -1,0 +1,80 @@
+{
+  "id": 1158826607,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05690203",
+    "cbsnl:BU_NAAM":"Noordse Buurt",
+    "cbsnl:GM_CODE":"GM0569",
+    "cbsnl:GM_NAAM":"Nieuwkoop",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"65",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK056902",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000111,
+    "geom:area_square_m":841601.125495,
+    "geom:bbox":"4.84529172333,52.16631463,4.86625343831,52.1742340026",
+    "geom:latitude":52.170276,
+    "geom:longitude":4.855312,
+    "iso:country":"NL",
+    "lbl:latitude":52.170147,
+    "lbl:longitude":4.855317,
+    "mps:latitude":52.170147,
+    "mps:longitude":4.855317,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Noordse Buurt"
+    ],
+    "name:nld_x_preferred":[
+        "Noordse Buurt"
+    ],
+    "reversegeo:latitude":52.170147,
+    "reversegeo:longitude":4.855317,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474217,
+        85633337,
+        101808467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"95822bab1af9f93a9dc41c44dd74da53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474217,
+            "locality_id":101808467,
+            "neighbourhood_id":1158826607,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826607,
+    "wof:lastmodified":1513588077,
+    "wof:name":"Noordse Buurt",
+    "wof:parent_id":101808467,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.845291723327777,
+    52.16631462997248,
+    4.866253438309769,
+    52.17423400257401
+],
+  "geometry": {"coordinates":[[[[4.84574714793524,52.17069398131581],[4.84647361338056,52.17334963735125],[4.84859700494693,52.17341523923094],[4.85013798618652,52.17303043916002],[4.85916541103334,52.17423400257401],[4.86046251220644,52.17407913671477],[4.86379791921139,52.17040072132204],[4.86625343830977,52.16829643821625],[4.86555683061619,52.1680599786788],[4.86494268148155,52.16789993565212],[4.86372518952854,52.16760692341715],[4.86326968718425,52.16752062962898],[4.86223952742497,52.16738806174151],[4.85966768038311,52.16708005909251],[4.85499446346664,52.16653647462426],[4.85442710502754,52.1664973868892],[4.85383934530988,52.16652176811169],[4.85303376521103,52.16644621995324],[4.85261807671479,52.16640444541565],[4.8521676381532,52.16635917480591],[4.85188819884864,52.16631462997248],[4.85160291961341,52.16771563790552],[4.84885121851686,52.16822705797691],[4.84529172332778,52.16899664237759],[4.84544360988288,52.16929373405464],[4.84536781847746,52.16930723304942],[4.84574714793524,52.17069398131581]]]],"type":"MultiPolygon"}
+}

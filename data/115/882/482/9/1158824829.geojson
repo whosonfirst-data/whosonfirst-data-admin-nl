@@ -1,0 +1,82 @@
+{
+  "id": 1158824829,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04840107",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Heimanswetering",
+    "cbsnl:GM_CODE":"GM0484",
+    "cbsnl:GM_NAAM":"Alphen aan den Rijn",
+    "cbsnl:IND_WBI":"2",
+    "cbsnl:OAD":"1454",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK048401",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":299419.895394,
+    "geom:bbox":"4.64412273451,52.1453156386,4.65132423256,52.1536764767",
+    "geom:latitude":52.149467,
+    "geom:longitude":4.648079,
+    "iso:country":"NL",
+    "lbl:latitude":52.149484,
+    "lbl:longitude":4.648146,
+    "mps:latitude":52.149484,
+    "mps:longitude":4.648146,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Heimanswetering"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Heimanswetering"
+    ],
+    "reversegeo:latitude":52.149484,
+    "reversegeo:longitude":4.648146,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831205,
+        404474147,
+        85633337,
+        101751837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e7665cfc39a59cb0af8a9544d43bac6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474147,
+            "locality_id":101751837,
+            "macrohood_id":1158831205,
+            "neighbourhood_id":1158824829,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158824829,
+    "wof:lastmodified":1513587948,
+    "wof:name":"Bedrijventerrein Heimanswetering",
+    "wof:parent_id":1158831205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.644122734505173,
+    52.14531563864867,
+    4.651324232561085,
+    52.153676476727625
+],
+  "geometry": {"coordinates":[[[[4.64412273450517,52.15367647672763],[4.64473548513966,52.15353139734849],[4.64504564202252,52.15345796245153],[4.64506875380861,52.15349414151159],[4.64546176176223,52.15340144196261],[4.64549117221147,52.15335265885568],[4.64912576601323,52.15250163428376],[4.64946899314332,52.15252919821757],[4.64961324773937,52.15252106364988],[4.64957111723757,52.15223478840386],[4.65132423256108,52.15183413378897],[4.65114385552424,52.15057470100311],[4.6509191663592,52.14900580242359],[4.65101765461112,52.14878105446077],[4.65095228938249,52.14856070024013],[4.65081787327213,52.14834377436505],[4.65072180996297,52.14722191101907],[4.65071518402489,52.14702715121474],[4.65070880273028,52.14683956587616],[4.65066738278672,52.14611631493415],[4.65065563550773,52.14591120833309],[4.65067583893287,52.14572733783689],[4.65076546899826,52.14540646601534],[4.64915567328881,52.14531563864867],[4.64755396263792,52.14545321351459],[4.64700562265602,52.14553940714183],[4.6466916128981,52.14558876452953],[4.64590830460298,52.14811319543842],[4.64520319443603,52.15060925815488],[4.64412273450517,52.15367647672763]]]],"type":"MultiPolygon"}
+}

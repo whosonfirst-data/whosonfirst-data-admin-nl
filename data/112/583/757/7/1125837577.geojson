@@ -1,0 +1,92 @@
+{
+  "id": 1125837577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-23",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.58194,52.42167,6.58194,52.42167",
+    "geom:latitude":52.42167,
+    "geom:longitude":6.58194,
+    "gn:gn_country":"NL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":160,
+    "gn:population":160,
+    "iso:country":"NL",
+    "lbl:latitude":52.42167,
+    "lbl:longitude":6.58194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Westerhoeven"
+    ],
+    "name:eng_x_preferred":[
+        "Westerhoeven"
+    ],
+    "name:fre_x_preferred":[
+        "Westerhoeven"
+    ],
+    "name:unk_x_variant":[
+        "Westerhoeve"
+    ],
+    "qs_pg:aaroncc":"NL",
+    "qs_pg:gn_country":"NL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2756943,
+    "qs_pg:gn_pop":160,
+    "qs_pg:name":"Westerhoeven",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":575889,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        404474611,
+        85633337,
+        85687045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2756943,
+        "qs_pg:id":575889,
+        "wd:id":"Q2383299"
+    },
+    "wof:country":"NL",
+    "wof:created":1497292781,
+    "wof:geomhash":"3755fa7ef5716c8f066f18896f544262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474611,
+            "locality_id":1125837577,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1125837577,
+    "wof:lastmodified":1524506001,
+    "wof:name":"Westerhoeven",
+    "wof:parent_id":404474611,
+    "wof:placetype":"locality",
+    "wof:population":160,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.58194,
+    52.42167,
+    6.58194,
+    52.42167
+],
+  "geometry": {"coordinates":[6.58194,52.42167],"type":"Point"}
+}

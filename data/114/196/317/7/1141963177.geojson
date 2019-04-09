@@ -1,0 +1,86 @@
+{
+  "id": 1141963177,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02300202",
+    "cbsnl:BU_NAAM":"'t Harde-West",
+    "cbsnl:GM_CODE":"GM0230",
+    "cbsnl:GM_NAAM":"Elburg",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"735",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK023002",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000113,
+    "geom:area_square_m":853377.923372,
+    "geom:bbox":"5.86534067984,52.4043710438,5.88740465836,52.4180520357",
+    "geom:latitude":52.411344,
+    "geom:longitude":5.876844,
+    "iso:country":"NL",
+    "lbl:latitude":52.412001,
+    "lbl:longitude":5.875925,
+    "mps:latitude":52.412001,
+    "mps:longitude":5.875925,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "West"
+    ],
+    "name:eng_x_variant":[
+        "'t Harde-West"
+    ],
+    "name:nld_x_preferred":[
+        "West"
+    ],
+    "name:nld_x_variant":[
+        "'t Harde-West"
+    ],
+    "reversegeo:latitude":52.412001,
+    "reversegeo:longitude":5.875925,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473895,
+        85633337,
+        101808571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5687c93373c4b80c82028a3eb0c85f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473895,
+            "locality_id":101808571,
+            "neighbourhood_id":1141963177,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963177,
+    "wof:lastmodified":1513368727,
+    "wof:name":"West",
+    "wof:parent_id":101808571,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.865340679841679,
+    52.40437104379362,
+    5.887404658357044,
+    52.41805203573391
+],
+  "geometry": {"coordinates":[[[[5.87082601935982,52.41124361255501],[5.87172188140313,52.41172808952772],[5.86534067984168,52.41489520555651],[5.86653457533337,52.41520213769569],[5.86927253045108,52.41624706797415],[5.87233221991124,52.41805203573391],[5.87386911029991,52.41733037238046],[5.8782511330666,52.41443511718354],[5.88246208380423,52.41087392093024],[5.88601543622654,52.40808996888455],[5.88740465835704,52.40658317041468],[5.88619084564533,52.40604987444861],[5.88294041905708,52.40437104379362],[5.88110958944226,52.40530358085561],[5.87887592666094,52.40689751382005],[5.87703842283977,52.40857233814558],[5.87590207318713,52.40801867695794],[5.87092244704648,52.41119940393607],[5.87082601935982,52.41124361255501]]]],"type":"MultiPolygon"}
+}

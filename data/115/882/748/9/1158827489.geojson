@@ -1,0 +1,80 @@
+{
+  "id": 1158827489,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06290007",
+    "cbsnl:BU_NAAM":"Klingenbosch",
+    "cbsnl:GM_CODE":"GM0629",
+    "cbsnl:GM_NAAM":"Wassenaar",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"275",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK062900",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":344692.709431,
+    "geom:bbox":"4.34529456704,52.1093371705,4.35790843003,52.1169174363",
+    "geom:latitude":52.113135,
+    "geom:longitude":4.351929,
+    "iso:country":"NL",
+    "lbl:latitude":52.113263,
+    "lbl:longitude":4.352359,
+    "mps:latitude":52.113263,
+    "mps:longitude":4.352359,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Klingenbosch"
+    ],
+    "name:nld_x_preferred":[
+        "Klingenbosch"
+    ],
+    "reversegeo:latitude":52.113263,
+    "reversegeo:longitude":4.352359,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831321,
+        85633337,
+        101754719,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4afac41f0f01d11309e20e97af4bcdc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754719,
+            "macrohood_id":1158831321,
+            "neighbourhood_id":1158827489,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827489,
+    "wof:lastmodified":1513588152,
+    "wof:name":"Klingenbosch",
+    "wof:parent_id":1158831321,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.345294567036623,
+    52.10933717051009,
+    4.357908430034806,
+    52.11691743630918
+],
+  "geometry": {"coordinates":[[[[4.34563423956885,52.11280652822109],[4.35300653564348,52.11691743630918],[4.3531426664111,52.11682677733946],[4.35790843003481,52.1131426983377],[4.35216539002163,52.10986016122781],[4.3521692898041,52.10933717051009],[4.35014972001029,52.11035199067739],[4.34807299162798,52.1115401450845],[4.34596195279767,52.11237993321796],[4.34529456703662,52.11256195710924],[4.34534779557237,52.11264669599585],[4.34563423956885,52.11280652822109]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158802683,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01630201",
+    "cbsnl:BU_NAAM":"Zeeheldenwijk",
+    "cbsnl:GM_CODE":"GM0163",
+    "cbsnl:GM_NAAM":"Hellendoorn",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"599",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK016302",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":428499.472559,
+    "geom:bbox":"6.44262516548,52.3665813249,6.45372581601,52.3748882697",
+    "geom:latitude":52.370926,
+    "geom:longitude":6.448226,
+    "iso:country":"NL",
+    "lbl:latitude":52.370166,
+    "lbl:longitude":6.449232,
+    "mps:latitude":52.370166,
+    "mps:longitude":6.449232,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zeeheldenwijk"
+    ],
+    "name:nld_x_preferred":[
+        "Zeeheldenwijk"
+    ],
+    "reversegeo:latitude":52.370166,
+    "reversegeo:longitude":6.449232,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473835,
+        85633337,
+        101807161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4721e268d6246ec89097eafd0ccc8b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473835,
+            "locality_id":101807161,
+            "neighbourhood_id":1158802683,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802683,
+    "wof:lastmodified":1513524277,
+    "wof:name":"Zeeheldenwijk",
+    "wof:parent_id":101807161,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.442625165484012,
+    52.36658132487892,
+    6.453725816008149,
+    52.37488826967714
+],
+  "geometry": {"coordinates":[[[[6.4494197933398,52.37488618820914],[6.45006050649572,52.37488826967714],[6.45003188063966,52.37465230687759],[6.45005475869662,52.37447825112193],[6.45010957179201,52.374309426886],[6.45118085465831,52.37212292079058],[6.45176976793481,52.37091492510406],[6.45276055352599,52.3688726865414],[6.45371131280567,52.36680737548357],[6.45368704050818,52.36676033404184],[6.45372581600815,52.36658132487892],[6.45331638072667,52.36661407325291],[6.45322440173606,52.36662065453623],[6.44831020070793,52.36673693700141],[6.4483535522568,52.36699059188411],[6.44662838534481,52.36701713291261],[6.44591241525277,52.36707220329306],[6.44607394006538,52.36841227148746],[6.44685250791295,52.36843987096566],[6.44675560751023,52.36946410359376],[6.4466085149595,52.37101884942643],[6.44480491739194,52.37097630685347],[6.44311430330803,52.3709489793111],[6.44311386141009,52.37355881544637],[6.44262516548401,52.37486388833381],[6.4494197933398,52.37488618820914]]]],"type":"MultiPolygon"}
+}

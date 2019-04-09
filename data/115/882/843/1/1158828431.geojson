@@ -1,0 +1,82 @@
+{
+  "id": 1158828431,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19010103",
+    "cbsnl:BU_NAAM":"Burgemeester Kremerweg",
+    "cbsnl:GM_CODE":"GM1901",
+    "cbsnl:GM_NAAM":"Bodegraven-Reeuwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1472",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK190101",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000227,
+    "geom:area_square_m":1727534.875044,
+    "geom:bbox":"4.73942576045,52.0821482035,4.76882964385,52.1003875033",
+    "geom:latitude":52.09052,
+    "geom:longitude":4.754854,
+    "iso:country":"NL",
+    "lbl:latitude":52.089166,
+    "lbl:longitude":4.75504,
+    "mps:latitude":52.089166,
+    "mps:longitude":4.75504,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Burgemeester Kremerweg"
+    ],
+    "name:nld_x_preferred":[
+        "Burgemeester Kremerweg"
+    ],
+    "reversegeo:latitude":52.089166,
+    "reversegeo:longitude":4.75504,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831325,
+        1158824739,
+        85633337,
+        101754619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0e674c68867eaa6b1685e24be25a7d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824739,
+            "locality_id":101754619,
+            "macrohood_id":1158831325,
+            "neighbourhood_id":1158828431,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828431,
+    "wof:lastmodified":1513588226,
+    "wof:name":"Burgemeester Kremerweg",
+    "wof:parent_id":1158831325,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.739425760448845,
+    52.08214820349989,
+    4.768829643847618,
+    52.10038750326467
+],
+  "geometry": {"coordinates":[[[[4.76692617936995,52.10038750326467],[4.76758980358027,52.09994270480092],[4.76872954252546,52.0994009701915],[4.76882964384762,52.09936048539075],[4.75997152848345,52.08642340704996],[4.75704560882351,52.08214820349989],[4.75574551881611,52.08271003324927],[4.75430193287967,52.08333343544059],[4.75281003255898,52.08373606697472],[4.74998148867077,52.08444689087416],[4.74772222362286,52.08478182596379],[4.74613137425078,52.08493103887474],[4.74443634858514,52.08520606096969],[4.74330492150289,52.0854838589056],[4.74211865972219,52.08601414119738],[4.74129231897906,52.0864514448802],[4.74096151625598,52.08683865481638],[4.74040610934764,52.08748838173644],[4.73961878647752,52.08877865271337],[4.73950462075194,52.08900301259997],[4.73942576044885,52.08915875048589],[4.74035274886724,52.08928630677345],[4.74189855325343,52.08969560146933],[4.74498283021787,52.09103849729489],[4.74821654115767,52.09244363556606],[4.76334622498591,52.09881505269905],[4.76335009265847,52.09881563383527],[4.76339584316196,52.09884621126255],[4.76692617936995,52.10038750326467]]]],"type":"MultiPolygon"}
+}

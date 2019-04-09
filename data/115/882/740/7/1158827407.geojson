@@ -1,0 +1,78 @@
+{
+  "id": 1158827407,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06260009",
+    "cbsnl:BU_NAAM":"Dobbewijk",
+    "cbsnl:GM_CODE":"GM0626",
+    "cbsnl:GM_NAAM":"Voorschoten",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"936",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK062600",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":227781.852632,
+    "geom:bbox":"4.43070806099,52.1266152039,4.44035772545,52.1335378442",
+    "geom:latitude":52.130124,
+    "geom:longitude":4.435361,
+    "iso:country":"NL",
+    "lbl:latitude":52.129942,
+    "lbl:longitude":4.43536,
+    "mps:latitude":52.129942,
+    "mps:longitude":4.43536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Dobbewijk"
+    ],
+    "name:nld_x_preferred":[
+        "Dobbewijk"
+    ],
+    "reversegeo:latitude":52.129942,
+    "reversegeo:longitude":4.43536,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        101754713,
+        85633337,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"2f6005bd565108d5c27d83033e82290a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754713,
+            "neighbourhood_id":1158827407,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827407,
+    "wof:lastmodified":1513588146,
+    "wof:name":"Dobbewijk",
+    "wof:parent_id":101754713,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.430708060988743,
+    52.126615203944944,
+    4.440357725450756,
+    52.13353784419726
+],
+  "geometry": {"coordinates":[[[[4.43512045353126,52.1267268499213],[4.43495329846275,52.12671651168842],[4.43482511925122,52.12661520394494],[4.43070806098874,52.12886752829113],[4.43185043621315,52.1297341632398],[4.43101129126837,52.13019687672086],[4.4324137897184,52.13131057832655],[4.43338821225974,52.13072646812976],[4.4377400935678,52.13353784419726],[4.44035772545076,52.13250971090564],[4.43962584091383,52.13202422071392],[4.43963487601511,52.13200715953846],[4.43948818625667,52.13181637914087],[4.43512045353126,52.1267268499213]]]],"type":"MultiPolygon"}
+}

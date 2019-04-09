@@ -1,0 +1,82 @@
+{
+  "id": 1158824827,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04840106",
+    "cbsnl:BU_NAAM":"Ambachtenbuurt-Oost",
+    "cbsnl:GM_CODE":"GM0484",
+    "cbsnl:GM_NAAM":"Alphen aan den Rijn",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"2086",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK048401",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":224632.550526,
+    "geom:bbox":"4.65251598577,52.150074033,4.66056281441,52.1560107962",
+    "geom:latitude":52.153099,
+    "geom:longitude":4.656655,
+    "iso:country":"NL",
+    "lbl:latitude":52.153163,
+    "lbl:longitude":4.656655,
+    "mps:latitude":52.153163,
+    "mps:longitude":4.656655,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ambachtenbuurt-Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Ambachtenbuurt-Oost"
+    ],
+    "reversegeo:latitude":52.153163,
+    "reversegeo:longitude":4.656655,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831205,
+        404474147,
+        85633337,
+        101751837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"cc6dedf2883ac9f19a6ed5ca48fbd5b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474147,
+            "locality_id":101751837,
+            "macrohood_id":1158831205,
+            "neighbourhood_id":1158824827,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158824827,
+    "wof:lastmodified":1513587948,
+    "wof:name":"Ambachtenbuurt-Oost",
+    "wof:parent_id":1158831205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.652515985765399,
+    52.150074033034834,
+    4.660562814409074,
+    52.156010796191396
+],
+  "geometry": {"coordinates":[[[[4.65503430786194,52.1560107961914],[4.65516968911714,52.1559876449161],[4.65619821769391,52.15581175272133],[4.66056281440907,52.15506523118929],[4.66033176693118,52.15493783049132],[4.66006598616999,52.15462330656369],[4.65986687556703,52.15391288027731],[4.65959961637246,52.1528837142017],[4.65959324173533,52.15286098099278],[4.65927466665286,52.15172488982591],[4.65904971438269,52.15088867467992],[4.65890222626371,52.15007403303483],[4.65638225615641,52.1506562431424],[4.65363740061317,52.15129832177099],[4.6525159857654,52.15156061918791],[4.65291195160861,52.15223714741877],[4.65360465616056,52.15331148661249],[4.65343415308061,52.15354682814088],[4.65396980292651,52.15439336192781],[4.65436323601188,52.15449254362742],[4.65461777179022,52.15509068859978],[4.65503430786194,52.1560107961914]]]],"type":"MultiPolygon"}
+}

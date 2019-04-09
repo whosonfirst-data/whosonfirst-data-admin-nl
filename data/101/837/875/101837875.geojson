@@ -1,0 +1,96 @@
+{
+  "id": 101837875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-08-09",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000157,
+    "geom:area_square_m":1172423.568338,
+    "geom:bbox":"6.96535337964,52.7860584625,7.01831325979,52.8103794071",
+    "geom:latitude":52.803556,
+    "geom:longitude":7.000469,
+    "iso:country":"NL",
+    "lbl:latitude":52.807815,
+    "lbl:longitude":7.004479,
+    "mps:latitude":52.807815,
+    "mps:longitude":7.004479,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fra_x_preferred":[
+        "Emmer-Erfscheidenveen"
+    ],
+    "name:nld_x_preferred":[
+        "Emmer-Erfscheidenveen"
+    ],
+    "name:unk_x_variant":[
+        "Erfscheidenveen"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Emmer-Erfscheidenveen"
+    ],
+    "qs:a0":"Nederland",
+    "qs:a1":"*Drenthe",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:id":0,
+    "qs:la":"Emmen",
+    "qs:la_lc":"*NL220114",
+    "qs:level":"locality",
+    "qs:loc":"Emmer-Erfscheidenveen",
+    "qs:loc_alt":"Emmer-Erfscheidenveen",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191581,
+        404473809,
+        85633337,
+        85687051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2756131,
+        "gp:id":729111,
+        "qs:id":187504,
+        "qs_pg:id":187504,
+        "tgn:id":1047764,
+        "wd:id":"Q3053019"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"5316b1336143cbf57fafb30bcc0f4284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473809,
+            "locality_id":101837875,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":101837875,
+    "wof:lastmodified":1527715302,
+    "wof:name":"Emmer-Erfscheidenveen",
+    "wof:parent_id":404473809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158790835
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.9653533796386,
+    52.78605846251332,
+    7.01831325978571,
+    52.81037940714668
+],
+  "geometry": {"coordinates":[[[7.0174331933942,52.8076888596662],[7.01702713825,52.80767877411142],[7.01831325978571,52.78882552054438],[7.01683212133167,52.78878866112473],[7.01701583328668,52.78609533762608],[7.01553478809296,52.78605846251332],[7.01492200409342,52.79503619478561],[7.0164033525146,52.7950730785675],[7.0159744330108,52.80135749034906],[7.01449287224017,52.8013206004963],[7.01406358954898,52.80760500056203],[7.00813651991302,52.80745723383569],[7.00819797665122,52.80655946621778],[6.99634419149277,52.80626306123418],[6.99640588792795,52.80536530047209],[6.98455249444163,52.80506773119782],[6.9846144305377,52.80416997731754],[6.97276142927205,52.80387124383122],[6.97282360499423,52.80297349685986],[6.96541570706466,52.80278619809064],[6.9653533796386,52.80368394065772],[6.96831659244975,52.8037589168261],[6.9682543225785,52.80465666103999],[6.97269925042849,52.8047689906864],[6.97263706846297,52.80566673742538],[6.98152716950545,52.80589090788305],[6.98146516649564,52.80678865977791],[6.99035553378934,52.80701217665899],[6.99029370975956,52.80790993369465],[7.00214790613001,52.80820693829509],[7.00208632180909,52.80910470220044],[7.01542274353693,52.80943744006493],[7.01536142931513,52.8103352116816],[7.0171385531483,52.81037940714668],[7.0174331933942,52.8076888596662]]],"type":"Polygon"}
+}

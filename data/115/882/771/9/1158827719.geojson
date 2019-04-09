@@ -1,0 +1,82 @@
+{
+  "id": 1158827719,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06420509",
+    "cbsnl:BU_NAAM":"Kapiteinflats",
+    "cbsnl:GM_CODE":"GM0642",
+    "cbsnl:GM_NAAM":"Zwijndrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1631",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK064205",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":31022.083062,
+    "geom:bbox":"4.63162934176,51.8087570571,4.6366862052,51.8105748277",
+    "geom:latitude":51.809637,
+    "geom:longitude":4.634204,
+    "iso:country":"NL",
+    "lbl:latitude":51.809633,
+    "lbl:longitude":4.634204,
+    "mps:latitude":51.809633,
+    "mps:longitude":4.634204,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kapiteinflats"
+    ],
+    "name:nld_x_preferred":[
+        "Kapiteinflats"
+    ],
+    "reversegeo:latitude":51.809633,
+    "reversegeo:longitude":4.634204,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831151,
+        404474291,
+        85633337,
+        101754703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1fbe4ad0b55340da8b638246d0731c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474291,
+            "locality_id":101754703,
+            "macrohood_id":1158831151,
+            "neighbourhood_id":1158827719,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827719,
+    "wof:lastmodified":1513588167,
+    "wof:name":"Kapiteinflats",
+    "wof:parent_id":1158831151,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.631629341763289,
+    51.80875705713271,
+    4.6366862051992,
+    51.81057482772647
+],
+  "geometry": {"coordinates":[[[[4.63587816141994,51.81057482772647],[4.63639131380356,51.81021719721289],[4.63647851992447,51.81013645244757],[4.63653094719993,51.81006731408961],[4.6366862051992,51.80983764787949],[4.63601200140786,51.80965266985032],[4.63598469302412,51.80964584347507],[4.63279696973288,51.80877319146092],[4.63271540469051,51.80875750298524],[4.63258873369839,51.80875705713271],[4.63249965882287,51.80877163023192],[4.63247036235195,51.80877625052518],[4.63239032409639,51.80880534457991],[4.63162934176329,51.80934634238662],[4.63178202706958,51.80942805155716],[4.63188813940558,51.80947338137261],[4.63240797316783,51.8096186396938],[4.63411251062098,51.81008193016855],[4.63505965285936,51.81034522594168],[4.63587816141994,51.81057482772647]]]],"type":"MultiPolygon"}
+}

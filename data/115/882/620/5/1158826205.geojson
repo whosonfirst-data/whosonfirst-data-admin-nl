@@ -1,0 +1,80 @@
+{
+  "id": 1158826205,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05340302",
+    "cbsnl:BU_NAAM":"Olympiakwartier",
+    "cbsnl:GM_CODE":"GM0534",
+    "cbsnl:GM_NAAM":"Hillegom",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"1765",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK053403",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":123534.660353,
+    "geom:bbox":"4.57700600545,52.2832527692,4.58530453012,52.2872777252",
+    "geom:latitude":52.285266,
+    "geom:longitude":4.581226,
+    "iso:country":"NL",
+    "lbl:latitude":52.285236,
+    "lbl:longitude":4.581226,
+    "mps:latitude":52.285236,
+    "mps:longitude":4.581226,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Olympiakwartier"
+    ],
+    "name:nld_x_preferred":[
+        "Olympiakwartier"
+    ],
+    "reversegeo:latitude":52.285236,
+    "reversegeo:longitude":4.581226,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829421,
+        85633337,
+        101807029,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"41fa1582fd681dc8f80aa259080c58e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101807029,
+            "macrohood_id":1158829421,
+            "neighbourhood_id":1158826205,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826205,
+    "wof:lastmodified":1513588049,
+    "wof:name":"Olympiakwartier",
+    "wof:parent_id":1158829421,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.577006005451069,
+    52.283252769194775,
+    4.585304530123994,
+    52.287277725187856
+],
+  "geometry": {"coordinates":[[[[4.57897206095198,52.28727772518786],[4.57898505677123,52.28727312577782],[4.58038195730657,52.28680230493713],[4.58240228299814,52.28614935219779],[4.58381961443754,52.28575892116347],[4.58437842889375,52.28562302040789],[4.58479621410491,52.28558700339642],[4.58508476826744,52.28562386392581],[4.58526846448209,52.28534691951769],[4.58530453012399,52.28518457849191],[4.58498734189164,52.28481618832454],[4.58488802395589,52.28475909951827],[4.58458849717831,52.28467501045546],[4.58446455484846,52.28459211299928],[4.58336411620423,52.28331325720254],[4.58332339236613,52.28325276919477],[4.57732688918987,52.28522256612928],[4.57725160529583,52.28524488381514],[4.57712841194281,52.28517480760355],[4.57700600545107,52.28527953793058],[4.57713600060683,52.28543354257407],[4.57744534041699,52.28565718814424],[4.57793768102948,52.28604171621515],[4.5782657272585,52.28640557074085],[4.57897206095198,52.28727772518786]]]],"type":"MultiPolygon"}
+}

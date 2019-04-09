@@ -1,0 +1,92 @@
+{
+  "id": 1125785875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-23",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.5375,52.6725,6.5375,52.6725",
+    "geom:latitude":52.6725,
+    "geom:longitude":6.5375,
+    "gn:gn_country":"NL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":547,
+    "gn:population":547,
+    "iso:country":"NL",
+    "lbl:latitude":52.6725,
+    "lbl:longitude":6.5375,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Nieuw Moscou"
+    ],
+    "name:eng_x_preferred":[
+        "Nieuw Moscou"
+    ],
+    "name:fre_x_preferred":[
+        "Nieuw Moscou"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u044c\u0438\u0432-\u041c\u043e\u0441\u043a\u0430\u0443"
+    ],
+    "qs_pg:aaroncc":"NL",
+    "qs_pg:gn_country":"NL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6544761,
+    "qs_pg:gn_pop":547,
+    "qs_pg:name":"Nieuw Moscou",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":628548,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        404473811,
+        85633337,
+        85687051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6544761,
+        "qs_pg:id":628548,
+        "wd:id":"Q2059908"
+    },
+    "wof:country":"NL",
+    "wof:created":1497290672,
+    "wof:geomhash":"36dee57f113e06026c7bdea84b82462b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473811,
+            "locality_id":1125785875,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1125785875,
+    "wof:lastmodified":1524505994,
+    "wof:name":"Nieuw Moscou",
+    "wof:parent_id":404473811,
+    "wof:placetype":"locality",
+    "wof:population":547,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.5375,
+    52.6725,
+    6.5375,
+    52.6725
+],
+  "geometry": {"coordinates":[6.5375,52.6725],"type":"Point"}
+}

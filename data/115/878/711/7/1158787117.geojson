@@ -1,0 +1,80 @@
+{
+  "id": 1158787117,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09952338",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Jol",
+    "cbsnl:GM_CODE":"GM0995",
+    "cbsnl:GM_NAAM":"Lelystad",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1434",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK099523",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":46004.677601,
+    "geom:bbox":"5.44489331352,52.5063013461,5.44930918929,52.5081655804",
+    "geom:latitude":52.507176,
+    "geom:longitude":5.446987,
+    "iso:country":"NL",
+    "lbl:latitude":52.507256,
+    "lbl:longitude":5.446766,
+    "mps:latitude":52.507256,
+    "mps:longitude":5.446766,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Jol"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Jol"
+    ],
+    "reversegeo:latitude":52.507256,
+    "reversegeo:longitude":5.446766,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158787401,
+        85633337,
+        101751873,
+        85687049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a93ecee231d6c263e1c8a3a1950dc3c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751873,
+            "macrohood_id":1158787401,
+            "neighbourhood_id":1158787117,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158787117,
+    "wof:lastmodified":1513299294,
+    "wof:name":"Bedrijventerrein Jol",
+    "wof:parent_id":1158787401,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.44489331352382,
+    52.50630134611286,
+    5.449309189285895,
+    52.50816558041133
+],
+  "geometry": {"coordinates":[[[[5.44526528326895,52.50630134611286],[5.44522596908439,52.50690946508864],[5.44489331352382,52.50775047799953],[5.44496756641838,52.50789693309184],[5.44522523891298,52.50790899228653],[5.44662199744793,52.50811195105533],[5.4468104545564,52.50816558041133],[5.4479319838111,52.50774396044611],[5.44906224635268,52.50772463449984],[5.44925214283341,52.5073459628694],[5.44930918928589,52.50714228024791],[5.44881722302056,52.50675646996329],[5.44884092890383,52.50643715638193],[5.44526528326895,52.50630134611286]]]],"type":"MultiPolygon"}
+}

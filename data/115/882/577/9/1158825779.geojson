@@ -1,0 +1,80 @@
+{
+  "id": 1158825779,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05051002",
+    "cbsnl:BU_NAAM":"Vissersdijk-Oost",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2107",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050510",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000019,
+    "geom:area_square_m":145102.757412,
+    "geom:bbox":"4.70831140061,51.7970990621,4.71770085328,51.8008858151",
+    "geom:latitude":51.798862,
+    "geom:longitude":4.713203,
+    "iso:country":"NL",
+    "lbl:latitude":51.798978,
+    "lbl:longitude":4.713594,
+    "mps:latitude":51.798978,
+    "mps:longitude":4.713594,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vissersdijk-Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Vissersdijk-Oost"
+    ],
+    "reversegeo:latitude":51.798978,
+    "reversegeo:longitude":4.713594,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829555,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"82a1274c3f87ea2fac623d172d5460a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829555,
+            "neighbourhood_id":1158825779,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825779,
+    "wof:lastmodified":1513588016,
+    "wof:name":"Vissersdijk-Oost",
+    "wof:parent_id":1158829555,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.708311400605424,
+    51.79709906207088,
+    4.71770085327699,
+    51.80088581512049
+],
+  "geometry": {"coordinates":[[[[4.71443694247546,51.80057618817422],[4.7150325523682,51.80036381161914],[4.71540841609932,51.80014246153328],[4.71770085327699,51.79822038900494],[4.71605540464921,51.79799161105706],[4.71564226304024,51.79789926176252],[4.71401669577782,51.79718294314787],[4.71355363524253,51.79710050222251],[4.71283986157638,51.79709906207088],[4.71235801874576,51.79722483857218],[4.70831140060542,51.79875628872998],[4.70860530514088,51.79883522481558],[4.71087181246876,51.79976407602985],[4.71165329979845,51.80011601620542],[4.71338670094803,51.80084156849419],[4.71347882164237,51.80088581512049],[4.71443694247546,51.80057618817422]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 101856045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-09-01",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.865961,52.178436,6.865961,52.178436",
+    "geom:latitude":52.178436,
+    "geom:longitude":6.865961,
+    "iso:country":"NL",
+    "lbl:latitude":52.178436,
+    "lbl:longitude":6.865961,
+    "mps:latitude":52.178436,
+    "mps:longitude":6.865961,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Nederland",
+    "qs:a1":"*Overijssel",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Broekheurne",
+    "qs:loc_alt":"Broekheurne",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404473827,
+        85633337,
+        85687045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2758274,
+        "gp:id":729139,
+        "qs:id":9,
+        "tgn:id":7262524
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"cb15e6a7db51f3184a3fd2572302e193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473827,
+            "locality_id":101856045,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":101856045,
+    "wof:lastmodified":1544743198,
+    "wof:name":"Broekheurne",
+    "wof:parent_id":404473827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158802421
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.865961,
+    52.178436,
+    6.865961,
+    52.178436
+],
+  "geometry": {"coordinates":[6.865961,52.178436],"type":"Point"}
+}

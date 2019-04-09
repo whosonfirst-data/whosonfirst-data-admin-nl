@@ -1,0 +1,80 @@
+{
+  "id": 1158828213,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17830802",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Bovendijk",
+    "cbsnl:GM_CODE":"GM1783",
+    "cbsnl:GM_NAAM":"Westland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"588",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK178308",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":122470.713944,
+    "geom:bbox":"4.25624777428,52.0123797627,4.26413317057,52.0173784943",
+    "geom:latitude":52.015125,
+    "geom:longitude":4.260486,
+    "iso:country":"NL",
+    "lbl:latitude":52.015207,
+    "lbl:longitude":4.260546,
+    "mps:latitude":52.015207,
+    "mps:longitude":4.260546,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Bovendijk"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Bovendijk"
+    ],
+    "reversegeo:latitude":52.015207,
+    "reversegeo:longitude":4.260546,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
+        85633337,
+        101807041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"681a6e4fb2b59cf256b402a20c84ef1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474667,
+            "locality_id":101807041,
+            "neighbourhood_id":1158828213,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828213,
+    "wof:lastmodified":1513588209,
+    "wof:name":"Bedrijventerrein Bovendijk",
+    "wof:parent_id":101807041,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.256247774280046,
+    52.01237976274532,
+    4.26413317057094,
+    52.0173784943217
+],
+  "geometry": {"coordinates":[[[[4.26048808408591,52.01396298436971],[4.2598872741691,52.01427436630335],[4.25638968862028,52.01604753432453],[4.25624777428005,52.01620549317087],[4.25717729964315,52.01680023132488],[4.25756361606549,52.01704740179626],[4.25834184670636,52.0173784943217],[4.25878050898553,52.01707870728664],[4.25905937086966,52.0172543245646],[4.26093263754205,52.01628059350554],[4.26244697625167,52.01549338056846],[4.26310235305624,52.01513487788655],[4.26398603742447,52.01465147503851],[4.26281849876097,52.01432632125114],[4.26411868294523,52.01360648016828],[4.26360981621256,52.01320973894412],[4.26413317057094,52.01290932249265],[4.26339507816184,52.01237976274532],[4.26114555036791,52.01362222971171],[4.26048808408591,52.01396298436971]]]],"type":"MultiPolygon"}
+}

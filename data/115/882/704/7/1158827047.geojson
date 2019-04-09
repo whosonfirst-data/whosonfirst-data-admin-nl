@@ -1,0 +1,80 @@
+{
+  "id": 1158827047,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06060702",
+    "cbsnl:BU_NAAM":"Groenoord-Zuid",
+    "cbsnl:GM_CODE":"GM0606",
+    "cbsnl:GM_NAAM":"Schiedam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2376",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK060607",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":314129.863954,
+    "geom:bbox":"4.36182571833,51.925279718,4.37643849577,51.9291040801",
+    "geom:latitude":51.926989,
+    "geom:longitude":4.369568,
+    "iso:country":"NL",
+    "lbl:latitude":51.92701,
+    "lbl:longitude":4.369569,
+    "mps:latitude":51.92701,
+    "mps:longitude":4.369569,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Groenoord-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Groenoord-Zuid"
+    ],
+    "reversegeo:latitude":51.92701,
+    "reversegeo:longitude":4.369569,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829561,
+        85633337,
+        101751845,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8eb6a04fa37d09df4ec71bf2d54654df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "macrohood_id":1158829561,
+            "neighbourhood_id":1158827047,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827047,
+    "wof:lastmodified":1513588115,
+    "wof:name":"Groenoord-Zuid",
+    "wof:parent_id":1158829561,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.361825718326457,
+    51.92527971798336,
+    4.376438495771517,
+    51.929104080074985
+],
+  "geometry": {"coordinates":[[[[4.36388373830322,51.92811669762145],[4.367850774494,51.92839822198285],[4.3756822570862,51.92910408007499],[4.37643849577152,51.92572909274259],[4.3688297909801,51.92543785789942],[4.36498677645804,51.92546292820646],[4.36201678105854,51.92527971798336],[4.36182652762117,51.92656557671337],[4.36182571832646,51.92657109771714],[4.36243381432238,51.9269907869553],[4.36275629073698,51.92719632396729],[4.36297321291702,51.92731457513521],[4.36323477014432,51.92743479643606],[4.36339008504537,51.92749714778092],[4.3636189750353,51.92757903410079],[4.36392208255405,51.92768746280046],[4.36391529770155,51.92776256857732],[4.36390627461566,51.92786378532537],[4.36388957226029,51.92805131857632],[4.36388373830322,51.92811669762145]]]],"type":"MultiPolygon"}
+}

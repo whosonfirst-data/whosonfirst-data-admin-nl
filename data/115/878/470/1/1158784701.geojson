@@ -1,0 +1,80 @@
+{
+  "id": 1158784701,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07171001",
+    "cbsnl:BU_NAAM":"De Ruiser",
+    "cbsnl:GM_CODE":"GM0717",
+    "cbsnl:GM_NAAM":"Veere",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"203",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK071710",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000022,
+    "geom:area_square_m":168365.379565,
+    "geom:bbox":"3.50077023492,51.4884854471,3.50843214316,51.4948867437",
+    "geom:latitude":51.492477,
+    "geom:longitude":3.50471,
+    "iso:country":"NL",
+    "lbl:latitude":51.492695,
+    "lbl:longitude":3.504013,
+    "mps:latitude":51.492695,
+    "mps:longitude":3.504013,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Ruiser"
+    ],
+    "name:nld_x_preferred":[
+        "De Ruiser"
+    ],
+    "reversegeo:latitude":51.492695,
+    "reversegeo:longitude":3.504013,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474333,
+        85633337,
+        1158786571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0c8d7ecb1364398e369f64642465cf23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474333,
+            "locality_id":1158786571,
+            "neighbourhood_id":1158784701,
+            "region_id":85687037
+        }
+    ],
+    "wof:id":1158784701,
+    "wof:lastmodified":1513628697,
+    "wof:name":"De Ruiser",
+    "wof:parent_id":1158786571,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.500770234917532,
+    51.48848544707988,
+    3.508432143161923,
+    51.49488674365335
+],
+  "geometry": {"coordinates":[[[[3.50843214316192,51.49282778057466],[3.50566141051376,51.49231479397037],[3.50597820441237,51.49139666708341],[3.50587891371613,51.4909598585758],[3.50587636510667,51.49002843749059],[3.50616418066549,51.48955010546132],[3.50740629326866,51.4891708718549],[3.50608809387462,51.48848544707988],[3.50534157379039,51.4888428746657],[3.50490281802044,51.48966660025081],[3.50426261390484,51.49035305547946],[3.50320662063141,51.49110191249627],[3.50077023491753,51.49376512043882],[3.50116163741728,51.49407263393964],[3.50228519511302,51.49438213609437],[3.50438890133354,51.49453914650077],[3.50477660946173,51.49434872720632],[3.50704174413752,51.49488674365335],[3.50843214316192,51.49282778057466]]]],"type":"MultiPolygon"}
+}

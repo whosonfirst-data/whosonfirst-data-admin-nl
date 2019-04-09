@@ -1,0 +1,80 @@
+{
+  "id": 1158788393,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03450202",
+    "cbsnl:BU_NAAM":"Boslaan en omgeving",
+    "cbsnl:GM_CODE":"GM0345",
+    "cbsnl:GM_NAAM":"Veenendaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2167",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK034502",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":387389.692947,
+    "geom:bbox":"5.54379212508,52.0101207397,5.55607409763,52.0189108264",
+    "geom:latitude":52.013584,
+    "geom:longitude":5.549909,
+    "iso:country":"NL",
+    "lbl:latitude":52.013993,
+    "lbl:longitude":5.549816,
+    "mps:latitude":52.013993,
+    "mps:longitude":5.549816,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Boslaan en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Boslaan en omgeving"
+    ],
+    "reversegeo:latitude":52.013993,
+    "reversegeo:longitude":5.549816,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158790339,
+        85633337,
+        101751829,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e959e3d71af88e9f30c87221571f44a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751829,
+            "macrohood_id":1158790339,
+            "neighbourhood_id":1158788393,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788393,
+    "wof:lastmodified":1513622006,
+    "wof:name":"Boslaan en omgeving",
+    "wof:parent_id":1158790339,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.543792125082619,
+    52.010120739735164,
+    5.556074097627028,
+    52.01891082642548
+],
+  "geometry": {"coordinates":[[[[5.54396266447969,52.01176011272914],[5.54979356799569,52.01891082642548],[5.54998222463299,52.01871029679185],[5.55319260696022,52.01464316826891],[5.55607409762703,52.0102390859489],[5.55594597739228,52.01012073973516],[5.55567816537913,52.01015012297643],[5.55509668778241,52.01039977194948],[5.553707409523,52.01062610244825],[5.55291654749123,52.01074599677373],[5.55240327034342,52.01074671907826],[5.55171880587069,52.01072128433859],[5.55015787751259,52.01080264149517],[5.54983693581855,52.01076349500653],[5.54940992170727,52.01096204528117],[5.54902510437787,52.0110021686169],[5.54861871181326,52.01098952865252],[5.54690810727461,52.01108424668639],[5.54528327892989,52.01124481206554],[5.54442803866371,52.01131194474193],[5.54379212508262,52.01155093051996],[5.54396092427671,52.01175797389089],[5.54396266447969,52.01176011272914]]]],"type":"MultiPolygon"}
+}

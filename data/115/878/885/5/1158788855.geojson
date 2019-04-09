@@ -1,0 +1,80 @@
+{
+  "id": 1158788855,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07360202",
+    "cbsnl:BU_NAAM":"Baambrugse Zuwe",
+    "cbsnl:GM_CODE":"GM0736",
+    "cbsnl:GM_NAAM":"De Ronde Venen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"237",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK073602",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000116,
+    "geom:area_square_m":882141.609156,
+    "geom:bbox":"4.9329212325,52.219947621,4.9718777142,52.2385889928",
+    "geom:latitude":52.229922,
+    "geom:longitude":4.953125,
+    "iso:country":"NL",
+    "lbl:latitude":52.230224,
+    "lbl:longitude":4.953316,
+    "mps:latitude":52.230224,
+    "mps:longitude":4.953316,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Baambrugse Zuwe"
+    ],
+    "name:nld_x_preferred":[
+        "Baambrugse Zuwe"
+    ],
+    "reversegeo:latitude":52.230224,
+    "reversegeo:longitude":4.953316,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474341,
+        85633337,
+        101808425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"30f848700630829f60cbf1f1f1511648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474341,
+            "locality_id":101808425,
+            "neighbourhood_id":1158788855,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788855,
+    "wof:lastmodified":1513622046,
+    "wof:name":"Baambrugse Zuwe",
+    "wof:parent_id":101808425,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.932921232504014,
+    52.21994762095507,
+    4.971877714198801,
+    52.23858899277857
+],
+  "geometry": {"coordinates":[[[[4.9718777141988,52.23725599348055],[4.97151135969306,52.23745412531908],[4.97100159572929,52.23701389036311],[4.97067994849002,52.23618586999203],[4.96861783165605,52.23536152437136],[4.96293149674414,52.23299343376947],[4.95520999697581,52.22938826223309],[4.948496156101,52.22614696735847],[4.94050386633684,52.22247240822342],[4.93563017317356,52.22004145559578],[4.93525523512385,52.22050908120947],[4.93515880957895,52.22060645615593],[4.93355553645055,52.21994762095507],[4.93292123250401,52.22051958188414],[4.93451664739831,52.22125492907023],[4.93412109894609,52.22165435040837],[4.93396295394667,52.22180288798372],[4.94836388195054,52.22945290990518],[4.95534756724582,52.23300920994848],[4.961652609196,52.2356970029495],[4.96654861437286,52.23776742787656],[4.9684627192504,52.23845449950107],[4.970499469975,52.23858219327471],[4.97115375204208,52.23858899277857],[4.9718777141988,52.23725599348055]]]],"type":"MultiPolygon"}
+}

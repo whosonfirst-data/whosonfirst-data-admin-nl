@@ -1,0 +1,82 @@
+{
+  "id": 1158803551,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01935040",
+    "cbsnl:BU_NAAM":"Oldenelerlanden-Oost",
+    "cbsnl:GM_CODE":"GM0193",
+    "cbsnl:GM_NAAM":"Zwolle",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1785",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK019350",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":344197.846045,
+    "geom:bbox":"6.0957997843,52.4818627142,6.1071303656,52.4900347565",
+    "geom:latitude":52.486204,
+    "geom:longitude":6.101861,
+    "iso:country":"NL",
+    "lbl:latitude":52.486033,
+    "lbl:longitude":6.102419,
+    "mps:latitude":52.486033,
+    "mps:longitude":6.102419,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oldenelerlanden-Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Oldenelerlanden-Oost"
+    ],
+    "reversegeo:latitude":52.486033,
+    "reversegeo:longitude":6.102419,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805811,
+        404473861,
+        85633337,
+        101751861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7a79df57d4865e17d6d1dc82dc8ec323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158805811,
+            "neighbourhood_id":1158803551,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803551,
+    "wof:lastmodified":1513524345,
+    "wof:name":"Oldenelerlanden-Oost",
+    "wof:parent_id":1158805811,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.095799784296268,
+    52.481862714209974,
+    6.107130365595711,
+    52.490034756468475
+],
+  "geometry": {"coordinates":[[[[6.09579978429627,52.48891242231419],[6.09608620042812,52.48937529952571],[6.10063832597689,52.49003475646848],[6.10210546655129,52.48847479801859],[6.10472915476288,52.48846490329507],[6.10474179480263,52.48804207085717],[6.10479354438467,52.48762495521564],[6.10491170892101,52.48717608709389],[6.1050004430143,52.48687451170638],[6.1051204437689,52.48657655775926],[6.10531781925175,52.48617576930062],[6.10646753081359,52.48411295511198],[6.10713036559571,52.48294910065023],[6.10663232171926,52.48285179521688],[6.1034222798961,52.48186271420997],[6.10335380149494,52.48195682585198],[6.10327412736245,52.48202470420521],[6.10270300626789,52.48233719136385],[6.10245801743362,52.4825240101369],[6.09579978429627,52.48891242231419]]]],"type":"MultiPolygon"}
+}

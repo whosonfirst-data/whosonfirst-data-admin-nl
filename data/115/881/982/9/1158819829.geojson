@@ -1,0 +1,80 @@
+{
+  "id": 1158819829,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04020303",
+    "cbsnl:BU_NAAM":"Zeverijn",
+    "cbsnl:GM_CODE":"GM0402",
+    "cbsnl:GM_NAAM":"Hilversum",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2658",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK040203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":249689.559628,
+    "geom:bbox":"5.14505773121,52.2141897482,5.15496145383,52.2207818826",
+    "geom:latitude":52.218067,
+    "geom:longitude":5.150511,
+    "iso:country":"NL",
+    "lbl:latitude":52.218124,
+    "lbl:longitude":5.150924,
+    "mps:latitude":52.218124,
+    "mps:longitude":5.150924,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zeverijn"
+    ],
+    "name:nld_x_preferred":[
+        "Zeverijn"
+    ],
+    "reversegeo:latitude":52.218124,
+    "reversegeo:longitude":5.150924,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823059,
+        85633337,
+        101751905,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"788b6c507eee58dbd0b7a8dbac3a18af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751905,
+            "macrohood_id":1158823059,
+            "neighbourhood_id":1158819829,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158819829,
+    "wof:lastmodified":1513464174,
+    "wof:name":"Zeverijn",
+    "wof:parent_id":1158823059,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.145057731210259,
+    52.214189748210906,
+    5.154961453832333,
+    52.22078188260919
+],
+  "geometry": {"coordinates":[[[[5.14505773121026,52.21978382945441],[5.14623771088616,52.22013979141603],[5.15127048398724,52.22060003425333],[5.15145273237515,52.22078188260919],[5.15173786361371,52.22050659401632],[5.15252075531611,52.21997821128068],[5.15396726312663,52.21911720352428],[5.15487004042837,52.21875944241971],[5.15496145383233,52.21872607947969],[5.15484614411462,52.21852913583529],[5.15459478386948,52.2181117392966],[5.15444013093609,52.21785835438265],[5.15412640277972,52.21735881967084],[5.15382081283874,52.2168824407108],[5.15361502979011,52.21658387444282],[5.15333203238827,52.21622111261842],[5.15261776833855,52.21529691220216],[5.15211967703261,52.21461831478845],[5.15187272773597,52.2142234388166],[5.15185436732182,52.21418974821091],[5.1516800099812,52.21427877092647],[5.15113389682497,52.21459983279953],[5.14742493562543,52.21775476308051],[5.14505773121026,52.21978382945441]]]],"type":"MultiPolygon"}
+}

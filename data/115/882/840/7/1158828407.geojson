@@ -1,0 +1,80 @@
+{
+  "id": 1158828407,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18920404",
+    "cbsnl:BU_NAAM":"Zuidplas Zuid",
+    "cbsnl:GM_CODE":"GM1892",
+    "cbsnl:GM_NAAM":"Zuidplas",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1721",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK189204",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000073,
+    "geom:area_square_m":556648.401984,
+    "geom:bbox":"4.61057462615,51.9656980075,4.62660160791,51.9763461853",
+    "geom:latitude":51.970777,
+    "geom:longitude":4.619102,
+    "iso:country":"NL",
+    "lbl:latitude":51.969236,
+    "lbl:longitude":4.617098,
+    "mps:latitude":51.969236,
+    "mps:longitude":4.617098,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zuidplas Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Zuidplas Zuid"
+    ],
+    "reversegeo:latitude":51.969236,
+    "reversegeo:longitude":4.617098,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158824737,
+        85633337,
+        101808529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"afeabea4a39ceb2e17656309a0836c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824737,
+            "locality_id":101808529,
+            "neighbourhood_id":1158828407,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828407,
+    "wof:lastmodified":1513588224,
+    "wof:name":"Zuidplas Zuid",
+    "wof:parent_id":101808529,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.610574626145992,
+    51.96569800745394,
+    4.626601607911282,
+    51.97634618530802
+],
+  "geometry": {"coordinates":[[[[4.62250162641793,51.97566243985747],[4.62298957423364,51.97537354479608],[4.62453422085702,51.97634618530802],[4.62457951755182,51.97631434156312],[4.62533040483787,51.9756198665979],[4.62574315674107,51.97522804167326],[4.62630627347883,51.97462015103912],[4.6263830525126,51.97439327369457],[4.62660160791128,51.97393934602891],[4.62500021826324,51.97230392801625],[4.62449382781179,51.97178674672363],[4.62278210846768,51.97003845185515],[4.6210060416883,51.96851285906599],[4.61973258991963,51.967418922316],[4.61834364975389,51.96637370343389],[4.61742411730971,51.96569800745394],[4.61688153266425,51.96591339488977],[4.61317479350243,51.9673847148865],[4.61097923766776,51.96831390122321],[4.61057462614599,51.96848513027889],[4.61191669225049,51.96940446102284],[4.61638394177196,51.97242393580549],[4.61847230669042,51.97306784650992],[4.62196146248713,51.97531463695227],[4.62250162641793,51.97566243985747]]]],"type":"MultiPolygon"}
+}

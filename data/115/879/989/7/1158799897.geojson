@@ -1,0 +1,82 @@
+{
+  "id": 1158799897,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16740201",
+    "cbsnl:BU_NAAM":"Spoorstraat-Van Coothlaan",
+    "cbsnl:GM_CODE":"GM1674",
+    "cbsnl:GM_NAAM":"Roosendaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1703",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK167402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":360599.407504,
+    "geom:bbox":"4.46824258115,51.5374834937,4.47533733275,51.5465713102",
+    "geom:latitude":51.542466,
+    "geom:longitude":4.47174,
+    "iso:country":"NL",
+    "lbl:latitude":51.543205,
+    "lbl:longitude":4.471453,
+    "mps:latitude":51.543205,
+    "mps:longitude":4.471453,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Spoorstraat-Van Coothlaan"
+    ],
+    "name:nld_x_preferred":[
+        "Spoorstraat-Van Coothlaan"
+    ],
+    "reversegeo:latitude":51.543205,
+    "reversegeo:longitude":4.471453,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801761,
+        404474587,
+        85633337,
+        101751815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"02b5f507db391a1f3a2586574b11fd50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474587,
+            "locality_id":101751815,
+            "macrohood_id":1158801761,
+            "neighbourhood_id":1158799897,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799897,
+    "wof:lastmodified":1513432786,
+    "wof:name":"Spoorstraat-Van Coothlaan",
+    "wof:parent_id":1158801761,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.468242581154838,
+    51.537483493691454,
+    4.475337332754473,
+    51.54657131016611
+],
+  "geometry": {"coordinates":[[[[4.46824258115484,51.54582082161038],[4.47132132738235,51.54657131016611],[4.47501556653033,51.5464716601498],[4.47533733275447,51.54538109700085],[4.47429261246047,51.54399311408332],[4.47458452231918,51.54338413551606],[4.47421576437239,51.54214974861502],[4.4735818585275,51.54155690746044],[4.47453230168111,51.53995528577108],[4.47438661074147,51.53859679359323],[4.47399642940651,51.53828721620453],[4.47414417460375,51.5378928503088],[4.47168551557631,51.5378709157645],[4.47008180271174,51.53748349369145],[4.46850768164814,51.54376170419979],[4.46867665791045,51.54403180691011],[4.46838884698573,51.54422011343782],[4.46844644538987,51.54486508510489],[4.46824507337296,51.54498485464293],[4.46824258115484,51.54582082161038]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1141962655,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02140402",
+    "cbsnl:BU_NAAM":"Klinkenberg",
+    "cbsnl:GM_CODE":"GM0214",
+    "cbsnl:GM_NAAM":"Buren",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"142",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK021404",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":449956.060198,
+    "geom:bbox":"5.48867416902,51.961603422,5.5023248834,51.9697952536",
+    "geom:latitude":51.965657,
+    "geom:longitude":5.495122,
+    "iso:country":"NL",
+    "lbl:latitude":51.965509,
+    "lbl:longitude":5.495122,
+    "mps:latitude":51.965509,
+    "mps:longitude":5.495122,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Klinkenberg"
+    ],
+    "name:nld_x_preferred":[
+        "Klinkenberg"
+    ],
+    "reversegeo:latitude":51.965509,
+    "reversegeo:longitude":5.495122,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473879,
+        85633337,
+        1158783581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d7a501ff9b2a9c1fdbb93c3242a5a232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473879,
+            "locality_id":1158783581,
+            "neighbourhood_id":1141962655,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962655,
+    "wof:lastmodified":1513368691,
+    "wof:name":"Klinkenberg",
+    "wof:parent_id":1158783581,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.488674169019002,
+    51.96160342199225,
+    5.502324883401816,
+    51.96979525362368
+],
+  "geometry": {"coordinates":[[[[5.49597795490752,51.96160342199225],[5.4954426077598,51.96161655799765],[5.49304076823657,51.96304674838558],[5.49191038433956,51.96371401233885],[5.49096795105427,51.96387663658927],[5.48978017961971,51.96432596678222],[5.488674169019,51.96484936696087],[5.48926002704469,51.96523619281356],[5.48955935859281,51.96569236592394],[5.48963309504504,51.96681694998401],[5.48989608771046,51.96728410655679],[5.49149135257878,51.96809613243728],[5.49391255908615,51.96979525362368],[5.50232488340182,51.96573363134354],[5.49597795490752,51.96160342199225]]]],"type":"MultiPolygon"}
+}

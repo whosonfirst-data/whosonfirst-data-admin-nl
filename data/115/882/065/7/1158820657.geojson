@@ -1,0 +1,80 @@
+{
+  "id": 1158820657,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04570104",
+    "cbsnl:BU_NAAM":"De Klomp",
+    "cbsnl:GM_CODE":"GM0457",
+    "cbsnl:GM_NAAM":"Weesp",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"851",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK045701",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":103806.053816,
+    "geom:bbox":"5.04699919783,52.2994581074,5.05404700137,52.303082814",
+    "geom:latitude":52.301264,
+    "geom:longitude":5.051017,
+    "iso:country":"NL",
+    "lbl:latitude":52.301104,
+    "lbl:longitude":5.051017,
+    "mps:latitude":52.301104,
+    "mps:longitude":5.051017,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Klomp"
+    ],
+    "name:nld_x_preferred":[
+        "De Klomp"
+    ],
+    "reversegeo:latitude":52.301104,
+    "reversegeo:longitude":5.051017,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823085,
+        85633337,
+        101754863,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8a2ab315b4f580b6b7c5477be7914ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754863,
+            "macrohood_id":1158823085,
+            "neighbourhood_id":1158820657,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158820657,
+    "wof:lastmodified":1513464241,
+    "wof:name":"De Klomp",
+    "wof:parent_id":1158823085,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.046999197829839,
+    52.29945810739739,
+    5.054047001371204,
+    52.30308281401613
+],
+  "geometry": {"coordinates":[[[[5.05293525779519,52.30308281401613],[5.05327830872691,52.30230521873325],[5.05375092937603,52.30104938968046],[5.05389489495146,52.30075866759517],[5.0540470013712,52.30062878458836],[5.0532614278172,52.30024143330596],[5.05215567550218,52.29994809690723],[5.05047042012739,52.29945810739739],[5.05016777715215,52.29968672464124],[5.0495204266675,52.30021791003008],[5.04872848804313,52.30073326067477],[5.04823613901466,52.30097193546568],[5.04789493793805,52.30116655783333],[5.04699919782984,52.30153348100549],[5.04805263289811,52.30195002895267],[5.051519517759,52.30269926499514],[5.05231558062034,52.30283749345616],[5.05293525779519,52.30308281401613]]]],"type":"MultiPolygon"}
+}

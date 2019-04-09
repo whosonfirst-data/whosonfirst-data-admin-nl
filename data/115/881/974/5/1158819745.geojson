@@ -1,0 +1,82 @@
+{
+  "id": 1158819745,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04000505",
+    "cbsnl:BU_NAAM":"Boerderijbuurt",
+    "cbsnl:GM_CODE":"GM0400",
+    "cbsnl:GM_NAAM":"Den Helder",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1355",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK040005",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":235666.26735,
+    "geom:bbox":"4.76210916473,52.9318842383,4.77103222964,52.9374517791",
+    "geom:latitude":52.934751,
+    "geom:longitude":4.766581,
+    "iso:country":"NL",
+    "lbl:latitude":52.934684,
+    "lbl:longitude":4.766582,
+    "mps:latitude":52.934684,
+    "mps:longitude":4.766582,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Boerderijbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Boerderijbuurt"
+    ],
+    "reversegeo:latitude":52.934684,
+    "reversegeo:longitude":4.766582,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823003,
+        404474079,
+        85633337,
+        101806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"33a819e267115c314f54ead0062c6517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474079,
+            "locality_id":101806071,
+            "macrohood_id":1158823003,
+            "neighbourhood_id":1158819745,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158819745,
+    "wof:lastmodified":1513464168,
+    "wof:name":"Boerderijbuurt",
+    "wof:parent_id":1158823003,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.762109164728281,
+    52.931884238252756,
+    4.771032229635759,
+    52.93745177908947
+],
+  "geometry": {"coordinates":[[[[4.76210916472828,52.93641678044052],[4.7631289334061,52.9365972014003],[4.76333562284903,52.93665200209595],[4.76360133201052,52.93672501941078],[4.76372916373964,52.9367674703669],[4.76411342151663,52.93684110286785],[4.7643400435364,52.93688406829348],[4.76454707671182,52.93691499210173],[4.76475402498999,52.93695188493504],[4.76499044249423,52.93700086942785],[4.76504963300945,52.93700714637311],[4.76517192617952,52.93674514358665],[4.76891270393454,52.93745177908947],[4.76893340998716,52.93739820772418],[4.76923217670863,52.93678305127386],[4.76971282073772,52.93582116571719],[4.76993505721801,52.93546397520777],[4.77018725654745,52.93498449718711],[4.77075492108118,52.93375739244327],[4.77103222963576,52.93318536922998],[4.7697172854266,52.93298593013323],[4.76811262451689,52.93265972653466],[4.76585541634219,52.93221328407471],[4.76523663591494,52.93211121222618],[4.76446952340268,52.93188423825276],[4.76265932426075,52.9354261660602],[4.76210916472828,52.93641678044052]]]],"type":"MultiPolygon"}
+}

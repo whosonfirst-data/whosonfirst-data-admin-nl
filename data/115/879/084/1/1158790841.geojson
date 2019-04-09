@@ -1,0 +1,80 @@
+{
+  "id": 1158790841,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01140303",
+    "cbsnl:BU_NAAM":"Oosterdiep",
+    "cbsnl:GM_CODE":"GM0114",
+    "cbsnl:GM_NAAM":"Emmen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"87",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011403",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000127,
+    "geom:area_square_m":949774.111698,
+    "geom:bbox":"7.02242943958,52.7798507168,7.0534178792,52.7967300283",
+    "geom:latitude":52.790888,
+    "geom:longitude":7.040947,
+    "iso:country":"NL",
+    "lbl:latitude":52.788015,
+    "lbl:longitude":7.043761,
+    "mps:latitude":52.788015,
+    "mps:longitude":7.043761,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oosterdiep"
+    ],
+    "name:nld_x_preferred":[
+        "Oosterdiep"
+    ],
+    "reversegeo:latitude":52.788015,
+    "reversegeo:longitude":7.043761,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473809,
+        85633337,
+        101837873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8d983f33fa0e5bb950e1e41789d1063c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473809,
+            "locality_id":101837873,
+            "neighbourhood_id":1158790841,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158790841,
+    "wof:lastmodified":1513292301,
+    "wof:name":"Oosterdiep",
+    "wof:parent_id":101837873,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.022429439576805,
+    52.77985071675275,
+    7.053417879195544,
+    52.79673002828815
+],
+  "geometry": {"coordinates":[[[[7.03958386963004,52.79624404204639],[7.04704065895919,52.79604081266178],[7.05341787919554,52.79585783545073],[7.05333147074989,52.79395338660905],[7.04658938518172,52.79412575916041],[7.0459091640956,52.78579751822036],[7.04737106087592,52.78582159207573],[7.04735163262321,52.78531539549215],[7.04604452089136,52.78529549387286],[7.04568462422095,52.77994402961215],[7.04466801380964,52.77992753860364],[7.04377704464072,52.77990083378234],[7.04171001344268,52.77986540385945],[7.04098869264151,52.77985303057353],[7.04085365461622,52.77985071675275],[7.04202339334553,52.79429597526837],[7.02580771927221,52.79474711457551],[7.02575837230423,52.79412120038688],[7.0224294395768,52.79479318684404],[7.02262466282275,52.79673002828815],[7.03958386963004,52.79624404204639]]]],"type":"MultiPolygon"}
+}

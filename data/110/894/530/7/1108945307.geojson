@@ -1,0 +1,67 @@
+{
+  "id": 1108945307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-10-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.88493500446,52.3868676222,4.88493500446,52.3868676222",
+    "geom:latitude":52.386868,
+    "geom:longitude":4.884935,
+    "iso:country":"NL",
+    "lbl:latitude":52.386868,
+    "lbl:longitude":4.884935,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633337,
+        101751893,
+        1108802283,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:created":1491364949,
+    "wof:geomhash":"05309e40b2af8350315f2a53354e871d",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108802283,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "neighbourhood_id":1108945307,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1108945307,
+    "wof:lastmodified":1513269527,
+    "wof:name":"Planciusbuurt",
+    "wof:parent_id":1108802283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158844295
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.88493500446088,
+    52.38686762224727,
+    4.88493500446088,
+    52.38686762224727
+],
+  "geometry": {"coordinates":[4.88493500446088,52.38686762224727],"type":"Point"}
+}

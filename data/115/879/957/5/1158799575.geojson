@@ -1,0 +1,80 @@
+{
+  "id": 1158799575,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08700402",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Hank",
+    "cbsnl:GM_CODE":"GM0870",
+    "cbsnl:GM_NAAM":"Werkendam",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"420",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK087004",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":30167.110869,
+    "geom:bbox":"4.90420884895,51.7344477057,4.90801069825,51.7364072318",
+    "geom:latitude":51.735468,
+    "geom:longitude":4.906061,
+    "iso:country":"NL",
+    "lbl:latitude":51.73548,
+    "lbl:longitude":4.905932,
+    "mps:latitude":51.73548,
+    "mps:longitude":4.905932,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Hank"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Hank"
+    ],
+    "reversegeo:latitude":51.73548,
+    "reversegeo:longitude":4.905932,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474453,
+        85633337,
+        101839367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"89de847f6b2e2d592fd6a57422b91c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474453,
+            "locality_id":101839367,
+            "neighbourhood_id":1158799575,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799575,
+    "wof:lastmodified":1513432761,
+    "wof:name":"Bedrijventerrein Hank",
+    "wof:parent_id":101839367,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.904208848950306,
+    51.734447705697484,
+    4.908010698254186,
+    51.73640723181319
+],
+  "geometry": {"coordinates":[[[[4.90558096770812,51.73632321861317],[4.90565596428408,51.73640723181319],[4.9080100340802,51.73602784140976],[4.90801069825419,51.7359652043741],[4.90611212818607,51.73447150361181],[4.90592610938146,51.73444770569748],[4.90600082245535,51.73459014555022],[4.90420884895031,51.73478473667495],[4.90558096770812,51.73632321861317]]]],"type":"MultiPolygon"}
+}

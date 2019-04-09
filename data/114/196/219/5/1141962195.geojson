@@ -1,0 +1,82 @@
+{
+  "id": 1141962195,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02020842",
+    "cbsnl:BU_NAAM":"Terrein ENKA",
+    "cbsnl:GM_CODE":"GM0202",
+    "cbsnl:GM_NAAM":"Arnhem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2900",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK020208",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":195050.235264,
+    "geom:bbox":"5.92898994996,51.9834455082,5.93765677612,51.9887802829",
+    "geom:latitude":51.986215,
+    "geom:longitude":5.933054,
+    "iso:country":"NL",
+    "lbl:latitude":51.986158,
+    "lbl:longitude":5.932627,
+    "mps:latitude":51.986158,
+    "mps:longitude":5.932627,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Terrein ENKA"
+    ],
+    "name:nld_x_preferred":[
+        "Terrein ENKA"
+    ],
+    "reversegeo:latitude":51.986158,
+    "reversegeo:longitude":5.932627,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158783969,
+        404473871,
+        85633337,
+        101751857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9d4b256a1cf02b826467f28cbc00a42a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473871,
+            "locality_id":101751857,
+            "macrohood_id":1158783969,
+            "neighbourhood_id":1141962195,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962195,
+    "wof:lastmodified":1513368656,
+    "wof:name":"Terrein ENKA",
+    "wof:parent_id":1158783969,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.928989949957396,
+    51.9834455082276,
+    5.937656776115348,
+    51.98878028292107
+],
+  "geometry": {"coordinates":[[[[5.9338689193127,51.98878028292107],[5.93393098765285,51.98849776083988],[5.93478302939943,51.98833618615147],[5.93470628398799,51.98811312410903],[5.93497705432866,51.98806108610564],[5.93462623894885,51.98694583560098],[5.93591067784233,51.98681041774732],[5.93724282378834,51.98598715426699],[5.93765677611535,51.98555467605588],[5.93636443656273,51.98499085621037],[5.93364243543202,51.98393482094799],[5.93248456380817,51.98364717475562],[5.93119673857643,51.9834455082276],[5.9311339896591,51.98379274838316],[5.93055593435452,51.98546275830018],[5.93008552558133,51.98700912762455],[5.9289899499574,51.98802626693652],[5.92927799464201,51.98812920420156],[5.93081384015002,51.98836390203574],[5.93236722576706,51.98860299218447],[5.9338689193127,51.98878028292107]]]],"type":"MultiPolygon"}
+}

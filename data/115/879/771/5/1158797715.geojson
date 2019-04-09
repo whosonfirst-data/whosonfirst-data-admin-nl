@@ -1,0 +1,80 @@
+{
+  "id": 1158797715,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07850710",
+    "cbsnl:BU_NAAM":"Burgemeesters",
+    "cbsnl:GM_CODE":"GM0785",
+    "cbsnl:GM_NAAM":"Goirle",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1864",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK078507",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":185198.750165,
+    "geom:bbox":"5.05635658002,51.5217285172,5.06601923555,51.5260440846",
+    "geom:latitude":51.523867,
+    "geom:longitude":5.061371,
+    "iso:country":"NL",
+    "lbl:latitude":51.523617,
+    "lbl:longitude":5.061372,
+    "mps:latitude":51.523617,
+    "mps:longitude":5.061372,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Burgemeesters"
+    ],
+    "name:nld_x_preferred":[
+        "Burgemeesters"
+    ],
+    "reversegeo:latitude":51.523617,
+    "reversegeo:longitude":5.061372,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474383,
+        85633337,
+        101754577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"83cb88b3dcd6b7cea67aa5a6b4edc90c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474383,
+            "locality_id":101754577,
+            "neighbourhood_id":1158797715,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797715,
+    "wof:lastmodified":1513432614,
+    "wof:name":"Burgemeesters",
+    "wof:parent_id":101754577,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.056356580022993,
+    51.52172851718782,
+    5.066019235547966,
+    51.52604408456502
+],
+  "geometry": {"coordinates":[[[[5.06404479291138,51.52604408456502],[5.06407098774137,51.52599577972623],[5.06447308472238,51.52561187841243],[5.06494972393669,51.52495640855426],[5.06542505249067,51.5244821178845],[5.06597427298813,51.52382685243443],[5.06601923554797,51.5237240560145],[5.06529548016055,51.52338927654478],[5.06431054126149,51.52293900364392],[5.06362270178077,51.52266532839378],[5.06282627832491,51.52234605317912],[5.06163069935062,51.52200301061302],[5.06065246091216,51.52172851718782],[5.06043269769209,51.52199966696507],[5.0587979134943,51.5221536269108],[5.05846922269195,51.52242446631086],[5.05726365248305,51.52346286685327],[5.05635658002299,51.52425052905651],[5.05789614377823,51.52479405097185],[5.05956419414103,51.5252624383206],[5.0610912557736,51.5252538287361],[5.06146221226166,51.52531926698468],[5.06249192114159,51.52560550972161],[5.06404479291138,51.52604408456502]]]],"type":"MultiPolygon"}
+}

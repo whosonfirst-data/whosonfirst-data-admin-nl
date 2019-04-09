@@ -1,0 +1,80 @@
+{
+  "id": 1158800091,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17020200",
+    "cbsnl:BU_NAAM":"Westerbeek",
+    "cbsnl:GM_CODE":"GM1702",
+    "cbsnl:GM_NAAM":"Sint Anthonis",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"65",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170202",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":261101.748088,
+    "geom:bbox":"5.85576108143,51.5799365054,5.86927191995,51.5860073619",
+    "geom:latitude":51.582741,
+    "geom:longitude":5.862892,
+    "iso:country":"NL",
+    "lbl:latitude":51.582832,
+    "lbl:longitude":5.863557,
+    "mps:latitude":51.582832,
+    "mps:longitude":5.863557,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Westerbeek"
+    ],
+    "name:nld_x_preferred":[
+        "Westerbeek"
+    ],
+    "reversegeo:latitude":51.582832,
+    "reversegeo:longitude":5.863557,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474615,
+        85633337,
+        1158801513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3bd2fbe80b9b9efd494d1d445a1d7887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474615,
+            "locality_id":1158801513,
+            "neighbourhood_id":1158800091,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158800091,
+    "wof:lastmodified":1513432799,
+    "wof:name":"Westerbeek",
+    "wof:parent_id":1158801513,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.855761081426901,
+    51.57993650540195,
+    5.86927191994547,
+    51.58600736193954
+],
+  "geometry": {"coordinates":[[[[5.85685471552874,51.57993650540195],[5.8557610814269,51.58128021339128],[5.85860266808899,51.58201962407692],[5.85909086679812,51.58331090490849],[5.85936867116835,51.58361989347628],[5.86113216787619,51.58405910091162],[5.86280021328242,51.58470175956813],[5.86610419949688,51.58600736193954],[5.866446988333,51.58480034554389],[5.86589417247619,51.58462817433138],[5.86614535207252,51.58373417206509],[5.86689361056326,51.58364992456415],[5.86898273247605,51.58404722764478],[5.86927191994547,51.58368086856373],[5.8683484135005,51.58258861346361],[5.86707231914838,51.58206633354832],[5.86589495002364,51.58160431147021],[5.86448724363034,51.58103759887372],[5.86351989212307,51.58064828911685],[5.86307960252979,51.58086047435079],[5.86236276444719,51.58122912049841],[5.86113071864877,51.58079170931801],[5.86074238558445,51.58103682198835],[5.86018329030507,51.58140172502824],[5.85685471552874,51.57993650540195]]]],"type":"MultiPolygon"}
+}

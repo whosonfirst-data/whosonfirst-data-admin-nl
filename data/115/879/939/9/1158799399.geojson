@@ -1,0 +1,80 @@
+{
+  "id": 1158799399,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08610005",
+    "cbsnl:BU_NAAM":"'t Look",
+    "cbsnl:GM_CODE":"GM0861",
+    "cbsnl:GM_NAAM":"Veldhoven",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1890",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK086100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:area_square_m":807434.808741,
+    "geom:bbox":"5.37675095692,51.4127993411,5.39617804827,51.4217814976",
+    "geom:latitude":51.417237,
+    "geom:longitude":5.386948,
+    "iso:country":"NL",
+    "lbl:latitude":51.417182,
+    "lbl:longitude":5.386948,
+    "mps:latitude":51.417182,
+    "mps:longitude":5.386948,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "'t Look"
+    ],
+    "name:nld_x_preferred":[
+        "'t Look"
+    ],
+    "reversegeo:latitude":51.417182,
+    "reversegeo:longitude":5.386948,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474443,
+        85633337,
+        101754579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1db07235fdfd9fdd5d64c9f80ba739d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474443,
+            "locality_id":101754579,
+            "neighbourhood_id":1158799399,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799399,
+    "wof:lastmodified":1513432746,
+    "wof:name":"'t Look",
+    "wof:parent_id":101754579,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.376750956922617,
+    51.41279934109802,
+    5.396178048271666,
+    51.42178149759062
+],
+  "geometry": {"coordinates":[[[[5.39265687849177,51.42178149759062],[5.39617804827167,51.41592514473852],[5.39422001614662,51.41526011875752],[5.38861242827327,51.41396342825646],[5.38429004711049,51.41294319015728],[5.38322345571896,51.41279934109802],[5.38236100978612,51.41280914163095],[5.37675095692262,51.41830171421378],[5.37708743056244,51.41834500037012],[5.37984322588342,51.41896092804227],[5.38250697266935,51.4198141461976],[5.38583371509181,51.42060607347324],[5.39217232129434,51.42167477928375],[5.39265687849177,51.42178149759062]]]],"type":"MultiPolygon"}
+}

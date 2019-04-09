@@ -1,0 +1,80 @@
+{
+  "id": 1158791315,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16802001",
+    "cbsnl:BU_NAAM":"Schoonloo",
+    "cbsnl:GM_CODE":"GM1680",
+    "cbsnl:GM_NAAM":"Aa en Hunze",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"28",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK168020",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:area_square_m":719962.90415,
+    "geom:bbox":"6.69099807393,52.9002554796,6.70632339686,52.9152978456",
+    "geom:latitude":52.907172,
+    "geom:longitude":6.69837,
+    "iso:country":"NL",
+    "lbl:latitude":52.905748,
+    "lbl:longitude":6.699125,
+    "mps:latitude":52.905748,
+    "mps:longitude":6.699125,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schoonloo"
+    ],
+    "name:nld_x_preferred":[
+        "Schoonloo"
+    ],
+    "reversegeo:latitude":52.905748,
+    "reversegeo:longitude":6.699125,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474593,
+        85633337,
+        1158792085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"088e7e8d5f89d5618fca4ede9d90a138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474593,
+            "locality_id":1158792085,
+            "neighbourhood_id":1158791315,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791315,
+    "wof:lastmodified":1513292331,
+    "wof:name":"Schoonloo",
+    "wof:parent_id":1158792085,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.690998073927875,
+    52.90025547958329,
+    6.706323396859472,
+    52.915297845648226
+],
+  "geometry": {"coordinates":[[[[6.70374133286712,52.90025547958329],[6.69976301767659,52.90329380495479],[6.69537824056674,52.90200449588468],[6.69539130995406,52.90323844267362],[6.69240390532351,52.90185000737485],[6.69106713659869,52.90312566682839],[6.69655982337183,52.90532251249307],[6.69099807392787,52.91409838407353],[6.69503648447056,52.91529784564823],[6.69835342018713,52.90935953060112],[6.69913544112313,52.90837580161069],[6.70007380779311,52.90951700065529],[6.70203207074122,52.91046833804836],[6.70228597560326,52.90991393709979],[6.70300412034916,52.91011891466366],[6.70277073998186,52.90765611755406],[6.70453751222093,52.90752822303548],[6.70632339685947,52.9051363733639],[6.70632002216852,52.90438708118462],[6.70310904505622,52.90417873848892],[6.70215444724811,52.90392356796261],[6.70547610621344,52.90085422027759],[6.70374133286712,52.90025547958329]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,126 @@
+{
+  "id": 85797847,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08550401",
+    "cbsnl:BU_NAAM":"Industrieterrein Kraaiven",
+    "cbsnl:GM_CODE":"GM0855",
+    "cbsnl:GM_NAAM":"Tilburg",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"970",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK085504",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000317,
+    "geom:area_square_m":2433987.077611,
+    "geom:bbox":"5.03396344416,51.5786508768,5.06967550523,51.5935983829",
+    "geom:latitude":51.585876,
+    "geom:longitude":5.053677,
+    "gn:latitude":51.56667,
+    "gn:longitude":5.01667,
+    "iso:country":"NL",
+    "lbl:latitude":51.571839,
+    "lbl:longitude":5.008661,
+    "mps:latitude":51.586757,
+    "mps:longitude":5.052231,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Industrieterrein Kraaiven"
+    ],
+    "name:nld_x_preferred":[
+        "Industrieterrein Kraaiven"
+    ],
+    "name:unk_x_variant":[
+        "Kraaiven"
+    ],
+    "qs:gn_adm0_cc":"NL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2746301,
+    "qs:gn_nam_loc":"Tilburg, Tilburg, Noord-Brabant, NL",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Kraaiven",
+    "qs:local_max":6045,
+    "qs:local_sum":18027,
+    "qs:localhoods":14,
+    "qs:name":"Kraaiven",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Noord-Brabant",
+    "qs:name_adm2":"Tilburg",
+    "qs:name_local":"Tilburg",
+    "qs:photo_max":24,
+    "qs:photo_sum":133,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":28,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346378,
+    "qs:woe_adm2":12592426,
+    "qs:woe_lau":0,
+    "qs:woe_local":733881,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":51.586757,
+    "reversegeo:longitude":5.052231,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        1158801791,
+        404474435,
+        85633337,
+        101751817,
+        85687035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2752346,
+        "gp:id":730930,
+        "qs:id":1158293,
+        "qs_pg:id":1158293
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"503684a68a63a8161912655c6cbba659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474435,
+            "locality_id":101751817,
+            "macrohood_id":1158801791,
+            "neighbourhood_id":85797847,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":85797847,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527269463,
+    "wof:name":"Industrieterrein Kraaiven",
+    "wof:parent_id":1158801791,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.03396344416402,
+    51.57865087680526,
+    5.06967550523472,
+    51.59359838288
+],
+  "geometry": {"coordinates":[[[[5.03890633102177,51.5914929483729],[5.04291737140998,51.58873362223999],[5.04399146872433,51.58923834482201],[5.04408775407111,51.58929076130899],[5.04744700393823,51.59103537419715],[5.05287135734507,51.59359838288],[5.05546212732996,51.59296127249515],[5.05759363184895,51.59117136739206],[5.05707891979053,51.59090924553117],[5.05710534714256,51.59064864955795],[5.05721645988039,51.590648963029],[5.05939719951056,51.59040880503247],[5.06689240910697,51.58958373653419],[5.06967550523472,51.58923986813103],[5.06933652354207,51.5881917714223],[5.06932094647007,51.58814948239282],[5.06773111406346,51.58379824531971],[5.06730185690616,51.58246945029482],[5.06674573147227,51.58092637584833],[5.06648575666153,51.57994500196011],[5.06634756853807,51.57928845193744],[5.06624531606614,51.57865087680526],[5.06135781499043,51.57921802965778],[5.0570681723048,51.57968869141639],[5.05695844373488,51.57970006679245],[5.04466801463689,51.58104537667158],[5.0442016676349,51.58166332838],[5.04403148170527,51.58184619790697],[5.04386738521639,51.58198683774072],[5.04359766709735,51.58216671795436],[5.04156404054413,51.58340205891189],[5.03963006425232,51.58461069533307],[5.03825200748063,51.58556568110455],[5.0369658979067,51.58637800734181],[5.03587959989899,51.58709563917363],[5.03485099857142,51.58781163745367],[5.03396344416402,51.58838513349804],[5.03643296913614,51.58980288333705],[5.03671748737573,51.58995834098246],[5.03679647049991,51.59000801515982],[5.0373882493454,51.59036483786004],[5.03818339833052,51.59092361037827],[5.03840000331904,51.59109234422022],[5.03890633102177,51.5914929483729]]]],"type":"MultiPolygon"}
+}

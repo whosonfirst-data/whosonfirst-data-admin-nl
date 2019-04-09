@@ -1,0 +1,80 @@
+{
+  "id": 1158793543,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16630300",
+    "cbsnl:BU_NAAM":"Kloosterburen",
+    "cbsnl:GM_CODE":"GM1663",
+    "cbsnl:GM_NAAM":"De Marne",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"150",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK166303",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:area_square_m":585313.230142,
+    "geom:bbox":"6.38657903911,53.3833572503,6.40002128205,53.3925721405",
+    "geom:latitude":53.387631,
+    "geom:longitude":6.393319,
+    "iso:country":"NL",
+    "lbl:latitude":53.387981,
+    "lbl:longitude":6.393447,
+    "mps:latitude":53.387981,
+    "mps:longitude":6.393447,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kloosterburen"
+    ],
+    "name:nld_x_preferred":[
+        "Kloosterburen"
+    ],
+    "reversegeo:latitude":53.387981,
+    "reversegeo:longitude":6.393447,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404474575,
+        85633337,
+        101874315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"56b97ba8cc1f5ebcd406b24e78f66393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474575,
+            "locality_id":101874315,
+            "neighbourhood_id":1158793543,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793543,
+    "wof:lastmodified":1513382318,
+    "wof:name":"Kloosterburen",
+    "wof:parent_id":101874315,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.386579039113028,
+    53.38335725034109,
+    6.400021282049632,
+    53.39257214052713
+],
+  "geometry": {"coordinates":[[[[6.39265990544529,53.3925026495693],[6.39348383726567,53.39257214052713],[6.3942906203495,53.39243060716363],[6.3968774277868,53.39081454425861],[6.3998670190379,53.38818920299657],[6.40002128204963,53.38771896510188],[6.39979902392623,53.38683743506827],[6.39833657031044,53.38549626935959],[6.39369938812376,53.38335725034109],[6.39356187308364,53.38338142522141],[6.390812170499,53.38366890815988],[6.3888483135693,53.38426484682855],[6.38776200000169,53.38486132145053],[6.38657903911303,53.38621169636747],[6.38770627761998,53.38782648243532],[6.38999235601972,53.39053683839157],[6.39190250718919,53.39212427941024],[6.39265990544529,53.3925026495693]]]],"type":"MultiPolygon"}
+}

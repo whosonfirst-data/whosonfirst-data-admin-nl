@@ -1,0 +1,82 @@
+{
+  "id": 1158798463,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08260102",
+    "cbsnl:BU_NAAM":"Slotjes-West",
+    "cbsnl:GM_CODE":"GM0826",
+    "cbsnl:GM_NAAM":"Oosterhout",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1865",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082601",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":624253.116837,
+    "geom:bbox":"4.84539214583,51.6322368375,4.85967701386,51.6411426017",
+    "geom:latitude":51.636992,
+    "geom:longitude":4.853493,
+    "iso:country":"NL",
+    "lbl:latitude":51.637293,
+    "lbl:longitude":4.853629,
+    "mps:latitude":51.637293,
+    "mps:longitude":4.853629,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Slotjes-West"
+    ],
+    "name:nld_x_preferred":[
+        "Slotjes-West"
+    ],
+    "reversegeo:latitude":51.637293,
+    "reversegeo:longitude":4.853629,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801461,
+        404474413,
+        85633337,
+        101808317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ae1ae76657d015b17cd720ce479088b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474413,
+            "locality_id":101808317,
+            "macrohood_id":1158801461,
+            "neighbourhood_id":1158798463,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798463,
+    "wof:lastmodified":1513432678,
+    "wof:name":"Slotjes-West",
+    "wof:parent_id":1158801461,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.845392145826147,
+    51.63223683754822,
+    4.859677013862886,
+    51.64114260173742
+],
+  "geometry": {"coordinates":[[[[4.85799306211496,51.64071597494042],[4.85782305767122,51.63964306612381],[4.85782894795575,51.63913883233803],[4.8582979561387,51.63753011949452],[4.85877355982701,51.63672529790195],[4.85923059549165,51.63613905518744],[4.85957670961171,51.63541223968502],[4.85967701386289,51.63453023691626],[4.85952907823012,51.6337031430645],[4.85907881021744,51.63223683754822],[4.85571656873225,51.6329640021284],[4.85311455456751,51.63366004157407],[4.84962543964893,51.63471017512622],[4.84539214582615,51.63622099729724],[4.84682290729408,51.63769094891792],[4.85006863358848,51.64114260173742],[4.85081023261861,51.64092818273068],[4.85153009268139,51.64090727604209],[4.85263762182704,51.64099704722256],[4.85399797723065,51.64108795931379],[4.85475673243076,51.64106721213712],[4.85590600710016,51.64091511937472],[4.85767774238419,51.64075373238583],[4.85799306211496,51.64071597494042]]]],"type":"MultiPolygon"}
+}

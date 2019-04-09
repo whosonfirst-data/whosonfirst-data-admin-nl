@@ -1,0 +1,80 @@
+{
+  "id": 1158826535,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05560301",
+    "cbsnl:BU_NAAM":"Sluispolder Oost",
+    "cbsnl:GM_CODE":"GM0556",
+    "cbsnl:GM_NAAM":"Maassluis",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1831",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK055603",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":538718.733615,
+    "geom:bbox":"4.2572242865,51.9146256932,4.27457273675,51.9235555407",
+    "geom:latitude":51.919147,
+    "geom:longitude":4.265836,
+    "iso:country":"NL",
+    "lbl:latitude":51.919065,
+    "lbl:longitude":4.265835,
+    "mps:latitude":51.919065,
+    "mps:longitude":4.265835,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Sluispolder Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Sluispolder Oost"
+    ],
+    "reversegeo:latitude":51.919065,
+    "reversegeo:longitude":4.265835,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831269,
+        85633337,
+        101754631,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1b7a4d146681f0c8f7b0ce8312221b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754631,
+            "macrohood_id":1158831269,
+            "neighbourhood_id":1158826535,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826535,
+    "wof:lastmodified":1513588072,
+    "wof:name":"Sluispolder Oost",
+    "wof:parent_id":1158831269,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.257224286503348,
+    51.91462569322549,
+    4.274572736749571,
+    51.92355554068966
+],
+  "geometry": {"coordinates":[[[[4.27068284034666,51.92353316254836],[4.27096016947758,51.9234774181552],[4.27149898836883,51.92346634514115],[4.27174790800462,51.92349998037833],[4.27224238213492,51.92354585040774],[4.27238931439851,51.92355554068966],[4.27248504178078,51.92355350950446],[4.27267118183171,51.92354273487211],[4.27267828723982,51.9235423260242],[4.27269598372228,51.92354100151283],[4.27313672310155,51.92321203889777],[4.27315746570338,51.92278505979252],[4.27457273674957,51.92031559941855],[4.27213945120308,51.9193327979571],[4.26839087437009,51.91761471881166],[4.25969703933747,51.91462569322549],[4.25861016206434,51.91479370165297],[4.25868533553603,51.91603297763349],[4.25816602759716,51.91695964479043],[4.25775283166936,51.91789281098742],[4.25722428650335,51.91857111772612],[4.25990930286657,51.91943333072194],[4.26357479344425,51.92062086315519],[4.26723884326219,51.92187402985724],[4.26940220779002,51.92261489339252],[4.2699115863815,51.92289531720466],[4.27068284034666,51.92353316254836]]]],"type":"MultiPolygon"}
+}

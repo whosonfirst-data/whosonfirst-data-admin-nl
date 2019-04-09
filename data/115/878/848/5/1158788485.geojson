@@ -1,0 +1,80 @@
+{
+  "id": 1158788485,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03520300",
+    "cbsnl:BU_NAAM":"Nederlangbroek",
+    "cbsnl:GM_CODE":"GM0352",
+    "cbsnl:GM_NAAM":"Wijk bij Duurstede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"226",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK035203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":643033.553964,
+    "geom:bbox":"5.32019037072,52.006776757,5.33543368238,52.017001197",
+    "geom:latitude":52.011618,
+    "geom:longitude":5.327875,
+    "iso:country":"NL",
+    "lbl:latitude":52.011976,
+    "lbl:longitude":5.326723,
+    "mps:latitude":52.011976,
+    "mps:longitude":5.326723,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Nederlangbroek"
+    ],
+    "name:nld_x_preferred":[
+        "Nederlangbroek"
+    ],
+    "reversegeo:latitude":52.011976,
+    "reversegeo:longitude":5.326723,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474015,
+        85633337,
+        101807009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"08b457cef2c15fc0e9e70682f03bf4eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474015,
+            "locality_id":101807009,
+            "neighbourhood_id":1158788485,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788485,
+    "wof:lastmodified":1513622014,
+    "wof:name":"Nederlangbroek",
+    "wof:parent_id":101807009,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.320190370721344,
+    52.00677675701597,
+    5.335433682375844,
+    52.017001196991586
+],
+  "geometry": {"coordinates":[[[[5.33387587190692,52.01072344282993],[5.3338265462782,52.01067033490854],[5.33375828763588,52.00931758940072],[5.33242245653381,52.00852714439112],[5.33016236187321,52.00677675701597],[5.32524157967152,52.00885783820868],[5.32404269189137,52.00806175221448],[5.32306447738005,52.00766040908636],[5.32266673699078,52.00762508282783],[5.32047310709494,52.00860076214283],[5.32247978724275,52.01007424839963],[5.32019037072134,52.01095015686735],[5.32606918069214,52.01578531383475],[5.32612168741109,52.01583589925144],[5.32761531656399,52.01563330636662],[5.32946758633972,52.01511740945013],[5.33016395732248,52.01520425876031],[5.33102158129246,52.01557037349279],[5.33287578252392,52.01700119699159],[5.33543368237584,52.01606954760825],[5.33004882411061,52.01159546777384],[5.33155597311086,52.01173999807115],[5.33239809125044,52.01171342763756],[5.33330570150629,52.01134982603272],[5.33387587190692,52.01072344282993]]]],"type":"MultiPolygon"}
+}

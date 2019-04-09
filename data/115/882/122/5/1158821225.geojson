@@ -1,0 +1,82 @@
+{
+  "id": 1158821225,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19420301",
+    "cbsnl:BU_NAAM":"Schimmellaan",
+    "cbsnl:GM_CODE":"GM1942",
+    "cbsnl:GM_NAAM":"Gooise Meren",
+    "cbsnl:IND_WBI":"2",
+    "cbsnl:OAD":"2764",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK194203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":118859.537479,
+    "geom:bbox":"5.1539045529,52.2741225664,5.15936742485,52.2784640574",
+    "geom:latitude":52.276006,
+    "geom:longitude":5.15669,
+    "iso:country":"NL",
+    "lbl:latitude":52.275964,
+    "lbl:longitude":5.156742,
+    "mps:latitude":52.275964,
+    "mps:longitude":5.156742,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schimmellaan"
+    ],
+    "name:nld_x_preferred":[
+        "Schimmellaan"
+    ],
+    "reversegeo:latitude":52.275964,
+    "reversegeo:longitude":5.156742,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823009,
+        1158818281,
+        85633337,
+        101753097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"06474880605eaca8a767407d73746311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158818281,
+            "locality_id":101753097,
+            "macrohood_id":1158823009,
+            "neighbourhood_id":1158821225,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158821225,
+    "wof:lastmodified":1513464287,
+    "wof:name":"Schimmellaan",
+    "wof:parent_id":1158823009,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.153904552900531,
+    52.27412256641543,
+    5.159367424854441,
+    52.27846405735521
+],
+  "geometry": {"coordinates":[[[[5.15453685978105,52.27692476537171],[5.15471330159957,52.27711469632458],[5.15524025854624,52.27721824931776],[5.15676207974619,52.27788182469908],[5.15806021585479,52.27846405735521],[5.15933334079878,52.27539719626419],[5.15936742485444,52.27531356227249],[5.15929298953117,52.27469326304872],[5.15812912009334,52.27450760842406],[5.15579337340734,52.27427303000499],[5.15468932683809,52.27412256641543],[5.15390455290053,52.27595536849688],[5.15394821722587,52.27631693183896],[5.15422816443958,52.276588800663],[5.15453685978105,52.27692476537171]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158826741,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05850103",
+    "cbsnl:BU_NAAM":"Blaaksedijk (gedeeltelijk)",
+    "cbsnl:GM_CODE":"GM0585",
+    "cbsnl:GM_NAAM":"Binnenmaas",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"129",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK058501",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000154,
+    "geom:area_square_m":1178951.268656,
+    "geom:bbox":"4.52177079939,51.8035593767,4.55507172295,51.8116942163",
+    "geom:latitude":51.80801,
+    "geom:longitude":4.538339,
+    "iso:country":"NL",
+    "lbl:latitude":51.808218,
+    "lbl:longitude":4.538595,
+    "mps:latitude":51.808218,
+    "mps:longitude":4.538595,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Blaaksedijk (gedeeltelijk)"
+    ],
+    "name:nld_x_preferred":[
+        "Blaaksedijk (gedeeltelijk)"
+    ],
+    "reversegeo:latitude":51.808218,
+    "reversegeo:longitude":4.538595,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474233,
+        85633337,
+        101837717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"268e9e49f022712149c0f64fa36438b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474233,
+            "locality_id":101837717,
+            "neighbourhood_id":1158826741,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826741,
+    "wof:lastmodified":1513588088,
+    "wof:name":"Blaaksedijk (gedeeltelijk)",
+    "wof:parent_id":101837717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.521770799387642,
+    51.80355937665563,
+    4.555071722954039,
+    51.81169421629049
+],
+  "geometry": {"coordinates":[[[[4.5236876272847,51.81118633446857],[4.53246598099223,51.81144386427165],[4.54108918459425,51.81159428232512],[4.54510214996427,51.81169421629049],[4.54513581114171,51.81164501949707],[4.54570027654886,51.81060552573309],[4.54593525844185,51.81026479329824],[4.54676752838428,51.81012328537454],[4.54694546830292,51.80954197475923],[4.54789999286269,51.80794430678229],[4.54860274404041,51.80744258821633],[4.54970487258014,51.80665663612559],[4.55211547274158,51.80530134248531],[4.55402023447048,51.80422976762409],[4.55484681485918,51.80381231797896],[4.55507172295404,51.80369874551241],[4.55469140525332,51.80371402519224],[4.55111444120491,51.80355937665563],[4.54783299261287,51.80366263156052],[4.54264627976338,51.80413861658091],[4.53526692820743,51.80549819672966],[4.52831313871536,51.80715733955454],[4.5242735009088,51.80822517898187],[4.52182752344109,51.80972459100458],[4.52177079938764,51.80975816106973],[4.52291408825355,51.81043990559141],[4.5236876272847,51.81118633446857]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158818395,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03610302",
+    "cbsnl:BU_NAAM":"Overdie-Oost",
+    "cbsnl:GM_CODE":"GM0361",
+    "cbsnl:GM_NAAM":"Alkmaar",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2043",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK036103",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":283683.125047,
+    "geom:bbox":"4.74625817963,52.6135594898,4.75957061858,52.6188914669",
+    "geom:latitude":52.616451,
+    "geom:longitude":4.752443,
+    "iso:country":"NL",
+    "lbl:latitude":52.616497,
+    "lbl:longitude":4.751232,
+    "mps:latitude":52.616497,
+    "mps:longitude":4.751232,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Overdie-Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Overdie-Oost"
+    ],
+    "reversegeo:latitude":52.616497,
+    "reversegeo:longitude":4.751232,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823019,
+        404474025,
+        85633337,
+        101751887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"60a02592a058bbba5519bad4553e976a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474025,
+            "locality_id":101751887,
+            "macrohood_id":1158823019,
+            "neighbourhood_id":1158818395,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818395,
+    "wof:lastmodified":1513464061,
+    "wof:name":"Overdie-Oost",
+    "wof:parent_id":1158823019,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.746258179632556,
+    52.613559489774374,
+    4.75957061858341,
+    52.618891466904856
+],
+  "geometry": {"coordinates":[[[[4.75957061858341,52.61729625027886],[4.75055303769245,52.614021843358],[4.74944527377533,52.6137426894892],[4.74763184681371,52.61355948977437],[4.74625817963256,52.61359612815062],[4.74638200382567,52.61421871922848],[4.75043980452123,52.61889146690486],[4.75237120158757,52.61848748209927],[4.75939944173351,52.61842774765043],[4.75957061858341,52.61729625027886]]]],"type":"MultiPolygon"}
+}

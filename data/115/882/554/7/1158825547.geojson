@@ -1,0 +1,80 @@
+{
+  "id": 1158825547,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05032506",
+    "cbsnl:BU_NAAM":"Pijperring",
+    "cbsnl:GM_CODE":"GM0503",
+    "cbsnl:GM_NAAM":"Delft",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"4197",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050325",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":96573.475599,
+    "geom:bbox":"4.34447676358,51.9904607889,4.35073956597,51.9934045625",
+    "geom:latitude":51.991891,
+    "geom:longitude":4.347545,
+    "iso:country":"NL",
+    "lbl:latitude":51.991863,
+    "lbl:longitude":4.347544,
+    "mps:latitude":51.991863,
+    "mps:longitude":4.347544,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Pijperring"
+    ],
+    "name:nld_x_preferred":[
+        "Pijperring"
+    ],
+    "reversegeo:latitude":51.991863,
+    "reversegeo:longitude":4.347544,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829417,
+        85633337,
+        101752765,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1dcbd4c5ed758262e38cde186f46bf41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752765,
+            "macrohood_id":1158829417,
+            "neighbourhood_id":1158825547,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825547,
+    "wof:lastmodified":1513588001,
+    "wof:name":"Pijperring",
+    "wof:parent_id":1158829417,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.344476763584987,
+    51.99046078886509,
+    4.350739565968712,
+    51.99340456251323
+],
+  "geometry": {"coordinates":[[[[4.34990112593881,51.99340456251323],[4.3501043836221,51.99283844213316],[4.35026704841384,51.99242189671904],[4.35037596363068,51.99217620389776],[4.35043504960928,51.99205151065914],[4.35070827743514,51.99131755519204],[4.35073956596871,51.99123001063334],[4.34604022356876,51.99046078886509],[4.34587626695368,51.99084378925791],[4.34581521789438,51.99098985631733],[4.34578522367915,51.99099615250293],[4.34522263527498,51.99088276692718],[4.34520190857282,51.99087871826109],[4.34494902603211,51.99082748946093],[4.34478454678864,51.99081911086762],[4.34449070230001,51.99082010301638],[4.34448033423979,51.99209884844151],[4.34447676358499,51.99252794215695],[4.34939063550905,51.99331592626578],[4.34990112593881,51.99340456251323]]]],"type":"MultiPolygon"}
+}

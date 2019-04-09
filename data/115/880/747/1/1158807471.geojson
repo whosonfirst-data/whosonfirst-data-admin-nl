@@ -1,0 +1,80 @@
+{
+  "id": 1158807471,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16690605",
+    "cbsnl:BU_NAAM":"MERU",
+    "cbsnl:GM_CODE":"GM1669",
+    "cbsnl:GM_NAAM":"Roerdalen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"15",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK166906",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":120469.557868,
+    "geom:bbox":"6.15062025258,51.1542178871,6.15704627915,51.1586488817",
+    "geom:latitude":51.156422,
+    "geom:longitude":6.153961,
+    "iso:country":"NL",
+    "lbl:latitude":51.156472,
+    "lbl:longitude":6.153961,
+    "mps:latitude":51.156472,
+    "mps:longitude":6.153961,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "MERU"
+    ],
+    "name:nld_x_preferred":[
+        "MERU"
+    ],
+    "reversegeo:latitude":51.156472,
+    "reversegeo:longitude":6.153961,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474581,
+        85633337,
+        101809599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b5f81e428465ab8331a9e6545044718b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474581,
+            "locality_id":101809599,
+            "neighbourhood_id":1158807471,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158807471,
+    "wof:lastmodified":1513404111,
+    "wof:name":"MERU",
+    "wof:parent_id":101809599,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.150620252575993,
+    51.15421788711804,
+    6.15704627915432,
+    51.15864888165366
+],
+  "geometry": {"coordinates":[[[[6.15490219355514,51.15804866455628],[6.15704627915432,51.15721174008947],[6.15595944376858,51.15603251740021],[6.1564813059735,51.15583133166319],[6.15572305097763,51.15500858677121],[6.15560229513616,51.15505107520404],[6.15473605077976,51.15421788711804],[6.15062025257599,51.155859453606],[6.15336440788138,51.15864888165366],[6.1548940444579,51.15805184464642],[6.15490219355514,51.15804866455628]]]],"type":"MultiPolygon"}
+}

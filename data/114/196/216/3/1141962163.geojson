@@ -1,0 +1,82 @@
+{
+  "id": 1141962163,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02020423",
+    "cbsnl:BU_NAAM":"Presikhaaf I",
+    "cbsnl:GM_CODE":"GM0202",
+    "cbsnl:GM_NAAM":"Arnhem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2424",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK020204",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":347108.000465,
+    "geom:bbox":"5.92646823689,51.9811993939,5.94525268227,51.9873096275",
+    "geom:latitude":51.98383,
+    "geom:longitude":5.938265,
+    "iso:country":"NL",
+    "lbl:latitude":51.984078,
+    "lbl:longitude":5.938905,
+    "mps:latitude":51.984078,
+    "mps:longitude":5.938905,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Presikhaaf I"
+    ],
+    "name:nld_x_preferred":[
+        "Presikhaaf I"
+    ],
+    "reversegeo:latitude":51.984078,
+    "reversegeo:longitude":5.938905,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158783325,
+        404473871,
+        85633337,
+        101751857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f07d4d3fe224b57fa060b8bd80a0a6f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473871,
+            "locality_id":101751857,
+            "macrohood_id":1158783325,
+            "neighbourhood_id":1141962163,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962163,
+    "wof:lastmodified":1513368654,
+    "wof:name":"Presikhaaf I",
+    "wof:parent_id":1158783325,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.926468236885703,
+    51.981199393948344,
+    5.945252682270113,
+    51.987309627501844
+],
+  "geometry": {"coordinates":[[[[5.94215640882636,51.98730962750184],[5.94268105760277,51.98676695123433],[5.94411774088148,51.98475934966649],[5.94525268227011,51.98319628812401],[5.94483319353776,51.98305895840438],[5.94364238023797,51.98270146951944],[5.94082997155942,51.98234262473083],[5.93938392158747,51.98217684679501],[5.93765036463335,51.98194947870788],[5.93646220777693,51.98156404071349],[5.93582454822928,51.98119939394834],[5.93161177047012,51.9822598223199],[5.92955084231627,51.98276370383968],[5.9264682368857,51.98353110251899],[5.92836558424678,51.98333812600962],[5.92962177082373,51.98333233886672],[5.93119673857643,51.9834455082276],[5.93248456380817,51.98364717475562],[5.93364243543202,51.98393482094799],[5.93636443656273,51.98499085621037],[5.93765677611535,51.98555467605588],[5.94215640882636,51.98730962750184]]]],"type":"MultiPolygon"}
+}

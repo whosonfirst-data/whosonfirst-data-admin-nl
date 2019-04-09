@@ -1,0 +1,82 @@
+{
+  "id": 1158801989,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01411903",
+    "cbsnl:BU_NAAM":"Leemslagen-Zuid",
+    "cbsnl:GM_CODE":"GM0141",
+    "cbsnl:GM_NAAM":"Almelo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1137",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK014119",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":303112.970623,
+    "geom:bbox":"6.62379175894,52.3316798431,6.63707802496,52.3354342292",
+    "geom:latitude":52.333612,
+    "geom:longitude":6.630835,
+    "iso:country":"NL",
+    "lbl:latitude":52.33364,
+    "lbl:longitude":6.630835,
+    "mps:latitude":52.33364,
+    "mps:longitude":6.630835,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Leemslagen-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Leemslagen-Zuid"
+    ],
+    "reversegeo:latitude":52.33364,
+    "reversegeo:longitude":6.630835,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805813,
+        404473819,
+        85633337,
+        101751863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"fd314748354916a1c6bf295928e38351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473819,
+            "locality_id":101751863,
+            "macrohood_id":1158805813,
+            "neighbourhood_id":1158801989,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158801989,
+    "wof:lastmodified":1513524230,
+    "wof:name":"Leemslagen-Zuid",
+    "wof:parent_id":1158805813,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.623791758938628,
+    52.33167984309287,
+    6.637078024959239,
+    52.33543422922292
+],
+  "geometry": {"coordinates":[[[[6.63661090118783,52.33543422922292],[6.63697556443076,52.33543037632894],[6.63702831519855,52.33368069945259],[6.63707802495924,52.33202655983064],[6.63584802023709,52.33208983102879],[6.63293024408045,52.33212060146558],[6.62800060292352,52.33194911729939],[6.62525694923223,52.33167984309287],[6.62379175893863,52.33446785982613],[6.62436443733411,52.33455737392562],[6.62558946230279,52.33487965680397],[6.62693205636348,52.33505182300009],[6.62875871647663,52.33514445752204],[6.63155916234843,52.33526389791676],[6.63661090118783,52.33543422922292]]]],"type":"MultiPolygon"}
+}

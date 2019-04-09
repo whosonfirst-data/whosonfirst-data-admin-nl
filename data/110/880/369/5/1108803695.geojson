@@ -1,0 +1,93 @@
+{
+  "id": 1108803695,
+  "type": "Feature",
+  "properties": {
+    "amsgis:_categories":"buurt",
+    "amsgis:_id":"buurt.03630023754005",
+    "amsgis:categorie":"90",
+    "amsgis:code":"50g",
+    "amsgis:display":"Centrumeiland",
+    "amsgis:externe_id":"3630023754005",
+    "amsgis:naam":"Centrumeiland",
+    "amsgis:online_tijdsaspect":"1",
+    "amsgis:titel":"Centrumeiland",
+    "amsgis:titel_key":"centrumeiland_1",
+    "amsgis:type":"Buurtgrenzen",
+    "amsgis:type_2":"gebieden/buurt",
+    "amsgis:uri":"https://api.datapunt.amsterdam.nl/gebieden/buurt/03630023754005/",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":484579.037405,
+    "geom:bbox":"5.00656888451,52.3471732366,5.02021699338,52.3581806374",
+    "geom:latitude":52.352881,
+    "geom:longitude":5.013395,
+    "iso:country":"NL",
+    "lbl:latitude":52.352886,
+    "lbl:longitude":5.013395,
+    "mps:latitude":52.352886,
+    "mps:longitude":5.013395,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "name:dut_x_preferred":[
+        "Centrumeiland"
+    ],
+    "name:eng_x_preferred":[
+        "Centrumeiland"
+    ],
+    "name:fre_x_preferred":[
+        "Centrumeiland"
+    ],
+    "reversegeo:latitude":52.352886,
+    "reversegeo:longitude":5.013395,
+    "src:geom":"amsgis",
+    "wof:belongsto":[
+        1108945519,
+        102191581,
+        1158844321,
+        85633337,
+        101751893,
+        1158844281,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q22773220"
+    },
+    "wof:controlled":[],
+    "wof:country":"NL",
+    "wof:geomhash":"49506c3173266f99954352f4b4921750",
+    "wof:hierarchy":[
+        {
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844321,
+            "microhood_id":1108803695,
+            "neighbourhood_id":1108945519,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1108803695,
+    "wof:lastmodified":1514492042,
+    "wof:name":"Centrumeiland",
+    "wof:parent_id":1108945519,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.00656888451204,
+    52.34717323660769,
+    5.0202169933776,
+    52.35818063742177
+],
+  "geometry": {"coordinates":[[[5.01029934973142,52.35818063742177],[5.01377259805518,52.35675069540964],[5.01468893432257,52.35571834462441],[5.01753123933687,52.35251583139178],[5.0202169933776,52.34948921869315],[5.01763980939034,52.34879309418224],[5.01589909621929,52.34832286658093],[5.01546332129441,52.34782593564515],[5.01489095475975,52.34717323660769],[5.00997347005998,52.35273888800856],[5.00943191096934,52.35335173169441],[5.00656888451204,52.35484481371444],[5.01029934973142,52.35818063742177]]],"type":"Polygon"}
+}

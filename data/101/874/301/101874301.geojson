@@ -1,0 +1,108 @@
+{
+  "id": 101874301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.881725,53.245814,5.881725,53.245814",
+    "geom:latitude":53.245814,
+    "geom:longitude":5.881725,
+    "gn:population":2279,
+    "iso:country":"NL",
+    "lbl:latitude":53.245814,
+    "lbl:longitude":5.881725,
+    "mps:latitude":53.245814,
+    "mps:longitude":5.881725,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:dut_x_preferred":[
+        "Giekerk"
+    ],
+    "name:eng_x_preferred":[
+        "Gytsjerk"
+    ],
+    "name:fre_x_preferred":[
+        "Gytsjerk"
+    ],
+    "name:fry_x_preferred":[
+        "Gytsjerk"
+    ],
+    "name:nld_x_preferred":[
+        "Giekerk"
+    ],
+    "name:nld_x_variant":[
+        "Gytsjerk"
+    ],
+    "qs:a0":"Nederland",
+    "qs:a1":"*Friesland",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Giekerk",
+    "qs:loc_alt":"Giekerk",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        404474343,
+        85633337,
+        85687055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01f0c186-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2755542,
+        "gp:id":729402,
+        "qs:id":1350865,
+        "qs_pg:id":1350865,
+        "tgn:id":7262307,
+        "wd:id":"Q2238305",
+        "wk:page":"Gytsjerk"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"0b6ac148d10796772c82b7ee64ec1c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474343,
+            "locality_id":101874301,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":101874301,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1544751640,
+    "wof:name":"Giekerk",
+    "wof:parent_id":404474343,
+    "wof:placetype":"locality",
+    "wof:population":2279,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.881725,
+    53.245814,
+    5.881725,
+    53.245814
+],
+  "geometry": {"coordinates":[5.881725,53.245814],"type":"Point"}
+}

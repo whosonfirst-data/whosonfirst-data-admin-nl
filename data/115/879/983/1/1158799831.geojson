@@ -1,0 +1,80 @@
+{
+  "id": 1158799831,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16590101",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Torenakker",
+    "cbsnl:GM_CODE":"GM1659",
+    "cbsnl:GM_NAAM":"Laarbeek",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"587",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK165901",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":48625.767534,
+    "geom:bbox":"5.6275807811,51.5093493635,5.63253667889,51.5117617723",
+    "geom:latitude":51.510569,
+    "geom:longitude":5.630069,
+    "iso:country":"NL",
+    "lbl:latitude":51.510548,
+    "lbl:longitude":5.630107,
+    "mps:latitude":51.510548,
+    "mps:longitude":5.630107,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Torenakker"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Torenakker"
+    ],
+    "reversegeo:latitude":51.510548,
+    "reversegeo:longitude":5.630107,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474569,
+        85633337,
+        101809681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"249a0526bad5182368fd2ea0ce42f7ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474569,
+            "locality_id":101809681,
+            "neighbourhood_id":1158799831,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799831,
+    "wof:lastmodified":1513432781,
+    "wof:name":"Bedrijventerrein Torenakker",
+    "wof:parent_id":101809681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.627580781099487,
+    51.50934936347151,
+    5.632536678885685,
+    51.511761772306244
+],
+  "geometry": {"coordinates":[[[[5.63044219615531,51.51176177230624],[5.63253667888569,51.51077453308087],[5.63194580727069,51.5104330807105],[5.63127207907127,51.51004292168424],[5.6309528967103,51.50982870396414],[5.6308016020825,51.50965233689909],[5.63074708417659,51.50934936347151],[5.63036749052902,51.5094108285236],[5.62936110549019,51.50960589711013],[5.62903500416173,51.50973887581149],[5.62861171208439,51.50992177270167],[5.62800423765234,51.51034745969842],[5.62758078109949,51.51067164432362],[5.62905646644952,51.51123375796239],[5.63044219615531,51.51176177230624]]]],"type":"MultiPolygon"}
+}

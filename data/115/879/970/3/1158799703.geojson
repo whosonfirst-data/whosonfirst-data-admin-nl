@@ -1,0 +1,80 @@
+{
+  "id": 1158799703,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16520004",
+    "cbsnl:BU_NAAM":"Doonheide",
+    "cbsnl:GM_CODE":"GM1652",
+    "cbsnl:GM_NAAM":"Gemert-Bakel",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"861",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK165200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:area_square_m":412887.670275,
+    "geom:bbox":"5.68756293224,51.5635814588,5.70422051932,51.5684563209",
+    "geom:latitude":51.565894,
+    "geom:longitude":5.696073,
+    "iso:country":"NL",
+    "lbl:latitude":51.56588,
+    "lbl:longitude":5.696073,
+    "mps:latitude":51.56588,
+    "mps:longitude":5.696073,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Doonheide"
+    ],
+    "name:nld_x_preferred":[
+        "Doonheide"
+    ],
+    "reversegeo:latitude":51.56588,
+    "reversegeo:longitude":5.696073,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474563,
+        85633337,
+        101808241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"dc16826ec207b71a841e798613b1032a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474563,
+            "locality_id":101808241,
+            "neighbourhood_id":1158799703,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799703,
+    "wof:lastmodified":1513432771,
+    "wof:name":"Doonheide",
+    "wof:parent_id":101808241,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.687562932244483,
+    51.56358145882886,
+    5.704220519323009,
+    51.568456320890185
+],
+  "geometry": {"coordinates":[[[[5.70422051932301,51.56689986644973],[5.70259675481715,51.56507619421057],[5.70190132645543,51.56358145882886],[5.7014687148883,51.56358795881514],[5.7003353830222,51.56360813849333],[5.69530953761839,51.56406644055452],[5.68986149076943,51.56458854147699],[5.68791780494422,51.56464636945139],[5.68756293224448,51.56703657617328],[5.69678617035697,51.56782512792903],[5.69773070633157,51.56845632089018],[5.69802551349393,51.56832885478109],[5.7004696014779,51.56780632022269],[5.70330616504379,51.56711554203365],[5.70422051932301,51.56689986644973]]]],"type":"MultiPolygon"}
+}

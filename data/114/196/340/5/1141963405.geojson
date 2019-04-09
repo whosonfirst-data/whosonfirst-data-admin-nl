@@ -1,0 +1,82 @@
+{
+  "id": 1141963405,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02431002",
+    "cbsnl:BU_NAAM":"Kranenburg",
+    "cbsnl:GM_CODE":"GM0243",
+    "cbsnl:GM_NAAM":"Harderwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1536",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK024310",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":229437.197004,
+    "geom:bbox":"5.62087007754,52.3321767233,5.62835121632,52.3387507853",
+    "geom:latitude":52.335774,
+    "geom:longitude":5.625003,
+    "iso:country":"NL",
+    "lbl:latitude":52.336246,
+    "lbl:longitude":5.625679,
+    "mps:latitude":52.336246,
+    "mps:longitude":5.625679,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kranenburg"
+    ],
+    "name:nld_x_preferred":[
+        "Kranenburg"
+    ],
+    "reversegeo:latitude":52.336246,
+    "reversegeo:longitude":5.625679,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158784039,
+        404473907,
+        85633337,
+        101837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f4ed1b97ea187b8b147c229e097935fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473907,
+            "locality_id":101837769,
+            "macrohood_id":1158784039,
+            "neighbourhood_id":1141963405,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963405,
+    "wof:lastmodified":1513368743,
+    "wof:name":"Kranenburg",
+    "wof:parent_id":1158784039,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.620870077544788,
+    52.332176723328125,
+    5.628351216322227,
+    52.338750785264
+],
+  "geometry": {"coordinates":[[[[5.62174236489133,52.33787827003228],[5.62678891682444,52.338750785264],[5.62725909232686,52.3379208817712],[5.62835121632223,52.33599304378851],[5.62823665808911,52.33571247216733],[5.62763185926551,52.3342311575468],[5.62760314619798,52.33414052685277],[5.62756572811859,52.33402242258317],[5.62732629754008,52.33326667408527],[5.62725812410233,52.3329843066076],[5.62723101478596,52.33287203390015],[5.62719500686128,52.3327228916276],[5.62706314507151,52.33217672332812],[5.62302536615208,52.33355722869905],[5.62389880285686,52.33472534972025],[5.62395760398732,52.334800631476],[5.62087007754479,52.33516454449687],[5.62177099118005,52.33751652635264],[5.62174849632013,52.33780078978219],[5.62174236489133,52.33787827003228]]]],"type":"MultiPolygon"}
+}

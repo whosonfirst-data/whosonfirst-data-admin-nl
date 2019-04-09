@@ -1,0 +1,80 @@
+{
+  "id": 1158796943,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07560100",
+    "cbsnl:BU_NAAM":"Sambeek Centrum",
+    "cbsnl:GM_CODE":"GM0756",
+    "cbsnl:GM_NAAM":"Boxmeer",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"284",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK075601",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000145,
+    "geom:area_square_m":1110100.7124,
+    "geom:bbox":"5.95766219434,51.6292775308,5.97609069107,51.643973819",
+    "geom:latitude":51.636213,
+    "geom:longitude":5.966511,
+    "iso:country":"NL",
+    "lbl:latitude":51.636335,
+    "lbl:longitude":5.966375,
+    "mps:latitude":51.636335,
+    "mps:longitude":5.966375,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Sambeek Centrum"
+    ],
+    "name:nld_x_preferred":[
+        "Sambeek Centrum"
+    ],
+    "reversegeo:latitude":51.636335,
+    "reversegeo:longitude":5.966375,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474359,
+        85633337,
+        101808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f24b72144fdeed160865af52f1430a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474359,
+            "locality_id":101808285,
+            "neighbourhood_id":1158796943,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158796943,
+    "wof:lastmodified":1513432558,
+    "wof:name":"Sambeek Centrum",
+    "wof:parent_id":101808285,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.957662194339596,
+    51.62927753078028,
+    5.976090691073417,
+    51.6439738189965
+],
+  "geometry": {"coordinates":[[[[5.96600361864409,51.6439738189965],[5.97609069107342,51.63222828230877],[5.97193292720863,51.63044998839872],[5.97016177815702,51.62978130277201],[5.9653863203848,51.63001455573354],[5.96304143334872,51.62927753078028],[5.96331358146606,51.63030568163243],[5.96389374486216,51.63141854981453],[5.96268936607607,51.63266914149572],[5.96274596146689,51.63302026700655],[5.9576621943396,51.6399308190075],[5.96046891484348,51.64054153461964],[5.95998844303802,51.64129922169177],[5.95921136459573,51.64116538293833],[5.95891716188811,51.64167805497826],[5.95908963478976,51.64171485334666],[5.9598213966364,51.64187026079144],[5.9597915783299,51.64202911560487],[5.96087132945934,51.64231876724103],[5.96332161643023,51.64303958769725],[5.96492197782631,51.64363028927632],[5.96600361864409,51.6439738189965]]]],"type":"MultiPolygon"}
+}

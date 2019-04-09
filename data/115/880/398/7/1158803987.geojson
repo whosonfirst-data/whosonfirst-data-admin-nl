@@ -1,0 +1,80 @@
+{
+  "id": 1158803987,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17420402",
+    "cbsnl:BU_NAAM":"Vletgaarsmaten",
+    "cbsnl:GM_CODE":"GM1742",
+    "cbsnl:GM_NAAM":"Rijssen-Holten",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"202",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK174204",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:area_square_m":793144.916951,
+    "geom:bbox":"6.38814969441,52.2688372647,6.40313558402,52.2804342866",
+    "geom:latitude":52.275105,
+    "geom:longitude":6.396521,
+    "iso:country":"NL",
+    "lbl:latitude":52.27477,
+    "lbl:longitude":6.397126,
+    "mps:latitude":52.27477,
+    "mps:longitude":6.397126,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vletgaarsmaten"
+    ],
+    "name:nld_x_preferred":[
+        "Vletgaarsmaten"
+    ],
+    "reversegeo:latitude":52.27477,
+    "reversegeo:longitude":6.397126,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474657,
+        85633337,
+        101807165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b813d827975ed4c1a15e2bb55bbdb2b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474657,
+            "locality_id":101807165,
+            "neighbourhood_id":1158803987,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803987,
+    "wof:lastmodified":1513524375,
+    "wof:name":"Vletgaarsmaten",
+    "wof:parent_id":101807165,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.388149694408975,
+    52.268837264744285,
+    6.403135584019776,
+    52.28043428655065
+],
+  "geometry": {"coordinates":[[[[6.40065667247146,52.28043428655065],[6.40090948042889,52.27965599486963],[6.40143239737158,52.27795843124092],[6.40199355256979,52.27644218479505],[6.40229309440238,52.27557239090906],[6.40257677796444,52.27467475839229],[6.40281568638078,52.27381481009412],[6.40300768924714,52.27289931375099],[6.40313558401978,52.27177841935563],[6.40313433470496,52.27176170639994],[6.3989409461531,52.27042393829529],[6.39804493260739,52.27013045511367],[6.3950550487639,52.26883726474428],[6.3915896585731,52.27406748875305],[6.39108653715088,52.27393430777762],[6.38814969440898,52.27822771401482],[6.38822206628207,52.27824002604672],[6.39116232016402,52.2787478069554],[6.39399022010844,52.27925011187732],[6.39622450134424,52.27964769955527],[6.398125311313,52.279985229018],[6.39915428388373,52.28016491224493],[6.40065667247146,52.28043428655065]]]],"type":"MultiPolygon"}
+}

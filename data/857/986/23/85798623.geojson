@@ -1,0 +1,121 @@
+{
+  "id": 85798623,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08260504",
+    "cbsnl:BU_NAAM":"De Warande",
+    "cbsnl:GM_CODE":"GM0826",
+    "cbsnl:GM_NAAM":"Oosterhout",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"810",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082605",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:area_square_m":762482.929621,
+    "geom:bbox":"4.83686999535,51.6238128563,4.85571656873,51.6362209973",
+    "geom:latitude":51.630233,
+    "geom:longitude":4.845369,
+    "iso:country":"NL",
+    "lbl:latitude":51.614368,
+    "lbl:longitude":4.829534,
+    "mps:latitude":51.630252,
+    "mps:longitude":4.844727,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "De Warande"
+    ],
+    "name:nld_x_preferred":[
+        "De Warande"
+    ],
+    "name:unk_x_variant":[
+        "Warande",
+        "Warande"
+    ],
+    "qs:gn_adm0_cc":"NL",
+    "qs:gn_id":0,
+    "qs:gn_local":2758400,
+    "qs:gn_nam_loc":"Breda, Noord-Brabant, NL",
+    "qs:gn_namadm1":"06",
+    "qs:id":0,
+    "qs:local_max":133,
+    "qs:local_sum":209,
+    "qs:localhoods":2,
+    "qs:name":"Warande",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Noord-Brabant",
+    "qs:name_adm2":"Breda",
+    "qs:name_local":"Breda",
+    "qs:photo_max":37,
+    "qs:photo_sum":133,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346378,
+    "qs:woe_adm2":12592092,
+    "qs:woe_lau":0,
+    "qs:woe_local":12592092,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":51.630252,
+    "reversegeo:longitude":4.844727,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        1158801717,
+        404474413,
+        85633337,
+        101808317,
+        85687035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":734508
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"6353e52d2e52ff2e3ea8d4bae1695dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474413,
+            "locality_id":101808317,
+            "macrohood_id":1158801717,
+            "neighbourhood_id":85798623,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":85798623,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527269564,
+    "wof:name":"De Warande",
+    "wof:parent_id":1158801717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.83686999535309,
+    51.62381285628465,
+    4.85571656873225,
+    51.63622099729724
+],
+  "geometry": {"coordinates":[[[[4.85571656873225,51.6329640021284],[4.85504891385191,51.63231663418379],[4.85462391441116,51.63209058566353],[4.84816592559871,51.63004397619351],[4.84908095515352,51.62880154224203],[4.84933846957253,51.62858909318409],[4.84594203087082,51.62655653992503],[4.84486937320702,51.62592124698393],[4.84606809200314,51.62542253463103],[4.84427469339032,51.62381285628465],[4.8416493483902,51.62489257164682],[4.83686999535309,51.62675235114563],[4.84094167674907,51.63114204399367],[4.84247681238844,51.63284335672652],[4.84364739234355,51.63414361786542],[4.84539214582615,51.63622099729724],[4.84962543964893,51.63471017512622],[4.85311455456751,51.63366004157407],[4.85571656873225,51.6329640021284]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158827629,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06420201",
+    "cbsnl:BU_NAAM":"Veerplein - De Werf",
+    "cbsnl:GM_CODE":"GM0642",
+    "cbsnl:GM_NAAM":"Zwijndrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3716",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK064202",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":45175.650466,
+    "geom:bbox":"4.65423243451,51.8155086194,4.6585843813,51.8182534669",
+    "geom:latitude":51.81691,
+    "geom:longitude":4.656396,
+    "iso:country":"NL",
+    "lbl:latitude":51.816886,
+    "lbl:longitude":4.656396,
+    "mps:latitude":51.816886,
+    "mps:longitude":4.656396,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Veerplein - De Werf"
+    ],
+    "name:nld_x_preferred":[
+        "Veerplein - De Werf"
+    ],
+    "reversegeo:latitude":51.816886,
+    "reversegeo:longitude":4.656396,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831143,
+        404474291,
+        85633337,
+        101754703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"741807e55f947daaa7a8207d53411ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474291,
+            "locality_id":101754703,
+            "macrohood_id":1158831143,
+            "neighbourhood_id":1158827629,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827629,
+    "wof:lastmodified":1513588161,
+    "wof:name":"Veerplein - De Werf",
+    "wof:parent_id":1158831143,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.654232434511036,
+    51.815508619365445,
+    4.658584381298245,
+    51.818253466902824
+],
+  "geometry": {"coordinates":[[[[4.65423243451104,51.81725923709668],[4.65536047743972,51.81779988991679],[4.65634117967386,51.81825346690282],[4.65686179460838,51.81787187555418],[4.65738238641822,51.81749029055058],[4.65751033577573,51.81740518126541],[4.658037098587,51.81705475966723],[4.65858438129824,51.81669068878232],[4.6564585394223,51.81550861936545],[4.65513335738024,51.81655548237806],[4.65482408955495,51.8167930833369],[4.6547730501721,51.81683340261947],[4.65451993910979,51.81701632443484],[4.65427887741682,51.81720016584295],[4.65423243451104,51.81725923709668]]]],"type":"MultiPolygon"}
+}

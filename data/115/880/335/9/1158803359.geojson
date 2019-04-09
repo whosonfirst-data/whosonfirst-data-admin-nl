@@ -1,0 +1,80 @@
+{
+  "id": 1158803359,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01890007",
+    "cbsnl:BU_NAAM":"De Hooilanden",
+    "cbsnl:GM_CODE":"GM0189",
+    "cbsnl:GM_NAAM":"Wierden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"698",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK018900",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":578031.661805,
+    "geom:bbox":"6.59464456304,52.3652326148,6.60674792246,52.3737467541",
+    "geom:latitude":52.368831,
+    "geom:longitude":6.600194,
+    "iso:country":"NL",
+    "lbl:latitude":52.369211,
+    "lbl:longitude":6.600079,
+    "mps:latitude":52.369211,
+    "mps:longitude":6.600079,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Hooilanden"
+    ],
+    "name:nld_x_preferred":[
+        "De Hooilanden"
+    ],
+    "reversegeo:latitude":52.369211,
+    "reversegeo:longitude":6.600079,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473859,
+        85633337,
+        101754779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c38bd64596edae80f782bf34adc5ea31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473859,
+            "locality_id":101754779,
+            "neighbourhood_id":1158803359,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803359,
+    "wof:lastmodified":1513524334,
+    "wof:name":"De Hooilanden",
+    "wof:parent_id":101754779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.594644563041022,
+    52.36523261480321,
+    6.606747922461376,
+    52.3737467540994
+],
+  "geometry": {"coordinates":[[[[6.59938754376415,52.36529652237094],[6.59640947081785,52.36523261480321],[6.59508135173559,52.36523325776499],[6.59464456304102,52.37144395627826],[6.59697618188719,52.37171134898463],[6.59735299652891,52.37303193401308],[6.59749569873798,52.3737467540994],[6.5976797487181,52.37371973815944],[6.59841113125942,52.37343579777528],[6.59949350749024,52.37322365387401],[6.59992248497871,52.37314386027796],[6.60041235219712,52.37303830847635],[6.60094395777908,52.37295746062481],[6.60134862117701,52.37273968146164],[6.60226503777104,52.3724663837521],[6.60301689656284,52.37218220368305],[6.60331952283685,52.37198484122195],[6.60443848036801,52.37181214328093],[6.60674792246138,52.36544531962397],[6.60470698322004,52.36539639626001],[6.60060099779776,52.36532256628742],[6.59938754376415,52.36529652237094]]]],"type":"MultiPolygon"}
+}

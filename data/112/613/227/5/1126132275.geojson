@@ -1,0 +1,79 @@
+{
+  "id": 1126132275,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19000302",
+    "cbsnl:BU_NAAM":"Molkwerum",
+    "cbsnl:GM_CODE":"GM1900",
+    "cbsnl:GM_NAAM":"S\u00fadwest-Frysl\u00e2n",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"41",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK190003",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":281037.131007,
+    "geom:bbox":"5.39401294096,52.8978561644,5.40273513057,52.9036158225",
+    "geom:latitude":52.900755,
+    "geom:longitude":5.398339,
+    "iso:country":"NL",
+    "lbl:latitude":52.900779,
+    "lbl:longitude":5.398339,
+    "mps:latitude":52.900779,
+    "mps:longitude":5.398339,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Molkwerum"
+    ],
+    "name:eng_x_preferred":[
+        "Molkwerum"
+    ],
+    "reversegeo:latitude":52.900779,
+    "reversegeo:longitude":5.398339,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        1141960735,
+        85633337,
+        1141960507,
+        85687055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"fc6523692593f8b57040a5d62918203c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1141960735,
+            "locality_id":1141960507,
+            "neighbourhood_id":1126132275,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":1126132275,
+    "wof:lastmodified":1507246104,
+    "wof:name":"Molkwerum",
+    "wof:parent_id":1141960507,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.39401294096409,
+    52.89785616440403,
+    5.40273513056816,
+    52.90361582246059
+],
+  "geometry": {"coordinates":[[[[5.39817785496671,52.90361582246059],[5.39969960266039,52.90350558735294],[5.40103124722206,52.9029735569915],[5.40192409178706,52.90213490386613],[5.4024855460691,52.90133953538847],[5.40273513056816,52.90057116473227],[5.40249406713583,52.89982757054558],[5.40203314693931,52.89917836089052],[5.40091095742615,52.89859437952322],[5.39915560595504,52.89803965930901],[5.39741547901641,52.89785616440403],[5.39743918409384,52.89794097056676],[5.39622970237311,52.89807586606723],[5.39524461732152,52.8987589055191],[5.39472298428083,52.89943460741851],[5.39420900658738,52.90018500490676],[5.39401294096409,52.90113139685473],[5.39447375733705,52.90175030798727],[5.39492575867851,52.90235349160398],[5.39565693221722,52.90308358655854],[5.39694422994195,52.9034468755429],[5.39817785496671,52.90361582246059]]]],"type":"MultiPolygon"}
+}

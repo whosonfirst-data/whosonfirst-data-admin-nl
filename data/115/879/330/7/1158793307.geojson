@@ -1,0 +1,80 @@
+{
+  "id": 1158793307,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00480406",
+    "cbsnl:BU_NAAM":"Burgemeester Beinsdorp",
+    "cbsnl:GM_CODE":"GM0048",
+    "cbsnl:GM_NAAM":"Vlagtwedde",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"124",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK004804",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":199387.321017,
+    "geom:bbox":"7.07602912858,52.8587491996,7.08132542117,52.8646064594",
+    "geom:latitude":52.861468,
+    "geom:longitude":7.078669,
+    "iso:country":"NL",
+    "lbl:latitude":52.861481,
+    "lbl:longitude":7.078633,
+    "mps:latitude":52.861481,
+    "mps:longitude":7.078633,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Burgemeester Beinsdorp"
+    ],
+    "name:nld_x_preferred":[
+        "Burgemeester Beinsdorp"
+    ],
+    "reversegeo:latitude":52.861481,
+    "reversegeo:longitude":7.078633,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473739,
+        85633337,
+        101838031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1d5d1ab211e9030f93a880b56c3a2b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473739,
+            "locality_id":101838031,
+            "neighbourhood_id":1158793307,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793307,
+    "wof:lastmodified":1513382299,
+    "wof:name":"Burgemeester Beinsdorp",
+    "wof:parent_id":101838031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.076029128575362,
+    52.858749199594655,
+    7.081325421166784,
+    52.86460645937958
+],
+  "geometry": {"coordinates":[[[[7.07602912857536,52.86380604662291],[7.07634906798805,52.86385825559761],[7.07980140539923,52.86460645937958],[7.08094550763375,52.86366647892616],[7.08097448394258,52.86364267080157],[7.08100937025183,52.86308209621736],[7.08105866505158,52.8622825653786],[7.08122681080093,52.85991626625235],[7.08132542116678,52.85874919959466],[7.07608400069762,52.85888645314841],[7.07607029997099,52.85925235765509],[7.07624909422763,52.8629170297228],[7.07602912857536,52.86380604662291]]]],"type":"MultiPolygon"}
+}

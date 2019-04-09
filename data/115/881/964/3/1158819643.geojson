@@ -1,0 +1,80 @@
+{
+  "id": 1158819643,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03990602",
+    "cbsnl:BU_NAAM":"Oude Werf",
+    "cbsnl:GM_CODE":"GM0399",
+    "cbsnl:GM_NAAM":"Heiloo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"667",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK039906",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":180636.255003,
+    "geom:bbox":"4.71682709504,52.5903085795,4.72463881445,52.5956352033",
+    "geom:latitude":52.59305,
+    "geom:longitude":4.720678,
+    "iso:country":"NL",
+    "lbl:latitude":52.593014,
+    "lbl:longitude":4.720678,
+    "mps:latitude":52.593014,
+    "mps:longitude":4.720678,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oude Werf"
+    ],
+    "name:nld_x_preferred":[
+        "Oude Werf"
+    ],
+    "reversegeo:latitude":52.593014,
+    "reversegeo:longitude":4.720678,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823321,
+        85633337,
+        101807337,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e3fe6508b2a182b08e53647d3d459131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101807337,
+            "macrohood_id":1158823321,
+            "neighbourhood_id":1158819643,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158819643,
+    "wof:lastmodified":1513464162,
+    "wof:name":"Oude Werf",
+    "wof:parent_id":1158823321,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.716827095036757,
+    52.59030857952534,
+    4.724638814453635,
+    52.59563520329364
+],
+  "geometry": {"coordinates":[[[[4.72463881445363,52.59412997258794],[4.72391923993536,52.5931318482812],[4.72270295661306,52.59122964418177],[4.72221421817441,52.59030857952534],[4.72133460750321,52.59058654545576],[4.7189009309423,52.59138206525846],[4.71788783425838,52.59176790397905],[4.71704416661686,52.59228520136384],[4.71682709503676,52.59246669571315],[4.71697491549221,52.59261109602223],[4.71716480186226,52.59280793642473],[4.71729159420065,52.59292611456134],[4.71724734642313,52.59301722397122],[4.71710246810117,52.59307901869227],[4.71709639165157,52.59308167888565],[4.71764419685047,52.59369813184385],[4.71871831197991,52.59494405911357],[4.7191839042886,52.59563520329364],[4.71989981638956,52.5954357355309],[4.72303853621849,52.59459102091411],[4.72463881445363,52.59412997258794]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158801959,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01411700",
+    "cbsnl:BU_NAAM":"Hofkamp-West",
+    "cbsnl:GM_CODE":"GM0141",
+    "cbsnl:GM_NAAM":"Almelo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2523",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK014117",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":97858.839229,
+    "geom:bbox":"6.66580670294,52.3512783987,6.67163342072,52.3551339774",
+    "geom:latitude":52.353009,
+    "geom:longitude":6.669047,
+    "iso:country":"NL",
+    "lbl:latitude":52.352668,
+    "lbl:longitude":6.66876,
+    "mps:latitude":52.352668,
+    "mps:longitude":6.66876,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hofkamp-West"
+    ],
+    "name:nld_x_preferred":[
+        "Hofkamp-West"
+    ],
+    "reversegeo:latitude":52.352668,
+    "reversegeo:longitude":6.66876,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805817,
+        404473819,
+        85633337,
+        101751863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f92e2f763a764ee2be9a403e2e2b208a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473819,
+            "locality_id":101751863,
+            "macrohood_id":1158805817,
+            "neighbourhood_id":1158801959,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158801959,
+    "wof:lastmodified":1513524228,
+    "wof:name":"Hofkamp-West",
+    "wof:parent_id":1158805817,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.665806702937878,
+    52.35127839872978,
+    6.671633420720419,
+    52.35513397738214
+],
+  "geometry": {"coordinates":[[[[6.66974680299843,52.35127839872978],[6.66910359521601,52.35153705074285],[6.6690604793621,52.35139426345653],[6.66813074382351,52.35159534156479],[6.66646109553756,52.35182829115307],[6.6661889320342,52.35185510929385],[6.66580670293788,52.35212159635763],[6.6660912549248,52.35252441054509],[6.66637718876925,52.35297496203563],[6.666966016678,52.35311184810324],[6.66704672921102,52.35320647860696],[6.66658723177088,52.35349795966837],[6.66699906414591,52.35425725400522],[6.66967241478419,52.35367943983277],[6.67045515113808,52.35512710235164],[6.67163342072042,52.35513397738214],[6.67141154687249,52.35269149095418],[6.67115924717259,52.35242204439589],[6.67051927567347,52.35257870404196],[6.67042676037692,52.35245695777192],[6.67062552259656,52.35241407263155],[6.67027977398021,52.35198243733843],[6.67080892674817,52.35184046427418],[6.67055230547545,52.35142134552144],[6.66995642869318,52.35156376066154],[6.66974680299843,52.35127839872978]]]],"type":"MultiPolygon"}
+}

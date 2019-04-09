@@ -1,0 +1,80 @@
+{
+  "id": 1158791533,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16990090",
+    "cbsnl:BU_NAAM":"Lieveren",
+    "cbsnl:GM_CODE":"GM1699",
+    "cbsnl:GM_NAAM":"Noordenveld",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"29",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK169900",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":263723.233253,
+    "geom:bbox":"6.44620653713,53.1124396464,6.45774092746,53.1191831821",
+    "geom:latitude":53.115548,
+    "geom:longitude":6.451184,
+    "iso:country":"NL",
+    "lbl:latitude":53.115973,
+    "lbl:longitude":6.451096,
+    "mps:latitude":53.115973,
+    "mps:longitude":6.451096,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Lieveren"
+    ],
+    "name:nld_x_preferred":[
+        "Lieveren"
+    ],
+    "reversegeo:latitude":53.115973,
+    "reversegeo:longitude":6.451096,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474609,
+        85633337,
+        101807263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8c4a41ff451007d97055554dc0296e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474609,
+            "locality_id":101807263,
+            "neighbourhood_id":1158791533,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791533,
+    "wof:lastmodified":1513292346,
+    "wof:name":"Lieveren",
+    "wof:parent_id":101807263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.446206537130863,
+    53.11243964641992,
+    6.457740927460073,
+    53.119183182059935
+],
+  "geometry": {"coordinates":[[[[6.45032688166649,53.11243964641992],[6.44918794705971,53.11258679466527],[6.44808152002204,53.11284204524576],[6.44633995462628,53.11326353538269],[6.44620653713086,53.1132377554616],[6.4482517438714,53.1158886541524],[6.44838109046017,53.1163486303744],[6.4482785663451,53.11692748314143],[6.4482051506084,53.11752292979431],[6.44736315258156,53.11882388024286],[6.44858630611281,53.11918318205993],[6.44934048169753,53.117833013103],[6.45131351149056,53.11801151974665],[6.45523848443998,53.11671454437471],[6.45774092746007,53.11595250066676],[6.45610794486869,53.11521333831224],[6.45522605190467,53.11469380864875],[6.45492024684811,53.11392256950072],[6.45061664048057,53.1139591683873],[6.45032688166649,53.11243964641992]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1141963367,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02430601",
+    "cbsnl:BU_NAAM":"Sypel-Oost",
+    "cbsnl:GM_CODE":"GM0243",
+    "cbsnl:GM_NAAM":"Harderwijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2359",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK024306",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":208272.125677,
+    "geom:bbox":"5.62323445002,52.3387507853,5.63148672854,52.3453955184",
+    "geom:latitude":52.342,
+    "geom:longitude":5.627553,
+    "iso:country":"NL",
+    "lbl:latitude":52.342119,
+    "lbl:longitude":5.627615,
+    "mps:latitude":52.342119,
+    "mps:longitude":5.627615,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Sypel-Oost"
+    ],
+    "name:nld_x_preferred":[
+        "Sypel-Oost"
+    ],
+    "reversegeo:latitude":52.342119,
+    "reversegeo:longitude":5.627615,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158784027,
+        404473907,
+        85633337,
+        101837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4721a186b85eb89b2b100e19a3cc7428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473907,
+            "locality_id":101837769,
+            "macrohood_id":1158784027,
+            "neighbourhood_id":1141963367,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963367,
+    "wof:lastmodified":1513368740,
+    "wof:name":"Sypel-Oost",
+    "wof:parent_id":1158784027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.623234450020111,
+    52.338750785264,
+    5.631486728537043,
+    52.34539551841983
+],
+  "geometry": {"coordinates":[[[[5.62612169970415,52.34539551841983],[5.6281996970296,52.34428215718834],[5.62880263478714,52.34395909325078],[5.62937089068079,52.34343920165761],[5.630036741239,52.34221482138503],[5.63024054526332,52.34184004524198],[5.63148672853704,52.33954829399146],[5.62691419955608,52.3387743954469],[5.62678891682444,52.338750785264],[5.62688744649548,52.33893770865363],[5.62662799936556,52.33956286722081],[5.6266135639801,52.33959765395611],[5.62706132121713,52.33966737112767],[5.627077663364,52.33966991566882],[5.62686484781998,52.34018270840195],[5.62682269947602,52.3401761463494],[5.62640074342688,52.34011044751043],[5.62638673900899,52.34012905841421],[5.62590776194684,52.34076556513867],[5.62509484315251,52.34235639170161],[5.62323445002011,52.34350703590233],[5.62612169970415,52.34539551841983]]]],"type":"MultiPolygon"}
+}

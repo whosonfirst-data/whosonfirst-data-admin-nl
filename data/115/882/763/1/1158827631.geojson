@@ -1,0 +1,82 @@
+{
+  "id": 1158827631,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06420202",
+    "cbsnl:BU_NAAM":"Euryza",
+    "cbsnl:GM_CODE":"GM0642",
+    "cbsnl:GM_NAAM":"Zwijndrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"-99999999",
+    "cbsnl:STED":"-99999999",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK064202",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":44933.091285,
+    "geom:bbox":"4.65221260219,51.8144446183,4.65645853942,51.8172592371",
+    "geom:latitude":51.815828,
+    "geom:longitude":4.65437,
+    "iso:country":"NL",
+    "lbl:latitude":51.815826,
+    "lbl:longitude":4.654338,
+    "mps:latitude":51.815826,
+    "mps:longitude":4.654338,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Euryza"
+    ],
+    "name:nld_x_preferred":[
+        "Euryza"
+    ],
+    "reversegeo:latitude":51.815826,
+    "reversegeo:longitude":4.654338,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831143,
+        404474291,
+        85633337,
+        101754703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"03637cc08688bbf1f7ce0fe3c93eb26b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474291,
+            "locality_id":101754703,
+            "macrohood_id":1158831143,
+            "neighbourhood_id":1158827631,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827631,
+    "wof:lastmodified":1513588161,
+    "wof:name":"Euryza",
+    "wof:parent_id":1158831143,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.652212602185379,
+    51.81444461832819,
+    4.656458539422297,
+    51.81725923709668
+],
+  "geometry": {"coordinates":[[[[4.65221260218538,51.81595610841822],[4.65227595632671,51.81600209544249],[4.65247814118778,51.81609917178993],[4.65280578781583,51.81633811045606],[4.65320827298666,51.8166314752668],[4.65363395583691,51.81693278622216],[4.653896978626,51.81709473404286],[4.65423243451104,51.81725923709668],[4.65427887741682,51.81720016584295],[4.65451993910979,51.81701632443484],[4.6547730501721,51.81683340261947],[4.65482408955495,51.8167930833369],[4.65513335738024,51.81655548237806],[4.6564585394223,51.81550861936545],[4.65639580286265,51.81547373331635],[4.65631665786508,51.81542972453972],[4.6560880868937,51.81530262270837],[4.65474745978098,51.81444461832819],[4.65221260218538,51.81595610841822]]]],"type":"MultiPolygon"}
+}

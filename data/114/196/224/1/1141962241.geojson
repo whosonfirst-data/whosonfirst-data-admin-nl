@@ -1,0 +1,82 @@
+{
+  "id": 1141962241,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02021471",
+    "cbsnl:BU_NAAM":"Lombok",
+    "cbsnl:GM_CODE":"GM0202",
+    "cbsnl:GM_NAAM":"Arnhem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1449",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK020214",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":359032.840471,
+    "geom:bbox":"5.87691048879,51.9830133364,5.89271023349,51.9867986835",
+    "geom:latitude":51.984976,
+    "geom:longitude":5.884666,
+    "iso:country":"NL",
+    "lbl:latitude":51.98485,
+    "lbl:longitude":5.887035,
+    "mps:latitude":51.98485,
+    "mps:longitude":5.887035,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Lombok"
+    ],
+    "name:nld_x_preferred":[
+        "Lombok"
+    ],
+    "reversegeo:latitude":51.98485,
+    "reversegeo:longitude":5.887035,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158783983,
+        404473871,
+        85633337,
+        101751857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0b2ade0a821e13871e496918ed860368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473871,
+            "locality_id":101751857,
+            "macrohood_id":1158783983,
+            "neighbourhood_id":1141962241,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962241,
+    "wof:lastmodified":1513368658,
+    "wof:name":"Lombok",
+    "wof:parent_id":1158783983,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.876910488794448,
+    51.98301333643603,
+    5.892710233490384,
+    51.98679868347219
+],
+  "geometry": {"coordinates":[[[[5.88935239410182,51.98637755336864],[5.89239345615289,51.98611375526938],[5.89263950008243,51.98572799818009],[5.89271023349038,51.98541669854503],[5.89230484247729,51.98406300126403],[5.89205574370145,51.98301333643603],[5.88869576155421,51.98337735793012],[5.88567541738461,51.9831331332665],[5.88563709427613,51.98400696027079],[5.88295821636131,51.98384031512101],[5.88207430928536,51.98368134911153],[5.88114072983381,51.98350550764611],[5.87958531049928,51.98343742739972],[5.87835843103553,51.98332840612436],[5.87691048879445,51.98337039775245],[5.87706524271718,51.98474406633208],[5.87699190422699,51.9854930979416],[5.87714915122563,51.98589511911617],[5.87743075550292,51.98635324854773],[5.87730751669398,51.98679868347219],[5.88209956141601,51.98662851101938],[5.88935239410182,51.98637755336864]]]],"type":"MultiPolygon"}
+}

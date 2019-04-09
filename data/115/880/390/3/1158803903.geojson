@@ -1,0 +1,80 @@
+{
+  "id": 1158803903,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17350605",
+    "cbsnl:BU_NAAM":"Vogelweiden",
+    "cbsnl:GM_CODE":"GM1735",
+    "cbsnl:GM_NAAM":"Hof van Twente",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"604",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK173506",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:area_square_m":572489.625053,
+    "geom:bbox":"6.71835527608,52.2557810872,6.73801023377,52.2608046949",
+    "geom:latitude":52.258383,
+    "geom:longitude":6.728469,
+    "iso:country":"NL",
+    "lbl:latitude":52.258323,
+    "lbl:longitude":6.728466,
+    "mps:latitude":52.258323,
+    "mps:longitude":6.728466,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vogelweiden"
+    ],
+    "name:nld_x_preferred":[
+        "Vogelweiden"
+    ],
+    "reversegeo:latitude":52.258323,
+    "reversegeo:longitude":6.728466,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474653,
+        85633337,
+        101807169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ecce3eb56892aa24c027e305fe5d444b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474653,
+            "locality_id":101807169,
+            "neighbourhood_id":1158803903,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803903,
+    "wof:lastmodified":1513524369,
+    "wof:name":"Vogelweiden",
+    "wof:parent_id":101807169,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.718355276076456,
+    52.25578108723799,
+    6.738010233772956,
+    52.26080469485485
+],
+  "geometry": {"coordinates":[[[[6.73619706878349,52.26080469485485],[6.73661697915294,52.26011477959837],[6.73761764674564,52.25848535118981],[6.73752248819614,52.25837407837818],[6.73801023377296,52.25772607908964],[6.73799361250615,52.25766109997451],[6.73714134946473,52.25727870430034],[6.73666122626276,52.25700132186826],[6.73654015681804,52.2568128154386],[6.73641556318293,52.25666648548651],[6.73615014820154,52.25638973881856],[6.73596423448858,52.25625899590958],[6.73590932523207,52.25625962288508],[6.73013180180142,52.25629033591386],[6.72766054049588,52.25604143888402],[6.72160333942888,52.25578108723799],[6.72056845707761,52.25814953305386],[6.71952725065764,52.25801043618704],[6.71933029954639,52.25830626509862],[6.71916980203081,52.25854733764307],[6.71835527607646,52.25977281802798],[6.71840847773779,52.2601739074202],[6.71913709586931,52.26019911969843],[6.71914007129444,52.26019908614916],[6.73602597370379,52.26078586079554],[6.73619706878349,52.26080469485485]]]],"type":"MultiPolygon"}
+}

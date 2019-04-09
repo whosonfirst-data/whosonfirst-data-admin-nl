@@ -1,0 +1,80 @@
+{
+  "id": 1158827323,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06220201",
+    "cbsnl:BU_NAAM":"Hoogkamer",
+    "cbsnl:GM_CODE":"GM0622",
+    "cbsnl:GM_NAAM":"Vlaardingen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1800",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK062202",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":397457.37662,
+    "geom:bbox":"4.30857819914,51.9039695541,4.31753063929,51.9122540388",
+    "geom:latitude":51.908402,
+    "geom:longitude":4.312568,
+    "iso:country":"NL",
+    "lbl:latitude":51.908401,
+    "lbl:longitude":4.312483,
+    "mps:latitude":51.908401,
+    "mps:longitude":4.312483,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hoogkamer"
+    ],
+    "name:nld_x_preferred":[
+        "Hoogkamer"
+    ],
+    "reversegeo:latitude":51.908401,
+    "reversegeo:longitude":4.312483,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829615,
+        85633337,
+        101751851,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"35b6728afe6b7035b82e37b049634875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751851,
+            "macrohood_id":1158829615,
+            "neighbourhood_id":1158827323,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827323,
+    "wof:lastmodified":1513588140,
+    "wof:name":"Hoogkamer",
+    "wof:parent_id":1158829615,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.308578199139147,
+    51.903969554105494,
+    4.317530639288852,
+    51.91225403878328
+],
+  "geometry": {"coordinates":[[[[4.31602283463117,51.9115272301098],[4.31667577396945,51.91113513898658],[4.31753063928885,51.91073617386385],[4.31698924951243,51.90969611282893],[4.31664646959905,51.90908061908542],[4.31633156146245,51.90844880431662],[4.31583247991186,51.90747485338576],[4.31528119784091,51.90638160293788],[4.31493978195121,51.90571555325914],[4.31412051733187,51.90396955410549],[4.30857819913915,51.90505170043676],[4.30894208210638,51.90598399066281],[4.3092191695654,51.91144563583046],[4.30921311462202,51.91169811406316],[4.30936795077447,51.91225403878328],[4.31071623064874,51.91218914755694],[4.31135090086949,51.91209299278463],[4.31206677542842,51.91204841849832],[4.31248031919384,51.9120013579591],[4.31333569608602,51.91187321960032],[4.31446591909796,51.91174730386386],[4.31532087974753,51.9116362819324],[4.31602283463117,51.9115272301098]]]],"type":"MultiPolygon"}
+}

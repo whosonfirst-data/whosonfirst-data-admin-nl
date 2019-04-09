@@ -1,0 +1,83 @@
+{
+  "id": 1108804123,
+  "type": "Feature",
+  "properties": {
+    "amsgis:_categories":"buurt",
+    "amsgis:_id":"buurt.03630023753950",
+    "amsgis:categorie":"90",
+    "amsgis:code":"05f",
+    "amsgis:display":"Planciusbuurt Noord",
+    "amsgis:externe_id":"3630023753950",
+    "amsgis:naam":"Planciusbuurt Noord",
+    "amsgis:online_tijdsaspect":"1",
+    "amsgis:titel":"Planciusbuurt Noord",
+    "amsgis:titel_key":"planciusbuurt_noord_1",
+    "amsgis:type":"Buurtgrenzen",
+    "amsgis:type_2":"gebieden/buurt",
+    "amsgis:uri":"https://api.datapunt.amsterdam.nl/gebieden/buurt/03630023753950/",
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-10-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":24080.342557,
+    "geom:bbox":"4.88303374511,52.385666612,4.88574541811,52.3883784539",
+    "geom:latitude":52.387063,
+    "geom:longitude":4.884413,
+    "iso:country":"NL",
+    "lbl:latitude":52.387037,
+    "lbl:longitude":4.884413,
+    "mps:latitude":52.387037,
+    "mps:longitude":4.884413,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "reversegeo:latitude":52.387037,
+    "reversegeo:longitude":4.884413,
+    "src:geom":"amsgis",
+    "wof:belongsto":[
+        1108802819,
+        102191581,
+        85633337,
+        101751893,
+        1108802283,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"NL",
+    "wof:geomhash":"cc3b5236e75ea27d1030236ac4a4f4e2",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108802283,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108804123,
+            "neighbourhood_id":1108802819,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1108804123,
+    "wof:lastmodified":1513269526,
+    "wof:name":"Planciusbuurt Noord",
+    "wof:parent_id":1108802819,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158844295
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.88303374511178,
+    52.38566661199324,
+    4.88574541810848,
+    52.38837845389698
+],
+  "geometry": {"coordinates":[[[4.88447893792985,52.38837845389698],[4.88574541810848,52.38816652220548],[4.88569426763752,52.38800083091748],[4.88558549871538,52.38783747423346],[4.88469686089511,52.38650280766009],[4.88433262085839,52.38595850326193],[4.88420017172489,52.38580570810026],[4.88407201974352,52.38566661199324],[4.88303374511178,52.38600134113888],[4.88323344953017,52.38624231775383],[4.88399624939408,52.38734197562199],[4.88422009504839,52.38783768750483],[4.88447893792985,52.38837845389698]]],"type":"Polygon"}
+}

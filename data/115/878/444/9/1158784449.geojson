@@ -1,0 +1,80 @@
+{
+  "id": 1158784449,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07030002",
+    "cbsnl:BU_NAAM":"Yerseke - Steehof",
+    "cbsnl:GM_CODE":"GM0703",
+    "cbsnl:GM_NAAM":"Reimerswaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"837",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK070300",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000095,
+    "geom:area_square_m":733766.822418,
+    "geom:bbox":"4.03295477551,51.4911919389,4.04628088896,51.5028725871",
+    "geom:latitude":51.497437,
+    "geom:longitude":4.040547,
+    "iso:country":"NL",
+    "lbl:latitude":51.497158,
+    "lbl:longitude":4.041753,
+    "mps:latitude":51.497158,
+    "mps:longitude":4.041753,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Yerseke - Steehof"
+    ],
+    "name:nld_x_preferred":[
+        "Yerseke - Steehof"
+    ],
+    "reversegeo:latitude":51.497158,
+    "reversegeo:longitude":4.041753,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474323,
+        85633337,
+        101809781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3ccf182e5ec9651ab2a97c80cb3fb4ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474323,
+            "locality_id":101809781,
+            "neighbourhood_id":1158784449,
+            "region_id":85687037
+        }
+    ],
+    "wof:id":1158784449,
+    "wof:lastmodified":1513628658,
+    "wof:name":"Yerseke - Steehof",
+    "wof:parent_id":101809781,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.032954775514078,
+    51.49119193890839,
+    4.04628088895979,
+    51.5028725871237
+],
+  "geometry": {"coordinates":[[[[4.04511762682034,51.49343658363883],[4.04471190962636,51.49332247857283],[4.04335667033843,51.49171998621993],[4.04269509435674,51.49136580391567],[4.04185288425929,51.49119193890839],[4.0402453105741,51.49120988552792],[4.04015482701023,51.49150646752245],[4.03802025024227,51.49339644737174],[4.03487980357729,51.49605514011086],[4.03758398564769,51.49773227335805],[4.03295477551408,51.5028725871237],[4.04212227799189,51.50234091686486],[4.04443283412544,51.50079776567546],[4.04498399411142,51.49994681101997],[4.04593212470721,51.49851672877965],[4.04628088895979,51.49759048313445],[4.04590040119112,51.49661938079956],[4.0457995013657,51.49508604192717],[4.04511762682034,51.49343658363883]]]],"type":"MultiPolygon"}
+}

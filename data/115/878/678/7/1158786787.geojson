@@ -1,0 +1,78 @@
+{
+  "id": 1158786787,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00500009",
+    "cbsnl:BU_NAAM":"Trekkersveld",
+    "cbsnl:GM_CODE":"GM0050",
+    "cbsnl:GM_NAAM":"Zeewolde",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"102",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK005000",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000255,
+    "geom:area_square_m":1927797.087639,
+    "geom:bbox":"5.48908069451,52.3480069627,5.51984940171,52.3657097313",
+    "geom:latitude":52.356981,
+    "geom:longitude":5.50465,
+    "iso:country":"NL",
+    "lbl:latitude":52.35669,
+    "lbl:longitude":5.504891,
+    "mps:latitude":52.35669,
+    "mps:longitude":5.504891,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Trekkersveld"
+    ],
+    "name:nld_x_preferred":[
+        "Trekkersveld"
+    ],
+    "reversegeo:latitude":52.35669,
+    "reversegeo:longitude":5.504891,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        101808771,
+        85633337,
+        85687049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a813e2b3ac67a29abaab76db72008117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101808771,
+            "neighbourhood_id":1158786787,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158786787,
+    "wof:lastmodified":1513299269,
+    "wof:name":"Trekkersveld",
+    "wof:parent_id":101808771,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.489080694513794,
+    52.34800696273739,
+    5.519849401712793,
+    52.365709731327584
+],
+  "geometry": {"coordinates":[[[[5.50899501311459,52.36570973132758],[5.51984940171279,52.35930787130422],[5.51380539524264,52.35559447660788],[5.50798867105715,52.35201816077849],[5.50169638779114,52.34800696273739],[5.5003085810759,52.34885058270243],[5.49444836775324,52.35241235852501],[5.49195975097083,52.35415683653218],[5.48912255247525,52.35614543250167],[5.48908095302151,52.35617458811248],[5.48908069451379,52.35617476771434],[5.49490387092421,52.35865551694356],[5.50122012619478,52.36138350601379],[5.50615683809716,52.36400947438489],[5.50899501311459,52.36570973132758]]]],"type":"MultiPolygon"}
+}

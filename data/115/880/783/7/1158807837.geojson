@@ -1,0 +1,80 @@
+{
+  "id": 1158807837,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19030005",
+    "cbsnl:BU_NAAM":"Maarland",
+    "cbsnl:GM_CODE":"GM1903",
+    "cbsnl:GM_NAAM":"Eijsden-Margraten",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"217",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK190300",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":478442.644944,
+    "geom:bbox":"5.71624225929,50.7877196584,5.72672397685,50.7971398839",
+    "geom:latitude":50.793175,
+    "geom:longitude":5.720558,
+    "iso:country":"NL",
+    "lbl:latitude":50.79347,
+    "lbl:longitude":5.720459,
+    "mps:latitude":50.79347,
+    "mps:longitude":5.720459,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Maarland"
+    ],
+    "name:nld_x_preferred":[
+        "Maarland"
+    ],
+    "reversegeo:latitude":50.79347,
+    "reversegeo:longitude":5.720459,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        1158805871,
+        85633337,
+        101755865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a5367abbaa3f59c6f979351a24a996fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101755865,
+            "neighbourhood_id":1158807837,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158807837,
+    "wof:lastmodified":1513404147,
+    "wof:name":"Maarland",
+    "wof:parent_id":101755865,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.716242259291834,
+    50.78771965838063,
+    5.726723976849341,
+    50.79713988387438
+],
+  "geometry": {"coordinates":[[[[5.71638699911295,50.79275757323231],[5.716535204623,50.79406333954677],[5.71659117416194,50.79713988387438],[5.71669039000059,50.79713061202991],[5.72520965024677,50.79610907600876],[5.72672397684934,50.79157988504588],[5.72478593254907,50.79147938531498],[5.72369580165341,50.7913350947027],[5.72273251153558,50.79108087299059],[5.72154405331746,50.7906654966578],[5.72074223426348,50.79039899405413],[5.71970763171757,50.78989691957054],[5.71891621853793,50.78928514591549],[5.71797158684853,50.78846818886548],[5.71726012087344,50.78771965838063],[5.71624225929183,50.78775290057509],[5.71651979516232,50.79270410494465],[5.71638699911295,50.79275757323231]]]],"type":"MultiPolygon"}
+}

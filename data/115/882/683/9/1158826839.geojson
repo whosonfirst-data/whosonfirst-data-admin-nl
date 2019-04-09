@@ -1,0 +1,80 @@
+{
+  "id": 1158826839,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05880303",
+    "cbsnl:BU_NAAM":"Schenkeldijk",
+    "cbsnl:GM_CODE":"GM0588",
+    "cbsnl:GM_NAAM":"Korendijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"42",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK058803",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":189659.197932,
+    "geom:bbox":"4.38052368988,51.7397382353,4.39034845254,51.7480541164",
+    "geom:latitude":51.743587,
+    "geom:longitude":4.38472,
+    "iso:country":"NL",
+    "lbl:latitude":51.743703,
+    "lbl:longitude":4.383827,
+    "mps:latitude":51.743703,
+    "mps:longitude":4.383827,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schenkeldijk"
+    ],
+    "name:nld_x_preferred":[
+        "Schenkeldijk"
+    ],
+    "reversegeo:latitude":51.743703,
+    "reversegeo:longitude":4.383827,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474235,
+        85633337,
+        101808537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d42e791220303608f09d1694fbe71a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474235,
+            "locality_id":101808537,
+            "neighbourhood_id":1158826839,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826839,
+    "wof:lastmodified":1513588099,
+    "wof:name":"Schenkeldijk",
+    "wof:parent_id":101808537,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.380523689878282,
+    51.73973823534517,
+    4.39034845253703,
+    51.748054116352854
+],
+  "geometry": {"coordinates":[[[[4.39034845253703,51.74107758806446],[4.3900222401924,51.74049472945927],[4.38995532562106,51.74037040791013],[4.38992093176145,51.74030770449449],[4.38981921031611,51.74012169201302],[4.38979124691224,51.74007139441444],[4.38960599208238,51.73973823534517],[4.38549157387139,51.74097601482405],[4.38427815235316,51.7416325135484],[4.3828352984152,51.74293452515855],[4.38065781300374,51.74699855398979],[4.38081062029258,51.74702866888302],[4.38052368987828,51.74776109439108],[4.38200370047605,51.74805411635285],[4.38243388383696,51.74734854650308],[4.38309458813132,51.74747873648018],[4.38518941000175,51.7439909395871],[4.3860258286284,51.74309468894692],[4.38733097107762,51.74226086050087],[4.38919665318833,51.74143909432783],[4.39034845253703,51.74107758806446]]]],"type":"MultiPolygon"}
+}

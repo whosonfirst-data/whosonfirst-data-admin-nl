@@ -1,0 +1,80 @@
+{
+  "id": 1158791191,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01191204",
+    "cbsnl:BU_NAAM":"Spijkerserve",
+    "cbsnl:GM_CODE":"GM0119",
+    "cbsnl:GM_NAAM":"Meppel",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"380",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011912",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":103653.065854,
+    "geom:bbox":"6.15733119768,52.7303049027,6.16383368431,52.7363510238",
+    "geom:latitude":52.73388,
+    "geom:longitude":6.160519,
+    "iso:country":"NL",
+    "lbl:latitude":52.734656,
+    "lbl:longitude":6.159756,
+    "mps:latitude":52.734656,
+    "mps:longitude":6.159756,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Spijkerserve"
+    ],
+    "name:nld_x_preferred":[
+        "Spijkerserve"
+    ],
+    "reversegeo:latitude":52.734656,
+    "reversegeo:longitude":6.159756,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473813,
+        85633337,
+        101807283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e6f4d5714df0a925cc92901eab927eef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473813,
+            "locality_id":101807283,
+            "neighbourhood_id":1158791191,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791191,
+    "wof:lastmodified":1513292323,
+    "wof:name":"Spijkerserve",
+    "wof:parent_id":101807283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.157331197682527,
+    52.730304902735135,
+    6.163833684305429,
+    52.73635102383249
+],
+  "geometry": {"coordinates":[[[[6.15733119768253,52.735671290528],[6.15993926286655,52.73624640892395],[6.16053597319972,52.73635102383249],[6.16078833389095,52.73592383012351],[6.16314328426804,52.7318863223333],[6.16317772465149,52.73182727135224],[6.16383368430543,52.73054488553975],[6.16281624380881,52.73030490273513],[6.16196296904594,52.73162080806527],[6.16143894056411,52.73242829047232],[6.16091638023833,52.73335025735482],[6.15899473574977,52.73294657781616],[6.15733119768253,52.735671290528]]]],"type":"MultiPolygon"}
+}

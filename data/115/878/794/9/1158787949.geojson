@@ -1,0 +1,80 @@
+{
+  "id": 1158787949,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03130009",
+    "cbsnl:BU_NAAM":"Koenraadswetering",
+    "cbsnl:GM_CODE":"GM0313",
+    "cbsnl:GM_NAAM":"Bunschoten",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1208",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK031300",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":218349.332065,
+    "geom:bbox":"5.3779635413,52.2421104131,5.38461610905,52.2485409546",
+    "geom:latitude":52.245567,
+    "geom:longitude":5.38093,
+    "iso:country":"NL",
+    "lbl:latitude":52.245634,
+    "lbl:longitude":5.38093,
+    "mps:latitude":52.245634,
+    "mps:longitude":5.38093,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Koenraadswetering"
+    ],
+    "name:nld_x_preferred":[
+        "Koenraadswetering"
+    ],
+    "reversegeo:latitude":52.245634,
+    "reversegeo:longitude":5.38093,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473983,
+        85633337,
+        101806987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"befebe5f2e701abe77a83db459d0349d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473983,
+            "locality_id":101806987,
+            "neighbourhood_id":1158787949,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158787949,
+    "wof:lastmodified":1513621964,
+    "wof:name":"Koenraadswetering",
+    "wof:parent_id":101806987,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.37796354130444,
+    52.242110413086195,
+    5.384616109049616,
+    52.24854095463598
+],
+  "geometry": {"coordinates":[[[[5.37813747650442,52.24478090101192],[5.37818130890765,52.24525107888359],[5.37829694360217,52.24590719570222],[5.37849775752846,52.24621550549629],[5.37919467232422,52.2480859920278],[5.37993581476352,52.24801176959688],[5.37999629599337,52.24814174328952],[5.38022310898993,52.24854095463598],[5.3813025340404,52.24838758504485],[5.38130402743978,52.24838800751662],[5.3819000416336,52.24847229537327],[5.3827729136613,52.24844649025354],[5.38365517688352,52.2483058022578],[5.38408189459828,52.24823784472666],[5.38461610904962,52.24811550975718],[5.38412549813833,52.24739922681099],[5.3837625738905,52.24646157019528],[5.3832938457098,52.24486476879625],[5.38306707583062,52.24384356045469],[5.38255294091367,52.24315655124408],[5.38180620575746,52.24306102199066],[5.38180503815705,52.24305771240992],[5.37824873303323,52.24211041308619],[5.37837929293337,52.24244184745185],[5.37802668881008,52.24280133261701],[5.37796354130444,52.24282997745441],[5.37803954147738,52.24372763853823],[5.37813747650442,52.24478090101192]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1126131351,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00790202",
+    "cbsnl:BU_NAAM":"Westergeest",
+    "cbsnl:GM_CODE":"GM0079",
+    "cbsnl:GM_NAAM":"Kollumerland en Nieuwkruisland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"73",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK007902",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000106,
+    "geom:area_square_m":782163.099915,
+    "geom:bbox":"6.07404882205,53.2859503911,6.09010244794,53.2949886125",
+    "geom:latitude":53.290591,
+    "geom:longitude":6.082812,
+    "iso:country":"NL",
+    "lbl:latitude":53.2902,
+    "lbl:longitude":6.082659,
+    "mps:latitude":53.2902,
+    "mps:longitude":6.082659,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Westergeest"
+    ],
+    "name:eng_x_preferred":[
+        "Westergeest"
+    ],
+    "reversegeo:latitude":53.2902,
+    "reversegeo:longitude":6.082659,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        404473773,
+        85633337,
+        1141960479,
+        85687055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"261d317038430a10b284e597e6d94d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473773,
+            "locality_id":1141960479,
+            "neighbourhood_id":1126131351,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":1126131351,
+    "wof:lastmodified":1507246095,
+    "wof:name":"Westergeest",
+    "wof:parent_id":1141960479,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.07404882204545,
+    53.28595039109,
+    6.09010244793984,
+    53.29498861251872
+],
+  "geometry": {"coordinates":[[[[6.08673281824843,53.29484593813795],[6.08884675700516,53.29498861251872],[6.08950459502309,53.29458884143366],[6.08976159324854,53.29396620839341],[6.08976139708067,53.29221345184031],[6.0899996266141,53.28970675573564],[6.0897330164409,53.28917647734092],[6.09010244793984,53.28802190929085],[6.08666786002874,53.28722875784469],[6.08332568516647,53.28623054992236],[6.0815654005851,53.28595039109],[6.08023158300843,53.28608108355974],[6.07882274251516,53.28658902897052],[6.0772989085097,53.28759968996444],[6.07611653542782,53.28878134635735],[6.07521235633696,53.2900888818794],[6.07456426885293,53.29120736801998],[6.0741437612402,53.29211058036822],[6.07404882204545,53.2926525058577],[6.07918098190036,53.2937894990897],[6.08673281824843,53.29484593813795]]]],"type":"MultiPolygon"}
+}

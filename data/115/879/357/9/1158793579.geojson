@@ -1,0 +1,80 @@
+{
+  "id": 1158793579,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18950103",
+    "cbsnl:BU_NAAM":"Finsterwolde Ganzedijk",
+    "cbsnl:GM_CODE":"GM1895",
+    "cbsnl:GM_NAAM":"Oldambt",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"26",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK189501",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":330999.721441,
+    "geom:bbox":"7.11381597977,53.2012829837,7.12351682959,53.2110360701",
+    "geom:latitude":53.206223,
+    "geom:longitude":7.118975,
+    "iso:country":"NL",
+    "lbl:latitude":53.208091,
+    "lbl:longitude":7.120915,
+    "mps:latitude":53.208091,
+    "mps:longitude":7.120915,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Finsterwolde Ganzedijk"
+    ],
+    "name:nld_x_preferred":[
+        "Finsterwolde Ganzedijk"
+    ],
+    "reversegeo:latitude":53.208091,
+    "reversegeo:longitude":7.120915,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        1158792361,
+        85633337,
+        101806217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c290bb602db6d6971691f7cfa8400799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158792361,
+            "locality_id":101806217,
+            "neighbourhood_id":1158793579,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793579,
+    "wof:lastmodified":1513382320,
+    "wof:name":"Finsterwolde Ganzedijk",
+    "wof:parent_id":101806217,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.113815979774913,
+    53.20128298366887,
+    7.123516829586543,
+    53.211036070114524
+],
+  "geometry": {"coordinates":[[[[7.12305502751716,53.21063253830264],[7.12309220942338,53.21063470736659],[7.12351682958654,53.20638987170618],[7.11933738154051,53.20514824307332],[7.1178270471591,53.20128298366887],[7.11381597977491,53.20148908243537],[7.11527721236142,53.20594882760749],[7.11776599655941,53.20624435899726],[7.11875780510571,53.2103816658215],[7.12018763051164,53.21046515654395],[7.1202674054339,53.21103607011452],[7.12319362631831,53.21089652089344],[7.12305502751716,53.21063253830264]]]],"type":"MultiPolygon"}
+}

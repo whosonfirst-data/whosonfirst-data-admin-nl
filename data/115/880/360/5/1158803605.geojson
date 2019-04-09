@@ -1,0 +1,81 @@
+{
+  "id": 1158803605,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17000106",
+    "cbsnl:BU_NAAM":"Verspreide huizen ten noorden van Vriezenveen",
+    "cbsnl:GM_CODE":"GM1700",
+    "cbsnl:GM_NAAM":"Twenterand",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"169",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170001",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001339,
+    "geom:area_square_m":10097322.532501,
+    "geom:bbox":"6.58494385347,52.4106020425,6.65683547682,52.4431929599",
+    "geom:latitude":52.427867,
+    "geom:longitude":6.621778,
+    "iso:country":"NL",
+    "lbl:latitude":52.426867,
+    "lbl:longitude":6.615239,
+    "mps:latitude":52.426867,
+    "mps:longitude":6.615239,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen ten noorden van Vriezenveen"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen ten noorden van Vriezenveen"
+    ],
+    "reversegeo:latitude":52.426867,
+    "reversegeo:longitude":6.615239,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474611,
+        85633337,
+        101808749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"370fe09c9c38c16f37256b7f83046dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474611,
+            "locality_id":101808749,
+            "neighbourhood_id":1158803605,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803605,
+    "wof:lastmodified":1513524349,
+    "wof:name":"Verspreide huizen ten noorden van Vriezenveen",
+    "wof:parent_id":101808749,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.584943853470979,
+    52.41060204249595,
+    6.656835476820321,
+    52.443192959886396
+],
+  "geometry": {"coordinates":[[[[6.62902585617246,52.43811262286075],[6.63703519391512,52.440284475018],[6.63726515183425,52.44041153697389],[6.64155555600458,52.44155349682232],[6.64619414349975,52.44225931744364],[6.65033525356052,52.44284273862684],[6.65262954279548,52.4431929598864],[6.65382098548858,52.44308865760326],[6.65629271979986,52.42736562882722],[6.65635093647945,52.42719253847289],[6.65683547682032,52.42573487296412],[6.63724922705858,52.42052853583933],[6.63674529837945,52.42044116189422],[6.63172039858032,52.41907839851606],[6.61990987259782,52.41587621734884],[6.60839877928541,52.41466604513113],[6.60628908385436,52.41449649690986],[6.60595043411566,52.41490165187349],[6.60054037744231,52.41396680011152],[6.60140629757995,52.41172347281506],[6.60143120467925,52.41166029879093],[6.59741300016622,52.41060204249595],[6.59573540501049,52.413381414659],[6.59486345002476,52.41315829715582],[6.59483009772127,52.41328279015033],[6.58811712532904,52.42639651241034],[6.58494385347098,52.43165059348954],[6.58884953094889,52.43220115927281],[6.58908603082765,52.43170440228528],[6.61987912220854,52.43952775345038],[6.61987448962424,52.43661473423341],[6.62134085665673,52.43667390087036],[6.62127825825,52.43601138123519],[6.62902585617246,52.43811262286075]]]],"type":"MultiPolygon"}
+}

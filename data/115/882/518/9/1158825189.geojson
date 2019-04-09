@@ -1,0 +1,80 @@
+{
+  "id": 1158825189,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05010004",
+    "cbsnl:BU_NAAM":"Noord Meeuwenoord",
+    "cbsnl:GM_CODE":"GM0501",
+    "cbsnl:GM_NAAM":"Brielle",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"534",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000107,
+    "geom:area_square_m":816745.020714,
+    "geom:bbox":"4.16539619634,51.905137605,4.18718237884,51.9185859907",
+    "geom:latitude":51.910388,
+    "geom:longitude":4.172754,
+    "iso:country":"NL",
+    "lbl:latitude":51.91094,
+    "lbl:longitude":4.170196,
+    "mps:latitude":51.91094,
+    "mps:longitude":4.170196,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Noord Meeuwenoord"
+    ],
+    "name:nld_x_preferred":[
+        "Noord Meeuwenoord"
+    ],
+    "reversegeo:latitude":51.91094,
+    "reversegeo:longitude":4.170196,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474161,
+        85633337,
+        101754623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"4d580d152d1c3c0dea6ed33df5813f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474161,
+            "locality_id":101754623,
+            "neighbourhood_id":1158825189,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825189,
+    "wof:lastmodified":1513587974,
+    "wof:name":"Noord Meeuwenoord",
+    "wof:parent_id":101754623,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.165396196342163,
+    51.90513760503296,
+    4.187182378838125,
+    51.91858599073038
+],
+  "geometry": {"coordinates":[[[[4.17271227993745,51.91855008170369],[4.1727960743514,51.91710827432691],[4.17324229428217,51.91500128091685],[4.1738631677874,51.91294721789831],[4.17471986058708,51.91128773343504],[4.17680363601455,51.90967319386961],[4.17878640385174,51.90890452422332],[4.18219817456709,51.90735185627494],[4.18690703157735,51.905261763967],[4.18718237883813,51.90513760503296],[4.18688973688166,51.90515259423046],[4.18286248610215,51.90552600926549],[4.17587153294574,51.90603647452436],[4.17285188786433,51.90622469711688],[4.17274578827778,51.90599971540077],[4.17064393590849,51.90644540822149],[4.16739112274329,51.9077808437462],[4.1654290573389,51.90920687095463],[4.16539619634216,51.90970992139847],[4.16609674450847,51.91246591375516],[4.16748584709227,51.91470515120456],[4.16840219187454,51.91622848397004],[4.17144939869924,51.91793118088383],[4.17238534858884,51.91858599073038],[4.17245454919585,51.91857788586631],[4.17260019054519,51.91856193464009],[4.17271227993745,51.91855008170369]]]],"type":"MultiPolygon"}
+}

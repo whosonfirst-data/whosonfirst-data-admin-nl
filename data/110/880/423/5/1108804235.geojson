@@ -1,0 +1,83 @@
+{
+  "id": 1108804235,
+  "type": "Feature",
+  "properties": {
+    "amsgis:_categories":"buurt",
+    "amsgis:_id":"buurt.03630000000603",
+    "amsgis:categorie":"90",
+    "amsgis:code":"51c",
+    "amsgis:display":"Haveneiland Noord",
+    "amsgis:externe_id":"3630000000603",
+    "amsgis:naam":"Haveneiland Noord",
+    "amsgis:online_tijdsaspect":"1",
+    "amsgis:titel":"Haveneiland Noord",
+    "amsgis:titel_key":"haveneiland_noord_4",
+    "amsgis:type":"Buurtgrenzen",
+    "amsgis:type_2":"gebieden/buurt",
+    "amsgis:uri":"https://api.datapunt.amsterdam.nl/gebieden/buurt/03630000000603/",
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-10-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000019,
+    "geom:area_square_m":146913.042719,
+    "geom:bbox":"5.00074352225,52.350841986,5.00997347006,52.3548448137",
+    "geom:latitude":52.352805,
+    "geom:longitude":5.005223,
+    "iso:country":"NL",
+    "lbl:latitude":52.352713,
+    "lbl:longitude":5.004069,
+    "mps:latitude":52.352713,
+    "mps:longitude":5.004069,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "reversegeo:latitude":52.352713,
+    "reversegeo:longitude":5.004069,
+    "src:geom":"amsgis",
+    "wof:belongsto":[
+        1108802837,
+        102191581,
+        85633337,
+        101751893,
+        1108802289,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"NL",
+    "wof:geomhash":"3792f09bfab4ae6055c4a7b5960e8f79",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108802289,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108804235,
+            "neighbourhood_id":1108802837,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1108804235,
+    "wof:lastmodified":1513269526,
+    "wof:name":"Haveneiland Noord",
+    "wof:parent_id":1108802837,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158844323
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.00074352224565,
+    52.35084198602145,
+    5.00997347005998,
+    52.35484481371444
+],
+  "geometry": {"coordinates":[[[5.00656888451204,52.35484481371444],[5.00943191096934,52.35335173169441],[5.00997347005998,52.35273888800856],[5.00909820085921,52.3524829086556],[5.00795710088533,52.35214917083405],[5.00785431451809,52.35211910808678],[5.00676001333003,52.351799041068],[5.00528897251077,52.35136875999807],[5.00371085349273,52.35090712880859],[5.00359951001228,52.35087455746299],[5.00354383832601,52.35085827175979],[5.00348816668075,52.35084198602145],[5.00221107118472,52.35152129545825],[5.00183918016345,52.35171910426798],[5.00074352224565,52.3523018675487],[5.00388275563292,52.35450886391934],[5.00535187544462,52.35375641633016],[5.0065026772352,52.35478560482825],[5.00656888451204,52.35484481371444]]],"type":"Polygon"}
+}

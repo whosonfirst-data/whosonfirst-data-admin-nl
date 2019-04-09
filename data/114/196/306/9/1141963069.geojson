@@ -1,0 +1,82 @@
+{
+  "id": 1141963069,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02281204",
+    "cbsnl:BU_NAAM":"De States",
+    "cbsnl:GM_CODE":"GM0228",
+    "cbsnl:GM_NAAM":"Ede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"965",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022812",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":319865.747065,
+    "geom:bbox":"5.62791962823,52.0170270522,5.63910572775,52.0253264664",
+    "geom:latitude":52.021238,
+    "geom:longitude":5.633288,
+    "iso:country":"NL",
+    "lbl:latitude":52.01958,
+    "lbl:longitude":5.634687,
+    "mps:latitude":52.01958,
+    "mps:longitude":5.634687,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De States"
+    ],
+    "name:nld_x_preferred":[
+        "De States"
+    ],
+    "reversegeo:latitude":52.01958,
+    "reversegeo:longitude":5.634687,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158784015,
+        404473893,
+        85633337,
+        101751855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d40eedf1dab7858984d47e49a8c6b3e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473893,
+            "locality_id":101751855,
+            "macrohood_id":1158784015,
+            "neighbourhood_id":1141963069,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963069,
+    "wof:lastmodified":1513368721,
+    "wof:name":"De States",
+    "wof:parent_id":1158784015,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.627919628229638,
+    52.017027052222794,
+    5.639105727753684,
+    52.02532646644633
+],
+  "geometry": {"coordinates":[[[[5.63171854906325,52.02532646644633],[5.63195049249186,52.02531560254405],[5.63198322029684,52.02341883695149],[5.63505822203376,52.02362511149875],[5.63548713856912,52.02326082699065],[5.63437319469236,52.02182736004973],[5.63910572775368,52.02051444954836],[5.63647372211263,52.01702705222279],[5.63442109171324,52.01747745631864],[5.6314379696783,52.01844874144832],[5.63208169736576,52.01916188768096],[5.63232848871044,52.01960457972694],[5.63236080715808,52.02005574489289],[5.63249177040376,52.02046868463523],[5.63295614858659,52.02079002178176],[5.62973873836447,52.02190175710618],[5.62847275982158,52.02237400798364],[5.62799723139756,52.02275254950604],[5.62791962822964,52.02511421007941],[5.6295201796494,52.02522477690177],[5.63088819109683,52.0252726174879],[5.63171854906325,52.02532646644633]]]],"type":"MultiPolygon"}
+}

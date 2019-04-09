@@ -1,0 +1,82 @@
+{
+  "id": 1141962159,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02020339",
+    "cbsnl:BU_NAAM":"Nieuwe Kadekwartier",
+    "cbsnl:GM_CODE":"GM0202",
+    "cbsnl:GM_NAAM":"Arnhem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2267",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK020203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":314346.721434,
+    "geom:bbox":"5.91134345367,51.970279461,5.92308884582,51.9764812565",
+    "geom:latitude":51.97361,
+    "geom:longitude":5.91809,
+    "iso:country":"NL",
+    "lbl:latitude":51.97339,
+    "lbl:longitude":5.919158,
+    "mps:latitude":51.97339,
+    "mps:longitude":5.919158,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Nieuwe Kadekwartier"
+    ],
+    "name:nld_x_preferred":[
+        "Nieuwe Kadekwartier"
+    ],
+    "reversegeo:latitude":51.97339,
+    "reversegeo:longitude":5.919158,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158783961,
+        404473871,
+        85633337,
+        101751857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6f9347bd95a449382af7a47095b398dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473871,
+            "locality_id":101751857,
+            "macrohood_id":1158783961,
+            "neighbourhood_id":1141962159,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962159,
+    "wof:lastmodified":1513368653,
+    "wof:name":"Nieuwe Kadekwartier",
+    "wof:parent_id":1158783961,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.911343453672424,
+    51.97027946101576,
+    5.923088845824806,
+    51.976481256509366
+],
+  "geometry": {"coordinates":[[[[5.9213754130455,51.97613087192869],[5.92184064418806,51.97487717101916],[5.92232697646467,51.97423157792844],[5.92308884582481,51.97169311043552],[5.92242939590747,51.97027946101576],[5.91977554079251,51.97085711244081],[5.91709713016294,51.97161102262698],[5.91394528771812,51.97326367045913],[5.91134345367242,51.97466282794469],[5.91189141746061,51.9751111498344],[5.91242874256562,51.97563187275603],[5.91323628236532,51.97648125650937],[5.91724673633295,51.97518240819284],[5.91760418982307,51.97562571958396],[5.91816967155817,51.97544519836693],[5.91927255500698,51.97578536596699],[5.91951537219068,51.97588763301867],[5.9213754130455,51.97613087192869]]]],"type":"MultiPolygon"}
+}

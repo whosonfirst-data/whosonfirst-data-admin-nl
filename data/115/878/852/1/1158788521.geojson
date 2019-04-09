@@ -1,0 +1,78 @@
+{
+  "id": 1158788521,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03530018",
+    "cbsnl:BU_NAAM":"De Tuinen",
+    "cbsnl:GM_CODE":"GM0353",
+    "cbsnl:GM_NAAM":"IJsselstein",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1969",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK035300",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":209684.978629,
+    "geom:bbox":"5.04285179857,52.0098743226,5.05205330388,52.0147248628",
+    "geom:latitude":52.012493,
+    "geom:longitude":5.047119,
+    "iso:country":"NL",
+    "lbl:latitude":52.012675,
+    "lbl:longitude":5.04703,
+    "mps:latitude":52.012675,
+    "mps:longitude":5.04703,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Tuinen"
+    ],
+    "name:nld_x_preferred":[
+        "De Tuinen"
+    ],
+    "reversegeo:latitude":52.012675,
+    "reversegeo:longitude":5.04703,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        101754605,
+        85633337,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c86d23d9600490e220fdfcee63eef2ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754605,
+            "neighbourhood_id":1158788521,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788521,
+    "wof:lastmodified":1513622017,
+    "wof:name":"De Tuinen",
+    "wof:parent_id":101754605,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.042851798571688,
+    52.00987432260513,
+    5.052053303876577,
+    52.01472486275049
+],
+  "geometry": {"coordinates":[[[[5.04915295276669,52.01472486275049],[5.04918870738983,52.01469210284236],[5.04923518276258,52.01456555829154],[5.04948748108437,52.01436938499441],[5.05017438204101,52.01397755869075],[5.05063311195309,52.01359911939569],[5.05106928609896,52.01319252580389],[5.05159849175009,52.01251879686429],[5.05196721021086,52.01199937262678],[5.05205330387658,52.01177800296007],[5.04285179857169,52.00987432260513],[5.04446205391659,52.01447508227645],[5.04452812906082,52.01446600604648],[5.04915295276669,52.01472486275049]]]],"type":"MultiPolygon"}
+}

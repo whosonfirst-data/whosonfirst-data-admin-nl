@@ -1,0 +1,80 @@
+{
+  "id": 1158797725,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07850915",
+    "cbsnl:BU_NAAM":"Bomen",
+    "cbsnl:GM_CODE":"GM0785",
+    "cbsnl:GM_NAAM":"Goirle",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1469",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK078509",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:area_square_m":159170.062249,
+    "geom:bbox":"5.04543003612,51.5218619706,5.05486462479,51.5252414842",
+    "geom:latitude":51.523729,
+    "geom:longitude":5.050017,
+    "iso:country":"NL",
+    "lbl:latitude":51.523831,
+    "lbl:longitude":5.049927,
+    "mps:latitude":51.523831,
+    "mps:longitude":5.049927,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bomen"
+    ],
+    "name:nld_x_preferred":[
+        "Bomen"
+    ],
+    "reversegeo:latitude":51.523831,
+    "reversegeo:longitude":5.049927,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474383,
+        85633337,
+        101754577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7d23438d44749e06e39bb5869e74c2fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474383,
+            "locality_id":101754577,
+            "neighbourhood_id":1158797725,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797725,
+    "wof:lastmodified":1513432615,
+    "wof:name":"Bomen",
+    "wof:parent_id":101754577,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.045430036117187,
+    51.52186197059781,
+    5.054864624790934,
+    51.52524148415551
+],
+  "geometry": {"coordinates":[[[[5.05486462479093,51.52347696804994],[5.05468671240004,51.5233649751306],[5.05439743386772,51.52320561851676],[5.05123394612678,51.52186197059781],[5.05030662098899,51.5224063887814],[5.04990745247949,51.52255207661592],[5.04818806102611,51.52260358630118],[5.04775328017863,51.52267009930267],[5.04543003611719,51.52270556557283],[5.04580914473297,51.52313037390834],[5.04603684114794,51.52413636076145],[5.04607707187704,51.52480292680793],[5.04620739992743,51.52491909086751],[5.0464784056451,51.52497635687323],[5.04696647571763,51.52504555389481],[5.04746647463358,51.5251133894928],[5.04834151412629,51.52524148415551],[5.04876336866647,51.52523055395416],[5.05117248853552,51.52499449674171],[5.05254247148544,51.52488097247292],[5.05351735245476,51.52466910134768],[5.05427474864477,51.52402728478519],[5.05486462479093,51.52347696804994]]]],"type":"MultiPolygon"}
+}

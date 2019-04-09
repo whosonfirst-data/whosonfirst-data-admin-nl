@@ -1,0 +1,123 @@
+{
+  "id": 85798211,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06290001",
+    "cbsnl:BU_NAAM":"Oud-Wassenaar",
+    "cbsnl:GM_CODE":"GM0629",
+    "cbsnl:GM_NAAM":"Wassenaar",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"355",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK062900",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000167,
+    "geom:area_square_m":1267596.464089,
+    "geom:bbox":"4.36362367796,52.1145011662,4.38857760963,52.1294789421",
+    "geom:latitude":52.122079,
+    "geom:longitude":4.376048,
+    "gn:id":"",
+    "iso:country":"NL",
+    "lbl:latitude":52.121968,
+    "lbl:longitude":4.375076,
+    "mps:latitude":52.121789,
+    "mps:longitude":4.376048,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Oud-Wassenaar"
+    ],
+    "name:nld_x_preferred":[
+        "Oud-Wassenaar"
+    ],
+    "name:unk_x_variant":[
+        "Oud Wassenaar"
+    ],
+    "qs:gn_adm0_cc":"NL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2744991,
+    "qs:gn_nam_loc":"Wassenaar, Wassenaar, Zuid-Holland, NL",
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Wassenaar",
+    "qs:local_max":767,
+    "qs:local_sum":2836,
+    "qs:localhoods":8,
+    "qs:name":"Oud Wassenaar",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Zuid-Holland",
+    "qs:name_adm2":"Wassenaar",
+    "qs:name_local":"Wassenaar",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346383,
+    "qs:woe_adm2":12592468,
+    "qs:woe_lau":0,
+    "qs:woe_local":734528,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":52.121789,
+    "reversegeo:longitude":4.376048,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831321,
+        85633337,
+        101754719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":732488,
+        "qs:id":962710,
+        "qs_pg:id":962710
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"db070f2008b287b70538dc0d4ef397b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754719,
+            "macrohood_id":1158831321,
+            "neighbourhood_id":85798211,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":85798211,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527269466,
+    "wof:name":"Oud-Wassenaar",
+    "wof:parent_id":1158831321,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3636236779642,
+    52.11450116623562,
+    4.38857760962694,
+    52.12947894210404
+],
+  "geometry": {"coordinates":[[[[4.38857760962694,52.12529133674295],[4.38474139276997,52.12274366955194],[4.37233381561473,52.11450116623562],[4.37100679242477,52.11498747925914],[4.36931195322491,52.11601104215396],[4.3636236779642,52.11995554316061],[4.36497543960746,52.12070152805719],[4.37071092835102,52.12405189182076],[4.37360450821673,52.12540711151596],[4.37631292712419,52.12673904341361],[4.37854762967617,52.12817303718736],[4.38105030750861,52.12947894210404],[4.38117341163396,52.12941875667959],[4.38204986393487,52.1287582688029],[4.38377043089519,52.12811141929976],[4.38593886898585,52.12700262970341],[4.38857760962694,52.12529133674295]]]],"type":"MultiPolygon"}
+}

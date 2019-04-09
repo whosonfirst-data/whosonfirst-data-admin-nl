@@ -1,0 +1,78 @@
+{
+  "id": 1158826469,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05470200",
+    "cbsnl:BU_NAAM":"Buitenhof-Oost-Zuid",
+    "cbsnl:GM_CODE":"GM0547",
+    "cbsnl:GM_NAAM":"Leiderdorp",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2747",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK054702",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":221213.719243,
+    "geom:bbox":"4.52512007779,52.1633665352,4.53822526118,52.1688316851",
+    "geom:latitude":52.166158,
+    "geom:longitude":4.531574,
+    "iso:country":"NL",
+    "lbl:latitude":52.16604,
+    "lbl:longitude":4.532219,
+    "mps:latitude":52.16604,
+    "mps:longitude":4.532219,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Buitenhof-Oost-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Buitenhof-Oost-Zuid"
+    ],
+    "reversegeo:latitude":52.16604,
+    "reversegeo:longitude":4.532219,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        101754677,
+        85633337,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"71b482b608a7814c01036eaadc728773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754677,
+            "neighbourhood_id":1158826469,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826469,
+    "wof:lastmodified":1513588067,
+    "wof:name":"Buitenhof-Oost-Zuid",
+    "wof:parent_id":101754677,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.525120077794818,
+    52.16336653522261,
+    4.53822526117811,
+    52.16883168508778
+],
+  "geometry": {"coordinates":[[[[4.53649679392293,52.16858141816709],[4.53650730342576,52.16857531554741],[4.5379576594278,52.16775883550387],[4.53822526117811,52.16755290582044],[4.53255860057548,52.16458629321284],[4.53250059390933,52.16455637838865],[4.53152439129463,52.16475238418929],[4.52940569964239,52.16339773632844],[4.52932522465341,52.16336653522261],[4.52742920349167,52.16467317949471],[4.52512007779482,52.16626505793405],[4.52607677107611,52.16679320616028],[4.53019916866594,52.16693424796607],[4.53487140402398,52.16810401259144],[4.53605220902511,52.16883168508778],[4.53646020101149,52.16860194098185],[4.53649679392293,52.16858141816709]]]],"type":"MultiPolygon"}
+}

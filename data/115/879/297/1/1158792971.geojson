@@ -1,0 +1,80 @@
+{
+  "id": 1158792971,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00220201",
+    "cbsnl:BU_NAAM":"Sint Maheerdt",
+    "cbsnl:GM_CODE":"GM0022",
+    "cbsnl:GM_NAAM":"Leek",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"959",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK002202",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":655880.462331,
+    "geom:bbox":"6.35720504042,53.1549400827,6.36916750619,53.1662635772",
+    "geom:latitude":53.16073,
+    "geom:longitude":6.363075,
+    "iso:country":"NL",
+    "lbl:latitude":53.160974,
+    "lbl:longitude":6.362958,
+    "mps:latitude":53.160974,
+    "mps:longitude":6.362958,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Sint Maheerdt"
+    ],
+    "name:nld_x_preferred":[
+        "Sint Maheerdt"
+    ],
+    "reversegeo:latitude":53.160974,
+    "reversegeo:longitude":6.362958,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473721,
+        85633337,
+        101837989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"88c5cd216705b958101fe685affd59ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473721,
+            "locality_id":101837989,
+            "neighbourhood_id":1158792971,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158792971,
+    "wof:lastmodified":1513382278,
+    "wof:name":"Sint Maheerdt",
+    "wof:parent_id":101837989,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.35720504041798,
+    53.154940082668965,
+    6.369167506186671,
+    53.1662635771821
+],
+  "geometry": {"coordinates":[[[[6.35720504041798,53.16382198209802],[6.35825304603522,53.16415160618396],[6.35910186827419,53.16439185012653],[6.36195419455607,53.16575426425272],[6.36596409305567,53.1662635771821],[6.36658559346544,53.16480382769275],[6.36657065853067,53.16453994694197],[6.36916750618667,53.15759176866409],[6.36491765538573,53.15673766270539],[6.36521175166919,53.15579619459901],[6.36054028514268,53.15494008266896],[6.36042354931327,53.15506740154605],[6.36042174774139,53.15513543871084],[6.35819368572565,53.16064411167032],[6.35748902158475,53.16214225370561],[6.3574588722419,53.16298075717076],[6.35720504041798,53.16382198209802]]]],"type":"MultiPolygon"}
+}

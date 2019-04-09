@@ -1,0 +1,80 @@
+{
+  "id": 1158827311,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06220204",
+    "cbsnl:BU_NAAM":"Lage welde",
+    "cbsnl:GM_CODE":"GM0622",
+    "cbsnl:GM_NAAM":"Vlaardingen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1863",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK062202",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":350758.851086,
+    "geom:bbox":"4.30936795077,51.9115272301,4.31798303555,51.9189745689",
+    "geom:latitude":51.91531,
+    "geom:longitude":4.313649,
+    "iso:country":"NL",
+    "lbl:latitude":51.915331,
+    "lbl:longitude":4.313649,
+    "mps:latitude":51.915331,
+    "mps:longitude":4.313649,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Lage welde"
+    ],
+    "name:nld_x_preferred":[
+        "Lage welde"
+    ],
+    "reversegeo:latitude":51.915331,
+    "reversegeo:longitude":4.313649,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829615,
+        85633337,
+        101751851,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d6f3d1f286607c90be9f6e4752a4d115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751851,
+            "macrohood_id":1158829615,
+            "neighbourhood_id":1158827311,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827311,
+    "wof:lastmodified":1513588140,
+    "wof:name":"Lage welde",
+    "wof:parent_id":1158829615,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.309367950774472,
+    51.9115272301098,
+    4.317983035545129,
+    51.91897456887934
+],
+  "geometry": {"coordinates":[[[[4.31798303554513,51.91826318386169],[4.31727881966655,51.9158106626351],[4.3166081484373,51.91397446389808],[4.31604410206828,51.91194990404546],[4.31600290694706,51.91153912790184],[4.31602283463117,51.9115272301098],[4.31532087974753,51.9116362819324],[4.31446591909796,51.91174730386386],[4.31333569608602,51.91187321960032],[4.31248031919384,51.9120013579591],[4.31206677542842,51.91204841849832],[4.31135090086949,51.91209299278463],[4.31071623064874,51.91218914755694],[4.30936795077447,51.91225403878328],[4.30963590795202,51.91321662883561],[4.31085197774361,51.91783460462086],[4.31103636636865,51.91865681394946],[4.31195708097907,51.91857057661948],[4.31221210034548,51.9185729094123],[4.31248493644918,51.91897456887934],[4.31798303554513,51.91826318386169]]]],"type":"MultiPolygon"}
+}

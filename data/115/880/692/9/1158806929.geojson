@@ -1,0 +1,80 @@
+{
+  "id": 1158806929,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09834302",
+    "cbsnl:BU_NAAM":"Spikweinen",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"117",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098343",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":243369.002019,
+    "geom:bbox":"6.17374041549,51.4437427711,6.18144637396,51.4497688795",
+    "geom:latitude":51.446789,
+    "geom:longitude":6.177665,
+    "iso:country":"NL",
+    "lbl:latitude":51.446786,
+    "lbl:longitude":6.177591,
+    "mps:latitude":51.446786,
+    "mps:longitude":6.177591,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Spikweinen"
+    ],
+    "name:nld_x_preferred":[
+        "Spikweinen"
+    ],
+    "reversegeo:latitude":51.446786,
+    "reversegeo:longitude":6.177591,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474525,
+        85633337,
+        101809499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"730431d7623e279ff61efe351872da85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101809499,
+            "neighbourhood_id":1158806929,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806929,
+    "wof:lastmodified":1513404065,
+    "wof:name":"Spikweinen",
+    "wof:parent_id":101809499,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.173740415489889,
+    51.44374277114124,
+    6.181446373956983,
+    51.44976887954712
+],
+  "geometry": {"coordinates":[[[[6.17738758071652,51.44976887954712],[6.17862271548246,51.4491519482203],[6.18144637395698,51.44863745984238],[6.18061656887749,51.44724890896539],[6.18115187940913,51.44676345256634],[6.18072321428252,51.44618657649229],[6.18100980754253,51.44571000465533],[6.18033932557933,51.44429789320197],[6.18006021417675,51.44388180207479],[6.17975140503864,51.44374277114124],[6.1783321319079,51.44418388031827],[6.17432964251758,51.4450586255064],[6.17466024026361,51.44587619412888],[6.1739565860969,51.44594656229816],[6.17390669035373,51.44613926438155],[6.17374041548989,51.44617364526005],[6.1743079141552,51.44862921644645],[6.17482789228891,51.44858345800424],[6.17738758071652,51.44976887954712]]]],"type":"MultiPolygon"}
+}

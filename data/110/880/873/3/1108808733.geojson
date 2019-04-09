@@ -1,0 +1,73 @@
+{
+  "id": 1108808733,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03440932",
+    "cbsnl:BU_NAAM":"Grauwaart",
+    "cbsnl:GM_CODE":"GM0344",
+    "cbsnl:GM_NAAM":"Utrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1404",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK034409",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":290256.165567,
+    "geom:bbox":"5.05625823235,52.0919950406,5.06568338059,52.0997086656",
+    "geom:latitude":52.096004,
+    "geom:longitude":5.060473,
+    "iso:country":"NL",
+    "lbl:latitude":52.096468,
+    "lbl:longitude":5.060152,
+    "mps:latitude":52.096468,
+    "mps:longitude":5.060152,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "reversegeo:latitude":52.096468,
+    "reversegeo:longitude":5.060152,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        85633337,
+        101751827,
+        1108808661,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"e17912854a2a610d8e98b28829e02230",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108808661,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808733,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1108808733,
+    "wof:lastmodified":1507246057,
+    "wof:name":"Grauwaart",
+    "wof:parent_id":1108808661,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.0562582323465,
+    52.09199504058626,
+    5.06568338058593,
+    52.09970866556018
+],
+  "geometry": {"coordinates":[[[5.06088140727474,52.09935848638521],[5.06101113415098,52.09874857295939],[5.06204839569537,52.09752933827328],[5.06568338058593,52.09289297273948],[5.0626896266575,52.09199504058626],[5.06129601997078,52.09293560148608],[5.06049182304382,52.09347483592611],[5.05878635083129,52.09373148890287],[5.05936930254046,52.09443140469808],[5.05749824087891,52.09570413964801],[5.05628649278647,52.09652835828818],[5.05680642690463,52.09678372082536],[5.0566762925231,52.09680394793173],[5.05650886793233,52.09684236081488],[5.0563670927463,52.0969288870004],[5.05632752403464,52.09700654940713],[5.0562582323465,52.09970866556018],[5.05655708305598,52.09968324081863],[5.05805556712993,52.09955574890962],[5.06088140727474,52.09935848638521]]],"type":"Polygon"}
+}

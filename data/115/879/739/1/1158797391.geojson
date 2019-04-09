@@ -1,0 +1,88 @@
+{
+  "id": 1158797391,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07721423",
+    "cbsnl:BU_NAAM":"Barrier",
+    "cbsnl:GM_CODE":"GM0772",
+    "cbsnl:GM_NAAM":"Eindhoven",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2672",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK077214",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":256559.881549,
+    "geom:bbox":"5.45431866729,51.4568657192,5.46379639338,51.4640790419",
+    "geom:latitude":51.460772,
+    "geom:longitude":5.459139,
+    "iso:country":"NL",
+    "lbl:latitude":51.460745,
+    "lbl:longitude":5.45921,
+    "mps:latitude":51.460745,
+    "mps:longitude":5.45921,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Barrier"
+    ],
+    "name:eng_x_preferred":[
+        "Barrier"
+    ],
+    "name:fre_x_preferred":[
+        "Barrier"
+    ],
+    "name:nld_x_preferred":[
+        "Barrier"
+    ],
+    "reversegeo:latitude":51.460745,
+    "reversegeo:longitude":5.45921,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801473,
+        85633337,
+        101751819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q4489962"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"c0538a65896c072ac66adeb3893c97c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751819,
+            "macrohood_id":1158801473,
+            "neighbourhood_id":1158797391,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797391,
+    "wof:lastmodified":1514491923,
+    "wof:name":"Barrier",
+    "wof:parent_id":1158801473,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.45431866728526,
+    51.45686571917394,
+    5.46379639338216,
+    51.46407904187619
+],
+  "geometry": {"coordinates":[[[[5.45957925504563,51.46407904187619],[5.45999610747368,51.46368110380187],[5.46002996174512,51.4636487845534],[5.46018805965369,51.46350313051712],[5.46156880153679,51.46223101129804],[5.46206268465317,51.46181890263784],[5.46306967372914,51.46101315403426],[5.4632581004603,51.46085632414628],[5.46379639338216,51.46040828914996],[5.46288474745205,51.45997100040062],[5.46250016108395,51.45962167865687],[5.46182605368492,51.45900936569851],[5.46069168509493,51.45797894141467],[5.45987251442884,51.45723479450189],[5.45946624056971,51.45686571917394],[5.45913061492125,51.45720408070716],[5.45833950930836,51.45800066636963],[5.45786897285498,51.45847589795716],[5.45769370496247,51.45865291210998],[5.45737929029835,51.4589704524085],[5.45616975350754,51.46019521570948],[5.45431866728526,51.46204247833584],[5.45485295336249,51.46224476079295],[5.45526928473333,51.46240238265718],[5.45919982815844,51.46393144801979],[5.45957925504563,51.46407904187619]]]],"type":"MultiPolygon"}
+}

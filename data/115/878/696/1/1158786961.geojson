@@ -1,0 +1,82 @@
+{
+  "id": 1158786961,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03030432",
+    "cbsnl:BU_NAAM":"De Lancaster",
+    "cbsnl:GM_CODE":"GM0303",
+    "cbsnl:GM_NAAM":"Dronten",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1411",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK030304",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000022,
+    "geom:area_square_m":167509.486695,
+    "geom:bbox":"5.71669239539,52.5117224448,5.72385558836,52.516295317",
+    "geom:latitude":52.514188,
+    "geom:longitude":5.720312,
+    "iso:country":"NL",
+    "lbl:latitude":52.514074,
+    "lbl:longitude":5.720312,
+    "mps:latitude":52.514074,
+    "mps:longitude":5.720312,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Lancaster"
+    ],
+    "name:nld_x_preferred":[
+        "De Lancaster"
+    ],
+    "reversegeo:latitude":52.514074,
+    "reversegeo:longitude":5.720312,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        1158787425,
+        404473965,
+        85633337,
+        101803709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6730b22e812911ec4f84f7e8eba09dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473965,
+            "locality_id":101803709,
+            "macrohood_id":1158787425,
+            "neighbourhood_id":1158786961,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158786961,
+    "wof:lastmodified":1513299281,
+    "wof:name":"De Lancaster",
+    "wof:parent_id":1158787425,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.71669239539282,
+    52.511722444819235,
+    5.723855588359239,
+    52.51629531695403
+],
+  "geometry": {"coordinates":[[[[5.72385558835924,52.51555678060042],[5.72381324119289,52.5146387092904],[5.72175819195632,52.51172244481923],[5.71669239539282,52.51303805912963],[5.71691170892864,52.51332895062617],[5.71707594591263,52.51369558276021],[5.71713471675333,52.51382678749227],[5.71719951088277,52.51397142026126],[5.71751026080637,52.51521456714583],[5.71759828180062,52.51559224006713],[5.71762940817382,52.51572581334625],[5.71776214685675,52.51629531695403],[5.71832492655258,52.51625372775531],[5.71856064933329,52.51620598827771],[5.71957525657959,52.51610994998104],[5.71971851877255,52.51610330207049],[5.72068504582566,52.5160162414953],[5.721829945964,52.51589851742003],[5.72205075083998,52.51590356497984],[5.72223665474966,52.51587782712954],[5.72244797979301,52.5158327006708],[5.7227510173429,52.51579232256661],[5.72313756313965,52.51568756800939],[5.72348530851004,52.51560253269863],[5.72385558835924,52.51555678060042]]]],"type":"MultiPolygon"}
+}

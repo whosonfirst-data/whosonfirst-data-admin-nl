@@ -1,0 +1,80 @@
+{
+  "id": 1141962691,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02140600",
+    "cbsnl:BU_NAAM":"Ravenswaaij",
+    "cbsnl:GM_CODE":"GM0214",
+    "cbsnl:GM_NAAM":"Buren",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"44",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK021406",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":183719.041631,
+    "geom:bbox":"5.32547541557,51.9500233581,5.33753326867,51.9535148431",
+    "geom:latitude":51.952105,
+    "geom:longitude":5.331248,
+    "iso:country":"NL",
+    "lbl:latitude":51.952054,
+    "lbl:longitude":5.32965,
+    "mps:latitude":51.952054,
+    "mps:longitude":5.32965,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ravenswaaij"
+    ],
+    "name:nld_x_preferred":[
+        "Ravenswaaij"
+    ],
+    "reversegeo:latitude":51.952054,
+    "reversegeo:longitude":5.32965,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473879,
+        85633337,
+        1158783519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"db8fc567ad867d281f00ac54027456e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473879,
+            "locality_id":1158783519,
+            "neighbourhood_id":1141962691,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962691,
+    "wof:lastmodified":1513368693,
+    "wof:name":"Ravenswaaij",
+    "wof:parent_id":1158783519,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.325475415565458,
+    51.95002335809891,
+    5.337533268671258,
+    51.953514843117404
+],
+  "geometry": {"coordinates":[[[[5.32943721139838,51.95002335809891],[5.32738004673749,51.95144696427239],[5.32547541556546,51.95176787397703],[5.32650164229201,51.95343291018484],[5.33302441927571,51.95335238573973],[5.33450232482188,51.9535148431174],[5.33753326867126,51.95148678700408],[5.33506173415965,51.95034140963863],[5.33260560568541,51.95215338993254],[5.32943721139838,51.95002335809891]]]],"type":"MultiPolygon"}
+}

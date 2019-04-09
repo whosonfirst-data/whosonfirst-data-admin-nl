@@ -1,0 +1,93 @@
+{
+  "id": 1126099729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.14367,52.24901,6.14367,52.24901",
+    "geom:latitude":52.24901,
+    "geom:longitude":6.14367,
+    "gn:gn_country":"NL",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"NL",
+    "lbl:latitude":52.24901,
+    "lbl:longitude":6.14367,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NL",
+    "qs_pg:gn_country":"NL",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2757488,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"De Hoven",
+    "qs_pg:name_adm0":"Nederland",
+    "qs_pg:name_adm1":"Overijssel",
+    "qs_pg:photos":6311,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":28,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":6311,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1350651,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424909,
+    "qs_pg:woe_id":728403,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424909,
+    "woe:name_adm0":"Nederland",
+    "woe:name_adm1":"Overijssel",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        404473825,
+        85633337,
+        101751865,
+        85687045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2757488,
+        "gp:id":728403,
+        "qs_pg:id":1350651
+    },
+    "wof:country":"NL",
+    "wof:created":1497315843,
+    "wof:geomhash":"59e0b7d617117d748c91b8e56f3c2fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "neighbourhood_id":1126099729,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1126099729,
+    "wof:lastmodified":1511998875,
+    "wof:name":"De Hoven",
+    "wof:parent_id":101751865,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        85797335
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.14367,
+    52.24901,
+    6.14367,
+    52.24901
+],
+  "geometry": {"coordinates":[6.14367,52.24901],"type":"Point"}
+}

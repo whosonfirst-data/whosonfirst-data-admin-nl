@@ -1,0 +1,80 @@
+{
+  "id": 1158797707,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07850304",
+    "cbsnl:BU_NAAM":"De Leijzoom",
+    "cbsnl:GM_CODE":"GM0785",
+    "cbsnl:GM_NAAM":"Goirle",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"901",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK078503",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":52442.301735,
+    "geom:bbox":"5.07811155096,51.5234909403,5.08324229499,51.5270530638",
+    "geom:latitude":51.525201,
+    "geom:longitude":5.080455,
+    "iso:country":"NL",
+    "lbl:latitude":51.524933,
+    "lbl:longitude":5.080202,
+    "mps:latitude":51.524933,
+    "mps:longitude":5.080202,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Leijzoom"
+    ],
+    "name:nld_x_preferred":[
+        "De Leijzoom"
+    ],
+    "reversegeo:latitude":51.524933,
+    "reversegeo:longitude":5.080202,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474383,
+        85633337,
+        101754577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c6643abba500ddb4ddecae0f03528b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474383,
+            "locality_id":101754577,
+            "neighbourhood_id":1158797707,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797707,
+    "wof:lastmodified":1513432613,
+    "wof:name":"De Leijzoom",
+    "wof:parent_id":101754577,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.078111550958846,
+    51.52349094029114,
+    5.083242294986015,
+    51.52705306376811
+],
+  "geometry": {"coordinates":[[[[5.08324229498602,51.52628738031805],[5.08249175127841,51.52599645789855],[5.08186091467248,51.52560336351639],[5.08155537114227,51.52548290748928],[5.08141600517289,51.52537928122737],[5.0812385418016,51.52509117909435],[5.08100780198907,51.52466918554001],[5.08069154048592,51.52424393828866],[5.08042186944441,51.52396604651999],[5.07968460645802,51.5236992040324],[5.07949811249441,51.52363886636197],[5.07930596558126,51.52355803715191],[5.07917418692974,51.52349094029114],[5.07811155095885,51.52366989820028],[5.07881733215467,51.52486334366689],[5.07911042013494,51.52514026670246],[5.07984396533582,51.52571290730131],[5.08095925266457,51.52654428554337],[5.08140603272328,51.52705306376811],[5.08188025079533,51.52673688651862],[5.08212064432733,51.52670004041166],[5.08248652973719,51.52667033443172],[5.08282032287003,51.52654175826851],[5.08314350252058,51.52636887509502],[5.08324229498602,51.52628738031805]]]],"type":"MultiPolygon"}
+}

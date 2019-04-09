@@ -1,0 +1,78 @@
+{
+  "id": 101807501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-08-11",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:area_square_m":517912.318782,
+    "geom:bbox":"6.92100160263,53.0937622904,6.95549703432,53.0969747898",
+    "geom:latitude":53.095426,
+    "geom:longitude":6.938782,
+    "iso:country":"NL",
+    "lbl:latitude":53.095288,
+    "lbl:longitude":6.938782,
+    "mps:latitude":53.095288,
+    "mps:longitude":6.938782,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Nederland",
+    "qs:a1":"*Groningen",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la":"Veendam",
+    "qs:la_lc":"*NL200047",
+    "qs:level":"locality",
+    "qs:loc":"Zuidwending",
+    "qs:loc_alt":"Zuidwending",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404473737,
+        85633337,
+        85687059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743643,
+        "gp:id":735143,
+        "qs:id":179957,
+        "tgn:id":7274347
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"2bf1e56e7050d587b798695799d84f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473737,
+            "locality_id":101807501,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":101807501,
+    "wof:lastmodified":1513371488,
+    "wof:name":"Zuidwending",
+    "wof:parent_id":404473737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158793225
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.92100160262936,
+    53.09376229043488,
+    6.95549703432391,
+    53.09697478976244
+],
+  "geometry": {"coordinates":[[[6.93436196227429,53.09697478976244],[6.93442554114944,53.09607708874989],[6.95381602008877,53.09656856109149],[6.95387919481817,53.09567084831588],[6.95537075613015,53.09570852390277],[6.95549703432391,53.09391309626636],[6.94953105021096,53.09376229043488],[6.94946778935611,53.09466000072376],[6.92858671683382,53.09412984440615],[6.92852302103927,53.09502754201452],[6.92106545583761,53.09483732009807],[6.92100160262936,53.09573501309228],[6.92249314165622,53.09577309525798],[6.9224293160583,53.09667078905602],[6.93436196227429,53.09697478976244]]],"type":"Polygon"}
+}

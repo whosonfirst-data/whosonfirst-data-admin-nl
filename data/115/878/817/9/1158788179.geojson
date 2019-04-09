@@ -1,0 +1,80 @@
+{
+  "id": 1158788179,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03310004",
+    "cbsnl:BU_NAAM":"Jaarsveld",
+    "cbsnl:GM_CODE":"GM0331",
+    "cbsnl:GM_NAAM":"Lopik",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"77",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK033100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":308877.782176,
+    "geom:bbox":"4.97300390171,51.9659578841,4.98390808053,51.9727530212",
+    "geom:latitude":51.969588,
+    "geom:longitude":4.9786,
+    "iso:country":"NL",
+    "lbl:latitude":51.969629,
+    "lbl:longitude":4.978683,
+    "mps:latitude":51.969629,
+    "mps:longitude":4.978683,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Jaarsveld"
+    ],
+    "name:nld_x_preferred":[
+        "Jaarsveld"
+    ],
+    "reversegeo:latitude":51.969629,
+    "reversegeo:longitude":4.978683,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473993,
+        85633337,
+        101808449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"865c9b39d4106b9ab6ef4785aeb5c78f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473993,
+            "locality_id":101808449,
+            "neighbourhood_id":1158788179,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788179,
+    "wof:lastmodified":1513621987,
+    "wof:name":"Jaarsveld",
+    "wof:parent_id":101808449,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.97300390171275,
+    51.96595788414653,
+    4.983908080530564,
+    51.972753021185824
+],
+  "geometry": {"coordinates":[[[[4.97467097695369,51.96784289558586],[4.97300390171275,51.96856958448129],[4.9771446119399,51.97216592033958],[4.97780229346804,51.97249544180471],[4.97847421059709,51.97269889051212],[4.97926107162384,51.97275302118582],[4.9799132199932,51.97258000878521],[4.98061039166333,51.97240630735377],[4.98120462910894,51.97219881876442],[4.98216151083843,51.97179399283618],[4.98390808053056,51.97059370901257],[4.98233490304828,51.96907833167135],[4.98205558731624,51.96883198135568],[4.98158313706732,51.96845561381125],[4.98124195181192,51.96815164858959],[4.98083028886247,51.96777147026028],[4.97888803923671,51.96595788414653],[4.97467097695369,51.96784289558586]]]],"type":"MultiPolygon"}
+}

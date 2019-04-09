@@ -1,0 +1,81 @@
+{
+  "id": 1158803755,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17080608",
+    "cbsnl:BU_NAAM":"Verspreide huizen polder Gelderingen (IJsselham)",
+    "cbsnl:GM_CODE":"GM1708",
+    "cbsnl:GM_NAAM":"Steenwijkerland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"5",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170806",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000665,
+    "geom:area_square_m":4972577.350515,
+    "geom:bbox":"6.00404322348,52.7640521442,6.04869377951,52.7942172799",
+    "geom:latitude":52.781563,
+    "geom:longitude":6.030637,
+    "iso:country":"NL",
+    "lbl:latitude":52.781901,
+    "lbl:longitude":6.032836,
+    "mps:latitude":52.781901,
+    "mps:longitude":6.032836,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Verspreide huizen polder Gelderingen (IJsselham)"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen polder Gelderingen (IJsselham)"
+    ],
+    "reversegeo:latitude":52.781901,
+    "reversegeo:longitude":6.032836,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474621,
+        85633337,
+        1158805725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"650e9ca9e9bca0219e18237973724b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474621,
+            "locality_id":1158805725,
+            "neighbourhood_id":1158803755,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803755,
+    "wof:lastmodified":1513524360,
+    "wof:name":"Verspreide huizen polder Gelderingen (IJsselham)",
+    "wof:parent_id":1158805725,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:statistical_gore":1,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.004043223475505,
+    52.76405214415375,
+    6.048693779506272,
+    52.79421727985793
+],
+  "geometry": {"coordinates":[[[[6.00414740689887,52.79150770261248],[6.00404322347551,52.79157733004473],[6.00625894474841,52.79263303323029],[6.00555141145691,52.79421727985793],[6.00781939277967,52.79342418712909],[6.0102537775274,52.79301718069169],[6.01577705690981,52.79249501157417],[6.02633974612442,52.79174850847247],[6.03203107966839,52.79161954510592],[6.03879103444743,52.79210457102204],[6.04140768447448,52.79202900704053],[6.04422012215734,52.79158665094644],[6.04472182190377,52.79146143608872],[6.04419081037713,52.78963327559252],[6.0440774734743,52.78877957995194],[6.04413953463761,52.78621570981388],[6.04419357666326,52.78310255409006],[6.0443490286614,52.78005005897166],[6.04434055564035,52.77950077717164],[6.04560591639627,52.7766224511936],[6.04725790775815,52.77270677939055],[6.04832243888803,52.76989356312068],[6.0485220008535,52.7697700073394],[6.04869377950627,52.76960054717078],[6.04407020784664,52.76768157645879],[6.04185983055666,52.76696018377537],[6.03942066507528,52.76563899789709],[6.03686751790953,52.76405214415375],[6.02960553226213,52.77129629396225],[6.02264980690837,52.77707010275298],[6.00785845342217,52.78902264224074],[6.00414740689887,52.79150770261248]]]],"type":"MultiPolygon"}
+}

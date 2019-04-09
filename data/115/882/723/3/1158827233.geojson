@@ -1,0 +1,82 @@
+{
+  "id": 1158827233,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06130624",
+    "cbsnl:BU_NAAM":"Portland-Centrum",
+    "cbsnl:GM_CODE":"GM0613",
+    "cbsnl:GM_NAAM":"Albrandswaard",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"935",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK061306",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":218634.775958,
+    "geom:bbox":"4.46518410242,51.8542886952,4.47823624444,51.8591837952",
+    "geom:latitude":51.856883,
+    "geom:longitude":4.471905,
+    "iso:country":"NL",
+    "lbl:latitude":51.856651,
+    "lbl:longitude":4.471905,
+    "mps:latitude":51.856651,
+    "mps:longitude":4.471905,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Portland-Centrum"
+    ],
+    "name:nld_x_preferred":[
+        "Portland-Centrum"
+    ],
+    "reversegeo:latitude":51.856651,
+    "reversegeo:longitude":4.471905,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831149,
+        404474263,
+        85633337,
+        101754737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"17504f08b6b3f45b29bd518cdd4955d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474263,
+            "locality_id":101754737,
+            "macrohood_id":1158831149,
+            "neighbourhood_id":1158827233,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827233,
+    "wof:lastmodified":1513588131,
+    "wof:name":"Portland-Centrum",
+    "wof:parent_id":1158831149,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.465184102420675,
+    51.85428869518156,
+    4.478236244440785,
+    51.85918379516409
+],
+  "geometry": {"coordinates":[[[[4.46518410242068,51.85665930154073],[4.46660797485561,51.85687641410314],[4.46719678362794,51.85707583677971],[4.46758868573638,51.85724031864668],[4.46912288222402,51.85777552363768],[4.47225595635217,51.85876288622293],[4.47341526932066,51.85918379516409],[4.47495032248518,51.85790999601532],[4.4770048940031,51.85892780889937],[4.47823624444078,51.85800783342591],[4.47532137480254,51.85646159934062],[4.47122571482565,51.85428869518156],[4.46991360511411,51.85520240047064],[4.46869737486939,51.85537657082764],[4.46699954464667,51.85581968485507],[4.46518410242068,51.85665930154073]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1158798137,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07961110",
+    "cbsnl:BU_NAAM":"Veemarktkwartier",
+    "cbsnl:GM_CODE":"GM0796",
+    "cbsnl:GM_NAAM":"'s-Hertogenbosch",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"539",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK079611",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":542173.641898,
+    "geom:bbox":"5.2805039083,51.6973203359,5.29730586266,51.7073655825",
+    "geom:latitude":51.701996,
+    "geom:longitude":5.287294,
+    "iso:country":"NL",
+    "lbl:latitude":51.701943,
+    "lbl:longitude":5.287289,
+    "mps:latitude":51.701943,
+    "mps:longitude":5.287289,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Veemarktkwartier"
+    ],
+    "name:nld_x_preferred":[
+        "Veemarktkwartier"
+    ],
+    "reversegeo:latitude":51.701943,
+    "reversegeo:longitude":5.287289,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801689,
+        404474393,
+        85633337,
+        101751809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"215991d4f52d5031ee1dbf03825e7fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474393,
+            "locality_id":101751809,
+            "macrohood_id":1158801689,
+            "neighbourhood_id":1158798137,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798137,
+    "wof:lastmodified":1513432651,
+    "wof:name":"Veemarktkwartier",
+    "wof:parent_id":1158801689,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.280503908303688,
+    51.6973203359475,
+    5.297305862662081,
+    51.707365582460326
+],
+  "geometry": {"coordinates":[[[[5.28092083797993,51.70736558246033],[5.2868838218284,51.70515790173611],[5.2892693088859,51.70405796524392],[5.29078495413478,51.7030675656803],[5.2925732343759,51.70146635631348],[5.29355716409655,51.70058529571268],[5.29450273735384,51.69988114969049],[5.29571380719543,51.6992597910969],[5.29730586266208,51.69857998170306],[5.29700455177415,51.6980541591474],[5.29698127148564,51.69801354052731],[5.29538951668155,51.69867396489222],[5.2948045668489,51.69879719619953],[5.2939565553728,51.69880048028728],[5.29384478919233,51.69879127673874],[5.2936708473458,51.69875717077714],[5.29348634022476,51.69869759165532],[5.293339770288,51.69864055963863],[5.29294305076066,51.69846319510253],[5.29187507424885,51.69796683289733],[5.29044849167165,51.6973203359475],[5.290373775036,51.69735803705259],[5.28183397203096,51.70166594421526],[5.28113930541541,51.70352699572552],[5.28093847916746,51.70406498867725],[5.28050390830369,51.70522914250179],[5.28092083797993,51.70736558246033]]]],"type":"MultiPolygon"}
+}

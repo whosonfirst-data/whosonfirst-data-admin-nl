@@ -1,0 +1,93 @@
+{
+  "id": 1158806283,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09280001",
+    "cbsnl:BU_NAAM":"Heilust",
+    "cbsnl:GM_CODE":"GM0928",
+    "cbsnl:GM_NAAM":"Kerkrade",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1804",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK092800",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000086,
+    "geom:area_square_m":674770.741877,
+    "geom:bbox":"6.02342968517,50.8553567349,6.04348336881,50.8647313133",
+    "geom:latitude":50.860013,
+    "geom:longitude":6.031737,
+    "iso:country":"NL",
+    "lbl:latitude":50.861526,
+    "lbl:longitude":6.030749,
+    "mps:latitude":50.861526,
+    "mps:longitude":6.030749,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Heilust"
+    ],
+    "name:eng_x_preferred":[
+        "Heilust"
+    ],
+    "name:fre_x_preferred":[
+        "Heilust"
+    ],
+    "name:lim_x_preferred":[
+        "De Heilust"
+    ],
+    "name:nld_x_preferred":[
+        "Heilust"
+    ],
+    "reversegeo:latitude":50.861526,
+    "reversegeo:longitude":6.030749,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158818151,
+        404474489,
+        85633337,
+        101839255,
+        85687033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q13723573"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"be213a6cbcdb68750dcec2e8635c6bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":101839255,
+            "macrohood_id":1158818151,
+            "neighbourhood_id":1158806283,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806283,
+    "wof:lastmodified":1514492350,
+    "wof:name":"Heilust",
+    "wof:parent_id":1158818151,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.02342968516874,
+    50.85535673489655,
+    6.0434833688059,
+    50.86473131334476
+],
+  "geometry": {"coordinates":[[[[6.02342968516874,50.86323067438126],[6.02536275231993,50.86365261753713],[6.02636836821836,50.86384819205989],[6.02812546424086,50.86426825168992],[6.03031350065663,50.8646173496612],[6.03167425327932,50.86471679813388],[6.03184202064474,50.86473131334476],[6.0333648433699,50.86311630724572],[6.03368127403055,50.86238193371837],[6.03412654811397,50.86091058249642],[6.0347369060438,50.8590590798786],[6.03758549262321,50.85993749809641],[6.0390651010385,50.85860412858241],[6.04202135445578,50.85946581731606],[6.0434833688059,50.85749595640546],[6.04285213263569,50.85745459273418],[6.04053578773117,50.85724213667648],[6.03685786961714,50.85636480353595],[6.03387400077804,50.85563375733705],[6.03227383098503,50.85535673489655],[6.03135611888548,50.8575776432328],[6.03006962580793,50.8573935047696],[6.02894772428956,50.85893405042515],[6.02620774262208,50.85786885890737],[6.02549079442664,50.85840232965239],[6.02481958400425,50.85937403596386],[6.02418865471624,50.86079159808539],[6.02378107143352,50.86213769950081],[6.02342968516874,50.86323067438126]]]],"type":"MultiPolygon"}
+}

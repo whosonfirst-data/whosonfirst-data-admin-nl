@@ -1,0 +1,80 @@
+{
+  "id": 1158791185,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01191203",
+    "cbsnl:BU_NAAM":"Danninge Erve",
+    "cbsnl:GM_CODE":"GM0119",
+    "cbsnl:GM_NAAM":"Meppel",
+    "cbsnl:IND_WBI":"3",
+    "cbsnl:OAD":"359",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK011912",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:area_square_m":468526.694561,
+    "geom:bbox":"6.16808558224,52.7294045152,6.18109659681,52.7388517276",
+    "geom:latitude":52.734196,
+    "geom:longitude":6.174726,
+    "iso:country":"NL",
+    "lbl:latitude":52.734381,
+    "lbl:longitude":6.174824,
+    "mps:latitude":52.734381,
+    "mps:longitude":6.174824,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Danninge Erve"
+    ],
+    "name:nld_x_preferred":[
+        "Danninge Erve"
+    ],
+    "reversegeo:latitude":52.734381,
+    "reversegeo:longitude":6.174824,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473813,
+        85633337,
+        101807283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"3f5ae7cf8ccfd88928257d548a584393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473813,
+            "locality_id":101807283,
+            "neighbourhood_id":1158791185,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791185,
+    "wof:lastmodified":1513292323,
+    "wof:name":"Danninge Erve",
+    "wof:parent_id":101807283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.168085582239748,
+    52.729404515164205,
+    6.181096596809244,
+    52.7388517275701
+],
+  "geometry": {"coordinates":[[[[6.16808558223975,52.73730200066659],[6.17319539298608,52.73840473514159],[6.1752637152592,52.7388517275701],[6.17637694711365,52.73710719657237],[6.17727901187864,52.7356934776334],[6.17778909689706,52.73576671570606],[6.1784225918314,52.73453841471391],[6.18109659680924,52.73067139082902],[6.17477340135473,52.72940451516421],[6.17234906865156,52.73327486668261],[6.17094530596841,52.7329273285979],[6.17087451883666,52.73319691448344],[6.17050226495364,52.73376211501906],[6.17087521115567,52.73384619260463],[6.17044112946019,52.7346384196804],[6.16991151158966,52.73471812882832],[6.16927034141398,52.7353381934342],[6.1688896353192,52.73634144944361],[6.16826967629122,52.73713732706144],[6.16808558223975,52.73730200066659]]]],"type":"MultiPolygon"}
+}

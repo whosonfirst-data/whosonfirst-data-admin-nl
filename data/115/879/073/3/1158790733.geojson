@@ -1,0 +1,80 @@
+{
+  "id": 1158790733,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01093036",
+    "cbsnl:BU_NAAM":"Zwinderen",
+    "cbsnl:GM_CODE":"GM0109",
+    "cbsnl:GM_NAAM":"Coevorden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"34",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK010930",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000116,
+    "geom:area_square_m":868618.578598,
+    "geom:bbox":"6.66623671538,52.7225038162,6.68671084877,52.7334329814",
+    "geom:latitude":52.726703,
+    "geom:longitude":6.677026,
+    "iso:country":"NL",
+    "lbl:latitude":52.726068,
+    "lbl:longitude":6.676871,
+    "mps:latitude":52.726068,
+    "mps:longitude":6.676871,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zwinderen"
+    ],
+    "name:nld_x_preferred":[
+        "Zwinderen"
+    ],
+    "reversegeo:latitude":52.726068,
+    "reversegeo:longitude":6.676871,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473807,
+        85633337,
+        1158792007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c51e41c012f3f1d3a30c912ebb3d444d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473807,
+            "locality_id":1158792007,
+            "neighbourhood_id":1158790733,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158790733,
+    "wof:lastmodified":1513292293,
+    "wof:name":"Zwinderen",
+    "wof:parent_id":1158792007,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.666236715375783,
+    52.722503816220915,
+    6.686710848771231,
+    52.73343298140693
+],
+  "geometry": {"coordinates":[[[[6.66994716743947,52.72250381622091],[6.66904272994563,52.72346683249923],[6.67009870049635,52.72454579206021],[6.66919018486633,52.72486397575836],[6.67017080517738,52.72614934281876],[6.66623671537578,52.72597710198196],[6.66634184472465,52.72805946061046],[6.6711456064044,52.72789763555775],[6.67156573630489,52.72823913398847],[6.67208635193492,52.72953899670507],[6.67772115125746,52.72943084806708],[6.67820919996173,52.72921658816286],[6.67875181619703,52.72954381407873],[6.67840493691139,52.732196178399],[6.68078494340411,52.73196642620971],[6.6812117765623,52.73343298140693],[6.68393309991179,52.73322754269325],[6.68334281811181,52.72988880959767],[6.68161809881374,52.7278381282965],[6.68671084877123,52.7261895351922],[6.68315024137791,52.7247251409788],[6.68394878958207,52.72409403383844],[6.68421125093819,52.72366144296435],[6.68433638923405,52.7228871232513],[6.66994716743947,52.72250381622091]]]],"type":"MultiPolygon"}
+}

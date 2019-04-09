@@ -1,0 +1,80 @@
+{
+  "id": 1141962771,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02220302",
+    "cbsnl:BU_NAAM":"Sch\u00f6neveld-Zuid",
+    "cbsnl:GM_CODE":"GM0222",
+    "cbsnl:GM_NAAM":"Doetinchem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1117",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":216505.509799,
+    "geom:bbox":"6.30079753528,51.9588033724,6.31185295405,51.9628254506",
+    "geom:latitude":51.961216,
+    "geom:longitude":6.306,
+    "iso:country":"NL",
+    "lbl:latitude":51.960874,
+    "lbl:longitude":6.305894,
+    "mps:latitude":51.960874,
+    "mps:longitude":6.305894,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schoneveld-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Schoneveld-Zuid"
+    ],
+    "reversegeo:latitude":51.960874,
+    "reversegeo:longitude":6.305894,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473885,
+        85633337,
+        101808663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"8bbf805cc7430b26c358770e71380f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473885,
+            "locality_id":101808663,
+            "neighbourhood_id":1141962771,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962771,
+    "wof:lastmodified":1513368699,
+    "wof:name":"Schoneveld-Zuid",
+    "wof:parent_id":101808663,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.300797535275107,
+    51.95880337237178,
+    6.311852954048609,
+    51.962825450625175
+],
+  "geometry": {"coordinates":[[[[6.30166941710432,51.96271386717815],[6.30654445588502,51.96276892249055],[6.30682179870602,51.96275433103249],[6.30973531547104,51.96277376102935],[6.3099627615912,51.96270387955181],[6.31009210641472,51.96282545062517],[6.31060723886234,51.96270448601158],[6.31185295404861,51.96222981636453],[6.30983040781662,51.96064337540921],[6.30820626548503,51.95980650635983],[6.30575847797791,51.95893781651424],[6.30502098933539,51.95880337237178],[6.30485913960232,51.95890585904712],[6.30489614628022,51.95910911784786],[6.30215341003831,51.96018080203824],[6.30160525215532,51.96042526949261],[6.30079753527511,51.96093048262465],[6.30113253207555,51.961248553898],[6.30145695004776,51.96166136318282],[6.3016522542539,51.96210248042998],[6.30166941710432,51.96271386717815]]]],"type":"MultiPolygon"}
+}

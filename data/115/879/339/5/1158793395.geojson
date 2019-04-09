@@ -1,0 +1,80 @@
+{
+  "id": 1158793395,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00560201",
+    "cbsnl:BU_NAAM":"Niehove",
+    "cbsnl:GM_CODE":"GM0056",
+    "cbsnl:GM_NAAM":"Zuidhorn",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"26",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK005602",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":300999.772401,
+    "geom:bbox":"6.36145836042,53.2875957137,6.37273170488,53.2925092563",
+    "geom:latitude":53.290016,
+    "geom:longitude":6.367059,
+    "iso:country":"NL",
+    "lbl:latitude":53.290152,
+    "lbl:longitude":6.367059,
+    "mps:latitude":53.290152,
+    "mps:longitude":6.367059,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Niehove"
+    ],
+    "name:nld_x_preferred":[
+        "Niehove"
+    ],
+    "reversegeo:latitude":53.290152,
+    "reversegeo:longitude":6.367059,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473753,
+        85633337,
+        1158796581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"fcc0b841c34ddac8e2b7d38d873a79f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473753,
+            "locality_id":1158796581,
+            "neighbourhood_id":1158793395,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793395,
+    "wof:lastmodified":1513382305,
+    "wof:name":"Niehove",
+    "wof:parent_id":1158796581,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.361458360417345,
+    53.28759571370764,
+    6.37273170487962,
+    53.292509256335016
+],
+  "geometry": {"coordinates":[[[[6.36191765548751,53.28941498517887],[6.36161971800889,53.28958588794269],[6.36145836041734,53.28997359059019],[6.36150658955583,53.29060445923052],[6.3619555204878,53.29109054922619],[6.36273203912674,53.29160711450201],[6.36383351902496,53.29217213972823],[6.36445681195256,53.292470905889],[6.36650621510177,53.29250925633502],[6.37021916051978,53.29176679962463],[6.3718015168281,53.29072720092728],[6.37273170487962,53.28982154460849],[6.37247548699703,53.28897560003811],[6.37166149720587,53.28826789257569],[6.37062770053206,53.28771193072782],[6.36890642084929,53.28759571370764],[6.36658039754762,53.28798480836465],[6.36398783799121,53.28818394912866],[6.36265675715998,53.28867214146509],[6.36191765548751,53.28941498517887]]]],"type":"MultiPolygon"}
+}

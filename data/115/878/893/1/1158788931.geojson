@@ -1,0 +1,80 @@
+{
+  "id": 1158788931,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU15810201",
+    "cbsnl:BU_NAAM":"Breedeveen",
+    "cbsnl:GM_CODE":"GM1581",
+    "cbsnl:GM_NAAM":"Utrechtse Heuvelrug",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"154",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK158102",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:area_square_m":513822.369721,
+    "geom:bbox":"5.41350751502,52.0193471031,5.42176115565,52.0346377704",
+    "geom:latitude":52.026478,
+    "geom:longitude":5.417636,
+    "iso:country":"NL",
+    "lbl:latitude":52.026473,
+    "lbl:longitude":5.417573,
+    "mps:latitude":52.026473,
+    "mps:longitude":5.417573,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Breedeveen"
+    ],
+    "name:nld_x_preferred":[
+        "Breedeveen"
+    ],
+    "reversegeo:latitude":52.026473,
+    "reversegeo:longitude":5.417573,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474547,
+        85633337,
+        101808455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"69f7e74fa9a6317c9563e68a90d58b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474547,
+            "locality_id":101808455,
+            "neighbourhood_id":1158788931,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788931,
+    "wof:lastmodified":1513622052,
+    "wof:name":"Breedeveen",
+    "wof:parent_id":101808455,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.413507515019797,
+    52.01934710305874,
+    5.421761155652809,
+    52.03463777040161
+],
+  "geometry": {"coordinates":[[[[5.41588593888181,52.03463777040161],[5.41658654783939,52.03389693175507],[5.4176688047935,52.03287650532112],[5.41832961641651,52.0316205262643],[5.41931493985641,52.02954962482013],[5.42004344625174,52.02759703604958],[5.42069118301154,52.02488524986812],[5.42176115565281,52.0233954412445],[5.42168134279318,52.02233936079994],[5.42115584396618,52.02131683308382],[5.42141170162948,52.02071090364576],[5.42109267984964,52.02057449036992],[5.41969788716106,52.01985386914127],[5.41889626329746,52.01934710305874],[5.41683869617049,52.02033099820837],[5.41608890211418,52.02319137453126],[5.41494985538281,52.02591954340954],[5.41452087643856,52.0276712029029],[5.4142694097874,52.02897903150954],[5.4135075150198,52.0299355562636],[5.41501228136223,52.03292352018391],[5.41508038549956,52.03305874412905],[5.41567099522042,52.03439153821227],[5.41572484083449,52.03450180875397],[5.41588144219242,52.03463443497741],[5.41588593888181,52.03463777040161]]]],"type":"MultiPolygon"}
+}

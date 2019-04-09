@@ -1,0 +1,80 @@
+{
+  "id": 1158828395,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU18920402",
+    "cbsnl:BU_NAAM":"Bedrijventerrein De Hooge Venen",
+    "cbsnl:GM_CODE":"GM1892",
+    "cbsnl:GM_NAAM":"Zuidplas",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"751",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK189204",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":297171.655145,
+    "geom:bbox":"4.60504174641,51.97518216,4.61799922648,51.9817226484",
+    "geom:latitude":51.978566,
+    "geom:longitude":4.611106,
+    "iso:country":"NL",
+    "lbl:latitude":51.978859,
+    "lbl:longitude":4.611008,
+    "mps:latitude":51.978859,
+    "mps:longitude":4.611008,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein De Hooge Venen"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein De Hooge Venen"
+    ],
+    "reversegeo:latitude":51.978859,
+    "reversegeo:longitude":4.611008,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158824737,
+        85633337,
+        101808529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a706b133e7273adff9684eadc7012578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824737,
+            "locality_id":101808529,
+            "neighbourhood_id":1158828395,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828395,
+    "wof:lastmodified":1513588223,
+    "wof:name":"Bedrijventerrein De Hooge Venen",
+    "wof:parent_id":101808529,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.605041746410919,
+    51.97518216004759,
+    4.617999226482461,
+    51.981722648403775
+],
+  "geometry": {"coordinates":[[[[4.60868585310367,51.97518216004759],[4.60809668956026,51.97559223959743],[4.6064319533352,51.97657372713605],[4.6065639125546,51.97666538847935],[4.60614599764371,51.97691306057631],[4.60504174641092,51.97756746460593],[4.60767817151104,51.97926399403035],[4.60883303798629,51.9800070873894],[4.61149946451529,51.98172264840377],[4.61236026216727,51.98117696431201],[4.61311652160763,51.98079341280442],[4.61291401008088,51.98066630396224],[4.6133347420218,51.9804107686609],[4.61345939078315,51.98047857065657],[4.61386640114844,51.98023293847034],[4.61501313832165,51.98095990293027],[4.61674071814168,51.98048226720302],[4.61766877984973,51.97994873637909],[4.61799922648246,51.97971567644188],[4.61681108258426,51.97913312793202],[4.61668989290996,51.97907370536451],[4.60868585310367,51.97518216004759]]]],"type":"MultiPolygon"}
+}

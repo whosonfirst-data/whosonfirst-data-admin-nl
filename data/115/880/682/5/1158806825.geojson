@@ -1,0 +1,82 @@
+{
+  "id": 1158806825,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09832304",
+    "cbsnl:BU_NAAM":"Zonneveld",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2176",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098323",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":36862.231218,
+    "geom:bbox":"6.13384133308,51.3627010127,6.13741913611,51.3648419116",
+    "geom:latitude":51.36382,
+    "geom:longitude":6.135824,
+    "iso:country":"NL",
+    "lbl:latitude":51.363942,
+    "lbl:longitude":6.135824,
+    "mps:latitude":51.363942,
+    "mps:longitude":6.135824,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zonneveld"
+    ],
+    "name:nld_x_preferred":[
+        "Zonneveld"
+    ],
+    "reversegeo:latitude":51.363942,
+    "reversegeo:longitude":6.135824,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        1158818273,
+        404474525,
+        85633337,
+        101839199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ac50bf396e53d78be05690641c7445f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "macrohood_id":1158818273,
+            "neighbourhood_id":1158806825,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806825,
+    "wof:lastmodified":1513404057,
+    "wof:name":"Zonneveld",
+    "wof:parent_id":1158818273,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.133841333079009,
+    51.36270101272424,
+    6.13741913610516,
+    51.364841911644675
+],
+  "geometry": {"coordinates":[[[[6.13741913610516,51.36404739771295],[6.1372338781833,51.36270101272424],[6.13673032576002,51.36276190395912],[6.13675127597147,51.36298829314338],[6.13635602125277,51.3631400535163],[6.13504227155617,51.3633210843091],[6.13475920850311,51.36295884495241],[6.13384133307901,51.36328923614593],[6.13492071468431,51.36484191164467],[6.13666281456807,51.36450980831832],[6.13734625211012,51.36450540953224],[6.13741913610516,51.36404739771295]]]],"type":"MultiPolygon"}
+}

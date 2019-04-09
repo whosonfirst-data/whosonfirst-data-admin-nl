@@ -1,0 +1,80 @@
+{
+  "id": 1158806951,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09835106",
+    "cbsnl:BU_NAAM":"Gelo\u00e9rveld / Pannenberg",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"416",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098351",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:area_square_m":372529.882149,
+    "geom:bbox":"6.11671053611,51.3153354608,6.12964878712,51.3244899217",
+    "geom:latitude":51.319893,
+    "geom:longitude":6.123528,
+    "iso:country":"NL",
+    "lbl:latitude":51.320567,
+    "lbl:longitude":6.124508,
+    "mps:latitude":51.320567,
+    "mps:longitude":6.124508,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Geloerveld / Pannenberg"
+    ],
+    "name:nld_x_preferred":[
+        "Gelo\u00e9rveld / Pannenberg"
+    ],
+    "reversegeo:latitude":51.320567,
+    "reversegeo:longitude":6.124508,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474525,
+        85633337,
+        1158817913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"abd4597492fb8ae6bd74367dca63cb24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":1158817913,
+            "neighbourhood_id":1158806951,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806951,
+    "wof:lastmodified":1513404066,
+    "wof:name":"Geloerveld / Pannenberg",
+    "wof:parent_id":1158817913,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.116710536108634,
+    51.31533546078212,
+    6.12964878712084,
+    51.324489921730446
+],
+  "geometry": {"coordinates":[[[[6.12522342017613,51.32448992173045],[6.12684716886712,51.32349531811575],[6.12858521612041,51.32185724479749],[6.12964878712084,51.32083020939025],[6.12679578053417,51.31907842284726],[6.12716432400294,51.3186275275044],[6.12685127819498,51.31798679960819],[6.12662148981837,51.31814736570188],[6.12626204865432,51.31809661254663],[6.12576550447862,51.31799459179213],[6.12563678360768,51.31819586410253],[6.1250086303371,51.31802725752906],[6.12284384628897,51.3173937457273],[6.12230061649307,51.31715267665285],[6.1219704566927,51.31758443578411],[6.12099307110048,51.31746295606419],[6.12139810223433,51.31695881352685],[6.11881685882418,51.31566176660031],[6.11824505160359,51.31533546078212],[6.11779601097252,51.31631808420876],[6.11671053610863,51.31688131528907],[6.11752364905929,51.31758634936336],[6.12209613944665,51.32165478251839],[6.12522342017613,51.32448992173045]]]],"type":"MultiPolygon"}
+}

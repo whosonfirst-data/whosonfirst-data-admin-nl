@@ -1,0 +1,82 @@
+{
+  "id": 1141963061,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02281203",
+    "cbsnl:BU_NAAM":"De Singels",
+    "cbsnl:GM_CODE":"GM0228",
+    "cbsnl:GM_NAAM":"Ede",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1488",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022812",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":423706.214942,
+    "geom:bbox":"5.63647372211,52.0146835851,5.65103991805,52.0221725668",
+    "geom:latitude":52.017732,
+    "geom:longitude":5.644551,
+    "iso:country":"NL",
+    "lbl:latitude":52.017388,
+    "lbl:longitude":5.644441,
+    "mps:latitude":52.017388,
+    "mps:longitude":5.644441,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Singels"
+    ],
+    "name:nld_x_preferred":[
+        "De Singels"
+    ],
+    "reversegeo:latitude":52.017388,
+    "reversegeo:longitude":5.644441,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158784015,
+        404473893,
+        85633337,
+        101751855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b8257d01bfd0c72297f4f3918d558384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473893,
+            "locality_id":101751855,
+            "macrohood_id":1158784015,
+            "neighbourhood_id":1141963061,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141963061,
+    "wof:lastmodified":1513368720,
+    "wof:name":"De Singels",
+    "wof:parent_id":1158784015,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.636473722112628,
+    52.014683585142045,
+    5.651039918052153,
+    52.022172566791596
+],
+  "geometry": {"coordinates":[[[[5.63910572775368,52.02051444954836],[5.64606254881294,52.01892171936915],[5.64664716006458,52.01880132894004],[5.64857358557067,52.0221725667916],[5.6490656087782,52.02138588246748],[5.64933150131204,52.02068453517463],[5.64985436338254,52.01930532346129],[5.65032826390004,52.01770256447869],[5.65055751145619,52.01673005340198],[5.65103991805215,52.01468358514204],[5.65047651252343,52.01473583882056],[5.64783246077613,52.01501696840059],[5.64538789531414,52.01532676518882],[5.64211517612439,52.01586471413971],[5.6393190908636,52.01641275028799],[5.63647372211263,52.01702705222279],[5.63910572775368,52.02051444954836]]]],"type":"MultiPolygon"}
+}

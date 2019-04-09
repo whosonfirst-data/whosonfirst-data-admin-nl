@@ -1,0 +1,78 @@
+{
+  "id": 101855407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-08-01",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.299315,52.339379,5.299315,52.339379",
+    "geom:latitude":52.339379,
+    "geom:longitude":5.299315,
+    "iso:country":"NL",
+    "lbl:latitude":52.339379,
+    "lbl:longitude":5.299315,
+    "mps:latitude":52.339379,
+    "mps:longitude":5.299315,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Nederland",
+    "qs:a1":"*Flevoland",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Almere-Hout",
+    "qs:loc_alt":"Almere-Hout",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633337,
+        85687049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20064106,
+        "qs:id":7,
+        "qs_pg:id":1195867
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"60f36eb365873fa4d417ab38bc1e5325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101855407,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":101855407,
+    "wof:lastmodified":1544742909,
+    "wof:name":"Almere-Hout",
+    "wof:parent_id":85687049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158787347
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.299315,
+    52.339379,
+    5.299315,
+    52.339379
+],
+  "geometry": {"coordinates":[5.299315,52.339379],"type":"Point"}
+}

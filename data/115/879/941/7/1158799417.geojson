@@ -1,0 +1,80 @@
+{
+  "id": 1158799417,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08610201",
+    "cbsnl:BU_NAAM":"Zandoerle",
+    "cbsnl:GM_CODE":"GM0861",
+    "cbsnl:GM_NAAM":"Veldhoven",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"83",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK086102",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000019,
+    "geom:area_square_m":148599.832641,
+    "geom:bbox":"5.35559372736,51.4115535141,5.36101110792,51.4163085602",
+    "geom:latitude":51.414119,
+    "geom:longitude":5.35842,
+    "iso:country":"NL",
+    "lbl:latitude":51.414097,
+    "lbl:longitude":5.358471,
+    "mps:latitude":51.414097,
+    "mps:longitude":5.358471,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zandoerle"
+    ],
+    "name:nld_x_preferred":[
+        "Zandoerle"
+    ],
+    "reversegeo:latitude":51.414097,
+    "reversegeo:longitude":5.358471,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474443,
+        85633337,
+        101758611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"072e1c143502bf5fc8dfa43fb677a161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474443,
+            "locality_id":101758611,
+            "neighbourhood_id":1158799417,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799417,
+    "wof:lastmodified":1513432748,
+    "wof:name":"Zandoerle",
+    "wof:parent_id":101758611,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.355593727357149,
+    51.411553514068096,
+    5.361011107915341,
+    51.416308560222966
+],
+  "geometry": {"coordinates":[[[[5.36065373660717,51.41463376502623],[5.36101110791534,51.41301222770209],[5.36021930290876,51.41280530839629],[5.36056030433159,51.41192084344608],[5.35852664045092,51.4115535140681],[5.35784954676453,51.41183761393774],[5.35696214135089,51.4125958093034],[5.35665000083107,51.41286370264791],[5.35619253735473,51.413473970307],[5.35562292498181,51.41416960075086],[5.35559372735715,51.41482014935958],[5.35621152289533,51.41528969082378],[5.35570808512346,51.41575163315171],[5.35619963759801,51.4159233903215],[5.35695687439513,51.41615279968917],[5.35766834420182,51.41630747523443],[5.35864450781273,51.41630856022297],[5.36015982097401,51.41617408896676],[5.36054363844897,51.41586603163534],[5.36051108654512,51.41506687407625],[5.36065373660717,51.41463376502623]]]],"type":"MultiPolygon"}
+}

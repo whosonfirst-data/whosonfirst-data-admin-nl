@@ -1,0 +1,82 @@
+{
+  "id": 1158818363,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03610105",
+    "cbsnl:BU_NAAM":"Nassaukwartier en Hout",
+    "cbsnl:GM_CODE":"GM0361",
+    "cbsnl:GM_NAAM":"Alkmaar",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3872",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK036101",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":610592.827988,
+    "geom:bbox":"4.7290077666,52.6232607573,4.74282723462,52.635268548",
+    "geom:latitude":52.62902,
+    "geom:longitude":4.736262,
+    "iso:country":"NL",
+    "lbl:latitude":52.62903,
+    "lbl:longitude":4.736366,
+    "mps:latitude":52.62903,
+    "mps:longitude":4.736366,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Nassaukwartier en Hout"
+    ],
+    "name:nld_x_preferred":[
+        "Nassaukwartier en Hout"
+    ],
+    "reversegeo:latitude":52.62903,
+    "reversegeo:longitude":4.736366,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823271,
+        404474025,
+        85633337,
+        101751887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9fb7caeeac3419386d1c995ad5e56518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474025,
+            "locality_id":101751887,
+            "macrohood_id":1158823271,
+            "neighbourhood_id":1158818363,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818363,
+    "wof:lastmodified":1513464059,
+    "wof:name":"Nassaukwartier en Hout",
+    "wof:parent_id":1158823271,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.729007766602466,
+    52.62326075728003,
+    4.742827234619952,
+    52.635268547957985
+],
+  "geometry": {"coordinates":[[[[4.73937190471441,52.63526854795798],[4.74162152193937,52.63437486547826],[4.74203907995978,52.63410571574183],[4.74152940074145,52.63390792461947],[4.73990029016143,52.63389367415279],[4.73942288399895,52.63361156941298],[4.73989527006535,52.63292931030619],[4.74068243888551,52.63233593832685],[4.74107113138082,52.63171792795553],[4.74124456025386,52.63046873691493],[4.74099895977964,52.6295911404493],[4.74202308522291,52.62925159065235],[4.74252014753814,52.6295005388325],[4.74282723461995,52.62940873608856],[4.74179977700193,52.62866620394007],[4.74117976748932,52.62804001634576],[4.73879831609509,52.62607321032404],[4.73791956273636,52.62517148041545],[4.73706709806179,52.62399217916657],[4.73660088846725,52.62326075728003],[4.73210965259912,52.62526183309776],[4.73046793745689,52.62591603875305],[4.72900776660247,52.6265748222525],[4.7298216505533,52.62706284316194],[4.73082017616412,52.62824390162194],[4.73137122400853,52.62932542009025],[4.73240304861927,52.63095511360235],[4.73278848748839,52.63125831055866],[4.73937190471441,52.63526854795798]]]],"type":"MultiPolygon"}
+}

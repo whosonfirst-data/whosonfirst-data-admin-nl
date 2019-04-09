@@ -1,0 +1,85 @@
+{
+  "id": 101846167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-08-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":268896.765623,
+    "geom:bbox":"6.67765291391,53.3833904238,6.68802376799,53.3897553318",
+    "geom:latitude":53.386663,
+    "geom:longitude":6.682289,
+    "iso:country":"NL",
+    "lbl:latitude":53.387113,
+    "lbl:longitude":6.682289,
+    "mps:latitude":53.387113,
+    "mps:longitude":6.682289,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Zevenhuixen"
+    ],
+    "qs:a0":"Nederland",
+    "qs:a1":"*Groningen",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la":"Eemsmond",
+    "qs:la_lc":"*NL201651",
+    "qs:level":"locality",
+    "qs:loc":"Zevenhuizen",
+    "qs:loc_alt":"Zevenhuizen",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":129,
+    "wof:belongsto":[
+        102191581,
+        404474561,
+        85633337,
+        85687059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743926,
+        "gp:id":735043,
+        "qs:id":4,
+        "qs_pg:id":188001,
+        "wd:id":"Q407031"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"b39bbcece013730c8358e295f1f5210f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474561,
+            "locality_id":101846167,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":101846167,
+    "wof:lastmodified":1527714706,
+    "wof:name":"Zevenhuizen",
+    "wof:parent_id":404474561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1158796041
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.67765291391447,
+    53.38339042379823,
+    6.68802376799431,
+    53.3897553318277
+],
+  "geometry": {"coordinates":[[[6.68023855030907,53.3897553318277],[6.68030807246009,53.38885780829861],[6.68631416337627,53.38902209187557],[6.68645294639657,53.38722703667986],[6.68795441311727,53.38726805916269],[6.68802376799431,53.38637053044806],[6.68652233260372,53.38632950894771],[6.68659171527577,53.38543198112609],[6.68208751905871,53.38530880811084],[6.68222646175337,53.38351375809748],[6.67772247746547,53.38339042379823],[6.67765291391447,53.38428794589652],[6.67915427066873,53.3843290768902],[6.67873700290903,53.38971421350243],[6.68023855030907,53.3897553318277]]],"type":"Polygon"}
+}

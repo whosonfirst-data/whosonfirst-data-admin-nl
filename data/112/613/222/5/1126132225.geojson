@@ -1,0 +1,79 @@
+{
+  "id": 1126132225,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19000106",
+    "cbsnl:BU_NAAM":"Noordoosthoek",
+    "cbsnl:GM_CODE":"GM1900",
+    "cbsnl:GM_NAAM":"S\u00fadwest-Frysl\u00e2n",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2386",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK190001",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":265029.501637,
+    "geom:bbox":"5.65605170319,53.0340446756,5.66775211232,53.0407354982",
+    "geom:latitude":53.037021,
+    "geom:longitude":5.662811,
+    "iso:country":"NL",
+    "lbl:latitude":53.036791,
+    "lbl:longitude":5.6629,
+    "mps:latitude":53.036791,
+    "mps:longitude":5.6629,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Noordoosthoek"
+    ],
+    "name:eng_x_preferred":[
+        "Noordoosthoek"
+    ],
+    "reversegeo:latitude":53.036791,
+    "reversegeo:longitude":5.6629,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        1141960735,
+        85633337,
+        101837971,
+        85687055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"0de67352c616f83cb7d1f28bca203074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1141960735,
+            "locality_id":101837971,
+            "neighbourhood_id":1126132225,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":1126132225,
+    "wof:lastmodified":1507246103,
+    "wof:name":"Noordoosthoek",
+    "wof:parent_id":101837971,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.65605170319231,
+    53.03404467564435,
+    5.66775211231587,
+    53.04073549820024
+],
+  "geometry": {"coordinates":[[[[5.66775211231587,53.03935708551267],[5.66766507371444,53.03926237294641],[5.66710249692509,53.03850324264647],[5.6664171463446,53.03741303388407],[5.66576976195383,53.03642607262959],[5.66451464915005,53.03525068705083],[5.66385879181122,53.03434741880134],[5.66287273913407,53.03422501382072],[5.66069515371314,53.03404467564435],[5.65970970190909,53.03405254177842],[5.65965650483939,53.03409166787606],[5.65931368997903,53.03434380604105],[5.65922979430694,53.03478319278675],[5.65859720066089,53.0349385172097],[5.6577351069286,53.03485959576741],[5.65706742394085,53.03465442407948],[5.65605170319231,53.0347797104374],[5.6569603750975,53.035157887384],[5.66041427776647,53.03727245161006],[5.66203965730152,53.0389895644536],[5.66309133319417,53.04073549820024],[5.66775211231587,53.03935708551267]]]],"type":"MultiPolygon"}
+}

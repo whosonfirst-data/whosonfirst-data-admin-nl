@@ -1,0 +1,80 @@
+{
+  "id": 1158821261,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19420504",
+    "cbsnl:BU_NAAM":"Bedrijvenpark Gooimeer-Zuid",
+    "cbsnl:GM_CODE":"GM1942",
+    "cbsnl:GM_NAAM":"Gooise Meren",
+    "cbsnl:IND_WBI":"2",
+    "cbsnl:OAD":"899",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK194205",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":455875.791776,
+    "geom:bbox":"5.13733820064,52.298384989,5.15881545849,52.3061190155",
+    "geom:latitude":52.303106,
+    "geom:longitude":5.149676,
+    "iso:country":"NL",
+    "lbl:latitude":52.303876,
+    "lbl:longitude":5.148944,
+    "mps:latitude":52.303876,
+    "mps:longitude":5.148944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijvenpark Gooimeer-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijvenpark Gooimeer-Zuid"
+    ],
+    "reversegeo:latitude":52.303876,
+    "reversegeo:longitude":5.148944,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158818281,
+        85633337,
+        101807375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"de5d5ad626e76575b3feaf8e7bbeb6d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158818281,
+            "locality_id":101807375,
+            "neighbourhood_id":1158821261,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158821261,
+    "wof:lastmodified":1513464314,
+    "wof:name":"Bedrijvenpark Gooimeer-Zuid",
+    "wof:parent_id":101807375,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.13733820063984,
+    52.298384988955384,
+    5.158815458494738,
+    52.30611901549072
+],
+  "geometry": {"coordinates":[[[[5.14455657547066,52.30602049879089],[5.14522784171647,52.30606035157604],[5.1479723434261,52.30611901549072],[5.15084219449813,52.30604305043529],[5.15098618315926,52.30515889116829],[5.1559173685952,52.30225942222061],[5.1570786407982,52.30140335925473],[5.15712846777199,52.30111472561698],[5.15873252369384,52.29993707193903],[5.15881545849474,52.29922074142808],[5.1586120437066,52.29913327891805],[5.15785358571757,52.29838498895538],[5.15075594692202,52.30102323711601],[5.14130513003677,52.30433926082877],[5.13733820063984,52.30581223963559],[5.14051551183806,52.30577565222315],[5.14455657547066,52.30602049879089]]]],"type":"MultiPolygon"}
+}

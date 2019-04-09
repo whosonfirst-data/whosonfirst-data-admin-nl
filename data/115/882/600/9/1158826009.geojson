@@ -1,0 +1,80 @@
+{
+  "id": 1158826009,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05130501",
+    "cbsnl:BU_NAAM":"Statensingel",
+    "cbsnl:GM_CODE":"GM0513",
+    "cbsnl:GM_NAAM":"Gouda",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3391",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK051305",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":73910.881733,
+    "geom:bbox":"4.70868151796,52.0170959039,4.71138083971,52.0248785739",
+    "geom:latitude":52.021154,
+    "geom:longitude":4.710115,
+    "iso:country":"NL",
+    "lbl:latitude":52.023152,
+    "lbl:longitude":4.709758,
+    "mps:latitude":52.023152,
+    "mps:longitude":4.709758,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Statensingel"
+    ],
+    "name:nld_x_preferred":[
+        "Statensingel"
+    ],
+    "reversegeo:latitude":52.023152,
+    "reversegeo:longitude":4.709758,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829575,
+        85633337,
+        101751839,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"b26150bdf51bdd20c83797676e1cf51e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751839,
+            "macrohood_id":1158829575,
+            "neighbourhood_id":1158826009,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826009,
+    "wof:lastmodified":1513588033,
+    "wof:name":"Statensingel",
+    "wof:parent_id":1158829575,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.708681517963119,
+    52.01709590390285,
+    4.711380839714695,
+    52.024878573898164
+],
+  "geometry": {"coordinates":[[[[4.71037613795057,52.02487857389816],[4.71038319014185,52.02479603472853],[4.71078219286949,52.0223119004409],[4.71025354332298,52.0222889613593],[4.71034458944973,52.02181244396028],[4.71058722382964,52.02178510305254],[4.71073880625552,52.02038358691958],[4.71111809963189,52.01870750131091],[4.71124073015276,52.01854381505438],[4.7113808397147,52.01709590390285],[4.71092872932796,52.01712926128851],[4.71026126026633,52.01714171780432],[4.71016295268412,52.01820520607397],[4.71012548356958,52.01861053983411],[4.71009457867187,52.01872237745004],[4.70995007013862,52.01882093045496],[4.70975851371724,52.01955730138684],[4.70980087063036,52.01978516861859],[4.70978029272883,52.01985962525246],[4.7094951333099,52.020811615192],[4.70895326815721,52.02262048102455],[4.70877510860956,52.02370452019805],[4.70868151796312,52.02381886539107],[4.71000445952939,52.0246913316348],[4.71037613795057,52.02487857389816]]]],"type":"MultiPolygon"}
+}

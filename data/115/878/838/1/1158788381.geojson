@@ -1,0 +1,80 @@
+{
+  "id": 1158788381,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03450101",
+    "cbsnl:BU_NAAM":"Dragonder-Zuid",
+    "cbsnl:GM_CODE":"GM0345",
+    "cbsnl:GM_NAAM":"Veenendaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2401",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK034501",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:area_square_m":363568.37847,
+    "geom:bbox":"5.56310265691,52.022359895,5.57348214148,52.0283458327",
+    "geom:latitude":52.025353,
+    "geom:longitude":5.568127,
+    "iso:country":"NL",
+    "lbl:latitude":52.025277,
+    "lbl:longitude":5.568138,
+    "mps:latitude":52.025277,
+    "mps:longitude":5.568138,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Dragonder-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Dragonder-Zuid"
+    ],
+    "reversegeo:latitude":52.025277,
+    "reversegeo:longitude":5.568138,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158790331,
+        85633337,
+        101751829,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9ef31b16fa69b723482e6ad3e9e6a12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751829,
+            "macrohood_id":1158790331,
+            "neighbourhood_id":1158788381,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788381,
+    "wof:lastmodified":1513622005,
+    "wof:name":"Dragonder-Zuid",
+    "wof:parent_id":1158790331,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.563102656906252,
+    52.02235989499918,
+    5.573482141475016,
+    52.028345832689475
+],
+  "geometry": {"coordinates":[[[[5.57348214147502,52.02751778330156],[5.57308868387159,52.02460287970904],[5.56999969724448,52.02250449718159],[5.56978625872571,52.02235989499918],[5.56967456437072,52.02243562434001],[5.56732392232515,52.02261086575723],[5.56315932536739,52.02289046536758],[5.56310265690625,52.02289448135193],[5.5632005416215,52.02492003585801],[5.5637228003629,52.02590401659501],[5.56368955161339,52.02592787429148],[5.56403375526386,52.02611904521926],[5.56435658827025,52.02657403835915],[5.56444345135357,52.02689076436192],[5.56431725997164,52.02745205323773],[5.56429294178296,52.02764283746919],[5.5645673468846,52.02829611623036],[5.56456640732678,52.02834583268947],[5.56801048410158,52.02801617498945],[5.57348214147502,52.02751778330156]]]],"type":"MultiPolygon"}
+}

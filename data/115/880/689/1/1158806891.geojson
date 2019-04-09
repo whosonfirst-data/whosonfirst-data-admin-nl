@@ -1,0 +1,82 @@
+{
+  "id": 1158806891,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09833201",
+    "cbsnl:BU_NAAM":"Lage Heide",
+    "cbsnl:GM_CODE":"GM0983",
+    "cbsnl:GM_NAAM":"Venlo",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1319",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK098332",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000135,
+    "geom:area_square_m":1045517.801482,
+    "geom:bbox":"6.12885154274,51.3239429709,6.15169240075,51.3403027316",
+    "geom:latitude":51.331553,
+    "geom:longitude":6.140425,
+    "iso:country":"NL",
+    "lbl:latitude":51.328978,
+    "lbl:longitude":6.138695,
+    "mps:latitude":51.328978,
+    "mps:longitude":6.138695,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Lage Heide"
+    ],
+    "name:nld_x_preferred":[
+        "Lage Heide"
+    ],
+    "reversegeo:latitude":51.328978,
+    "reversegeo:longitude":6.138695,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        1158818255,
+        404474525,
+        85633337,
+        101839319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"dbe787c1f2b3e3ce73ef5be28ed5e48f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839319,
+            "macrohood_id":1158818255,
+            "neighbourhood_id":1158806891,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806891,
+    "wof:lastmodified":1513404062,
+    "wof:name":"Lage Heide",
+    "wof:parent_id":1158818255,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.12885154274103,
+    51.323942970886094,
+    6.151692400752802,
+    51.34030273160614
+],
+  "geometry": {"coordinates":[[[[6.14514846352973,51.34030273160614],[6.14572195912082,51.33995060674569],[6.14714541523816,51.33985053705494],[6.1480611599415,51.33977084712388],[6.1516924007528,51.33858657721677],[6.14854086858617,51.3347976604338],[6.14501140644527,51.33094369854273],[6.14182024255331,51.32694811130752],[6.13975205159964,51.32394297088609],[6.13804461427676,51.32436839036616],[6.13446927006129,51.32620358735639],[6.1318117584171,51.32644444064076],[6.12885154274103,51.3277496682184],[6.13369190219513,51.33245596672563],[6.13513876809024,51.33362334879305],[6.13536572222564,51.33311131427772],[6.13809079093217,51.33268027489478],[6.1396834502214,51.33275988401325],[6.13994920684895,51.33260355657751],[6.14276330132621,51.33417639191969],[6.14482832646607,51.3353926784247],[6.14268539822605,51.33892491849254],[6.14514846352973,51.34030273160614]]]],"type":"MultiPolygon"}
+}

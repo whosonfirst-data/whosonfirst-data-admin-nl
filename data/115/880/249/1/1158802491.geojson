@@ -1,0 +1,80 @@
+{
+  "id": 1158802491,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01580200",
+    "cbsnl:BU_NAAM":"Sint Isidorushoeve kern",
+    "cbsnl:GM_CODE":"GM0158",
+    "cbsnl:GM_NAAM":"Haaksbergen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"86",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK015802",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":244030.027891,
+    "geom:bbox":"6.69628172034,52.1734987066,6.70611826364,52.179416918",
+    "geom:latitude":52.176586,
+    "geom:longitude":6.701662,
+    "iso:country":"NL",
+    "lbl:latitude":52.176522,
+    "lbl:longitude":6.702147,
+    "mps:latitude":52.176522,
+    "mps:longitude":6.702147,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Sint Isidorushoeve kern"
+    ],
+    "name:nld_x_preferred":[
+        "Sint Isidorushoeve kern"
+    ],
+    "reversegeo:latitude":52.176522,
+    "reversegeo:longitude":6.702147,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473829,
+        85633337,
+        101807215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a4adbc626acefd1c1d3b71de06ed5f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473829,
+            "locality_id":101807215,
+            "neighbourhood_id":1158802491,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158802491,
+    "wof:lastmodified":1513524265,
+    "wof:name":"Sint Isidorushoeve kern",
+    "wof:parent_id":101807215,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.696281720342276,
+    52.17349870664836,
+    6.706118263642774,
+    52.17941691801991
+],
+  "geometry": {"coordinates":[[[[6.70229186580882,52.17349870664836],[6.69628172034228,52.17684201601117],[6.69669780144531,52.17736521664438],[6.69731681123205,52.17767997810228],[6.69965696383392,52.17840201413264],[6.70376643362093,52.17941691801991],[6.70441816746634,52.17885682426373],[6.7045957044203,52.17813825539632],[6.70487496442151,52.1773910224988],[6.70611826364277,52.17602429496665],[6.70608697442275,52.17576199886382],[6.70229186580882,52.17349870664836]]]],"type":"MultiPolygon"}
+}

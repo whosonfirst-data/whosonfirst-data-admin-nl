@@ -1,0 +1,80 @@
+{
+  "id": 1158827923,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU15250102",
+    "cbsnl:BU_NAAM":"'s-Gravendamseweg",
+    "cbsnl:GM_CODE":"GM1525",
+    "cbsnl:GM_NAAM":"Teylingen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"248",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK152501",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":371698.698215,
+    "geom:bbox":"4.4918630324,52.2378260447,4.5053176738,52.2454884424",
+    "geom:latitude":52.241564,
+    "geom:longitude":4.498328,
+    "iso:country":"NL",
+    "lbl:latitude":52.241486,
+    "lbl:longitude":4.498328,
+    "mps:latitude":52.241486,
+    "mps:longitude":4.498328,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "'s-Gravendamseweg"
+    ],
+    "name:nld_x_preferred":[
+        "'s-Gravendamseweg"
+    ],
+    "reversegeo:latitude":52.241486,
+    "reversegeo:longitude":4.498328,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474545,
+        85633337,
+        101808461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"9f2538aa855656ee0d0084405cfe8e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474545,
+            "locality_id":101808461,
+            "neighbourhood_id":1158827923,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827923,
+    "wof:lastmodified":1513588182,
+    "wof:name":"'s-Gravendamseweg",
+    "wof:parent_id":101808461,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.491863032403602,
+    52.23782604469091,
+    4.505317673799454,
+    52.24548844237475
+],
+  "geometry": {"coordinates":[[[[4.49685481115191,52.24548844237475],[4.50531767379945,52.24056463028919],[4.50398623335012,52.24002802725167],[4.50196982263498,52.239293873715],[4.49920931173305,52.23782604469091],[4.4918630324036,52.2421059388249],[4.4955366887652,52.24459857652349],[4.49556745979621,52.24461944543972],[4.49589549676794,52.24484192678853],[4.49591596787036,52.24485579183276],[4.49592810357895,52.24486401418288],[4.49685481115191,52.24548844237475]]]],"type":"MultiPolygon"}
+}

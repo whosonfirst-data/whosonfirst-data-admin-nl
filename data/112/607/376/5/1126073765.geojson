@@ -1,0 +1,93 @@
+{
+  "id": 1126073765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.60161,52.56851,6.60161,52.56851",
+    "geom:latitude":52.56851,
+    "geom:longitude":6.60161,
+    "gn:gn_country":"NL",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"NL",
+    "lbl:latitude":52.56851,
+    "lbl:longitude":6.60161,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NL",
+    "qs_pg:gn_country":"NL",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2754700,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Heemse",
+    "qs_pg:name_adm0":"Nederland",
+    "qs_pg:name_adm1":"Overijssel",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1250908,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424909,
+    "qs_pg:woe_id":729799,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424909,
+    "woe:name_adm0":"Nederland",
+    "woe:name_adm1":"Overijssel",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        404473831,
+        85633337,
+        101807179,
+        85687045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2754700,
+        "gp:id":729799,
+        "qs_pg:id":1250908
+    },
+    "wof:country":"NL",
+    "wof:created":1497310484,
+    "wof:geomhash":"e053ca0aad6ed54fdb68de536d6fbfe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473831,
+            "locality_id":101807179,
+            "neighbourhood_id":1126073765,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1126073765,
+    "wof:lastmodified":1511998873,
+    "wof:name":"Heemse",
+    "wof:parent_id":101807179,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        85797673
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.60161,
+    52.56851,
+    6.60161,
+    52.56851
+],
+  "geometry": {"coordinates":[6.60161,52.56851],"type":"Point"}
+}

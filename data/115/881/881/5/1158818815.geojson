@@ -1,0 +1,80 @@
+{
+  "id": 1158818815,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03840003",
+    "cbsnl:BU_NAAM":"Polderland",
+    "cbsnl:GM_CODE":"GM0384",
+    "cbsnl:GM_NAAM":"Diemen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2894",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK038400",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":115511.076224,
+    "geom:bbox":"4.94991189089,52.3296026319,4.95657670716,52.3336737156",
+    "geom:latitude":52.331687,
+    "geom:longitude":4.953154,
+    "iso:country":"NL",
+    "lbl:latitude":52.331833,
+    "lbl:longitude":4.953154,
+    "mps:latitude":52.331833,
+    "mps:longitude":4.953154,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Polderland"
+    ],
+    "name:nld_x_preferred":[
+        "Polderland"
+    ],
+    "reversegeo:latitude":52.331833,
+    "reversegeo:longitude":4.953154,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158823043,
+        85633337,
+        1158822543,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d0e884112e30ae99b340f34fe1f9dc33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":1158822543,
+            "macrohood_id":1158823043,
+            "neighbourhood_id":1158818815,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818815,
+    "wof:lastmodified":1513464097,
+    "wof:name":"Polderland",
+    "wof:parent_id":1158823043,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.949911890890876,
+    52.32960263191243,
+    4.956576707158533,
+    52.333673715647855
+],
+  "geometry": {"coordinates":[[[[4.94991189089088,52.33209976107727],[4.95073243982876,52.33249572197045],[4.95175245974067,52.33306486697034],[4.95249594250587,52.33339818046788],[4.95310944771954,52.33367371564785],[4.95320402417796,52.3336369880899],[4.95397099481889,52.33333898927918],[4.95474019402689,52.3329876300058],[4.95522124301224,52.33270542987901],[4.95577743017002,52.33223925514898],[4.95629936352753,52.33167576975664],[4.95646349071688,52.33139241229439],[4.95657670715853,52.33120576575235],[4.95198582741543,52.32960263191243],[4.94996671192899,52.33203817286818],[4.94991189089088,52.33209976107727]]]],"type":"MultiPolygon"}
+}

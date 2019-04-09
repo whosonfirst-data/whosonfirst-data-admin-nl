@@ -1,0 +1,80 @@
+{
+  "id": 1158825769,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050904",
+    "cbsnl:BU_NAAM":"Blaauwweg en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2558",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050509",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":291411.526771,
+    "geom:bbox":"4.67584569285,51.7787052537,4.68469027356,51.7841368625",
+    "geom:latitude":51.781445,
+    "geom:longitude":4.679831,
+    "iso:country":"NL",
+    "lbl:latitude":51.781438,
+    "lbl:longitude":4.679831,
+    "mps:latitude":51.781438,
+    "mps:longitude":4.679831,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Blaauwweg en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Blaauwweg en omgeving"
+    ],
+    "reversegeo:latitude":51.781438,
+    "reversegeo:longitude":4.679831,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829529,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"a57db7f56ddeb49fede1949e204280a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829529,
+            "neighbourhood_id":1158825769,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825769,
+    "wof:lastmodified":1513588016,
+    "wof:name":"Blaauwweg en omgeving",
+    "wof:parent_id":1158829529,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.675845692850856,
+    51.778705253716936,
+    4.684690273562131,
+    51.78413686249287
+],
+  "geometry": {"coordinates":[[[[4.67732016998812,51.78413686249287],[4.6804992079094,51.78409142082533],[4.68469027356213,51.78399410683894],[4.68464356309531,51.78281940962612],[4.68318207471188,51.78263449507795],[4.68263300841445,51.78143341006722],[4.68323109415143,51.77949230537232],[4.68314707845515,51.77870525371694],[4.68051026862152,51.77876564716883],[4.67584569285086,51.77883619991105],[4.67588372663109,51.77992228411271],[4.6759720363453,51.78217876848549],[4.67630280465797,51.78255403845591],[4.67720518433016,51.78357778861637],[4.677290946906,51.78382491263487],[4.67732016998812,51.78413686249287]]]],"type":"MultiPolygon"}
+}

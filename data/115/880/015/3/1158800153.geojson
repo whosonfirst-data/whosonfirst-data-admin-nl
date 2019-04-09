@@ -1,0 +1,80 @@
+{
+  "id": 1158800153,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17090000",
+    "cbsnl:BU_NAAM":"Centrum",
+    "cbsnl:GM_CODE":"GM1709",
+    "cbsnl:GM_NAAM":"Moerdijk",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1462",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170900",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:area_square_m":605537.111616,
+    "geom:bbox":"4.5978061719,51.6398845738,4.61566897729,51.6477979404",
+    "geom:latitude":51.643963,
+    "geom:longitude":4.606467,
+    "iso:country":"NL",
+    "lbl:latitude":51.643854,
+    "lbl:longitude":4.606603,
+    "mps:latitude":51.643854,
+    "mps:longitude":4.606603,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Centrum"
+    ],
+    "name:nld_x_preferred":[
+        "Centrum"
+    ],
+    "reversegeo:latitude":51.643854,
+    "reversegeo:longitude":4.606603,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474623,
+        85633337,
+        101809653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"de6da9e5e52b340b6f72b7ef32dfc401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474623,
+            "locality_id":101809653,
+            "neighbourhood_id":1158800153,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158800153,
+    "wof:lastmodified":1513432804,
+    "wof:name":"Centrum",
+    "wof:parent_id":101809653,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.597806171902025,
+    51.639884573760995,
+    4.615668977292529,
+    51.64779794037528
+],
+  "geometry": {"coordinates":[[[[4.61566897729253,51.64681882057496],[4.61439194194799,51.64561487480193],[4.6103299874444,51.64160028998545],[4.60860267129004,51.63988457376099],[4.60762353906815,51.6400373283721],[4.60512259492488,51.6404672775603],[4.6032535638226,51.64094186012264],[4.60008604210887,51.64198241411344],[4.5989684926107,51.64227787995195],[4.59863757674918,51.64236536538679],[4.59802357798256,51.64253285929311],[4.59780617190203,51.6436479835331],[4.59936976913652,51.6443776305061],[4.60097221773813,51.64528448504642],[4.60246423850798,51.64622934266141],[4.60428130728156,51.64693281222947],[4.60785121848583,51.64779794037528],[4.60808417369836,51.64743909251887],[4.60929226025728,51.64692577228985],[4.61116585893589,51.64678174700639],[4.61421355043035,51.64675528477662],[4.61566897729253,51.64681882057496]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158787103,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09952228",
+    "cbsnl:BU_NAAM":"Bedrijventerrein Kempenaar",
+    "cbsnl:GM_CODE":"GM0995",
+    "cbsnl:GM_NAAM":"Lelystad",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1624",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK099522",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":73133.858602,
+    "geom:bbox":"5.45726957657,52.517074114,5.46125652905,52.5203785565",
+    "geom:latitude":52.518747,
+    "geom:longitude":5.459122,
+    "iso:country":"NL",
+    "lbl:latitude":52.518794,
+    "lbl:longitude":5.458923,
+    "mps:latitude":52.518794,
+    "mps:longitude":5.458923,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein Kempenaar"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein Kempenaar"
+    ],
+    "reversegeo:latitude":52.518794,
+    "reversegeo:longitude":5.458923,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158787399,
+        85633337,
+        101751873,
+        85687049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c764c191b83ad08d93b32cf66b2c9984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751873,
+            "macrohood_id":1158787399,
+            "neighbourhood_id":1158787103,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158787103,
+    "wof:lastmodified":1513299293,
+    "wof:name":"Bedrijventerrein Kempenaar",
+    "wof:parent_id":1158787399,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.457269576571595,
+    52.517074114040575,
+    5.461256529051465,
+    52.52037855651499
+],
+  "geometry": {"coordinates":[[[[5.4572695765716,52.52026760749876],[5.46023250585761,52.52037855651499],[5.46026912193905,52.51996515843932],[5.46029006599204,52.5199146463518],[5.46031334927129,52.51969259002759],[5.46049807285584,52.51935580538583],[5.46051241012262,52.51928445500582],[5.46039304957059,52.51862481587533],[5.46080786139148,52.51837125536057],[5.46084719512538,52.51831832472543],[5.46082915703491,52.51803694184244],[5.46099072388157,52.51803587636536],[5.46112927494305,52.51800438488855],[5.46120760397624,52.51795650377066],[5.46124475522849,52.51791202901674],[5.46125652905147,52.51784872995742],[5.46122225417509,52.51739213257724],[5.46115322449514,52.51712009632322],[5.46106323985351,52.51707411404058],[5.46082825433824,52.51720572090429],[5.46070868838425,52.51721140677633],[5.45850651572015,52.51726886504123],[5.45830552487193,52.51730105087721],[5.45812696554292,52.51739173904092],[5.45802659994067,52.51751034860832],[5.45748610611319,52.51819070128577],[5.45745417377241,52.51829515574953],[5.4572695765716,52.52026760749876]]]],"type":"MultiPolygon"}
+}

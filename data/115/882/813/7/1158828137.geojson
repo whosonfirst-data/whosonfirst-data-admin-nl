@@ -1,0 +1,80 @@
+{
+  "id": 1158828137,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17830408",
+    "cbsnl:BU_NAAM":"Nieuwe Vaart",
+    "cbsnl:GM_CODE":"GM1783",
+    "cbsnl:GM_NAAM":"Westland",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1531",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK178304",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":310169.346089,
+    "geom:bbox":"4.17061373272,51.9978611244,4.18115656399,52.0047623271",
+    "geom:latitude":52.0011,
+    "geom:longitude":4.175364,
+    "iso:country":"NL",
+    "lbl:latitude":52.000933,
+    "lbl:longitude":4.175364,
+    "mps:latitude":52.000933,
+    "mps:longitude":4.175364,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Nieuwe Vaart"
+    ],
+    "name:nld_x_preferred":[
+        "Nieuwe Vaart"
+    ],
+    "reversegeo:latitude":52.000933,
+    "reversegeo:longitude":4.175364,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
+        85633337,
+        101808481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"170b06f541ee00c5885f8952b11fc2ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474667,
+            "locality_id":101808481,
+            "neighbourhood_id":1158828137,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828137,
+    "wof:lastmodified":1513588202,
+    "wof:name":"Nieuwe Vaart",
+    "wof:parent_id":101808481,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.170613732720631,
+    51.997861124409816,
+    4.181156563989148,
+    52.004762327078595
+],
+  "geometry": {"coordinates":[[[[4.17061373272063,52.00348587345511],[4.17593373407479,52.00476232707859],[4.17662602541188,52.00330130899971],[4.17839552810932,52.00211433654523],[4.17862781955949,52.00167848120397],[4.17899499501171,52.00122741106507],[4.18002641659092,52.00027851414101],[4.18115656398915,51.9988917700352],[4.17822323438927,51.99872947894003],[4.17607460027441,51.99842518481625],[4.17583684135576,51.99826669700925],[4.17302661819848,51.99786112440982],[4.17302456134477,51.99787579868418],[4.17233399017588,51.99988251988725],[4.17145268975815,52.00210207593934],[4.17111861265707,52.00265312452704],[4.17061373272063,52.00348587345511]]]],"type":"MultiPolygon"}
+}

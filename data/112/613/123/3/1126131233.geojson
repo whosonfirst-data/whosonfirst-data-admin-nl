@@ -1,0 +1,79 @@
+{
+  "id": 1126131233,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00720005",
+    "cbsnl:BU_NAAM":"Koningsbuurt",
+    "cbsnl:GM_CODE":"GM0072",
+    "cbsnl:GM_NAAM":"Harlingen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"817",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK007200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:area_square_m":722275.137705,
+    "geom:bbox":"5.43047831429,53.170635641,5.45625776266,53.1780505119",
+    "geom:latitude":53.173519,
+    "geom:longitude":5.444566,
+    "iso:country":"NL",
+    "lbl:latitude":53.174491,
+    "lbl:longitude":5.443296,
+    "mps:latitude":53.174491,
+    "mps:longitude":5.443296,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Koningsbuurt"
+    ],
+    "name:eng_x_preferred":[
+        "Koningsbuurt"
+    ],
+    "reversegeo:latitude":53.174491,
+    "reversegeo:longitude":5.443296,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        404473769,
+        85633337,
+        101806147,
+        85687055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c1a94d15945d681eabc84e5cdc2262e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473769,
+            "locality_id":101806147,
+            "neighbourhood_id":1126131233,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":1126131233,
+    "wof:lastmodified":1507246093,
+    "wof:name":"Koningsbuurt",
+    "wof:parent_id":101806147,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.43047831428757,
+    53.17063564100083,
+    5.45625776265746,
+    53.17805051187881
+],
+  "geometry": {"coordinates":[[[[5.44268895516655,53.17805051187881],[5.44311052037847,53.17785038465511],[5.44770691251726,53.17588927363251],[5.45168813252668,53.1748965240394],[5.45471557210544,53.17511837236979],[5.45625776265746,53.17534325708965],[5.45623750172912,53.17392353318486],[5.45556264580481,53.17170895213886],[5.44892533103286,53.17146264787551],[5.44659978708408,53.17135880420096],[5.43047831428757,53.17063564100083],[5.43077183756527,53.17091633675202],[5.43167571144643,53.17167585608382],[5.43328410389339,53.17241768799006],[5.43493724661923,53.17300616118456],[5.43643800521147,53.17353121415758],[5.43701121918464,53.17394712659965],[5.43748402691404,53.17421818243406],[5.43838195642279,53.17473391676328],[5.44268895516655,53.17805051187881]]]],"type":"MultiPolygon"}
+}

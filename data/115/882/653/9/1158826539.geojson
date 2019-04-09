@@ -1,0 +1,80 @@
+{
+  "id": 1158826539,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05560303",
+    "cbsnl:BU_NAAM":"Binnenstad",
+    "cbsnl:GM_CODE":"GM0556",
+    "cbsnl:GM_NAAM":"Maassluis",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2459",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK055603",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":98775.324652,
+    "geom:bbox":"4.25343703688,51.9185711177,4.25990930287,51.922613911",
+    "geom:latitude":51.920606,
+    "geom:longitude":4.256857,
+    "iso:country":"NL",
+    "lbl:latitude":51.920674,
+    "lbl:longitude":4.256906,
+    "mps:latitude":51.920674,
+    "mps:longitude":4.256906,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Binnenstad"
+    ],
+    "name:nld_x_preferred":[
+        "Binnenstad"
+    ],
+    "reversegeo:latitude":51.920674,
+    "reversegeo:longitude":4.256906,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831269,
+        85633337,
+        101754631,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"800073784fea794eb38a5a8f26169941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754631,
+            "macrohood_id":1158831269,
+            "neighbourhood_id":1158826539,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826539,
+    "wof:lastmodified":1513588072,
+    "wof:name":"Binnenstad",
+    "wof:parent_id":1158831269,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.253437036877625,
+    51.918571117726124,
+    4.259909302866573,
+    51.92261391102571
+],
+  "geometry": {"coordinates":[[[[4.25725564440318,51.92261391102571],[4.25802538110329,51.92163458065247],[4.25990930286657,51.91943333072194],[4.25722428650335,51.91857111772612],[4.25717093629258,51.91863958651816],[4.25343703687763,51.92150255656791],[4.25392910353454,51.92176008558495],[4.25446105594084,51.92174329289109],[4.25725564440318,51.92261391102571]]]],"type":"MultiPolygon"}
+}

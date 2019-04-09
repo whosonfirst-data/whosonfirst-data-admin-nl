@@ -1,0 +1,80 @@
+{
+  "id": 1158791675,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17011400",
+    "cbsnl:BU_NAAM":"Vledderveen",
+    "cbsnl:GM_CODE":"GM1701",
+    "cbsnl:GM_NAAM":"Westerveld",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"45",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170114",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000022,
+    "geom:area_square_m":167048.401357,
+    "geom:bbox":"6.18310097507,52.8737544633,6.19224699185,52.8784372218",
+    "geom:latitude":52.876081,
+    "geom:longitude":6.187889,
+    "iso:country":"NL",
+    "lbl:latitude":52.876363,
+    "lbl:longitude":6.187819,
+    "mps:latitude":52.876363,
+    "mps:longitude":6.187819,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vledderveen"
+    ],
+    "name:nld_x_preferred":[
+        "Vledderveen"
+    ],
+    "reversegeo:latitude":52.876363,
+    "reversegeo:longitude":6.187819,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474613,
+        85633337,
+        1158792169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1c5d53381aa83cfbf13bb932eb8f3858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474613,
+            "locality_id":1158792169,
+            "neighbourhood_id":1158791675,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158791675,
+    "wof:lastmodified":1513292356,
+    "wof:name":"Vledderveen",
+    "wof:parent_id":1158792169,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.183100975073106,
+    52.87375446325025,
+    6.192246991853606,
+    52.878437221827824
+],
+  "geometry": {"coordinates":[[[[6.18877103877374,52.87520924626714],[6.18863907815868,52.87524194773212],[6.18725169973094,52.87459746484419],[6.18616295910638,52.87410037300729],[6.18531975843095,52.87375446325025],[6.18310097507311,52.87569634949472],[6.18540551440733,52.87679588496505],[6.18829300715652,52.878074572913],[6.18915820907987,52.87843722182782],[6.19007456926656,52.87761774818163],[6.19139450099779,52.8779952938585],[6.19191344321701,52.87737619482065],[6.19184500420724,52.87734650729114],[6.19213716266672,52.87711134161425],[6.19084658448706,52.87656755294433],[6.19135312527005,52.87614500826673],[6.19110963826025,52.87603234195219],[6.19224699185361,52.87509750501701],[6.191728073139,52.87484698590753],[6.19156027666482,52.87485446746221],[6.19120030093827,52.87468543136878],[6.19056900494892,52.8751723200752],[6.18940502482416,52.87465941358532],[6.18877103877374,52.87520924626714]]]],"type":"MultiPolygon"}
+}

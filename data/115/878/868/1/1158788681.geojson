@@ -1,0 +1,80 @@
+{
+  "id": 1158788681,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03562400",
+    "cbsnl:BU_NAAM":"Stadscentrum",
+    "cbsnl:GM_CODE":"GM0356",
+    "cbsnl:GM_NAAM":"Nieuwegein",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2547",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK035624",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":274609.368701,
+    "geom:bbox":"5.07476684943,52.0260322482,5.08773178813,52.0313477799",
+    "geom:latitude":52.028656,
+    "geom:longitude":5.081061,
+    "iso:country":"NL",
+    "lbl:latitude":52.028655,
+    "lbl:longitude":5.081061,
+    "mps:latitude":52.028655,
+    "mps:longitude":5.081061,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Stadscentrum"
+    ],
+    "name:nld_x_preferred":[
+        "Stadscentrum"
+    ],
+    "reversegeo:latitude":52.028655,
+    "reversegeo:longitude":5.081061,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158790215,
+        85633337,
+        101751825,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"aa4e7ac6d0723f24553e5339fb4721fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751825,
+            "macrohood_id":1158790215,
+            "neighbourhood_id":1158788681,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158788681,
+    "wof:lastmodified":1513622030,
+    "wof:name":"Stadscentrum",
+    "wof:parent_id":1158790215,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.074766849431306,
+    52.026032248204324,
+    5.087731788132535,
+    52.03134777987378
+],
+  "geometry": {"coordinates":[[[[5.08773178813254,52.02859809097539],[5.0865090616574,52.0270778906591],[5.08582334034519,52.02627119905729],[5.08559007564645,52.02603224820432],[5.07476684943131,52.02842004658051],[5.07625454971191,52.03134777987378],[5.07927300555553,52.03075584817363],[5.08038165472991,52.03047822094803],[5.08260712899202,52.02982230582345],[5.08363248558717,52.02959635702606],[5.08474410512369,52.02938755978006],[5.08724824762999,52.02879473516656],[5.08773178813254,52.02859809097539]]]],"type":"MultiPolygon"}
+}

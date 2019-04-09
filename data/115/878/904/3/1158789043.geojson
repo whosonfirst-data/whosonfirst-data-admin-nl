@@ -1,0 +1,85 @@
+{
+  "id": 1158789043,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19040216",
+    "cbsnl:BU_NAAM":"Rode Dorp",
+    "cbsnl:GM_CODE":"GM1904",
+    "cbsnl:GM_NAAM":"Stichtse Vecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1067",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK190402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7453.062433,
+    "geom:bbox":"4.99217973384,52.1692538578,4.99387903521,52.1705214033",
+    "geom:latitude":52.170022,
+    "geom:longitude":4.993232,
+    "iso:country":"NL",
+    "lbl:latitude":52.170086,
+    "lbl:longitude":4.993231,
+    "mps:latitude":52.170086,
+    "mps:longitude":4.993231,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Rode Dorp"
+    ],
+    "name:eng_x_preferred":[
+        "Rode Dorp"
+    ],
+    "name:nld_x_preferred":[
+        "Rode Dorp"
+    ],
+    "reversegeo:latitude":52.170086,
+    "reversegeo:longitude":4.993231,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158787499,
+        85633337,
+        101806981,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2452145"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"70d452daaa3fe6b83f15fcad1a87efb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158787499,
+            "locality_id":101806981,
+            "neighbourhood_id":1158789043,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158789043,
+    "wof:lastmodified":1514492857,
+    "wof:name":"Rode Dorp",
+    "wof:parent_id":101806981,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.99217973384065,
+    52.16925385782967,
+    4.99387903520855,
+    52.17052140332729
+],
+  "geometry": {"coordinates":[[[[4.99372701119646,52.16925385782967],[4.99338590635965,52.169542083411],[4.99295836491986,52.16985607706282],[4.9925396277713,52.17020316613485],[4.99242646093776,52.1703000373425],[4.99238997417009,52.17033246991364],[4.99227853176694,52.17042465032094],[4.99217973384065,52.17048872949427],[4.99334872351132,52.17052018244341],[4.99334831570833,52.17052140332729],[4.99334871285025,52.17052139038928],[4.99336593555211,52.17050049469889],[4.99343034759717,52.17042234715032],[4.99342791497955,52.17038286898251],[4.99387475588247,52.16988862780325],[4.99387903520855,52.16940309766206],[4.99372701119646,52.16925385782967]]]],"type":"MultiPolygon"}
+}

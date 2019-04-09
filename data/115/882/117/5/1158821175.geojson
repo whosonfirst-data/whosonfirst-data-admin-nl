@@ -1,0 +1,82 @@
+{
+  "id": 1158821175,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19420004",
+    "cbsnl:BU_NAAM":"Cereslaan",
+    "cbsnl:GM_CODE":"GM1942",
+    "cbsnl:GM_NAAM":"Gooise Meren",
+    "cbsnl:IND_WBI":"2",
+    "cbsnl:OAD":"3343",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK194200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":99381.602247,
+    "geom:bbox":"5.16514332633,52.2702385145,5.17069436211,52.2740476053",
+    "geom:latitude":52.272167,
+    "geom:longitude":5.16781,
+    "iso:country":"NL",
+    "lbl:latitude":52.272191,
+    "lbl:longitude":5.16781,
+    "mps:latitude":52.272191,
+    "mps:longitude":5.16781,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Cereslaan"
+    ],
+    "name:nld_x_preferred":[
+        "Cereslaan"
+    ],
+    "reversegeo:latitude":52.272191,
+    "reversegeo:longitude":5.16781,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823103,
+        1158818281,
+        85633337,
+        101753097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"171f78c7f8bc7d62f2cc4dcc653b126e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158818281,
+            "locality_id":101753097,
+            "macrohood_id":1158823103,
+            "neighbourhood_id":1158821175,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158821175,
+    "wof:lastmodified":1513464285,
+    "wof:name":"Cereslaan",
+    "wof:parent_id":1158823103,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.165143326330931,
+    52.270238514503504,
+    5.170694362107617,
+    52.274047605297156
+],
+  "geometry": {"coordinates":[[[[5.16648497324727,52.27391513709749],[5.16743056319986,52.27380174334944],[5.16866056563509,52.27395063438057],[5.16915527192827,52.27404760529716],[5.1692557662506,52.27386185505351],[5.1694453114889,52.27348921194836],[5.16967903076621,52.27302480768459],[5.1698874255422,52.2726353464258],[5.17012363592174,52.27226812273832],[5.17052726292903,52.27183745006547],[5.17069436210762,52.27151054570793],[5.16963073188467,52.27119767259052],[5.16800176520024,52.27059051956947],[5.16744722319116,52.27042771056101],[5.16647529058653,52.2702385145035],[5.16606764921082,52.27086296534574],[5.16560766176663,52.27142306540132],[5.16535290735824,52.27168999038971],[5.16514332633093,52.27205581079579],[5.16601869418555,52.27279894201838],[5.1663525704141,52.27342421574278],[5.16648497324727,52.27391513709749]]]],"type":"MultiPolygon"}
+}

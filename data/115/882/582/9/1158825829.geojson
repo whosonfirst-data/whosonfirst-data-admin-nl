@@ -1,0 +1,80 @@
+{
+  "id": 1158825829,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05051110",
+    "cbsnl:BU_NAAM":"Aletta Jacobs-erf en omgeving",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1419",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050511",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":190217.351438,
+    "geom:bbox":"4.7271853993,51.7942952835,4.73593771516,51.7992548895",
+    "geom:latitude":51.796551,
+    "geom:longitude":4.731898,
+    "iso:country":"NL",
+    "lbl:latitude":51.796754,
+    "lbl:longitude":4.732329,
+    "mps:latitude":51.796754,
+    "mps:longitude":4.732329,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Aletta Jacobs-erf en omgeving"
+    ],
+    "name:nld_x_preferred":[
+        "Aletta Jacobs-erf en omgeving"
+    ],
+    "reversegeo:latitude":51.796754,
+    "reversegeo:longitude":4.732329,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829601,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"60848bd0985e9334b30210a986dadbfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829601,
+            "neighbourhood_id":1158825829,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825829,
+    "wof:lastmodified":1513588019,
+    "wof:name":"Aletta Jacobs-erf en omgeving",
+    "wof:parent_id":1158829601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.727185399302357,
+    51.79429528345073,
+    4.735937715160931,
+    51.79925488951736
+],
+  "geometry": {"coordinates":[[[[4.73593771516093,51.79776661258058],[4.73481155466104,51.79583449179026],[4.73483307486701,51.79550098003288],[4.73420949614672,51.79429528345073],[4.72729742156764,51.79531393050512],[4.72787556275482,51.79631971724547],[4.72718539930236,51.79647242977738],[4.72758602477527,51.79714020410299],[4.72764047702401,51.79721398515201],[4.72847649153998,51.79702371816732],[4.72841382890923,51.79690813184724],[4.72902444060828,51.79677841016182],[4.72938597497314,51.79678930952811],[4.72974597102721,51.79690673246951],[4.73039754710361,51.79759832737395],[4.7304375709012,51.79811324992237],[4.73080923528758,51.79857737303116],[4.73090854700026,51.7986707001977],[4.73134085809776,51.79925488951736],[4.73590316116178,51.79777835606541],[4.73593771516093,51.79776661258058]]]],"type":"MultiPolygon"}
+}

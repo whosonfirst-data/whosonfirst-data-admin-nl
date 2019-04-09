@@ -1,0 +1,80 @@
+{
+  "id": 1158787245,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU09955222",
+    "cbsnl:BU_NAAM":"Warande West",
+    "cbsnl:GM_CODE":"GM0995",
+    "cbsnl:GM_NAAM":"Lelystad",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"270",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK099552",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000109,
+    "geom:area_square_m":817218.677342,
+    "geom:bbox":"5.43404835343,52.4763743807,5.45607684861,52.4907797131",
+    "geom:latitude":52.483749,
+    "geom:longitude":5.44541,
+    "iso:country":"NL",
+    "lbl:latitude":52.483849,
+    "lbl:longitude":5.44541,
+    "mps:latitude":52.483849,
+    "mps:longitude":5.44541,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Warande West"
+    ],
+    "name:nld_x_preferred":[
+        "Warande West"
+    ],
+    "reversegeo:latitude":52.483849,
+    "reversegeo:longitude":5.44541,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158787417,
+        85633337,
+        101751873,
+        85687049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"bf27933a4d1b52f576b339a54d8f3ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751873,
+            "macrohood_id":1158787417,
+            "neighbourhood_id":1158787245,
+            "region_id":85687049
+        }
+    ],
+    "wof:id":1158787245,
+    "wof:lastmodified":1513299302,
+    "wof:name":"Warande West",
+    "wof:parent_id":1158787417,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.434048353430015,
+    52.47637438073212,
+    5.45607684861137,
+    52.49077971308198
+],
+  "geometry": {"coordinates":[[[[5.43404835343001,52.48772814271403],[5.43532808588519,52.48849445733075],[5.43916753081573,52.49077971308198],[5.44485961085673,52.48724419833957],[5.45048345605934,52.4837502401969],[5.45518266550552,52.48083010702584],[5.45366716951977,52.47992783175419],[5.45607684861137,52.47841778952903],[5.45265722886878,52.47637438073212],[5.43404835343001,52.48772814271403]]]],"type":"MultiPolygon"}
+}

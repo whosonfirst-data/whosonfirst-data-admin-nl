@@ -1,0 +1,80 @@
+{
+  "id": 1158799997,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU16741300",
+    "cbsnl:BU_NAAM":"Moerstraten",
+    "cbsnl:GM_CODE":"GM1674",
+    "cbsnl:GM_NAAM":"Roosendaal",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"57",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK167413",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:area_square_m":746417.337517,
+    "geom:bbox":"4.33652938816,51.5367928283,4.35378235249,51.5464985632",
+    "geom:latitude":51.54115,
+    "geom:longitude":4.344369,
+    "iso:country":"NL",
+    "lbl:latitude":51.54215,
+    "lbl:longitude":4.342343,
+    "mps:latitude":51.54215,
+    "mps:longitude":4.342343,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Moerstraten"
+    ],
+    "name:nld_x_preferred":[
+        "Moerstraten"
+    ],
+    "reversegeo:latitude":51.54215,
+    "reversegeo:longitude":4.342343,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474587,
+        85633337,
+        1158801545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6a901accc8bca3fafea837891dc7fa84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474587,
+            "locality_id":1158801545,
+            "neighbourhood_id":1158799997,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158799997,
+    "wof:lastmodified":1513432793,
+    "wof:name":"Moerstraten",
+    "wof:parent_id":1158801545,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.336529388157502,
+    51.53679282834866,
+    4.353782352489587,
+    51.54649856317046
+],
+  "geometry": {"coordinates":[[[[4.34871139559825,51.53721661635594],[4.3365293881575,51.53928940142401],[4.33723329495181,51.54457242211821],[4.34339155403822,51.54629240145159],[4.34413075412025,51.54649856317046],[4.34433463088414,51.54615879148808],[4.34575572769348,51.54378841618483],[4.34670225712173,51.54262015648967],[4.34855251939011,51.54214940030102],[4.35378235248959,51.54133819594188],[4.35211861430133,51.53729539193956],[4.35129979873164,51.53679282834866],[4.34871139559825,51.53721661635594]]]],"type":"MultiPolygon"}
+}

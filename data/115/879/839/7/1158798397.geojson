@@ -1,0 +1,80 @@
+{
+  "id": 1158798397,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08230300",
+    "cbsnl:BU_NAAM":"Oostelbeers",
+    "cbsnl:GM_CODE":"GM0823",
+    "cbsnl:GM_NAAM":"Oirschot",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"199",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082303",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":439717.129579,
+    "geom:bbox":"5.26289432816,51.4684663726,5.27411534183,51.4757409402",
+    "geom:latitude":51.472647,
+    "geom:longitude":5.268893,
+    "iso:country":"NL",
+    "lbl:latitude":51.472132,
+    "lbl:longitude":5.268893,
+    "mps:latitude":51.472132,
+    "mps:longitude":5.268893,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oostelbeers"
+    ],
+    "name:nld_x_preferred":[
+        "Oostelbeers"
+    ],
+    "reversegeo:latitude":51.472132,
+    "reversegeo:longitude":5.268893,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474407,
+        85633337,
+        101809743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d02fc7d7062bd3b459a12fbe588a736a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474407,
+            "locality_id":101809743,
+            "neighbourhood_id":1158798397,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798397,
+    "wof:lastmodified":1513432673,
+    "wof:name":"Oostelbeers",
+    "wof:parent_id":101809743,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.262894328159253,
+    51.46846637262628,
+    5.274115341834467,
+    51.47574094023859
+],
+  "geometry": {"coordinates":[[[[5.26785390918248,51.46846637262628],[5.26472234103833,51.47165860389463],[5.26311770037496,51.4736714959924],[5.26289432815925,51.4743499028428],[5.26343582540651,51.47528248857239],[5.26857376067995,51.47553584769948],[5.27056544099445,51.47574094023859],[5.27254895768981,51.4757125658893],[5.27326353310144,51.47542281733317],[5.27341267064073,51.47505161956879],[5.27366981749335,51.4735732344751],[5.27411534183447,51.47094111120541],[5.27378961257295,51.4705290012682],[5.27234665170686,51.47031355073428],[5.27165381666158,51.46995163473172],[5.27006854802228,51.46911944831523],[5.26834449263872,51.46849833290976],[5.26785390918248,51.46846637262628]]]],"type":"MultiPolygon"}
+}

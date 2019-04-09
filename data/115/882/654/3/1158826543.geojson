@@ -1,0 +1,80 @@
+{
+  "id": 1158826543,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05560402",
+    "cbsnl:BU_NAAM":"Componistenbuurt",
+    "cbsnl:GM_CODE":"GM0556",
+    "cbsnl:GM_NAAM":"Maassluis",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2234",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK055604",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":183531.790554,
+    "geom:bbox":"4.24008917399,51.9245543631,4.25065878488,51.9297810044",
+    "geom:latitude":51.927099,
+    "geom:longitude":4.245496,
+    "iso:country":"NL",
+    "lbl:latitude":51.926449,
+    "lbl:longitude":4.243214,
+    "mps:latitude":51.926449,
+    "mps:longitude":4.243214,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Componistenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Componistenbuurt"
+    ],
+    "reversegeo:latitude":51.926449,
+    "reversegeo:longitude":4.243214,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831271,
+        85633337,
+        101754631,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"7ef3ad1a68e26d77785a6f4ede124155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754631,
+            "macrohood_id":1158831271,
+            "neighbourhood_id":1158826543,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826543,
+    "wof:lastmodified":1513588072,
+    "wof:name":"Componistenbuurt",
+    "wof:parent_id":1158831271,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.240089173993893,
+    51.9245543630945,
+    4.250658784882634,
+    51.929781004430296
+],
+  "geometry": {"coordinates":[[[[4.2471822282082,51.9297810044303],[4.2473677791674,51.9296514942974],[4.24878503357405,51.92861848550637],[4.25065766881809,51.92703689138978],[4.25065878488263,51.92679263649675],[4.2489119597404,51.92578213131996],[4.24852870542202,51.92597141683024],[4.2467932857844,51.92685292733072],[4.24619040479306,51.92691774989969],[4.24608555908067,51.92654502078295],[4.24280856097037,51.9245543630945],[4.24008917399389,51.92626519904265],[4.24314361490511,51.92810756138007],[4.24381260305964,51.92800754391045],[4.244242163529,51.92796159121423],[4.24454142573986,51.92815460043376],[4.24595536372639,51.92901834842411],[4.24634230251305,51.92894526667889],[4.24666303463713,51.92952273687477],[4.2471822282082,51.9297810044303]]]],"type":"MultiPolygon"}
+}

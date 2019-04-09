@@ -1,0 +1,96 @@
+{
+  "id": 1108803675,
+  "type": "Feature",
+  "properties": {
+    "amsgis:_categories":"buurt",
+    "amsgis:_id":"buurt.03630000000566",
+    "amsgis:categorie":"90",
+    "amsgis:code":"19b",
+    "amsgis:display":"Borgerbuurt",
+    "amsgis:externe_id":"3630000000566",
+    "amsgis:naam":"Borgerbuurt",
+    "amsgis:online_tijdsaspect":"1",
+    "amsgis:titel":"Borgerbuurt",
+    "amsgis:titel_key":"borgerbuurt_5",
+    "amsgis:type":"Buurtgrenzen",
+    "amsgis:type_2":"gebieden/buurt",
+    "amsgis:uri":"https://api.datapunt.amsterdam.nl/gebieden/buurt/03630000000566/",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":124294.670491,
+    "geom:bbox":"4.86267742058,52.3630651224,4.87197870924,52.3668486092",
+    "geom:latitude":52.364938,
+    "geom:longitude":4.867333,
+    "iso:country":"NL",
+    "lbl:latitude":52.364929,
+    "lbl:longitude":4.867333,
+    "mps:latitude":52.364929,
+    "mps:longitude":4.867333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "name:dut_x_preferred":[
+        "Borgerbuurt"
+    ],
+    "name:eng_x_preferred":[
+        "Borgerbuurt"
+    ],
+    "name:fre_x_preferred":[
+        "Borgerbuurt"
+    ],
+    "name:ita_x_preferred":[
+        "Borgerbuurt"
+    ],
+    "reversegeo:latitude":52.364929,
+    "reversegeo:longitude":4.867333,
+    "src:geom":"amsgis",
+    "wof:belongsto":[
+        1108945387,
+        102191581,
+        1158844367,
+        85633337,
+        101751893,
+        1158844285,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q3642455"
+    },
+    "wof:controlled":[],
+    "wof:country":"NL",
+    "wof:geomhash":"a25a94bfef391ebec36d758750d6eeb5",
+    "wof:hierarchy":[
+        {
+            "borough_id":1158844285,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844367,
+            "microhood_id":1108803675,
+            "neighbourhood_id":1108945387,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1108803675,
+    "wof:lastmodified":1514491995,
+    "wof:name":"Borgerbuurt",
+    "wof:parent_id":1108945387,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.86267742057521,
+    52.36306512244299,
+    4.87197870923818,
+    52.36684860922989
+],
+  "geometry": {"coordinates":[[[4.86377873168401,52.36306512244299],[4.86364632418302,52.36327352598281],[4.86347385048007,52.36354367480345],[4.86324617793141,52.36390775313401],[4.86301710696464,52.36427096479161],[4.8628810938343,52.3644866617971],[4.86267742057521,52.36480637647887],[4.86378318238573,52.36507037895573],[4.86487494159268,52.36533229243818],[4.86575126951928,52.36554197741389],[4.86718676475586,52.36589008943168],[4.86865955322134,52.36626881190278],[4.87080364980366,52.36684860922989],[4.87127268384654,52.36615933379173],[4.87197870923818,52.36514548238855],[4.87147188014865,52.36498624124793],[4.87042719288088,52.36469615338209],[4.86946787740805,52.36443524087809],[4.86832468303788,52.36416147426105],[4.86772218277021,52.36402466620564],[4.86692056691296,52.36383208446275],[4.86670775175606,52.36378095614376],[4.86582671926148,52.3635699753254],[4.86462279825656,52.36326752555522],[4.86398932033031,52.36311562132623],[4.86377873168401,52.36306512244299]]],"type":"Polygon"}
+}

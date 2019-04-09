@@ -1,0 +1,82 @@
+{
+  "id": 1158818437,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03610603",
+    "cbsnl:BU_NAAM":"De Horn-Zuid",
+    "cbsnl:GM_CODE":"GM0361",
+    "cbsnl:GM_NAAM":"Alkmaar",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2468",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK036106",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:area_square_m":592570.70184,
+    "geom:bbox":"4.75679455523,52.6479945102,4.76909631498,52.6582009037",
+    "geom:latitude":52.653127,
+    "geom:longitude":4.762493,
+    "iso:country":"NL",
+    "lbl:latitude":52.653435,
+    "lbl:longitude":4.762991,
+    "mps:latitude":52.653435,
+    "mps:longitude":4.762991,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "De Horn-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "De Horn-Zuid"
+    ],
+    "reversegeo:latitude":52.653435,
+    "reversegeo:longitude":4.762991,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        1158823277,
+        404474025,
+        85633337,
+        101751887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"915ac1d072314d588e5ba7ca17bdd7cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474025,
+            "locality_id":101751887,
+            "macrohood_id":1158823277,
+            "neighbourhood_id":1158818437,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818437,
+    "wof:lastmodified":1513464063,
+    "wof:name":"De Horn-Zuid",
+    "wof:parent_id":1158823277,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.756794555227691,
+    52.64799451023442,
+    4.769096314984677,
+    52.65820090367605
+],
+  "geometry": {"coordinates":[[[[4.76909631498468,52.6563113484554],[4.76532033184033,52.64992780704001],[4.76461676996209,52.64889598546441],[4.75726791404194,52.64799451023442],[4.75748934181327,52.64852593056345],[4.75679455522769,52.65060818957158],[4.7570158816527,52.65135350612139],[4.75735830256696,52.65169234160156],[4.75913377956095,52.65319720772241],[4.7584293257958,52.65337143265592],[4.75931642589362,52.65489586025318],[4.7591034946659,52.65531803489232],[4.75953063193468,52.65604106523341],[4.75897762797171,52.65616306828269],[4.75973245560143,52.65743335341443],[4.76016618657135,52.65748866507131],[4.75999503731544,52.65777894899827],[4.76172165803012,52.65816999836871],[4.76247203472561,52.65820090367605],[4.76320416933761,52.6581634053291],[4.76565697077192,52.65705913652307],[4.76909631498468,52.6563113484554]]]],"type":"MultiPolygon"}
+}

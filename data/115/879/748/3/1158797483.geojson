@@ -1,0 +1,80 @@
+{
+  "id": 1158797483,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU07721625",
+    "cbsnl:BU_NAAM":"Zwaanstraat",
+    "cbsnl:GM_CODE":"GM0772",
+    "cbsnl:GM_NAAM":"Eindhoven",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1453",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK077216",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:area_square_m":523036.198658,
+    "geom:bbox":"5.44177124783,51.4479291652,5.45751512594,51.4563613864",
+    "geom:latitude":51.451502,
+    "geom:longitude":5.449122,
+    "iso:country":"NL",
+    "lbl:latitude":51.452588,
+    "lbl:longitude":5.449003,
+    "mps:latitude":51.452588,
+    "mps:longitude":5.449003,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zwaanstraat"
+    ],
+    "name:nld_x_preferred":[
+        "Zwaanstraat"
+    ],
+    "reversegeo:latitude":51.452588,
+    "reversegeo:longitude":5.449003,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158801465,
+        85633337,
+        101751819,
+        85687035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"07fdbf79e36c56d1fb4b080eeb779a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751819,
+            "macrohood_id":1158801465,
+            "neighbourhood_id":1158797483,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158797483,
+    "wof:lastmodified":1513432596,
+    "wof:name":"Zwaanstraat",
+    "wof:parent_id":1158801465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.441771247834421,
+    51.44792916520677,
+    5.457515125936322,
+    51.45636138641037
+],
+  "geometry": {"coordinates":[[[[5.44876473198277,51.45636138641037],[5.45085636271289,51.45478182418784],[5.4538065452474,51.45255364327483],[5.45751512593632,51.4498426644775],[5.4556314247116,51.44923169486959],[5.45362353805561,51.44856694291851],[5.45176889572784,51.44794548474272],[5.4510544191039,51.44879180838547],[5.44997421851927,51.44979271840968],[5.44945966255115,51.4496940656645],[5.44870981561624,51.44972150230983],[5.44516796581912,51.44823730442116],[5.44449364187334,51.44792916520677],[5.44287258229928,51.4494612750421],[5.44177124783442,51.45050210620372],[5.442988210239,51.45175103497427],[5.44495330428949,51.45355126223215],[5.44542840949628,51.45363393693385],[5.44583392538105,51.45398550115641],[5.44783085328342,51.45580545097224],[5.44819555335673,51.45608576129655],[5.44876473198277,51.45636138641037]]]],"type":"MultiPolygon"}
+}

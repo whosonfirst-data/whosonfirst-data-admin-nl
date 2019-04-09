@@ -1,0 +1,122 @@
+{
+  "id": 85859641,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06290002",
+    "cbsnl:BU_NAAM":"Nieuw-Wassenaar",
+    "cbsnl:GM_CODE":"GM0629",
+    "cbsnl:GM_NAAM":"Wassenaar",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"480",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK062900",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000155,
+    "geom:area_square_m":1179065.741739,
+    "geom:bbox":"4.35216539002,52.1055270377,4.37233381561,52.1199555432",
+    "geom:latitude":52.113272,
+    "geom:longitude":4.361263,
+    "gn:id":"",
+    "iso:country":"NL",
+    "lbl:latitude":52.114321,
+    "lbl:longitude":4.362278,
+    "mps:latitude":52.113827,
+    "mps:longitude":4.362791,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Nieuw-Wassenaar"
+    ],
+    "name:nld_x_preferred":[
+        "Nieuw-Wassenaar"
+    ],
+    "name:unk_x_variant":[
+        "Nieuw Wassenaar"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":2744991,
+    "qs:gn_nam_loc":"Wassenaar, Wassenaar, Zuid-Holland, NL",
+    "qs:gn_namadm1":"11",
+    "qs:local_max":767,
+    "qs:local_sum":2836,
+    "qs:localhoods":8,
+    "qs:name":"Nieuw Wassenaar",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Zuid-Holland",
+    "qs:name_adm2":"Wassenaar",
+    "qs:name_local":"Wassenaar",
+    "qs:photo_max":158,
+    "qs:photo_sum":767,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":47,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346383,
+    "qs:woe_adm2":12592468,
+    "qs:woe_lau":0,
+    "qs:woe_local":734528,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":52.113827,
+    "reversegeo:longitude":4.362791,
+    "src:geom":"cbsnl",
+    "src:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg",
+        "mz"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831321,
+        85633337,
+        101754719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20063904,
+        "qs:id":1084674,
+        "qs_pg:id":1084674
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"a18d1dac005aa56e14506f7dd9eba47c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754719,
+            "macrohood_id":1158831321,
+            "neighbourhood_id":85859641,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":85859641,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527270337,
+    "wof:name":"Nieuw-Wassenaar",
+    "wof:parent_id":1158831321,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.35216539002163,
+    52.105527037733,
+    4.37233381561473,
+    52.11995554316061
+],
+  "geometry": {"coordinates":[[[[4.35300653564348,52.11691743630918],[4.35809176383472,52.11975289789621],[4.36091106687246,52.11845783098223],[4.3636236779642,52.11995554316061],[4.36931195322491,52.11601104215396],[4.37100679242477,52.11498747925914],[4.37233381561473,52.11450116623562],[4.36737926830357,52.11120902986858],[4.35883135571354,52.105527037733],[4.35862500404474,52.1056494926375],[4.3586161833885,52.1056547279813],[4.3586107031009,52.10566072982076],[4.35863197439628,52.10567200747885],[4.35848925846661,52.10576131332763],[4.35848656521298,52.10575894720595],[4.3553361862374,52.10738996229082],[4.3521692898041,52.10933717051009],[4.35216539002163,52.10986016122781],[4.35790843003481,52.1131426983377],[4.3531426664111,52.11682677733946],[4.35300653564348,52.11691743630918]]]],"type":"MultiPolygon"}
+}

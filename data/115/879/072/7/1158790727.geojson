@@ -1,0 +1,80 @@
+{
+  "id": 1158790727,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01093032",
+    "cbsnl:BU_NAAM":"Oosterhesselen",
+    "cbsnl:GM_CODE":"GM0109",
+    "cbsnl:GM_NAAM":"Coevorden",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"246",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK010930",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00022,
+    "geom:area_square_m":1645693.242701,
+    "geom:bbox":"6.70705847381,52.7474787168,6.72842072818,52.7634385981",
+    "geom:latitude":52.75634,
+    "geom:longitude":6.719052,
+    "iso:country":"NL",
+    "lbl:latitude":52.755458,
+    "lbl:longitude":6.719052,
+    "mps:latitude":52.755458,
+    "mps:longitude":6.719052,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oosterhesselen"
+    ],
+    "name:nld_x_preferred":[
+        "Oosterhesselen"
+    ],
+    "reversegeo:latitude":52.755458,
+    "reversegeo:longitude":6.719052,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473807,
+        85633337,
+        101807319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"06a8b8f803e1839a043f5b43bc0c8f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473807,
+            "locality_id":101807319,
+            "neighbourhood_id":1158790727,
+            "region_id":85687051
+        }
+    ],
+    "wof:id":1158790727,
+    "wof:lastmodified":1513292293,
+    "wof:name":"Oosterhesselen",
+    "wof:parent_id":101807319,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.707058473813585,
+    52.74747871679446,
+    6.72842072817701,
+    52.76343859806036
+],
+  "geometry": {"coordinates":[[[[6.71644320354185,52.74747871679446],[6.70705847381358,52.76223215176706],[6.7082369573849,52.76323470667161],[6.7103103839,52.76266062211464],[6.71319658412295,52.76212520253483],[6.71646879493272,52.76199996749924],[6.71924652564591,52.76238573968462],[6.72153850368231,52.76281396593139],[6.7209877823126,52.76195561975814],[6.72734345380713,52.76343859806036],[6.72842072817701,52.75884885077749],[6.72714562424726,52.75857390835121],[6.72755231718786,52.75724081603312],[6.72758596178266,52.75678935846003],[6.72712992521038,52.75631139401369],[6.72551996956612,52.75555149007405],[6.72649696326255,52.75334578224402],[6.72731929578395,52.75359437002265],[6.72748225521384,52.75267128020674],[6.72668391922922,52.7525257840573],[6.72840035659299,52.75004378698844],[6.72268075757807,52.74881270366992],[6.72143046841248,52.74904580049789],[6.71710202802243,52.74815612049371],[6.71644320354185,52.74747871679446]]]],"type":"MultiPolygon"}
+}

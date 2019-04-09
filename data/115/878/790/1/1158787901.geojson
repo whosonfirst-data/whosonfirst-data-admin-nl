@@ -1,0 +1,80 @@
+{
+  "id": 1158787901,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03100401",
+    "cbsnl:BU_NAAM":"Achterwetering",
+    "cbsnl:GM_CODE":"GM0310",
+    "cbsnl:GM_NAAM":"De Bilt",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"40",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK031004",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:area_square_m":235818.153168,
+    "geom:bbox":"5.14700431629,52.1488243412,5.1589590981,52.1527367061",
+    "geom:latitude":52.150837,
+    "geom:longitude":5.153372,
+    "iso:country":"NL",
+    "lbl:latitude":52.15079,
+    "lbl:longitude":5.153486,
+    "mps:latitude":52.15079,
+    "mps:longitude":5.153486,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Achterwetering"
+    ],
+    "name:nld_x_preferred":[
+        "Achterwetering"
+    ],
+    "reversegeo:latitude":52.15079,
+    "reversegeo:longitude":5.153486,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473975,
+        85633337,
+        101806993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ba2c105686099b7a0184c15b074217fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473975,
+            "locality_id":101806993,
+            "neighbourhood_id":1158787901,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":1158787901,
+    "wof:lastmodified":1513621960,
+    "wof:name":"Achterwetering",
+    "wof:parent_id":101806993,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.147004316292192,
+    52.148824341221086,
+    5.158959098104073,
+    52.152736706133794
+],
+  "geometry": {"coordinates":[[[[5.14922406522315,52.15273670613379],[5.15264520705453,52.152622216508],[5.15500754154708,52.15244263388871],[5.15682937780135,52.15192405852998],[5.15817079024536,52.15132278899096],[5.15882159956243,52.15093672652917],[5.15895909810407,52.15061230224548],[5.15893002786527,52.15026986016535],[5.15847101065377,52.15034171846322],[5.15837564385803,52.14983933100338],[5.15802844203005,52.14943223220609],[5.15734061102782,52.14911828250064],[5.15656867936972,52.14891258072698],[5.15570536737093,52.14889656553927],[5.15468437353784,52.14882434122109],[5.15315488239878,52.1490757890413],[5.14767977323031,52.15052366614241],[5.14747985207347,52.15046820896386],[5.14739231162723,52.15044471804401],[5.14700431629219,52.15033888111395],[5.1478942529306,52.15110017212841],[5.14922406522315,52.15273670613379]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1158792577,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00140203",
+    "cbsnl:BU_NAAM":"Kostverloren",
+    "cbsnl:GM_CODE":"GM0014",
+    "cbsnl:GM_NAAM":"Groningen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3471",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK001402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":263260.201239,
+    "geom:bbox":"6.53982334583,53.213058844,6.549933535,53.2200831049",
+    "geom:latitude":53.216144,
+    "geom:longitude":6.543818,
+    "iso:country":"NL",
+    "lbl:latitude":53.215929,
+    "lbl:longitude":6.5434,
+    "mps:latitude":53.215929,
+    "mps:longitude":6.5434,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Kostverloren"
+    ],
+    "name:eng_x_preferred":[
+        "Kostverloren"
+    ],
+    "name:fre_x_preferred":[
+        "Kostverloren"
+    ],
+    "name:nld_x_preferred":[
+        "Kostverloren"
+    ],
+    "reversegeo:latitude":53.215929,
+    "reversegeo:longitude":6.5434,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404473713,
+        85633337,
+        101751909,
+        85687059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1969060"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"fa264c173251ca955d7548e3e0c6dec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473713,
+            "locality_id":101751909,
+            "neighbourhood_id":1158792577,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158792577,
+    "wof:lastmodified":1514492476,
+    "wof:name":"Kostverloren",
+    "wof:parent_id":101751909,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.53982334582923,
+    53.21305884400961,
+    6.54993353499586,
+    53.22008310494572
+],
+  "geometry": {"coordinates":[[[[6.54017204530843,53.21892962679205],[6.54043642983608,53.21935528537271],[6.54067066472346,53.21966081641511],[6.54108918554041,53.22008310494572],[6.54301008599244,53.21885963757401],[6.54505705476582,53.21764049270308],[6.54679658273666,53.21672955050769],[6.5486281659098,53.21568693965566],[6.54987113817308,53.21494952079613],[6.54983786318807,53.21471144370508],[6.54993353499586,53.21466404291159],[6.54991510568107,53.21459442404947],[6.54981663772814,53.2145595912425],[6.54938161326451,53.21459382003202],[6.54923118647121,53.21455953994092],[6.54269492835715,53.21306982159973],[6.54264676977315,53.21305884400961],[6.54052579505485,53.21569023965198],[6.54028782868376,53.21605216117387],[6.5400670910706,53.2164539954233],[6.53994172734859,53.21680566787289],[6.5398479738175,53.21721994097297],[6.53982334582923,53.21758771972565],[6.5398455849502,53.21791640645231],[6.53989725651726,53.21822593927343],[6.54004745137889,53.21866482759283],[6.54017204530843,53.21892962679205]]]],"type":"MultiPolygon"}
+}

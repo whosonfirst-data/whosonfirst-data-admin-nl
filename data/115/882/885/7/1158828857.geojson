@@ -1,0 +1,82 @@
+{
+  "id": 1158828857,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19300602",
+    "cbsnl:BU_NAAM":"Gildenwijk-West",
+    "cbsnl:GM_CODE":"GM1930",
+    "cbsnl:GM_NAAM":"Nissewaard",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3261",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK193006",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":92211.376855,
+    "geom:bbox":"4.33065537732,51.8430961824,4.33869647715,51.8459005263",
+    "geom:latitude":51.844169,
+    "geom:longitude":4.334793,
+    "iso:country":"NL",
+    "lbl:latitude":51.844529,
+    "lbl:longitude":4.334519,
+    "mps:latitude":51.844529,
+    "mps:longitude":4.334519,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Gildenwijk-West"
+    ],
+    "name:nld_x_preferred":[
+        "Gildenwijk-West"
+    ],
+    "reversegeo:latitude":51.844529,
+    "reversegeo:longitude":4.334519,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831179,
+        1158824747,
+        85633337,
+        101751847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"da1fce7e7856e4b89ce0405c8422519b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158824747,
+            "locality_id":101751847,
+            "macrohood_id":1158831179,
+            "neighbourhood_id":1158828857,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158828857,
+    "wof:lastmodified":1513588279,
+    "wof:name":"Gildenwijk-West",
+    "wof:parent_id":1158831179,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.330655377320777,
+    51.84309618239954,
+    4.338696477148004,
+    51.84590052633869
+],
+  "geometry": {"coordinates":[[[[4.338696477148,51.84343531243618],[4.33074055177308,51.84309618239954],[4.33068837423843,51.84323862000018],[4.33067876025679,51.84333305456093],[4.33065537732078,51.84356272905093],[4.33121193355707,51.84365227793712],[4.33157122592194,51.84376167863857],[4.33187788675824,51.84389866115399],[4.3320778323438,51.84408670461509],[4.33238320290689,51.84439917024871],[4.33303761820383,51.8449859659235],[4.33338768174546,51.84521914061947],[4.33403110476431,51.84568696805264],[4.33428177163958,51.84590052633869],[4.33862182817773,51.8440643762349],[4.338696477148,51.84343531243618]]]],"type":"MultiPolygon"}
+}

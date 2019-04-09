@@ -1,0 +1,80 @@
+{
+  "id": 1158827367,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06220603",
+    "cbsnl:BU_NAAM":"Loper Zuid",
+    "cbsnl:GM_CODE":"GM0622",
+    "cbsnl:GM_NAAM":"Vlaardingen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2999",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK062206",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":200027.978577,
+    "geom:bbox":"4.34200068288,51.9275718076,4.35126156322,51.9326736514",
+    "geom:latitude":51.930237,
+    "geom:longitude":4.346539,
+    "iso:country":"NL",
+    "lbl:latitude":51.92992,
+    "lbl:longitude":4.345837,
+    "mps:latitude":51.92992,
+    "mps:longitude":4.345837,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Loper Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Loper Zuid"
+    ],
+    "reversegeo:latitude":51.92992,
+    "reversegeo:longitude":4.345837,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831319,
+        85633337,
+        101751851,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f791bc6543fc1125d0302986b5a15b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751851,
+            "macrohood_id":1158831319,
+            "neighbourhood_id":1158827367,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827367,
+    "wof:lastmodified":1513588143,
+    "wof:name":"Loper Zuid",
+    "wof:parent_id":1158831319,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.342000682877358,
+    51.927571807584606,
+    4.351261563216613,
+    51.93267365142227
+],
+  "geometry": {"coordinates":[[[[4.34200068287736,51.93107687466018],[4.34255374774147,51.93108881276202],[4.3495298311701,51.93267365142227],[4.34953183987312,51.93267029832613],[4.35126156321661,51.92990153125977],[4.34781366245663,51.92910282734303],[4.34762715998298,51.92904303079377],[4.34730789304699,51.92863374269684],[4.34712744228787,51.92831275846986],[4.34402870356195,51.92757180758461],[4.34200068287736,51.93107687466018]]]],"type":"MultiPolygon"}
+}

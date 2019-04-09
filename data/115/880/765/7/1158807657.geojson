@@ -1,0 +1,80 @@
+{
+  "id": 1158807657,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17290501",
+    "cbsnl:BU_NAAM":"Eperheide",
+    "cbsnl:GM_CODE":"GM1729",
+    "cbsnl:GM_NAAM":"Gulpen-Wittem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"41",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK172905",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":642953.556903,
+    "geom:bbox":"5.88457988886,50.7698168594,5.89921222055,50.7777617422",
+    "geom:latitude":50.773319,
+    "geom:longitude":5.892233,
+    "iso:country":"NL",
+    "lbl:latitude":50.773804,
+    "lbl:longitude":5.892224,
+    "mps:latitude":50.773804,
+    "mps:longitude":5.892224,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Eperheide"
+    ],
+    "name:nld_x_preferred":[
+        "Eperheide"
+    ],
+    "reversegeo:latitude":50.773804,
+    "reversegeo:longitude":5.892224,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474645,
+        85633337,
+        101855217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"450d9c3251f126bf76642e81d49c1594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474645,
+            "locality_id":101855217,
+            "neighbourhood_id":1158807657,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158807657,
+    "wof:lastmodified":1513404136,
+    "wof:name":"Eperheide",
+    "wof:parent_id":101855217,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.884579888862126,
+    50.76981685935074,
+    5.899212220546295,
+    50.77776174221373
+],
+  "geometry": {"coordinates":[[[[5.88457988886213,50.77192450214497],[5.88995077225742,50.77739795075573],[5.89386610242732,50.77776174221373],[5.89401398800487,50.77767232786041],[5.8992122205463,50.77428192859487],[5.89835742910406,50.77053930928847],[5.89441965548039,50.77015666908701],[5.89088866378127,50.76990330320488],[5.88666449557591,50.76981685935074],[5.88647693985422,50.77015680535037],[5.88622814749033,50.77004693635532],[5.88626176054814,50.77013912856394],[5.88457988886213,50.77192450214497]]]],"type":"MultiPolygon"}
+}

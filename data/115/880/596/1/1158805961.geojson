@@ -1,0 +1,80 @@
+{
+  "id": 1158805961,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08880103",
+    "cbsnl:BU_NAAM":"Kelmond",
+    "cbsnl:GM_CODE":"GM0888",
+    "cbsnl:GM_NAAM":"Beek",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"101",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK088801",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":794979.647062,
+    "geom:bbox":"5.79001430441,50.9172952025,5.8061453529,50.9283280721",
+    "geom:latitude":50.922775,
+    "geom:longitude":5.798379,
+    "iso:country":"NL",
+    "lbl:latitude":50.922692,
+    "lbl:longitude":5.798379,
+    "mps:latitude":50.922692,
+    "mps:longitude":5.798379,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kelmond"
+    ],
+    "name:nld_x_preferred":[
+        "Kelmond"
+    ],
+    "reversegeo:latitude":50.922692,
+    "reversegeo:longitude":5.798379,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474471,
+        85633337,
+        1158817991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"80edb9629c6c5c3329197b43d91f097b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474471,
+            "locality_id":1158817991,
+            "neighbourhood_id":1158805961,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158805961,
+    "wof:lastmodified":1513403994,
+    "wof:name":"Kelmond",
+    "wof:parent_id":1158817991,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.790014304409806,
+    50.91729520250449,
+    5.80614535289612,
+    50.92832807211708
+],
+  "geometry": {"coordinates":[[[[5.80511377867958,50.92541883303739],[5.80552289623566,50.92458391586558],[5.80614535289612,50.92247657785421],[5.80281349450599,50.92044895942705],[5.79780440154695,50.91814939797611],[5.7961301905299,50.91729520250449],[5.79347281104036,50.91848126409523],[5.79277680834545,50.91876630915709],[5.79245994697637,50.91976216484542],[5.79155966212373,50.92072260887682],[5.79001430440981,50.92296270445337],[5.79180545346113,50.9239118957808],[5.79307579855558,50.9245861074241],[5.7967386572339,50.92626311179389],[5.80028377868079,50.92779126362986],[5.80169669100012,50.92832807211708],[5.80260941031907,50.92765793523312],[5.80367035232384,50.92684231414484],[5.80511377867958,50.92541883303739]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158806089,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08990431",
+    "cbsnl:BU_NAAM":"Douvenberg",
+    "cbsnl:GM_CODE":"GM0899",
+    "cbsnl:GM_NAAM":"Brunssum",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1304",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK089904",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:area_square_m":288180.445302,
+    "geom:bbox":"5.97164113255,50.9358335116,5.98654767109,50.9409607878",
+    "geom:latitude":50.938701,
+    "geom:longitude":5.978409,
+    "iso:country":"NL",
+    "lbl:latitude":50.938826,
+    "lbl:longitude":5.97841,
+    "mps:latitude":50.938826,
+    "mps:longitude":5.97841,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Douvenberg"
+    ],
+    "name:nld_x_preferred":[
+        "Douvenberg"
+    ],
+    "reversegeo:latitude":50.938826,
+    "reversegeo:longitude":5.97841,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158818203,
+        85633337,
+        101839207,
+        85687033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"fc4ae4c8246e6dc7c03d6bbb1d192fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101839207,
+            "macrohood_id":1158818203,
+            "neighbourhood_id":1158806089,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158806089,
+    "wof:lastmodified":1513404004,
+    "wof:name":"Douvenberg",
+    "wof:parent_id":1158818203,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.971641132554916,
+    50.93583351157447,
+    5.98654767108609,
+    50.94096078784142
+],
+  "geometry": {"coordinates":[[[[5.98317475475631,50.94093304516738],[5.98331789248919,50.94093118450431],[5.98503662628061,50.94052680491878],[5.98654767108609,50.94022291711409],[5.98449550141061,50.93928518569527],[5.98175727125278,50.93833549381056],[5.97961874788883,50.93728856573556],[5.97573144834926,50.9363491042557],[5.97281970896929,50.93583351157447],[5.97278383912648,50.93588171587015],[5.97228931659524,50.93669994565303],[5.97227637139248,50.93669797068089],[5.97208825228247,50.93690982459306],[5.97171320916847,50.9373321801741],[5.97164113255492,50.9373958647831],[5.97380520661068,50.93850668710697],[5.97505607306077,50.93950514085262],[5.97721256302646,50.94037508984402],[5.97917246921693,50.94083419744714],[5.97976417587414,50.94074240367928],[5.9811108000549,50.94096078784142],[5.98317475475631,50.94093304516738]]]],"type":"MultiPolygon"}
+}

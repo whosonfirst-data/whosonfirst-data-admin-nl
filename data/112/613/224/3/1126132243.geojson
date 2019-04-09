@@ -1,0 +1,79 @@
+{
+  "id": 1126132243,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU19000114",
+    "cbsnl:BU_NAAM":"Lemmerweg-Oost",
+    "cbsnl:GM_CODE":"GM1900",
+    "cbsnl:GM_NAAM":"S\u00fadwest-Frysl\u00e2n",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2019",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK190001",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:area_square_m":562668.586087,
+    "geom:bbox":"5.65524689032,53.0217527113,5.67127346661,53.0290086706",
+    "geom:latitude":53.024824,
+    "geom:longitude":5.662042,
+    "iso:country":"NL",
+    "lbl:latitude":53.025414,
+    "lbl:longitude":5.661393,
+    "mps:latitude":53.025414,
+    "mps:longitude":5.661393,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Lemmerweg-Oost"
+    ],
+    "name:eng_x_preferred":[
+        "Lemmerweg-Oost"
+    ],
+    "reversegeo:latitude":53.025414,
+    "reversegeo:longitude":5.661393,
+    "src:geom":"cbsnl",
+    "wof:belongsto":[
+        102191581,
+        1141960735,
+        85633337,
+        101837971,
+        85687055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"730eec9b04866653fde056de7a814a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1141960735,
+            "locality_id":101837971,
+            "neighbourhood_id":1126132243,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":1126132243,
+    "wof:lastmodified":1507246103,
+    "wof:name":"Lemmerweg-Oost",
+    "wof:parent_id":101837971,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.65524689031865,
+    53.02175271125338,
+    5.67127346661322,
+    53.0290086705884
+],
+  "geometry": {"coordinates":[[[[5.65920049865793,53.0289125212481],[5.65950866585551,53.02858551022],[5.66038886518883,53.02848858757167],[5.6620193704261,53.02893247115831],[5.66209880344964,53.0290086705884],[5.66447390134468,53.02747779202102],[5.66619439815551,53.02684757021372],[5.66713763802136,53.02613265208212],[5.66777724151864,53.02499553044954],[5.6692755574454,53.0234520059167],[5.67105880988609,53.02223240995064],[5.67127346661322,53.02176293688613],[5.67108548322598,53.02175271125338],[5.66808607527007,53.02183056153675],[5.66047840128715,53.02209755843329],[5.65524689031865,53.02227339917246],[5.6557906963382,53.02631818431178],[5.65647505478444,53.02709394479253],[5.65737659078885,53.02803545392466],[5.65920049865793,53.0289125212481]]]],"type":"MultiPolygon"}
+}

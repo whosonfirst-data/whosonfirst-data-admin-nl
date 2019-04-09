@@ -1,0 +1,81 @@
+{
+  "id": 1158796093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":148702.920303,
+    "geom:bbox":"6.7848613845,53.1543818094,6.78943075036,53.1592939093",
+    "geom:latitude":53.156823,
+    "geom:longitude":6.787143,
+    "iso:country":"NL",
+    "lbl:latitude":53.151649,
+    "lbl:longitude":6.788941,
+    "mps:latitude":53.156816,
+    "mps:longitude":6.787143,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "name:eng_x_preferred":[
+        "Kleinemeer"
+    ],
+    "name:nld_x_preferred":[
+        "Kleinemeer"
+    ],
+    "name:nld_x_variant":[
+        "Kleine Meer"
+    ],
+    "reversegeo:latitude":53.156816,
+    "reversegeo:longitude":6.787143,
+    "src:geom":"mz",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        1158792933,
+        102191581,
+        404473719,
+        85633337,
+        101838003,
+        85687059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[
+        "wof:parent_id"
+    ],
+    "wof:country":"NL",
+    "wof:geomhash":"a79eaa43cfb77276e60ccf780ca0e314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473719,
+            "locality_id":101838003,
+            "microhood_id":1158796093,
+            "neighbourhood_id":1158792933,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158796093,
+    "wof:lastmodified":1513382348,
+    "wof:name":"Kleinemeer",
+    "wof:parent_id":-3,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101837995
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.784861384503831,
+    53.15438180939168,
+    6.789430750360373,
+    53.15929390932851
+],
+  "geometry": {"coordinates":[[[[6.78527765821851,53.15438180939168],[6.78486138450383,53.15929390932851],[6.78546197876591,53.15927314941123],[6.78659898231155,53.15923516683718],[6.78703212161121,53.15922055967055],[6.78847311386857,53.15916946138825],[6.78906273865124,53.15915090704591],[6.78941800714925,53.15461121102268],[6.78943075036037,53.15444824919149],[6.78685985275016,53.15441120011937],[6.78619024013364,53.15440048330705],[6.78527765821851,53.15438180939168]]]],"type":"MultiPolygon"}
+}

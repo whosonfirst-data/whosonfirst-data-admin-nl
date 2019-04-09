@@ -1,0 +1,80 @@
+{
+  "id": 1158803647,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17000404",
+    "cbsnl:BU_NAAM":"Beter Wonen",
+    "cbsnl:GM_CODE":"GM1700",
+    "cbsnl:GM_NAAM":"Twenterand",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"821",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK170004",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:area_square_m":465694.900473,
+    "geom:bbox":"6.5483655333,52.4614554688,6.56899488497,52.4659298967",
+    "geom:latitude":52.463899,
+    "geom:longitude":6.560769,
+    "iso:country":"NL",
+    "lbl:latitude":52.463702,
+    "lbl:longitude":6.560966,
+    "mps:latitude":52.463702,
+    "mps:longitude":6.560966,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Beter Wonen"
+    ],
+    "name:nld_x_preferred":[
+        "Beter Wonen"
+    ],
+    "reversegeo:latitude":52.463702,
+    "reversegeo:longitude":6.560966,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474611,
+        85633337,
+        101837851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6d2621c5d2d34fa01169e5802d4a1f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474611,
+            "locality_id":101837851,
+            "neighbourhood_id":1158803647,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803647,
+    "wof:lastmodified":1513524353,
+    "wof:name":"Beter Wonen",
+    "wof:parent_id":101837851,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.548365533301087,
+    52.4614554687938,
+    6.568994884974239,
+    52.46592989671313
+],
+  "geometry": {"coordinates":[[[[6.54836553330109,52.46525354980088],[6.54848385267655,52.4652759845286],[6.568222227312,52.46591852322639],[6.56834923128023,52.46592989671313],[6.56899488497424,52.4614554687938],[6.56060433141532,52.46173293163731],[6.55844353627156,52.46215063152008],[6.55535228627482,52.46312041041173],[6.54876556941735,52.46440220940961],[6.54872371984902,52.46448969385991],[6.54836553330109,52.46525354980088]]]],"type":"MultiPolygon"}
+}

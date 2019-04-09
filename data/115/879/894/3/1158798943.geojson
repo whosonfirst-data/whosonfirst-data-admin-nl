@@ -1,0 +1,80 @@
+{
+  "id": 1158798943,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08460001",
+    "cbsnl:BU_NAAM":"Eerschot",
+    "cbsnl:GM_CODE":"GM0846",
+    "cbsnl:GM_NAAM":"Sint-Oedenrode",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"805",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK084600",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000109,
+    "geom:area_square_m":836967.532736,
+    "geom:bbox":"5.46354994495,51.5623619568,5.4796257848,51.5728055784",
+    "geom:latitude":51.568441,
+    "geom:longitude":5.471306,
+    "iso:country":"NL",
+    "lbl:latitude":51.568567,
+    "lbl:longitude":5.471152,
+    "mps:latitude":51.568567,
+    "mps:longitude":5.471152,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Eerschot"
+    ],
+    "name:nld_x_preferred":[
+        "Eerschot"
+    ],
+    "reversegeo:latitude":51.568567,
+    "reversegeo:longitude":5.471152,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474423,
+        85633337,
+        101808295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ed24cac4f1fbe1b8ad3e37a3cdce9522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474423,
+            "locality_id":101808295,
+            "neighbourhood_id":1158798943,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798943,
+    "wof:lastmodified":1513432711,
+    "wof:name":"Eerschot",
+    "wof:parent_id":101808295,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.463549944949344,
+    51.56236195677157,
+    5.479625784803418,
+    51.572805578403766
+],
+  "geometry": {"coordinates":[[[[5.47670092171682,51.57210641388174],[5.47754517174994,51.57186391443219],[5.47881618654108,51.56956521361023],[5.47962578480342,51.56727894384873],[5.4766016670107,51.56623749918123],[5.47409278538432,51.56505261708618],[5.4690137671322,51.56236195677157],[5.4656473365901,51.56422322537252],[5.46584091668357,51.5660475001995],[5.46538138678795,51.56772361962651],[5.46637880167812,51.56796226824323],[5.46448807844062,51.57104016342654],[5.46364287258393,51.57088201606339],[5.46354994494934,51.57204300944322],[5.46547205582055,51.57259200654565],[5.46942231980607,51.57280557840377],[5.47255084203093,51.57265108626584],[5.47527301508022,51.57251676180375],[5.47670092171682,51.57210641388174]]]],"type":"MultiPolygon"}
+}

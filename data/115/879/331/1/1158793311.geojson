@@ -1,0 +1,80 @@
+{
+  "id": 1158793311,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU00480408",
+    "cbsnl:BU_NAAM":"Ter Apel 't Heem",
+    "cbsnl:GM_CODE":"GM0048",
+    "cbsnl:GM_NAAM":"Vlagtwedde",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"554",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK004804",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000151,
+    "geom:area_square_m":1127017.854037,
+    "geom:bbox":"7.05557864984,52.8800475168,7.07260680641,52.8898344266",
+    "geom:latitude":52.885051,
+    "geom:longitude":7.063475,
+    "iso:country":"NL",
+    "lbl:latitude":52.884942,
+    "lbl:longitude":7.063475,
+    "mps:latitude":52.884942,
+    "mps:longitude":7.063475,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ter Apel 't Heem"
+    ],
+    "name:nld_x_preferred":[
+        "Ter Apel 't Heem"
+    ],
+    "reversegeo:latitude":52.884942,
+    "reversegeo:longitude":7.063475,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473739,
+        85633337,
+        101838031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5bfdf26f7ece22cb99e6805df9efd8aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473739,
+            "locality_id":101838031,
+            "neighbourhood_id":1158793311,
+            "region_id":85687059
+        }
+    ],
+    "wof:id":1158793311,
+    "wof:lastmodified":1513382299,
+    "wof:name":"Ter Apel 't Heem",
+    "wof:parent_id":101838031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.055578649839116,
+    52.880047516818124,
+    7.072606806408637,
+    52.88983442656009
+],
+  "geometry": {"coordinates":[[[[7.07056202199614,52.88091429432633],[7.07055329209893,52.88033861076649],[7.06189840859775,52.88009695055688],[7.0556030611007,52.88004751681812],[7.05562458625221,52.88197180430871],[7.05557864983912,52.88967640796616],[7.05831529669193,52.88968811223675],[7.065094494668,52.88976038620913],[7.06901311868216,52.88983442656009],[7.07259617501159,52.88968444077509],[7.07260680640864,52.88915398870544],[7.07181598935281,52.88765064927758],[7.07125270832606,52.88610982709568],[7.07111020197012,52.8852203226548],[7.07137775623269,52.88387450032324],[7.07130500696887,52.88337274976949],[7.07078168820209,52.88240885092185],[7.07061024483092,52.88115348502176],[7.07056202199614,52.88091429432633]]]],"type":"MultiPolygon"}
+}

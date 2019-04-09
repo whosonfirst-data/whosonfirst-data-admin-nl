@@ -1,0 +1,80 @@
+{
+  "id": 1141964139,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02850001",
+    "cbsnl:BU_NAAM":"Bussloo",
+    "cbsnl:GM_CODE":"GM0285",
+    "cbsnl:GM_NAAM":"Voorst",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"26",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK028500",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:area_square_m":161992.926501,
+    "geom:bbox":"6.12806917666,52.1913583406,6.1330898293,52.1995690802",
+    "geom:latitude":52.195781,
+    "geom:longitude":6.130531,
+    "iso:country":"NL",
+    "lbl:latitude":52.195819,
+    "lbl:longitude":6.130569,
+    "mps:latitude":52.195819,
+    "mps:longitude":6.130569,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bussloo"
+    ],
+    "name:nld_x_preferred":[
+        "Bussloo"
+    ],
+    "reversegeo:latitude":52.195819,
+    "reversegeo:longitude":6.130569,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473945,
+        85633337,
+        1158783717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"78548d0780b03a15c9f3a99d12e04479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473945,
+            "locality_id":1158783717,
+            "neighbourhood_id":1141964139,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141964139,
+    "wof:lastmodified":1513368795,
+    "wof:name":"Bussloo",
+    "wof:parent_id":1158783717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.128069176661463,
+    52.191358340646225,
+    6.133089829303338,
+    52.199569080226404
+],
+  "geometry": {"coordinates":[[[[6.12806917666146,52.19135834064623],[6.12808924275111,52.19194694163505],[6.1282179620842,52.1926517068468],[6.12882122698444,52.1939267703529],[6.12949476883005,52.19792340462054],[6.13047732447547,52.1995690802264],[6.13159539772045,52.19951259796296],[6.13308982930334,52.1989467373712],[6.13198633801384,52.19567666736492],[6.13118524220431,52.1929071756391],[6.13117649091034,52.19282100192686],[6.12823527159162,52.19141122686391],[6.12806917666146,52.19135834064623]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1126064527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.84318,53.20973,5.84318,53.20973",
+    "geom:latitude":53.20973,
+    "geom:longitude":5.84318,
+    "gn:gn_country":"NL",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":11500,
+    "gn:population":11500,
+    "iso:country":"NL",
+    "lbl:latitude":53.20973,
+    "lbl:longitude":5.84318,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NL",
+    "qs_pg:gn_country":"NL",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":6324403,
+    "qs_pg:gn_pop":11500,
+    "qs_pg:name":"Camminghaburen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":280219,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1141960043,
+        404473775,
+        85633337,
+        101751907,
+        85687055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6324403,
+        "qs_pg:id":280219
+    },
+    "wof:country":"NL",
+    "wof:created":1497308652,
+    "wof:geomhash":"9161be6715eb1605c9e11e7c045af3d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473775,
+            "locality_id":101751907,
+            "macrohood_id":1141960043,
+            "neighbourhood_id":1126064527,
+            "region_id":85687055
+        }
+    ],
+    "wof:id":1126064527,
+    "wof:lastmodified":1511998872,
+    "wof:name":"Camminghaburen",
+    "wof:parent_id":1141960043,
+    "wof:placetype":"neighbourhood",
+    "wof:population":11500,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[
+        1126131445
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.84318,
+    53.20973,
+    5.84318,
+    53.20973
+],
+  "geometry": {"coordinates":[5.84318,53.20973],"type":"Point"}
+}

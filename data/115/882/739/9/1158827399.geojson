@@ -1,0 +1,78 @@
+{
+  "id": 1158827399,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06260004",
+    "cbsnl:BU_NAAM":"Boschgeest",
+    "cbsnl:GM_CODE":"GM0626",
+    "cbsnl:GM_NAAM":"Voorschoten",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1255",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK062600",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":583603.130379,
+    "geom:bbox":"4.42580991297,52.1162759644,4.44104159641,52.1267268499",
+    "geom:latitude":52.12077,
+    "geom:longitude":4.433162,
+    "iso:country":"NL",
+    "lbl:latitude":52.121317,
+    "lbl:longitude":4.434316,
+    "mps:latitude":52.121317,
+    "mps:longitude":4.434316,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Boschgeest"
+    ],
+    "name:nld_x_preferred":[
+        "Boschgeest"
+    ],
+    "reversegeo:latitude":52.121317,
+    "reversegeo:longitude":4.434316,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        101754713,
+        85633337,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"f20ccc14d77fb9584fb5c102c0966a37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754713,
+            "neighbourhood_id":1158827399,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827399,
+    "wof:lastmodified":1513588145,
+    "wof:name":"Boschgeest",
+    "wof:parent_id":101754713,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.425809912970782,
+    52.1162759643765,
+    4.441041596406233,
+    52.1267268499213
+],
+  "geometry": {"coordinates":[[[[4.43482511925122,52.12661520394494],[4.43495329846275,52.12671651168842],[4.43512045353126,52.1267268499213],[4.43524544590688,52.12656353620597],[4.43527926950895,52.12633628870301],[4.43649736309196,52.12580961295923],[4.43487329357819,52.12415413977906],[4.44104159640623,52.12131511406037],[4.43807369424182,52.11880593633209],[4.43584724265978,52.11666024033637],[4.43580969947153,52.11668774618423],[4.43277912605518,52.11895644980416],[4.43040238118408,52.11663865083776],[4.42975475070358,52.11704068502539],[4.42901212634261,52.1162759643765],[4.42580991297078,52.11818327412165],[4.42760735951141,52.12128013884839],[4.4317398347013,52.12417654148275],[4.43482511925122,52.12661520394494]]]],"type":"MultiPolygon"}
+}

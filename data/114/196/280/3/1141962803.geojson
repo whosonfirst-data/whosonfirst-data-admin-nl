@@ -1,0 +1,88 @@
+{
+  "id": 1141962803,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU02220601",
+    "cbsnl:BU_NAAM":"De Hoop-Noord",
+    "cbsnl:GM_CODE":"GM0222",
+    "cbsnl:GM_NAAM":"Doetinchem",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1259",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK022206",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":355704.436512,
+    "geom:bbox":"6.27580735738,51.958655057,6.28774991999,51.9652370914",
+    "geom:latitude":51.961178,
+    "geom:longitude":6.283064,
+    "iso:country":"NL",
+    "lbl:latitude":51.96163,
+    "lbl:longitude":6.284145,
+    "mps:latitude":51.96163,
+    "mps:longitude":6.284145,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Noord"
+    ],
+    "name:eng_x_variant":[
+        "De Hoop-Noord"
+    ],
+    "name:nld_x_preferred":[
+        "Noord"
+    ],
+    "name:nld_x_variant":[
+        "De Hoop-Noord"
+    ],
+    "reversegeo:latitude":51.96163,
+    "reversegeo:longitude":6.284145,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        1158783317,
+        404473885,
+        85633337,
+        101808663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"658485251797d7d9f0e8084dfb457de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473885,
+            "locality_id":101808663,
+            "macrohood_id":1158783317,
+            "neighbourhood_id":1141962803,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141962803,
+    "wof:lastmodified":1513368701,
+    "wof:name":"Noord",
+    "wof:parent_id":1158783317,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.275807357379375,
+    51.958655057030995,
+    6.287749919987079,
+    51.965237091366724
+],
+  "geometry": {"coordinates":[[[[6.28407357698119,51.96523709136672],[6.28532357355782,51.9645603315573],[6.28631104046939,51.96390936813464],[6.28685641651749,51.96350718694957],[6.28756968195253,51.96271874176878],[6.28774991998708,51.96210344360376],[6.28774452287822,51.96101025497789],[6.28729518423124,51.958655057031],[6.28690311057547,51.95866604330448],[6.2860348971834,51.95868947320703],[6.28586992561545,51.958694559896],[6.28099668530093,51.9588309370944],[6.2786085674694,51.95889610938628],[6.27840349424685,51.95890098983824],[6.2780484450313,51.95891078700665],[6.27732361274371,51.95893301225445],[6.27614132579541,51.95896815048483],[6.27580735737938,51.95897722957044],[6.27612021090078,51.95944905637118],[6.27656860568073,51.95992564949585],[6.27702090037382,51.96026765843337],[6.27819038720752,51.96096225439256],[6.27972106488859,51.96186035033168],[6.28181180971144,51.96350090586492],[6.28407357698119,51.96523709136672]]]],"type":"MultiPolygon"}
+}

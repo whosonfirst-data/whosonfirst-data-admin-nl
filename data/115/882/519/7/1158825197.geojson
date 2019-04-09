@@ -1,0 +1,88 @@
+{
+  "id": 1158825197,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05010006",
+    "cbsnl:BU_NAAM":"Nieuwland",
+    "cbsnl:GM_CODE":"GM0501",
+    "cbsnl:GM_NAAM":"Brielle",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"905",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":539752.718815,
+    "geom:bbox":"4.16521906142,51.890013264,4.18223345216,51.8992674267",
+    "geom:latitude":51.895066,
+    "geom:longitude":4.174487,
+    "iso:country":"NL",
+    "lbl:latitude":51.89524,
+    "lbl:longitude":4.174484,
+    "mps:latitude":51.89524,
+    "mps:longitude":4.174484,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:dut_x_preferred":[
+        "Nieuwland"
+    ],
+    "name:eng_x_preferred":[
+        "Nieuwland"
+    ],
+    "name:fre_x_preferred":[
+        "Nieuwland"
+    ],
+    "name:nld_x_preferred":[
+        "Nieuwland"
+    ],
+    "reversegeo:latitude":51.89524,
+    "reversegeo:longitude":4.174484,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        404474161,
+        85633337,
+        101754623,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2520915"
+    },
+    "wof:country":"NL",
+    "wof:geomhash":"0a8e2aedbaa1c8e4b413a655558ccf16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474161,
+            "locality_id":101754623,
+            "neighbourhood_id":1158825197,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825197,
+    "wof:lastmodified":1514492691,
+    "wof:name":"Nieuwland",
+    "wof:parent_id":101754623,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.16521906142397,
+    51.89001326396559,
+    4.18223345215849,
+    51.89926742674626
+],
+  "geometry": {"coordinates":[[[[4.16960029462965,51.89472370398293],[4.16943515794122,51.89479840019995],[4.16673316614181,51.89645021071453],[4.16575221116705,51.89762321425274],[4.16521906142397,51.89807695838248],[4.1668204869577,51.8978545499515],[4.16777242389723,51.89816107622566],[4.16961919391107,51.89900610782946],[4.17056570679982,51.89923361728557],[4.17122662144833,51.89926742674626],[4.17206347310352,51.89908366139679],[4.17301862260144,51.89873116221998],[4.17471441778404,51.89789217635739],[4.17803913932984,51.89625811382136],[4.18223345215849,51.89392891560536],[4.18031183739522,51.89074136077179],[4.18011110179649,51.89062974422196],[4.17900242639727,51.89001326396559],[4.17825200771124,51.89043870936078],[4.17530703027444,51.89210731497737],[4.17186910160016,51.89363703578648],[4.17190039340452,51.89369297878702],[4.16960029462965,51.89472370398293]]]],"type":"MultiPolygon"}
+}

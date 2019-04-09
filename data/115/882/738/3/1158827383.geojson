@@ -1,0 +1,80 @@
+{
+  "id": 1158827383,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU06220704",
+    "cbsnl:BU_NAAM":"Hoofdstedenbuurt",
+    "cbsnl:GM_CODE":"GM0622",
+    "cbsnl:GM_NAAM":"Vlaardingen",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"3225",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK062207",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":210036.154609,
+    "geom:bbox":"4.34813155693,51.9326736514,4.35829573818,51.9377891777",
+    "geom:latitude":51.935116,
+    "geom:longitude":4.353219,
+    "iso:country":"NL",
+    "lbl:latitude":51.935034,
+    "lbl:longitude":4.352379,
+    "mps:latitude":51.935034,
+    "mps:longitude":4.352379,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hoofdstedenbuurt"
+    ],
+    "name:nld_x_preferred":[
+        "Hoofdstedenbuurt"
+    ],
+    "reversegeo:latitude":51.935034,
+    "reversegeo:longitude":4.352379,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829423,
+        85633337,
+        101751851,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"ce19d40f9b599a86519e800c004f21fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751851,
+            "macrohood_id":1158829423,
+            "neighbourhood_id":1158827383,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158827383,
+    "wof:lastmodified":1513588144,
+    "wof:name":"Hoofdstedenbuurt",
+    "wof:parent_id":1158829423,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.34813155693463,
+    51.93267365142227,
+    4.35829573818297,
+    51.9377891776531
+],
+  "geometry": {"coordinates":[[[[4.34813155693463,51.93490065334085],[4.35240125740297,51.93675715212585],[4.35249375058718,51.93689592033454],[4.35327486882158,51.93635822177822],[4.35383548451635,51.93650996427199],[4.35353441310606,51.93712789242851],[4.35678168136098,51.9377891776531],[4.35691970505894,51.93749291177061],[4.35685881378326,51.93728956597267],[4.35668759870033,51.9371259855622],[4.35653614527485,51.93705696113874],[4.35715022620338,51.93602160240019],[4.35730613167966,51.93590133614744],[4.35759559327009,51.93567409497673],[4.35829573818297,51.93466392085021],[4.34956870979691,51.93268242056194],[4.3495298311701,51.93267365142227],[4.34813155693463,51.93490065334085]]]],"type":"MultiPolygon"}
+}

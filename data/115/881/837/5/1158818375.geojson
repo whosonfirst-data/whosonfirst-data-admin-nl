@@ -1,0 +1,80 @@
+{
+  "id": 1158818375,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU03610204",
+    "cbsnl:BU_NAAM":"Oudorperpolder-Zuid",
+    "cbsnl:GM_CODE":"GM0361",
+    "cbsnl:GM_NAAM":"Alkmaar",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2647",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK036102",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":285483.411787,
+    "geom:bbox":"4.75839749633,52.6283225403,4.77050091233,52.6363065895",
+    "geom:latitude":52.631956,
+    "geom:longitude":4.763461,
+    "iso:country":"NL",
+    "lbl:latitude":52.631378,
+    "lbl:longitude":4.763049,
+    "mps:latitude":52.631378,
+    "mps:longitude":4.763049,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Oudorperpolder-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Oudorperpolder-Zuid"
+    ],
+    "reversegeo:latitude":52.631378,
+    "reversegeo:longitude":4.763049,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474025,
+        85633337,
+        101751887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"eb0b7a6fac03671a57db8de86c7efa80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474025,
+            "locality_id":101751887,
+            "neighbourhood_id":1158818375,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1158818375,
+    "wof:lastmodified":1513464059,
+    "wof:name":"Oudorperpolder-Zuid",
+    "wof:parent_id":101751887,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.758397496334466,
+    52.62832254031551,
+    4.770500912326488,
+    52.63630658945881
+],
+  "geometry": {"coordinates":[[[[4.76269092895545,52.63612308505863],[4.76209305577953,52.63547016364257],[4.76254709520445,52.6352245008523],[4.76332183663522,52.63507219039399],[4.76379113239048,52.6346873001964],[4.76238256275491,52.63297502055381],[4.76965384760792,52.6306008261332],[4.769337870942,52.62954048312552],[4.77050091232649,52.62928499168151],[4.76965184032367,52.62832254031551],[4.76350887852468,52.62990009432424],[4.75839749633447,52.63099298586754],[4.75885167992927,52.63177009112905],[4.75948101652632,52.6321778432542],[4.76045755454334,52.63237352504745],[4.75895053858078,52.6334332605308],[4.75963951140246,52.633907832195],[4.75884505462189,52.63440692371143],[4.7599209135239,52.6356177985791],[4.75961946925995,52.63572764970904],[4.7596496221974,52.63630658945881],[4.76269092895545,52.63612308505863]]]],"type":"MultiPolygon"}
+}

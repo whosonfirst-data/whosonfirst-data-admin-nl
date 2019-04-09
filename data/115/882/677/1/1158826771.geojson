@@ -1,0 +1,80 @@
+{
+  "id": 1158826771,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05850304",
+    "cbsnl:BU_NAAM":"Bungalow plan",
+    "cbsnl:GM_CODE":"GM0585",
+    "cbsnl:GM_NAAM":"Binnenmaas",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"381",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK058503",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":279076.375951,
+    "geom:bbox":"4.54306336842,51.7843611836,4.55301643232,51.7909142813",
+    "geom:latitude":51.787681,
+    "geom:longitude":4.548081,
+    "iso:country":"NL",
+    "lbl:latitude":51.787825,
+    "lbl:longitude":4.548006,
+    "mps:latitude":51.787825,
+    "mps:longitude":4.548006,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bungalow plan"
+    ],
+    "name:nld_x_preferred":[
+        "Bungalow plan"
+    ],
+    "reversegeo:latitude":51.787825,
+    "reversegeo:longitude":4.548006,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474233,
+        85633337,
+        101808493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"5d1b3f945e1c1b486745cf408106b239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474233,
+            "locality_id":101808493,
+            "neighbourhood_id":1158826771,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158826771,
+    "wof:lastmodified":1513588090,
+    "wof:name":"Bungalow plan",
+    "wof:parent_id":101808493,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.543063368424746,
+    51.784361183583435,
+    4.55301643231649,
+    51.79091428126997
+],
+  "geometry": {"coordinates":[[[[4.55284742179758,51.78843710166066],[4.55216477885827,51.78801173700266],[4.55252165962139,51.78767719666681],[4.55288887384447,51.78729778471317],[4.55301643231649,51.78692116194791],[4.5524335338927,51.78660774230485],[4.55163870963523,51.7863046113843],[4.55088860573144,51.78606358975716],[4.5496941803833,51.78593905634335],[4.54942958974391,51.78537648960895],[4.54901795648697,51.78436118358344],[4.54830337879617,51.78462939071948],[4.54609325818976,51.7855304225086],[4.54431980468864,51.78617584272151],[4.54394637581617,51.78647231730967],[4.54337355026728,51.78701033492439],[4.54306336842475,51.78775670480773],[4.54585099681129,51.78963854053433],[4.54803204418447,51.79091428126997],[4.55001544504686,51.78996496619514],[4.55121809470654,51.78927241608876],[4.55284742179758,51.78843710166066]]]],"type":"MultiPolygon"}
+}

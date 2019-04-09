@@ -1,0 +1,82 @@
+{
+  "id": 1158803527,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU01934010",
+    "cbsnl:BU_NAAM":"Bedrijventerrein de Vrolijkheid",
+    "cbsnl:GM_CODE":"GM0193",
+    "cbsnl:GM_NAAM":"Zwolle",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1395",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK019340",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":424863.055387,
+    "geom:bbox":"6.11616626377,52.5184911483,6.12649635727,52.5267901061",
+    "geom:latitude":52.522696,
+    "geom:longitude":6.121165,
+    "iso:country":"NL",
+    "lbl:latitude":52.522745,
+    "lbl:longitude":6.121165,
+    "mps:latitude":52.522745,
+    "mps:longitude":6.121165,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bedrijventerrein de Vrolijkheid"
+    ],
+    "name:nld_x_preferred":[
+        "Bedrijventerrein de Vrolijkheid"
+    ],
+    "reversegeo:latitude":52.522745,
+    "reversegeo:longitude":6.121165,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        1158805805,
+        404473861,
+        85633337,
+        101751861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"d8c2bae9eaa0de46b85dff8b6391031f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158805805,
+            "neighbourhood_id":1158803527,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":1158803527,
+    "wof:lastmodified":1513524344,
+    "wof:name":"Bedrijventerrein de Vrolijkheid",
+    "wof:parent_id":1158805805,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.11616626377063,
+    52.51849114826056,
+    6.126496357274532,
+    52.526790106125006
+],
+  "geometry": {"coordinates":[[[[6.11662634067693,52.52591918655813],[6.12370688654208,52.52679010612501],[6.12475811401257,52.5234383504041],[6.12548566942958,52.52115577114336],[6.12639541884265,52.52007075275959],[6.12649635727453,52.5199063066534],[6.12483690865237,52.51943691533988],[6.12424237634444,52.51926017591286],[6.12145179383223,52.5188582359441],[6.12139399291458,52.51904433502205],[6.12028964393778,52.51888772802709],[6.11953803444059,52.51878345539443],[6.11866428280801,52.51849114826056],[6.11717055972236,52.52312177176807],[6.11675185080406,52.52416037224563],[6.11616626377063,52.52586284427966],[6.11662634067693,52.52591918655813]]]],"type":"MultiPolygon"}
+}

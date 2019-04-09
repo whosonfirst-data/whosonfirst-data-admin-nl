@@ -1,0 +1,80 @@
+{
+  "id": 1158825129,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU04893050",
+    "cbsnl:BU_NAAM":"Sportpark Smitshoek",
+    "cbsnl:GM_CODE":"GM0489",
+    "cbsnl:GM_NAAM":"Barendrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"1251",
+    "cbsnl:STED":"3",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK048930",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":221971.824742,
+    "geom:bbox":"4.48157199671,51.8585240405,4.48925721567,51.8636790723",
+    "geom:latitude":51.861113,
+    "geom:longitude":4.485629,
+    "iso:country":"NL",
+    "lbl:latitude":51.861103,
+    "lbl:longitude":4.48594,
+    "mps:latitude":51.861103,
+    "mps:longitude":4.48594,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Sportpark Smitshoek"
+    ],
+    "name:nld_x_preferred":[
+        "Sportpark Smitshoek"
+    ],
+    "reversegeo:latitude":51.861103,
+    "reversegeo:longitude":4.48594,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158831079,
+        85633337,
+        101754615,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"c97152c0b2279cf92727390cf542eb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101754615,
+            "macrohood_id":1158831079,
+            "neighbourhood_id":1158825129,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825129,
+    "wof:lastmodified":1513587969,
+    "wof:name":"Sportpark Smitshoek",
+    "wof:parent_id":1158831079,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.481571996713728,
+    51.85852404051686,
+    4.489257215665358,
+    51.86367907230733
+],
+  "geometry": {"coordinates":[[[[4.48157199671373,51.86245453671733],[4.48170740753651,51.8624689993604],[4.48369277483567,51.86280326716238],[4.48872029037352,51.86367907230733],[4.48924948191329,51.86238168102133],[4.48925721566536,51.86199396347211],[4.4891321781054,51.8615025194831],[4.48897195543213,51.86113059077595],[4.48876917091385,51.86049143194788],[4.4887076936168,51.85997197875164],[4.48864799313921,51.85936357006508],[4.48878518158195,51.85884133884142],[4.48579019569499,51.85902044928206],[4.48576807843062,51.85852404051686],[4.48483605748116,51.85879012001482],[4.48238265034121,51.85949048398243],[4.48200812093235,51.86057932407367],[4.48159182403584,51.86055626540568],[4.48158794609312,51.86234269690637],[4.48157199671373,51.86245453671733]]]],"type":"MultiPolygon"}
+}

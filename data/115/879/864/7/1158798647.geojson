@@ -1,0 +1,82 @@
+{
+  "id": 1158798647,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU08280700",
+    "cbsnl:BU_NAAM":"Vlashoek",
+    "cbsnl:GM_CODE":"GM0828",
+    "cbsnl:GM_NAAM":"Oss",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2167",
+    "cbsnl:STED":"2",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK082807",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:area_square_m":472638.702419,
+    "geom:bbox":"5.50032480884,51.7572272925,5.51593202486,51.7646655618",
+    "geom:latitude":51.761045,
+    "geom:longitude":5.507827,
+    "iso:country":"NL",
+    "lbl:latitude":51.761084,
+    "lbl:longitude":5.507827,
+    "mps:latitude":51.761084,
+    "mps:longitude":5.507827,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Vlashoek"
+    ],
+    "name:nld_x_preferred":[
+        "Vlashoek"
+    ],
+    "reversegeo:latitude":51.761084,
+    "reversegeo:longitude":5.507827,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801739,
+        404474415,
+        85633337,
+        101751807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"cab59eff36aa6f95a495a56c0b0e079b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":101751807,
+            "macrohood_id":1158801739,
+            "neighbourhood_id":1158798647,
+            "region_id":85687035
+        }
+    ],
+    "wof:id":1158798647,
+    "wof:lastmodified":1513432689,
+    "wof:name":"Vlashoek",
+    "wof:parent_id":1158801739,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.500324808838994,
+    51.757227292526686,
+    5.515932024857575,
+    51.764665561849014
+],
+  "geometry": {"coordinates":[[[[5.51289301630632,51.76466556184901],[5.51522727475302,51.76178673428842],[5.51593202485757,51.76090144394237],[5.50749263367728,51.75862735623663],[5.5022976537683,51.75722729252669],[5.50193987811723,51.75776638928001],[5.50171333117698,51.75874269744737],[5.50032480883899,51.76015186106042],[5.50157482575628,51.76043715280387],[5.50071061913782,51.76174300317347],[5.50507517397109,51.76279033668515],[5.51289301630632,51.76466556184901]]]],"type":"MultiPolygon"}
+}

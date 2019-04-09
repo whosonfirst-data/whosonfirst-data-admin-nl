@@ -1,0 +1,80 @@
+{
+  "id": 1158807291,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU15070803",
+    "cbsnl:BU_NAAM":"Middelreuvelt",
+    "cbsnl:GM_CODE":"GM1507",
+    "cbsnl:GM_NAAM":"Horst aan de Maas",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"608",
+    "cbsnl:STED":"4",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK150708",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":320146.442692,
+    "geom:bbox":"6.13571136093,51.4122716448,6.14596188263,51.4189450122",
+    "geom:latitude":51.415289,
+    "geom:longitude":6.140012,
+    "iso:country":"NL",
+    "lbl:latitude":51.415496,
+    "lbl:longitude":6.139596,
+    "mps:latitude":51.415496,
+    "mps:longitude":6.139596,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Middelreuvelt"
+    ],
+    "name:nld_x_preferred":[
+        "Middelreuvelt"
+    ],
+    "reversegeo:latitude":51.415496,
+    "reversegeo:longitude":6.139596,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474541,
+        85633337,
+        101839243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"1c6747927925a54fcb69b1adc7c5dd59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474541,
+            "locality_id":101839243,
+            "neighbourhood_id":1158807291,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":1158807291,
+    "wof:lastmodified":1513404092,
+    "wof:name":"Middelreuvelt",
+    "wof:parent_id":101839243,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.135711360927054,
+    51.41227164478784,
+    6.145961882627087,
+    51.418945012151546
+],
+  "geometry": {"coordinates":[[[[6.14076142815635,51.41894501215155],[6.14089053548716,51.41871061566835],[6.14119542215612,51.41813033617684],[6.14168194374851,51.41736246594099],[6.14221897640838,51.41670460638045],[6.14299256790582,51.41600743063934],[6.14392676034953,51.41520505119426],[6.14519033275575,51.41456388091038],[6.14596188262709,51.41420976042777],[6.14593591234632,51.41419918200761],[6.14499495896623,51.41413751612388],[6.14452398919614,51.4129883452081],[6.14438847225059,51.4124470073864],[6.14060158697556,51.41294523608143],[6.13953741867361,51.41227164478784],[6.13697999448441,51.41257347481046],[6.13652494045666,51.41458763567481],[6.13601335127318,51.4164548312113],[6.13575265798857,51.41770476535055],[6.13571136092705,51.41788613356842],[6.13712077837948,51.41816958669695],[6.13907621829643,51.41856295474972],[6.14070653657056,51.41893703407466],[6.14076142815635,51.41894501215155]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1158825685,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU05050502",
+    "cbsnl:BU_NAAM":"Indische Buurt-Zuid",
+    "cbsnl:GM_CODE":"GM0505",
+    "cbsnl:GM_NAAM":"Dordrecht",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"2931",
+    "cbsnl:STED":"1",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK050505",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":114490.649778,
+    "geom:bbox":"4.67839835815,51.8050307729,4.68879783167,51.8091723221",
+    "geom:latitude":51.806761,
+    "geom:longitude":4.682479,
+    "iso:country":"NL",
+    "lbl:latitude":51.80681,
+    "lbl:longitude":4.681967,
+    "mps:latitude":51.80681,
+    "mps:longitude":4.681967,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Indische Buurt-Zuid"
+    ],
+    "name:nld_x_preferred":[
+        "Indische Buurt-Zuid"
+    ],
+    "reversegeo:latitude":51.80681,
+    "reversegeo:longitude":4.681967,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1158829563,
+        85633337,
+        101751841,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"385301c7f8b208c8a11dad9a21f99956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751841,
+            "macrohood_id":1158829563,
+            "neighbourhood_id":1158825685,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":1158825685,
+    "wof:lastmodified":1513588010,
+    "wof:name":"Indische Buurt-Zuid",
+    "wof:parent_id":1158829563,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.67839835814926,
+    51.80503077294634,
+    4.688797831667805,
+    51.80917232206289
+],
+  "geometry": {"coordinates":[[[[4.68556009389486,51.80647576035143],[4.68667931135998,51.80601466079872],[4.6879307606352,51.8055556137328],[4.68818954217322,51.80547525801519],[4.6887867132833,51.80546809929596],[4.6887978316678,51.80525219496531],[4.68873675243465,51.80503077294634],[4.68034259752117,51.80597339470953],[4.67968710084335,51.80654677773553],[4.67877804627338,51.80726149078731],[4.6786724015431,51.80748864591978],[4.67872867765547,51.80786142258211],[4.67872572820955,51.80804914207447],[4.67847781007103,51.8087422717668],[4.67839835814926,51.80917232206289],[4.68556009389486,51.80647576035143]]]],"type":"MultiPolygon"}
+}

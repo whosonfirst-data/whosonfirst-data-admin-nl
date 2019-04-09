@@ -1,0 +1,80 @@
+{
+  "id": 1141965067,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17400101",
+    "cbsnl:BU_NAAM":"Echteld",
+    "cbsnl:GM_CODE":"GM1740",
+    "cbsnl:GM_NAAM":"Neder-Betuwe",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"101",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK174001",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":389558.44627,
+    "geom:bbox":"5.49069661447,51.9062371047,5.50246248186,51.9132359071",
+    "geom:latitude":51.909714,
+    "geom:longitude":5.497738,
+    "iso:country":"NL",
+    "lbl:latitude":51.909518,
+    "lbl:longitude":5.498326,
+    "mps:latitude":51.909518,
+    "mps:longitude":5.498326,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Echteld"
+    ],
+    "name:nld_x_preferred":[
+        "Echteld"
+    ],
+    "reversegeo:latitude":51.909518,
+    "reversegeo:longitude":5.498326,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474655,
+        85633337,
+        101855347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"faa40d669aa1edbe04a4f741407a5173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474655,
+            "locality_id":101855347,
+            "neighbourhood_id":1141965067,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141965067,
+    "wof:lastmodified":1513368867,
+    "wof:name":"Echteld",
+    "wof:parent_id":101855347,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.490696614471434,
+    51.90623710470587,
+    5.50246248186015,
+    51.9132359070978
+],
+  "geometry": {"coordinates":[[[[5.49236039357995,51.91113673837496],[5.4922398982721,51.91117748442681],[5.50172942758486,51.9132359070978],[5.5023006257585,51.90980716496947],[5.50246248186015,51.90722372118437],[5.50095034133087,51.90689993481428],[5.49943306170749,51.90623710470587],[5.49771652768199,51.9067033165992],[5.49611641264613,51.90725057013555],[5.49403027580902,51.90815299955091],[5.49211723602827,51.90912012172409],[5.49216468977013,51.90915555068636],[5.49188406279244,51.90929739189355],[5.49069661447143,51.91063641916089],[5.49236039357995,51.91113673837496]]]],"type":"MultiPolygon"}
+}

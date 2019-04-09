@@ -1,0 +1,80 @@
+{
+  "id": 1141965077,
+  "type": "Feature",
+  "properties": {
+    "cbsnl:BU_CODE":"BU17400201",
+    "cbsnl:BU_NAAM":"Kom Wely",
+    "cbsnl:GM_CODE":"GM1740",
+    "cbsnl:GM_NAAM":"Neder-Betuwe",
+    "cbsnl:IND_WBI":"1",
+    "cbsnl:OAD":"41",
+    "cbsnl:STED":"5",
+    "cbsnl:WATER":"NEE",
+    "cbsnl:WK_CODE":"WK174002",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":212863.773213,
+    "geom:bbox":"5.68772234607,51.9038343614,5.69606851053,51.9102108719",
+    "geom:latitude":51.906926,
+    "geom:longitude":5.691865,
+    "iso:country":"NL",
+    "lbl:latitude":51.906613,
+    "lbl:longitude":5.691517,
+    "mps:latitude":51.906613,
+    "mps:longitude":5.691517,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kom Wely"
+    ],
+    "name:nld_x_preferred":[
+        "Kom Wely"
+    ],
+    "reversegeo:latitude":51.906613,
+    "reversegeo:longitude":5.691517,
+    "src:geom":"cbsnl",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474655,
+        85633337,
+        101808661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NL",
+    "wof:geomhash":"6c253fdbdf379514bbc5790f68d65529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474655,
+            "locality_id":101808661,
+            "neighbourhood_id":1141965077,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":1141965077,
+    "wof:lastmodified":1513368868,
+    "wof:name":"Kom Wely",
+    "wof:parent_id":101808661,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-nl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.687722346071539,
+    51.90383436138949,
+    5.696068510529268,
+    51.91021087185723
+],
+  "geometry": {"coordinates":[[[[5.6935781906741,51.90383436138949],[5.6924296524144,51.90394717889907],[5.69059668914248,51.9038763690517],[5.68805063170026,51.90405088978243],[5.68772234607154,51.9040545381127],[5.68772414130921,51.90411913818405],[5.68784686563206,51.90508703541127],[5.6895153778877,51.9053434132973],[5.68994804196137,51.90745174408002],[5.69039706010942,51.90982350166671],[5.69071213323959,51.91021087185723],[5.69606851052927,51.90929638897187],[5.69600088187804,51.90811291851356],[5.69308685894159,51.90743546544045],[5.693295261104,51.90646249735442],[5.69346120472957,51.90479192308528],[5.6935781906741,51.90383436138949]]]],"type":"MultiPolygon"}
+}
