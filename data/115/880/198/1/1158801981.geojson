@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
-    "geom:area_square_m":767220.415451,
+    "geom:area_square_m":767220.41545,
     "geom:bbox":"6.62559669021,52.337804455,6.65756303185,52.3458234606",
     "geom:latitude":52.341622,
     "geom:longitude":6.63919,
@@ -45,16 +45,18 @@
         1158805813,
         404473819,
         85633337,
-        101751863
+        101751863,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"3efd959059498624518fdd7ae08639c7",
+    "wof:geomhash":"c43e66a03e5add3e77b7e2b9d6e9ddfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473819,
             "locality_id":101751863,
             "macrohood_id":1158805813,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1158801981,
-    "wof:lastmodified":1513524229,
+    "wof:lastmodified":1559595462,
     "wof:name":"Groeneveld",
     "wof:parent_id":1158805813,
     "wof:placetype":"neighbourhood",
@@ -73,7 +75,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.625596690214289,
+    6.62559669021429,
     52.33780445500451,
     6.65756303184786,
     52.34582346055656

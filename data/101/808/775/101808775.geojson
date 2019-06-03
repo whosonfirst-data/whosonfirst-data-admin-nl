@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001379,
-    "geom:area_square_m":10300170.346398,
+    "geom:area_square_m":10300170.346399,
     "geom:bbox":"6.86533288971,52.8195583644,6.91376801851,52.8654403199",
     "geom:latitude":52.84272,
     "geom:longitude":6.885275,
@@ -80,10 +80,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":116,
     "wof:belongsto":[
+        85687051,
         102191581,
         404474595,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,13 +102,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474595,
             "locality_id":101808775,
             "region_id":85687051
         }
     ],
     "wof:id":101808775,
-    "wof:lastmodified":1527715351,
+    "wof:lastmodified":1559595179,
     "wof:name":"Valthe",
     "wof:parent_id":404474595,
     "wof:placetype":"locality",

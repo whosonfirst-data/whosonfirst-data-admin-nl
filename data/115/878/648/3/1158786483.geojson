@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001317,
-    "geom:area_square_m":10150521.796607,
+    "geom:area_square_m":10150521.796608,
     "geom:bbox":"3.82624483619,51.4227556816,3.88151728564,51.4667580356",
     "geom:latitude":51.448072,
     "geom:longitude":3.850693,
@@ -43,10 +43,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687037,
         102191581,
         404474299,
         85633337,
-        85687037
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474299,
             "locality_id":1158786483,
             "region_id":85687037
         }
     ],
     "wof:id":1158786483,
-    "wof:lastmodified":1514492705,
+    "wof:lastmodified":1559595152,
     "wof:name":"Nisse",
     "wof:parent_id":404474299,
     "wof:placetype":"locality",

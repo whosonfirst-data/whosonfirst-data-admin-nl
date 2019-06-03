@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005652,
-    "geom:area_square_m":43533844.392518,
+    "geom:area_square_m":43533844.392516,
     "geom:bbox":"5.58297365106,51.4380299792,5.73609360805,51.5076999758",
     "geom:latitude":51.473016,
     "geom:longitude":5.670305,
@@ -239,10 +239,11 @@
     "wd:population":89584,
     "wd:wordcount":812,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474389,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -261,6 +262,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474389,
             "locality_id":101751805,
             "region_id":85687035
@@ -270,7 +272,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527714359,
+    "wof:lastmodified":1559594041,
     "wof:name":"Helmond",
     "wof:parent_id":404474389,
     "wof:placetype":"locality",

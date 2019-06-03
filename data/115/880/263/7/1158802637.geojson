@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001007,
-    "geom:area_square_m":7555313.926593,
+    "geom:area_square_m":7555313.926596,
     "geom:bbox":"6.5138614643,52.6127001486,6.56476851153,52.6544527591",
     "geom:latitude":52.62934,
     "geom:longitude":6.531392,
@@ -44,16 +44,18 @@
         102191581,
         404473831,
         85633337,
-        101808767
+        101808767,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"97d84a5d7cb71e9330b7c9172c480e76",
+    "wof:geomhash":"b24eaa2c22aef5cdf93edae6e87bdc56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473831,
             "locality_id":101808767,
             "neighbourhood_id":1158802637,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158802637,
-    "wof:lastmodified":1513524273,
+    "wof:lastmodified":1559596882,
     "wof:name":"Verspreide huizen Slagharen-West",
     "wof:parent_id":101808767,
     "wof:placetype":"neighbourhood",
@@ -72,8 +74,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.513861464299103,
-    52.612700148624754,
+    6.5138614642991,
+    52.61270014862475,
     6.56476851153265,
     52.65445275909352
 ],

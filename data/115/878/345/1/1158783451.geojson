@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000186,
-    "geom:area_square_m":1414856.476189,
+    "geom:area_square_m":1414856.476188,
     "geom:bbox":"6.00173284684,51.9775432582,6.04363928335,51.9891175462",
     "geom:latitude":51.984604,
     "geom:longitude":6.01828,
@@ -55,10 +55,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473957,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,13 +71,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473957,
             "locality_id":1158783451,
             "region_id":85687043
         }
     ],
     "wof:id":1158783451,
-    "wof:lastmodified":1514492495,
+    "wof:lastmodified":1559594667,
     "wof:name":"Lathum",
     "wof:parent_id":404473957,
     "wof:placetype":"locality",

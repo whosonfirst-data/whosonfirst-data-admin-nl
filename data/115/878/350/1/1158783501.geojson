@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001316,
-    "geom:area_square_m":10049419.970115,
+    "geom:area_square_m":10049419.970116,
     "geom:bbox":"5.15424951221,51.8475811302,5.1975102121,51.8971462743",
     "geom:latitude":51.870381,
     "geom:longitude":5.177542,
@@ -46,10 +46,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473901,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +62,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473901,
             "locality_id":1158783501,
             "region_id":85687043
         }
     ],
     "wof:id":1158783501,
-    "wof:lastmodified":1514492864,
+    "wof:lastmodified":1559594597,
     "wof:name":"Rumpt",
     "wof:parent_id":404473901,
     "wof:placetype":"locality",

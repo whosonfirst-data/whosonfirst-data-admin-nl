@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000233,
-    "geom:area_square_m":1768936.420689,
+    "geom:area_square_m":1768936.420688,
     "geom:bbox":"6.3828832651,52.1620652508,6.43178045858,52.1696849832",
     "geom:latitude":52.166124,
     "geom:longitude":6.405654,
@@ -50,16 +50,18 @@
         102191581,
         404473915,
         85633337,
-        101807065
+        101807065,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"2b8acc62f5714f457ecd18aa31645e47",
+    "wof:geomhash":"c653840d8075277ad16b9e5eee097d29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473915,
             "locality_id":101807065,
             "neighbourhood_id":1141963589,
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":1141963589,
-    "wof:lastmodified":1513368756,
+    "wof:lastmodified":1559597093,
     "wof:name":"Noord",
     "wof:parent_id":101807065,
     "wof:placetype":"neighbourhood",
@@ -77,7 +79,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.382883265100838,
+    6.38288326510084,
     52.16206525084681,
     6.43178045857757,
     52.16968498316478

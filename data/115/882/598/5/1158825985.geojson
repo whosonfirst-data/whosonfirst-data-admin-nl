@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000018,
-    "geom:area_square_m":140035.766691,
+    "geom:area_square_m":140035.76669,
     "geom:bbox":"4.68895886993,52.0247815189,4.69792050374,52.0295306058",
     "geom:latitude":52.027154,
     "geom:longitude":4.693431,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         1158829413,
         85633337,
         101751839,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"1ffe3f1b7dcf2cb13cf4644c176cbbef",
+    "wof:geomhash":"61c4d85c186cc9d0f1c45b905fa84a88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751839,
             "macrohood_id":1158829413,
             "neighbourhood_id":1158825985,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158825985,
-    "wof:lastmodified":1513588031,
+    "wof:lastmodified":1559595602,
     "wof:name":"De Gaardenbuurt",
     "wof:parent_id":1158829413,
     "wof:placetype":"neighbourhood",
@@ -71,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.688958869925907,
+    4.68895886992591,
     52.02478151886741,
-    4.697920503738541,
-    52.029530605764364
+    4.69792050373854,
+    52.02953060576436
 ],
   "geometry": {"coordinates":[[[[4.69792050373854,52.02795759148904],[4.69453444755064,52.0262344201072],[4.69112703661205,52.02478151886741],[4.68895886992591,52.02646945378854],[4.69562887060491,52.02953060576436],[4.69792050373854,52.02795759148904]]]],"type":"MultiPolygon"}
 }

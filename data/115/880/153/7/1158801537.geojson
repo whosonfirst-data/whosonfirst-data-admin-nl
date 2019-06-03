@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001019,
-    "geom:area_square_m":7803335.464647,
+    "geom:area_square_m":7803335.464646,
     "geom:bbox":"5.03155823901,51.7195281536,5.08897105755,51.7514809466",
     "geom:latitude":51.734469,
     "geom:longitude":5.05681,
@@ -54,10 +54,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474345,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,13 +70,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474345,
             "locality_id":1158801537,
             "region_id":85687035
         }
     ],
     "wof:id":1158801537,
-    "wof:lastmodified":1514492197,
+    "wof:lastmodified":1559594076,
     "wof:name":"Eethen",
     "wof:parent_id":404474345,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00039,
-    "geom:area_square_m":2992835.283462,
+    "geom:area_square_m":2992835.283464,
     "geom:bbox":"5.42232775217,51.6641772493,5.45687272835,51.6885558209",
     "geom:latitude":51.675962,
     "geom:longitude":5.44212,
@@ -44,16 +44,18 @@
         102191581,
         404474421,
         85633337,
-        101839375
+        101839375,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"0262b2111b442db41f2ff75ff070bf9a",
+    "wof:geomhash":"4390e36c91bcd7f37626efd97cd90378",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474421,
             "locality_id":101839375,
             "neighbourhood_id":1158798941,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158798941,
-    "wof:lastmodified":1513432711,
+    "wof:lastmodified":1559597073,
     "wof:name":"Verspreide huizen Heikantse Hoeve",
     "wof:parent_id":101839375,
     "wof:placetype":"neighbourhood",
@@ -72,8 +74,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.422327752166707,
-    51.664177249334934,
+    5.42232775216671,
+    51.66417724933493,
     5.45687272835266,
     51.68855582094341
 ],

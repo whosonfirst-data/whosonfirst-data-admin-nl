@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000029,
-    "geom:area_square_m":213628.180259,
+    "geom:area_square_m":213628.180258,
     "geom:bbox":"6.15149639635,52.7351054487,6.16356005529,52.7398740947",
     "geom:latitude":52.737344,
     "geom:longitude":6.157524,
@@ -44,16 +44,18 @@
         102191581,
         404473813,
         85633337,
-        101807283
+        101807283,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"fb82460c692ab48c397260ef5890f6d5",
+    "wof:geomhash":"25fe10ffcf7e7fb857f9091ef255d9d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473813,
             "locality_id":101807283,
             "neighbourhood_id":1158791187,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158791187,
-    "wof:lastmodified":1513292323,
+    "wof:lastmodified":1559596138,
     "wof:name":"Tussenboerslanden",
     "wof:parent_id":101807283,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.151496396348674,
-    52.735105448650096,
+    6.15149639634867,
+    52.7351054486501,
     6.16356005528722,
     52.73987409470511
 ],

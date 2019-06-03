@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000417,
-    "geom:area_square_m":3121766.998095,
+    "geom:area_square_m":3121766.998094,
     "geom:bbox":"6.06173346385,52.6833693247,6.09209352601,52.7028137692",
     "geom:latitude":52.69296,
     "geom:longitude":6.076346,
@@ -44,16 +44,18 @@
         102191581,
         404474621,
         85633337,
-        101808751
+        101808751,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"fc1c0fdb9803b2e2d24713de203481a6",
+    "wof:geomhash":"688000858b85b61fbc5e83651f27b326",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474621,
             "locality_id":101808751,
             "neighbourhood_id":1158803787,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158803787,
-    "wof:lastmodified":1513524362,
+    "wof:lastmodified":1559597126,
     "wof:name":"Blauwehand",
     "wof:parent_id":101808751,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.061733463852777,
-    52.683369324683525,
+    6.06173346385278,
+    52.68336932468353,
     6.09209352600807,
     52.70281376919633
 ],

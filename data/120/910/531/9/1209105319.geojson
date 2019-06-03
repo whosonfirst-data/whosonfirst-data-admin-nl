@@ -29,7 +29,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687033,
+        102191581,
+        404474483,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +43,18 @@
     "wof:geomhash":"067b5567bc55507b8845ebae23cc1b81",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209105319
+            "empire_id":136253051,
+            "localadmin_id":404474483,
+            "locality_id":1209105319,
+            "region_id":85687033
         }
     ],
     "wof:id":1209105319,
-    "wof:lastmodified":1536297593,
+    "wof:lastmodified":1559594340,
     "wof:name":"Hekkens",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474483,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003592,
-    "geom:area_square_m":26652793.263071,
+    "geom:area_square_m":26652793.263074,
     "geom:bbox":"7.09363418388,53.0676796557,7.18962681039,53.1607736702",
     "geom:latitude":53.121041,
     "geom:longitude":7.136439,
@@ -34,10 +34,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687059,
         102191581,
         404473705,
         85633337,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +50,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473705,
             "locality_id":1158796545,
             "region_id":85687059
         }
     ],
     "wof:id":1158796545,
-    "wof:lastmodified":1514492806,
+    "wof:lastmodified":1559595191,
     "wof:name":"Oudeschans",
     "wof:parent_id":404473705,
     "wof:placetype":"locality",

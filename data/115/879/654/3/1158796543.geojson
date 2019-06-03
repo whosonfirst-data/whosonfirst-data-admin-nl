@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002,
-    "geom:area_square_m":14892880.391044,
+    "geom:area_square_m":14892880.391043,
     "geom:bbox":"7.06993609488,52.9407237776,7.14120109726,52.9888265143",
     "geom:latitude":52.962819,
     "geom:longitude":7.107281,
@@ -37,10 +37,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687059,
         102191581,
         404473739,
         85633337,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +53,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473739,
             "locality_id":1158796543,
             "region_id":85687059
         }
     ],
     "wof:id":1158796543,
-    "wof:lastmodified":1514492445,
+    "wof:lastmodified":1559595174,
     "wof:name":"Jipsingboertange",
     "wof:parent_id":404473739,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004138,
-    "geom:area_square_m":31425577.729945,
+    "geom:area_square_m":31425577.729946,
     "geom:bbox":"5.94564389673,52.073338551,6.05172613971,52.1436794834",
     "geom:latitude":52.104675,
     "geom:longitude":5.998837,
@@ -73,10 +73,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473867,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +96,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473867,
             "locality_id":101807067,
             "region_id":85687043
@@ -104,7 +106,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1553815516,
+    "wof:lastmodified":1559594885,
     "wof:name":"Loenen",
     "wof:parent_id":404473867,
     "wof:placetype":"locality",

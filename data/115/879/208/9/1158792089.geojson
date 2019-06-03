@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001956,
-    "geom:area_square_m":14580911.568884,
+    "geom:area_square_m":14580911.568881,
     "geom:bbox":"6.80898267939,52.8971779942,6.87566198238,52.9468051804",
     "geom:latitude":52.922993,
     "geom:longitude":6.839655,
@@ -54,10 +54,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474595,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,13 +70,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474595,
             "locality_id":1158792089,
             "region_id":85687051
         }
     ],
     "wof:id":1158792089,
-    "wof:lastmodified":1514492019,
+    "wof:lastmodified":1559594198,
     "wof:name":"Buinen",
     "wof:parent_id":404474595,
     "wof:placetype":"locality",

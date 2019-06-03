@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000545,
-    "geom:area_square_m":4146105.608939,
+    "geom:area_square_m":4146105.608938,
     "geom:bbox":"4.91489123753,52.0484337038,4.95710558854,52.0799203312",
     "geom:latitude":52.068314,
     "geom:longitude":4.939182,
@@ -46,10 +46,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687039,
         102191581,
         404473999,
         85633337,
-        85687039
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +62,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473999,
             "locality_id":1158788211,
             "region_id":85687039
         }
     ],
     "wof:id":1158788211,
-    "wof:lastmodified":1514492037,
+    "wof:lastmodified":1559595166,
     "wof:name":"Cattenbroek",
     "wof:parent_id":404473999,
     "wof:placetype":"locality",

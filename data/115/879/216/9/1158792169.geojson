@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000541,
-    "geom:area_square_m":4036629.093092,
+    "geom:area_square_m":4036629.093093,
     "geom:bbox":"6.16045954961,52.8599914899,6.21193697779,52.8883785829",
     "geom:latitude":52.875733,
     "geom:longitude":6.18476,
@@ -36,26 +36,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474613,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"df91b2fe35e0e0bdb0d283e8df6a0432",
+    "wof:geomhash":"05710549d2d20e8a01025d166768bc66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474613,
             "locality_id":1158792169,
             "region_id":85687051
         }
     ],
     "wof:id":1158792169,
-    "wof:lastmodified":1513292089,
+    "wof:lastmodified":1559595228,
     "wof:name":"Vledderveen",
     "wof:parent_id":404474613,
     "wof:placetype":"locality",
@@ -65,7 +67,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.160459549605912,
+    6.16045954960591,
     52.8599914899394,
     6.21193697778704,
     52.88837858286727

@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003325,
-    "geom:area_square_m":25509791.381323,
+    "geom:area_square_m":25509791.381322,
     "geom:bbox":"5.15445188828,51.6157903857,5.26708911113,51.6698220853",
     "geom:latitude":51.644343,
     "geom:longitude":5.206223,
@@ -78,10 +78,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":99,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474387,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,13 +100,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474387,
             "locality_id":101808199,
             "region_id":85687035
         }
     ],
     "wof:id":101808199,
-    "wof:lastmodified":1527715342,
+    "wof:lastmodified":1559594096,
     "wof:name":"Helvoirt",
     "wof:parent_id":404474387,
     "wof:placetype":"locality",

@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00005,
-    "geom:area_square_m":378521.18694,
+    "geom:area_square_m":378521.186939,
     "geom:bbox":"5.47174601759,52.5116841803,5.47834470297,52.5207001263",
     "geom:latitude":52.516291,
     "geom:longitude":5.475018,
@@ -39,26 +39,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687049,
         102191581,
-        101751873,
         85633337,
-        85687049
+        101751873,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"093425461c3b7d912bd9a7e47ac21397",
+    "wof:geomhash":"1a757d84bd12dd844c4c724afd8582ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751873,
             "macrohood_id":1158787405,
             "region_id":85687049
         }
     ],
     "wof:id":1158787405,
-    "wof:lastmodified":1513299173,
+    "wof:lastmodified":1559595358,
     "wof:name":"Stadscentrum Noord",
     "wof:parent_id":101751873,
     "wof:placetype":"macrohood",
@@ -68,7 +70,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.471746017586219,
+    5.47174601758622,
     52.51168418031851,
     5.47834470296676,
     52.52070012625135

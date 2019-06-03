@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001808,
-    "geom:area_square_m":13604683.532416,
+    "geom:area_square_m":13604683.532418,
     "geom:bbox":"5.95875866405,52.4812521194,6.0278574962,52.5320822506",
     "geom:latitude":52.50879,
     "geom:longitude":5.989238,
@@ -45,10 +45,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473839,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +61,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473839,
             "locality_id":1158805639,
             "region_id":85687045
         }
     ],
     "wof:id":1158805639,
-    "wof:lastmodified":1514493251,
+    "wof:lastmodified":1559595172,
     "wof:name":"Zalk",
     "wof:parent_id":404473839,
     "wof:placetype":"locality",

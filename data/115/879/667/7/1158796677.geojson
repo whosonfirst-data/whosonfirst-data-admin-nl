@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001025,
-    "geom:area_square_m":7557125.193397,
+    "geom:area_square_m":7557125.193395,
     "geom:bbox":"6.84239788886,53.3689979268,6.89188340209,53.4056541236",
     "geom:latitude":53.385373,
     "geom:longitude":6.868983,
@@ -49,10 +49,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687059,
         102191581,
         404473711,
         85633337,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473711,
             "locality_id":1158796677,
             "region_id":85687059
         }
     ],
     "wof:id":1158796677,
-    "wof:lastmodified":1514491960,
+    "wof:lastmodified":1559595062,
     "wof:name":"Bierum",
     "wof:parent_id":404473711,
     "wof:placetype":"locality",

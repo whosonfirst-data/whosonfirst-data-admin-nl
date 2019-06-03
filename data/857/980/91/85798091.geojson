@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000158,
-    "geom:area_square_m":1198168.720469,
+    "geom:area_square_m":1198168.720468,
     "geom:bbox":"4.45009226159,52.1335144402,4.46813702335,52.1498805394",
     "geom:latitude":52.142341,
     "geom:longitude":4.460703,
@@ -78,8 +78,9 @@
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101754713,
         85633337,
+        101754713,
+        136253051,
         85687041
     ],
     "wof:breaches":[],
@@ -95,6 +96,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101754713,
             "neighbourhood_id":85798091,
             "region_id":85687041
@@ -104,7 +106,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269548,
+    "wof:lastmodified":1559596071,
     "wof:name":"Noord-Hofland",
     "wof:parent_id":101754713,
     "wof:placetype":"neighbourhood",

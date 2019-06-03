@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001651,
-    "geom:area_square_m":12427793.193058,
+    "geom:area_square_m":12427793.19306,
     "geom:bbox":"6.58853087535,52.4656032479,6.66328312915,52.5088087298",
     "geom:latitude":52.48769,
     "geom:longitude":6.626116,
@@ -62,10 +62,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":599,
     "wof:belongsto":[
+        85687045,
         102191581,
         404473831,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,13 +83,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473831,
             "locality_id":101837849,
             "region_id":85687045
         }
     ],
     "wof:id":101837849,
-    "wof:lastmodified":1527715312,
+    "wof:lastmodified":1559595009,
     "wof:name":"Sibculo",
     "wof:parent_id":404473831,
     "wof:placetype":"locality",

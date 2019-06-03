@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000988,
-    "geom:area_square_m":7449125.397184,
+    "geom:area_square_m":7449125.397185,
     "geom:bbox":"6.88343239958,52.4064325073,6.94723876376,52.4341483598",
     "geom:latitude":52.423558,
     "geom:longitude":6.916288,
@@ -49,10 +49,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404474665,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474665,
             "locality_id":1158805779,
             "region_id":85687045
         }
     ],
     "wof:id":1158805779,
-    "wof:lastmodified":1514492773,
+    "wof:lastmodified":1559594290,
     "wof:name":"Oud Ootmarsum",
     "wof:parent_id":404474665,
     "wof:placetype":"locality",

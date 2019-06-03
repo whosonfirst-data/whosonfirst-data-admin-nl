@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000393,
-    "geom:area_square_m":3058803.955669,
+    "geom:area_square_m":3058803.95567,
     "geom:bbox":"5.81031837639,50.9920507463,5.84123103958,51.0088082291",
     "geom:latitude":50.999801,
     "geom:longitude":5.825353,
@@ -69,10 +69,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687033,
         102191581,
         404474675,
         85633337,
-        85687033
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,13 +90,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474675,
             "locality_id":101809525,
             "region_id":85687033
         }
     ],
     "wof:id":101809525,
-    "wof:lastmodified":1514492216,
+    "wof:lastmodified":1559594670,
     "wof:name":"Einighausen",
     "wof:parent_id":404474675,
     "wof:placetype":"locality",

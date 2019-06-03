@@ -19,7 +19,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000503,
-    "geom:area_square_m":3798073.021045,
+    "geom:area_square_m":3798073.021046,
     "geom:bbox":"4.91058838461,52.366548774,4.9606066945,52.3826498804",
     "geom:latitude":52.375585,
     "geom:longitude":4.939358,
@@ -63,12 +63,13 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85687053,
         102191581,
         1158844399,
         85633337,
         101751893,
-        1158844281,
-        85687053
+        136253051,
+        1158844281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,6 +83,7 @@
             "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751893,
             "macrohood_id":1158844399,
             "neighbourhood_id":1108945541,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1108945541,
-    "wof:lastmodified":1514492753,
+    "wof:lastmodified":1559595699,
     "wof:name":"Oostelijk Havengebied",
     "wof:parent_id":1158844399,
     "wof:placetype":"neighbourhood",

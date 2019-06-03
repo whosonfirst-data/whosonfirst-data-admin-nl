@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002169,
-    "geom:area_square_m":16322353.978304,
+    "geom:area_square_m":16322353.978302,
     "geom:bbox":"4.58726829218,52.4943888418,4.66957154665,52.5317695507",
     "geom:latitude":52.514408,
     "geom:longitude":4.625561,
@@ -39,26 +39,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
-        101754811,
         85633337,
-        85687053
+        101754811,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"d5a600dccc940e2a956d700457c279a8",
+    "wof:geomhash":"f22df85a75e75ce19527baee46dc9912",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101754811,
             "macrohood_id":1158823211,
             "region_id":85687053
         }
     ],
     "wof:id":1158823211,
-    "wof:lastmodified":1513463752,
+    "wof:lastmodified":1559595291,
     "wof:name":"Heemskerkerduin en Noorddorp",
     "wof:parent_id":101754811,
     "wof:placetype":"macrohood",
@@ -68,7 +70,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.587268292178863,
+    4.58726829217886,
     52.4943888418172,
     4.66957154665499,
     52.53176955069872

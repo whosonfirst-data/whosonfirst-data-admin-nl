@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001679,
-    "geom:area_square_m":12803046.202729,
+    "geom:area_square_m":12803046.20273,
     "geom:bbox":"5.7444593497,51.8968021505,5.80947862687,51.9396521865",
     "geom:latitude":51.918507,
     "geom:longitude":5.775467,
@@ -79,10 +79,11 @@
     "wd:longitude":5.7892,
     "wd:wordcount":95,
     "wof:belongsto":[
+        85687043,
         102191581,
         404474651,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,13 +101,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474651,
             "locality_id":101808735,
             "region_id":85687043
         }
     ],
     "wof:id":101808735,
-    "wof:lastmodified":1527715341,
+    "wof:lastmodified":1559595172,
     "wof:name":"Valburg",
     "wof:parent_id":404474651,
     "wof:placetype":"locality",

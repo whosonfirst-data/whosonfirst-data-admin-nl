@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000294,
-    "geom:area_square_m":2182214.075737,
+    "geom:area_square_m":2182214.075738,
     "geom:bbox":"6.98038786889,53.0391911511,7.02652405201,53.0568425192",
     "geom:latitude":53.048678,
     "geom:longitude":7.002628,
@@ -44,16 +44,18 @@
         102191581,
         404473731,
         85633337,
-        1158796447
+        1158796447,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"c8052ba56dc9e4dc3a1f4166088d4bc2",
+    "wof:geomhash":"70d111b2bd3385eeb150078945dc5cbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473731,
             "locality_id":1158796447,
             "neighbourhood_id":1158793135,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158793135,
-    "wof:lastmodified":1513382288,
+    "wof:lastmodified":1559596278,
     "wof:name":"Alteveer",
     "wof:parent_id":1158796447,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.980387868886669,
+    6.98038786888667,
     53.03919115114687,
     7.02652405200879,
     53.05684251923266

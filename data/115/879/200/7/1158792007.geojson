@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001916,
-    "geom:area_square_m":14347858.674182,
+    "geom:area_square_m":14347858.674181,
     "geom:bbox":"6.63634922005,52.6989633397,6.71413100725,52.7371040994",
     "geom:latitude":52.718776,
     "geom:longitude":6.673366,
@@ -34,10 +34,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404473807,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +50,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473807,
             "locality_id":1158792007,
             "region_id":85687051
         }
     ],
     "wof:id":1158792007,
-    "wof:lastmodified":1514493310,
+    "wof:lastmodified":1559595223,
     "wof:name":"Zwinderen",
     "wof:parent_id":404473807,
     "wof:placetype":"locality",

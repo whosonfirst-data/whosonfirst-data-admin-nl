@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00124,
-    "geom:area_square_m":9248164.899943,
+    "geom:area_square_m":9248164.899945,
     "geom:bbox":"6.22769201101,52.8697473254,6.28142413157,52.9183452187",
     "geom:latitude":52.896238,
     "geom:longitude":6.250597,
@@ -54,10 +54,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474613,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,13 +70,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474613,
             "locality_id":1158792177,
             "region_id":85687051
         }
     ],
     "wof:id":1158792177,
-    "wof:lastmodified":1514492132,
+    "wof:lastmodified":1559595226,
     "wof:name":"Doldersum",
     "wof:parent_id":404474613,
     "wof:placetype":"locality",

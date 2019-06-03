@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001224,
-    "geom:area_square_m":9433856.577647,
+    "geom:area_square_m":9433856.577648,
     "geom:bbox":"5.48461064102,51.4312850664,5.54885280742,51.4655566407",
     "geom:latitude":51.446233,
     "geom:longitude":5.51705,
@@ -48,10 +48,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687035,
         102191581,
-        101751819,
         85633337,
-        85687035
+        101751819,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +64,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751819,
             "macrohood_id":1158801467,
             "region_id":85687035
         }
     ],
     "wof:id":1158801467,
-    "wof:lastmodified":1514493054,
+    "wof:lastmodified":1559595338,
     "wof:name":"Tongelre",
     "wof:parent_id":101751819,
     "wof:placetype":"macrohood",

@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002286,
-    "geom:area_square_m":17000573.141534,
+    "geom:area_square_m":17000573.141532,
     "geom:bbox":"6.81078766754,53.0024123149,6.89708841358,53.0523442168",
     "geom:latitude":53.025021,
     "geom:longitude":6.847517,
@@ -54,10 +54,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474593,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,13 +70,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474593,
             "locality_id":1158792081,
             "region_id":85687051
         }
     ],
     "wof:id":1158792081,
-    "wof:lastmodified":1514492271,
+    "wof:lastmodified":1559595221,
     "wof:name":"Gieterveen",
     "wof:parent_id":404474593,
     "wof:placetype":"locality",

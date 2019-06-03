@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000687,
-    "geom:area_square_m":5131401.205211,
+    "geom:area_square_m":5131401.20521,
     "geom:bbox":"5.98731084993,52.8491869065,6.04374073074,52.8780597276",
     "geom:latitude":52.862867,
     "geom:longitude":6.015082,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":6.014654,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473801,
         85633337,
         101808823,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473801,
             "locality_id":101808823,
             "neighbourhood_id":1126131855,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126131855,
-    "wof:lastmodified":1507246100,
+    "wof:lastmodified":1559596771,
     "wof:name":"Verspreide huizen Wolvega",
     "wof:parent_id":101808823,
     "wof:placetype":"neighbourhood",

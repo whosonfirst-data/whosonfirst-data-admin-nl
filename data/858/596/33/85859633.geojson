@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000191,
-    "geom:area_square_m":1450267.896591,
+    "geom:area_square_m":1450267.896592,
     "geom:bbox":"4.32617199606,52.0610126506,4.35551870275,52.0752860381",
     "geom:latitude":52.068572,
     "geom:longitude":4.340516,
@@ -84,13 +84,13 @@
     "wd:longitude":4.3414,
     "wd:wordcount":148,
     "wof:belongsto":[
+        85687041,
         102191581,
         1108808077,
         85633337,
         101752763,
-        1108808049,
-        85687041,
-        101754743
+        136253051,
+        1108808049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,16 +106,8 @@
             "borough_id":1108808049,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752763,
-            "macrohood_id":1108808077,
-            "neighbourhood_id":85859633,
-            "region_id":85687041
-        },
-        {
-            "borough_id":1108808049,
-            "continent_id":102191581,
-            "country_id":85633337,
-            "locality_id":101754743,
             "macrohood_id":1108808077,
             "neighbourhood_id":85859633,
             "region_id":85687041
@@ -125,7 +117,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527270336,
+    "wof:lastmodified":1559595970,
     "wof:name":"Binckhorst",
     "wof:parent_id":1108808077,
     "wof:placetype":"neighbourhood",

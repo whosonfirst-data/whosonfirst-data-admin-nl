@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001231,
-    "geom:area_square_m":9426255.445139,
+    "geom:area_square_m":9426255.44514,
     "geom:bbox":"5.2832849948,51.7367178721,5.36069299015,51.7734564236",
     "geom:latitude":51.754915,
     "geom:longitude":5.322153,
@@ -55,10 +55,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473917,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,13 +71,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473917,
             "locality_id":1158783409,
             "region_id":85687043
         }
     ],
     "wof:id":1158783409,
-    "wof:lastmodified":1514492398,
+    "wof:lastmodified":1559594563,
     "wof:name":"Hoenzadriel",
     "wof:parent_id":404473917,
     "wof:placetype":"locality",

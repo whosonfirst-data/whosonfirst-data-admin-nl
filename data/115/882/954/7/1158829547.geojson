@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000287,
-    "geom:area_square_m":2177160.640568,
+    "geom:area_square_m":2177160.640567,
     "geom:bbox":"4.48082367778,52.1529710625,4.51483120016,52.1652554597",
     "geom:latitude":52.158977,
     "geom:longitude":4.496115,
@@ -31,26 +31,28 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101751833,
         85633337,
-        85687041
+        101751833,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"feb0fa46c497ae5371852f5b7df1fb17",
+    "wof:geomhash":"98aa6e0ef64b622d0676471d3026e023",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751833,
             "macrohood_id":1158829547,
             "region_id":85687041
         }
     ],
     "wof:id":1158829547,
-    "wof:lastmodified":1513587441,
+    "wof:lastmodified":1559595374,
     "wof:name":"Binnenstad",
     "wof:parent_id":101751833,
     "wof:placetype":"macrohood",
@@ -62,7 +64,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.480823677779111,
+    4.48082367777911,
     52.15297106252289,
     4.51483120015987,
     52.16525545970038

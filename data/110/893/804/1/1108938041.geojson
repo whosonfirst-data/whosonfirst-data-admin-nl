@@ -51,7 +51,9 @@
         102191581,
         85633337,
         101751843,
-        1158831797
+        136253051,
+        1158831797,
+        1158831791
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,15 +65,25 @@
             "borough_id":1158831797,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
+            "locality_id":101751843,
+            "neighbourhood_id":1108938041,
+            "region_id":85687041
+        },
+        {
+            "borough_id":1158831791,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751843,
             "neighbourhood_id":1108938041,
             "region_id":85687041
         }
     ],
     "wof:id":1108938041,
-    "wof:lastmodified":1513535795,
+    "wof:lastmodified":1559595970,
     "wof:name":"Rijnpoort",
-    "wof:parent_id":1158831797,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

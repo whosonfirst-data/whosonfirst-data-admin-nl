@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000428,
-    "geom:area_square_m":3245816.629427,
+    "geom:area_square_m":3245816.629429,
     "geom:bbox":"4.67194454772,52.1336270275,4.7059292767,52.1570655772",
     "geom:latitude":52.145451,
     "geom:longitude":4.689296,
@@ -43,16 +43,18 @@
         102191581,
         404474147,
         85633337,
-        101751837
+        101751837,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"897a8b11bc2e24baf5e4b06c0ac91b24",
+    "wof:geomhash":"5ba9ff365758c5ba8db8f5a614c81802",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474147,
             "locality_id":101751837,
             "macrohood_id":1158831209,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1158831209,
-    "wof:lastmodified":1513587515,
+    "wof:lastmodified":1559595318,
     "wof:name":"Zegersloot",
     "wof:parent_id":101751837,
     "wof:placetype":"macrohood",
@@ -70,8 +72,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.671944547717422,
-    52.133627027483215,
+    4.67194454771742,
+    52.13362702748321,
     4.70592927669515,
     52.15706557721058
 ],

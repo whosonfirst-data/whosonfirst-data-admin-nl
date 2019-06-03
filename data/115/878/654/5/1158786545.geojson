@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001247,
-    "geom:area_square_m":9643867.703361,
+    "geom:area_square_m":9643867.703362,
     "geom:bbox":"3.47864617915,51.246440357,3.52801187582,51.2909251811",
     "geom:latitude":51.269398,
     "geom:longitude":3.503407,
@@ -28,26 +28,28 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687037,
         102191581,
         404474629,
         85633337,
-        85687037
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"d9148a7b6067997de33c590b4db84820",
+    "wof:geomhash":"8c3e831d32dfc3c50ca19654c0f16833",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474629,
             "locality_id":1158786545,
             "region_id":85687037
         }
     ],
     "wof:id":1158786545,
-    "wof:lastmodified":1513626924,
+    "wof:lastmodified":1559595150,
     "wof:name":"Sint Kruis",
     "wof:parent_id":404474629,
     "wof:placetype":"locality",
@@ -57,8 +59,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.478646179148735,
-    51.246440356967476,
+    3.47864617914873,
+    51.24644035696748,
     3.52801187582055,
     51.29092518106741
 ],

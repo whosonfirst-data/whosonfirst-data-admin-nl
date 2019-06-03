@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         1158823211,
         85633337,
         101754811,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"7c77d0808f7033632f4b1fc6cc15c5c4",
+    "wof:geomhash":"ff160048af79a9592560399d205ff174",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101754811,
             "macrohood_id":1158823211,
             "neighbourhood_id":1158819433,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158819433,
-    "wof:lastmodified":1513464146,
+    "wof:lastmodified":1559596051,
     "wof:name":"Noorddorp",
     "wof:parent_id":1158823211,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.648842896208747,
-    52.516710744446506,
+    4.64884289620875,
+    52.51671074444651,
     4.66957154665499,
     52.53176955069872
 ],

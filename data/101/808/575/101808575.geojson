@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001086,
-    "geom:area_square_m":8288589.820902,
+    "geom:area_square_m":8288589.820905,
     "geom:bbox":"5.61093437315,51.866546957,5.6606499517,51.8994048841",
     "geom:latitude":51.880778,
     "geom:longitude":5.635649,
@@ -48,10 +48,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":10,
     "wof:belongsto":[
+        85687043,
         102191581,
         404473889,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,13 +69,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473889,
             "locality_id":101808575,
             "region_id":85687043
         }
     ],
     "wof:id":101808575,
-    "wof:lastmodified":1527715335,
+    "wof:lastmodified":1559594219,
     "wof:name":"Afferden",
     "wof:parent_id":404473889,
     "wof:placetype":"locality",

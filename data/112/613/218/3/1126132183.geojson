@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000531,
-    "geom:area_square_m":3929516.430156,
+    "geom:area_square_m":3929516.430155,
     "geom:bbox":"6.01852471695,53.2422138751,6.04987970167,53.2654208123",
     "geom:latitude":53.253869,
     "geom:longitude":6.035037,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":6.03534,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404474681,
         85633337,
         101837967,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474681,
             "locality_id":101837967,
             "neighbourhood_id":1126132183,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126132183,
-    "wof:lastmodified":1507246103,
+    "wof:lastmodified":1559596162,
     "wof:name":"De Westereen",
     "wof:parent_id":101837967,
     "wof:placetype":"neighbourhood",

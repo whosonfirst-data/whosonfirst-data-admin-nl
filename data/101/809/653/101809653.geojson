@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002577,
-    "geom:area_square_m":19776233.496596,
+    "geom:area_square_m":19776233.496598,
     "geom:bbox":"4.56815690204,51.624071266,4.65686838026,51.6704225521",
     "geom:latitude":51.647035,
     "geom:longitude":4.607868,
@@ -113,10 +113,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":271,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474623,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -134,13 +135,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474623,
             "locality_id":101809653,
             "region_id":85687035
         }
     ],
     "wof:id":101809653,
-    "wof:lastmodified":1527715179,
+    "wof:lastmodified":1559595117,
     "wof:name":"Zevenbergen",
     "wof:parent_id":404474623,
     "wof:placetype":"locality",

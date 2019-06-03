@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003581,
-    "geom:area_square_m":26978516.546592,
+    "geom:area_square_m":26978516.546591,
     "geom:bbox":"6.44745006558,52.4371685907,6.54903580161,52.4909626143",
     "geom:latitude":52.462608,
     "geom:longitude":6.503692,
@@ -67,10 +67,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687045,
         102191581,
         404474611,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,13 +88,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474611,
             "locality_id":101807205,
             "region_id":85687045
         }
     ],
     "wof:id":101807205,
-    "wof:lastmodified":1514492091,
+    "wof:lastmodified":1559594103,
     "wof:name":"Den Ham",
     "wof:parent_id":404474611,
     "wof:placetype":"locality",

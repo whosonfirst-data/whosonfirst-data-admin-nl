@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
-    "geom:area_square_m":205692.449946,
+    "geom:area_square_m":205692.449947,
     "geom:bbox":"6.6695171036,53.389096336,6.67671386684,53.3941416016",
     "geom:latitude":53.391629,
     "geom:longitude":6.673265,
@@ -44,16 +44,18 @@
         102191581,
         404474561,
         85633337,
-        1158796641
+        1158796641,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"2105c51d69b5c4a13388e8f98b5185cf",
+    "wof:geomhash":"7972a9c2f2a6c96db1a6da083e670303",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474561,
             "locality_id":1158796641,
             "neighbourhood_id":1158793467,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158793467,
-    "wof:lastmodified":1513382309,
+    "wof:lastmodified":1559595604,
     "wof:name":"Doodstil",
     "wof:parent_id":1158796641,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.669517103603693,
-    53.389096336048524,
+    6.66951710360369,
+    53.38909633604852,
     6.67671386684478,
     53.39414160158319
 ],

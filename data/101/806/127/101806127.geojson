@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000808,
-    "geom:area_square_m":6001376.786175,
+    "geom:area_square_m":6001376.786176,
     "geom:bbox":"5.39118628692,53.0484780123,5.44213936499,53.0754510091",
     "geom:latitude":53.060457,
     "geom:longitude":5.415769,
@@ -90,10 +90,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,13 +112,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":101806127,
             "region_id":85687055
         }
     ],
     "wof:id":101806127,
-    "wof:lastmodified":1514492565,
+    "wof:lastmodified":1559594088,
     "wof:name":"Makkum",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

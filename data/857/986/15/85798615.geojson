@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00012,
-    "geom:area_square_m":910394.935045,
+    "geom:area_square_m":910394.935044,
     "geom:bbox":"4.85358774444,52.2735985688,4.87034196778,52.2841039608",
     "geom:latitude":52.278523,
     "geom:longitude":4.862587,
@@ -77,8 +77,9 @@
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
-        101751891,
         85633337,
+        101751891,
+        136253051,
         85687053
     ],
     "wof:breaches":[],
@@ -95,6 +96,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751891,
             "neighbourhood_id":85798615,
             "region_id":85687053
@@ -104,7 +106,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269564,
+    "wof:lastmodified":1559595829,
     "wof:name":"Waardhuizen",
     "wof:parent_id":101751891,
     "wof:placetype":"neighbourhood",

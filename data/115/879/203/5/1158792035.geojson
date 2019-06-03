@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001026,
-    "geom:area_square_m":7681986.947058,
+    "geom:area_square_m":7681986.947059,
     "geom:bbox":"6.47964923888,52.7356623021,6.52633464509,52.7709622335",
     "geom:latitude":52.751844,
     "geom:longitude":6.501324,
@@ -42,10 +42,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404473811,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +58,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473811,
             "locality_id":1158792035,
             "region_id":85687051
         }
     ],
     "wof:id":1158792035,
-    "wof:lastmodified":1514492975,
+    "wof:lastmodified":1559595127,
     "wof:name":"Stuifzand",
     "wof:parent_id":404473811,
     "wof:placetype":"locality",

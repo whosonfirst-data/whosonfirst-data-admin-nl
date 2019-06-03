@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000544,
-    "geom:area_square_m":4064563.016255,
+    "geom:area_square_m":4064563.016256,
     "geom:bbox":"6.71456392096,52.852005525,6.75247740576,52.8786912885",
     "geom:latitude":52.864507,
     "geom:longitude":6.734648,
@@ -34,10 +34,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404473807,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +50,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473807,
             "locality_id":1158791995,
             "region_id":85687051
         }
     ],
     "wof:id":1158791995,
-    "wof:lastmodified":1514492064,
+    "wof:lastmodified":1559595204,
     "wof:name":"De Kiel",
     "wof:parent_id":404473807,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000496,
-    "geom:area_square_m":3728936.895387,
+    "geom:area_square_m":3728936.895388,
     "geom:bbox":"6.6155891049,52.5439642505,6.65811955584,52.5712550625",
     "geom:latitude":52.559116,
     "geom:longitude":6.635356,
@@ -44,16 +44,18 @@
         102191581,
         404473831,
         85633337,
-        101807179
+        101807179,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"324b90970256c3abdc941b788b473615",
+    "wof:geomhash":"75dfa619c9df152719e8acd4645cfa06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473831,
             "locality_id":101807179,
             "neighbourhood_id":1158802645,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158802645,
-    "wof:lastmodified":1513524274,
+    "wof:lastmodified":1559596881,
     "wof:name":"Industriegebied",
     "wof:parent_id":101807179,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.615589104901461,
+    6.61558910490146,
     52.54396425046687,
     6.65811955583976,
     52.57125506249851

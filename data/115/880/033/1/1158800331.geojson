@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000093,
-    "geom:area_square_m":720654.895682,
+    "geom:area_square_m":720654.895681,
     "geom:bbox":"5.2876849334,51.2999602727,5.30602391164,51.3150592913",
     "geom:latitude":51.308316,
     "geom:longitude":5.295496,
@@ -44,16 +44,18 @@
         102191581,
         404474639,
         85633337,
-        1158801521
+        1158801521,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"d07f0958ddf76c4e50b23710ba28372c",
+    "wof:geomhash":"48408c3c28140f6a1f84a0bc3bc13f8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474639,
             "locality_id":1158801521,
             "neighbourhood_id":1158800331,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158800331,
-    "wof:lastmodified":1513432820,
+    "wof:lastmodified":1559595425,
     "wof:name":"Weebosch",
     "wof:parent_id":1158801521,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.287684933399339,
-    51.299960272680345,
+    5.28768493339934,
+    51.29996027268034,
     5.30602391164169,
     51.31505929132401
 ],

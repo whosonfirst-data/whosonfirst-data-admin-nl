@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000326,
-    "geom:area_square_m":2421494.631524,
+    "geom:area_square_m":2421494.631523,
     "geom:bbox":"5.58805605556,53.0684069621,5.62120972201,53.08596113",
     "geom:latitude":53.077929,
     "geom:longitude":5.602088,
@@ -43,10 +43,11 @@
     "reversegeo:longitude":5.601839,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473817,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473817,
             "locality_id":1141960393,
             "region_id":85687055
         }
     ],
     "wof:id":1141960393,
-    "wof:lastmodified":1514492381,
+    "wof:lastmodified":1559594678,
     "wof:name":"Hidaard",
     "wof:parent_id":404473817,
     "wof:placetype":"locality",

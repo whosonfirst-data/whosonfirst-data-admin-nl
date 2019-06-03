@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001273,
-    "geom:area_square_m":9682663.693622,
+    "geom:area_square_m":9682663.69362,
     "geom:bbox":"4.86759205339,52.0187627909,4.92668769819,52.0575225815",
     "geom:latitude":52.037871,
     "geom:longitude":4.894281,
@@ -43,10 +43,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687039,
         102191581,
         404474237,
         85633337,
-        85687039
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474237,
             "locality_id":1158788729,
             "region_id":85687039
         }
     ],
     "wof:id":1158788729,
-    "wof:lastmodified":1514492940,
+    "wof:lastmodified":1559594300,
     "wof:name":"Snelrewaard",
     "wof:parent_id":404474237,
     "wof:placetype":"locality",

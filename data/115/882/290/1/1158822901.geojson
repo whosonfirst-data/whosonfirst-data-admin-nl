@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000414,
-    "geom:area_square_m":3096702.379902,
+    "geom:area_square_m":3096702.379903,
     "geom:bbox":"4.70479580415,52.7317153639,4.73767149427,52.7567195987",
     "geom:latitude":52.743496,
     "geom:longitude":4.725585,
@@ -49,10 +49,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         404474113,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474113,
             "locality_id":1158822901,
             "region_id":85687053
         }
     ],
     "wof:id":1158822901,
-    "wof:lastmodified":1514492195,
+    "wof:lastmodified":1559595151,
     "wof:name":"Eenigenburg",
     "wof:parent_id":404474113,
     "wof:placetype":"locality",

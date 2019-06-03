@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687033,
+        102191581,
+        404474645,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"0c8d4aefb24af6d4a2fce72e9935748a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209105349
+            "empire_id":136253051,
+            "localadmin_id":404474645,
+            "locality_id":1209105349,
+            "region_id":85687033
         }
     ],
     "wof:id":1209105349,
-    "wof:lastmodified":1536297591,
+    "wof:lastmodified":1559594341,
     "wof:name":"Elzet",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -39,26 +39,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687049,
         102191581,
-        101751873,
         85633337,
-        85687049
+        101751873,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"b9c1884bd7ac0501b35ab049166de767",
+    "wof:geomhash":"7dba5e8c1147e80ad36c0eaa467fbc58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751873,
             "macrohood_id":1158787411,
             "region_id":85687049
         }
     ],
     "wof:id":1158787411,
-    "wof:lastmodified":1513299174,
+    "wof:lastmodified":1559595394,
     "wof:name":"Warande Noord",
     "wof:parent_id":101751873,
     "wof:placetype":"macrohood",
@@ -68,7 +70,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.439167530815731,
+    5.43916753081573,
     52.48083010702584,
     5.4730966299353,
     52.49432073722993

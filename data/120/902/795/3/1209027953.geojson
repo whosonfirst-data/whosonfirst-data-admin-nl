@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687053,
+        102191581,
+        404474115,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"9663f44bd115bf93b5ecc66099bc41b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209027953
+            "empire_id":136253051,
+            "localadmin_id":404474115,
+            "locality_id":1209027953,
+            "region_id":85687053
         }
     ],
     "wof:id":1209027953,
-    "wof:lastmodified":1536299936,
+    "wof:lastmodified":1559594337,
     "wof:name":"Molenbuurt",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

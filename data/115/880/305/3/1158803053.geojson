@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000435,
-    "geom:area_square_m":3273987.58964,
+    "geom:area_square_m":3273987.589641,
     "geom:bbox":"6.41115798725,52.5327837089,6.44581285543,52.5709022493",
     "geom:latitude":52.549643,
     "geom:longitude":6.425909,
@@ -44,16 +44,18 @@
         102191581,
         404473847,
         85633337,
-        101807231
+        101807231,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"3823445a8643326baa276e7f047f85de",
+    "wof:geomhash":"3db993df1227721bcffa808e06cd4dcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473847,
             "locality_id":101807231,
             "neighbourhood_id":1158803053,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158803053,
-    "wof:lastmodified":1513524313,
+    "wof:lastmodified":1559596861,
     "wof:name":"Ommerbos-Ommerkanaal",
     "wof:parent_id":101807231,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.411157987248559,
-    52.532783708921116,
+    6.41115798724856,
+    52.53278370892112,
     6.44581285542551,
     52.57090224931883
 ],

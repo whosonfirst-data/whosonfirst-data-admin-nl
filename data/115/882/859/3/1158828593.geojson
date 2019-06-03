@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000378,
-    "geom:area_square_m":2895784.469096,
+    "geom:area_square_m":2895784.469094,
     "geom:bbox":"3.83919383233,51.7503770104,3.88902332771,51.7859676164",
     "geom:latitude":51.766216,
     "geom:longitude":3.863155,
@@ -44,16 +44,18 @@
         102191581,
         1158824741,
         85633337,
-        101808547
+        101808547,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"be9e6cd03fde583b2db890f75cc4e518",
+    "wof:geomhash":"09bc8aad13973e5e42b5c48c9f55696c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158824741,
             "locality_id":101808547,
             "neighbourhood_id":1158828593,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158828593,
-    "wof:lastmodified":1513588238,
+    "wof:lastmodified":1559595760,
     "wof:name":"Ouddorp brouwersdam",
     "wof:parent_id":101808547,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.839193832334453,
+    3.83919383233445,
     51.75037701039383,
     3.88902332771367,
     51.78596761637928

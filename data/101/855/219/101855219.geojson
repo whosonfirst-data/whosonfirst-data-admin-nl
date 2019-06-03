@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001559,
-    "geom:area_square_m":12071573.92403,
+    "geom:area_square_m":12071573.924031,
     "geom:bbox":"5.79487271997,51.200052026,5.8650219376,51.2420048342",
     "geom:latitude":51.223315,
     "geom:longitude":5.83035,
@@ -65,10 +65,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687033,
         102191581,
         404474557,
         85633337,
-        85687033
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,13 +85,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474557,
             "locality_id":101855219,
             "region_id":85687033
         }
     ],
     "wof:id":101855219,
-    "wof:lastmodified":1514492462,
+    "wof:lastmodified":1559594322,
     "wof:name":"Kelpen-Oler",
     "wof:parent_id":404474557,
     "wof:placetype":"locality",

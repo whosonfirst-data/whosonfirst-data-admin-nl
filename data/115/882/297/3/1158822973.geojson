@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000546,
-    "geom:area_square_m":4087338.074959,
+    "geom:area_square_m":4087338.074958,
     "geom:bbox":"4.84768531306,52.706805653,4.9010256197,52.7342587789",
     "geom:latitude":52.720973,
     "geom:longitude":4.874498,
@@ -46,10 +46,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         1158818287,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +62,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158818287,
             "locality_id":1158822973,
             "region_id":85687053
         }
     ],
     "wof:id":1158822973,
-    "wof:lastmodified":1514492798,
+    "wof:lastmodified":1559595121,
     "wof:name":"Oude-Niedorp",
     "wof:parent_id":1158818287,
     "wof:placetype":"locality",

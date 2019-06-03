@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002469,
-    "geom:area_square_m":18979071.590223,
+    "geom:area_square_m":18979071.590222,
     "geom:bbox":"5.32494313121,51.5434886354,5.40520130344,51.602913211",
     "geom:latitude":51.564726,
     "geom:longitude":5.37126,
@@ -179,10 +179,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":289,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474361,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -200,13 +201,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474361,
             "locality_id":101808179,
             "region_id":85687035
         }
     ],
     "wof:id":101808179,
-    "wof:lastmodified":1527715352,
+    "wof:lastmodified":1559594093,
     "wof:name":"Liempde",
     "wof:parent_id":404474361,
     "wof:placetype":"locality",

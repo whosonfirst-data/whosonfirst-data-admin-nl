@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000584,
-    "geom:area_square_m":4452669.596547,
+    "geom:area_square_m":4452669.596549,
     "geom:bbox":"4.27700705631,51.9022117369,4.33122224894,51.9214878556",
     "geom:latitude":51.912667,
     "geom:longitude":4.305965,
@@ -39,26 +39,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101751851,
         85633337,
-        85687041
+        101751851,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"0e20d462a8778216412d43b9f1004f54",
+    "wof:geomhash":"ef8383515bcc57c2c5ca1db862dd9e7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751851,
             "macrohood_id":1158829615,
             "region_id":85687041
         }
     ],
     "wof:id":1158829615,
-    "wof:lastmodified":1513587456,
+    "wof:lastmodified":1559595378,
     "wof:name":"Westwijk",
     "wof:parent_id":101751851,
     "wof:placetype":"macrohood",
@@ -70,7 +72,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.277007056311737,
+    4.27700705631174,
     51.90221173689932,
     4.33122224894059,
     51.92148785561459

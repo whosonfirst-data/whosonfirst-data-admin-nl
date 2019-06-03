@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003807,
-    "geom:area_square_m":28585505.365316,
+    "geom:area_square_m":28585505.365315,
     "geom:bbox":"5.97134122916,52.5775137705,6.07880530858,52.6376702221",
     "geom:latitude":52.610469,
     "geom:longitude":6.023263,
@@ -93,10 +93,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":310,
     "wof:belongsto":[
+        85687045,
         102191581,
         404474683,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,13 +115,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474683,
             "locality_id":101807193,
             "region_id":85687045
         }
     ],
     "wof:id":101807193,
-    "wof:lastmodified":1527715097,
+    "wof:lastmodified":1559594101,
     "wof:name":"Genemuiden",
     "wof:parent_id":404474683,
     "wof:placetype":"locality",

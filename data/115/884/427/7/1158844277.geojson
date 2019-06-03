@@ -19,7 +19,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008429,
-    "geom:area_square_m":63592122.439988,
+    "geom:area_square_m":63592122.439987,
     "geom:bbox":"4.85571248545,52.3682292365,5.07916222004,52.4306786626",
     "geom:latitude":52.399956,
     "geom:longitude":4.97615,
@@ -45,10 +45,11 @@
     "src:geom":"amsgis",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687053,
         102191581,
-        101751893,
         85633337,
-        85687053
+        101751893,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -59,12 +60,13 @@
             "borough_id":1158844277,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751893,
             "region_id":85687053
         }
     ],
     "wof:id":1158844277,
-    "wof:lastmodified":1513269530,
+    "wof:lastmodified":1559595241,
     "wof:name":"Noord",
     "wof:parent_id":101751893,
     "wof:placetype":"borough",

@@ -34,7 +34,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687055,
+        102191581,
+        404473755,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +48,18 @@
     "wof:geomhash":"d24b9ca7f9f00d683d34370837fb8f54",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209618209
+            "empire_id":136253051,
+            "localadmin_id":404473755,
+            "locality_id":1209618209,
+            "region_id":85687055
         }
     ],
     "wof:id":1209618209,
-    "wof:lastmodified":1537675626,
+    "wof:lastmodified":1559594386,
     "wof:name":"Dijkshorne",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404473755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

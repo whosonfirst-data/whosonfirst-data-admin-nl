@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002702,
-    "geom:area_square_m":20008996.79555,
+    "geom:area_square_m":20008996.795549,
     "geom:bbox":"7.00498617124,53.1671728823,7.07231453126,53.2463376945",
     "geom:latitude":53.205755,
     "geom:longitude":7.041795,
@@ -47,10 +47,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687059,
         102191581,
         1158792361,
         85633337,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,13 +69,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158792361,
             "locality_id":101807509,
             "region_id":85687059
         }
     ],
     "wof:id":101807509,
-    "wof:lastmodified":1513378403,
+    "wof:lastmodified":1559595234,
     "wof:name":"Oostwold",
     "wof:parent_id":1158792361,
     "wof:placetype":"locality",

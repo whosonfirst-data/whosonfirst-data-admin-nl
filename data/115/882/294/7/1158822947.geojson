@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000767,
-    "geom:area_square_m":5750413.183972,
+    "geom:area_square_m":5750413.183971,
     "geom:bbox":"4.98642360684,52.6457648911,5.0390429026,52.6665563518",
     "geom:latitude":52.6556,
     "geom:longitude":5.013753,
@@ -46,10 +46,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         404474551,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +62,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474551,
             "locality_id":1158822947,
             "region_id":85687053
         }
     ],
     "wof:id":1158822947,
-    "wof:lastmodified":1514491990,
+    "wof:lastmodified":1559595160,
     "wof:name":"Bobeldijk",
     "wof:parent_id":404474551,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000079,
-    "geom:area_square_m":595348.312218,
+    "geom:area_square_m":595348.312217,
     "geom:bbox":"4.97026252909,52.5123518951,4.99164121295,52.521850608",
     "geom:latitude":52.516882,
     "geom:longitude":4.979955,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         1158823237,
         85633337,
         101751889,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"1e6249775f77d989d2d14ecdad0fe8df",
+    "wof:geomhash":"56a8c04c207b75b1cdc2c2f12daabd27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751889,
             "macrohood_id":1158823237,
             "neighbourhood_id":1158820309,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158820309,
-    "wof:lastmodified":1513464218,
+    "wof:lastmodified":1559595933,
     "wof:name":"De Koog",
     "wof:parent_id":1158823237,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.970262529092606,
+    4.97026252909261,
     52.51235189506942,
     4.99164121295113,
     52.52185060799467

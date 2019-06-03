@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000477,
-    "geom:area_square_m":3621860.236369,
+    "geom:area_square_m":3621860.236368,
     "geom:bbox":"5.41377182352,52.1422526004,5.45595038782,52.1615200898",
     "geom:latitude":52.152146,
     "geom:longitude":5.435415,
@@ -52,10 +52,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687039,
         102191581,
         404473989,
         85633337,
-        85687039
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +68,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473989,
             "locality_id":1158788163,
             "region_id":85687039
         }
     ],
     "wof:id":1158788163,
-    "wof:lastmodified":1514492965,
+    "wof:lastmodified":1559595235,
     "wof:name":"Stoutenburg",
     "wof:parent_id":404473989,
     "wof:placetype":"locality",

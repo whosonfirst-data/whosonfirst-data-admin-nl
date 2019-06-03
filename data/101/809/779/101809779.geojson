@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004609,
-    "geom:area_square_m":35458299.56723,
+    "geom:area_square_m":35458299.567225,
     "geom:bbox":"3.71768353042,51.5009756682,3.86891502343,51.5524943647",
     "geom:latitude":51.527138,
     "geom:longitude":3.802412,
@@ -63,10 +63,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":284,
     "wof:belongsto":[
+        85687037,
         102191581,
         404474303,
         85633337,
-        85687037
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,13 +84,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474303,
             "locality_id":101809779,
             "region_id":85687037
         }
     ],
     "wof:id":101809779,
-    "wof:lastmodified":1527715170,
+    "wof:lastmodified":1559594234,
     "wof:name":"Wolphaartsdijk",
     "wof:parent_id":404474303,
     "wof:placetype":"locality",

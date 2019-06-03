@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002361,
-    "geom:area_square_m":18012811.691836,
+    "geom:area_square_m":18012811.691838,
     "geom:bbox":"6.18201007104,51.8717198147,6.25733412292,51.92946107",
     "geom:latitude":51.900867,
     "geom:longitude":6.222362,
@@ -109,10 +109,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         404474689,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,13 +125,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474689,
             "locality_id":1158783459,
             "region_id":85687043
         }
     ],
     "wof:id":1158783459,
-    "wof:lastmodified":1514492606,
+    "wof:lastmodified":1559594673,
     "wof:name":"Montferland",
     "wof:parent_id":404474689,
     "wof:placetype":"locality",

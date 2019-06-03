@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005963,
-    "geom:area_square_m":46083354.999903,
+    "geom:area_square_m":46083354.999908,
     "geom:bbox":"3.55868189483,51.2760390438,3.71240870876,51.3649567096",
     "geom:latitude":51.317769,
     "geom:longitude":3.637584,
@@ -44,16 +44,18 @@
         102191581,
         404474629,
         85633337,
-        101809807
+        101809807,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"0f0f9575f8a59b0b0e8dd99038651a95",
+    "wof:geomhash":"ae6e194b76144e06c2c4552879e012a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474629,
             "locality_id":101809807,
             "neighbourhood_id":1158785033,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158785033,
-    "wof:lastmodified":1513628741,
+    "wof:lastmodified":1559595546,
     "wof:name":"Verspreide huizen IJzendijke",
     "wof:parent_id":101809807,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.558681894833121,
+    3.55868189483312,
     51.27603904379279,
     3.71240870875521,
     51.36495670964165

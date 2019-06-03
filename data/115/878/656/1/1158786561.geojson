@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002224,
-    "geom:area_square_m":17186749.139108,
+    "geom:area_square_m":17186749.139107,
     "geom:bbox":"3.52162333616,51.2869125117,3.59071661635,51.3399043661",
     "geom:latitude":51.314067,
     "geom:longitude":3.557467,
@@ -43,10 +43,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687037,
         102191581,
         404474629,
         85633337,
-        85687037
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474629,
             "locality_id":1158786561,
             "region_id":85687037
         }
     ],
     "wof:id":1158786561,
-    "wof:lastmodified":1514493194,
+    "wof:lastmodified":1559595139,
     "wof:name":"Waterlandkerkje",
     "wof:parent_id":404474629,
     "wof:placetype":"locality",

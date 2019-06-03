@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00042,
-    "geom:area_square_m":3184099.68538,
+    "geom:area_square_m":3184099.685379,
     "geom:bbox":"4.67692978365,52.1891544863,4.70757819537,52.2110734334",
     "geom:latitude":52.200608,
     "geom:longitude":4.690579,
@@ -44,16 +44,18 @@
         102191581,
         404474677,
         85633337,
-        101808473
+        101808473,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"20010e21fc48212db72000e8358cb20f",
+    "wof:geomhash":"fcf522c7a0c2c9a5a519ead7ba65bf67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474677,
             "locality_id":101808473,
             "neighbourhood_id":1158828313,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158828313,
-    "wof:lastmodified":1513588217,
+    "wof:lastmodified":1559596652,
     "wof:name":"Verspreide huizen Rijnsaterwoude",
     "wof:parent_id":101808473,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.676929783653295,
+    4.67692978365329,
     52.18915448627755,
     4.70757819537093,
     52.21107343336419

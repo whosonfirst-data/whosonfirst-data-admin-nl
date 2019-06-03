@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000807,
-    "geom:area_square_m":6082819.797638,
+    "geom:area_square_m":6082819.797639,
     "geom:bbox":"5.51278463562,52.4349703539,5.57277982872,52.4810915985",
     "geom:latitude":52.462801,
     "geom:longitude":5.543732,
@@ -41,25 +41,27 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        101751873,
         85633337,
+        101751873,
+        136253051,
         85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"fe97e77322a74cdb0f2804f8b51aa85d",
+    "wof:geomhash":"6cb5ffb8c56d0d977b5331540838d5fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751873,
             "neighbourhood_id":1158787313,
             "region_id":85687049
         }
     ],
     "wof:id":1158787313,
-    "wof:lastmodified":1513299307,
+    "wof:lastmodified":1559597138,
     "wof:name":"Vlotgrasweg",
     "wof:parent_id":101751873,
     "wof:placetype":"neighbourhood",
@@ -69,7 +71,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.512784635618142,
+    5.51278463561814,
     52.43497035389875,
     5.57277982872154,
     52.48109159854812

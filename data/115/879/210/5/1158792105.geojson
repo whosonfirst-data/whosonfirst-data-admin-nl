@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000426,
-    "geom:area_square_m":3173530.536953,
+    "geom:area_square_m":3173530.536952,
     "geom:bbox":"6.8391480125,52.951091841,6.87692178212,52.9805903996",
     "geom:latitude":52.965996,
     "geom:longitude":6.85802,
@@ -54,10 +54,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474595,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,13 +70,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474595,
             "locality_id":1158792105,
             "region_id":85687051
         }
     ],
     "wof:id":1158792105,
-    "wof:lastmodified":1514492177,
+    "wof:lastmodified":1559595224,
     "wof:name":"Drouwenerveen",
     "wof:parent_id":404474595,
     "wof:placetype":"locality",

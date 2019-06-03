@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001358,
-    "geom:area_square_m":10511115.009606,
+    "geom:area_square_m":10511115.009605,
     "geom:bbox":"5.55617266132,51.2209094071,5.62348058311,51.2491087825",
     "geom:latitude":51.235818,
     "geom:longitude":5.589763,
@@ -71,10 +71,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474619,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,13 +93,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474619,
             "locality_id":101809693,
             "region_id":85687035
         }
     ],
     "wof:id":101809693,
-    "wof:lastmodified":1527715167,
+    "wof:lastmodified":1559595140,
     "wof:name":"Budel-Dorplein",
     "wof:parent_id":404474619,
     "wof:placetype":"locality",

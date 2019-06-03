@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008735,
-    "geom:area_square_m":66072563.878635,
+    "geom:area_square_m":66072563.878628,
     "geom:bbox":"6.32652985422,52.2421464644,6.47707587008,52.3256899995",
     "geom:latitude":52.287113,
     "geom:longitude":6.403978,
@@ -59,10 +59,11 @@
     "wd:longitude":6.418611,
     "wd:wordcount":390,
     "wof:belongsto":[
+        85687045,
         102191581,
         404474657,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,13 +81,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474657,
             "locality_id":101807165,
             "region_id":85687045
         }
     ],
     "wof:id":101807165,
-    "wof:lastmodified":1527715110,
+    "wof:lastmodified":1559595001,
     "wof:name":"Holten",
     "wof:parent_id":404474657,
     "wof:placetype":"locality",

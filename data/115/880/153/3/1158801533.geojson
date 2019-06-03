@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001027,
-    "geom:area_square_m":7877839.986651,
+    "geom:area_square_m":7877839.986652,
     "geom:bbox":"4.78107132187,51.6411869621,4.83200034061,51.6747439584",
     "geom:latitude":51.658766,
     "geom:longitude":4.806731,
@@ -45,10 +45,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474413,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +61,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474413,
             "locality_id":1158801533,
             "region_id":85687035
         }
     ],
     "wof:id":1158801533,
-    "wof:lastmodified":1514492101,
+    "wof:lastmodified":1559595119,
     "wof:name":"Den Hout",
     "wof:parent_id":404474413,
     "wof:placetype":"locality",

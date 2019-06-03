@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000029,
-    "geom:area_square_m":220677.556748,
+    "geom:area_square_m":220677.556749,
     "geom:bbox":"5.47070576186,51.4423268016,5.48366863939,51.4463883728",
     "geom:latitude":51.444189,
     "geom:longitude":5.477125,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687035,
         102191581,
         1158801475,
         85633337,
         101751819,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"5c2f4cb3ad8e97ad8a80532f57366659",
+    "wof:geomhash":"7fc189512ac7f33e78ee20514ebfb080",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751819,
             "macrohood_id":1158801475,
             "neighbourhood_id":1158797287,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158797287,
-    "wof:lastmodified":1513432583,
+    "wof:lastmodified":1559596680,
     "wof:name":"Fellenoord",
     "wof:parent_id":1158801475,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.470705761863336,
-    51.442326801613156,
+    5.47070576186334,
+    51.44232680161316,
     5.48366863938878,
     51.44638837283995
 ],

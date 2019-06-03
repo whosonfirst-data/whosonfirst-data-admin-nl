@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000264,
-    "geom:area_square_m":2009222.504274,
+    "geom:area_square_m":2009222.504273,
     "geom:bbox":"4.35755649857,51.9701476072,4.38630287917,52.005288633",
     "geom:latitude":51.985138,
     "geom:longitude":4.371899,
@@ -39,26 +39,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101752765,
         85633337,
-        85687041
+        101752765,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"9d65158c96351643a30f1d77304ac6f8",
+    "wof:geomhash":"42fc5771fceac42a7fa6db47b568eb5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752765,
             "macrohood_id":1158829593,
             "region_id":85687041
         }
     ],
     "wof:id":1158829593,
-    "wof:lastmodified":1513587451,
+    "wof:lastmodified":1559595373,
     "wof:name":"Schieweg",
     "wof:parent_id":101752765,
     "wof:placetype":"macrohood",
@@ -70,7 +72,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.357556498566341,
+    4.35755649856634,
     51.97014760719258,
     4.38630287916899,
     52.00528863298151

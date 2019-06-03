@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000034,
-    "geom:area_square_m":261101.748088,
+    "geom:area_square_m":261101.748087,
     "geom:bbox":"5.85576108143,51.5799365054,5.86927191995,51.5860073619",
     "geom:latitude":51.582741,
     "geom:longitude":5.862892,
@@ -44,16 +44,18 @@
         102191581,
         404474615,
         85633337,
-        1158801513
+        1158801513,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"3bd2fbe80b9b9efd494d1d445a1d7887",
+    "wof:geomhash":"3bbace7d2bd6f5976d8b0dfd8012f1df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474615,
             "locality_id":1158801513,
             "neighbourhood_id":1158800091,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158800091,
-    "wof:lastmodified":1513432799,
+    "wof:lastmodified":1559595866,
     "wof:name":"Westerbeek",
     "wof:parent_id":1158801513,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.855761081426901,
+    5.8557610814269,
     51.57993650540195,
     5.86927191994547,
     51.58600736193954

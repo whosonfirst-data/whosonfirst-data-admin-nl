@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001176,
-    "geom:area_square_m":8730493.463125,
+    "geom:area_square_m":8730493.463124,
     "geom:bbox":"6.41591375821,53.0824861692,6.481048953,53.1085818764",
     "geom:latitude":53.095168,
     "geom:longitude":6.450595,
@@ -43,10 +43,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474609,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474609,
             "locality_id":1158792151,
             "region_id":85687051
         }
     ],
     "wof:id":1158792151,
-    "wof:lastmodified":1514492491,
+    "wof:lastmodified":1559594213,
     "wof:name":"Langelo",
     "wof:parent_id":404474609,
     "wof:placetype":"locality",

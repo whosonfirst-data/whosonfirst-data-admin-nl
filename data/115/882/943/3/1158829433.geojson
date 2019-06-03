@@ -45,10 +45,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101751845,
         85633337,
-        85687041
+        101751845,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +61,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751845,
             "macrohood_id":1158829433,
             "region_id":85687041
         }
     ],
     "wof:id":1158829433,
-    "wof:lastmodified":1514492691,
+    "wof:lastmodified":1559595372,
     "wof:name":"Nieuwland",
     "wof:parent_id":101751845,
     "wof:placetype":"macrohood",

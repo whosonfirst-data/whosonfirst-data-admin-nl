@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000384,
-    "geom:area_square_m":2936752.263058,
+    "geom:area_square_m":2936752.263057,
     "geom:bbox":"5.71044158025,51.8188602283,5.74692921733,51.8397087672",
     "geom:latitude":51.831367,
     "geom:longitude":5.726304,
@@ -44,16 +44,18 @@
         102191581,
         404473953,
         85633337,
-        101754761
+        101754761,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"3fe6a7fb3465822fb8ebb42489e7c2fc",
+    "wof:geomhash":"54d14c4070f71fc1426b2d25ebee181b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473953,
             "locality_id":101754761,
             "neighbourhood_id":1141964293,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1141964293,
-    "wof:lastmodified":1513368806,
+    "wof:lastmodified":1559595743,
     "wof:name":"Verspreide huizen wezel",
     "wof:parent_id":101754761,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.710441580245778,
+    5.71044158024578,
     51.81886022833786,
     5.74692921733128,
     51.83970876720568

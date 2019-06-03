@@ -40,19 +40,21 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404473987,
-        85633337
+        85633337,
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"4773e68f114d76345443fb665370f267",
+    "wof:geomhash":"883114ca135dce1d8765431a04661ff3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473987,
             "locality_id":-1,
             "neighbourhood_id":1158788095,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1158788095,
-    "wof:lastmodified":1513621981,
+    "wof:lastmodified":1559595984,
     "wof:name":"Buitengebied Tull en 't Waal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.119563210192401,
+    5.1195632101924,
     51.98254246379306,
     5.16252348992006,
     52.01668645543232

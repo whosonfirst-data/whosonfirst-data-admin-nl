@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001211,
-    "geom:area_square_m":9114532.824032,
+    "geom:area_square_m":9114532.824033,
     "geom:bbox":"6.50978749964,52.4802858687,6.60964354103,52.5082732995",
     "geom:latitude":52.493131,
     "geom:longitude":6.569085,
@@ -45,10 +45,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473847,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +61,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473847,
             "locality_id":1158805659,
             "region_id":85687045
         }
     ],
     "wof:id":1158805659,
-    "wof:lastmodified":1514491926,
+    "wof:lastmodified":1559595187,
     "wof:name":"Beerzerveld",
     "wof:parent_id":404473847,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00096,
-    "geom:area_square_m":7130623.742604,
+    "geom:area_square_m":7130623.742602,
     "geom:bbox":"5.51126167543,53.0725881456,5.56638456348,53.1057148365",
     "geom:latitude":53.089293,
     "geom:longitude":5.542108,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.549161,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
         1141960639,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":1141960639,
             "neighbourhood_id":1126132441,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126132441,
-    "wof:lastmodified":1507246105,
+    "wof:lastmodified":1559596127,
     "wof:name":"Verspreide huizen Burgwerd",
     "wof:parent_id":1141960639,
     "wof:placetype":"neighbourhood",

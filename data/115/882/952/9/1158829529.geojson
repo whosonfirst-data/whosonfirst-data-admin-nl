@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000517,
-    "geom:area_square_m":3957104.976674,
+    "geom:area_square_m":3957104.976672,
     "geom:bbox":"4.64928918637,51.7644158514,4.68798820476,51.7919332022",
     "geom:latitude":51.778565,
     "geom:longitude":4.672266,
@@ -39,26 +39,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101751841,
         85633337,
-        85687041
+        101751841,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"8fa50daf36d835eae329fc33ee2e4e26",
+    "wof:geomhash":"c50b3c45869d54e8da6d9999a3d7b487",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751841,
             "macrohood_id":1158829529,
             "region_id":85687041
         }
     ],
     "wof:id":1158829529,
-    "wof:lastmodified":1513587439,
+    "wof:lastmodified":1559595377,
     "wof:name":"Sterrenburg",
     "wof:parent_id":101751841,
     "wof:placetype":"macrohood",
@@ -70,7 +72,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.649289186372292,
+    4.64928918637229,
     51.76441585137734,
     4.6879882047638,
     51.79193320216188

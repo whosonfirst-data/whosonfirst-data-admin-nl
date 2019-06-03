@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001766,
-    "geom:area_square_m":13182398.388549,
+    "geom:area_square_m":13182398.388548,
     "geom:bbox":"5.97130015603,52.8491869065,6.04374073074,52.8944855803",
     "geom:latitude":52.872326,
     "geom:longitude":6.006907,
@@ -81,10 +81,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473801,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,13 +102,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473801,
             "locality_id":101808823,
             "region_id":85687055
         }
     ],
     "wof:id":101808823,
-    "wof:lastmodified":1514493233,
+    "wof:lastmodified":1559595164,
     "wof:name":"Wolvega",
     "wof:parent_id":404473801,
     "wof:placetype":"locality",

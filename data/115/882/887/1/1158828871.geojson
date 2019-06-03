@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000012,
-    "geom:area_square_m":95437.088356,
+    "geom:area_square_m":95437.088355,
     "geom:bbox":"4.3185746252,51.8384563426,4.32321352481,51.8415262662",
     "geom:latitude":51.839993,
     "geom:longitude":4.320892,
@@ -45,16 +45,18 @@
         1158831181,
         1158824747,
         85633337,
-        101751847
+        101751847,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"33fc385fca0af8485feae915e86871ee",
+    "wof:geomhash":"87f1a56841781caa791ef142f23ea504",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158824747,
             "locality_id":101751847,
             "macrohood_id":1158831181,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1158828871,
-    "wof:lastmodified":1513588280,
+    "wof:lastmodified":1559595789,
     "wof:name":"Sterrenkwartier-Midden",
     "wof:parent_id":1158831181,
     "wof:placetype":"neighbourhood",
@@ -73,9 +75,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.318574625197928,
+    4.31857462519793,
     51.83845634262677,
-    4.323213524808163,
+    4.32321352480816,
     51.84152626616529
 ],
   "geometry": {"coordinates":[[[[4.31857462519793,51.84134936034484],[4.32287482871142,51.84152626616529],[4.32321352480816,51.83864026675818],[4.31890943824672,51.83845634262677],[4.31885927655276,51.8388897894308],[4.31857462519793,51.84134936034484]]]],"type":"MultiPolygon"}

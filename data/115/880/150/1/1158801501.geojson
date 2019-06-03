@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00094,
-    "geom:area_square_m":7217577.538283,
+    "geom:area_square_m":7217577.538282,
     "geom:bbox":"5.9790911417,51.5946228224,6.02412149771,51.6350735192",
     "geom:latitude":51.613676,
     "geom:longitude":6.003928,
@@ -28,26 +28,28 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474359,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"3c838bc9ea011e4f6bfc46157d94f75e",
+    "wof:geomhash":"f667369068b1b5358136d1a4d88145a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474359,
             "locality_id":1158801501,
             "region_id":85687035
         }
     ],
     "wof:id":1158801501,
-    "wof:lastmodified":1513432068,
+    "wof:lastmodified":1559595118,
     "wof:name":"Groeningen",
     "wof:parent_id":404474359,
     "wof:placetype":"locality",
@@ -57,8 +59,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.979091141699606,
-    51.594622822408766,
+    5.97909114169961,
+    51.59462282240877,
     6.02412149770722,
     51.63507351923288
 ],

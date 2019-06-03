@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00053,
-    "geom:area_square_m":4071125.114508,
+    "geom:area_square_m":4071125.114509,
     "geom:bbox":"5.56813004795,51.6165279093,5.60225352905,51.6436429414",
     "geom:latitude":51.629518,
     "geom:longitude":5.583013,
@@ -42,10 +42,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474441,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +58,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474441,
             "locality_id":1158801605,
             "region_id":85687035
         }
     ],
     "wof:id":1158801605,
-    "wof:lastmodified":1514492569,
+    "wof:lastmodified":1559595138,
     "wof:name":"Mariaheide",
     "wof:parent_id":404474441,
     "wof:placetype":"locality",

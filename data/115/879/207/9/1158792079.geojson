@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0008,
-    "geom:area_square_m":5958893.825389,
+    "geom:area_square_m":5958893.82539,
     "geom:bbox":"6.68837924592,52.9373051498,6.73142243931,52.9709552724",
     "geom:latitude":52.953738,
     "geom:longitude":6.713557,
@@ -49,10 +49,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474593,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474593,
             "locality_id":1158792079,
             "region_id":85687051
         }
     ],
     "wof:id":1158792079,
-    "wof:lastmodified":1514492821,
+    "wof:lastmodified":1559595225,
     "wof:name":"Papenvoort",
     "wof:parent_id":404474593,
     "wof:placetype":"locality",

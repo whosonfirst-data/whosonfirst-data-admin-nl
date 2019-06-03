@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000207,
-    "geom:area_square_m":1560394.609397,
+    "geom:area_square_m":1560394.609398,
     "geom:bbox":"4.58241144067,52.4858384399,4.60642344178,52.4990267625",
     "geom:latitude":52.49215,
     "geom:longitude":4.594334,
@@ -44,16 +44,18 @@
         102191581,
         404474043,
         85633337,
-        101754865
+        101754865,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"da8b9e93223e22ffa7fb7c76c586feb3",
+    "wof:geomhash":"1da2fb5295f0e54ae67d0b0b1091a0c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474043,
             "locality_id":101754865,
             "neighbourhood_id":1158818701,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158818701,
-    "wof:lastmodified":1513464087,
+    "wof:lastmodified":1559596025,
     "wof:name":"Wijk aan Zee",
     "wof:parent_id":101754865,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.582411440668671,
-    52.485838439915064,
+    4.58241144066867,
+    52.48583843991506,
     4.60642344177501,
     52.49902676251976
 ],

@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002278,
-    "geom:area_square_m":17494107.091879,
+    "geom:area_square_m":17494107.091878,
     "geom:bbox":"4.19168488974,51.590862186,4.31219656677,51.6462276025",
     "geom:latitude":51.613449,
     "geom:longitude":4.251367,
@@ -42,10 +42,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474431,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +58,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474431,
             "locality_id":1158801541,
             "region_id":85687035
         }
     ],
     "wof:id":1158801541,
-    "wof:lastmodified":1514492060,
+    "wof:lastmodified":1559594076,
     "wof:name":"De Heen",
     "wof:parent_id":404474431,
     "wof:placetype":"locality",

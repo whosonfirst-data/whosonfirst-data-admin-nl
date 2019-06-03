@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000781,
-    "geom:area_square_m":5827809.116461,
+    "geom:area_square_m":5827809.116462,
     "geom:bbox":"5.94955167914,52.8467895312,5.99769936284,52.8821347323",
     "geom:latitude":52.864672,
     "geom:longitude":5.973299,
@@ -34,10 +34,11 @@
     "reversegeo:longitude":5.970928,
     "src:geom":"mz",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473801,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +50,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473801,
             "locality_id":1141960173,
             "region_id":85687055
         }
     ],
     "wof:id":1141960173,
-    "wof:lastmodified":1514492945,
+    "wof:lastmodified":1559594940,
     "wof:name":"Sonnega",
     "wof:parent_id":404473801,
     "wof:placetype":"locality",

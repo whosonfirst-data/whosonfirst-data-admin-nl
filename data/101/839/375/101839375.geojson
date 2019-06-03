@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000837,
-    "geom:area_square_m":6421576.150748,
+    "geom:area_square_m":6421576.150749,
     "geom:bbox":"5.39931881269,51.6538512015,5.45687272835,51.6885558209",
     "geom:latitude":51.66985,
     "geom:longitude":5.429673,
@@ -52,10 +52,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474421,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,18 +67,19 @@
         "tgn:id":7269774
     },
     "wof:country":"NL",
-    "wof:geomhash":"aac7a281f3166e78762a7de6bd3f3d5f",
+    "wof:geomhash":"531a374324754d67c0af3d3346614cf5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474421,
             "locality_id":101839375,
             "region_id":85687035
         }
     ],
     "wof:id":101839375,
-    "wof:lastmodified":1513431804,
+    "wof:lastmodified":1559594937,
     "wof:name":"Middelrode",
     "wof:parent_id":404474421,
     "wof:placetype":"locality",
@@ -87,7 +89,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.399318812688015,
+    5.39931881268801,
     51.65385120146432,
     5.45687272835266,
     51.68855582094341

@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001744,
-    "geom:area_square_m":13355392.892308,
+    "geom:area_square_m":13355392.892307,
     "geom:bbox":"5.20649417377,51.6997828659,5.28829104969,51.7435272618",
     "geom:latitude":51.723798,
     "geom:longitude":5.248455,
@@ -80,10 +80,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":415,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474393,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,6 +102,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474393,
             "locality_id":101754571,
             "region_id":85687035
@@ -110,7 +112,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1553815478,
+    "wof:lastmodified":1559594705,
     "wof:name":"Engelen",
     "wof:parent_id":404474393,
     "wof:placetype":"locality",

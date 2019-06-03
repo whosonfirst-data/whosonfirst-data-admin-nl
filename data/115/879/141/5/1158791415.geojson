@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004675,
-    "geom:area_square_m":34856216.759555,
+    "geom:area_square_m":34856216.759552,
     "geom:bbox":"6.8756619851,52.866851698,7.01380856335,52.9553829272",
     "geom:latitude":52.913957,
     "geom:longitude":6.94341,
@@ -44,16 +44,18 @@
         102191581,
         404474595,
         85633337,
-        101807295
+        101807295,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"dbf6dfcd0864793efab90b7ebb6194ed",
+    "wof:geomhash":"e3cca94440f2b421fab6b71427854165",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474595,
             "locality_id":101807295,
             "neighbourhood_id":1158791415,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158791415,
-    "wof:lastmodified":1513292337,
+    "wof:lastmodified":1559596201,
     "wof:name":"Verspreide huizen Tweede Exloermond",
     "wof:parent_id":101807295,
     "wof:placetype":"neighbourhood",
@@ -72,8 +74,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.875661985099724,
-    52.866851697967746,
+    6.87566198509972,
+    52.86685169796775,
     7.01380856334859,
     52.95538292718722
 ],

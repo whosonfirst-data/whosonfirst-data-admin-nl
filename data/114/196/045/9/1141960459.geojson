@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001248,
-    "geom:area_square_m":9297893.925561,
+    "geom:area_square_m":9297893.925559,
     "geom:bbox":"6.05605723133,52.9362744811,6.11585896402,52.9804541155",
     "geom:latitude":52.958241,
     "geom:longitude":6.084612,
@@ -43,10 +43,11 @@
     "reversegeo:longitude":6.085052,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473771,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473771,
             "locality_id":1141960459,
             "region_id":85687055
         }
     ],
     "wof:id":1141960459,
-    "wof:lastmodified":1514492803,
+    "wof:lastmodified":1559595002,
     "wof:name":"Oudehorne",
     "wof:parent_id":404473771,
     "wof:placetype":"locality",

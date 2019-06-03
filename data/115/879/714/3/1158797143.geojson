@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000467,
-    "geom:area_square_m":3587421.48506,
+    "geom:area_square_m":3587421.485059,
     "geom:bbox":"4.69842552794,51.5900896902,4.74825013003,51.6103496529",
     "geom:latitude":51.59881,
     "geom:longitude":4.716189,
@@ -49,11 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474363,
         85633337,
         101754583,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,6 +66,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474363,
             "locality_id":101754583,
             "neighbourhood_id":1158797143,
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":1158797143,
-    "wof:lastmodified":1514492833,
+    "wof:lastmodified":1559597147,
     "wof:name":"Prinsenbeek",
     "wof:parent_id":101754583,
     "wof:placetype":"neighbourhood",

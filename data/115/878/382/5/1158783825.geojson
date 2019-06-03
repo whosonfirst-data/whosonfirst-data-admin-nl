@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001163,
-    "geom:area_square_m":8829971.084321,
+    "geom:area_square_m":8829971.08432,
     "geom:bbox":"6.0515460659,52.1034109112,6.13014252716,52.1353427861",
     "geom:latitude":52.118684,
     "geom:longitude":6.091022,
@@ -43,10 +43,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473877,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473877,
             "locality_id":1158783825,
             "region_id":85687043
         }
     ],
     "wof:id":1158783825,
-    "wof:lastmodified":1514492320,
+    "wof:lastmodified":1559595108,
     "wof:name":"Hall",
     "wof:parent_id":404473877,
     "wof:placetype":"locality",

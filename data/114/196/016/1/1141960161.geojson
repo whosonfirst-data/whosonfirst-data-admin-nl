@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
-    "geom:area_square_m":1951869.747603,
+    "geom:area_square_m":1951869.747602,
     "geom:bbox":"5.8046699368,53.1050824852,5.83118934853,53.1260285012",
     "geom:latitude":53.117607,
     "geom:longitude":5.817298,
@@ -34,26 +34,28 @@
     "reversegeo:longitude":5.815995,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473775,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"04393db1502fe86bdbb573a9be4ba9c1",
+    "wof:geomhash":"4e4ca567e69a2c90bf060441553a94e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473775,
             "locality_id":1141960161,
             "region_id":85687055
         }
     ],
     "wof:id":1141960161,
-    "wof:lastmodified":1501692248,
+    "wof:lastmodified":1559594246,
     "wof:name":"Ideard",
     "wof:parent_id":404473775,
     "wof:placetype":"locality",
@@ -66,8 +68,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.804669936797119,
-    53.105082485153616,
+    5.80466993679712,
+    53.10508248515362,
     5.83118934853217,
     53.12602850121454
 ],

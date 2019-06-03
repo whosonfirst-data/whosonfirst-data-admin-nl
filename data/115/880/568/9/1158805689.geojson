@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001194,
-    "geom:area_square_m":8999138.399702,
+    "geom:area_square_m":8999138.399701,
     "geom:bbox":"6.78568978983,52.4280963022,6.85429758781,52.4599612203",
     "geom:latitude":52.444387,
     "geom:longitude":6.823693,
@@ -49,10 +49,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473855,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473855,
             "locality_id":1158805689,
             "region_id":85687045
         }
     ],
     "wof:id":1158805689,
-    "wof:lastmodified":1514492568,
+    "wof:lastmodified":1559595170,
     "wof:name":"Mander",
     "wof:parent_id":404473855,
     "wof:placetype":"locality",

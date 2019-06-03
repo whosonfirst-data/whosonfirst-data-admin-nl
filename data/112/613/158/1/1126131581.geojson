@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001084,
-    "geom:area_square_m":8053360.690826,
+    "geom:area_square_m":8053360.690824,
     "geom:bbox":"5.76184312803,53.0458492348,5.80670128768,53.0985668554",
     "geom:latitude":53.070039,
     "geom:longitude":5.782436,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.785835,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473775,
         85633337,
         101806177,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473775,
             "locality_id":101806177,
             "neighbourhood_id":1126131581,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126131581,
-    "wof:lastmodified":1507246097,
+    "wof:lastmodified":1559595843,
     "wof:name":"Buitengebied Jirnsum",
     "wof:parent_id":101806177,
     "wof:placetype":"neighbourhood",

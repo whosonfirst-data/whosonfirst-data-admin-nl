@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00024,
-    "geom:area_square_m":1837345.510982,
+    "geom:area_square_m":1837345.510983,
     "geom:bbox":"4.59736048168,51.7842822615,4.62699799581,51.806285707",
     "geom:latitude":51.797544,
     "geom:longitude":4.611903,
@@ -44,16 +44,18 @@
         102191581,
         404474233,
         85633337,
-        101754655
+        101754655,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"f69c45364f4a5f30f69884d0a8a26648",
+    "wof:geomhash":"8f0eef0d28ccffb3e1f181a34fc018ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474233,
             "locality_id":101754655,
             "neighbourhood_id":1158826807,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158826807,
-    "wof:lastmodified":1513588093,
+    "wof:lastmodified":1559596612,
     "wof:name":"Groot en Klein Koninkrijk",
     "wof:parent_id":101754655,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.597360481679777,
-    51.784282261486055,
+    4.59736048167978,
+    51.78428226148606,
     4.6269979958147,
     51.80628570703726
 ],

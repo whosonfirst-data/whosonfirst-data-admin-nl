@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000869,
-    "geom:area_square_m":6657471.098901,
+    "geom:area_square_m":6657471.0989,
     "geom:bbox":"5.76235690749,51.7183031761,5.79974892421,51.7535090546",
     "geom:latitude":51.735347,
     "geom:longitude":5.7807,
@@ -68,10 +68,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":220,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474385,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,13 +90,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474385,
             "locality_id":101808237,
             "region_id":85687035
         }
     ],
     "wof:id":101808237,
-    "wof:lastmodified":1527715349,
+    "wof:lastmodified":1559594711,
     "wof:name":"Gassel",
     "wof:parent_id":404474385,
     "wof:placetype":"locality",

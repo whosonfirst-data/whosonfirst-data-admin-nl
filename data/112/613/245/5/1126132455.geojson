@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000445,
-    "geom:area_square_m":3304232.304075,
+    "geom:area_square_m":3304232.304074,
     "geom:bbox":"5.33425229398,53.0649511488,5.40712085941,53.1175224051",
     "geom:latitude":53.099051,
     "geom:longitude":5.384555,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.390118,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
         1141960621,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":1141960621,
             "neighbourhood_id":1126132455,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126132455,
-    "wof:lastmodified":1507246105,
+    "wof:lastmodified":1559595856,
     "wof:name":"Verspreide huizen Zurich",
     "wof:parent_id":1141960621,
     "wof:placetype":"neighbourhood",

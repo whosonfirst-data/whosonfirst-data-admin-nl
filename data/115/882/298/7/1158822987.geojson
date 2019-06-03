@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001932,
-    "geom:area_square_m":14620999.74996,
+    "geom:area_square_m":14620999.749959,
     "geom:bbox":"5.02288609104,52.2365223435,5.09874643501,52.2852154807",
     "geom:latitude":52.258142,
     "geom:longitude":5.060642,
@@ -54,10 +54,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687053,
         102191581,
         404474605,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,13 +70,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474605,
             "locality_id":1158822987,
             "region_id":85687053
         }
     ],
     "wof:id":1158822987,
-    "wof:lastmodified":1514492653,
+    "wof:lastmodified":1559594143,
     "wof:name":"Nederhorst den Berg",
     "wof:parent_id":404474605,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5065920.70345,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.939921,52.959075,5.939921,52.959075",
     "geom:latitude":52.959075,
     "geom:longitude":5.939921,
@@ -52,7 +52,8 @@
         102191581,
         404473771,
         85633337,
-        101837957
+        101837957,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,6 +69,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473771,
             "locality_id":101837957,
             "neighbourhood_id":85859961,
@@ -78,7 +80,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531870400,
+    "wof:lastmodified":1559595830,
     "wof:name":"Het Meer",
     "wof:parent_id":101837957,
     "wof:placetype":"neighbourhood",

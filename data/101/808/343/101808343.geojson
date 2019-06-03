@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000659,
-    "geom:area_square_m":5051248.80861,
+    "geom:area_square_m":5051248.808611,
     "geom:bbox":"4.72481061402,51.6551529142,4.78173007945,51.6733883278",
     "geom:latitude":51.663903,
     "geom:longitude":4.75313,
@@ -64,10 +64,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474631,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,13 +85,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474631,
             "locality_id":101808343,
             "region_id":85687035
         }
     ],
     "wof:id":101808343,
-    "wof:lastmodified":1514493171,
+    "wof:lastmodified":1559595012,
     "wof:name":"Wagenberg",
     "wof:parent_id":404474631,
     "wof:placetype":"locality",

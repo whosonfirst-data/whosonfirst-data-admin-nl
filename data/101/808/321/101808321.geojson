@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002346,
-    "geom:area_square_m":18019114.101335,
+    "geom:area_square_m":18019114.101334,
     "geom:bbox":"4.42933803493,51.5607107803,4.50216973921,51.6200838043",
     "geom:latitude":51.590706,
     "geom:longitude":4.467841,
@@ -64,10 +64,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474565,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,13 +85,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474565,
             "locality_id":101808321,
             "region_id":85687035
         }
     ],
     "wof:id":101808321,
-    "wof:lastmodified":1514492772,
+    "wof:lastmodified":1559594113,
     "wof:name":"Oud Gastel",
     "wof:parent_id":404474565,
     "wof:placetype":"locality",

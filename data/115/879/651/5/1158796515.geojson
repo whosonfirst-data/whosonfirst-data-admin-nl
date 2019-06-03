@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001427,
-    "geom:area_square_m":10589825.760042,
+    "geom:area_square_m":10589825.760041,
     "geom:bbox":"6.62760971798,53.1061987288,6.69536692885,53.1469776545",
     "geom:latitude":53.126595,
     "geom:longitude":6.664656,
@@ -43,10 +43,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687059,
         102191581,
         404473717,
         85633337,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473717,
             "locality_id":1158796515,
             "region_id":85687059
         }
     ],
     "wof:id":1158796515,
-    "wof:lastmodified":1514492714,
+    "wof:lastmodified":1559594294,
     "wof:name":"Noordlaren",
     "wof:parent_id":404473717,
     "wof:placetype":"locality",

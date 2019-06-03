@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000506,
-    "geom:area_square_m":3853833.425153,
+    "geom:area_square_m":3853833.425152,
     "geom:bbox":"5.40586658949,52.00393746,5.44625462847,52.0227306234",
     "geom:latitude":52.013435,
     "geom:longitude":5.429434,
@@ -44,16 +44,18 @@
         102191581,
         404474547,
         85633337,
-        101808455
+        101808455,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"69f2fbee47167f1f5c95133953d4335f",
+    "wof:geomhash":"73d337f63b42c7f32e45bd960dbc7e67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474547,
             "locality_id":101808455,
             "neighbourhood_id":1158788933,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158788933,
-    "wof:lastmodified":1513622052,
+    "wof:lastmodified":1559596416,
     "wof:name":"Leersum",
     "wof:parent_id":101808455,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.405866589494734,
-    52.003937460024645,
+    5.40586658949473,
+    52.00393746002464,
     5.4462546284703,
     52.02273062339039
 ],

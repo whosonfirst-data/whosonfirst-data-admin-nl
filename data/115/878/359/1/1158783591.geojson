@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001692,
-    "geom:area_square_m":12912609.868684,
+    "geom:area_square_m":12912609.868686,
     "geom:bbox":"6.2682391274,51.8677711869,6.33227917154,51.9110081516",
     "geom:latitude":51.885278,
     "geom:longitude":6.299984,
@@ -34,10 +34,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         404474689,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +50,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474689,
             "locality_id":1158783591,
             "region_id":85687043
         }
     ],
     "wof:id":1158783591,
-    "wof:lastmodified":1514491902,
+    "wof:lastmodified":1559594067,
     "wof:name":"Azewijn",
     "wof:parent_id":404474689,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000467,
-    "geom:area_square_m":3456097.337514,
+    "geom:area_square_m":3456097.337512,
     "geom:bbox":"6.76153936615,53.1956581446,6.80157509928,53.2268060979",
     "geom:latitude":53.209814,
     "geom:longitude":6.782684,
@@ -44,16 +44,18 @@
         102191581,
         404473735,
         85633337,
-        101838029
+        101838029,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"220e11ba728895f9e314fb9e2c9444bf",
+    "wof:geomhash":"8473779d9c939748b3af7f02a6f2e995",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473735,
             "locality_id":101838029,
             "neighbourhood_id":1158793143,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158793143,
-    "wof:lastmodified":1513382289,
+    "wof:lastmodified":1559596276,
     "wof:name":"'s-Gravenschans en Ruiten",
     "wof:parent_id":101838029,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.761539366153217,
+    6.76153936615322,
     53.19565814460462,
     6.80157509928148,
     53.22680609787647

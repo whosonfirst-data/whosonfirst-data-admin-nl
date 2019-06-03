@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000693,
-    "geom:area_square_m":5269637.465364,
+    "geom:area_square_m":5269637.465362,
     "geom:bbox":"5.51259217394,52.010083444,5.55802912118,52.0493733065",
     "geom:latitude":52.030402,
     "geom:longitude":5.534485,
@@ -39,26 +39,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687039,
         102191581,
-        101751829,
         85633337,
-        85687039
+        101751829,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"0514b101b92968bc62e7ff57a2d2f25f",
+    "wof:geomhash":"b036197afa4150bd73dbed678ab88b45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751829,
             "macrohood_id":1158790335,
             "region_id":85687039
         }
     ],
     "wof:id":1158790335,
-    "wof:lastmodified":1513621755,
+    "wof:lastmodified":1559595311,
     "wof:name":"West",
     "wof:parent_id":101751829,
     "wof:placetype":"macrohood",
@@ -68,8 +70,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.512592173936475,
-    52.010083444010405,
+    5.51259217393647,
+    52.01008344401041,
     5.55802912118472,
     52.04937330647295
 ],

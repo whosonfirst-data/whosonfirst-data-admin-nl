@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00144,
-    "geom:area_square_m":10935294.355944,
+    "geom:area_square_m":10935294.355945,
     "geom:bbox":"5.82695449581,52.0945232208,5.89378554971,52.1337815265",
     "geom:latitude":52.112731,
     "geom:longitude":5.856789,
@@ -49,10 +49,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473893,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473893,
             "locality_id":1158783901,
             "region_id":85687043
         }
     ],
     "wof:id":1158783901,
-    "wof:lastmodified":1514492404,
+    "wof:lastmodified":1559595162,
     "wof:name":"Hoog Baarlo",
     "wof:parent_id":404473893,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":43619649.098057,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.792622,50.828989,5.792622,50.828989",
     "geom:latitude":50.828989,
     "geom:longitude":5.792622,
@@ -65,7 +65,8 @@
         102191581,
         1158805871,
         85633337,
-        101810577
+        101810577,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,6 +81,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158805871,
             "locality_id":101810577,
             "neighbourhood_id":85797779,
@@ -90,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861904,
+    "wof:lastmodified":1559595826,
     "wof:name":"Keer",
     "wof:parent_id":101810577,
     "wof:placetype":"neighbourhood",

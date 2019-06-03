@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000186,
-    "geom:area_square_m":1426143.513735,
+    "geom:area_square_m":1426143.513736,
     "geom:bbox":"5.03824419829,51.5562381608,5.06515067692,51.5663327413",
     "geom:latitude":51.560919,
     "geom:longitude":5.05193,
@@ -43,12 +43,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687035,
         102191581,
         1158801789,
         404474435,
         85633337,
         101751817,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,6 +61,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474435,
             "locality_id":101751817,
             "macrohood_id":1158801789,
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":1158799119,
-    "wof:lastmodified":1514492068,
+    "wof:lastmodified":1559596739,
     "wof:name":"De Reit",
     "wof:parent_id":1158801789,
     "wof:placetype":"neighbourhood",

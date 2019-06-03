@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000156,
-    "geom:area_square_m":1184804.236147,
+    "geom:area_square_m":1184804.236149,
     "geom:bbox":"4.44127960724,52.1277236903,4.46254880072,52.1414390504",
     "geom:latitude":52.134749,
     "geom:longitude":4.451924,
@@ -77,8 +77,9 @@
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
-        101754713,
         85633337,
+        101754713,
+        136253051,
         85687041
     ],
     "wof:breaches":[],
@@ -94,6 +95,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101754713,
             "neighbourhood_id":85797049,
             "region_id":85687041
@@ -103,7 +105,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269453,
+    "wof:lastmodified":1559595859,
     "wof:name":"Adegeest",
     "wof:parent_id":101754713,
     "wof:placetype":"neighbourhood",

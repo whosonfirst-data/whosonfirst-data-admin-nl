@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000014,
-    "geom:area_square_m":106107.943796,
+    "geom:area_square_m":106107.943797,
     "geom:bbox":"4.49738568374,52.1758540204,4.50494930177,52.179229169",
     "geom:latitude":52.177365,
     "geom:longitude":4.501637,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         1158829431,
         85633337,
         101751833,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"37e77a9f3b940cf77fe455e4ab587a23",
+    "wof:geomhash":"104f825c7c4eaa2d4396758ae472aa66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751833,
             "macrohood_id":1158829431,
             "neighbourhood_id":1158826429,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158826429,
-    "wof:lastmodified":1513588064,
+    "wof:lastmodified":1559596597,
     "wof:name":"Leedewijk-Zuid",
     "wof:parent_id":1158829431,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.497385683738356,
-    52.175854020418605,
+    4.49738568373836,
+    52.1758540204186,
     4.50494930177238,
     52.17922916895542
 ],

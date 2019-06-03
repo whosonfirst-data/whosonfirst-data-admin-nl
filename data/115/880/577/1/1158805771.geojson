@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001336,
-    "geom:area_square_m":10080877.641715,
+    "geom:area_square_m":10080877.641714,
     "geom:bbox":"6.92384799359,52.3844119587,6.97016225489,52.4328716989",
     "geom:latitude":52.405817,
     "geom:longitude":6.947905,
@@ -51,10 +51,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404474665,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +67,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474665,
             "locality_id":1158805771,
             "region_id":85687045
         }
     ],
     "wof:id":1158805771,
-    "wof:lastmodified":1514493052,
+    "wof:lastmodified":1559594289,
     "wof:name":"Tilligte",
     "wof:parent_id":404474665,
     "wof:placetype":"locality",

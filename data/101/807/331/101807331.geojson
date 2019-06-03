@@ -58,10 +58,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687053,
         102191581,
         404474433,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,18 +73,19 @@
         "tgn:id":7262508
     },
     "wof:country":"NL",
-    "wof:geomhash":"49c43a47e77e8c3c65f5511f5a6246bc",
+    "wof:geomhash":"24b253f79728708c46c1b689df2c359c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474433,
             "locality_id":101807331,
             "region_id":85687053
         }
     ],
     "wof:id":101807331,
-    "wof:lastmodified":1513450856,
+    "wof:lastmodified":1559595161,
     "wof:name":"Broek in Waterland",
     "wof:parent_id":404474433,
     "wof:placetype":"locality",
@@ -98,7 +100,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.968833748064441,
+    4.96883374806444,
     52.41905954974382,
     5.03862267653215,
     52.4535911215121

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000778,
-    "geom:area_square_m":6074226.415065,
+    "geom:area_square_m":6074226.415064,
     "geom:bbox":"5.74928679807,50.8483503975,5.80382965095,50.8732032339",
     "geom:latitude":50.860229,
     "geom:longitude":5.779947,
@@ -62,10 +62,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687033,
         102191581,
         404474537,
         85633337,
-        85687033
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,13 +83,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474537,
             "locality_id":101809491,
             "region_id":85687033
         }
     ],
     "wof:id":101809491,
-    "wof:lastmodified":1514491933,
+    "wof:lastmodified":1559594134,
     "wof:name":"Berg en Terblijt",
     "wof:parent_id":404474537,
     "wof:placetype":"locality",

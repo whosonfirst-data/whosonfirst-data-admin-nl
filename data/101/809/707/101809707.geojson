@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002753,
-    "geom:area_square_m":21209516.706816,
+    "geom:area_square_m":21209516.706815,
     "geom:bbox":"5.15315879333,51.4301123999,5.22525612448,51.49773409",
     "geom:latitude":51.468584,
     "geom:longitude":5.185714,
@@ -71,10 +71,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":118,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474397,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,13 +93,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474397,
             "locality_id":101809707,
             "region_id":85687035
         }
     ],
     "wof:id":101809707,
-    "wof:lastmodified":1527715163,
+    "wof:lastmodified":1559595141,
     "wof:name":"Diessen",
     "wof:parent_id":404474397,
     "wof:placetype":"locality",

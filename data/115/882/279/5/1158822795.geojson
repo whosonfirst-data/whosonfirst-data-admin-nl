@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001262,
-    "geom:area_square_m":9459120.541163,
+    "geom:area_square_m":9459120.541165,
     "geom:bbox":"4.63132848006,52.675773767,4.72522229905,52.7004812047",
     "geom:latitude":52.687875,
     "geom:longitude":4.67375,
@@ -58,10 +58,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         404474041,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +74,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474041,
             "locality_id":1158822795,
             "region_id":85687053
         }
     ],
     "wof:id":1158822795,
-    "wof:lastmodified":1514491797,
+    "wof:lastmodified":1559595209,
     "wof:name":"Aagtdorp",
     "wof:parent_id":404474041,
     "wof:placetype":"locality",

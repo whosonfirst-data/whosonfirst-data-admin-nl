@@ -28,24 +28,32 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687035,
+        102191581,
+        404474379,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2752971
     },
     "wof:country":"NL",
-    "wof:geomhash":"dd240a7e534f2aea283b3072c9044ffa",
+    "wof:geomhash":"659e2f271f06119ad3544498d4b9d92f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209612543
+            "empire_id":136253051,
+            "localadmin_id":404474379,
+            "locality_id":1209612543,
+            "region_id":85687035
         }
     ],
     "wof:id":1209612543,
-    "wof:lastmodified":1536281800,
+    "wof:lastmodified":1559594370,
     "wof:name":"Keizersveer",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
@@ -53,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.8902800000000015,
+    4.89028,
     51.71833,
-    4.8902800000000015,
+    4.89028,
     51.71833
 ],
   "geometry": {"coordinates":[4.89028,51.71833],"type":"Point"}

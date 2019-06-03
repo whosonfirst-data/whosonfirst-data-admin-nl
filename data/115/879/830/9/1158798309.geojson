@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001111,
-    "geom:area_square_m":8529109.854352,
+    "geom:area_square_m":8529109.854351,
     "geom:bbox":"5.05861092399,51.605680953,5.10613697288,51.652264283",
     "geom:latitude":51.631454,
     "geom:longitude":5.085636,
@@ -44,16 +44,18 @@
         102191581,
         404474401,
         85633337,
-        101808187
+        101808187,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"25a314132545d171c6a1452a39f70922",
+    "wof:geomhash":"55163aa3df81a0bf0a3b7e135f2244ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474401,
             "locality_id":101808187,
             "neighbourhood_id":1158798309,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158798309,
-    "wof:lastmodified":1513432666,
+    "wof:lastmodified":1559595776,
     "wof:name":"Oost-Loon",
     "wof:parent_id":101808187,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.058610923988659,
-    51.605680953025576,
+    5.05861092398866,
+    51.60568095302558,
     5.10613697287744,
     51.65226428302643
 ],

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000368,
-    "geom:area_square_m":2787023.345002,
+    "geom:area_square_m":2787023.345001,
     "geom:bbox":"4.88637811777,52.1963520734,4.91937966313,52.211829967",
     "geom:latitude":52.205521,
     "geom:longitude":4.905664,
@@ -44,16 +44,18 @@
         102191581,
         404474341,
         85633337,
-        101837677
+        101837677,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"1ac44debb10b841c92880bb51ac8284c",
+    "wof:geomhash":"497c223359aab9fc457e5b6f5171c80a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474341,
             "locality_id":101837677,
             "neighbourhood_id":1158788869,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158788869,
-    "wof:lastmodified":1513622047,
+    "wof:lastmodified":1559596590,
     "wof:name":"Verspreide huizen in de polder Groot-Mijdrecht",
     "wof:parent_id":101837677,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.886378117768402,
+    4.8863781177684,
     52.19635207343014,
     4.91937966312776,
     52.21182996700403

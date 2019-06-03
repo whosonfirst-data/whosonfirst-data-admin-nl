@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001374,
-    "geom:area_square_m":10444213.136731,
+    "geom:area_square_m":10444213.136733,
     "geom:bbox":"4.86822503894,52.0379763913,4.94370375045,52.0740925841",
     "geom:latitude":52.058136,
     "geom:longitude":4.910772,
@@ -60,10 +60,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687039,
         102191581,
         404473999,
         85633337,
-        85687039
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,6 +83,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473999,
             "locality_id":101806989,
             "region_id":85687039
@@ -91,7 +93,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1514492541,
+    "wof:lastmodified":1559594257,
     "wof:name":"Linschoten",
     "wof:parent_id":404473999,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000156,
-    "geom:area_square_m":1195542.178227,
+    "geom:area_square_m":1195542.178226,
     "geom:bbox":"5.47758291535,51.6902360936,5.502217801,51.720374547",
     "geom:latitude":51.70433,
     "geom:longitude":5.487948,
@@ -44,16 +44,18 @@
         102191581,
         404474393,
         85633337,
-        101808337
+        101808337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"70dc81701ae620fa0b45c79027644977",
+    "wof:geomhash":"2d2bb817140fcf7e593c9420e22c6a61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474393,
             "locality_id":101808337,
             "neighbourhood_id":1158800297,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158800297,
-    "wof:lastmodified":1513432817,
+    "wof:lastmodified":1559595934,
     "wof:name":"Vinkel",
     "wof:parent_id":101808337,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.477582915350071,
+    5.47758291535007,
     51.69023609355523,
     5.50221780099622,
     51.72037454696969

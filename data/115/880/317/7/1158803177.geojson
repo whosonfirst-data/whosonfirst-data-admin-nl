@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004105,
-    "geom:area_square_m":31018365.276499,
+    "geom:area_square_m":31018365.276495,
     "geom:bbox":"6.22486475182,52.3005215162,6.33629440666,52.3630586089",
     "geom:latitude":52.332201,
     "geom:longitude":6.279665,
@@ -44,16 +44,18 @@
         102191581,
         404473849,
         85633337,
-        101807207
+        101807207,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"ca95e04d6acfdfc29c6618e0ec3d3153",
+    "wof:geomhash":"c4b94ff998b281a0202d0af400d06279",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473849,
             "locality_id":101807207,
             "neighbourhood_id":1158803177,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158803177,
-    "wof:lastmodified":1513524321,
+    "wof:lastmodified":1559597051,
     "wof:name":"Verspreide huizen Heeten",
     "wof:parent_id":101807207,
     "wof:placetype":"neighbourhood",
@@ -72,8 +74,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.224864751815604,
-    52.300521516166924,
+    6.2248647518156,
+    52.30052151616692,
     6.33629440666062,
     52.36305860894278
 ],

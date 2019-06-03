@@ -19,7 +19,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000098,
-    "geom:area_square_m":738512.487046,
+    "geom:area_square_m":738512.487047,
     "geom:bbox":"4.83533106919,52.3721897655,4.84741169712,52.3851013361",
     "geom:latitude":52.377788,
     "geom:longitude":4.841546,
@@ -66,12 +66,13 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85687053,
         102191581,
         1108802299,
         85633337,
         101751893,
-        1158844285,
-        85687053
+        136253051,
+        1158844285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,6 +86,7 @@
             "borough_id":1158844285,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751893,
             "macrohood_id":1108802299,
             "neighbourhood_id":1108945401,
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":1108945401,
-    "wof:lastmodified":1514492471,
+    "wof:lastmodified":1559595939,
     "wof:name":"Kolenkitbuurt",
     "wof:parent_id":1108802299,
     "wof:placetype":"neighbourhood",

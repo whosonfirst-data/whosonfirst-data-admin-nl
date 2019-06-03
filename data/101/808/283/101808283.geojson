@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002283,
-    "geom:area_square_m":17549588.740584,
+    "geom:area_square_m":17549588.740587,
     "geom:bbox":"4.82908466474,51.5242512234,4.91391726097,51.5889468019",
     "geom:latitude":51.556313,
     "geom:longitude":4.879493,
@@ -59,10 +59,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474381,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,13 +80,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474381,
             "locality_id":101808283,
             "region_id":85687035
         }
     ],
     "wof:id":101808283,
-    "wof:lastmodified":1514492602,
+    "wof:lastmodified":1559594109,
     "wof:name":"Molenschot",
     "wof:parent_id":404474381,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000103,
-    "geom:area_square_m":762894.417992,
+    "geom:area_square_m":762894.417991,
     "geom:bbox":"6.08859592896,53.1183505446,6.10698975722,53.1285185524",
     "geom:latitude":53.123293,
     "geom:longitude":6.098241,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":6.097475,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473791,
         85633337,
         101806135,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473791,
             "locality_id":101806135,
             "neighbourhood_id":1126131771,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126131771,
-    "wof:lastmodified":1507246099,
+    "wof:lastmodified":1559596169,
     "wof:name":"Fennepark",
     "wof:parent_id":101806135,
     "wof:placetype":"neighbourhood",

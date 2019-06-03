@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000032,
-    "geom:area_square_m":244207.007902,
+    "geom:area_square_m":244207.007903,
     "geom:bbox":"4.53643747455,52.1539184836,4.54967787657,52.160252214",
     "geom:latitude":52.157189,
     "geom:longitude":4.54269,
@@ -41,25 +41,27 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        101754677,
         85633337,
+        101754677,
+        136253051,
         85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"db76d0b1186b7e78affc2bf8efff2e62",
+    "wof:geomhash":"0f3aeef5e75af5d51334976a5319fce0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101754677,
             "neighbourhood_id":1158826463,
             "region_id":85687041
         }
     ],
     "wof:id":1158826463,
-    "wof:lastmodified":1513588066,
+    "wof:lastmodified":1559595631,
     "wof:name":"Elizabethhof",
     "wof:parent_id":101754677,
     "wof:placetype":"neighbourhood",
@@ -69,9 +71,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.536437474547583,
+    4.53643747454758,
     52.15391848358499,
-    4.549677876574754,
+    4.54967787657475,
     52.16025221401066
 ],
   "geometry": {"coordinates":[[[[4.53643747454758,52.15653379789332],[4.54769852899837,52.16025221401066],[4.54967787657475,52.15872843406674],[4.53858495452163,52.15391848358499],[4.537098509452,52.15548523875795],[4.53643747454758,52.15653379789332]]]],"type":"MultiPolygon"}

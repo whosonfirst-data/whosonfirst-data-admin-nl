@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000375,
-    "geom:area_square_m":2835955.496442,
+    "geom:area_square_m":2835955.496443,
     "geom:bbox":"5.60731000506,52.3102994812,5.65058750359,52.3275322745",
     "geom:latitude":52.318792,
     "geom:longitude":5.629365,
@@ -209,10 +209,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":791,
     "wof:belongsto":[
+        85687043,
         102191581,
         404473899,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -228,13 +229,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473899,
             "locality_id":101837779,
             "region_id":85687043
         }
     ],
     "wof:id":101837779,
-    "wof:lastmodified":1527715307,
+    "wof:lastmodified":1559594610,
     "wof:name":"Tonsel",
     "wof:parent_id":404473899,
     "wof:placetype":"locality",

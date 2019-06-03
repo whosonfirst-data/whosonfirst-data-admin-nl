@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000062,
-    "geom:area_square_m":486652.535034,
+    "geom:area_square_m":486652.535035,
     "geom:bbox":"5.75834278439,50.7922737916,5.77313285911,50.7983589974",
     "geom:latitude":50.795779,
     "geom:longitude":5.765483,
@@ -44,16 +44,18 @@
         102191581,
         1158805871,
         85633337,
-        101810595
+        101810595,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"ae9334ec99ddd763e6d71c02f4d0a474",
+    "wof:geomhash":"d7ad4e132103644485515f60bfd33ea7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158805871,
             "locality_id":101810595,
             "neighbourhood_id":1158807873,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158807873,
-    "wof:lastmodified":1513404150,
+    "wof:lastmodified":1559596854,
     "wof:name":"Sint Geertruid",
     "wof:parent_id":101810595,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.758342784394485,
+    5.75834278439449,
     50.79227379162462,
     5.77313285911259,
     50.79835899736183

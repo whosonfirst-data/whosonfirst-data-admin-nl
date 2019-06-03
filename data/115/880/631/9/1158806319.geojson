@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00015,
-    "geom:area_square_m":1172480.465537,
+    "geom:area_square_m":1172480.465538,
     "geom:bbox":"6.05470611547,50.8753779517,6.0701397162,50.8913070579",
     "geom:latitude":50.884138,
     "geom:longitude":6.061113,
@@ -49,12 +49,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687033,
         102191581,
         1158818153,
         404474489,
         85633337,
         101839255,
-        85687033
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,6 +67,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474489,
             "locality_id":101839255,
             "macrohood_id":1158818153,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1158806319,
-    "wof:lastmodified":1514493118,
+    "wof:lastmodified":1559596442,
     "wof:name":"Vink",
     "wof:parent_id":1158818153,
     "wof:placetype":"neighbourhood",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
-    "geom:area_square_m":771131.08474,
+    "geom:area_square_m":771131.084739,
     "geom:bbox":"4.98070508681,52.5048217425,4.99952559166,52.5152281742",
     "geom:latitude":52.5102,
     "geom:longitude":4.990025,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         1158823231,
         85633337,
         101751889,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"41af41bd6bcf33faf98855fcc70406ab",
+    "wof:geomhash":"c33275dfd533ef788b7fc89f2e0401fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751889,
             "macrohood_id":1158823231,
             "neighbourhood_id":1158820337,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158820337,
-    "wof:lastmodified":1513464220,
+    "wof:lastmodified":1559595897,
     "wof:name":"De Graeffweg en omgeving",
     "wof:parent_id":1158823231,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.980705086808144,
-    52.504821742543875,
+    4.98070508680814,
+    52.50482174254388,
     4.99952559166131,
     52.5152281741987
 ],

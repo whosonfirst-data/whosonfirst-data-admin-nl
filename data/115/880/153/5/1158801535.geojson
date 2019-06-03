@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006572,
-    "geom:area_square_m":50331024.035499,
+    "geom:area_square_m":50331024.035497,
     "geom:bbox":"4.64513658576,51.6949883774,4.85312617029,51.7665683035",
     "geom:latitude":51.728786,
     "geom:longitude":4.782107,
@@ -120,10 +120,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474631,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -135,13 +136,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474631,
             "locality_id":1158801535,
             "region_id":85687035
         }
     ],
     "wof:id":1158801535,
-    "wof:lastmodified":1514492155,
+    "wof:lastmodified":1559594076,
     "wof:name":"Drimmelen",
     "wof:parent_id":404474631,
     "wof:placetype":"locality",

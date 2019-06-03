@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002595,
-    "geom:area_square_m":19929668.730561,
+    "geom:area_square_m":19929668.730562,
     "geom:bbox":"5.57780626821,51.5683049117,5.65655581397,51.6337775857",
     "geom:latitude":51.601221,
     "geom:longitude":5.617793,
@@ -51,10 +51,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474441,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +67,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474441,
             "locality_id":1158801629,
             "region_id":85687035
         }
     ],
     "wof:id":1158801629,
-    "wof:lastmodified":1553816739,
+    "wof:lastmodified":1559594081,
     "wof:name":"Erp",
     "wof:parent_id":404474441,
     "wof:placetype":"locality",

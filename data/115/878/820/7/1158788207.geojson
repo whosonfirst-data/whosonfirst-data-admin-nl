@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000163,
-    "geom:area_square_m":1239099.251853,
+    "geom:area_square_m":1239099.251852,
     "geom:bbox":"4.90555462445,52.0582700882,4.92765085611,52.0703960145",
     "geom:latitude":52.063799,
     "geom:longitude":4.91527,
@@ -44,16 +44,18 @@
         102191581,
         404473999,
         85633337,
-        101806989
+        101806989,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"129d30217ba09eefbed8654443f728e7",
+    "wof:geomhash":"4c0d8b02e7e1ec1ff8e63ee885528997",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473999,
             "locality_id":101806989,
             "neighbourhood_id":1158788207,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158788207,
-    "wof:lastmodified":1513621989,
+    "wof:lastmodified":1559597065,
     "wof:name":"Linschoten",
     "wof:parent_id":101806989,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.905554624445354,
+    4.90555462444535,
     52.05827008821279,
     4.92765085611216,
     52.07039601452287

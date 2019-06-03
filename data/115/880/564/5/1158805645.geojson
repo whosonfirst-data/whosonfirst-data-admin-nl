@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000208,
-    "geom:area_square_m":1559857.076655,
+    "geom:area_square_m":1559857.076654,
     "geom:bbox":"5.92721383316,52.5781391016,5.97300930502,52.5941573091",
     "geom:latitude":52.588361,
     "geom:longitude":5.946913,
@@ -49,10 +49,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473839,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473839,
             "locality_id":1158805645,
             "region_id":85687045
         }
     ],
     "wof:id":1158805645,
-    "wof:lastmodified":1514492294,
+    "wof:lastmodified":1559595187,
     "wof:name":"Grafhorst",
     "wof:parent_id":404473839,
     "wof:placetype":"locality",

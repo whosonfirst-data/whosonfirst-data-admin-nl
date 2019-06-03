@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
-    "geom:area_square_m":776373.380183,
+    "geom:area_square_m":776373.380182,
     "geom:bbox":"5.06120454159,52.1151078205,5.08046540098,52.1271814877",
     "geom:latitude":52.121066,
     "geom:longitude":5.070748,
@@ -33,12 +33,13 @@
     "reversegeo:longitude":5.070748,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687039,
         102191581,
         1108808653,
         85633337,
         101751827,
-        1108808665,
-        85687039
+        136253051,
+        1108808665
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,6 +50,7 @@
             "borough_id":1108808665,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751827,
             "macrohood_id":1108808653,
             "neighbourhood_id":1108808933,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1108808933,
-    "wof:lastmodified":1507246059,
+    "wof:lastmodified":1559596602,
     "wof:name":"Zuilen-Noord",
     "wof:parent_id":1108808653,
     "wof:placetype":"neighbourhood",

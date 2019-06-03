@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000061,
-    "geom:area_square_m":466684.522115,
+    "geom:area_square_m":466684.522116,
     "geom:bbox":"5.64214557575,52.0380841,5.65473167246,52.0458891237",
     "geom:latitude":52.041888,
     "geom:longitude":5.648663,
@@ -45,16 +45,18 @@
         1158783333,
         404473893,
         85633337,
-        101751855
+        101751855,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"3c17d52b80903bdfc13359ea2b938540",
+    "wof:geomhash":"5b0c0e015ff15ecd01256ebbd446ce81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473893,
             "locality_id":101751855,
             "macrohood_id":1158783333,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1141963025,
-    "wof:lastmodified":1513368718,
+    "wof:lastmodified":1559596129,
     "wof:name":"De Steinen",
     "wof:parent_id":1158783333,
     "wof:placetype":"neighbourhood",
@@ -73,8 +75,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.642145575748068,
-    52.038084100016064,
+    5.64214557574807,
+    52.03808410001606,
     5.65473167245777,
     52.04588912373015
 ],

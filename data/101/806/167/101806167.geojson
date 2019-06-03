@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003384,
-    "geom:area_square_m":25124541.019555,
+    "geom:area_square_m":25124541.019557,
     "geom:bbox":"5.79330145445,53.0665887678,5.91645945666,53.1269255617",
     "geom:latitude":53.100174,
     "geom:longitude":5.84917,
@@ -98,11 +98,11 @@
     "src:population":"geonames",
     "wd:wordcount":271,
     "wof:belongsto":[
+        85687055,
         102191581,
         404473775,
         85633337,
-        85687055,
-        404473751
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,15 +120,16 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473775,
             "locality_id":101806167,
             "region_id":85687055
         }
     ],
     "wof:id":101806167,
-    "wof:lastmodified":1527715369,
+    "wof:lastmodified":1559594094,
     "wof:name":"Grouw",
-    "wof:parent_id":404473751,
+    "wof:parent_id":404473775,
     "wof:placetype":"locality",
     "wof:population":5737,
     "wof:population_rank":5,

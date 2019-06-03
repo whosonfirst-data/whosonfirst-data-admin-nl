@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
-    "geom:area_square_m":830547.356166,
+    "geom:area_square_m":830547.356167,
     "geom:bbox":"6.2645603236,52.2697872512,6.28016342061,52.2820562832",
     "geom:latitude":52.276868,
     "geom:longitude":6.273233,
@@ -44,16 +44,18 @@
         102191581,
         404473825,
         85633337,
-        1158805559
+        1158805559,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"76d051bc602eff1201ae2d6a2efb1041",
+    "wof:geomhash":"a32b5debc9df2569ce9fc2caae7c4bec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473825,
             "locality_id":1158805559,
             "neighbourhood_id":1158802271,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158802271,
-    "wof:lastmodified":1513524250,
+    "wof:lastmodified":1559596100,
     "wof:name":"Lettele",
     "wof:parent_id":1158805559,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.264560323599904,
+    6.2645603235999,
     52.26978725123966,
     6.28016342060525,
     52.28205628318237

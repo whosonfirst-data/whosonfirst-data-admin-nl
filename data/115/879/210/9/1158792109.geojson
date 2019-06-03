@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000829,
-    "geom:area_square_m":6189711.12848,
+    "geom:area_square_m":6189711.128478,
     "geom:bbox":"6.73471289569,52.8632306217,6.8084551106,52.8860695892",
     "geom:latitude":52.875994,
     "geom:longitude":6.767474,
@@ -52,10 +52,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474595,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +68,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474595,
             "locality_id":1158792109,
             "region_id":85687051
         }
     ],
     "wof:id":1158792109,
-    "wof:lastmodified":1514492197,
+    "wof:lastmodified":1559594200,
     "wof:name":"Eeserveen",
     "wof:parent_id":404474595,
     "wof:placetype":"locality",

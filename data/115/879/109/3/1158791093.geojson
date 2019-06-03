@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000231,
-    "geom:area_square_m":1730028.952928,
+    "geom:area_square_m":1730028.952927,
     "geom:bbox":"6.47764870003,52.7280494959,6.50413436185,52.7398242835",
     "geom:latitude":52.733618,
     "geom:longitude":6.491401,
@@ -44,16 +44,18 @@
         102191581,
         404473811,
         85633337,
-        101837877
+        101837877,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"44b4e5723f96b2e5d8f30a3f04b3c1d5",
+    "wof:geomhash":"109b558ea3a59b03c9717e8b7b7e52d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473811,
             "locality_id":101837877,
             "neighbourhood_id":1158791093,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158791093,
-    "wof:lastmodified":1513292317,
+    "wof:lastmodified":1559596090,
     "wof:name":"Industriegebied Noord A",
     "wof:parent_id":101837877,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.477648700031538,
-    52.728049495932964,
+    6.47764870003154,
+    52.72804949593296,
     6.50413436184762,
     52.73982428347091
 ],

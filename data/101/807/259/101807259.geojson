@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001395,
-    "geom:area_square_m":10359294.691776,
+    "geom:area_square_m":10359294.691775,
     "geom:bbox":"6.54667703701,53.0545811916,6.60132535351,53.0974019293",
     "geom:latitude":53.076543,
     "geom:longitude":6.575949,
@@ -83,10 +83,11 @@
     "src:population":"geonames",
     "wd:wordcount":171,
     "wof:belongsto":[
+        85687051,
         102191581,
         404474647,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,13 +105,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474647,
             "locality_id":101807259,
             "region_id":85687051
         }
     ],
     "wof:id":101807259,
-    "wof:lastmodified":1527715103,
+    "wof:lastmodified":1559595081,
     "wof:name":"Vries",
     "wof:parent_id":404474647,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000046,
-    "geom:area_square_m":348021.686556,
+    "geom:area_square_m":348021.686557,
     "geom:bbox":"6.51942633889,52.1659621434,6.53054671836,52.1723940359",
     "geom:latitude":52.169404,
     "geom:longitude":6.525003,
@@ -44,16 +44,18 @@
         102191581,
         404474671,
         85633337,
-        1158783541
+        1158783541,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"1ea67cb440b24ac594b9796eaff0f17a",
+    "wof:geomhash":"d96a6f327c77c483a9539d6c57bbc22f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474671,
             "locality_id":1158783541,
             "neighbourhood_id":1141965093,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1141965093,
-    "wof:lastmodified":1513368870,
+    "wof:lastmodified":1559595802,
     "wof:name":"Gelselaar",
     "wof:parent_id":1158783541,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.519426338885563,
+    6.51942633888556,
     52.16596214342869,
     6.53054671835554,
     52.17239403589575

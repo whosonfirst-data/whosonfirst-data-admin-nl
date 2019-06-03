@@ -32,7 +32,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687037,
+        102191581,
+        404474629,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"0e2c2a560ab074972bd351cc52f44998",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209095351
+            "empire_id":136253051,
+            "localadmin_id":404474629,
+            "locality_id":1209095351,
+            "region_id":85687037
         }
     ],
     "wof:id":1209095351,
-    "wof:lastmodified":1537675600,
+    "wof:lastmodified":1559594341,
     "wof:name":"Slijkplaat",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474629,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

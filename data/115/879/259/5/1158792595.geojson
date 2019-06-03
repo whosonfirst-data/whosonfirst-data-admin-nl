@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
-    "geom:area_square_m":479314.974362,
+    "geom:area_square_m":479314.974361,
     "geom:bbox":"6.58365051221,53.2012167376,6.59594170636,53.2114492314",
     "geom:latitude":53.206615,
     "geom:longitude":6.589974,
@@ -44,16 +44,18 @@
         102191581,
         404473713,
         85633337,
-        101751909
+        101751909,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"6713c2b824c10ad329884762fa51f0de",
+    "wof:geomhash":"91edca795febc359ab330fe76d17ae9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473713,
             "locality_id":101751909,
             "neighbourhood_id":1158792595,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158792595,
-    "wof:lastmodified":1513382255,
+    "wof:lastmodified":1559595579,
     "wof:name":"Europapark",
     "wof:parent_id":101751909,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.583650512206958,
+    6.58365051220696,
     53.20121673756797,
     6.59594170635838,
     53.21144923144188

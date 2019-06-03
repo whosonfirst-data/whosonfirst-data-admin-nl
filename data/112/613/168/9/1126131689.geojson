@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001364,
-    "geom:area_square_m":10143541.93518,
+    "geom:area_square_m":10143541.935179,
     "geom:bbox":"5.9379960929,53.0155604251,6.02250199775,53.0568612489",
     "geom:latitude":53.041582,
     "geom:longitude":5.981239,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.970694,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473787,
         85633337,
         101806153,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473787,
             "locality_id":101806153,
             "neighbourhood_id":1126131689,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126131689,
-    "wof:lastmodified":1507246098,
+    "wof:lastmodified":1559596238,
     "wof:name":"Verspreide huizen Tijnje",
     "wof:parent_id":101806153,
     "wof:placetype":"neighbourhood",

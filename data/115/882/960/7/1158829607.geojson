@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000304,
-    "geom:area_square_m":2314865.934458,
+    "geom:area_square_m":2314865.934457,
     "geom:bbox":"4.3321044226,51.9741777162,4.3696451887,51.9905326122",
     "geom:latitude":51.982651,
     "geom:longitude":4.350477,
@@ -37,10 +37,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101752765,
         85633337,
-        85687041
+        101752765,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +53,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752765,
             "macrohood_id":1158829607,
             "region_id":85687041
         }
     ],
     "wof:id":1158829607,
-    "wof:lastmodified":1514492978,
+    "wof:lastmodified":1559595367,
     "wof:name":"Tanthof",
     "wof:parent_id":101752765,
     "wof:placetype":"macrohood",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000047,
-    "geom:area_square_m":354908.138133,
+    "geom:area_square_m":354908.138134,
     "geom:bbox":"5.27464099399,52.2136476356,5.29181153285,52.2190999946",
     "geom:latitude":52.216373,
     "geom:longitude":5.282774,
@@ -46,11 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687039,
         102191581,
         404473973,
         85633337,
         101837651,
-        85687039
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +63,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473973,
             "locality_id":101837651,
             "neighbourhood_id":1158787835,
@@ -69,7 +71,7 @@
         }
     ],
     "wof:id":1158787835,
-    "wof:lastmodified":1514493251,
+    "wof:lastmodified":1559596276,
     "wof:name":"Zandvoort",
     "wof:parent_id":101837651,
     "wof:placetype":"neighbourhood",

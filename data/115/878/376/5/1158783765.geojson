@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000437,
-    "geom:area_square_m":3335809.395315,
+    "geom:area_square_m":3335809.395313,
     "geom:bbox":"6.05077391349,51.8821130514,6.09917385585,51.8980143868",
     "geom:latitude":51.89057,
     "geom:longitude":6.074232,
@@ -37,10 +37,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473863,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +53,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473863,
             "locality_id":1158783765,
             "region_id":85687043
         }
     ],
     "wof:id":1158783765,
-    "wof:lastmodified":1514491811,
+    "wof:lastmodified":1559595093,
     "wof:name":"Aerdt",
     "wof:parent_id":404473863,
     "wof:placetype":"locality",

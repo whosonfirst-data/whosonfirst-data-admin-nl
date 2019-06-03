@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001233,
-    "geom:area_square_m":9174909.647044,
+    "geom:area_square_m":9174909.647043,
     "geom:bbox":"5.4468561734,52.9894590457,5.49489081072,53.0357807218",
     "geom:latitude":53.013481,
     "geom:longitude":5.468378,
@@ -34,10 +34,11 @@
     "reversegeo:longitude":5.470744,
     "src:geom":"mz",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +50,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":1141960547,
             "region_id":85687055
         }
     ],
     "wof:id":1141960547,
-    "wof:lastmodified":1514492821,
+    "wof:lastmodified":1559595073,
     "wof:name":"Parrega",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

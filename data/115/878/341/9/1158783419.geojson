@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002457,
-    "geom:area_square_m":18716229.587166,
+    "geom:area_square_m":18716229.58716,
     "geom:bbox":"6.62907127196,51.9414770555,6.70496535986,52.0046387748",
     "geom:latitude":51.967203,
     "geom:longitude":6.671677,
@@ -37,26 +37,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473951,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"61584376fe10785ed5f25af9810fb2ce",
+    "wof:geomhash":"30e98a41f8a7e39731519fa083255655",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473951,
             "locality_id":1158783419,
             "region_id":85687043
         }
     ],
     "wof:id":1158783419,
-    "wof:lastmodified":1513367877,
+    "wof:lastmodified":1559594061,
     "wof:name":"Corle",
     "wof:parent_id":404473951,
     "wof:placetype":"locality",
@@ -69,8 +71,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.629071271964031,
-    51.941477055529695,
+    6.62907127196403,
+    51.9414770555297,
     6.7049653598641,
     52.00463877476388
 ],

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000196,
-    "geom:area_square_m":1454893.340586,
+    "geom:area_square_m":1454893.340585,
     "geom:bbox":"5.61588359768,53.1582697053,5.64830155415,53.1713316507",
     "geom:latitude":53.165028,
     "geom:longitude":5.630432,
@@ -40,10 +40,11 @@
     "reversegeo:longitude":5.629326,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473817,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473817,
             "locality_id":1141960649,
             "region_id":85687055
         }
     ],
     "wof:id":1141960649,
-    "wof:lastmodified":1514491902,
+    "wof:lastmodified":1559595089,
     "wof:name":"Baaium",
     "wof:parent_id":404473817,
     "wof:placetype":"locality",

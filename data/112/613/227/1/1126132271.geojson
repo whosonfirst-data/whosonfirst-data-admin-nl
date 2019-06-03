@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000413,
-    "geom:area_square_m":3076475.510373,
+    "geom:area_square_m":3076475.510372,
     "geom:bbox":"5.43547985971,52.9064056846,5.47068672372,52.9290052854",
     "geom:latitude":52.917302,
     "geom:longitude":5.454478,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.457145,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
         101806187,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":101806187,
             "neighbourhood_id":1126132271,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126132271,
-    "wof:lastmodified":1507246104,
+    "wof:lastmodified":1559595853,
     "wof:name":"Koudum",
     "wof:parent_id":101806187,
     "wof:placetype":"neighbourhood",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000911,
-    "geom:area_square_m":7011922.490113,
+    "geom:area_square_m":7011922.490111,
     "geom:bbox":"5.53086359208,51.4853321155,5.58044565328,51.5380758837",
     "geom:latitude":51.507012,
     "geom:longitude":5.550688,
@@ -44,16 +44,18 @@
         102191581,
         404474405,
         85633337,
-        101809715
+        101809715,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"12ee3d887811a8fd15bca95849efd030",
+    "wof:geomhash":"941a969634b11180751095b4bc26e84d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474405,
             "locality_id":101809715,
             "neighbourhood_id":1158798361,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158798361,
-    "wof:lastmodified":1513432670,
+    "wof:lastmodified":1559597058,
     "wof:name":"Verspreide huizen Gerwen",
     "wof:parent_id":101809715,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.530863592077901,
+    5.5308635920779,
     51.48533211550425,
     5.58044565327549,
     51.53807588372298

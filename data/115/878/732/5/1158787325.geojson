@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000066,
-    "geom:area_square_m":495992.750078,
+    "geom:area_square_m":495992.750076,
     "geom:bbox":"5.50762759611,52.4640923002,5.52321457499,52.4739400473",
     "geom:latitude":52.469018,
     "geom:longitude":5.515426,
@@ -41,25 +41,27 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        101751873,
         85633337,
+        101751873,
+        136253051,
         85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"2288283ba1e29e59da6697b0bbef8e91",
+    "wof:geomhash":"7815fc89369533a71d1b7a608fcb2554",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751873,
             "neighbourhood_id":1158787325,
             "region_id":85687049
         }
     ],
     "wof:id":1158787325,
-    "wof:lastmodified":1513299308,
+    "wof:lastmodified":1559595593,
     "wof:name":"Larservaartbos",
     "wof:parent_id":101751873,
     "wof:placetype":"neighbourhood",
@@ -69,9 +71,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.507627596110801,
+    5.5076275961108,
     52.46409230018269,
-    5.523214574988717,
+    5.52321457498872,
     52.47394004728232
 ],
   "geometry": {"coordinates":[[[[5.5076275961108,52.47107618279173],[5.50843675303816,52.47152909432516],[5.5116453445188,52.47330368531091],[5.51278463561814,52.47394004728232],[5.5188671550097,52.46987234106076],[5.52321457498872,52.46696463580046],[5.51806558262832,52.46409230018269],[5.50801987645626,52.47082291253052],[5.5076275961108,52.47107618279173]]]],"type":"MultiPolygon"}

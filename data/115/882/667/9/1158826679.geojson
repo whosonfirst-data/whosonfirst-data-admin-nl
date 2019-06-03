@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
-    "geom:area_square_m":1088547.231819,
+    "geom:area_square_m":1088547.231818,
     "geom:bbox":"4.43494683396,52.162051957,4.45822057527,52.1824463294",
     "geom:latitude":52.173948,
     "geom:longitude":4.449513,
@@ -41,25 +41,27 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        101754691,
         85633337,
+        101754691,
+        136253051,
         85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"d0a4b75aa1283ff290a98905cab90616",
+    "wof:geomhash":"2a1522807535780c5fed59a6c717f81e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101754691,
             "neighbourhood_id":1158826679,
             "region_id":85687041
         }
     ],
     "wof:id":1158826679,
-    "wof:lastmodified":1513588083,
+    "wof:lastmodified":1559596587,
     "wof:name":"Rijnfront",
     "wof:parent_id":101754691,
     "wof:placetype":"neighbourhood",
@@ -69,7 +71,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.434946833955599,
+    4.4349468339556,
     52.16205195697214,
     4.45822057527395,
     52.18244632936948

@@ -32,7 +32,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687055,
+        102191581,
+        404473817,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"c754664aaeede56fe224de9962e569a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209227497
+            "empire_id":136253051,
+            "localadmin_id":404473817,
+            "locality_id":1209227497,
+            "region_id":85687055
         }
     ],
     "wof:id":1209227497,
-    "wof:lastmodified":1537675599,
+    "wof:lastmodified":1559594356,
     "wof:name":"Sprong",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404473817,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

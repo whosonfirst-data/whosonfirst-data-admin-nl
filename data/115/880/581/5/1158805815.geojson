@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000437,
-    "geom:area_square_m":3302051.812619,
+    "geom:area_square_m":3302051.81262,
     "geom:bbox":"6.65509371675,52.3671118462,6.69241197647,52.3899562314",
     "geom:latitude":52.379776,
     "geom:longitude":6.675835,
@@ -42,16 +42,18 @@
         102191581,
         404473819,
         85633337,
-        101751863
+        101751863,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"40e6ec1d6ac518b2e3d9010f4a0c3b29",
+    "wof:geomhash":"699db0f3ae0f52dfb1ca80be30f71410",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473819,
             "locality_id":101751863,
             "macrohood_id":1158805815,
@@ -59,7 +61,7 @@
         }
     ],
     "wof:id":1158805815,
-    "wof:lastmodified":1513524032,
+    "wof:lastmodified":1559595365,
     "wof:name":"Schelfhorst",
     "wof:parent_id":101751863,
     "wof:placetype":"macrohood",
@@ -69,7 +71,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.655093716748135,
+    6.65509371674814,
     52.3671118462042,
     6.69241197647097,
     52.38995623139416

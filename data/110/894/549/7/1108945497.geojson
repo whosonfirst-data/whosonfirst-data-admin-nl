@@ -19,7 +19,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000072,
-    "geom:area_square_m":542205.222287,
+    "geom:area_square_m":542205.222288,
     "geom:bbox":"4.88627636393,52.3480111223,4.90835909238,52.3561672719",
     "geom:latitude":52.351908,
     "geom:longitude":4.896023,
@@ -57,12 +57,13 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85687053,
         102191581,
         1158844317,
         85633337,
         101751893,
-        1158844283,
-        85687053
+        136253051,
+        1158844283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,6 +77,7 @@
             "borough_id":1158844283,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751893,
             "macrohood_id":1158844317,
             "neighbourhood_id":1108945497,
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":1108945497,
-    "wof:lastmodified":1514492678,
+    "wof:lastmodified":1559596005,
     "wof:name":"Nieuwe Pijp",
     "wof:parent_id":1158844317,
     "wof:placetype":"neighbourhood",

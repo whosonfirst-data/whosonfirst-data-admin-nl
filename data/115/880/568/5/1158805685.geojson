@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00133,
-    "geom:area_square_m":10024211.550075,
+    "geom:area_square_m":10024211.550076,
     "geom:bbox":"6.74803202563,52.4293814732,6.82244806669,52.4632021999",
     "geom:latitude":52.449025,
     "geom:longitude":6.783086,
@@ -49,10 +49,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473855,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473855,
             "locality_id":1158805685,
             "region_id":85687045
         }
     ],
     "wof:id":1158805685,
-    "wof:lastmodified":1514492568,
+    "wof:lastmodified":1559595166,
     "wof:name":"Manderveen",
     "wof:parent_id":404473855,
     "wof:placetype":"locality",

@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
-    "geom:area_square_m":1255464.581552,
+    "geom:area_square_m":1255464.581551,
     "geom:bbox":"4.62769374566,52.4766376742,4.65583622549,52.4885059808",
     "geom:latitude":52.482987,
     "geom:longitude":4.643066,
@@ -43,16 +43,18 @@
         102191581,
         404474043,
         85633337,
-        101754793
+        101754793,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"cf305b40fb6e0fe1598150115c0389a2",
+    "wof:geomhash":"894f0c9ee654489ba43b8a38bb5c0680",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474043,
             "locality_id":101754793,
             "macrohood_id":1158823147,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1158823147,
-    "wof:lastmodified":1513463744,
+    "wof:lastmodified":1559595343,
     "wof:name":"Vondelkwartier",
     "wof:parent_id":101754793,
     "wof:placetype":"macrohood",
@@ -70,7 +72,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.627693745657991,
+    4.62769374565799,
     52.47663767416443,
     4.65583622548617,
     52.48850598081528

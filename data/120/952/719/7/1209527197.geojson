@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687043,
+        102191581,
+        404474617,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"4fa742fe646f6a023f4c534cb35b49d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209527197
+            "empire_id":136253051,
+            "localadmin_id":404474617,
+            "locality_id":1209527197,
+            "region_id":85687043
         }
     ],
     "wof:id":1209527197,
-    "wof:lastmodified":1536284397,
+    "wof:lastmodified":1559594381,
     "wof:name":"Honderdmorgen",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474617,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

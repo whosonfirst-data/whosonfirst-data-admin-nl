@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001937,
-    "geom:area_square_m":14426714.504167,
+    "geom:area_square_m":14426714.504165,
     "geom:bbox":"7.06993609488,52.9407237776,7.14120109726,52.9888265143",
     "geom:latitude":52.962735,
     "geom:longitude":7.107422,
@@ -35,16 +35,18 @@
         102191581,
         404473739,
         85633337,
-        1158796543
+        1158796543,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"1d513717f3fc78a446990a425929e757",
+    "wof:geomhash":"6a8f202c7c789e529927454a196f47a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473739,
             "locality_id":1158796543,
             "neighbourhood_id":1158794815,
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1158794815,
-    "wof:lastmodified":1513382333,
+    "wof:lastmodified":1559596536,
     "wof:name":"Verspreide huizen Jipsingboertange",
     "wof:parent_id":1158796543,
     "wof:placetype":"neighbourhood",
@@ -63,7 +65,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.069936094877768,
+    7.06993609487777,
     52.94072377757411,
     7.14120109726067,
     52.98882651425793

@@ -28,24 +28,32 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687059,
+        102191581,
+        404473703,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2756196
     },
     "wof:country":"NL",
-    "wof:geomhash":"0784440109fcf49058451742e62a87c4",
+    "wof:geomhash":"661bbb3d347b264743e9f67ee6c3cacd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209416041
+            "empire_id":136253051,
+            "localadmin_id":404473703,
+            "locality_id":1209416041,
+            "region_id":85687059
         }
     ],
     "wof:id":1209416041,
-    "wof:lastmodified":1536287685,
+    "wof:lastmodified":1559594366,
     "wof:name":"Ellerhuizen",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404473703,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
@@ -53,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.6097199999999985,
+    6.60972,
     53.27916999999999,
-    6.6097199999999985,
+    6.60972,
     53.27916999999999
 ],
   "geometry": {"coordinates":[6.60972,53.27916999999999],"type":"Point"}

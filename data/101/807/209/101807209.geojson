@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001366,
-    "geom:area_square_m":10282620.183613,
+    "geom:area_square_m":10282620.18361,
     "geom:bbox":"6.64540655833,52.4862982386,6.70533247923,52.5347718956",
     "geom:latitude":52.507476,
     "geom:longitude":6.683386,
@@ -52,10 +52,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473831,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,18 +67,19 @@
         "tgn:id":7265902
     },
     "wof:country":"NL",
-    "wof:geomhash":"087f3e38b2c95816cba3b656a579bd6e",
+    "wof:geomhash":"aa54730ced8689aa7bbd7ec18d155b10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473831,
             "locality_id":101807209,
             "region_id":85687045
         }
     ],
     "wof:id":101807209,
-    "wof:lastmodified":1513523214,
+    "wof:lastmodified":1559595019,
     "wof:name":"Kloosterhaar",
     "wof:parent_id":404473831,
     "wof:placetype":"locality",
@@ -87,7 +89,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.645406558332302,
+    6.6454065583323,
     52.48629823862922,
     6.70533247922651,
     52.53477189558093

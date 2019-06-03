@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001062,
-    "geom:area_square_m":8005366.556455,
+    "geom:area_square_m":8005366.556454,
     "geom:bbox":"6.80196852627,52.403266111,6.85347777978,52.4400498524",
     "geom:latitude":52.423734,
     "geom:longitude":6.82997,
@@ -40,10 +40,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473855,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473855,
             "locality_id":1158805681,
             "region_id":85687045
         }
     ],
     "wof:id":1158805681,
-    "wof:lastmodified":1514493105,
+    "wof:lastmodified":1559595183,
     "wof:name":"Vasse",
     "wof:parent_id":404473855,
     "wof:placetype":"locality",

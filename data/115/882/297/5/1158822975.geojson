@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000076,
-    "geom:area_square_m":570802.078564,
+    "geom:area_square_m":570802.078565,
     "geom:bbox":"4.82917886048,52.7324162052,4.84611297195,52.7551163275",
     "geom:latitude":52.741236,
     "geom:longitude":4.838065,
@@ -46,10 +46,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         1158818287,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +62,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158818287,
             "locality_id":1158822975,
             "region_id":85687053
         }
     ],
     "wof:id":1158822975,
-    "wof:lastmodified":1514493281,
+    "wof:lastmodified":1559595216,
     "wof:name":"Zijdewind",
     "wof:parent_id":1158818287,
     "wof:placetype":"locality",

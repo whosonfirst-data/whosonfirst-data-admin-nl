@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
-    "geom:area_square_m":1271273.923967,
+    "geom:area_square_m":1271273.923969,
     "geom:bbox":"5.27780812421,52.0376133607,5.30602560997,52.0547361903",
     "geom:latitude":52.044425,
     "geom:longitude":5.293653,
@@ -44,16 +44,18 @@
         102191581,
         404474547,
         85633337,
-        101806999
+        101806999,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"a18fff551439122154b69dfb6cdd84ea",
+    "wof:geomhash":"d856d85401151fe335268d020de1f410",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474547,
             "locality_id":101806999,
             "neighbourhood_id":1158788919,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158788919,
-    "wof:lastmodified":1513622051,
+    "wof:lastmodified":1559596584,
     "wof:name":"De Horst en De Akker",
     "wof:parent_id":101806999,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.277808124212634,
-    52.037613360727605,
+    5.27780812421263,
+    52.0376133607276,
     5.30602560996588,
     52.05473619033656
 ],

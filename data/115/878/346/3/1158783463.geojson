@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000909,
-    "geom:area_square_m":6929778.10319,
+    "geom:area_square_m":6929778.103189,
     "geom:bbox":"6.08951443831,51.9410651217,6.13603392313,51.9705354679",
     "geom:latitude":51.954851,
     "geom:longitude":6.109353,
@@ -37,26 +37,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         404474689,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"fbce5bc31a0af1e82917c1162c8e171f",
+    "wof:geomhash":"446a1f557cb52e3134faf7a680fdfc8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474689,
             "locality_id":1158783463,
             "region_id":85687043
         }
     ],
     "wof:id":1158783463,
-    "wof:lastmodified":1513367914,
+    "wof:lastmodified":1559594618,
     "wof:name":"Greffelkamp",
     "wof:parent_id":404474689,
     "wof:placetype":"locality",
@@ -69,7 +71,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.089514438309287,
+    6.08951443830929,
     51.94106512169275,
     6.13603392312527,
     51.97053546787254

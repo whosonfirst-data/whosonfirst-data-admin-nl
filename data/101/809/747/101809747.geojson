@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002651,
-    "geom:area_square_m":20426474.679544,
+    "geom:area_square_m":20426474.679545,
     "geom:bbox":"4.82336293624,51.4280743637,4.90593052913,51.4809295699",
     "geom:latitude":51.453893,
     "geom:longitude":4.859861,
@@ -71,10 +71,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":110,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474349,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,13 +93,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474349,
             "locality_id":101809747,
             "region_id":85687035
         }
     ],
     "wof:id":101809747,
-    "wof:lastmodified":1527715169,
+    "wof:lastmodified":1559595145,
     "wof:name":"Ulicoten",
     "wof:parent_id":404474349,
     "wof:placetype":"locality",

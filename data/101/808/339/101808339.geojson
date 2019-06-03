@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001631,
-    "geom:area_square_m":12571134.154433,
+    "geom:area_square_m":12571134.154432,
     "geom:bbox":"5.71718643869,51.4116314411,5.79129393847,51.4682380295",
     "geom:latitude":51.443085,
     "geom:longitude":5.753189,
@@ -68,10 +68,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":119,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474365,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,13 +90,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474365,
             "locality_id":101808339,
             "region_id":85687035
         }
     ],
     "wof:id":101808339,
-    "wof:lastmodified":1527715322,
+    "wof:lastmodified":1559594116,
     "wof:name":"Vlierden",
     "wof:parent_id":404474365,
     "wof:placetype":"locality",

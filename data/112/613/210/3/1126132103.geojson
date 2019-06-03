@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001306,
-    "geom:area_square_m":9680760.805484,
+    "geom:area_square_m":9680760.805483,
     "geom:bbox":"5.99403163104,53.1494616074,6.04903488637,53.1948920671",
     "geom:latitude":53.169648,
     "geom:longitude":6.018997,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":6.023998,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404474343,
         85633337,
         101837973,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474343,
             "locality_id":101837973,
             "neighbourhood_id":1126132103,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126132103,
-    "wof:lastmodified":1507246102,
+    "wof:lastmodified":1559596140,
     "wof:name":"Verspreide huizen Sumar",
     "wof:parent_id":101837973,
     "wof:placetype":"neighbourhood",

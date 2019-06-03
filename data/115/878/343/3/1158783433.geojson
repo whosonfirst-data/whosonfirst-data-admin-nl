@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000723,
-    "geom:area_square_m":5467027.343202,
+    "geom:area_square_m":5467027.343201,
     "geom:bbox":"5.56380137752,52.2781536944,5.60389382985,52.3063861641",
     "geom:latitude":52.292868,
     "geom:longitude":5.582611,
@@ -37,26 +37,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473899,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"e2a8d228de8e53fa6e96460b7e8432e1",
+    "wof:geomhash":"121b90ffdb3c900c7f09737040ec8532",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473899,
             "locality_id":1158783433,
             "region_id":85687043
         }
     ],
     "wof:id":1158783433,
-    "wof:lastmodified":1513367888,
+    "wof:lastmodified":1559594506,
     "wof:name":"Telgt",
     "wof:parent_id":404473899,
     "wof:placetype":"locality",
@@ -69,7 +71,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.563801377523143,
+    5.56380137752314,
     52.27815369436568,
     5.60389382985379,
     52.30638616411492

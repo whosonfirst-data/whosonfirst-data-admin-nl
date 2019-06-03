@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000621,
-    "geom:area_square_m":4613429.773069,
+    "geom:area_square_m":4613429.773067,
     "geom:bbox":"5.71884089,53.0521157595,5.76335259622,53.0832165961",
     "geom:latitude":53.067995,
     "geom:longitude":5.741713,
@@ -43,10 +43,11 @@
     "reversegeo:longitude":5.742045,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":1141960529,
             "region_id":85687055
         }
     ],
     "wof:id":1141960529,
-    "wof:lastmodified":1514492987,
+    "wof:lastmodified":1559594280,
     "wof:name":"Tersoal",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

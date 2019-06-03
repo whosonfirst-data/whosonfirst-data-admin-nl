@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000024,
-    "geom:area_square_m":184951.914051,
+    "geom:area_square_m":184951.91405,
     "geom:bbox":"4.29007049886,51.9927823504,4.29799587794,51.9979751466",
     "geom:latitude":51.995379,
     "geom:longitude":4.294033,
@@ -44,16 +44,18 @@
         102191581,
         404474669,
         85633337,
-        1158831363
+        1158831363,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"aaa9b28dd71924cba389b2b594ab65f3",
+    "wof:geomhash":"5a4993659a489504958bd26f84008d23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474669,
             "locality_id":1158831363,
             "neighbourhood_id":1158828251,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158828251,
-    "wof:lastmodified":1513588212,
+    "wof:lastmodified":1559595736,
     "wof:name":"'t Woudt",
     "wof:parent_id":1158831363,
     "wof:placetype":"neighbourhood",
@@ -71,9 +73,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.290070498863134,
+    4.29007049886313,
     51.99278235035434,
-    4.297995877941112,
+    4.29799587794111,
     51.99797514662281
 ],
   "geometry": {"coordinates":[[[[4.29799587794111,51.99411916358336],[4.29255856719197,51.99278235035434],[4.29158115959875,51.99429716683145],[4.29007049886313,51.99663821970311],[4.29550820140144,51.99797514662281],[4.29799587794111,51.99411916358336]]]],"type":"MultiPolygon"}

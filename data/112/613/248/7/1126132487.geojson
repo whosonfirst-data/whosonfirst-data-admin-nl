@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000072,
-    "geom:area_square_m":538320.841739,
+    "geom:area_square_m":538320.84174,
     "geom:bbox":"5.40626938868,53.0124827021,5.4204646849,53.0218048163",
     "geom:latitude":53.017877,
     "geom:longitude":5.412911,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.411835,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
         1141960535,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":1141960535,
             "neighbourhood_id":1126132487,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126132487,
-    "wof:lastmodified":1507246106,
+    "wof:lastmodified":1559596813,
     "wof:name":"Gaast",
     "wof:parent_id":1141960535,
     "wof:placetype":"neighbourhood",

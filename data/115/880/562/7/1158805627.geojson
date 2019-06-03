@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001754,
-    "geom:area_square_m":13250831.594137,
+    "geom:area_square_m":13250831.594139,
     "geom:bbox":"6.41583601561,52.3200586137,6.48646751676,52.3676620623",
     "geom:latitude":52.3403,
     "geom:longitude":6.450482,
@@ -37,26 +37,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473835,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"6eb5f4326404ac09fedcaa79e52ed9c6",
+    "wof:geomhash":"9cad1ded02cbcb140bc7924f40cb6faf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473835,
             "locality_id":1158805627,
             "region_id":85687045
         }
     ],
     "wof:id":1158805627,
-    "wof:lastmodified":1513523873,
+    "wof:lastmodified":1559595185,
     "wof:name":"'t Hexel",
     "wof:parent_id":404473835,
     "wof:placetype":"locality",
@@ -69,7 +71,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.415836015606631,
+    6.41583601560663,
     52.32005861367873,
     6.4864675167641,
     52.36766206228859

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002275,
-    "geom:area_square_m":16941229.499742,
+    "geom:area_square_m":16941229.499741,
     "geom:bbox":"6.48394766881,52.9325148161,6.54816751717,52.9921984177",
     "geom:latitude":52.964575,
     "geom:longitude":6.517122,
@@ -40,10 +40,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404473805,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473805,
             "locality_id":1158791971,
             "region_id":85687051
         }
     ],
     "wof:id":1158791971,
-    "wof:lastmodified":1553816739,
+    "wof:lastmodified":1559594165,
     "wof:name":"Witten",
     "wof:parent_id":404473805,
     "wof:placetype":"locality",

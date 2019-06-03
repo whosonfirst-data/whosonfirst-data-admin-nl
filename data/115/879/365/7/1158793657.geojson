@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000277,
-    "geom:area_square_m":2051340.295169,
+    "geom:area_square_m":2051340.295168,
     "geom:bbox":"6.95093553626,53.2247062519,6.98990571105,53.2516078002",
     "geom:latitude":53.241805,
     "geom:longitude":6.970197,
@@ -44,16 +44,18 @@
         102191581,
         1158792361,
         85633337,
-        101806207
+        101806207,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"9405ddbe77863b79209089c7b8b61b72",
+    "wof:geomhash":"2bcd11e5f8f7c77a6cc65b5ac6a4677e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158792361,
             "locality_id":101806207,
             "neighbourhood_id":1158793657,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158793657,
-    "wof:lastmodified":1513382326,
+    "wof:lastmodified":1559596411,
     "wof:name":"Nieuwolda",
     "wof:parent_id":101806207,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.950935536260023,
+    6.95093553626002,
     53.22470625186035,
     6.98990571105378,
     53.2516078001983

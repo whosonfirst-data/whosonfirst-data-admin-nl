@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687033,
+        102191581,
+        404474645,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"107483e38dcb33d4622e530d19d12be1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209213833
+            "empire_id":136253051,
+            "localadmin_id":404474645,
+            "locality_id":1209213833,
+            "region_id":85687033
         }
     ],
     "wof:id":1209213833,
-    "wof:lastmodified":1536294200,
+    "wof:lastmodified":1559594352,
     "wof:name":"Bommerich",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

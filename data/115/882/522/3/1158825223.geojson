@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000024,
-    "geom:area_square_m":183165.65056,
+    "geom:area_square_m":183165.650561,
     "geom:bbox":"4.5699267389,51.9118650719,4.57949096343,51.917613106",
     "geom:latitude":51.91494,
     "geom:longitude":4.574595,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         1158831021,
         85633337,
         101752769,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"999973cc717d0166a25507a6d21a99cc",
+    "wof:geomhash":"2785e93c9d01bb50126cb98366915e1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752769,
             "macrohood_id":1158831021,
             "neighbourhood_id":1158825223,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158825223,
-    "wof:lastmodified":1513587977,
+    "wof:lastmodified":1559596295,
     "wof:name":"Zeeheldenbuurt-Oost",
     "wof:parent_id":1158831021,
     "wof:placetype":"neighbourhood",

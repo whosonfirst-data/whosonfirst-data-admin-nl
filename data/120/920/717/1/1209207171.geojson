@@ -28,24 +28,32 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687035,
+        102191581,
+        404474437,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2750387
     },
     "wof:country":"NL",
-    "wof:geomhash":"32105925efcc1dc6f68dc7b67097142a",
+    "wof:geomhash":"e4ce6cdeb2b625d02240e77613ac4603",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209207171
+            "empire_id":136253051,
+            "localadmin_id":404474437,
+            "locality_id":1209207171,
+            "region_id":85687035
         }
     ],
     "wof:id":1209207171,
-    "wof:lastmodified":1536294416,
+    "wof:lastmodified":1559594358,
     "wof:name":"Niemeskant",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474437,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
@@ -53,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.6402800000000015,
+    5.64028,
     51.64167,
-    5.6402800000000015,
+    5.64028,
     51.64167
 ],
   "geometry": {"coordinates":[5.64028,51.64167],"type":"Point"}

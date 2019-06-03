@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000967,
-    "geom:area_square_m":7387576.039324,
+    "geom:area_square_m":7387576.039325,
     "geom:bbox":"5.52029248829,51.841558052,5.58503937173,51.8645848999",
     "geom:latitude":51.852929,
     "geom:longitude":5.557351,
@@ -43,10 +43,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         404474305,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474305,
             "locality_id":1158783833,
             "region_id":85687043
         }
     ],
     "wof:id":1158783833,
-    "wof:lastmodified":1514491848,
+    "wof:lastmodified":1559595107,
     "wof:name":"Altforst",
     "wof:parent_id":404474305,
     "wof:placetype":"locality",

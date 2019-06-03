@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000479,
-    "geom:area_square_m":3622500.504674,
+    "geom:area_square_m":3622500.504673,
     "geom:bbox":"4.62011123008,52.3235649857,4.66976318494,52.3436390272",
     "geom:latitude":52.334147,
     "geom:longitude":4.64739,
@@ -51,10 +51,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687053,
         102191581,
         404474065,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +67,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474065,
             "locality_id":1158822861,
             "region_id":85687053
         }
     ],
     "wof:id":1158822861,
-    "wof:lastmodified":1514492049,
+    "wof:lastmodified":1559595210,
     "wof:name":"Cruquius",
     "wof:parent_id":404474065,
     "wof:placetype":"locality",

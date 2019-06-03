@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002664,
-    "geom:area_square_m":20484478.677196,
+    "geom:area_square_m":20484478.677195,
     "geom:bbox":"5.45529479481,51.52129624,5.54920061471,51.5668555454",
     "geom:latitude":51.546033,
     "geom:longitude":5.506871,
@@ -68,10 +68,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":1341,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474423,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,13 +90,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474423,
             "locality_id":101808203,
             "region_id":85687035
         }
     ],
     "wof:id":101808203,
-    "wof:lastmodified":1527715329,
+    "wof:lastmodified":1559594875,
     "wof:name":"Nijnsel",
     "wof:parent_id":404474423,
     "wof:placetype":"locality",

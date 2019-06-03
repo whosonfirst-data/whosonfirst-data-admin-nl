@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00051,
-    "geom:area_square_m":3883810.277557,
+    "geom:area_square_m":3883810.277555,
     "geom:bbox":"4.87774693379,52.004852729,4.92004482579,52.0265528341",
     "geom:latitude":52.016053,
     "geom:longitude":4.897688,
@@ -44,16 +44,18 @@
         102191581,
         404474237,
         85633337,
-        101803691
+        101803691,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"6d98bea89f3f93febeed819e0651e09d",
+    "wof:geomhash":"55b6053ebaa3487b32178b605c57808b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474237,
             "locality_id":101803691,
             "neighbourhood_id":1158788717,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158788717,
-    "wof:lastmodified":1513622033,
+    "wof:lastmodified":1559596363,
     "wof:name":"Willeskop",
     "wof:parent_id":101803691,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.877746933794178,
+    4.87774693379418,
     52.00485272895673,
     4.92004482579384,
     52.02655283410433

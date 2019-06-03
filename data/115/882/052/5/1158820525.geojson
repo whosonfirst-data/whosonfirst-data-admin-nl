@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000032,
-    "geom:area_square_m":244296.210934,
+    "geom:area_square_m":244296.210935,
     "geom:bbox":"4.6055975918,52.4602397276,4.62052881302,52.4641572402",
     "geom:latitude":52.462757,
     "geom:longitude":4.613577,
@@ -46,12 +46,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         1158823243,
         404474123,
         85633337,
         101754823,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,6 +64,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474123,
             "locality_id":101754823,
             "macrohood_id":1158823243,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1158820525,
-    "wof:lastmodified":1514493252,
+    "wof:lastmodified":1559595925,
     "wof:name":"Zeeheldenbuurt",
     "wof:parent_id":1158823243,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000559,
-    "geom:area_square_m":4246641.116551,
+    "geom:area_square_m":4246641.11655,
     "geom:bbox":"4.30810794824,52.0485744593,4.35551870275,52.0752860381",
     "geom:latitude":52.063213,
     "geom:longitude":4.328378,
@@ -24,10 +24,11 @@
     "reversegeo:longitude":4.331958,
     "src:geom":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101752763,
         85633337,
-        85687041
+        101752763,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -38,12 +39,13 @@
             "borough_id":1108808049,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752763,
             "region_id":85687041
         }
     ],
     "wof:id":1108808049,
-    "wof:lastmodified":1513580251,
+    "wof:lastmodified":1559595252,
     "wof:name":"Laak",
     "wof:parent_id":101752763,
     "wof:placetype":"borough",

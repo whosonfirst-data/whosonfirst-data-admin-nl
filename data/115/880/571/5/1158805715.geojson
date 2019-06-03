@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001745,
-    "geom:area_square_m":13045711.436928,
+    "geom:area_square_m":13045711.436926,
     "geom:bbox":"5.79517703465,52.7809673499,5.88627096588,52.8172783886",
     "geom:latitude":52.798041,
     "geom:longitude":5.837811,
@@ -66,10 +66,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404474621,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,13 +82,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474621,
             "locality_id":1158805715,
             "region_id":85687045
         }
     ],
     "wof:id":1158805715,
-    "wof:lastmodified":1514492485,
+    "wof:lastmodified":1559595170,
     "wof:name":"Kuinre",
     "wof:parent_id":404474621,
     "wof:placetype":"locality",

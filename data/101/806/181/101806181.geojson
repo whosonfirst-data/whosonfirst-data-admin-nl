@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002284,
-    "geom:area_square_m":17006576.101568,
+    "geom:area_square_m":17006576.101566,
     "geom:bbox":"6.07972529469,52.9513027533,6.15251565512,53.0108291536",
     "geom:latitude":52.979281,
     "geom:longitude":6.119397,
@@ -76,10 +76,11 @@
     "wd:longitude":6.125,
     "wd:wordcount":48,
     "wof:belongsto":[
+        85687055,
         102191581,
         404473771,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,13 +97,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473771,
             "locality_id":101806181,
             "region_id":85687055
         }
     ],
     "wof:id":101806181,
-    "wof:lastmodified":1527715376,
+    "wof:lastmodified":1559594097,
     "wof:name":"Jubbega",
     "wof:parent_id":404473771,
     "wof:placetype":"locality",

@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687035,
+        102191581,
+        404474569,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"806167423e397deade0f6e5a1a03c0dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209236503
+            "empire_id":136253051,
+            "localadmin_id":404474569,
+            "locality_id":1209236503,
+            "region_id":85687035
         }
     ],
     "wof:id":1209236503,
-    "wof:lastmodified":1536293462,
+    "wof:lastmodified":1559594357,
     "wof:name":"Bemmer",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474569,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

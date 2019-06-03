@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
-    "geom:area_square_m":600455.841589,
+    "geom:area_square_m":600455.84159,
     "geom:bbox":"5.71973419353,53.2080171918,5.73462162699,53.2158753184",
     "geom:latitude":53.211397,
     "geom:longitude":5.727518,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.728865,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473783,
         85633337,
         101806113,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473783,
             "locality_id":101806113,
             "neighbourhood_id":1126132521,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126132521,
-    "wof:lastmodified":1507246106,
+    "wof:lastmodified":1559595857,
     "wof:name":"Marssum",
     "wof:parent_id":101806113,
     "wof:placetype":"neighbourhood",

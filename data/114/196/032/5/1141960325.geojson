@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000918,
-    "geom:area_square_m":6843375.146562,
+    "geom:area_square_m":6843375.146561,
     "geom:bbox":"5.75364211028,52.9209749643,5.80746556174,52.9566091648",
     "geom:latitude":52.942507,
     "geom:longitude":5.780784,
@@ -48,10 +48,11 @@
     "reversegeo:longitude":5.77894,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960737,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +64,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960737,
             "locality_id":1141960325,
             "region_id":85687055
         }
     ],
     "wof:id":1141960325,
-    "wof:lastmodified":1514492872,
+    "wof:lastmodified":1559594658,
     "wof:name":"Scharsterbrug",
     "wof:parent_id":1141960737,
     "wof:placetype":"locality",

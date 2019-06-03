@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000074,
-    "geom:area_square_m":564360.803101,
+    "geom:area_square_m":564360.803102,
     "geom:bbox":"4.46278345462,51.9118959176,4.47294327597,51.9225077837",
     "geom:latitude":51.91782,
     "geom:longitude":4.467082,
@@ -83,11 +83,12 @@
     "src:lbl:centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687041,
         102191581,
         85633337,
         101751843,
-        1108804841,
-        85687041
+        136253051,
+        1108804841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,6 +106,7 @@
             "borough_id":1108804841,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751843,
             "neighbourhood_id":85859807,
             "region_id":85687041
@@ -114,7 +116,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1514492798,
+    "wof:lastmodified":1559595930,
     "wof:name":"Oude Westen",
     "wof:parent_id":1108804841,
     "wof:placetype":"neighbourhood",

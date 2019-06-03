@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687037,
+        102191581,
+        404474333,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"21cf65683c9ecd8e1826226c807f3007",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209095329
+            "empire_id":136253051,
+            "localadmin_id":404474333,
+            "locality_id":1209095329,
+            "region_id":85687037
         }
     ],
     "wof:id":1209095329,
-    "wof:lastmodified":1536297905,
+    "wof:lastmodified":1559594961,
     "wof:name":"Krommenhoeke",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

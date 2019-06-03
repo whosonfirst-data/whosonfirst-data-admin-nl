@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000106,
-    "geom:area_square_m":782163.099915,
+    "geom:area_square_m":782163.099914,
     "geom:bbox":"6.07404882205,53.2859503911,6.09010244794,53.2949886125",
     "geom:latitude":53.290591,
     "geom:longitude":6.082812,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":6.082659,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473773,
         85633337,
         1141960479,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473773,
             "locality_id":1141960479,
             "neighbourhood_id":1126131351,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126131351,
-    "wof:lastmodified":1507246095,
+    "wof:lastmodified":1559595913,
     "wof:name":"Westergeest",
     "wof:parent_id":1141960479,
     "wof:placetype":"neighbourhood",

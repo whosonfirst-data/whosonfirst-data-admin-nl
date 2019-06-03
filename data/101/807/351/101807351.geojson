@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001419,
-    "geom:area_square_m":10620779.987373,
+    "geom:area_square_m":10620779.987372,
     "geom:bbox":"5.02492630638,52.7184194843,5.07625035771,52.7607607484",
     "geom:latitude":52.738178,
     "geom:longitude":5.05077,
@@ -69,10 +69,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":189,
     "wof:belongsto":[
+        85687053,
         102191581,
         404474097,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,13 +91,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474097,
             "locality_id":101807351,
             "region_id":85687053
         }
     ],
     "wof:id":101807351,
-    "wof:lastmodified":1527715111,
+    "wof:lastmodified":1559595200,
     "wof:name":"Twisk",
     "wof:parent_id":404474097,
     "wof:placetype":"locality",

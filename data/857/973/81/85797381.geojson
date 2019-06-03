@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000067,
-    "geom:area_square_m":509263.9999,
+    "geom:area_square_m":509263.999899,
     "geom:bbox":"5.98355358591,52.2143772205,5.99993827413,52.2232973734",
     "geom:latitude":52.218722,
     "geom:longitude":5.991594,
@@ -79,12 +79,13 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85687043,
         102191581,
         1158783947,
         404473867,
         85633337,
         101751853,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,6 +100,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473867,
             "locality_id":101751853,
             "macrohood_id":1158783947,
@@ -110,7 +112,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269547,
+    "wof:lastmodified":1559596016,
     "wof:name":"De Mheen",
     "wof:parent_id":1158783947,
     "wof:placetype":"neighbourhood",

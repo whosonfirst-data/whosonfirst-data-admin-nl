@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687039,
+        102191581,
+        404473987,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +43,18 @@
     "wof:geomhash":"4af2dc480bcd9c8c511d1144d13195ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209025245
+            "empire_id":136253051,
+            "localadmin_id":404473987,
+            "locality_id":1209025245,
+            "region_id":85687039
         }
     ],
     "wof:id":1209025245,
-    "wof:lastmodified":1537570053,
+    "wof:lastmodified":1559594334,
     "wof:name":"Oud-Wulven",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404473987,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

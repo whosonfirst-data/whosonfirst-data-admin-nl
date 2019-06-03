@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001137,
-    "geom:area_square_m":8442941.484282,
+    "geom:area_square_m":8442941.484281,
     "geom:bbox":"5.87031258958,53.0742100088,5.93487804344,53.1014605118",
     "geom:latitude":53.087456,
     "geom:longitude":5.902601,
@@ -40,10 +40,11 @@
     "reversegeo:longitude":5.902589,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473791,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473791,
             "locality_id":1141960439,
             "region_id":85687055
         }
     ],
     "wof:id":1141960439,
-    "wof:lastmodified":1514492284,
+    "wof:lastmodified":1559594274,
     "wof:name":"Goengahuizen",
     "wof:parent_id":404473791,
     "wof:placetype":"locality",

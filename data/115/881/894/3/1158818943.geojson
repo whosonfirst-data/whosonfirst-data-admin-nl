@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000386,
-    "geom:area_square_m":2887023.432666,
+    "geom:area_square_m":2887023.432665,
     "geom:bbox":"5.25637513003,52.7157746624,5.28225403993,52.7352347171",
     "geom:latitude":52.72415,
     "geom:longitude":5.270546,
@@ -44,16 +44,18 @@
         102191581,
         404474059,
         85633337,
-        101837921
+        101837921,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"c8df7dea62deb3db4b395df035b34907",
+    "wof:geomhash":"bd23a3bfc36c85ef95d4be9d5fc5da1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474059,
             "locality_id":101837921,
             "neighbourhood_id":1158818943,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158818943,
-    "wof:lastmodified":1513464108,
+    "wof:lastmodified":1559596037,
     "wof:name":"Kadijken",
     "wof:parent_id":101837921,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.256375130030377,
+    5.25637513003038,
     52.71577466238154,
     5.28225403993074,
     52.7352347171412

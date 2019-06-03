@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000901,
-    "geom:area_square_m":6979102.509845,
+    "geom:area_square_m":6979102.509843,
     "geom:bbox":"5.77993418148,51.1701529888,5.84295024666,51.2038538841",
     "geom:latitude":51.187837,
     "geom:longitude":5.811772,
@@ -75,10 +75,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687033,
         102191581,
         404474557,
         85633337,
-        85687033
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,13 +91,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474557,
             "locality_id":1158817979,
             "region_id":85687033
         }
     ],
     "wof:id":1158817979,
-    "wof:lastmodified":1514492432,
+    "wof:lastmodified":1559594490,
     "wof:name":"Hunsel",
     "wof:parent_id":404474557,
     "wof:placetype":"locality",

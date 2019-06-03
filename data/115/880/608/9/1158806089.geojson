@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000037,
-    "geom:area_square_m":288180.445302,
+    "geom:area_square_m":288180.445303,
     "geom:bbox":"5.97164113255,50.9358335116,5.98654767109,50.9409607878",
     "geom:latitude":50.938701,
     "geom:longitude":5.978409,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687033,
         102191581,
         1158818203,
         85633337,
         101839207,
-        85687033
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"fc4ae4c8246e6dc7c03d6bbb1d192fa2",
+    "wof:geomhash":"107b270c61f22076276ad33e1875f1c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101839207,
             "macrohood_id":1158818203,
             "neighbourhood_id":1158806089,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158806089,
-    "wof:lastmodified":1513404004,
+    "wof:lastmodified":1559596581,
     "wof:name":"Douvenberg",
     "wof:parent_id":1158818203,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.971641132554916,
+    5.97164113255492,
     50.93583351157447,
     5.98654767108609,
     50.94096078784142

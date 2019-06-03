@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001902,
-    "geom:area_square_m":14101844.972164,
+    "geom:area_square_m":14101844.972166,
     "geom:bbox":"5.53059014541,53.1295236515,5.60473067435,53.1723396462",
     "geom:latitude":53.150017,
     "geom:longitude":5.56459,
@@ -64,10 +64,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473767,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,13 +86,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473767,
             "locality_id":101806159,
             "region_id":85687055
         }
     ],
     "wof:id":101806159,
-    "wof:lastmodified":1514493057,
+    "wof:lastmodified":1559594884,
     "wof:name":"Tzum",
     "wof:parent_id":404473767,
     "wof:placetype":"locality",

@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001456,
-    "geom:area_square_m":10874995.401476,
+    "geom:area_square_m":10874995.401475,
     "geom:bbox":"6.1198198906,52.8150602347,6.19310691555,52.8637996535",
     "geom:latitude":52.840525,
     "geom:longitude":6.15628,
@@ -51,10 +51,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474613,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +67,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474613,
             "locality_id":1158792171,
             "region_id":85687051
         }
     ],
     "wof:id":1158792171,
-    "wof:lastmodified":1514492698,
+    "wof:lastmodified":1559595222,
     "wof:name":"Nijensleek",
     "wof:parent_id":404474613,
     "wof:placetype":"locality",

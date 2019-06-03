@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001895,
-    "geom:area_square_m":14394494.55378,
+    "geom:area_square_m":14394494.553779,
     "geom:bbox":"5.6649877838,52.0795358494,5.7417475402,52.1249227208",
     "geom:latitude":52.102623,
     "geom:longitude":5.705259,
@@ -57,10 +57,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473893,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,13 +78,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473893,
             "locality_id":101855383,
             "region_id":85687043
         }
     ],
     "wof:id":101855383,
-    "wof:lastmodified":1514493202,
+    "wof:lastmodified":1559594327,
     "wof:name":"Wekerom",
     "wof:parent_id":404473893,
     "wof:placetype":"locality",

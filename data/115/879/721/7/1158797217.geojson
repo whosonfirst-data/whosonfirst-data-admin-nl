@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000609,
-    "geom:area_square_m":4671536.940473,
+    "geom:area_square_m":4671536.940472,
     "geom:bbox":"4.95121607225,51.6073641328,4.99718266924,51.6373716784",
     "geom:latitude":51.620835,
     "geom:longitude":4.973524,
@@ -44,16 +44,18 @@
         102191581,
         404474369,
         85633337,
-        101839345
+        101839345,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"00a6302bbfb58872ba1437b62222be18",
+    "wof:geomhash":"0a46942f208eb5f19b455121fbc7a80a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474369,
             "locality_id":101839345,
             "neighbourhood_id":1158797217,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158797217,
-    "wof:lastmodified":1513432578,
+    "wof:lastmodified":1559597000,
     "wof:name":"Buitengebied Oost",
     "wof:parent_id":101839345,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.951216072245529,
+    4.95121607224553,
     51.60736413277379,
     4.99718266923827,
     51.63737167844227

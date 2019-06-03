@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00005,
-    "geom:area_square_m":382986.245178,
+    "geom:area_square_m":382986.245179,
     "geom:bbox":"5.49733259344,51.4113011654,5.50915837263,51.4201308369",
     "geom:latitude":51.415125,
     "geom:longitude":5.503096,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687035,
         102191581,
         1158801463,
         85633337,
         101751819,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"c8b2c061f1cd10a5280335b4f6dd0c67",
+    "wof:geomhash":"7882dc859c4b1732dac8cbf224c11f88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751819,
             "macrohood_id":1158801463,
             "neighbourhood_id":1158797343,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158797343,
-    "wof:lastmodified":1513432587,
+    "wof:lastmodified":1559595697,
     "wof:name":"Schuttersbosch",
     "wof:parent_id":1158801463,
     "wof:placetype":"neighbourhood",

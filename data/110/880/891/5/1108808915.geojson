@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000052,
-    "geom:area_square_m":392663.727059,
+    "geom:area_square_m":392663.727058,
     "geom:bbox":"5.08028918704,52.0789478657,5.09830245601,52.0871743886",
     "geom:latitude":52.082819,
     "geom:longitude":5.089799,
@@ -33,11 +33,12 @@
     "reversegeo:longitude":5.092663,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687039,
         102191581,
         85633337,
         101751827,
-        1108808675,
-        85687039
+        136253051,
+        1108808675
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,13 +49,14 @@
             "borough_id":1108808675,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751827,
             "neighbourhood_id":1108808915,
             "region_id":85687039
         }
     ],
     "wof:id":1108808915,
-    "wof:lastmodified":1507246058,
+    "wof:lastmodified":1559596621,
     "wof:name":"Welgelegen, Den Hommel",
     "wof:parent_id":1108808675,
     "wof:placetype":"neighbourhood",

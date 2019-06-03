@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000721,
-    "geom:area_square_m":5508222.251025,
+    "geom:area_square_m":5508222.251026,
     "geom:bbox":"5.33115946132,51.8119520396,5.39341954762,51.8374294257",
     "geom:latitude":51.827764,
     "geom:longitude":5.365059,
@@ -43,10 +43,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473967,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473967,
             "locality_id":1158783707,
             "region_id":85687043
         }
     ],
     "wof:id":1158783707,
-    "wof:lastmodified":1514493104,
+    "wof:lastmodified":1559595090,
     "wof:name":"Varik",
     "wof:parent_id":404473967,
     "wof:placetype":"locality",

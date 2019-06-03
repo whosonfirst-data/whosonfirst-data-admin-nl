@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000809,
-    "geom:area_square_m":5975422.894221,
+    "geom:area_square_m":5975422.894222,
     "geom:bbox":"6.56309679295,53.3183607829,6.60536576934,53.3474249755",
     "geom:latitude":53.332208,
     "geom:longitude":6.582009,
@@ -28,26 +28,28 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687059,
         102191581,
         404473703,
         85633337,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"e816d8bd32cba0ad99ef933523fb14f1",
+    "wof:geomhash":"fa1342c566749282f76b4bf571d8c9f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473703,
             "locality_id":1158796507,
             "region_id":85687059
         }
     ],
     "wof:id":1158796507,
-    "wof:lastmodified":1513380396,
+    "wof:lastmodified":1559595176,
     "wof:name":"Onderdendam",
     "wof:parent_id":404473703,
     "wof:placetype":"locality",
@@ -57,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.563096792952365,
+    6.56309679295236,
     53.3183607828926,
     6.60536576933627,
     53.34742497551816

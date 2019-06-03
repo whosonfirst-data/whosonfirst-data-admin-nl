@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001333,
-    "geom:area_square_m":10005602.832057,
+    "geom:area_square_m":10005602.832056,
     "geom:bbox":"4.78885711793,52.6123651054,4.87351489707,52.6461378216",
     "geom:latitude":52.628627,
     "geom:longitude":4.83568,
@@ -52,10 +52,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         404474025,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +68,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474025,
             "locality_id":1158822785,
             "region_id":85687053
         }
     ],
     "wof:id":1158822785,
-    "wof:lastmodified":1514492771,
+    "wof:lastmodified":1559595151,
     "wof:name":"Oterleek",
     "wof:parent_id":404474025,
     "wof:placetype":"locality",

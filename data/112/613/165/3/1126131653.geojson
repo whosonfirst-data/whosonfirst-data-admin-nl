@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00103,
-    "geom:area_square_m":7651877.642867,
+    "geom:area_square_m":7651877.642866,
     "geom:bbox":"6.3023230344,53.0352967644,6.36781052341,53.0752793786",
     "geom:latitude":53.057856,
     "geom:longitude":6.340985,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":6.357147,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473785,
         85633337,
         101806149,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473785,
             "locality_id":101806149,
             "neighbourhood_id":1126131653,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126131653,
-    "wof:lastmodified":1507246098,
+    "wof:lastmodified":1559596165,
     "wof:name":"Verspreide huizen Haulerwijk",
     "wof:parent_id":101806149,
     "wof:placetype":"neighbourhood",

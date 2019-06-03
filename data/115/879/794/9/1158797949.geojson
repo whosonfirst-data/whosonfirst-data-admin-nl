@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
-    "geom:area_square_m":1964141.915089,
+    "geom:area_square_m":1964141.915088,
     "geom:bbox":"5.2938741029,51.6671237832,5.31908408325,51.6851841339",
     "geom:latitude":51.675865,
     "geom:longitude":5.303478,
@@ -45,16 +45,18 @@
         1158801677,
         404474393,
         85633337,
-        101751809
+        101751809,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"8c4bd25d757d15771980c9bbc1c8f033",
+    "wof:geomhash":"96965ca977aecd8fc54a849f7b57da08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474393,
             "locality_id":101751809,
             "macrohood_id":1158801677,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1158797949,
-    "wof:lastmodified":1513432639,
+    "wof:lastmodified":1559595733,
     "wof:name":"Het Bossche Broek",
     "wof:parent_id":1158801677,
     "wof:placetype":"neighbourhood",
@@ -73,8 +75,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.293874102901754,
-    51.667123783204026,
+    5.29387410290175,
+    51.66712378320403,
     5.31908408325066,
     51.68518413386226
 ],

@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001579,
-    "geom:area_square_m":11897083.774602,
+    "geom:area_square_m":11897083.7746,
     "geom:bbox":"6.0991469752,52.440530728,6.15512947601,52.4826793194",
     "geom:latitude":52.458715,
     "geom:longitude":6.127107,
@@ -42,10 +42,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473861,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +58,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473861,
             "locality_id":1158805703,
             "region_id":85687045
         }
     ],
     "wof:id":1158805703,
-    "wof:lastmodified":1514493224,
+    "wof:lastmodified":1559594290,
     "wof:name":"Windesheim",
     "wof:parent_id":404473861,
     "wof:placetype":"locality",

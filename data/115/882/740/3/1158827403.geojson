@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000047,
-    "geom:area_square_m":357272.681306,
+    "geom:area_square_m":357272.681307,
     "geom:bbox":"4.44130729554,52.1175121213,4.45598212937,52.1245246576",
     "geom:latitude":52.12115,
     "geom:longitude":4.448953,
@@ -41,25 +41,27 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        101754713,
         85633337,
+        101754713,
+        136253051,
         85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"498fa513c1430686eab17d696b28a676",
+    "wof:geomhash":"436591ec633948cc69081da38fd9adcb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101754713,
             "neighbourhood_id":1158827403,
             "region_id":85687041
         }
     ],
     "wof:id":1158827403,
-    "wof:lastmodified":1513588146,
+    "wof:lastmodified":1559596840,
     "wof:name":"Bijdorp",
     "wof:parent_id":101754713,
     "wof:placetype":"neighbourhood",
@@ -69,7 +71,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.441307295543751,
+    4.44130729554375,
     52.11751212126713,
     4.45598212937302,
     52.12452465756131

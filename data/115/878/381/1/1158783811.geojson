@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000698,
-    "geom:area_square_m":5326670.057455,
+    "geom:area_square_m":5326670.057456,
     "geom:bbox":"5.98118005868,51.8465014652,6.02802388577,51.8707431753",
     "geom:latitude":51.86006,
     "geom:longitude":6.006629,
@@ -37,10 +37,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         1158783377,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +53,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158783377,
             "locality_id":1158783811,
             "region_id":85687043
         }
     ],
     "wof:id":1158783811,
-    "wof:lastmodified":1514492462,
+    "wof:lastmodified":1559594678,
     "wof:name":"Kekerdom",
     "wof:parent_id":1158783377,
     "wof:placetype":"locality",

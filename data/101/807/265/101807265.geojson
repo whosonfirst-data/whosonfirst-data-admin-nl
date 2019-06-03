@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00471,
-    "geom:area_square_m":35065535.313896,
+    "geom:area_square_m":35065535.3139,
     "geom:bbox":"6.58284566946,52.9466060362,6.72312267729,53.0282640982",
     "geom:latitude":52.983437,
     "geom:longitude":6.651115,
@@ -80,10 +80,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":194,
     "wof:belongsto":[
+        85687051,
         102191581,
         404474593,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,13 +102,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474593,
             "locality_id":101807265,
             "region_id":85687051
         }
     ],
     "wof:id":101807265,
-    "wof:lastmodified":1527715116,
+    "wof:lastmodified":1559594112,
     "wof:name":"Rolde",
     "wof:parent_id":404474593,
     "wof:placetype":"locality",

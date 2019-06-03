@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
-    "geom:area_square_m":216195.086903,
+    "geom:area_square_m":216195.086904,
     "geom:bbox":"6.2807948258,51.9708260261,6.28812471698,51.9775877348",
     "geom:latitude":51.974526,
     "geom:longitude":6.284425,
@@ -44,16 +44,18 @@
         102191581,
         404473885,
         85633337,
-        101808663
+        101808663,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"0cfa819402e220ea042b38a0d21be85a",
+    "wof:geomhash":"73d17f473672ac1822dc48ec47ae018e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473885,
             "locality_id":101808663,
             "neighbourhood_id":1141962863,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1141962863,
-    "wof:lastmodified":1513368706,
+    "wof:lastmodified":1559595649,
     "wof:name":"De Happert Ziekenhuis",
     "wof:parent_id":101808663,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.280794825796621,
+    6.28079482579662,
     51.97082602608722,
     6.28812471697788,
     51.97758773478688

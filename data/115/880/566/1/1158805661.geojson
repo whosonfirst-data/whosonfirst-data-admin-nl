@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002869,
-    "geom:area_square_m":21616068.927089,
+    "geom:area_square_m":21616068.92709,
     "geom:bbox":"6.37134671005,52.4281445179,6.45444815303,52.4918949515",
     "geom:latitude":52.457768,
     "geom:longitude":6.414067,
@@ -51,10 +51,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473847,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +67,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473847,
             "locality_id":1158805661,
             "region_id":85687045
         }
     ],
     "wof:id":1158805661,
-    "wof:lastmodified":1514492526,
+    "wof:lastmodified":1559594288,
     "wof:name":"Lemele",
     "wof:parent_id":404473847,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000468,
-    "geom:area_square_m":3488227.014511,
+    "geom:area_square_m":3488227.014513,
     "geom:bbox":"6.0158493734,52.948995153,6.06654953306,52.9729979604",
     "geom:latitude":52.961328,
     "geom:longitude":6.040857,
@@ -43,10 +43,11 @@
     "reversegeo:longitude":6.039129,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473771,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473771,
             "locality_id":1141960119,
             "region_id":85687055
         }
     ],
     "wof:id":1141960119,
-    "wof:lastmodified":1553816738,
+    "wof:lastmodified":1559594243,
     "wof:name":"Bontebok",
     "wof:parent_id":404473771,
     "wof:placetype":"locality",

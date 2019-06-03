@@ -19,7 +19,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
-    "geom:area_square_m":1084385.463548,
+    "geom:area_square_m":1084385.463549,
     "geom:bbox":"4.84406197197,52.3743559366,4.86443349355,52.385392249",
     "geom:latitude":52.380731,
     "geom:longitude":4.854574,
@@ -249,12 +249,13 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85687053,
         102191581,
         1108802299,
         85633337,
         101751893,
-        1158844285,
-        85687053
+        136253051,
+        1158844285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -268,6 +269,7 @@
             "borough_id":1158844285,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751893,
             "macrohood_id":1108802299,
             "neighbourhood_id":1108945403,
@@ -275,7 +277,7 @@
         }
     ],
     "wof:id":1108945403,
-    "wof:lastmodified":1514492489,
+    "wof:lastmodified":1559595949,
     "wof:name":"Landlust",
     "wof:parent_id":1108802299,
     "wof:placetype":"neighbourhood",

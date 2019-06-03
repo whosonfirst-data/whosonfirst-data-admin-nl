@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002177,
-    "geom:area_square_m":16739897.541029,
+    "geom:area_square_m":16739897.541028,
     "geom:bbox":"5.58710767948,51.5184812818,5.66685558114,51.5696785235",
     "geom:latitude":51.542541,
     "geom:longitude":5.632477,
@@ -77,10 +77,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":401,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474569,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,13 +98,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474569,
             "locality_id":101808161,
             "region_id":85687035
         }
     ],
     "wof:id":101808161,
-    "wof:lastmodified":1527715320,
+    "wof:lastmodified":1559594090,
     "wof:name":"Beek en Donk",
     "wof:parent_id":404474569,
     "wof:placetype":"locality",

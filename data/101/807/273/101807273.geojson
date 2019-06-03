@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00683,
-    "geom:area_square_m":50991235.686758,
+    "geom:area_square_m":50991235.686761,
     "geom:bbox":"6.4132290032,52.8197581645,6.58058785053,52.9033787207",
     "geom:latitude":52.860485,
     "geom:longitude":6.498658,
@@ -83,10 +83,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":255,
     "wof:belongsto":[
+        85687051,
         102191581,
         404474649,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,13 +105,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474649,
             "locality_id":101807273,
             "region_id":85687051
         }
     ],
     "wof:id":101807273,
-    "wof:lastmodified":1527715099,
+    "wof:lastmodified":1559594113,
     "wof:name":"Beilen",
     "wof:parent_id":404474649,
     "wof:placetype":"locality",

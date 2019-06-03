@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000728,
-    "geom:area_square_m":5532479.995805,
+    "geom:area_square_m":5532479.995804,
     "geom:bbox":"5.0813304897,52.0499378115,5.12237418751,52.0852226955",
     "geom:latitude":52.071082,
     "geom:longitude":5.103242,
@@ -35,10 +35,11 @@
     "reversegeo:longitude":5.103553,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687039,
         102191581,
-        101751827,
         85633337,
-        85687039
+        101751827,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,12 +50,13 @@
             "borough_id":1108808679,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751827,
             "region_id":85687039
         }
     ],
     "wof:id":1108808679,
-    "wof:lastmodified":1507246141,
+    "wof:lastmodified":1559595254,
     "wof:name":"Zuidwest",
     "wof:parent_id":101751827,
     "wof:placetype":"borough",

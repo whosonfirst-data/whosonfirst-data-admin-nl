@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003129,
-    "geom:area_square_m":23341188.101143,
+    "geom:area_square_m":23341188.101142,
     "geom:bbox":"6.55474551223,52.8612180177,6.62719227837,52.919467977",
     "geom:latitude":52.889872,
     "geom:longitude":6.590492,
@@ -48,10 +48,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474649,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +64,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474649,
             "locality_id":1158792229,
             "region_id":85687051
         }
     ],
     "wof:id":1158792229,
-    "wof:lastmodified":1514493308,
+    "wof:lastmodified":1559595226,
     "wof:name":"Zwiggelte",
     "wof:parent_id":404474649,
     "wof:placetype":"locality",

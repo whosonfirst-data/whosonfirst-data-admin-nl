@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001665,
-    "geom:area_square_m":12423888.423886,
+    "geom:area_square_m":12423888.423887,
     "geom:bbox":"5.41973902692,52.8687639956,5.50185253386,52.9025860221",
     "geom:latitude":52.884406,
     "geom:longitude":5.46207,
@@ -37,10 +37,11 @@
     "reversegeo:longitude":5.462849,
     "src:geom":"mz",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +53,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":1141960503,
             "region_id":85687055
         }
     ],
     "wof:id":1141960503,
-    "wof:lastmodified":1514492374,
+    "wof:lastmodified":1559594278,
     "wof:name":"Hemelum",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

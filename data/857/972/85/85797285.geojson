@@ -160,11 +160,12 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687039,
         102191581,
         404473975,
         85633337,
         101837653,
-        85687039
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -179,6 +180,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473975,
             "locality_id":101837653,
             "neighbourhood_id":85797285,
@@ -186,7 +188,7 @@
         }
     ],
     "wof:id":85797285,
-    "wof:lastmodified":1527269563,
+    "wof:lastmodified":1559596076,
     "wof:name":"De Bilt",
     "wof:parent_id":101837653,
     "wof:placetype":"neighbourhood",

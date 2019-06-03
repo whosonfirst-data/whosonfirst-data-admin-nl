@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001742,
-    "geom:area_square_m":13035094.393885,
+    "geom:area_square_m":13035094.393886,
     "geom:bbox":"4.65892894767,52.7326224025,4.72699903017,52.7745260612",
     "geom:latitude":52.7526,
     "geom:longitude":4.69302,
@@ -37,10 +37,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687053,
         102191581,
         404474113,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +53,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474113,
             "locality_id":1158822913,
             "region_id":85687053
         }
     ],
     "wof:id":1158822913,
-    "wof:lastmodified":1514492026,
+    "wof:lastmodified":1559594130,
     "wof:name":"Burgerbrug",
     "wof:parent_id":404474113,
     "wof:placetype":"locality",

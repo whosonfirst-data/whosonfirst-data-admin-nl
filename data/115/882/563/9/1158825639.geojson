@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00003,
-    "geom:area_square_m":231122.668682,
+    "geom:area_square_m":231122.668681,
     "geom:bbox":"4.67538438472,51.8131320794,4.68822132406,51.8187547532",
     "geom:latitude":51.816003,
     "geom:longitude":4.681912,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         1158829577,
         85633337,
         101751841,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"12bd8429ad172c5de709caba2aff0399",
+    "wof:geomhash":"835a2f50cc006fe5bfff769fb292cad5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751841,
             "macrohood_id":1158829577,
             "neighbourhood_id":1158825639,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158825639,
-    "wof:lastmodified":1513588007,
+    "wof:lastmodified":1559596355,
     "wof:name":"Lijnbaan",
     "wof:parent_id":1158829577,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.675384384722135,
-    51.813132079412284,
+    4.67538438472214,
+    51.81313207941228,
     4.68822132405678,
     51.8187547531993
 ],

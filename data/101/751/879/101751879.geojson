@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005917,
-    "geom:area_square_m":44036786.718929,
+    "geom:area_square_m":44036786.718927,
     "geom:bbox":"6.48821202019,52.9466521209,6.61097182039,53.0484182352",
     "geom:latitude":52.998574,
     "geom:longitude":6.56045,
@@ -395,10 +395,11 @@
     "wd:population":67329,
     "wd:wordcount":1316,
     "wof:belongsto":[
+        85687051,
         102191581,
         404473805,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -416,6 +417,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473805,
             "locality_id":101751879,
             "region_id":85687051
@@ -425,7 +427,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527714362,
+    "wof:lastmodified":1559594051,
     "wof:name":"Assen",
     "wof:parent_id":404473805,
     "wof:placetype":"locality",

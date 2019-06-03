@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000868,
-    "geom:area_square_m":6413132.154384,
+    "geom:area_square_m":6413132.154383,
     "geom:bbox":"5.96368709242,53.2777507559,6.02041873435,53.3005780937",
     "geom:latitude":53.289429,
     "geom:longitude":5.99261,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.990315,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404474681,
         85633337,
         101806109,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474681,
             "locality_id":101806109,
             "neighbourhood_id":1126132163,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126132163,
-    "wof:lastmodified":1507246103,
+    "wof:lastmodified":1559596107,
     "wof:name":"Damwald",
     "wof:parent_id":101806109,
     "wof:placetype":"neighbourhood",

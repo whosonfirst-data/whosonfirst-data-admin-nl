@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000268,
-    "geom:area_square_m":2050826.565917,
+    "geom:area_square_m":2050826.565916,
     "geom:bbox":"5.52516004431,51.7650880488,5.55301032397,51.7805601432",
     "geom:latitude":51.771777,
     "geom:longitude":5.538235,
@@ -43,16 +43,18 @@
         102191581,
         404474415,
         85633337,
-        101751807
+        101751807,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"2ee3d2ffb143679b4af242cb812138e0",
+    "wof:geomhash":"b5c3dc6a08e77ddf1bddb58fdc80415f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474415,
             "locality_id":101751807,
             "macrohood_id":1158801753,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1158801753,
-    "wof:lastmodified":1513432231,
+    "wof:lastmodified":1559595356,
     "wof:name":"Schadewijk",
     "wof:parent_id":101751807,
     "wof:placetype":"macrohood",
@@ -70,8 +72,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.525160044312082,
-    51.765088048840184,
+    5.52516004431208,
+    51.76508804884018,
     5.55301032396797,
     51.78056014323093
 ],

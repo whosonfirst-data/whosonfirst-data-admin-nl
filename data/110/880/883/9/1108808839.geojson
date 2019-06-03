@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000286,
-    "geom:area_square_m":2172825.195019,
+    "geom:area_square_m":2172825.195018,
     "geom:bbox":"5.09872589173,52.1124696842,5.14938872986,52.1332111602",
     "geom:latitude":52.122317,
     "geom:longitude":5.126801,
@@ -33,12 +33,13 @@
     "reversegeo:longitude":5.126804,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687039,
         102191581,
         1108832367,
         85633337,
         101751827,
-        1108808671,
-        85687039
+        136253051,
+        1108808671
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,6 +50,7 @@
             "borough_id":1108808671,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751827,
             "macrohood_id":1108832367,
             "neighbourhood_id":1108808839,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1108808839,
-    "wof:lastmodified":1507246058,
+    "wof:lastmodified":1559596647,
     "wof:name":"Poldergebied Overvecht",
     "wof:parent_id":1108832367,
     "wof:placetype":"neighbourhood",

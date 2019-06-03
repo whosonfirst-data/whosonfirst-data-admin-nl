@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001585,
-    "geom:area_square_m":12308876.42907,
+    "geom:area_square_m":12308876.429071,
     "geom:bbox":"5.83239152483,51.0799404804,5.89827096982,51.1351563349",
     "geom:latitude":51.108622,
     "geom:longitude":5.867137,
@@ -86,10 +86,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":128,
     "wof:belongsto":[
+        85687033,
         102191581,
         404474627,
         85633337,
-        85687033
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,13 +108,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474627,
             "locality_id":101839233,
             "region_id":85687033
         }
     ],
     "wof:id":101839233,
-    "wof:lastmodified":1527715394,
+    "wof:lastmodified":1559594113,
     "wof:name":"Echt",
     "wof:parent_id":404474627,
     "wof:placetype":"locality",

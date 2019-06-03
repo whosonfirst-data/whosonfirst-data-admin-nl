@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000053,
-    "geom:area_square_m":391529.819673,
+    "geom:area_square_m":391529.819674,
     "geom:bbox":"6.54108918554,53.2140231443,6.55757199524,53.2209590071",
     "geom:latitude":53.21728,
     "geom:longitude":6.550851,
@@ -46,11 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687059,
         102191581,
         404473713,
         85633337,
         101751909,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +63,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473713,
             "locality_id":101751909,
             "neighbourhood_id":1158792567,
@@ -69,7 +71,7 @@
         }
     ],
     "wof:id":1158792567,
-    "wof:lastmodified":1514492900,
+    "wof:lastmodified":1559596923,
     "wof:name":"Schildersbuurt",
     "wof:parent_id":101751909,
     "wof:placetype":"neighbourhood",

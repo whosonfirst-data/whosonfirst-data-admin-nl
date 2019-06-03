@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000052,
-    "geom:area_square_m":402821.465002,
+    "geom:area_square_m":402821.465003,
     "geom:bbox":"4.29718363299,51.5871370514,4.30797568261,51.5943310894",
     "geom:latitude":51.591186,
     "geom:longitude":4.301655,
@@ -44,16 +44,18 @@
         102191581,
         404474431,
         85633337,
-        101839423
+        101839423,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"ed9eae40d5e67ffd7d508fd004961a5a",
+    "wof:geomhash":"ae487931727f00c1e4b2ebe6864c5860",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474431,
             "locality_id":101839423,
             "neighbourhood_id":1158799037,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158799037,
-    "wof:lastmodified":1513432718,
+    "wof:lastmodified":1559595801,
     "wof:name":"Industrieterrein Reinierpolder",
     "wof:parent_id":101839423,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.297183632986029,
-    51.587137051369915,
+    4.29718363298603,
+    51.58713705136991,
     4.30797568260537,
     51.59433108935056
 ],

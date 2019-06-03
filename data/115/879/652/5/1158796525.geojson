@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001357,
-    "geom:area_square_m":10004091.47456,
+    "geom:area_square_m":10004091.474559,
     "geom:bbox":"6.46462872798,53.3898168248,6.54774653617,53.4329658393",
     "geom:latitude":53.413624,
     "geom:longitude":6.497417,
@@ -37,10 +37,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687059,
         102191581,
         404474575,
         85633337,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +53,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474575,
             "locality_id":1158796525,
             "region_id":85687059
         }
     ],
     "wof:id":1158796525,
-    "wof:lastmodified":1514493210,
+    "wof:lastmodified":1559594295,
     "wof:name":"Westernieland",
     "wof:parent_id":404474575,
     "wof:placetype":"locality",

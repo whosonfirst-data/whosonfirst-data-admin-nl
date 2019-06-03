@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000783,
-    "geom:area_square_m":5984718.912554,
+    "geom:area_square_m":5984718.912555,
     "geom:bbox":"5.31632837366,51.8039626127,5.37068352357,51.8317779527",
     "geom:latitude":51.816609,
     "geom:longitude":5.343834,
@@ -40,10 +40,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473967,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473967,
             "locality_id":1158783577,
             "region_id":85687043
         }
     ],
     "wof:id":1158783577,
-    "wof:lastmodified":1514492345,
+    "wof:lastmodified":1559594067,
     "wof:name":"Heesselt",
     "wof:parent_id":404473967,
     "wof:placetype":"locality",

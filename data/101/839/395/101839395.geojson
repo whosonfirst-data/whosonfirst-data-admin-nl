@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001771,
-    "geom:area_square_m":13577983.313735,
+    "geom:area_square_m":13577983.313733,
     "geom:bbox":"5.1748780853,51.6691934372,5.25161194557,51.7139888859",
     "geom:latitude":51.689872,
     "geom:longitude":5.209805,
@@ -65,10 +65,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":136,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474395,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,13 +87,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474395,
             "locality_id":101839395,
             "region_id":85687035
         }
     ],
     "wof:id":101839395,
-    "wof:lastmodified":1527715397,
+    "wof:lastmodified":1559594164,
     "wof:name":"Vlijmen",
     "wof:parent_id":404474395,
     "wof:placetype":"locality",

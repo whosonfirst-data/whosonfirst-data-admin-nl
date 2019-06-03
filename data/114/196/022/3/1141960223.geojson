@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000667,
-    "geom:area_square_m":4979141.435532,
+    "geom:area_square_m":4979141.435533,
     "geom:bbox":"5.3973007058,52.8561078043,5.43808728545,52.8880140879",
     "geom:latitude":52.871694,
     "geom:longitude":5.417683,
@@ -43,10 +43,11 @@
     "reversegeo:longitude":5.416295,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":1141960223,
             "region_id":85687055
         }
     ],
     "wof:id":1141960223,
-    "wof:lastmodified":1514493181,
+    "wof:lastmodified":1559594486,
     "wof:name":"Warns",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

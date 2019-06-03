@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
-    "geom:area_square_m":430961.179387,
+    "geom:area_square_m":430961.179386,
     "geom:bbox":"5.16269566321,52.2577060637,5.17388414244,52.2671648672",
     "geom:latitude":52.262879,
     "geom:longitude":5.167665,
@@ -79,12 +79,13 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85687053,
         102191581,
         1158823099,
         1158818281,
         85633337,
         101753097,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,6 +100,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158818281,
             "locality_id":101753097,
             "macrohood_id":1158823099,
@@ -110,7 +112,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269563,
+    "wof:lastmodified":1559596154,
     "wof:name":"Wester Eng",
     "wof:parent_id":1158823099,
     "wof:placetype":"neighbourhood",

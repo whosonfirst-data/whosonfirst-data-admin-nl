@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001126,
-    "geom:area_square_m":8462384.538778,
+    "geom:area_square_m":8462384.538779,
     "geom:bbox":"6.4741215275,52.5417597903,6.52668401243,52.5758853753",
     "geom:latitude":52.557926,
     "geom:longitude":6.498286,
@@ -44,16 +44,18 @@
         102191581,
         404473847,
         85633337,
-        1158805669
+        1158805669,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"416bd04f94e7febf7ce41d073f7ffdeb",
+    "wof:geomhash":"efc721cfc22385dc2c62e3145eb45719",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473847,
             "locality_id":1158805669,
             "neighbourhood_id":1158803119,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158803119,
-    "wof:lastmodified":1513524317,
+    "wof:lastmodified":1559597059,
     "wof:name":"Stegerveld",
     "wof:parent_id":1158805669,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.474121527500976,
-    52.541759790315226,
+    6.47412152750098,
+    52.54175979031523,
     6.52668401243201,
     52.5758853752582
 ],

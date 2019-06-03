@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
-    "geom:area_square_m":708635.762494,
+    "geom:area_square_m":708635.762495,
     "geom:bbox":"5.83609081892,50.8268088624,5.8539232594,50.8359665899",
     "geom:latitude":50.830744,
     "geom:longitude":5.844214,
@@ -44,16 +44,18 @@
         102191581,
         1158805871,
         85633337,
-        101810579
+        101810579,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"8e22a2ac7b1565516b371be56c210a21",
+    "wof:geomhash":"aa432c5f0932a30d40048d1ba88f0672",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158805871,
             "locality_id":101810579,
             "neighbourhood_id":1158807841,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158807841,
-    "wof:lastmodified":1513404147,
+    "wof:lastmodified":1559596850,
     "wof:name":"Scheulder",
     "wof:parent_id":101810579,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.836090818915377,
-    50.826808862434305,
+    5.83609081891538,
+    50.82680886243431,
     5.85392325940027,
     50.83596658988614
 ],

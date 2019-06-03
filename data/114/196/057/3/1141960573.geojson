@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000621,
-    "geom:area_square_m":4624197.794294,
+    "geom:area_square_m":4624197.794295,
     "geom:bbox":"6.25200861174,52.9524388344,6.30186989842,52.9734306982",
     "geom:latitude":52.963047,
     "geom:longitude":6.27596,
@@ -43,10 +43,11 @@
     "reversegeo:longitude":6.27596,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473785,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473785,
             "locality_id":1141960573,
             "region_id":85687055
         }
     ],
     "wof:id":1141960573,
-    "wof:lastmodified":1514492491,
+    "wof:lastmodified":1559594581,
     "wof:name":"Langedijke",
     "wof:parent_id":404473785,
     "wof:placetype":"locality",

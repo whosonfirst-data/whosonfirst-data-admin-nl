@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000461,
-    "geom:area_square_m":3536233.471841,
+    "geom:area_square_m":3536233.47184,
     "geom:bbox":"5.3884199128,51.6043226127,5.42986612216,51.6213796205",
     "geom:latitude":51.612695,
     "geom:longitude":5.407944,
@@ -44,16 +44,18 @@
         102191581,
         404474419,
         85633337,
-        101839385
+        101839385,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"21a04fea6712a295f5f79d0767e773f5",
+    "wof:geomhash":"a6a29abc91ac3ef55ab1ce1650ed43ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474419,
             "locality_id":101839385,
             "neighbourhood_id":1158798853,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158798853,
-    "wof:lastmodified":1513432703,
+    "wof:lastmodified":1559596694,
     "wof:name":"Buitengebeid Zuid 1",
     "wof:parent_id":101839385,
     "wof:placetype":"neighbourhood",
@@ -72,8 +74,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.388419912796922,
-    51.604322612658706,
+    5.38841991279692,
+    51.60432261265871,
     5.42986612215718,
     51.62137962054884
 ],

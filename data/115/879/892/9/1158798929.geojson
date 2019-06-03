@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000079,
-    "geom:area_square_m":601946.23947,
+    "geom:area_square_m":601946.239471,
     "geom:bbox":"5.38890850074,51.6707754323,5.40582348455,51.681249603",
     "geom:latitude":51.67518,
     "geom:longitude":5.396591,
@@ -44,16 +44,18 @@
         102191581,
         404474421,
         85633337,
-        101839325
+        101839325,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"584aa302ef953cfff7fa1f0d555f1921",
+    "wof:geomhash":"d271f56ba1d88c06e8b365bd682f85f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474421,
             "locality_id":101839325,
             "neighbourhood_id":1158798929,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158798929,
-    "wof:lastmodified":1513432710,
+    "wof:lastmodified":1559596431,
     "wof:name":"Westerbroek en Beekveld",
     "wof:parent_id":101839325,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.388908500744673,
+    5.38890850074467,
     51.67077543232228,
     5.40582348454948,
     51.68124960304425

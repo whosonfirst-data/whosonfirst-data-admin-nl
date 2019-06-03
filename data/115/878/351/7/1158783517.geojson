@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000365,
-    "geom:area_square_m":2762023.449683,
+    "geom:area_square_m":2762023.449682,
     "geom:bbox":"5.72615769355,52.2712171941,5.75549257842,52.2931277758",
     "geom:latitude":52.282463,
     "geom:longitude":5.741392,
@@ -49,10 +49,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473899,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473899,
             "locality_id":1158783517,
             "region_id":85687043
         }
     ],
     "wof:id":1158783517,
-    "wof:lastmodified":1514492955,
+    "wof:lastmodified":1559594905,
     "wof:name":"Staverden",
     "wof:parent_id":404473899,
     "wof:placetype":"locality",

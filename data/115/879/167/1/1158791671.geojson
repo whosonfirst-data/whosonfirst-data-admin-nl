@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000366,
-    "geom:area_square_m":2736801.291752,
+    "geom:area_square_m":2736801.291751,
     "geom:bbox":"6.16116360908,52.8338192718,6.20349698887,52.8578208985",
     "geom:latitude":52.846384,
     "geom:longitude":6.181141,
@@ -44,16 +44,18 @@
         102191581,
         404474613,
         85633337,
-        1158792173
+        1158792173,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"8103e5abe6072f706923b516bda1952d",
+    "wof:geomhash":"7e6260dd637608e77701ddcec59b2951",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474613,
             "locality_id":1158792173,
             "neighbourhood_id":1158791671,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158791671,
-    "wof:lastmodified":1513292356,
+    "wof:lastmodified":1559596862,
     "wof:name":"Verspreide huizen Frederiksoord",
     "wof:parent_id":1158792173,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.161163609080921,
+    6.16116360908092,
     52.83381927184966,
     6.20349698887164,
     52.85782089847001

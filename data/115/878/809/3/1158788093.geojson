@@ -40,19 +40,21 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404473987,
-        85633337
+        85633337,
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"a8a63277f81cfece701d02f9ba482159",
+    "wof:geomhash":"1c0b0e72ec7a3c0d52c3a69a1ca8e34b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473987,
             "locality_id":-1,
             "neighbourhood_id":1158788093,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1158788093,
-    "wof:lastmodified":1513621981,
+    "wof:lastmodified":1559597039,
     "wof:name":"Tull",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -70,7 +72,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.160095716058073,
+    5.16009571605807,
     51.98585936693767,
     5.16665509279516,
     51.99453906636662

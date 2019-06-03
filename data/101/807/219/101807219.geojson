@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003727,
-    "geom:area_square_m":27937043.531793,
+    "geom:area_square_m":27937043.531791,
     "geom:bbox":"5.96699406504,52.6413632744,6.07212123211,52.7129849526",
     "geom:latitude":52.679721,
     "geom:longitude":6.013516,
@@ -57,10 +57,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687045,
         102191581,
         404474621,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +77,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474621,
             "locality_id":101807219,
             "region_id":85687045
         }
     ],
     "wof:id":101807219,
-    "wof:lastmodified":1514492915,
+    "wof:lastmodified":1559594105,
     "wof:name":"Sint Jansklooster",
     "wof:parent_id":404474621,
     "wof:placetype":"locality",

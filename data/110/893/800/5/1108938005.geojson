@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
-    "geom:area_square_m":618592.241683,
+    "geom:area_square_m":618592.241682,
     "geom:bbox":"4.49773931414,51.9146953526,4.51816059592,51.9233826849",
     "geom:latitude":51.919145,
     "geom:longitude":4.507746,
@@ -53,11 +53,12 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
         85633337,
         101751843,
-        1158831799,
-        85687041
+        136253051,
+        1158831799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,13 +72,14 @@
             "borough_id":1158831799,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751843,
             "neighbourhood_id":1108938005,
             "region_id":85687041
         }
     ],
     "wof:id":1108938005,
-    "wof:lastmodified":1514492975,
+    "wof:lastmodified":1559595885,
     "wof:name":"Struisenburg",
     "wof:parent_id":1158831799,
     "wof:placetype":"neighbourhood",

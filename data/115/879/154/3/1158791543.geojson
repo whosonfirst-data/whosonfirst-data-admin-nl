@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000017,
-    "geom:area_square_m":128486.85481,
+    "geom:area_square_m":128486.854809,
     "geom:bbox":"6.45052465584,53.170482716,6.46130966245,53.1741667799",
     "geom:latitude":53.172114,
     "geom:longitude":6.456148,
@@ -44,16 +44,18 @@
         102191581,
         404474609,
         85633337,
-        101807263
+        101807263,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"25c16848ca96d2c9a9974af32cc7c7d0",
+    "wof:geomhash":"25db75587c3ea2651e8248282ac59c88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474609,
             "locality_id":101807263,
             "neighbourhood_id":1158791543,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158791543,
-    "wof:lastmodified":1513292347,
+    "wof:lastmodified":1559596778,
     "wof:name":"Sandebuur",
     "wof:parent_id":101807263,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.450524655842017,
-    53.170482715972426,
+    6.45052465584202,
+    53.17048271597243,
     6.46130966245332,
     53.17416677991323
 ],

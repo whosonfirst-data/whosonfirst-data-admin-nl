@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001351,
-    "geom:area_square_m":10319626.746931,
+    "geom:area_square_m":10319626.746932,
     "geom:bbox":"4.33061353824,51.8421182551,4.38803097371,51.877382259",
     "geom:latitude":51.861728,
     "geom:longitude":4.363263,
@@ -39,10 +39,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101751843,
         85633337,
-        85687041
+        101751843,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,12 +54,13 @@
             "borough_id":1158831763,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751843,
             "region_id":85687041
         }
     ],
     "wof:id":1158831763,
-    "wof:lastmodified":1513535660,
+    "wof:lastmodified":1559595253,
     "wof:name":"Hoogvliet",
     "wof:parent_id":101751843,
     "wof:placetype":"borough",

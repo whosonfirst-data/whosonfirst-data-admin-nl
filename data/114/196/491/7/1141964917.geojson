@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001124,
-    "geom:area_square_m":8556657.184457,
+    "geom:area_square_m":8556657.184456,
     "geom:bbox":"6.45918682034,51.9881094286,6.49952742007,52.033385643",
     "geom:latitude":52.010385,
     "geom:longitude":6.478707,
@@ -44,16 +44,18 @@
         102191581,
         404474549,
         85633337,
-        1158783789
+        1158783789,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"3d6a931a672f99afa50852fcdcd15593",
+    "wof:geomhash":"21a794fc96b5b9e6b3969fcf76bee2c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474549,
             "locality_id":1158783789,
             "neighbourhood_id":1141964917,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1141964917,
-    "wof:lastmodified":1513368857,
+    "wof:lastmodified":1559595789,
     "wof:name":"Buitengebied Marienvelde",
     "wof:parent_id":1158783789,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.459186820337122,
+    6.45918682033712,
     51.98810942861471,
     6.49952742006768,
     52.03338564304725

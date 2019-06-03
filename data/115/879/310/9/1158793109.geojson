@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000261,
-    "geom:area_square_m":1942333.490464,
+    "geom:area_square_m":1942333.490463,
     "geom:bbox":"7.00289922076,52.924815655,7.02959295472,52.9438196727",
     "geom:latitude":52.935059,
     "geom:longitude":7.016953,
@@ -44,16 +44,18 @@
         102191581,
         404473731,
         85633337,
-        101838001
+        101838001,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"95351b18b9a45b9779ef8971f066efb8",
+    "wof:geomhash":"4a41d888c417c8d54550eee3afa90c0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473731,
             "locality_id":101838001,
             "neighbourhood_id":1158793109,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158793109,
-    "wof:lastmodified":1513382286,
+    "wof:lastmodified":1559596947,
     "wof:name":"Musselkanaal Centrum",
     "wof:parent_id":101838001,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.002899220758685,
-    52.924815654977756,
+    7.00289922075869,
+    52.92481565497776,
     7.02959295472466,
     52.9438196726779
 ],

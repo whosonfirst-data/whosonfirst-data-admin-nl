@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000114,
-    "geom:area_square_m":877755.210691,
+    "geom:area_square_m":877755.210692,
     "geom:bbox":"5.431584311,51.435223494,5.45190466822,51.4449037429",
     "geom:latitude":51.439372,
     "geom:longitude":5.443184,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687035,
         102191581,
         1158801465,
         85633337,
         101751819,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"6086049c1b9b4ba5f003f981af82f459",
+    "wof:geomhash":"ad5c99f707fd351df66970248e466966",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751819,
             "macrohood_id":1158801465,
             "neighbourhood_id":1158797477,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158797477,
-    "wof:lastmodified":1513432595,
+    "wof:lastmodified":1559596667,
     "wof:name":"Het Ven",
     "wof:parent_id":1158801465,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.431584311001375,
+    5.43158431100137,
     51.435223494011,
     5.45190466821941,
     51.44490374286311

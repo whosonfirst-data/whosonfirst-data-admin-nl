@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000129,
-    "geom:area_square_m":958809.537037,
+    "geom:area_square_m":958809.537038,
     "geom:bbox":"5.60488852211,53.0426537623,5.62531189158,53.0544243817",
     "geom:latitude":53.048472,
     "geom:longitude":5.614613,
@@ -40,10 +40,11 @@
     "reversegeo:longitude":5.614461,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":1141960417,
             "region_id":85687055
         }
     ],
     "wof:id":1141960417,
-    "wof:lastmodified":1514493052,
+    "wof:lastmodified":1559594982,
     "wof:name":"Tjalhuizum",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

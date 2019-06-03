@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687043,
+        102191581,
+        404473879,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +43,18 @@
     "wof:geomhash":"ba73ff82960f3db2ef82dda110781846",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209016155
+            "empire_id":136253051,
+            "localadmin_id":404473879,
+            "locality_id":1209016155,
+            "region_id":85687043
         }
     ],
     "wof:id":1209016155,
-    "wof:lastmodified":1537570055,
+    "wof:lastmodified":1559594307,
     "wof:name":"Luchtenburg",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404473879,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

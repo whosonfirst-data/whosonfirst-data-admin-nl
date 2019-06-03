@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000971,
-    "geom:area_square_m":7314274.127949,
+    "geom:area_square_m":7314274.127948,
     "geom:bbox":"6.13557040109,52.4708365219,6.20100342789,52.5005564313",
     "geom:latitude":52.485619,
     "geom:longitude":6.169052,
@@ -46,12 +46,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         1158805803,
         404473861,
         85633337,
         101751861,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,6 +64,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473861,
             "locality_id":101751861,
             "macrohood_id":1158805803,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1158803539,
-    "wof:lastmodified":1514493218,
+    "wof:lastmodified":1559595983,
     "wof:name":"Wijthmen",
     "wof:parent_id":1158805803,
     "wof:placetype":"neighbourhood",

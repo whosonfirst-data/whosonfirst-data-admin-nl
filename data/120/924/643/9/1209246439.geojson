@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687033,
+        102191581,
+        404474645,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"a419b56ee2bcce9365f20da3d4e1e45c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209246439
+            "empire_id":136253051,
+            "localadmin_id":404474645,
+            "locality_id":1209246439,
+            "region_id":85687033
         }
     ],
     "wof:id":1209246439,
-    "wof:lastmodified":1536293148,
+    "wof:lastmodified":1559594355,
     "wof:name":"Stokhem",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

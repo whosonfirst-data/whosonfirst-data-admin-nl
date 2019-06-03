@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000987,
-    "geom:area_square_m":7376846.46245,
+    "geom:area_square_m":7376846.462447,
     "geom:bbox":"6.81654815489,52.8046339459,6.86982508421,52.8426790124",
     "geom:latitude":52.824005,
     "geom:longitude":6.848495,
@@ -54,10 +54,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474595,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,13 +70,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474595,
             "locality_id":1158792113,
             "region_id":85687051
         }
     ],
     "wof:id":1158792113,
-    "wof:lastmodified":1514492467,
+    "wof:lastmodified":1559595220,
     "wof:name":"Klijndijk",
     "wof:parent_id":404474595,
     "wof:placetype":"locality",

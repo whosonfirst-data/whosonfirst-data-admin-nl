@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000061,
-    "geom:area_square_m":456734.579759,
+    "geom:area_square_m":456734.57976,
     "geom:bbox":"4.97374678781,52.4962652736,4.98685182926,52.5066940699",
     "geom:latitude":52.501404,
     "geom:longitude":4.980525,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         1158823231,
         85633337,
         101751889,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"b01ecb10da04f70050eb243741b5689b",
+    "wof:geomhash":"a08a29a4f808922d0e5f9fc0d3101f2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751889,
             "macrohood_id":1158823231,
             "neighbourhood_id":1158820331,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158820331,
-    "wof:lastmodified":1513464220,
+    "wof:lastmodified":1559595423,
     "wof:name":"Overlanderstraat en omgeving",
     "wof:parent_id":1158823231,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.973746787810102,
+    4.9737467878101,
     52.4962652735948,
     4.98685182926084,
     52.50669406985594

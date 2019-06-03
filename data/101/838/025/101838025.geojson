@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003766,
-    "geom:area_square_m":27976691.440258,
+    "geom:area_square_m":27976691.440256,
     "geom:bbox":"6.80695969378,53.0324064784,6.90770275943,53.0982552113",
     "geom:latitude":53.068786,
     "geom:longitude":6.860474,
@@ -76,10 +76,11 @@
     "wd:longitude":6.865,
     "wd:wordcount":111,
     "wof:belongsto":[
+        85687059,
         102191581,
         404473737,
         85633337,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,13 +98,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473737,
             "locality_id":101838025,
             "region_id":85687059
         }
     ],
     "wof:id":101838025,
-    "wof:lastmodified":1527715124,
+    "wof:lastmodified":1559594704,
     "wof:name":"Wildervank",
     "wof:parent_id":404473737,
     "wof:placetype":"locality",

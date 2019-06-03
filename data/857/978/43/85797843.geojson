@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000191,
-    "geom:area_square_m":1465242.494006,
+    "geom:area_square_m":1465242.494005,
     "geom:bbox":"5.05392891434,51.5438338245,5.07916444763,51.5550408071",
     "geom:latitude":51.548533,
     "geom:longitude":5.067826,
@@ -76,12 +76,13 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85687035,
         102191581,
         1158801785,
         404474435,
         85633337,
         101751817,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,6 +97,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474435,
             "locality_id":101751817,
             "macrohood_id":1158801785,
@@ -107,7 +109,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269463,
+    "wof:lastmodified":1559595958,
     "wof:name":"Korvel",
     "wof:parent_id":1158801785,
     "wof:placetype":"neighbourhood",

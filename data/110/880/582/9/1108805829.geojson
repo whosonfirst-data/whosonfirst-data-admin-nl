@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000312,
-    "geom:area_square_m":2381619.715138,
+    "geom:area_square_m":2381619.715139,
     "geom:bbox":"4.18708045685,51.9160102365,4.23216665783,51.9417503033",
     "geom:latitude":51.929517,
     "geom:longitude":4.211616,
@@ -33,11 +33,12 @@
     "reversegeo:longitude":4.211959,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687041,
         102191581,
         85633337,
         101751843,
-        1108805745,
-        85687041
+        136253051,
+        1108805745
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,13 +49,14 @@
             "borough_id":1108805745,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751843,
             "neighbourhood_id":1108805829,
             "region_id":85687041
         }
     ],
     "wof:id":1108805829,
-    "wof:lastmodified":1507246053,
+    "wof:lastmodified":1559596256,
     "wof:name":"Noordzeeweg",
     "wof:parent_id":1108805745,
     "wof:placetype":"neighbourhood",

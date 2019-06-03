@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001798,
-    "geom:area_square_m":13407654.844435,
+    "geom:area_square_m":13407654.844429,
     "geom:bbox":"6.80898267939,52.8971779942,6.87566198238,52.9468051804",
     "geom:latitude":52.922371,
     "geom:longitude":6.839865,
@@ -44,16 +44,18 @@
         102191581,
         404474595,
         85633337,
-        1158792089
+        1158792089,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"26ab2d08fd7bc8d3dd8f69430cb5b879",
+    "wof:geomhash":"1b952fd1d4e3f7e1e78049e5a5a60e16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474595,
             "locality_id":1158792089,
             "neighbourhood_id":1158791343,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158791343,
-    "wof:lastmodified":1513292333,
+    "wof:lastmodified":1559596228,
     "wof:name":"Verspreide huizen Buinen",
     "wof:parent_id":1158792089,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.808982679390558,
+    6.80898267939056,
     52.89717799421438,
     6.87566198237842,
     52.94680518035113

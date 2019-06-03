@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000063,
-    "geom:area_square_m":480403.049084,
+    "geom:area_square_m":480403.049085,
     "geom:bbox":"5.34576286054,51.7271120169,5.35752096367,51.734181717",
     "geom:latitude":51.730555,
     "geom:longitude":5.350918,
@@ -44,16 +44,18 @@
         102191581,
         404474393,
         85633337,
-        101754587
+        101754587,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"4c512633b3a62feb9cc6ad3370788b69",
+    "wof:geomhash":"2569ca91ee9de61ba0c92a9ad196088d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474393,
             "locality_id":101754587,
             "neighbourhood_id":1158798043,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158798043,
-    "wof:lastmodified":1513432645,
+    "wof:lastmodified":1559596658,
     "wof:name":"De Hoven",
     "wof:parent_id":101754587,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.345762860541385,
+    5.34576286054139,
     51.72711201694961,
     5.35752096367152,
     51.7341817169548

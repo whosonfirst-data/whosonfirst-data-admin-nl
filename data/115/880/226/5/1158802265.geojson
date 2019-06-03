@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000487,
-    "geom:area_square_m":3682301.997638,
+    "geom:area_square_m":3682301.997637,
     "geom:bbox":"6.17663185548,52.2608952721,6.21523630088,52.2803864633",
     "geom:latitude":52.270819,
     "geom:longitude":6.195339,
@@ -44,16 +44,18 @@
         102191581,
         404473825,
         85633337,
-        1158805561
+        1158805561,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"c49e998f07eb43d31360fcac294a8453",
+    "wof:geomhash":"eae038394f7abcd04f50307e3f8b0262",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473825,
             "locality_id":1158805561,
             "neighbourhood_id":1158802265,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158802265,
-    "wof:lastmodified":1513524250,
+    "wof:lastmodified":1559596151,
     "wof:name":"Schalkhaar",
     "wof:parent_id":1158805561,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.176631855478621,
+    6.17663185547862,
     52.26089527214284,
     6.21523630088369,
     52.28038646332473

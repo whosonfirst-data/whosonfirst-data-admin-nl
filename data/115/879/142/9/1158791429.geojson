@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002714,
-    "geom:area_square_m":20347020.903084,
+    "geom:area_square_m":20347020.903081,
     "geom:bbox":"6.38901235234,52.6532373883,6.4665277561,52.7069816357",
     "geom:latitude":52.681261,
     "geom:longitude":6.430483,
@@ -44,16 +44,18 @@
         102191581,
         404474601,
         85633337,
-        101807317
+        101807317,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"b09d7a924ecb308627b2535424889f44",
+    "wof:geomhash":"40ffe48dbc05df4e1363b569514a91dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474601,
             "locality_id":101807317,
             "neighbourhood_id":1158791429,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158791429,
-    "wof:lastmodified":1513292338,
+    "wof:lastmodified":1559596800,
     "wof:name":"Verspreide huizen Zuidwolde",
     "wof:parent_id":101807317,
     "wof:placetype":"neighbourhood",
@@ -72,8 +74,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.389012352342188,
-    52.653237388266966,
+    6.38901235234219,
+    52.65323738826697,
     6.46652775609718,
     52.70698163567195
 ],

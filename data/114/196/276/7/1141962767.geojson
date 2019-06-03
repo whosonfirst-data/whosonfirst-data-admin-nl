@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000162,
-    "geom:area_square_m":1230606.686121,
+    "geom:area_square_m":1230606.68612,
     "geom:bbox":"6.30962313557,51.9757494519,6.33565787868,51.9891424568",
     "geom:latitude":51.982266,
     "geom:longitude":6.324435,
@@ -44,16 +44,18 @@
         102191581,
         404473885,
         85633337,
-        101808663
+        101808663,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"1c7f72a9beb9ca58acea3e390bc6c0e7",
+    "wof:geomhash":"0a42fe1c469367b1a9c8b15557897c60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473885,
             "locality_id":101808663,
             "neighbourhood_id":1141962767,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1141962767,
-    "wof:lastmodified":1513368699,
+    "wof:lastmodified":1559596112,
     "wof:name":"Wassinkbrink-Zuidoost",
     "wof:parent_id":101808663,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.309623135568931,
-    51.975749451879786,
+    6.30962313556893,
+    51.97574945187979,
     6.33565787867778,
     51.98914245684074
 ],

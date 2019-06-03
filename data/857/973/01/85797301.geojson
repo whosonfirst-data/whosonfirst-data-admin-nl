@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1954682.347219,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.072476,53.098871,6.072476,53.098871",
     "geom:latitude":53.098871,
     "geom:longitude":6.072476,
@@ -48,7 +48,8 @@
         102191581,
         404473791,
         85633337,
-        101806135
+        101806135,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,6 +64,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473791,
             "locality_id":101806135,
             "neighbourhood_id":85797301,
@@ -73,7 +75,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861879,
+    "wof:lastmodified":1559595825,
     "wof:name":"De Drait",
     "wof:parent_id":101806135,
     "wof:placetype":"neighbourhood",

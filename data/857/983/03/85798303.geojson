@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000165,
-    "geom:area_square_m":1257422.394887,
+    "geom:area_square_m":1257422.394886,
     "geom:bbox":"4.32310456714,52.0317956803,4.34433241663,52.0469829999",
     "geom:latitude":52.03981,
     "geom:longitude":4.333801,
@@ -79,8 +79,9 @@
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101754743,
         85633337,
+        101754743,
+        136253051,
         85687041
     ],
     "wof:breaches":[],
@@ -96,6 +97,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101754743,
             "neighbourhood_id":85798303,
             "region_id":85687041
@@ -105,7 +107,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269450,
+    "wof:lastmodified":1559595953,
     "wof:name":"Plaspoelpolder",
     "wof:parent_id":101754743,
     "wof:placetype":"neighbourhood",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00018,
-    "geom:area_square_m":1391675.431868,
+    "geom:area_square_m":1391675.431869,
     "geom:bbox":"3.82565280793,51.2656733622,3.84018541676,51.2885214504",
     "geom:latitude":51.278541,
     "geom:longitude":3.832619,
@@ -50,16 +50,18 @@
         102191581,
         404474329,
         85633337,
-        101809829
+        101809829,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"edd7e3055b9e0d5da3af92bc28025f13",
+    "wof:geomhash":"9a1e9cdb5e709a27a08fbbe7fc04b4fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474329,
             "locality_id":101809829,
             "neighbourhood_id":1158784577,
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":1158784577,
-    "wof:lastmodified":1513628672,
+    "wof:lastmodified":1559596797,
     "wof:name":"Sluiskil",
     "wof:parent_id":101809829,
     "wof:placetype":"neighbourhood",
@@ -77,7 +79,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.825652807928364,
+    3.82565280792836,
     51.26567336219123,
     3.84018541676484,
     51.28852145037731

@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001117,
-    "geom:area_square_m":8725336.498963,
+    "geom:area_square_m":8725336.498962,
     "geom:bbox":"5.89817494697,50.7981186169,5.98351816727,50.8220119661",
     "geom:latitude":50.811007,
     "geom:longitude":5.944492,
@@ -51,10 +51,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687033,
         102191581,
         404474645,
         85633337,
-        85687033
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +67,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474645,
             "locality_id":1158817955,
             "region_id":85687033
         }
     ],
     "wof:id":1158817955,
-    "wof:lastmodified":1514493227,
+    "wof:lastmodified":1559594521,
     "wof:name":"Wittem",
     "wof:parent_id":404474645,
     "wof:placetype":"locality",

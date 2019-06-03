@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002349,
-    "geom:area_square_m":17623625.968089,
+    "geom:area_square_m":17623625.96809,
     "geom:bbox":"6.91633974532,52.6327057411,7.05604802583,52.6615418712",
     "geom:latitude":52.648084,
     "geom:longitude":6.992315,
@@ -70,10 +70,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":51,
     "wof:belongsto":[
+        85687051,
         102191581,
         404473809,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,13 +92,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473809,
             "locality_id":101856067,
             "region_id":85687051
         }
     ],
     "wof:id":101856067,
-    "wof:lastmodified":1527642840,
+    "wof:lastmodified":1559594320,
     "wof:name":"Nieuw-Schoonebeek",
     "wof:parent_id":404473809,
     "wof:placetype":"locality",

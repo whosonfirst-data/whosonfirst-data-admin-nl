@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        102191581,
+        85633337,
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"1758d509311a75ad5e3eb789a96f8186",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209396003
+            "empire_id":136253051,
+            "locality_id":1209396003,
+            "region_id":85687041
         }
     ],
     "wof:id":1209396003,
-    "wof:lastmodified":1536288299,
+    "wof:lastmodified":1559594364,
     "wof:name":"IJsseloord",
-    "wof:parent_id":85633337,
+    "wof:parent_id":85687041,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

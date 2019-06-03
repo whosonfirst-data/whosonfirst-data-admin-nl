@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000291,
-    "geom:area_square_m":2216116.9682,
+    "geom:area_square_m":2216116.968199,
     "geom:bbox":"5.56738576465,52.0335236171,5.60157252513,52.0478293709",
     "geom:latitude":52.041522,
     "geom:longitude":5.586445,
@@ -44,16 +44,18 @@
         102191581,
         404473893,
         85633337,
-        1158783391
+        1158783391,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"916f80a2800f42437c1cf9678c480664",
+    "wof:geomhash":"cf0fe9df3c6fe34cdbc2acb6df98469f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473893,
             "locality_id":1158783391,
             "neighbourhood_id":1141963129,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1141963129,
-    "wof:lastmodified":1513368724,
+    "wof:lastmodified":1559596808,
     "wof:name":"De Klomp buitengebied",
     "wof:parent_id":1158783391,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.567385764646169,
+    5.56738576464617,
     52.03352361712606,
     5.60157252513068,
     52.04782937090771

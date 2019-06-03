@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002297,
-    "geom:area_square_m":17383247.930142,
+    "geom:area_square_m":17383247.930141,
     "geom:bbox":"4.45268194455,52.2324497067,4.53287209739,52.2929060951",
     "geom:latitude":52.262287,
     "geom:longitude":4.494424,
@@ -142,10 +142,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687041,
         102191581,
         404474223,
         85633337,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -163,6 +164,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474223,
             "locality_id":101803693,
             "region_id":85687041
@@ -172,7 +174,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1514492723,
+    "wof:lastmodified":1559594721,
     "wof:name":"Noordwijkerhout",
     "wof:parent_id":404474223,
     "wof:placetype":"locality",

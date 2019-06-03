@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000498,
-    "geom:area_square_m":3698961.540706,
+    "geom:area_square_m":3698961.540705,
     "geom:bbox":"5.33425229398,53.0649511488,5.40712085941,53.1175224051",
     "geom:latitude":53.100439,
     "geom:longitude":5.385727,
@@ -43,10 +43,11 @@
     "reversegeo:longitude":5.391294,
     "src:geom":"mz",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":1141960621,
             "region_id":85687055
         }
     ],
     "wof:id":1141960621,
-    "wof:lastmodified":1553816738,
+    "wof:lastmodified":1559594283,
     "wof:name":"Zurich",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

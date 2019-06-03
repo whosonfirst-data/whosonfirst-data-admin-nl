@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002073,
-    "geom:area_square_m":15431707.956985,
+    "geom:area_square_m":15431707.956986,
     "geom:bbox":"6.41366392837,52.9544570196,6.49900441251,53.0054052798",
     "geom:latitude":52.981843,
     "geom:longitude":6.465958,
@@ -74,10 +74,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":163,
     "wof:belongsto":[
+        85687051,
         102191581,
         404474649,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,13 +96,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474649,
             "locality_id":101837863,
             "region_id":85687051
         }
     ],
     "wof:id":101837863,
-    "wof:lastmodified":1527715316,
+    "wof:lastmodified":1559595071,
     "wof:name":"Bovensmilde",
     "wof:parent_id":404474649,
     "wof:placetype":"locality",

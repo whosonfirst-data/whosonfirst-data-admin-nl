@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000111,
-    "geom:area_square_m":831167.289452,
+    "geom:area_square_m":831167.289453,
     "geom:bbox":"6.73943762993,52.7165139544,6.75866320103,52.7285461725",
     "geom:latitude":52.723969,
     "geom:longitude":6.750855,
@@ -44,16 +44,18 @@
         102191581,
         404473807,
         85633337,
-        1158791989
+        1158791989,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"607a23146fdfdc3c4a7249a445b7da74",
+    "wof:geomhash":"4ba8f93ceb84e11ae1108d14aa91beff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473807,
             "locality_id":1158791989,
             "neighbourhood_id":1158790711,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158790711,
-    "wof:lastmodified":1513292292,
+    "wof:lastmodified":1559595432,
     "wof:name":"Wachtum",
     "wof:parent_id":1158791989,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.739437629930786,
-    52.716513954443705,
+    6.73943762993079,
+    52.71651395444371,
     6.75866320103265,
     52.72854617254208
 ],

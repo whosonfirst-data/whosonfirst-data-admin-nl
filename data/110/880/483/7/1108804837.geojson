@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001553,
-    "geom:area_square_m":11858016.850466,
+    "geom:area_square_m":11858016.850463,
     "geom:bbox":"4.41550221514,51.8616672378,4.51523385091,51.900349399",
     "geom:latitude":51.879497,
     "geom:longitude":4.475701,
@@ -32,10 +32,11 @@
     "reversegeo:longitude":4.473828,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101751843,
         85633337,
-        85687041
+        101751843,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -46,12 +47,13 @@
             "borough_id":1108804837,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751843,
             "region_id":85687041
         }
     ],
     "wof:id":1108804837,
-    "wof:lastmodified":1507246138,
+    "wof:lastmodified":1559595247,
     "wof:name":"Charlois",
     "wof:parent_id":101751843,
     "wof:placetype":"borough",

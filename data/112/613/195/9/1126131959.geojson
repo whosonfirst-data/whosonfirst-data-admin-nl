@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002161,
-    "geom:area_square_m":16112653.248472,
+    "geom:area_square_m":16112653.24847,
     "geom:bbox":"6.16546472023,52.8844100773,6.24725868975,52.9430136543",
     "geom:latitude":52.915339,
     "geom:longitude":6.200585,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":6.193795,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473801,
         85633337,
         1141960523,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473801,
             "locality_id":1141960523,
             "neighbourhood_id":1126131959,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126131959,
-    "wof:lastmodified":1507246101,
+    "wof:lastmodified":1559595985,
     "wof:name":"Verspreide huizen Boijl",
     "wof:parent_id":1141960523,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000707,
-    "geom:area_square_m":5404036.864952,
+    "geom:area_square_m":5404036.864953,
     "geom:bbox":"5.56083866699,51.7867862552,5.60394040075,51.8172228101",
     "geom:latitude":51.80148,
     "geom:longitude":5.581977,
@@ -42,10 +42,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474415,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +58,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474415,
             "locality_id":1158801641,
             "region_id":85687035
         }
     ],
     "wof:id":1158801641,
-    "wof:lastmodified":1514492322,
+    "wof:lastmodified":1559594983,
     "wof:name":"Haren",
     "wof:parent_id":404474415,
     "wof:placetype":"locality",

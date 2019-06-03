@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00281,
-    "geom:area_square_m":21346948.095761,
+    "geom:area_square_m":21346948.095762,
     "geom:bbox":"4.40392383945,52.0625800476,4.49301807384,52.1289798941",
     "geom:latitude":52.093371,
     "geom:longitude":4.448666,
@@ -42,10 +42,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
         404474685,
         85633337,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +58,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474685,
             "locality_id":1158831373,
             "region_id":85687041
         }
     ],
     "wof:id":1158831373,
-    "wof:lastmodified":1514492965,
+    "wof:lastmodified":1559594072,
     "wof:name":"Stompwijk",
     "wof:parent_id":404474685,
     "wof:placetype":"locality",

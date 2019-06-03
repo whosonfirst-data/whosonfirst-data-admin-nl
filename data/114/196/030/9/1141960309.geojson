@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000496,
-    "geom:area_square_m":3702493.883876,
+    "geom:area_square_m":3702493.883877,
     "geom:bbox":"5.43729167514,52.8491838999,5.48693018708,52.8674252439",
     "geom:latitude":52.85762,
     "geom:longitude":5.46252,
@@ -45,10 +45,11 @@
     "reversegeo:longitude":5.466669,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960737,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +61,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960737,
             "locality_id":1141960309,
             "region_id":85687055
         }
     ],
     "wof:id":1141960309,
-    "wof:lastmodified":1514492594,
+    "wof:lastmodified":1559594266,
     "wof:name":"Mirns",
     "wof:parent_id":1141960737,
     "wof:placetype":"locality",

@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687055,
+        102191581,
+        1141960735,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"ad413f26b507752bc8a05def8658e7db",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209017441
+            "empire_id":136253051,
+            "localadmin_id":1141960735,
+            "locality_id":1209017441,
+            "region_id":85687055
         }
     ],
     "wof:id":1209017441,
-    "wof:lastmodified":1536300251,
+    "wof:lastmodified":1559594310,
     "wof:name":"Strand",
-    "wof:parent_id":85633337,
+    "wof:parent_id":1141960735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

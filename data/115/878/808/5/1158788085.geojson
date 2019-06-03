@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000305,
-    "geom:area_square_m":2319264.914442,
+    "geom:area_square_m":2319264.914441,
     "geom:bbox":"5.16074355428,52.0141908854,5.20352706959,52.0463404112",
     "geom:latitude":52.033044,
     "geom:longitude":5.188017,
@@ -45,16 +45,18 @@
         1158790321,
         404473987,
         85633337,
-        101807003
+        101807003,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"36eef72b6d5040def97c685982f57bca",
+    "wof:geomhash":"6a660715e6de09714ef5bbf1cd339afd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473987,
             "locality_id":101807003,
             "macrohood_id":1158790321,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1158788085,
-    "wof:lastmodified":1513621980,
+    "wof:lastmodified":1559595623,
     "wof:name":"Buitengebied Houten Oost",
     "wof:parent_id":1158790321,
     "wof:placetype":"neighbourhood",
@@ -74,8 +76,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.160743554281545,
-    52.014190885396225,
+    5.16074355428155,
+    52.01419088539622,
     5.20352706959036,
     52.04634041118375
 ],

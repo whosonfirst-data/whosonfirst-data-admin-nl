@@ -28,24 +28,32 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687035,
+        102191581,
+        404474397,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6544819
     },
     "wof:country":"NL",
-    "wof:geomhash":"3019038265eb12cffaef9379196a5f07",
+    "wof:geomhash":"af5e8a10213854964e9202d3658302e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209537989
+            "empire_id":136253051,
+            "localadmin_id":404474397,
+            "locality_id":1209537989,
+            "region_id":85687035
         }
     ],
     "wof:id":1209537989,
-    "wof:lastmodified":1536284077,
+    "wof:lastmodified":1559594386,
     "wof:name":"Driehuizen",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
@@ -53,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.1402800000000015,
+    5.14028,
     51.50167,
-    5.1402800000000015,
+    5.14028,
     51.50167
 ],
   "geometry": {"coordinates":[5.14028,51.50167],"type":"Point"}

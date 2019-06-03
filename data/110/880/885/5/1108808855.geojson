@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000048,
-    "geom:area_square_m":366036.494288,
+    "geom:area_square_m":366036.494287,
     "geom:bbox":"5.13092786186,52.0771410122,5.1429547014,52.0833076884",
     "geom:latitude":52.080412,
     "geom:longitude":5.136709,
@@ -33,11 +33,12 @@
     "reversegeo:longitude":5.136709,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687039,
         102191581,
         85633337,
         101751827,
-        1108808669,
-        85687039
+        136253051,
+        1108808669
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,13 +49,14 @@
             "borough_id":1108808669,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751827,
             "neighbourhood_id":1108808855,
             "region_id":85687039
         }
     ],
     "wof:id":1108808855,
-    "wof:lastmodified":1507246058,
+    "wof:lastmodified":1559596493,
     "wof:name":"Rubenslaan en omgeving",
     "wof:parent_id":1108808669,
     "wof:placetype":"neighbourhood",

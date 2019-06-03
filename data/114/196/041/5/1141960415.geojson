@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000425,
-    "geom:area_square_m":3152830.548802,
+    "geom:area_square_m":3152830.548803,
     "geom:bbox":"5.78498884873,53.0830413153,5.81371409882,53.1099057899",
     "geom:latitude":53.098259,
     "geom:longitude":5.799998,
@@ -40,10 +40,11 @@
     "reversegeo:longitude":5.802173,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473775,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473775,
             "locality_id":1141960415,
             "region_id":85687055
         }
     ],
     "wof:id":1141960415,
-    "wof:lastmodified":1514492252,
+    "wof:lastmodified":1559594265,
     "wof:name":"Friens",
     "wof:parent_id":404473775,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000079,
-    "geom:area_square_m":588065.319875,
+    "geom:area_square_m":588065.319874,
     "geom:bbox":"5.87555768797,53.1470634198,5.90961495921,53.1543733884",
     "geom:latitude":53.150557,
     "geom:longitude":5.897198,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.898354,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473775,
         85633337,
         1141960155,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473775,
             "locality_id":1141960155,
             "neighbourhood_id":1126131557,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126131557,
-    "wof:lastmodified":1507246096,
+    "wof:lastmodified":1559595841,
     "wof:name":"Warten",
     "wof:parent_id":1141960155,
     "wof:placetype":"neighbourhood",

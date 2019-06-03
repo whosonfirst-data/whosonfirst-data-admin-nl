@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001143,
-    "geom:area_square_m":8482251.112926,
+    "geom:area_square_m":8482251.112925,
     "geom:bbox":"5.45805318416,53.1076237235,5.51689978905,53.1466318393",
     "geom:latitude":53.12756,
     "geom:longitude":5.488852,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.496635,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
         101806087,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":101806087,
             "neighbourhood_id":1126132421,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126132421,
-    "wof:lastmodified":1507246105,
+    "wof:lastmodified":1559595854,
     "wof:name":"Verspreide huizen Arum",
     "wof:parent_id":101806087,
     "wof:placetype":"neighbourhood",

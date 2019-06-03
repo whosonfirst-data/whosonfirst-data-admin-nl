@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000425,
-    "geom:area_square_m":3187161.875414,
+    "geom:area_square_m":3187161.875413,
     "geom:bbox":"5.1347372246,52.6641362694,5.17086551189,52.6865363088",
     "geom:latitude":52.675138,
     "geom:longitude":5.153772,
@@ -44,16 +44,18 @@
         102191581,
         404474155,
         85633337,
-        101808799
+        101808799,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"193fdd5ea06cae4055c1633b9d8659c3",
+    "wof:geomhash":"571600dcb95410fc1c5af0f04595af30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474155,
             "locality_id":101808799,
             "neighbourhood_id":1158820861,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158820861,
-    "wof:lastmodified":1513464265,
+    "wof:lastmodified":1559596242,
     "wof:name":"Binnenwijzend",
     "wof:parent_id":101808799,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.134737224600642,
+    5.13473722460064,
     52.66413626939113,
     5.17086551189285,
     52.68653630876627

@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001517,
-    "geom:area_square_m":11676583.498566,
+    "geom:area_square_m":11676583.498565,
     "geom:bbox":"5.55438093348,51.4987600881,5.61940396495,51.5365035837",
     "geom:latitude":51.517114,
     "geom:longitude":5.588054,
@@ -82,10 +82,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":517,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474569,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,13 +103,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474569,
             "locality_id":101808183,
             "region_id":85687035
         }
     ],
     "wof:id":101808183,
-    "wof:lastmodified":1527715352,
+    "wof:lastmodified":1559594818,
     "wof:name":"Lieshout",
     "wof:parent_id":404474569,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000129,
-    "geom:area_square_m":979979.257804,
+    "geom:area_square_m":979979.257803,
     "geom:bbox":"4.25077649775,52.0336490102,4.27379431764,52.0474183337",
     "geom:latitude":52.040635,
     "geom:longitude":4.261972,
@@ -33,12 +33,13 @@
     "reversegeo:longitude":4.261969,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687041,
         102191581,
         1108808029,
         85633337,
         101752763,
-        1108808051,
-        85687041
+        136253051,
+        1108808051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,6 +50,7 @@
             "borough_id":1108808051,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752763,
             "macrohood_id":1108808029,
             "neighbourhood_id":1108808281,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1108808281,
-    "wof:lastmodified":1507246056,
+    "wof:lastmodified":1559596308,
     "wof:name":"Zijden, Steden en Zichten",
     "wof:parent_id":1108808029,
     "wof:placetype":"neighbourhood",

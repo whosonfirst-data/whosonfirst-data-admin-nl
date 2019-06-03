@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687033,
+        102191581,
+        404474675,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"7b890024eac27bea80d7274c30dafdec",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209008915
+            "empire_id":136253051,
+            "localadmin_id":404474675,
+            "locality_id":1209008915,
+            "region_id":85687033
         }
     ],
     "wof:id":1209008915,
-    "wof:lastmodified":1536300512,
+    "wof:lastmodified":1559594038,
     "wof:name":"Schipperskerk",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474675,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

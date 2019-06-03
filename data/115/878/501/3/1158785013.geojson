@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002443,
-    "geom:area_square_m":18859138.5085,
+    "geom:area_square_m":18859138.508502,
     "geom:bbox":"3.47129243861,51.3485595764,3.55004227868,51.4048986932",
     "geom:latitude":51.373939,
     "geom:longitude":3.510732,
@@ -44,16 +44,18 @@
         102191581,
         404474629,
         85633337,
-        101809805
+        101809805,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"e67e49aafd2404bd05f9988c9c1c4f69",
+    "wof:geomhash":"b719254cc6499394e243dc0280d445bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474629,
             "locality_id":101809805,
             "neighbourhood_id":1158785013,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158785013,
-    "wof:lastmodified":1513628738,
+    "wof:lastmodified":1559596773,
     "wof:name":"Verspreide huizen Groede",
     "wof:parent_id":101809805,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.471292438605832,
+    3.47129243860583,
     51.348559576427,
     3.5500422786783,
     51.40489869317712

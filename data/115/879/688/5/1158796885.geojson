@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
-    "geom:area_square_m":786251.849705,
+    "geom:area_square_m":786251.849704,
     "geom:bbox":"5.3815620787,51.4929390197,5.40188674221,51.5037255809",
     "geom:latitude":51.498384,
     "geom:longitude":5.392574,
@@ -44,16 +44,18 @@
         102191581,
         404474353,
         85633337,
-        101754563
+        101754563,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"1c8c30812beb47407fb7321d808d4d65",
+    "wof:geomhash":"ef091427157af6cc04a4b4274c26b4e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474353,
             "locality_id":101754563,
             "neighbourhood_id":1158796885,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158796885,
-    "wof:lastmodified":1513432553,
+    "wof:lastmodified":1559596495,
     "wof:name":"Wilhelminadorp",
     "wof:parent_id":101754563,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.381562078700757,
-    51.492939019663396,
+    5.38156207870076,
+    51.4929390196634,
     5.4018867422088,
     51.50372558091838
 ],

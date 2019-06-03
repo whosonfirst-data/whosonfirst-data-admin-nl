@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000423,
-    "geom:area_square_m":3178349.80272,
+    "geom:area_square_m":3178349.802721,
     "geom:bbox":"6.65263480694,52.5488611531,6.69772434937,52.5648260832",
     "geom:latitude":52.55765,
     "geom:longitude":6.676068,
@@ -37,26 +37,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473831,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"db36e43c47f2cca8360c0ae28abd4fdb",
+    "wof:geomhash":"d8c54018e7da331a31df463110ecd3dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473831,
             "locality_id":1158805623,
             "region_id":85687045
         }
     ],
     "wof:id":1158805623,
-    "wof:lastmodified":1513523870,
+    "wof:lastmodified":1559595166,
     "wof:name":"Venebrugge",
     "wof:parent_id":404473831,
     "wof:placetype":"locality",
@@ -69,7 +71,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.652634806938181,
+    6.65263480693818,
     52.54886115309944,
     6.69772434937015,
     52.56482608321101

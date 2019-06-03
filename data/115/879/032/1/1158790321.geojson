@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001449,
-    "geom:area_square_m":11020034.114458,
+    "geom:area_square_m":11020034.114461,
     "geom:bbox":"5.12177416179,52.0045498276,5.20352706959,52.0567572961",
     "geom:latitude":52.033695,
     "geom:longitude":5.155134,
@@ -43,16 +43,18 @@
         102191581,
         404473987,
         85633337,
-        101807003
+        101807003,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"3505e900e50ad945f8e6cc26afd916d0",
+    "wof:geomhash":"fe93d7bec8096928c95567b6050bf678",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473987,
             "locality_id":101807003,
             "macrohood_id":1158790321,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1158790321,
-    "wof:lastmodified":1513621749,
+    "wof:lastmodified":1559595266,
     "wof:name":"Houten Buitengebied",
     "wof:parent_id":101807003,
     "wof:placetype":"macrohood",
@@ -70,7 +72,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.121774161794984,
+    5.12177416179498,
     52.00454982757901,
     5.20352706959036,
     52.05675729611657

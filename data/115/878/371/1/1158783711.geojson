@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000537,
-    "geom:area_square_m":4089761.690278,
+    "geom:area_square_m":4089761.690279,
     "geom:bbox":"6.17848480141,51.9986565254,6.22260972937,52.0253932488",
     "geom:latitude":52.009061,
     "geom:longitude":6.200385,
@@ -34,10 +34,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         404474673,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +50,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474673,
             "locality_id":1158783711,
             "region_id":85687043
         }
     ],
     "wof:id":1158783711,
-    "wof:lastmodified":1514492404,
+    "wof:lastmodified":1559594072,
     "wof:name":"Hoog-Keppel",
     "wof:parent_id":404474673,
     "wof:placetype":"locality",

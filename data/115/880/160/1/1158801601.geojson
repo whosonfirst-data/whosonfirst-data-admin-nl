@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001022,
-    "geom:area_square_m":7820984.532755,
+    "geom:area_square_m":7820984.532757,
     "geom:bbox":"5.78611136943,51.734398949,5.84798006523,51.7588380796",
     "geom:latitude":51.747129,
     "geom:longitude":5.818915,
@@ -45,10 +45,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474597,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +61,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474597,
             "locality_id":1158801601,
             "region_id":85687035
         }
     ],
     "wof:id":1158801601,
-    "wof:lastmodified":1514492540,
+    "wof:lastmodified":1559595135,
     "wof:name":"Linden",
     "wof:parent_id":404474597,
     "wof:placetype":"locality",

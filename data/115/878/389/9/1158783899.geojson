@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0039,
-    "geom:area_square_m":29639585.114722,
+    "geom:area_square_m":29639585.114723,
     "geom:bbox":"5.83778241109,52.0494107845,5.95146574281,52.1047753333",
     "geom:latitude":52.078019,
     "geom:longitude":5.893054,
@@ -238,10 +238,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473893,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -253,13 +254,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473893,
             "locality_id":1158783899,
             "region_id":85687043
         }
     ],
     "wof:id":1158783899,
-    "wof:lastmodified":1514492075,
+    "wof:lastmodified":1559594080,
     "wof:name":"Deelen",
     "wof:parent_id":404473893,
     "wof:placetype":"locality",

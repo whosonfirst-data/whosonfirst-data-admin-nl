@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000534,
-    "geom:area_square_m":3998931.634681,
+    "geom:area_square_m":3998931.634679,
     "geom:bbox":"4.93277613694,52.736644693,4.9874647912,52.7552963331",
     "geom:latitude":52.747217,
     "geom:longitude":4.959542,
@@ -52,10 +52,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         404474107,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +68,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474107,
             "locality_id":1158822893,
             "region_id":85687053
         }
     ],
     "wof:id":1158822893,
-    "wof:lastmodified":1514491803,
+    "wof:lastmodified":1559595212,
     "wof:name":"Aartswoud",
     "wof:parent_id":404474107,
     "wof:placetype":"locality",

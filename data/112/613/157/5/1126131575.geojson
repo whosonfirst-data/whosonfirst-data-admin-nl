@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002894,
-    "geom:area_square_m":21488869.649378,
+    "geom:area_square_m":21488869.64938,
     "geom:bbox":"5.79330145445,53.0665887678,5.91645945666,53.1269255617",
     "geom:latitude":53.101255,
     "geom:longitude":5.85182,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.868715,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473775,
         85633337,
         101806167,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473775,
             "locality_id":101806167,
             "neighbourhood_id":1126131575,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126131575,
-    "wof:lastmodified":1507246097,
+    "wof:lastmodified":1559595845,
     "wof:name":"Buitengebied Grou",
     "wof:parent_id":101806167,
     "wof:placetype":"neighbourhood",

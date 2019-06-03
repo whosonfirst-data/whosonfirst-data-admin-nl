@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002144,
-    "geom:area_square_m":16421713.494779,
+    "geom:area_square_m":16421713.49478,
     "geom:bbox":"4.91953251617,51.7168713531,5.00039036015,51.7545250933",
     "geom:latitude":51.735896,
     "geom:longitude":4.961477,
@@ -71,10 +71,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":166,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474453,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,13 +93,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474453,
             "locality_id":101808223,
             "region_id":85687035
         }
     ],
     "wof:id":101808223,
-    "wof:lastmodified":1527715345,
+    "wof:lastmodified":1559594941,
     "wof:name":"Dussen",
     "wof:parent_id":404474453,
     "wof:placetype":"locality",

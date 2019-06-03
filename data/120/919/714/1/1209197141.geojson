@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687045,
+        102191581,
+        404474665,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +43,18 @@
     "wof:geomhash":"baac2f4ebe428d80007e3ce3ba95b918",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209197141
+            "empire_id":136253051,
+            "localadmin_id":404474665,
+            "locality_id":1209197141,
+            "region_id":85687045
         }
     ],
     "wof:id":1209197141,
-    "wof:lastmodified":1537570057,
+    "wof:lastmodified":1559594361,
     "wof:name":"Klein-Agelo",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474665,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

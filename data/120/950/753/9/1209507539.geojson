@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687035,
+        102191581,
+        404474361,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"213cba964296be6524fd8e7ce92c4112",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209507539
+            "empire_id":136253051,
+            "localadmin_id":404474361,
+            "locality_id":1209507539,
+            "region_id":85687035
         }
     ],
     "wof:id":1209507539,
-    "wof:lastmodified":1536284986,
+    "wof:lastmodified":1559594382,
     "wof:name":"Heult",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

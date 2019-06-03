@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000055,
-    "geom:area_square_m":418495.449085,
+    "geom:area_square_m":418495.449086,
     "geom:bbox":"4.81600472101,51.8704244998,4.8286357743,51.877945689",
     "geom:latitude":51.874219,
     "geom:longitude":4.822461,
@@ -44,16 +44,18 @@
         102191581,
         1158824743,
         85633337,
-        101808523
+        101808523,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"5728b8e6f8ddfee00f1151940017dcbd",
+    "wof:geomhash":"6ff697b2f550b4990918d5092fe6254c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158824743,
             "locality_id":101808523,
             "neighbourhood_id":1158828785,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158828785,
-    "wof:lastmodified":1513588274,
+    "wof:lastmodified":1559597122,
     "wof:name":"Molenaarsgraaf Kern",
     "wof:parent_id":101808523,
     "wof:placetype":"neighbourhood",
@@ -71,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.816004721010417,
+    4.81600472101042,
     51.8704244998394,
-    4.828635774304476,
-    51.877945689017565
+    4.82863577430448,
+    51.87794568901757
 ],
   "geometry": {"coordinates":[[[[4.81611903678416,51.87541711807845],[4.82585066921758,51.87794568901757],[4.82863577430448,51.87305293667708],[4.81958161333557,51.8704244998394],[4.81600472101042,51.87538678900494],[4.81611903678416,51.87541711807845]]]],"type":"MultiPolygon"}
 }

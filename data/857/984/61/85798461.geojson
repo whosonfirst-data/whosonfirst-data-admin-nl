@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0001,
-    "geom:area_square_m":759152.277847,
+    "geom:area_square_m":759152.277846,
     "geom:bbox":"6.05480536281,51.9373985403,6.07324099451,51.9456482338",
     "geom:latitude":51.941266,
     "geom:longitude":6.064503,
@@ -76,11 +76,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473957,
         85633337,
         101809869,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +96,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473957,
             "locality_id":101809869,
             "neighbourhood_id":85798461,
@@ -105,7 +107,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269451,
+    "wof:lastmodified":1559596769,
     "wof:name":"Stegeslag",
     "wof:parent_id":101809869,
     "wof:placetype":"neighbourhood",

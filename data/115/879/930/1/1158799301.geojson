@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000062,
-    "geom:area_square_m":482327.351129,
+    "geom:area_square_m":482327.351128,
     "geom:bbox":"5.42774593387,51.3501902473,5.44054446076,51.3597620309",
     "geom:latitude":51.35459,
     "geom:longitude":5.435135,
@@ -44,16 +44,18 @@
         102191581,
         404474439,
         85633337,
-        101839343
+        101839343,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"a7696b366f77765e486abb66f11a7ab0",
+    "wof:geomhash":"d6353d1a8f8f993d6fad7216bb6d0189",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474439,
             "locality_id":101839343,
             "neighbourhood_id":1158799301,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158799301,
-    "wof:lastmodified":1513432738,
+    "wof:lastmodified":1559596706,
     "wof:name":"Agnetendal",
     "wof:parent_id":101839343,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.427745933867006,
+    5.42774593386701,
     51.35019024727949,
     5.44054446076478,
     51.35976203085048

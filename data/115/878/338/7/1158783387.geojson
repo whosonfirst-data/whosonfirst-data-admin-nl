@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0007,
-    "geom:area_square_m":5355987.40934,
+    "geom:area_square_m":5355987.409339,
     "geom:bbox":"5.17367236008,51.7402594326,5.21185092811,51.7690543237",
     "geom:latitude":51.754689,
     "geom:longitude":5.195474,
@@ -37,10 +37,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473917,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +53,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473917,
             "locality_id":1158783387,
             "region_id":85687043
         }
     ],
     "wof:id":1158783387,
-    "wof:lastmodified":1514493202,
+    "wof:lastmodified":1559594505,
     "wof:name":"Well",
     "wof:parent_id":404473917,
     "wof:placetype":"locality",

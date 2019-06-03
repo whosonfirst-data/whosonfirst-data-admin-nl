@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001458,
-    "geom:area_square_m":11254139.654024,
+    "geom:area_square_m":11254139.654023,
     "geom:bbox":"3.93646709203,51.3590766121,4.00290480378,51.408182288",
     "geom:latitude":51.379822,
     "geom:longitude":3.979466,
@@ -40,10 +40,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687037,
         102191581,
         404474307,
         85633337,
-        85687037
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474307,
             "locality_id":1158786507,
             "region_id":85687037
         }
     ],
     "wof:id":1158786507,
-    "wof:lastmodified":1514492771,
+    "wof:lastmodified":1559594184,
     "wof:name":"Ossenisse",
     "wof:parent_id":404474307,
     "wof:placetype":"locality",
