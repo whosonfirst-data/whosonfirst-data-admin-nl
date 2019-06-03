@@ -1121,7 +1121,8 @@
     "statoids:wmo":"NL",
     "wd:wordcount":19987,
     "wof:belongsto":[
-        102191581
+        102191581,
+        136253051
     ],
     "wof:breaches":[],
     "wof:capital":[
@@ -1150,13 +1151,18 @@
         "wd:id":"Q55",
         "wmo:id":"NL"
     },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
     "wof:country":"NL",
     "wof:country_alpha3":"NLD",
     "wof:geomhash":"8427b6e8b4f4415fc99e14ae4b169543",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633337
+            "country_id":85633337,
+            "empire_id":136253051
         }
     ],
     "wof:id":85633337,
@@ -1167,7 +1173,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1544059328,
+    "wof:lastmodified":1559593607,
     "wof:name":"Netherlands",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
