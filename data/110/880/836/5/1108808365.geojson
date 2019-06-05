@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000099,
-    "geom:area_square_m":749245.571681,
+    "geom:area_square_m":749245.57168,
     "geom:bbox":"4.3958493243,52.0631871338,4.41188137175,52.0765931273",
     "geom:latitude":52.069966,
     "geom:longitude":4.403884,
@@ -33,12 +33,13 @@
     "reversegeo:longitude":4.403896,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687041,
         102191581,
         1108808105,
         85633337,
         101752763,
-        1108808047,
-        85687041
+        136253051,
+        1108808047
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,6 +50,7 @@
             "borough_id":1108808047,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752763,
             "macrohood_id":1108808105,
             "neighbourhood_id":1108808365,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1108808365,
-    "wof:lastmodified":1507246057,
+    "wof:lastmodified":1559596367,
     "wof:name":"De Velden",
     "wof:parent_id":1108808105,
     "wof:placetype":"neighbourhood",

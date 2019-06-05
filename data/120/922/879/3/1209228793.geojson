@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687051,
+        102191581,
+        404473811,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +43,18 @@
     "wof:geomhash":"82f5ffb0e84ea067074c361810f148c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209228793
+            "empire_id":136253051,
+            "localadmin_id":404473811,
+            "locality_id":1209228793,
+            "region_id":85687051
         }
     ],
     "wof:id":1209228793,
-    "wof:lastmodified":1537570057,
+    "wof:lastmodified":1559594807,
     "wof:name":"Kalenberg",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404473811,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

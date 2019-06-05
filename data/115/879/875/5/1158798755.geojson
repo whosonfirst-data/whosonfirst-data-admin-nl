@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000177,
-    "geom:area_square_m":1350513.816954,
+    "geom:area_square_m":1350513.816955,
     "geom:bbox":"5.61365182548,51.8091711627,5.64247837923,51.8196756139",
     "geom:latitude":51.814768,
     "geom:longitude":5.628616,
@@ -43,10 +43,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474415,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474415,
             "locality_id":1158798755,
             "region_id":85687035
         }
     ],
     "wof:id":1158798755,
-    "wof:lastmodified":1514492088,
+    "wof:lastmodified":1559595196,
     "wof:name":"Demen",
     "wof:parent_id":404474415,
     "wof:placetype":"locality",

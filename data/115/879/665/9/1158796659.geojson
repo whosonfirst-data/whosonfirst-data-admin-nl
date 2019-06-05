@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001244,
-    "geom:area_square_m":9177515.801658,
+    "geom:area_square_m":9177515.80166,
     "geom:bbox":"6.71977705115,53.3398008978,6.79468137083,53.3739034049",
     "geom:latitude":53.354187,
     "geom:longitude":6.756057,
@@ -37,10 +37,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687059,
         102191581,
         404473723,
         85633337,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +53,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473723,
             "locality_id":1158796659,
             "region_id":85687059
         }
     ],
     "wof:id":1158796659,
-    "wof:lastmodified":1514493255,
+    "wof:lastmodified":1559595195,
     "wof:name":"Zeerijp",
     "wof:parent_id":404473723,
     "wof:placetype":"locality",

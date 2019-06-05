@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00105,
-    "geom:area_square_m":7951591.321815,
+    "geom:area_square_m":7951591.321814,
     "geom:bbox":"6.02480058996,52.2189637005,6.06995270635,52.2531641055",
     "geom:latitude":52.236321,
     "geom:longitude":6.049102,
@@ -49,10 +49,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473945,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473945,
             "locality_id":1158783733,
             "region_id":85687043
         }
     ],
     "wof:id":1158783733,
-    "wof:lastmodified":1514492988,
+    "wof:lastmodified":1559595079,
     "wof:name":"Teuge",
     "wof:parent_id":404473945,
     "wof:placetype":"locality",

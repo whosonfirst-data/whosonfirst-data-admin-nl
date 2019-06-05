@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005601,
-    "geom:area_square_m":42273317.719894,
+    "geom:area_square_m":42273317.719891,
     "geom:bbox":"5.12119025621,52.3418383576,5.29198489695,52.4174995099",
     "geom:latitude":52.379595,
     "geom:longitude":5.216268,
@@ -45,26 +45,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687049,
         102191581,
-        1158787345,
         85633337,
-        85687049
+        1158787345,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"eb110be690c1a9e79fe12b2b7ff25585",
+    "wof:geomhash":"a5aba7414d6c94001089f21931400b24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":1158787345,
             "macrohood_id":1158787353,
             "region_id":85687049
         }
     ],
     "wof:id":1158787353,
-    "wof:lastmodified":1513299159,
+    "wof:lastmodified":1559595298,
     "wof:name":"Almere Stad",
     "wof:parent_id":1158787345,
     "wof:placetype":"macrohood",
@@ -76,7 +78,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.121190256213666,
+    5.12119025621367,
     52.3418383576071,
     5.29198489695441,
     52.41749950993046

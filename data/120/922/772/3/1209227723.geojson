@@ -28,24 +28,32 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687055,
+        102191581,
+        404473785,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2750899
     },
     "wof:country":"NL",
-    "wof:geomhash":"06b671f689438cc074c166612854c455",
+    "wof:geomhash":"023623749a2a23937720d976a1bbb24b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209227723
+            "empire_id":136253051,
+            "localadmin_id":404473785,
+            "locality_id":1209227723,
+            "region_id":85687055
         }
     ],
     "wof:id":1209227723,
-    "wof:lastmodified":1536293741,
+    "wof:lastmodified":1559594356,
     "wof:name":"Middelburen",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404473785,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
@@ -53,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.2009300000000005,
+    6.20093,
     52.97313000000001,
-    6.2009300000000005,
+    6.20093,
     52.97313000000001
 ],
   "geometry": {"coordinates":[6.20093,52.97313000000001],"type":"Point"}

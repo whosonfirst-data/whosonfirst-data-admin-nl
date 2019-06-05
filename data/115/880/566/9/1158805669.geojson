@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00232,
-    "geom:area_square_m":17449229.873609,
+    "geom:area_square_m":17449229.87361,
     "geom:bbox":"6.4741215275,52.5128438672,6.54205894831,52.5758853753",
     "geom:latitude":52.545227,
     "geom:longitude":6.505449,
@@ -45,10 +45,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473847,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +61,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473847,
             "locality_id":1158805669,
             "region_id":85687045
         }
     ],
     "wof:id":1158805669,
-    "wof:lastmodified":1514492957,
+    "wof:lastmodified":1559595188,
     "wof:name":"Stegeren",
     "wof:parent_id":404473847,
     "wof:placetype":"locality",

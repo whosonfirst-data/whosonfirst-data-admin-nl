@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
-    "geom:area_square_m":294537.605023,
+    "geom:area_square_m":294537.605024,
     "geom:bbox":"5.30270735427,51.7263416108,5.3105165865,51.7343637081",
     "geom:latitude":51.730845,
     "geom:longitude":5.30563,
@@ -45,16 +45,18 @@
         1158801685,
         404474393,
         85633337,
-        101751809
+        101751809,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"5539263439ce97af00d746f20c1c6ed1",
+    "wof:geomhash":"96653a9c260b7584cb9c8a606d009ac6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474393,
             "locality_id":101751809,
             "macrohood_id":1158801685,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1158798103,
-    "wof:lastmodified":1513432649,
+    "wof:lastmodified":1559596677,
     "wof:name":"Maasstroom",
     "wof:parent_id":1158801685,
     "wof:placetype":"neighbourhood",
@@ -73,8 +75,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.302707354268998,
-    51.726341610848706,
+    5.302707354269,
+    51.72634161084871,
     5.31051658649589,
     51.73436370805636
 ],

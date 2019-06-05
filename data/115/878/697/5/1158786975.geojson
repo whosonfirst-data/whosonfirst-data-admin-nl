@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000041,
-    "geom:area_square_m":306339.970504,
+    "geom:area_square_m":306339.970503,
     "geom:bbox":"5.68610967463,52.4494771924,5.69666505635,52.4575415751",
     "geom:latitude":52.453166,
     "geom:longitude":5.69105,
@@ -44,16 +44,18 @@
         102191581,
         404473965,
         85633337,
-        101807239
+        101807239,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"5cb0b9fc75494cfa89ca21b29899951d",
+    "wof:geomhash":"574d718b626558e35bf0f1a61e191b51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473965,
             "locality_id":101807239,
             "neighbourhood_id":1158786975,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158786975,
-    "wof:lastmodified":1513299283,
+    "wof:lastmodified":1559596941,
     "wof:name":"Oud-Biddinghuizen",
     "wof:parent_id":101807239,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.686109674631402,
-    52.449477192359296,
+    5.6861096746314,
+    52.4494771923593,
     5.69666505634684,
     52.45754157507196
 ],

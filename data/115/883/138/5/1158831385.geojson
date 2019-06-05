@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001404,
-    "geom:area_square_m":10732963.23944,
+    "geom:area_square_m":10732963.239441,
     "geom:bbox":"4.25732019916,51.8021109306,4.31726379828,51.8474423212",
     "geom:latitude":51.826147,
     "geom:longitude":4.286678,
@@ -51,10 +51,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
         1158824747,
         85633337,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +67,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158824747,
             "locality_id":1158831385,
             "region_id":85687041
         }
     ],
     "wof:id":1158831385,
-    "wof:lastmodified":1514492914,
+    "wof:lastmodified":1559594072,
     "wof:name":"Simonshaven",
     "wof:parent_id":1158824747,
     "wof:placetype":"locality",

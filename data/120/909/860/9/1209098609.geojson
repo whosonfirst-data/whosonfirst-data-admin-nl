@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687035,
+        102191581,
+        404474587,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"cf8630cbe23518e45513af46e1134611",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209098609
+            "empire_id":136253051,
+            "localadmin_id":404474587,
+            "locality_id":1209098609,
+            "region_id":85687035
         }
     ],
     "wof:id":1209098609,
-    "wof:lastmodified":1536297806,
+    "wof:lastmodified":1559594342,
     "wof:name":"Oostlaar",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

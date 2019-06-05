@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000424,
-    "geom:area_square_m":3159309.523922,
+    "geom:area_square_m":3159309.523921,
     "geom:bbox":"5.4978369486,52.9794162568,5.53187956997,53.0000645028",
     "geom:latitude":52.989623,
     "geom:longitude":5.516471,
@@ -43,10 +43,11 @@
     "reversegeo:longitude":5.516773,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":1141960513,
             "region_id":85687055
         }
     ],
     "wof:id":1141960513,
-    "wof:lastmodified":1514492866,
+    "wof:lastmodified":1559594779,
     "wof:name":"Sandfirden",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

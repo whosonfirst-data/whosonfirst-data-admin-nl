@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000101,
-    "geom:area_square_m":764911.299229,
+    "geom:area_square_m":764911.299228,
     "geom:bbox":"4.33469720392,52.0793010869,4.35248959088,52.0912630406",
     "geom:latitude":52.085363,
     "geom:longitude":4.343532,
@@ -33,12 +33,13 @@
     "reversegeo:longitude":4.343532,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687041,
         102191581,
         1108805963,
         85633337,
         101752763,
-        1108808045,
-        85687041
+        136253051,
+        1108808045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,6 +50,7 @@
             "borough_id":1108808045,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752763,
             "macrohood_id":1108805963,
             "neighbourhood_id":1108808241,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1108808241,
-    "wof:lastmodified":1507246055,
+    "wof:lastmodified":1559596306,
     "wof:name":"Bezuidenhout-Oost",
     "wof:parent_id":1108805963,
     "wof:placetype":"neighbourhood",

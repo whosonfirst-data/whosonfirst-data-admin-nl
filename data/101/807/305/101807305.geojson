@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002711,
-    "geom:area_square_m":20212061.959223,
+    "geom:area_square_m":20212061.959221,
     "geom:bbox":"6.35955674225,52.8759074123,6.45023481105,52.9433818094",
     "geom:latitude":52.911621,
     "geom:longitude":6.401792,
@@ -80,10 +80,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":124,
     "wof:belongsto":[
+        85687051,
         102191581,
         404474649,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,13 +102,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474649,
             "locality_id":101807305,
             "region_id":85687051
         }
     ],
     "wof:id":101807305,
-    "wof:lastmodified":1527715112,
+    "wof:lastmodified":1559595076,
     "wof:name":"Hoogersmilde",
     "wof:parent_id":404474649,
     "wof:placetype":"locality",

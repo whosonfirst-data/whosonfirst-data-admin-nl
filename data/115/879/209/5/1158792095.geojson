@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001856,
-    "geom:area_square_m":13830687.833735,
+    "geom:area_square_m":13830687.833734,
     "geom:bbox":"6.7277117922,52.9371817167,6.82278564388,52.9697892506",
     "geom:latitude":52.951481,
     "geom:longitude":6.775881,
@@ -54,10 +54,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474595,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,13 +70,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474595,
             "locality_id":1158792095,
             "region_id":85687051
         }
     ],
     "wof:id":1158792095,
-    "wof:lastmodified":1514492176,
+    "wof:lastmodified":1559595129,
     "wof:name":"Drouwen",
     "wof:parent_id":404474595,
     "wof:placetype":"locality",

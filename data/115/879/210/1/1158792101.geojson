@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001811,
-    "geom:area_square_m":13486064.759717,
+    "geom:area_square_m":13486064.759721,
     "geom:bbox":"6.85430905907,52.9540303354,6.94839541323,52.9933525457",
     "geom:latitude":52.97613,
     "geom:longitude":6.898497,
@@ -51,10 +51,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474595,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +67,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474595,
             "locality_id":1158792101,
             "region_id":85687051
         }
     ],
     "wof:id":1158792101,
-    "wof:lastmodified":1514492177,
+    "wof:lastmodified":1559595221,
     "wof:name":"Drouwenermond",
     "wof:parent_id":404474595,
     "wof:placetype":"locality",

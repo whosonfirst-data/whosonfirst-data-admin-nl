@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001822,
-    "geom:area_square_m":14009524.85664,
+    "geom:area_square_m":14009524.856642,
     "geom:bbox":"5.53308305045,51.5189881414,5.61422509976,51.5627314866",
     "geom:latitude":51.545026,
     "geom:longitude":5.570459,
@@ -81,10 +81,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":187,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474569,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,13 +103,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474569,
             "locality_id":101808195,
             "region_id":85687035
         }
     ],
     "wof:id":101808195,
-    "wof:lastmodified":1527715320,
+    "wof:lastmodified":1559594857,
     "wof:name":"Mariahout",
     "wof:parent_id":404474569,
     "wof:placetype":"locality",

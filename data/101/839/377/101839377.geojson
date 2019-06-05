@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
-    "geom:area_square_m":436459.001905,
+    "geom:area_square_m":436459.001904,
     "geom:bbox":"5.85828877151,51.7604621563,5.8692447,51.7724169617",
     "geom:latitude":51.766711,
     "geom:longitude":5.864403,
@@ -53,10 +53,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473913,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,18 +68,19 @@
         "wk:page":"Molenhoek"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ec3eca0d6fd1b6ea0932b1dd1a1674db",
+    "wof:geomhash":"3cb1e2174da1386e7638fd3cc56bfd23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473913,
             "locality_id":101839377,
             "region_id":85687043
         }
     ],
     "wof:id":101839377,
-    "wof:lastmodified":1513367622,
+    "wof:lastmodified":1559594932,
     "wof:name":"Molenhoek",
     "wof:parent_id":404473913,
     "wof:placetype":"locality",
@@ -91,7 +93,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.858288771507691,
+    5.85828877150769,
     51.76046215631707,
     5.8692447000007,
     51.77241696166228

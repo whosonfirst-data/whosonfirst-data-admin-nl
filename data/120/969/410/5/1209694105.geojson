@@ -28,24 +28,32 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687041,
+        102191581,
+        404474545,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2744953
     },
     "wof:country":"NL",
-    "wof:geomhash":"321e358c99ea812ca19967ccda11f6e3",
+    "wof:geomhash":"fbc07ea1cfa4493e8b5fd1661c8742a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209694105
+            "empire_id":136253051,
+            "localadmin_id":404474545,
+            "locality_id":1209694105,
+            "region_id":85687041
         }
     ],
     "wof:id":1209694105,
-    "wof:lastmodified":1536279137,
+    "wof:lastmodified":1559594374,
     "wof:name":"Watertuin",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474545,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
@@ -53,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.5430199999999985,
+    4.54302,
     52.18662,
-    4.5430199999999985,
+    4.54302,
     52.18662
 ],
   "geometry": {"coordinates":[4.54302,52.18662],"type":"Point"}

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000855,
-    "geom:area_square_m":6509304.668487,
+    "geom:area_square_m":6509304.668484,
     "geom:bbox":"6.54002431208,51.9717094135,6.59174320916,52.0159338518",
     "geom:latitude":51.9915,
     "geom:longitude":6.562225,
@@ -44,16 +44,18 @@
         102191581,
         404474549,
         85633337,
-        101808627
+        101808627,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"820a647789fe5fbc9614c79e907fa804",
+    "wof:geomhash":"923922b55a2cef9ce2e03f52fa3618a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474549,
             "locality_id":101808627,
             "neighbourhood_id":1141964861,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1141964861,
-    "wof:lastmodified":1513368851,
+    "wof:lastmodified":1559595782,
     "wof:name":"Buitengebied Lichtenvoorde",
     "wof:parent_id":101808627,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.540024312080957,
+    6.54002431208096,
     51.9717094135007,
     6.59174320915565,
     52.01593385180697

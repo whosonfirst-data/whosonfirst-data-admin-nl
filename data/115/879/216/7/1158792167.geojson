@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002542,
-    "geom:area_square_m":18997708.441507,
+    "geom:area_square_m":18997708.441508,
     "geom:bbox":"6.17241897901,52.7958282964,6.27210055268,52.8404330157",
     "geom:latitude":52.822214,
     "geom:longitude":6.219926,
@@ -57,10 +57,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474613,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,13 +73,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474613,
             "locality_id":1158792167,
             "region_id":85687051
         }
     ],
     "wof:id":1158792167,
-    "wof:lastmodified":1514493177,
+    "wof:lastmodified":1559595207,
     "wof:name":"Wapserveen",
     "wof:parent_id":404474613,
     "wof:placetype":"locality",

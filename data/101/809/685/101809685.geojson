@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005153,
-    "geom:area_square_m":39674017.92312,
+    "geom:area_square_m":39674017.923118,
     "geom:bbox":"4.89128018751,51.4567903451,5.01667247553,51.5258644129",
     "geom:latitude":51.48702,
     "geom:longitude":4.953704,
@@ -59,10 +59,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":193,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474637,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,13 +81,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474637,
             "locality_id":101809685,
             "region_id":85687035
         }
     ],
     "wof:id":101809685,
-    "wof:lastmodified":1527715175,
+    "wof:lastmodified":1559594219,
     "wof:name":"Alphen",
     "wof:parent_id":404474637,
     "wof:placetype":"locality",

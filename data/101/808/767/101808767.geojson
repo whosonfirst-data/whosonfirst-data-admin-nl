@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001602,
-    "geom:area_square_m":12022259.025255,
+    "geom:area_square_m":12022259.025258,
     "geom:bbox":"6.5138614643,52.6127001486,6.58726040546,52.6544527591",
     "geom:latitude":52.629966,
     "geom:longitude":6.543455,
@@ -64,10 +64,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473831,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,13 +85,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473831,
             "locality_id":101808767,
             "region_id":85687045
         }
     ],
     "wof:id":101808767,
-    "wof:lastmodified":1514492934,
+    "wof:lastmodified":1559595178,
     "wof:name":"Slagharen",
     "wof:parent_id":404473831,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000064,
-    "geom:area_square_m":482577.221139,
+    "geom:area_square_m":482577.22114,
     "geom:bbox":"6.21914733023,52.1221633666,6.23613610138,52.1295952475",
     "geom:latitude":52.125535,
     "geom:longitude":6.229009,
@@ -45,16 +45,18 @@
         1158784059,
         404473961,
         85633337,
-        101837807
+        101837807,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"12fb7742327f8e011292ddf239f5a4b2",
+    "wof:geomhash":"3dd25032fca051ce9540e0685e816807",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473961,
             "locality_id":101837807,
             "macrohood_id":1158784059,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1141964597,
-    "wof:lastmodified":1513368830,
+    "wof:lastmodified":1559596332,
     "wof:name":"De Enk",
     "wof:parent_id":1158784059,
     "wof:placetype":"neighbourhood",
@@ -73,8 +75,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.219147330225752,
-    52.122163366568444,
+    6.21914733022575,
+    52.12216336656844,
     6.23613610138096,
     52.12959524752812
 ],

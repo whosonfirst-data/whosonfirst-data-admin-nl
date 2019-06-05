@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001255,
-    "geom:area_square_m":9669878.983267,
+    "geom:area_square_m":9669878.983264,
     "geom:bbox":"6.15385168898,51.4353678045,6.22367585454,51.4697169822",
     "geom:latitude":51.45164,
     "geom:longitude":6.190247,
@@ -67,10 +67,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687033,
         102191581,
         404474525,
         85633337,
-        85687033
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,13 +89,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474525,
             "locality_id":101809499,
             "region_id":85687033
         }
     ],
     "wof:id":101809499,
-    "wof:lastmodified":1514492546,
+    "wof:lastmodified":1559594883,
     "wof:name":"Lomm",
     "wof:parent_id":404474525,
     "wof:placetype":"locality",

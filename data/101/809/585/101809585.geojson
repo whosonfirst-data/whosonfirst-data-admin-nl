@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000278,
-    "geom:area_square_m":2159525.43902,
+    "geom:area_square_m":2159525.439019,
     "geom:bbox":"5.76662893576,51.0186531145,5.80144675663,51.0449524654",
     "geom:latitude":51.02839,
     "geom:longitude":5.783147,
@@ -62,10 +62,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687033,
         102191581,
         404474675,
         85633337,
-        85687033
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,13 +83,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474675,
             "locality_id":101809585,
             "region_id":85687033
         }
     ],
     "wof:id":101809585,
-    "wof:lastmodified":1514492730,
+    "wof:lastmodified":1559595068,
     "wof:name":"Obbicht",
     "wof:parent_id":404474675,
     "wof:placetype":"locality",

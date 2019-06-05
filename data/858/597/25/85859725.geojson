@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
-    "geom:area_square_m":906866.81057,
+    "geom:area_square_m":906866.810569,
     "geom:bbox":"4.39595495576,52.0820270503,4.42790258471,52.1049832663",
     "geom:latitude":52.093625,
     "geom:longitude":4.412002,
@@ -74,12 +74,13 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
         1158831337,
         404474685,
         85633337,
         101754679,
-        85687041
+        136253051
     ],
     "wof:breaches":[
         85798547
@@ -95,6 +96,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474685,
             "locality_id":101754679,
             "macrohood_id":1158831337,
@@ -106,7 +108,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527270307,
+    "wof:lastmodified":1559596009,
     "wof:name":"De Rietvink",
     "wof:parent_id":1158831337,
     "wof:placetype":"neighbourhood",

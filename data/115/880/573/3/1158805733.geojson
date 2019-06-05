@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001362,
-    "geom:area_square_m":10216093.159967,
+    "geom:area_square_m":10216093.159966,
     "geom:bbox":"6.03446002063,52.6522689853,6.0971860933,52.6851261559",
     "geom:latitude":52.669493,
     "geom:longitude":6.063476,
@@ -43,10 +43,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404474621,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474621,
             "locality_id":1158805733,
             "region_id":85687045
         }
     ],
     "wof:id":1158805733,
-    "wof:lastmodified":1514491929,
+    "wof:lastmodified":1559595168,
     "wof:name":"Belt-Schutsloot",
     "wof:parent_id":404474621,
     "wof:placetype":"locality",

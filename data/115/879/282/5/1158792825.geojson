@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
-    "geom:area_square_m":640122.069892,
+    "geom:area_square_m":640122.069891,
     "geom:bbox":"6.75567197455,53.163741405,6.77476761761,53.168453363",
     "geom:latitude":53.166097,
     "geom:longitude":6.765259,
@@ -46,12 +46,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687059,
         102191581,
         1158796109,
         404473719,
         85633337,
         101837993,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,6 +64,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473719,
             "locality_id":101837993,
             "macrohood_id":1158796109,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1158792825,
-    "wof:lastmodified":1514492714,
+    "wof:lastmodified":1559596914,
     "wof:name":"Noorderpark",
     "wof:parent_id":1158796109,
     "wof:placetype":"neighbourhood",

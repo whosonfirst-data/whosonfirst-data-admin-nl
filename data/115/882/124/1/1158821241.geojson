@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000293,
-    "geom:area_square_m":2213070.508071,
+    "geom:area_square_m":2213070.508069,
     "geom:bbox":"5.0127938537,52.3163172923,5.06572088061,52.3383428871",
     "geom:latitude":52.329437,
     "geom:longitude":5.039976,
@@ -44,16 +44,18 @@
         102191581,
         1158818281,
         85633337,
-        101807371
+        101807371,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"363f76fcb4ffafcc9a3d8a31f94a2ae2",
+    "wof:geomhash":"3e1dbb82ba274876448a6ef9711f8e0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158818281,
             "locality_id":101807371,
             "neighbourhood_id":1158821241,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158821241,
-    "wof:lastmodified":1513464289,
+    "wof:lastmodified":1559596214,
     "wof:name":"Pampusweg",
     "wof:parent_id":101807371,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.012793853702721,
-    52.316317292250304,
+    5.01279385370272,
+    52.3163172922503,
     5.06572088061365,
     52.3383428871092
 ],

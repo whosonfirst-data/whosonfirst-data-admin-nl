@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000502,
-    "geom:area_square_m":3710306.49603,
+    "geom:area_square_m":3710306.496031,
     "geom:bbox":"5.99187877062,53.2482187007,6.02960740771,53.2752846951",
     "geom:latitude":53.263256,
     "geom:longitude":6.010361,
@@ -43,10 +43,11 @@
     "reversegeo:longitude":6.008833,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404474681,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474681,
             "locality_id":1141960217,
             "region_id":85687055
         }
     ],
     "wof:id":1141960217,
-    "wof:lastmodified":1514492059,
+    "wof:lastmodified":1559594601,
     "wof:name":"De Falom",
     "wof:parent_id":404474681,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000402,
-    "geom:area_square_m":3098103.849079,
+    "geom:area_square_m":3098103.84908,
     "geom:bbox":"3.97211786313,51.4513417978,4.00732282664,51.4732797011",
     "geom:latitude":51.462495,
     "geom:longitude":3.992711,
@@ -43,10 +43,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687037,
         102191581,
         404474309,
         85633337,
-        85687037
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474309,
             "locality_id":1158786509,
             "region_id":85687037
         }
     ],
     "wof:id":1158786509,
-    "wof:lastmodified":1514492910,
+    "wof:lastmodified":1559595201,
     "wof:name":"Schore",
     "wof:parent_id":404474309,
     "wof:placetype":"locality",

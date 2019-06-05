@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001415,
-    "geom:area_square_m":10465867.760389,
+    "geom:area_square_m":10465867.76039,
     "geom:bbox":"6.62584721946,53.2491699928,6.68157668716,53.2959816573",
     "geom:latitude":53.274281,
     "geom:longitude":6.653297,
@@ -43,10 +43,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687059,
         102191581,
         404473709,
         85633337,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473709,
             "locality_id":1158796619,
             "region_id":85687059
         }
     ],
     "wof:id":1158796619,
-    "wof:lastmodified":1514493046,
+    "wof:lastmodified":1559595184,
     "wof:name":"Thesinge",
     "wof:parent_id":404473709,
     "wof:placetype":"locality",

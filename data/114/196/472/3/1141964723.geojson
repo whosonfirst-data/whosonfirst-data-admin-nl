@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002253,
-    "geom:area_square_m":17207068.157096,
+    "geom:area_square_m":17207068.157095,
     "geom:bbox":"5.40063321633,51.8185578699,5.48370230037,51.8781505806",
     "geom:latitude":51.84708,
     "geom:longitude":5.439848,
@@ -44,16 +44,18 @@
         102191581,
         404474305,
         85633337,
-        101808669
+        101808669,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"5956f57a44c864171f8de0a4e5ca445c",
+    "wof:geomhash":"d0519d7da693e6f95c03dfc4700f05ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474305,
             "locality_id":101808669,
             "neighbourhood_id":1141964723,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1141964723,
-    "wof:lastmodified":1513368841,
+    "wof:lastmodified":1559596513,
     "wof:name":"Buitengebied Dreumel",
     "wof:parent_id":101808669,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.400633216331174,
+    5.40063321633117,
     51.81855786987339,
     5.48370230036641,
     51.87815058061339

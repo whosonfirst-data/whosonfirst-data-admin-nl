@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000347,
-    "geom:area_square_m":2575326.010703,
+    "geom:area_square_m":2575326.010704,
     "geom:bbox":"5.62727327047,53.095035244,5.66598524532,53.1125585488",
     "geom:latitude":53.104053,
     "geom:longitude":5.646052,
@@ -43,10 +43,11 @@
     "reversegeo:longitude":5.643117,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473817,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473817,
             "locality_id":1141960387,
             "region_id":85687055
         }
     ],
     "wof:id":1141960387,
-    "wof:lastmodified":1514492444,
+    "wof:lastmodified":1559595001,
     "wof:name":"Itens",
     "wof:parent_id":404473817,
     "wof:placetype":"locality",

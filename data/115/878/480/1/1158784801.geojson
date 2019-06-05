@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000528,
-    "geom:area_square_m":4071510.4984,
+    "geom:area_square_m":4071510.498399,
     "geom:bbox":"3.60242541463,51.4409554576,3.66856832956,51.4599591473",
     "geom:latitude":51.450676,
     "geom:longitude":3.630293,
@@ -44,16 +44,18 @@
         102191581,
         404474335,
         85633337,
-        1158786523
+        1158786523,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"a879a7f96a09bb7a58d2056779554ddf",
+    "wof:geomhash":"72918ec13a9d1e28a696f0c87d7c64f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474335,
             "locality_id":1158786523,
             "neighbourhood_id":1158784801,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158784801,
-    "wof:lastmodified":1513628708,
+    "wof:lastmodified":1559595521,
     "wof:name":"Rammekens",
     "wof:parent_id":1158786523,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.602425414633552,
+    3.60242541463355,
     51.44095545757557,
     3.66856832955995,
     51.45995914731974

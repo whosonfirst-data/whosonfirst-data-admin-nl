@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000387,
-    "geom:area_square_m":2948159.959085,
+    "geom:area_square_m":2948159.959087,
     "geom:bbox":"4.37080993151,51.9663163145,4.40791087697,51.9965490463",
     "geom:latitude":51.983727,
     "geom:longitude":4.387964,
@@ -45,10 +45,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101752765,
         85633337,
-        85687041
+        101752765,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +61,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752765,
             "macrohood_id":1158831223,
             "region_id":85687041
         }
     ],
     "wof:id":1158831223,
-    "wof:lastmodified":1514492864,
+    "wof:lastmodified":1559595321,
     "wof:name":"Ruiven",
     "wof:parent_id":101752765,
     "wof:placetype":"macrohood",

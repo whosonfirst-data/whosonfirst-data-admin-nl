@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004457,
-    "geom:area_square_m":33271361.533312,
+    "geom:area_square_m":33271361.533313,
     "geom:bbox":"4.75885526055,52.8325313528,4.90977151746,52.8875709513",
     "geom:latitude":52.860022,
     "geom:longitude":4.833029,
@@ -124,10 +124,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687053,
         102191581,
         1158818287,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -139,13 +140,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158818287,
             "locality_id":1158822991,
             "region_id":85687053
         }
     ],
     "wof:id":1158822991,
-    "wof:lastmodified":1553816739,
+    "wof:lastmodified":1559595158,
     "wof:name":"Anna Paulowna",
     "wof:parent_id":1158818287,
     "wof:placetype":"locality",

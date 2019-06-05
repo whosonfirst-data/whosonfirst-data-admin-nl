@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001132,
-    "geom:area_square_m":8687070.511758,
+    "geom:area_square_m":8687070.511757,
     "geom:bbox":"5.92588822498,51.6127303081,6.00447539279,51.6457722327",
     "geom:latitude":51.630409,
     "geom:longitude":5.959312,
@@ -74,10 +74,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":173,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474359,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,13 +96,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474359,
             "locality_id":101808285,
             "region_id":85687035
         }
     ],
     "wof:id":101808285,
-    "wof:lastmodified":1527715346,
+    "wof:lastmodified":1559594634,
     "wof:name":"Sambeek",
     "wof:parent_id":404474359,
     "wof:placetype":"locality",

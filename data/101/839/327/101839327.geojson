@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001373,
-    "geom:area_square_m":10531488.560625,
+    "geom:area_square_m":10531488.560624,
     "geom:bbox":"5.89524623493,51.6573699969,5.96467372689,51.6894583796",
     "geom:latitude":51.674799,
     "geom:longitude":5.934709,
@@ -77,10 +77,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":73,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474359,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,13 +98,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474359,
             "locality_id":101839327,
             "region_id":85687035
         }
     ],
     "wof:id":101839327,
-    "wof:lastmodified":1527715404,
+    "wof:lastmodified":1559594145,
     "wof:name":"Beugen",
     "wof:parent_id":404474359,
     "wof:placetype":"locality",

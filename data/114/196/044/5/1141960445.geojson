@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000497,
-    "geom:area_square_m":3702321.731064,
+    "geom:area_square_m":3702321.731065,
     "geom:bbox":"5.94389533683,52.9259839217,5.98816937774,52.9439877935",
     "geom:latitude":52.934449,
     "geom:longitude":5.965028,
@@ -46,10 +46,11 @@
     "reversegeo:longitude":5.962397,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473771,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +62,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473771,
             "locality_id":1141960445,
             "region_id":85687055
         }
     ],
     "wof:id":1141960445,
-    "wof:lastmodified":1514492806,
+    "wof:lastmodified":1559594777,
     "wof:name":"Oudeschoot",
     "wof:parent_id":404473771,
     "wof:placetype":"locality",

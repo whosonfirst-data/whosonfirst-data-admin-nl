@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001197,
-    "geom:area_square_m":8940985.468816,
+    "geom:area_square_m":8940985.468819,
     "geom:bbox":"6.86533288971,52.8195583644,6.91376801851,52.8654403199",
     "geom:latitude":52.842543,
     "geom:longitude":6.884785,
@@ -44,16 +44,18 @@
         102191581,
         404474595,
         85633337,
-        101808775
+        101808775,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"685a0c67f86c7ab1314917b5ce4feaae",
+    "wof:geomhash":"3ccd5a61e592ce600cbbcd777f5818b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474595,
             "locality_id":101808775,
             "neighbourhood_id":1158791397,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158791397,
-    "wof:lastmodified":1513292336,
+    "wof:lastmodified":1559596194,
     "wof:name":"Verspreide huizen Valthe",
     "wof:parent_id":101808775,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.865332889707723,
+    6.86533288970772,
     52.81955836444526,
     6.91376801850971,
     52.86544031994904

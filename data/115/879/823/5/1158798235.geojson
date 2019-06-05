@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000059,
-    "geom:area_square_m":457778.567109,
+    "geom:area_square_m":457778.567108,
     "geom:bbox":"5.19976606519,51.492165968,5.21219596183,51.4982297245",
     "geom:latitude":51.495493,
     "geom:longitude":5.205919,
@@ -44,16 +44,18 @@
         102191581,
         404474397,
         85633337,
-        1158801559
+        1158801559,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"6c8b7c1ae9f87bdc3b2c383296fa24b4",
+    "wof:geomhash":"50e9139cb0b999b48e727ffe87ba2361",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474397,
             "locality_id":1158801559,
             "neighbourhood_id":1158798235,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158798235,
-    "wof:lastmodified":1513432657,
+    "wof:lastmodified":1559595769,
     "wof:name":"Haghorst",
     "wof:parent_id":1158801559,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.199766065186859,
+    5.19976606518686,
     51.4921659679576,
     5.21219596182908,
     51.49822972451257

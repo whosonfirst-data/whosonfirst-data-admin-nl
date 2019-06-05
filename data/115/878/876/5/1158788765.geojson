@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000586,
-    "geom:area_square_m":4465089.734218,
+    "geom:area_square_m":4465089.734216,
     "geom:bbox":"5.12223381289,51.9413414146,5.16554539399,51.9681750177",
     "geom:latitude":51.955989,
     "geom:longitude":5.143627,
@@ -44,16 +44,18 @@
         102191581,
         404474271,
         85633337,
-        101808453
+        101808453,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"1c4105e9db1e142d173cfa0dc91dda8f",
+    "wof:geomhash":"94442809921ff8891005e1742a9d5dba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474271,
             "locality_id":101808453,
             "neighbourhood_id":1158788765,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158788765,
-    "wof:lastmodified":1513622037,
+    "wof:lastmodified":1559596519,
     "wof:name":"Verspreide huizen Everdingen",
     "wof:parent_id":101808453,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.122233812887561,
+    5.12223381288756,
     51.94134141461981,
     5.16554539399091,
     51.96817501772378

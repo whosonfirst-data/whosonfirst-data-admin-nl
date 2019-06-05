@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001074,
-    "geom:area_square_m":7991783.013078,
+    "geom:area_square_m":7991783.013077,
     "geom:bbox":"5.78529607547,52.9722315927,5.84204702782,53.0126399809",
     "geom:latitude":52.991004,
     "geom:longitude":5.819355,
@@ -47,11 +47,12 @@
     "reversegeo:longitude":5.818927,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960737,
         85633337,
         101806179,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -61,6 +62,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960737,
             "locality_id":101806179,
             "neighbourhood_id":1126132601,
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":1126132601,
-    "wof:lastmodified":1507246106,
+    "wof:lastmodified":1559596853,
     "wof:name":"Buitengebied",
     "wof:parent_id":101806179,
     "wof:placetype":"neighbourhood",

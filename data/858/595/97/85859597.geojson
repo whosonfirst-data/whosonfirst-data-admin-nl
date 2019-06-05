@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00013,
-    "geom:area_square_m":991850.299951,
+    "geom:area_square_m":991850.299952,
     "geom:bbox":"4.25504663886,52.0295709489,4.28001562716,52.043341388",
     "geom:latitude":52.036586,
     "geom:longitude":4.267384,
@@ -78,12 +78,13 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
         1108808029,
         85633337,
         101752763,
-        1108808051,
-        85687041
+        136253051,
+        1108808051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +99,7 @@
             "borough_id":1108808051,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752763,
             "macrohood_id":1108808029,
             "neighbourhood_id":85859597,
@@ -108,7 +110,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269840,
+    "wof:lastmodified":1559595874,
     "wof:name":"Dreven en Gaarden",
     "wof:parent_id":1108808029,
     "wof:placetype":"neighbourhood",

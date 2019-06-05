@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000063,
-    "geom:area_square_m":470923.807696,
+    "geom:area_square_m":470923.807697,
     "geom:bbox":"5.45366716952,52.4750507439,5.46802448754,52.4838424427",
     "geom:latitude":52.479446,
     "geom:longitude":5.460846,
@@ -41,25 +41,27 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        101751873,
         85633337,
+        101751873,
+        136253051,
         85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"451e09642eb9e0d39b2658ca77ba5bc3",
+    "wof:geomhash":"f4d4bc86af91f7a063136188e324f516",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751873,
             "neighbourhood_id":1158787253,
             "region_id":85687049
         }
     ],
     "wof:id":1158787253,
-    "wof:lastmodified":1513299303,
+    "wof:lastmodified":1559597134,
     "wof:name":"Warande Midden",
     "wof:parent_id":101751873,
     "wof:placetype":"neighbourhood",
@@ -69,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.453667169519768,
-    52.475050743910444,
-    5.468024487538524,
-    52.483842442687155
+    5.45366716951977,
+    52.47505074391044,
+    5.46802448753852,
+    52.48384244268716
 ],
   "geometry": {"coordinates":[[[[5.45518266550552,52.48083010702584],[5.4602429918006,52.48384244268716],[5.46265809944253,52.48232839467421],[5.46802448753852,52.47896361719079],[5.46144899651794,52.47505074391044],[5.45607684861137,52.47841778952903],[5.45366716951977,52.47992783175419],[5.45518266550552,52.48083010702584]]]],"type":"MultiPolygon"}
 }

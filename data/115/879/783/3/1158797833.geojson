@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000978,
-    "geom:area_square_m":7504987.885179,
+    "geom:area_square_m":7504987.885178,
     "geom:bbox":"5.14485265294,51.5976644634,5.21077018221,51.6407178158",
     "geom:latitude":51.624879,
     "geom:longitude":5.177948,
@@ -44,16 +44,18 @@
         102191581,
         404474387,
         85633337,
-        101855231
+        101855231,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"935f7d3a2621eb91ec74417a151a1280",
+    "wof:geomhash":"06ba661f6cd7324ee63b8e9fd36ef241",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474387,
             "locality_id":101855231,
             "neighbourhood_id":1158797833,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158797833,
-    "wof:lastmodified":1513432623,
+    "wof:lastmodified":1559595721,
     "wof:name":"Verspreide huizen Biezenmortel",
     "wof:parent_id":101855231,
     "wof:placetype":"neighbourhood",
@@ -72,8 +74,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.144852652941847,
-    51.597664463407014,
+    5.14485265294185,
+    51.59766446340701,
     5.2107701822089,
     51.64071781582667
 ],

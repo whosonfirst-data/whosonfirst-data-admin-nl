@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000729,
-    "geom:area_square_m":5380790.38871,
+    "geom:area_square_m":5380790.388712,
     "geom:bbox":"6.56309679295,53.3183607829,6.60536576934,53.3474249755",
     "geom:latitude":53.331937,
     "geom:longitude":6.581347,
@@ -44,16 +44,18 @@
         102191581,
         404473703,
         85633337,
-        1158796507
+        1158796507,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"e9cd85fb186361f5b050799bcbafbc09",
+    "wof:geomhash":"d817c03d8cbe6ad5bc5b1d7c111da89c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473703,
             "locality_id":1158796507,
             "neighbourhood_id":1158792389,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158792389,
-    "wof:lastmodified":1513382242,
+    "wof:lastmodified":1559596803,
     "wof:name":"Verspreide huizen Onderdendam",
     "wof:parent_id":1158796507,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.563096792952365,
+    6.56309679295236,
     53.3183607828926,
     6.60536576933627,
     53.34742497551816

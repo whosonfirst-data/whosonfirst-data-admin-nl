@@ -28,24 +28,32 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687059,
+        102191581,
+        404473739,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2757733
     },
     "wof:country":"NL",
-    "wof:geomhash":"8078373a5f6ee9b1a6ead67b8c9fafcd",
+    "wof:geomhash":"bbbb40da7c031f1101c6fa8a9d9cd92c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209621431
+            "empire_id":136253051,
+            "localadmin_id":404473739,
+            "locality_id":1209621431,
+            "region_id":85687059
         }
     ],
     "wof:id":1209621431,
-    "wof:lastmodified":1536281504,
+    "wof:lastmodified":1559594368,
     "wof:name":"De Bruil",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404473739,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
@@ -53,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.1097199999999985,
+    7.10972,
     52.875,
-    7.1097199999999985,
+    7.10972,
     52.875
 ],
   "geometry": {"coordinates":[7.10972,52.875],"type":"Point"}

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000281,
-    "geom:area_square_m":2165247.378715,
+    "geom:area_square_m":2165247.378713,
     "geom:bbox":"5.39082615857,51.457276036,5.41236330329,51.4860195043",
     "geom:latitude":51.471098,
     "geom:longitude":5.400462,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687035,
         102191581,
         1158801465,
         85633337,
         101751819,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"53cfd31f32470e3e01246b57bcd06b73",
+    "wof:geomhash":"944530b4c775c07b6b212c1edcb9c52c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751819,
             "macrohood_id":1158801465,
             "neighbourhood_id":1158797491,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158797491,
-    "wof:lastmodified":1513432597,
+    "wof:lastmodified":1559597002,
     "wof:name":"Beatrixkanaal-A2",
     "wof:parent_id":1158801465,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.390826158574803,
+    5.3908261585748,
     51.45727603595327,
     5.41236330329073,
     51.48601950432672

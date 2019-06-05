@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003415,
-    "geom:area_square_m":25461277.137769,
+    "geom:area_square_m":25461277.137771,
     "geom:bbox":"6.48750328781,52.887975981,6.5858143882,52.9553382363",
     "geom:latitude":52.921528,
     "geom:longitude":6.540576,
@@ -57,10 +57,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474649,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,13 +73,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474649,
             "locality_id":1158792213,
             "region_id":85687051
         }
     ],
     "wof:id":1158792213,
-    "wof:lastmodified":1514492406,
+    "wof:lastmodified":1559594217,
     "wof:name":"Hooghalen",
     "wof:parent_id":404474649,
     "wof:placetype":"locality",

@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000636,
-    "geom:area_square_m":4743323.503704,
+    "geom:area_square_m":4743323.503706,
     "geom:bbox":"5.47696547141,52.8800425358,5.51893642458,52.9117458037",
     "geom:latitude":52.895678,
     "geom:longitude":5.497819,
@@ -42,10 +42,11 @@
     "reversegeo:longitude":5.497502,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960737,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +58,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960737,
             "locality_id":1141960301,
             "region_id":85687055
         }
     ],
     "wof:id":1141960301,
-    "wof:lastmodified":1514492471,
+    "wof:lastmodified":1559594677,
     "wof:name":"Kolderwolde",
     "wof:parent_id":1141960737,
     "wof:placetype":"locality",

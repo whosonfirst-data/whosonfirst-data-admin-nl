@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000954,
-    "geom:area_square_m":7268154.283691,
+    "geom:area_square_m":7268154.283692,
     "geom:bbox":"5.5233688144,51.9414139834,5.58661658753,51.9702190656",
     "geom:latitude":51.952969,
     "geom:longitude":5.547676,
@@ -46,10 +46,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473879,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +62,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473879,
             "locality_id":1158783567,
             "region_id":85687043
         }
     ],
     "wof:id":1158783567,
-    "wof:lastmodified":1514492067,
+    "wof:lastmodified":1559594066,
     "wof:name":"De Mars",
     "wof:parent_id":404473879,
     "wof:placetype":"locality",

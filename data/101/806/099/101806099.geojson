@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001263,
-    "geom:area_square_m":9382166.905015,
+    "geom:area_square_m":9382166.905016,
     "geom:bbox":"5.49132912256,53.0455626508,5.55729878732,53.0815938846",
     "geom:latitude":53.064074,
     "geom:longitude":5.524512,
@@ -99,10 +99,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,6 +121,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":101806099,
             "region_id":85687055
@@ -129,7 +131,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1505338047,
+    "wof:lastmodified":1559594764,
     "wof:name":"Bolsward",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000052,
-    "geom:area_square_m":384961.108629,
+    "geom:area_square_m":384961.108628,
     "geom:bbox":"6.0410990242,52.8440160789,6.0567871964,52.8510643264",
     "geom:latitude":52.848021,
     "geom:longitude":6.049752,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":6.04898,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473801,
         85633337,
         1141960681,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473801,
             "locality_id":1141960681,
             "neighbourhood_id":1126131927,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126131927,
-    "wof:lastmodified":1507246101,
+    "wof:lastmodified":1559596239,
     "wof:name":"Peperga",
     "wof:parent_id":1141960681,
     "wof:placetype":"neighbourhood",

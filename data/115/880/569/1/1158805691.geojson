@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001232,
-    "geom:area_square_m":9299718.174408,
+    "geom:area_square_m":9299718.174407,
     "geom:bbox":"6.78024545915,52.3601060896,6.829079908,52.3951146584",
     "geom:latitude":52.377348,
     "geom:longitude":6.804269,
@@ -45,10 +45,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473855,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +61,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473855,
             "locality_id":1158805691,
             "region_id":85687045
         }
     ],
     "wof:id":1158805691,
-    "wof:lastmodified":1514492247,
+    "wof:lastmodified":1559595183,
     "wof:name":"Fleringen",
     "wof:parent_id":404473855,
     "wof:placetype":"locality",

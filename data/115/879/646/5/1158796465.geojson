@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001944,
-    "geom:area_square_m":14428544.062708,
+    "geom:area_square_m":14428544.06271,
     "geom:bbox":"6.74301873469,53.0709715834,6.81394474642,53.1440869426",
     "geom:latitude":53.112191,
     "geom:longitude":6.774149,
@@ -51,10 +51,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687059,
         102191581,
         404473719,
         85633337,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +67,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473719,
             "locality_id":1158796465,
             "region_id":85687059
         }
     ],
     "wof:id":1158796465,
-    "wof:lastmodified":1514492465,
+    "wof:lastmodified":1559595189,
     "wof:name":"Kiel-Windeweer",
     "wof:parent_id":404473719,
     "wof:placetype":"locality",

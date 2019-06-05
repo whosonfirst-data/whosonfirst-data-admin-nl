@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00109,
-    "geom:area_square_m":8056378.762297,
+    "geom:area_square_m":8056378.762296,
     "geom:bbox":"7.02109737569,53.2742706492,7.10109069866,53.3267982955",
     "geom:latitude":53.291006,
     "geom:longitude":7.056795,
@@ -55,10 +55,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687059,
         102191581,
         404473711,
         85633337,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,13 +71,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473711,
             "locality_id":1158796595,
             "region_id":85687059
         }
     ],
     "wof:id":1158796595,
-    "wof:lastmodified":1514492985,
+    "wof:lastmodified":1559594299,
     "wof:name":"Termunten",
     "wof:parent_id":404473711,
     "wof:placetype":"locality",

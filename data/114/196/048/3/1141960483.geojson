@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001118,
-    "geom:area_square_m":8259724.087953,
+    "geom:area_square_m":8259724.087952,
     "geom:bbox":"6.20569886346,53.2843329402,6.2542660578,53.3339171612",
     "geom:latitude":53.308462,
     "geom:longitude":6.227534,
@@ -34,10 +34,11 @@
     "reversegeo:longitude":6.233232,
     "src:geom":"mz",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473773,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +50,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473773,
             "locality_id":1141960483,
             "region_id":85687055
         }
     ],
     "wof:id":1141960483,
-    "wof:lastmodified":1514493179,
+    "wof:lastmodified":1559594778,
     "wof:name":"Warfstermolen",
     "wof:parent_id":404473773,
     "wof:placetype":"locality",

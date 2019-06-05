@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000032,
-    "geom:area_square_m":233683.806519,
+    "geom:area_square_m":233683.806517,
     "geom:bbox":"6.40262272818,53.186924635,6.4217216992,53.1933599156",
     "geom:latitude":53.190175,
     "geom:longitude":6.411766,
@@ -44,16 +44,18 @@
         102191581,
         404473721,
         85633337,
-        1158796455
+        1158796455,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"3a1c985d499946e7bfe5ac67608e6fee",
+    "wof:geomhash":"26e61430f2ce03f92213e9374e40f707",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473721,
             "locality_id":1158796455,
             "neighbourhood_id":1158792981,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158792981,
-    "wof:lastmodified":1513382279,
+    "wof:lastmodified":1559595591,
     "wof:name":"Bebouwde kom Lettelbert",
     "wof:parent_id":1158796455,
     "wof:placetype":"neighbourhood",
@@ -73,8 +75,8 @@
   "bbox": [
     6.4026227281773,
     53.18692463497866,
-    6.421721699200549,
-    53.193359915607374
+    6.42172169920055,
+    53.19335991560737
 ],
   "geometry": {"coordinates":[[[[6.4026227281773,53.1886956828832],[6.40270801666582,53.1887039469884],[6.42079253094452,53.19335991560737],[6.42172169920055,53.19205226554776],[6.40304331387518,53.18692463497866],[6.4026227281773,53.1886956828832]]]],"type":"MultiPolygon"}
 }

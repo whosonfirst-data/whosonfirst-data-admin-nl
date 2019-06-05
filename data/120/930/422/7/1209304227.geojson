@@ -28,24 +28,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        102191581,
+        85633337,
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2752001
     },
     "wof:country":"NL",
-    "wof:geomhash":"e4f0c840b042bfda34727bb63721e6dd",
+    "wof:geomhash":"929254f46efbe9bb14c0c95751a5b9f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209304227
+            "empire_id":136253051,
+            "locality_id":1209304227,
+            "region_id":85687039
         }
     ],
     "wof:id":1209304227,
-    "wof:lastmodified":1536291251,
+    "wof:lastmodified":1559594354,
     "wof:name":"Lambalgen",
-    "wof:parent_id":85633337,
+    "wof:parent_id":85687039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
@@ -53,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.4833300000000005,
+    5.48333,
     52.06667,
-    5.4833300000000005,
+    5.48333,
     52.06667
 ],
   "geometry": {"coordinates":[5.48333,52.06667],"type":"Point"}

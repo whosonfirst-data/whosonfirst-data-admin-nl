@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":915712.966444,
+    "geom:area_square_m":915712.966443,
     "geom:bbox":"6.32087277401,52.7761277458,6.34200843965,52.787389982",
     "geom:latitude":52.780929,
     "geom:longitude":6.331755,
@@ -44,16 +44,18 @@
         102191581,
         404474601,
         85633337,
-        1158792133
+        1158792133,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"97fd50713888d4b107fc6148b1eddd60",
+    "wof:geomhash":"5ccf1e1786f6ad56247e3576734c2ddb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474601,
             "locality_id":1158792133,
             "neighbourhood_id":1158791475,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158791475,
-    "wof:lastmodified":1513292342,
+    "wof:lastmodified":1559596005,
     "wof:name":"Ansen",
     "wof:parent_id":1158792133,
     "wof:placetype":"neighbourhood",

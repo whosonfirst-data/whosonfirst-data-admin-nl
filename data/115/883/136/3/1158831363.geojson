@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000924,
-    "geom:area_square_m":7033931.610724,
+    "geom:area_square_m":7033931.610723,
     "geom:bbox":"4.26524517512,51.9800916385,4.31916189221,52.0190868156",
     "geom:latitude":51.997749,
     "geom:longitude":4.296247,
@@ -37,10 +37,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
         404474669,
         85633337,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +53,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474669,
             "locality_id":1158831363,
             "region_id":85687041
         }
     ],
     "wof:id":1158831363,
-    "wof:lastmodified":1514491796,
+    "wof:lastmodified":1559594071,
     "wof:name":"'t Woudt",
     "wof:parent_id":404474669,
     "wof:placetype":"locality",

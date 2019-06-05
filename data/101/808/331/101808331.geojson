@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001427,
-    "geom:area_square_m":10954825.772964,
+    "geom:area_square_m":10954825.772965,
     "geom:bbox":"5.70456562495,51.5898115278,5.75861458756,51.6257536089",
     "geom:latitude":51.608148,
     "geom:longitude":5.731433,
@@ -71,10 +71,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":177,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474357,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,13 +92,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474357,
             "locality_id":101808331,
             "region_id":85687035
         }
     ],
     "wof:id":101808331,
-    "wof:lastmodified":1527715319,
+    "wof:lastmodified":1559594648,
     "wof:name":"Venhorst",
     "wof:parent_id":404474357,
     "wof:placetype":"locality",

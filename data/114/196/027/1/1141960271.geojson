@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00264,
-    "geom:area_square_m":19724281.917821,
+    "geom:area_square_m":19724281.91782,
     "geom:bbox":"5.74571892177,52.8036914855,5.84083722025,52.8568490795",
     "geom:latitude":52.835222,
     "geom:longitude":5.795023,
@@ -45,10 +45,11 @@
     "reversegeo:longitude":5.795023,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960737,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +61,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960737,
             "locality_id":1141960271,
             "region_id":85687055
         }
     ],
     "wof:id":1141960271,
-    "wof:lastmodified":1514491920,
+    "wof:lastmodified":1559594870,
     "wof:name":"Bantega",
     "wof:parent_id":1141960737,
     "wof:placetype":"locality",

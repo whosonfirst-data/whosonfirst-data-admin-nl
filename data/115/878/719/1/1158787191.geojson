@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000052,
-    "geom:area_square_m":391698.055023,
+    "geom:area_square_m":391698.055024,
     "geom:bbox":"5.49014667928,52.4996861085,5.5037785959,52.5061070783",
     "geom:latitude":52.502476,
     "geom:longitude":5.496658,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687049,
         102191581,
         1158787365,
         85633337,
         101751873,
-        85687049
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"02af5cae8cf874b3463f31b89a1a389b",
+    "wof:geomhash":"eba43b5b59048f07a2c87f9c0405d2ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751873,
             "macrohood_id":1158787365,
             "neighbourhood_id":1158787191,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158787191,
-    "wof:lastmodified":1513299299,
+    "wof:lastmodified":1559596943,
     "wof:name":"Horst",
     "wof:parent_id":1158787365,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.490146679277397,
+    5.4901466792774,
     52.49968610847517,
     5.50377859589521,
     52.50610707825057

@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000899,
-    "geom:area_square_m":6958548.725641,
+    "geom:area_square_m":6958548.725642,
     "geom:bbox":"5.74324993224,51.2148262135,5.79177000564,51.2457025251",
     "geom:latitude":51.232554,
     "geom:longitude":5.76907,
@@ -45,10 +45,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687033,
         102191581,
         404474531,
         85633337,
-        85687033
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +61,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474531,
             "locality_id":1158817999,
             "region_id":85687033
         }
     ],
     "wof:id":1158817999,
-    "wof:lastmodified":1514492977,
+    "wof:lastmodified":1559594641,
     "wof:name":"Swartbroek",
     "wof:parent_id":404474531,
     "wof:placetype":"locality",

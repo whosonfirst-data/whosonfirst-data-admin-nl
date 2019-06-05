@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00087,
-    "geom:area_square_m":6581424.757492,
+    "geom:area_square_m":6581424.757491,
     "geom:bbox":"6.35284296664,52.246603564,6.4031343347,52.278227714",
     "geom:latitude":52.263674,
     "geom:longitude":6.382576,
@@ -44,16 +44,18 @@
         102191581,
         404474657,
         85633337,
-        101807165
+        101807165,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"0ff687c2f3244d003ea55c630628d4ef",
+    "wof:geomhash":"7b6c0ecba0691154fd39b65226ca801f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474657,
             "locality_id":101807165,
             "neighbourhood_id":1158803995,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158803995,
-    "wof:lastmodified":1513524375,
+    "wof:lastmodified":1559596960,
     "wof:name":"Holterbroek",
     "wof:parent_id":101807165,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.352842966642988,
+    6.35284296664299,
     52.24660356404715,
     6.40313433470496,
     52.27822771401482

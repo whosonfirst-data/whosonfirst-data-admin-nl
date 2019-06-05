@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000695,
-    "geom:area_square_m":5282053.871325,
+    "geom:area_square_m":5282053.871328,
     "geom:bbox":"6.08457475188,52.0487458505,6.1374692314,52.0816962175",
     "geom:latitude":52.065199,
     "geom:longitude":6.109809,
@@ -46,10 +46,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473933,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,18 +61,19 @@
         "tgn:id":7270995
     },
     "wof:country":"NL",
-    "wof:geomhash":"31f9fe2484397113783317d56d9214af",
+    "wof:geomhash":"87d18483c6aad479d0b0c8fa09956b26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473933,
             "locality_id":101837833,
             "region_id":85687043
         }
     ],
     "wof:id":101837833,
-    "wof:lastmodified":1513367613,
+    "wof:lastmodified":1559595016,
     "wof:name":"Spankeren",
     "wof:parent_id":404473933,
     "wof:placetype":"locality",
@@ -83,7 +85,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.084574751877058,
+    6.08457475187706,
     52.0487458504527,
     6.13746923139868,
     52.08169621747364

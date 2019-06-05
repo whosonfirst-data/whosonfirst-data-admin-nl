@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000483,
-    "geom:area_square_m":3636645.419047,
+    "geom:area_square_m":3636645.419048,
     "geom:bbox":"4.94760556262,52.5072206565,4.99164121295,52.5291103563",
     "geom:latitude":52.518354,
     "geom:longitude":4.967168,
@@ -39,26 +39,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
-        101751889,
         85633337,
-        85687053
+        101751889,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"ece74bcc6b8e220f3150a8d40d253737",
+    "wof:geomhash":"c8c6532f5e6342eb740dc73d6fa10553",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751889,
             "macrohood_id":1158823237,
             "region_id":85687053
         }
     ],
     "wof:id":1158823237,
-    "wof:lastmodified":1513463758,
+    "wof:lastmodified":1559595345,
     "wof:name":"Overwhere",
     "wof:parent_id":101751889,
     "wof:placetype":"macrohood",
@@ -68,7 +70,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.947605562615953,
+    4.94760556261595,
     52.50722065645892,
     4.99164121295113,
     52.52911035630383

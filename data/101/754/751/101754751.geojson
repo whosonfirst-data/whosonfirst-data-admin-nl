@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001382,
-    "geom:area_square_m":10572232.585022,
+    "geom:area_square_m":10572232.585021,
     "geom:bbox":"5.72782311,51.7778526271,5.800948665,51.8205458104",
     "geom:latitude":51.795701,
     "geom:longitude":5.76646,
@@ -53,10 +53,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473953,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +74,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473953,
             "locality_id":101754751,
             "region_id":85687043
         }
     ],
     "wof:id":101754751,
-    "wof:lastmodified":1514491849,
+    "wof:lastmodified":1559594057,
     "wof:name":"Alverna",
     "wof:parent_id":404473953,
     "wof:placetype":"locality",

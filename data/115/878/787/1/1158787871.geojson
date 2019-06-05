@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00007,
-    "geom:area_square_m":526888.940046,
+    "geom:area_square_m":526888.940047,
     "geom:bbox":"5.29645504569,52.1975039571,5.31218347012,52.2097463726",
     "geom:latitude":52.203946,
     "geom:longitude":5.304335,
@@ -44,16 +44,18 @@
         102191581,
         404473973,
         85633337,
-        101837651
+        101837651,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"aed3b6e4a4a3f58677e43970c1dcbd44",
+    "wof:geomhash":"607f3ef0800fbd359b3533988c3c89de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473973,
             "locality_id":101837651,
             "neighbourhood_id":1158787871,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158787871,
-    "wof:lastmodified":1513621958,
+    "wof:lastmodified":1559596267,
     "wof:name":"Eemdal-Zuid",
     "wof:parent_id":101837651,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.296455045687994,
+    5.29645504568799,
     52.19750395705812,
     5.31218347011873,
     52.20974637263782

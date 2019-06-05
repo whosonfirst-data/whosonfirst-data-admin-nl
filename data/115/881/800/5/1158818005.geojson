@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000814,
-    "geom:area_square_m":6359095.078819,
+    "geom:area_square_m":6359095.07882,
     "geom:bbox":"5.73971376166,50.7976748571,5.78689664912,50.8229286393",
     "geom:latitude":50.809681,
     "geom:longitude":5.761481,
@@ -49,10 +49,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687033,
         102191581,
         1158805871,
         85633337,
-        85687033
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158805871,
             "locality_id":1158818005,
             "region_id":85687033
         }
     ],
     "wof:id":1158818005,
-    "wof:lastmodified":1514492183,
+    "wof:lastmodified":1559594643,
     "wof:name":"Eckelrade",
     "wof:parent_id":1158805871,
     "wof:placetype":"locality",

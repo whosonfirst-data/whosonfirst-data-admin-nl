@@ -17,7 +17,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005422,
-    "geom:area_square_m":40904983.807802,
+    "geom:area_square_m":40904983.8078,
     "geom:bbox":"4.94264679142,52.3682292365,5.07916222004,52.4267622999",
     "geom:latitude":52.398102,
     "geom:longitude":5.01125,
@@ -70,11 +70,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85687053,
         102191581,
         85633337,
         101751893,
-        1158844277,
-        85687053
+        136253051,
+        1158844277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,13 +89,14 @@
             "borough_id":1158844277,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751893,
             "neighbourhood_id":1108945271,
             "region_id":85687053
         }
     ],
     "wof:id":1108945271,
-    "wof:lastmodified":1514493194,
+    "wof:lastmodified":1559595673,
     "wof:name":"Waterland",
     "wof:parent_id":1158844277,
     "wof:placetype":"neighbourhood",

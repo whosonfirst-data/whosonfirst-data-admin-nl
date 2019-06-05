@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002028,
-    "geom:area_square_m":15250047.272282,
+    "geom:area_square_m":15250047.272284,
     "geom:bbox":"6.42471808711,52.5150753998,6.48597897534,52.5692965846",
     "geom:latitude":52.544895,
     "geom:longitude":6.457404,
@@ -45,10 +45,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473847,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +61,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473847,
             "locality_id":1158805655,
             "region_id":85687045
         }
     ],
     "wof:id":1158805655,
-    "wof:lastmodified":1514491889,
+    "wof:lastmodified":1559595188,
     "wof:name":"Arrien",
     "wof:parent_id":404473847,
     "wof:placetype":"locality",

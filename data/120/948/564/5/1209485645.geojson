@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687045,
+        102191581,
+        404474653,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"68398bbf502f320bf1ae4fd2f351b4d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209485645
+            "empire_id":136253051,
+            "localadmin_id":404474653,
+            "locality_id":1209485645,
+            "region_id":85687045
         }
     ],
     "wof:id":1209485645,
-    "wof:lastmodified":1536285645,
+    "wof:lastmodified":1559594376,
     "wof:name":"Vossenbrink",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474653,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

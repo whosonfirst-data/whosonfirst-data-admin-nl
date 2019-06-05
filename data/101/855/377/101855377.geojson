@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000942,
-    "geom:area_square_m":7142420.407497,
+    "geom:area_square_m":7142420.407496,
     "geom:bbox":"5.48469189563,52.1661256743,5.54461951353,52.1918345731",
     "geom:latitude":52.179278,
     "geom:longitude":5.512448,
@@ -57,10 +57,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473873,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,13 +78,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473873,
             "locality_id":101855377,
             "region_id":85687043
         }
     ],
     "wof:id":101855377,
-    "wof:lastmodified":1514493307,
+    "wof:lastmodified":1559594327,
     "wof:name":"Zwartebroek",
     "wof:parent_id":404473873,
     "wof:placetype":"locality",

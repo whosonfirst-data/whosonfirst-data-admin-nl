@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000544,
-    "geom:area_square_m":4037177.271018,
+    "geom:area_square_m":4037177.271017,
     "geom:bbox":"6.69461735405,53.1037734223,6.74472994765,53.1211760154",
     "geom:latitude":53.113902,
     "geom:longitude":6.717193,
@@ -48,10 +48,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474647,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +64,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474647,
             "locality_id":1158792179,
             "region_id":85687051
         }
     ],
     "wof:id":1158792179,
-    "wof:lastmodified":1514492060,
+    "wof:lastmodified":1559595134,
     "wof:name":"De Groeve",
     "wof:parent_id":404474647,
     "wof:placetype":"locality",

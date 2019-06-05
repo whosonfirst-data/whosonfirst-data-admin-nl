@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001529,
-    "geom:area_square_m":11559767.108093,
+    "geom:area_square_m":11559767.108094,
     "geom:bbox":"6.32652985422,52.2881863917,6.40296731657,52.322726139",
     "geom:latitude":52.306204,
     "geom:longitude":6.36523,
@@ -44,16 +44,18 @@
         102191581,
         404474657,
         85633337,
-        101807165
+        101807165,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"990d93572f173a944bdebf29753febe0",
+    "wof:geomhash":"d9066670574b382c8c52ef766d63b190",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474657,
             "locality_id":101807165,
             "neighbourhood_id":1158803993,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158803993,
-    "wof:lastmodified":1513524375,
+    "wof:lastmodified":1559596261,
     "wof:name":"Espelo",
     "wof:parent_id":101807165,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.326529854218513,
+    6.32652985421851,
     52.2881863916779,
     6.40296731656531,
     52.32272613897319

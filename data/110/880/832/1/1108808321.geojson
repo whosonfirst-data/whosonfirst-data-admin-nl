@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":1089550.404802,
+    "geom:area_square_m":1089550.404803,
     "geom:bbox":"4.27789680829,52.0273913893,4.29864535618,52.0403783046",
     "geom:latitude":52.032817,
     "geom:longitude":4.288213,
@@ -33,12 +33,13 @@
     "reversegeo:longitude":4.288921,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687041,
         102191581,
         1108808069,
         85633337,
         101752763,
-        1108808051,
-        85687041
+        136253051,
+        1108808051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,6 +50,7 @@
             "borough_id":1108808051,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752763,
             "macrohood_id":1108808069,
             "neighbourhood_id":1108808321,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1108808321,
-    "wof:lastmodified":1507246056,
+    "wof:lastmodified":1559596430,
     "wof:name":"Hoge Veld",
     "wof:parent_id":1108808069,
     "wof:placetype":"neighbourhood",

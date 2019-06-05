@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001692,
-    "geom:area_square_m":12631590.140437,
+    "geom:area_square_m":12631590.140435,
     "geom:bbox":"6.17004116896,52.8376905009,6.23988989518,52.8825429289",
     "geom:latitude":52.860576,
     "geom:longitude":6.206573,
@@ -92,10 +92,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":239,
     "wof:belongsto":[
+        85687051,
         102191581,
         404474613,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,13 +114,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474613,
             "locality_id":101808779,
             "region_id":85687051
         }
     ],
     "wof:id":101808779,
-    "wof:lastmodified":1527715338,
+    "wof:lastmodified":1559595177,
     "wof:name":"Vledder",
     "wof:parent_id":404474613,
     "wof:placetype":"locality",

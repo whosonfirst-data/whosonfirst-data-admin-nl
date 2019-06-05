@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001184,
-    "geom:area_square_m":9037409.178086,
+    "geom:area_square_m":9037409.178088,
     "geom:bbox":"6.50871393135,51.8731086394,6.56922602429,51.912952779",
     "geom:latitude":51.890996,
     "geom:longitude":6.539274,
@@ -37,10 +37,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473865,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +53,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473865,
             "locality_id":1158783563,
             "region_id":85687043
         }
     ],
     "wof:id":1158783563,
-    "wof:lastmodified":1514492439,
+    "wof:lastmodified":1559595008,
     "wof:name":"IJzerlo",
     "wof:parent_id":404473865,
     "wof:placetype":"locality",

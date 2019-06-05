@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001264,
-    "geom:area_square_m":9758769.173605,
+    "geom:area_square_m":9758769.173604,
     "geom:bbox":"3.95459354319,51.3391548496,4.03133342736,51.3670848598",
     "geom:latitude":51.352299,
     "geom:longitude":3.995942,
@@ -46,10 +46,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687037,
         102191581,
         404474307,
         85633337,
-        85687037
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +62,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474307,
             "locality_id":1158786505,
             "region_id":85687037
         }
     ],
     "wof:id":1158786505,
-    "wof:lastmodified":1514492377,
+    "wof:lastmodified":1559595153,
     "wof:name":"Hengstdijk",
     "wof:parent_id":404474307,
     "wof:placetype":"locality",

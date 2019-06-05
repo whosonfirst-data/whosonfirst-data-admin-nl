@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000029,
-    "geom:area_square_m":213860.740395,
+    "geom:area_square_m":213860.740394,
     "geom:bbox":"6.24993991094,52.9177474192,6.26237603731,52.9238015833",
     "geom:latitude":52.920877,
     "geom:longitude":6.256495,
@@ -44,16 +44,18 @@
         102191581,
         404474613,
         85633337,
-        1158792155
+        1158792155,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"c75680b55e0a0723c22dd681e9dcfdbb",
+    "wof:geomhash":"29837b74e813e79712c98ed78b770aec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474613,
             "locality_id":1158792155,
             "neighbourhood_id":1158791611,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158791611,
-    "wof:lastmodified":1513292351,
+    "wof:lastmodified":1559596809,
     "wof:name":"Zorgvlied",
     "wof:parent_id":1158792155,
     "wof:placetype":"neighbourhood",
@@ -71,9 +73,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.249939910943239,
+    6.24993991094324,
     52.91774741922649,
-    6.262376037308572,
+    6.26237603730857,
     52.92380158327935
 ],
   "geometry": {"coordinates":[[[[6.25962431095861,52.91774741922649],[6.25763283802923,52.9189774232353],[6.25815643681999,52.91935891498981],[6.24993991094324,52.92123839983184],[6.25509710860871,52.92380158327935],[6.26237603730857,52.91928593473718],[6.25962431095861,52.91774741922649]]]],"type":"MultiPolygon"}

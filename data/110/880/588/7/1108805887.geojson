@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000413,
-    "geom:area_square_m":3154472.816771,
+    "geom:area_square_m":3154472.816769,
     "geom:bbox":"4.45295491882,51.8689685662,4.51523384825,51.886427433",
     "geom:latitude":51.878551,
     "geom:longitude":4.484962,
@@ -33,11 +33,12 @@
     "reversegeo:longitude":4.482362,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687041,
         102191581,
         85633337,
         101751843,
-        1108804837,
-        85687041
+        136253051,
+        1108804837
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,13 +49,14 @@
             "borough_id":1108804837,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751843,
             "neighbourhood_id":1108805887,
             "region_id":85687041
         }
     ],
     "wof:id":1108805887,
-    "wof:lastmodified":1507246054,
+    "wof:lastmodified":1559596263,
     "wof:name":"Zuiderpark",
     "wof:parent_id":1108804837,
     "wof:placetype":"neighbourhood",

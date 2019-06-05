@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000738,
-    "geom:area_square_m":5487035.956117,
+    "geom:area_square_m":5487035.956116,
     "geom:bbox":"5.55104873352,53.0051347035,5.58890311805,53.0368487281",
     "geom:latitude":53.020161,
     "geom:longitude":5.570519,
@@ -37,10 +37,11 @@
     "reversegeo:longitude":5.570519,
     "src:geom":"mz",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +53,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":1141960559,
             "region_id":85687055
         }
     ],
     "wof:id":1141960559,
-    "wof:lastmodified":1514491803,
+    "wof:lastmodified":1559594956,
     "wof:name":"Abbega",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

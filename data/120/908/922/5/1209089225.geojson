@@ -28,24 +28,32 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687045,
+        102191581,
+        404473831,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2755412
     },
     "wof:country":"NL",
-    "wof:geomhash":"3dd7b60b3d2b15920a0eb807df7a2040",
+    "wof:geomhash":"07fa4cfc8cc87efc97ba308f90dc4c85",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209089225
+            "empire_id":136253051,
+            "localadmin_id":404473831,
+            "locality_id":1209089225,
+            "region_id":85687045
         }
     ],
     "wof:id":1209089225,
-    "wof:lastmodified":1536298088,
+    "wof:lastmodified":1559594343,
     "wof:name":"Gouden-Ploeg",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404473831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
@@ -53,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.6013899999999985,
+    6.60139,
     52.51333,
-    6.6013899999999985,
+    6.60139,
     52.51333
 ],
   "geometry": {"coordinates":[6.60139,52.51333],"type":"Point"}

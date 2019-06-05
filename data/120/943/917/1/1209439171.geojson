@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687059,
+        102191581,
+        404473711,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"0bdefc782b7979aded0a8c72f1a93dbe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209439171
+            "empire_id":136253051,
+            "localadmin_id":404473711,
+            "locality_id":1209439171,
+            "region_id":85687059
         }
     ],
     "wof:id":1209439171,
-    "wof:lastmodified":1536287009,
+    "wof:lastmodified":1559594365,
     "wof:name":"Uiteinde",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404473711,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

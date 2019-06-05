@@ -28,24 +28,32 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687059,
+        102191581,
+        404473713,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2747185
     },
     "wof:country":"NL",
-    "wof:geomhash":"53cb764e377d9c804df1d0cc53ba5b90",
+    "wof:geomhash":"94cb5cb7b3cd3234dc44781007016017",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209338493
+            "empire_id":136253051,
+            "localadmin_id":404473713,
+            "locality_id":1209338493,
+            "region_id":85687059
         }
     ],
     "wof:id":1209338493,
-    "wof:lastmodified":1536290139,
+    "wof:lastmodified":1559594927,
     "wof:name":"Slaperstil",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404473713,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
@@ -53,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.4958300000000015,
+    6.49583,
     53.2425,
-    6.4958300000000015,
+    6.49583,
     53.2425
 ],
   "geometry": {"coordinates":[6.49583,53.2425],"type":"Point"}

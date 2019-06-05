@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687035,
+        102191581,
+        404474349,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"45f4ab4edc5c8d380d5a37ba9461a7c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209103519
+            "empire_id":136253051,
+            "localadmin_id":404474349,
+            "locality_id":1209103519,
+            "region_id":85687035
         }
     ],
     "wof:id":1209103519,
-    "wof:lastmodified":1537675606,
+    "wof:lastmodified":1559594340,
     "wof:name":"Oordeelsheikant",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474349,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

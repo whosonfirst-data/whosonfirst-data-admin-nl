@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003764,
-    "geom:area_square_m":28361576.986167,
+    "geom:area_square_m":28361576.98617,
     "geom:bbox":"6.27017669157,52.4244406728,6.38415004791,52.4806905899",
     "geom:latitude":52.450609,
     "geom:longitude":6.327247,
@@ -65,10 +65,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473823,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,13 +86,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473823,
             "locality_id":101807213,
             "region_id":85687045
         }
     ],
     "wof:id":101807213,
-    "wof:lastmodified":1514492527,
+    "wof:lastmodified":1559594104,
     "wof:name":"Lemelerveld",
     "wof:parent_id":404473823,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001101,
-    "geom:area_square_m":8473192.125763,
+    "geom:area_square_m":8473192.125762,
     "geom:bbox":"3.49613920654,51.4784631617,3.55418517216,51.5140140302",
     "geom:latitude":51.496597,
     "geom:longitude":3.527232,
@@ -46,10 +46,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687037,
         102191581,
         404474333,
         85633337,
-        85687037
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +62,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474333,
             "locality_id":1158786571,
             "region_id":85687037
         }
     ],
     "wof:id":1158786571,
-    "wof:lastmodified":1514491964,
+    "wof:lastmodified":1559595198,
     "wof:name":"Biggekerke",
     "wof:parent_id":404474333,
     "wof:placetype":"locality",

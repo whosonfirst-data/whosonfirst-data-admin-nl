@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001383,
-    "geom:area_square_m":10292779.841771,
+    "geom:area_square_m":10292779.841772,
     "geom:bbox":"5.73356566135,52.9625766492,5.78561564811,53.0072819118",
     "geom:latitude":52.985611,
     "geom:longitude":5.762519,
@@ -39,10 +39,11 @@
     "reversegeo:longitude":5.762505,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960737,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +55,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960737,
             "locality_id":1141960269,
             "region_id":85687055
         }
     ],
     "wof:id":1141960269,
-    "wof:lastmodified":1514492013,
+    "wof:lastmodified":1559594647,
     "wof:name":"Broek",
     "wof:parent_id":1141960737,
     "wof:placetype":"locality",

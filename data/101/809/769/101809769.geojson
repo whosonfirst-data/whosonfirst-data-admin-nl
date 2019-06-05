@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002272,
-    "geom:area_square_m":17544087.759015,
+    "geom:area_square_m":17544087.759016,
     "geom:bbox":"5.69846181194,51.323011635,5.77044861307,51.3748017635",
     "geom:latitude":51.347803,
     "geom:longitude":5.732265,
@@ -62,10 +62,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":280,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474425,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,13 +83,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474425,
             "locality_id":101809769,
             "region_id":85687035
         }
     ],
     "wof:id":101809769,
-    "wof:lastmodified":1527715172,
+    "wof:lastmodified":1559595146,
     "wof:name":"Someren-Eind",
     "wof:parent_id":404474425,
     "wof:placetype":"locality",

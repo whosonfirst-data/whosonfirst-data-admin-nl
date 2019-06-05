@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
-    "geom:area_square_m":303181.169204,
+    "geom:area_square_m":303181.169205,
     "geom:bbox":"4.64406989823,51.7725558097,4.65049140421,51.7802306824",
     "geom:latitude":51.776765,
     "geom:longitude":4.647158,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         1158829571,
         85633337,
         101751841,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"a23f9f27329d2320f5af7a5e793bc134",
+    "wof:geomhash":"a2e38e987dd2855d1cf4961d42722b73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751841,
             "macrohood_id":1158829571,
             "neighbourhood_id":1158825857,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158825857,
-    "wof:lastmodified":1513588021,
+    "wof:lastmodified":1559595603,
     "wof:name":"Amstelwijck-West",
     "wof:parent_id":1158829571,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.644069898228384,
+    4.64406989822838,
     51.77255580965904,
     4.65049140421072,
     51.7802306823939

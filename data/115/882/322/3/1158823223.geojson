@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":915192.509283,
+    "geom:area_square_m":915192.509284,
     "geom:bbox":"4.65405214936,52.4969663671,4.67973926319,52.5074663345",
     "geom:latitude":52.502344,
     "geom:longitude":4.665433,
@@ -39,26 +39,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
-        101754811,
         85633337,
-        85687053
+        101754811,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"cf2b135cfbb142e30cbf6ecc482c7276",
+    "wof:geomhash":"185afe9b342cc7393afd090c1ebd4426",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101754811,
             "macrohood_id":1158823223,
             "region_id":85687053
         }
     ],
     "wof:id":1158823223,
-    "wof:lastmodified":1513463756,
+    "wof:lastmodified":1559595292,
     "wof:name":"Hoogdorp en Waterakkers",
     "wof:parent_id":101754811,
     "wof:placetype":"macrohood",
@@ -68,7 +70,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.654052149362427,
+    4.65405214936243,
     52.49696636713118,
     4.67973926318809,
     52.50746633447975

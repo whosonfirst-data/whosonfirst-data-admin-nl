@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001501,
-    "geom:area_square_m":11294448.176703,
+    "geom:area_square_m":11294448.176704,
     "geom:bbox":"6.33151568935,52.4791368592,6.38978692708,52.5221179766",
     "geom:latitude":52.502912,
     "geom:longitude":6.357345,
@@ -45,10 +45,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473847,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +61,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473847,
             "locality_id":1158805671,
             "region_id":85687045
         }
     ],
     "wof:id":1158805671,
-    "wof:lastmodified":1514493118,
+    "wof:lastmodified":1559595184,
     "wof:name":"Vilsteren",
     "wof:parent_id":404473847,
     "wof:placetype":"locality",

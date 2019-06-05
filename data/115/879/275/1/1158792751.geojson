@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000302,
-    "geom:area_square_m":2233267.312759,
+    "geom:area_square_m":2233267.31276,
     "geom:bbox":"6.60631242816,53.2337904436,6.64287273593,53.2514859286",
     "geom:latitude":53.244719,
     "geom:longitude":6.626845,
@@ -49,11 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687059,
         102191581,
         404473713,
         85633337,
         1158796475,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,6 +66,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473713,
             "locality_id":1158796475,
             "neighbourhood_id":1158792751,
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":1158792751,
-    "wof:lastmodified":1514492713,
+    "wof:lastmodified":1559597034,
     "wof:name":"Noorddijk",
     "wof:parent_id":1158796475,
     "wof:placetype":"neighbourhood",

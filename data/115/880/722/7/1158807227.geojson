@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000785,
-    "geom:area_square_m":6054303.319365,
+    "geom:area_square_m":6054303.319364,
     "geom:bbox":"5.99892318747,51.41960852,6.07866719205,51.4454493979",
     "geom:latitude":51.431242,
     "geom:longitude":6.037335,
@@ -44,16 +44,18 @@
         102191581,
         404474541,
         85633337,
-        101839717
+        101839717,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"8a8f5276ada6710c8cf6c8783ef78894",
+    "wof:geomhash":"2b7b1baa7ca73afa7e24dd7d3248f309",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474541,
             "locality_id":101839717,
             "neighbourhood_id":1158807227,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158807227,
-    "wof:lastmodified":1513404087,
+    "wof:lastmodified":1559596750,
     "wof:name":"Verspreide huizen Hegelsom",
     "wof:parent_id":101839717,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.998923187465056,
+    5.99892318746506,
     51.41960851997143,
     6.07866719205153,
     51.44544939787043

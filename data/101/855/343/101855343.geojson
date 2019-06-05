@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001215,
-    "geom:area_square_m":9272923.144429,
+    "geom:area_square_m":9272923.144428,
     "geom:bbox":"6.47567855879,51.8727073863,6.52541604024,51.9115502371",
     "geom:latitude":51.893156,
     "geom:longitude":6.501001,
@@ -247,10 +247,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":150,
     "wof:belongsto":[
+        85687043,
         102191581,
         404473865,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -267,13 +268,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473865,
             "locality_id":101855343,
             "region_id":85687043
         }
     ],
     "wof:id":101855343,
-    "wof:lastmodified":1527715437,
+    "wof:lastmodified":1559594325,
     "wof:name":"De Heurne",
     "wof:parent_id":404473865,
     "wof:placetype":"locality",

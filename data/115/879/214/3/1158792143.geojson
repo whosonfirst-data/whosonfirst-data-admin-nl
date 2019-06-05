@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000662,
-    "geom:area_square_m":4921221.888011,
+    "geom:area_square_m":4921221.88801,
     "geom:bbox":"6.47496559705,53.0376809897,6.51451581945,53.0738371938",
     "geom:latitude":53.05504,
     "geom:longitude":6.497492,
@@ -40,10 +40,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474609,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474609,
             "locality_id":1158792143,
             "region_id":85687051
         }
     ],
     "wof:id":1158792143,
-    "wof:lastmodified":1514492822,
+    "wof:lastmodified":1559595221,
     "wof:name":"Peest",
     "wof:parent_id":404474609,
     "wof:placetype":"locality",

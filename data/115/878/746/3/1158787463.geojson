@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005837,
-    "geom:area_square_m":43624971.136486,
+    "geom:area_square_m":43624971.136489,
     "geom:bbox":"5.63359300453,52.7754118786,5.78737549431,52.8439822412",
     "geom:latitude":52.811535,
     "geom:longitude":5.711447,
@@ -55,10 +55,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687049,
         102191581,
         404473843,
         85633337,
-        85687049
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,13 +71,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473843,
             "locality_id":1158787463,
             "region_id":85687049
         }
     ],
     "wof:id":1158787463,
-    "wof:lastmodified":1514492865,
+    "wof:lastmodified":1559595164,
     "wof:name":"Rutten",
     "wof:parent_id":404473843,
     "wof:placetype":"locality",

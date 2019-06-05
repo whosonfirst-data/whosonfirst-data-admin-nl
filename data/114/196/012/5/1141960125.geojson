@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000362,
-    "geom:area_square_m":2685242.592064,
+    "geom:area_square_m":2685242.592065,
     "geom:bbox":"5.65404513351,53.1282326573,5.68859819092,53.1524004633",
     "geom:latitude":53.141056,
     "geom:longitude":5.673706,
@@ -43,10 +43,11 @@
     "reversegeo:longitude":5.676843,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473817,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473817,
             "locality_id":1141960125,
             "region_id":85687055
         }
     ],
     "wof:id":1141960125,
-    "wof:lastmodified":1514491902,
+    "wof:lastmodified":1559594493,
     "wof:name":"Baard",
     "wof:parent_id":404473817,
     "wof:placetype":"locality",

@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003847,
-    "geom:area_square_m":28530451.405724,
+    "geom:area_square_m":28530451.405725,
     "geom:bbox":"6.45374443521,53.1173814593,6.54008694417,53.2001483558",
     "geom:latitude":53.151728,
     "geom:longitude":6.501025,
@@ -90,10 +90,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":321,
     "wof:belongsto":[
+        85687051,
         102191581,
         404474609,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,13 +112,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474609,
             "locality_id":101807261,
             "region_id":85687051
         }
     ],
     "wof:id":101807261,
-    "wof:lastmodified":1527715103,
+    "wof:lastmodified":1559594111,
     "wof:name":"Peize",
     "wof:parent_id":404474609,
     "wof:placetype":"locality",

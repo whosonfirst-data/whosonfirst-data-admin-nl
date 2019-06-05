@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687043,
+        102191581,
+        404474543,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"5c103f2dbfc6cf10032af94c9d8d5a57",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209226115
+            "empire_id":136253051,
+            "localadmin_id":404474543,
+            "locality_id":1209226115,
+            "region_id":85687043
         }
     ],
     "wof:id":1209226115,
-    "wof:lastmodified":1536293795,
+    "wof:lastmodified":1559594353,
     "wof:name":"Groot Breedenbroek",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474543,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

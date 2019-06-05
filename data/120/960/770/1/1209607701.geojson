@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687035,
+        102191581,
+        404474425,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +43,18 @@
     "wof:geomhash":"cad004e58cf08a620cdd78ab1fdd5b1b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209607701
+            "empire_id":136253051,
+            "localadmin_id":404474425,
+            "locality_id":1209607701,
+            "region_id":85687035
         }
     ],
     "wof:id":1209607701,
-    "wof:lastmodified":1537570059,
+    "wof:lastmodified":1559594382,
     "wof:name":"Heikant",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474425,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

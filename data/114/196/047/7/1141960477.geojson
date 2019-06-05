@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000555,
-    "geom:area_square_m":4117538.980218,
+    "geom:area_square_m":4117538.980217,
     "geom:bbox":"5.70935405906,53.1032288737,5.75705977747,53.1261823539",
     "geom:latitude":53.115017,
     "geom:longitude":5.735131,
@@ -40,10 +40,11 @@
     "reversegeo:longitude":5.731513,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473817,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473817,
             "locality_id":1141960477,
             "region_id":85687055
         }
     ],
     "wof:id":1141960477,
-    "wof:lastmodified":1514492182,
+    "wof:lastmodified":1559594913,
     "wof:name":"Easterwierrum",
     "wof:parent_id":404473817,
     "wof:placetype":"locality",

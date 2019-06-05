@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
-    "geom:area_square_m":493789.125001,
+    "geom:area_square_m":493789.125002,
     "geom:bbox":"4.29213229248,52.056407424,4.31144572755,52.0628442453",
     "geom:latitude":52.059508,
     "geom:longitude":4.302386,
@@ -33,12 +33,13 @@
     "reversegeo:longitude":4.30239,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687041,
         102191581,
         1108808093,
         85633337,
         101752763,
-        1108808053,
-        85687041
+        136253051,
+        1108808053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,6 +50,7 @@
             "borough_id":1108808053,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752763,
             "macrohood_id":1108808093,
             "neighbourhood_id":1108808303,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1108808303,
-    "wof:lastmodified":1507246056,
+    "wof:lastmodified":1559596274,
     "wof:name":"Groente- en Fruitmarkt",
     "wof:parent_id":1108808093,
     "wof:placetype":"neighbourhood",

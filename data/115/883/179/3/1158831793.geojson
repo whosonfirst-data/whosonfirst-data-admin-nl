@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001736,
-    "geom:area_square_m":13229389.376233,
+    "geom:area_square_m":13229389.376231,
     "geom:bbox":"4.45682451222,51.9394981836,4.52890180055,51.9805491604",
     "geom:latitude":51.957651,
     "geom:longitude":4.487372,
@@ -39,10 +39,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101751843,
         85633337,
-        85687041
+        101751843,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,12 +54,13 @@
             "borough_id":1158831793,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751843,
             "region_id":85687041
         }
     ],
     "wof:id":1158831793,
-    "wof:lastmodified":1513535771,
+    "wof:lastmodified":1559595246,
     "wof:name":"Hillegersberg-Schiebroek",
     "wof:parent_id":101751843,
     "wof:placetype":"borough",

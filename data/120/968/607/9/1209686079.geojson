@@ -28,24 +28,32 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687045,
+        102191581,
+        404473819,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2746097
     },
     "wof:country":"NL",
-    "wof:geomhash":"abcdd556991a629da1fc8a071905d5f4",
+    "wof:geomhash":"6fef6f525a839b3501fffd65596a0f82",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209686079
+            "empire_id":136253051,
+            "localadmin_id":404473819,
+            "locality_id":1209686079,
+            "region_id":85687045
         }
     ],
     "wof:id":1209686079,
-    "wof:lastmodified":1536279406,
+    "wof:lastmodified":1559594380,
     "wof:name":"Tusveld",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404473819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
@@ -53,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.6916699999999985,
+    6.69167,
     52.3225,
-    6.6916699999999985,
+    6.69167,
     52.3225
 ],
   "geometry": {"coordinates":[6.69167,52.3225],"type":"Point"}

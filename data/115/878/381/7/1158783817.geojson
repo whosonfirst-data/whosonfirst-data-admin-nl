@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000696,
-    "geom:area_square_m":5306815.974963,
+    "geom:area_square_m":5306815.974962,
     "geom:bbox":"5.96577546741,51.9123339588,6.00606752679,51.9430961083",
     "geom:latitude":51.93002,
     "geom:longitude":5.986119,
@@ -55,10 +55,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473891,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,13 +71,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473891,
             "locality_id":1158783817,
             "region_id":85687043
         }
     ],
     "wof:id":1158783817,
-    "wof:lastmodified":1553816738,
+    "wof:lastmodified":1559594621,
     "wof:name":"Loo",
     "wof:parent_id":404473891,
     "wof:placetype":"locality",

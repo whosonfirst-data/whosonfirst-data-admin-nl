@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001062,
-    "geom:area_square_m":8217550.187411,
+    "geom:area_square_m":8217550.18741,
     "geom:bbox":"3.42536987798,51.2414925173,3.52803948261,51.2598177312",
     "geom:latitude":51.24925,
     "geom:longitude":3.4713,
@@ -46,10 +46,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687037,
         102191581,
         404474629,
         85633337,
-        85687037
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +62,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474629,
             "locality_id":1158786547,
             "region_id":85687037
         }
     ],
     "wof:id":1158786547,
-    "wof:lastmodified":1514492185,
+    "wof:lastmodified":1559595154,
     "wof:name":"Eede",
     "wof:parent_id":404474629,
     "wof:placetype":"locality",

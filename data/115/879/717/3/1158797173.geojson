@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00625,
-    "geom:area_square_m":48149045.129123,
+    "geom:area_square_m":48149045.129122,
     "geom:bbox":"5.72171770623,51.4252337003,5.87536422988,51.504144425",
     "geom:latitude":51.465641,
     "geom:longitude":5.813189,
@@ -44,16 +44,18 @@
         102191581,
         404474365,
         85633337,
-        101808215
+        101808215,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"bb83b110b18851646b15bd9fa4fa0a0d",
+    "wof:geomhash":"9de4b4a6caf0a0d49a96358f4c298367",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474365,
             "locality_id":101808215,
             "neighbourhood_id":1158797173,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158797173,
-    "wof:lastmodified":1513432574,
+    "wof:lastmodified":1559595684,
     "wof:name":"Verspreide huizen Deurne",
     "wof:parent_id":101808215,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.721717706228938,
+    5.72171770622894,
     51.42523370033154,
     5.87536422988418,
     51.50414442498479

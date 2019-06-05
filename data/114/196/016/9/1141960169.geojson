@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000454,
-    "geom:area_square_m":3366939.335524,
+    "geom:area_square_m":3366939.335523,
     "geom:bbox":"6.11573616074,53.134303248,6.17675035969,53.1595045133",
     "geom:latitude":53.148204,
     "geom:longitude":6.144667,
@@ -43,10 +43,11 @@
     "reversegeo:longitude":6.145093,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473791,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473791,
             "locality_id":1141960169,
             "region_id":85687055
         }
     ],
     "wof:id":1141960169,
-    "wof:lastmodified":1514492413,
+    "wof:lastmodified":1559594896,
     "wof:name":"Houtigehage",
     "wof:parent_id":404473791,
     "wof:placetype":"locality",

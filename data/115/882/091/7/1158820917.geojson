@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000754,
-    "geom:area_square_m":5678279.87923,
+    "geom:area_square_m":5678279.879229,
     "geom:bbox":"4.97649422189,52.4649828363,5.02461118306,52.4947327665",
     "geom:latitude":52.47922,
     "geom:longitude":4.999782,
@@ -44,16 +44,18 @@
         102191581,
         404474433,
         85633337,
-        101807369
+        101807369,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"aca894fc31832a2727dcb65c071b657d",
+    "wof:geomhash":"9139960adc78c5219844730347cbba16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474433,
             "locality_id":101807369,
             "neighbourhood_id":1158820917,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158820917,
-    "wof:lastmodified":1513464268,
+    "wof:lastmodified":1559596143,
     "wof:name":"De Purmer (gedeeltelijk)",
     "wof:parent_id":101807369,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.976494221889524,
-    52.464982836270266,
+    4.97649422188952,
+    52.46498283627027,
     5.02461118305803,
     52.49473276653866
 ],

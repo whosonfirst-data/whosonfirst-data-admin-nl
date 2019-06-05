@@ -19,7 +19,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000099,
-    "geom:area_square_m":751235.106907,
+    "geom:area_square_m":751235.106906,
     "geom:bbox":"4.90831606415,52.3543202405,4.92668663319,52.3637583133",
     "geom:latitude":52.358989,
     "geom:longitude":4.917673,
@@ -60,13 +60,14 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85687053,
         102191581,
-        1158844335,
+        1108802305,
         85633337,
         101751893,
+        136253051,
         1158844281,
-        85687053,
-        1108802305
+        1158844335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,8 +81,9 @@
             "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751893,
-            "macrohood_id":1158844335,
+            "macrohood_id":1108802305,
             "neighbourhood_id":1108945555,
             "region_id":85687053
         },
@@ -89,14 +91,15 @@
             "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751893,
-            "macrohood_id":1108802305,
+            "macrohood_id":1158844335,
             "neighbourhood_id":1108945555,
             "region_id":85687053
         }
     ],
     "wof:id":1108945555,
-    "wof:lastmodified":1514492757,
+    "wof:lastmodified":1559595703,
     "wof:name":"Oosterparkbuurt",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

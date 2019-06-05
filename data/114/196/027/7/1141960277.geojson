@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000634,
-    "geom:area_square_m":4724139.525543,
+    "geom:area_square_m":4724139.525542,
     "geom:bbox":"5.68913444484,52.9433503662,5.72946460173,52.967119811",
     "geom:latitude":52.954247,
     "geom:longitude":5.70594,
@@ -39,10 +39,11 @@
     "reversegeo:longitude":5.70354,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960737,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +55,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960737,
             "locality_id":1141960277,
             "region_id":85687055
         }
     ],
     "wof:id":1141960277,
-    "wof:lastmodified":1514492112,
+    "wof:lastmodified":1559594616,
     "wof:name":"Dijken",
     "wof:parent_id":1141960737,
     "wof:placetype":"locality",

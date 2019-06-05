@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
-    "geom:area_square_m":304745.542594,
+    "geom:area_square_m":304745.542593,
     "geom:bbox":"4.30765055495,51.9007975062,4.32311823051,51.9052086447",
     "geom:latitude":51.902548,
     "geom:longitude":4.313538,
@@ -82,8 +82,9 @@
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101751851,
         85633337,
+        101751851,
+        136253051,
         85687041
     ],
     "wof:breaches":[],
@@ -99,6 +100,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751851,
             "neighbourhood_id":85798569,
             "region_id":85687041
@@ -108,7 +110,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269465,
+    "wof:lastmodified":1559596104,
     "wof:name":"De vergulde Hand",
     "wof:parent_id":101751851,
     "wof:placetype":"neighbourhood",

@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687035,
+        102191581,
+        404474563,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"a7f4c0d07fa0fc5c6f02c7b877210ca0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209513109
+            "empire_id":136253051,
+            "localadmin_id":404474563,
+            "locality_id":1209513109,
+            "region_id":85687035
         }
     ],
     "wof:id":1209513109,
-    "wof:lastmodified":1536284819,
+    "wof:lastmodified":1559594370,
     "wof:name":"Wolfsbosch",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

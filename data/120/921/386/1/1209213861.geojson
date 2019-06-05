@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687033,
+        102191581,
+        404474501,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"598b26d11edfb97a03efb546dab8d1be",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209213861
+            "empire_id":136253051,
+            "localadmin_id":404474501,
+            "locality_id":1209213861,
+            "region_id":85687033
         }
     ],
     "wof:id":1209213861,
-    "wof:lastmodified":1536294199,
+    "wof:lastmodified":1559594113,
     "wof:name":"Waterval",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474501,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

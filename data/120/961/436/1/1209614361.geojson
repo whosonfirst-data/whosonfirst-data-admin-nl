@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687033,
+        102191581,
+        404474509,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +43,18 @@
     "wof:geomhash":"2bcf13ed58d3a7ccfee32b9a8f19e577",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209614361
+            "empire_id":136253051,
+            "localadmin_id":404474509,
+            "locality_id":1209614361,
+            "region_id":85687033
         }
     ],
     "wof:id":1209614361,
-    "wof:lastmodified":1537570058,
+    "wof:lastmodified":1559594376,
     "wof:name":"Helle",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474509,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

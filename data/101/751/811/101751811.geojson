@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010832,
-    "geom:area_square_m":83232891.7008,
+    "geom:area_square_m":83232891.700801,
     "geom:bbox":"4.68600622734,51.4855482067,4.84573003882,51.6431980373",
     "geom:latitude":51.580364,
     "geom:longitude":4.755549,
@@ -268,10 +268,11 @@
     "wd:longitude":4.783333,
     "wd:wordcount":2623,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474363,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -290,6 +291,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474363,
             "locality_id":101751811,
             "region_id":85687035
@@ -299,7 +301,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527714355,
+    "wof:lastmodified":1559594039,
     "wof:name":"Breda",
     "wof:parent_id":404474363,
     "wof:placetype":"locality",

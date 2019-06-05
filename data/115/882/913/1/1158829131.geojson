@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00006,
-    "geom:area_square_m":454928.533566,
+    "geom:area_square_m":454928.533565,
     "geom:bbox":"4.82148468921,52.0139687946,4.84860273269,52.0181817083",
     "geom:latitude":52.01577,
     "geom:longitude":4.834563,
@@ -44,16 +44,18 @@
         102191581,
         1158824749,
         85633337,
-        101808079
+        101808079,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"424f8de21efd2ec3c3b18698c2cf9794",
+    "wof:geomhash":"db624a58fe3a1453fd11b24e84f530d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158824749,
             "locality_id":101808079,
             "neighbourhood_id":1158829131,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158829131,
-    "wof:lastmodified":1513588312,
+    "wof:lastmodified":1559595805,
     "wof:name":"Rozendaal",
     "wof:parent_id":101808079,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.821484689212095,
+    4.8214846892121,
     52.01396879461463,
     4.84860273269283,
     52.0181817083286

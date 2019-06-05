@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000168,
-    "geom:area_square_m":1274513.442058,
+    "geom:area_square_m":1274513.442057,
     "geom:bbox":"6.09126390964,52.2261896934,6.11965539181,52.2358519414",
     "geom:latitude":52.230233,
     "geom:longitude":6.106534,
@@ -50,16 +50,18 @@
         102191581,
         404473945,
         85633337,
-        101807099
+        101807099,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"84d09c010b1bc7019135f518d4d53823",
+    "wof:geomhash":"b36daa8722430a6d8cd91d4d205d078b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473945,
             "locality_id":101807099,
             "neighbourhood_id":1141964157,
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":1141964157,
-    "wof:lastmodified":1513368797,
+    "wof:lastmodified":1559596304,
     "wof:name":"Zuid",
     "wof:parent_id":101807099,
     "wof:placetype":"neighbourhood",
@@ -77,8 +79,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.091263909638064,
-    52.226189693426356,
+    6.09126390963806,
+    52.22618969342636,
     6.11965539181051,
     52.23585194143289
 ],

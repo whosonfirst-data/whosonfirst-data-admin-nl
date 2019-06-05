@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002253,
-    "geom:area_square_m":16624812.771165,
+    "geom:area_square_m":16624812.771164,
     "geom:bbox":"5.84806110006,53.3307307264,5.94677677572,53.3956510507",
     "geom:latitude":53.367878,
     "geom:longitude":5.898393,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.882916,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473755,
         85633337,
         101806171,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473755,
             "locality_id":101806171,
             "neighbourhood_id":1126131009,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126131009,
-    "wof:lastmodified":1507246091,
+    "wof:lastmodified":1559595832,
     "wof:name":"Verspreide huizen Holwerd",
     "wof:parent_id":101806171,
     "wof:placetype":"neighbourhood",

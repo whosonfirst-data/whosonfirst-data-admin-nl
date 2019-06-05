@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002902,
-    "geom:area_square_m":21527349.212022,
+    "geom:area_square_m":21527349.212018,
     "geom:bbox":"5.85344502777,53.1036759809,5.94965660726,53.170364953",
     "geom:latitude":53.138008,
     "geom:longitude":5.903901,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.895157,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473775,
         85633337,
         1141960155,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473775,
             "locality_id":1141960155,
             "neighbourhood_id":1126131559,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126131559,
-    "wof:lastmodified":1507246096,
+    "wof:lastmodified":1559595842,
     "wof:name":"Buitengebied Warten",
     "wof:parent_id":1141960155,
     "wof:placetype":"neighbourhood",

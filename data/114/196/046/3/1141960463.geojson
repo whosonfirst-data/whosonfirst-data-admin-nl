@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000533,
-    "geom:area_square_m":3955968.629628,
+    "geom:area_square_m":3955968.629629,
     "geom:bbox":"5.67307495343,53.0984023304,5.71989187671,53.1199543274",
     "geom:latitude":53.109342,
     "geom:longitude":5.696466,
@@ -49,10 +49,11 @@
     "reversegeo:longitude":5.696109,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473817,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473817,
             "locality_id":1141960463,
             "region_id":85687055
         }
     ],
     "wof:id":1141960463,
-    "wof:lastmodified":1514493228,
+    "wof:lastmodified":1559594981,
     "wof:name":"Wiuwert",
     "wof:parent_id":404473817,
     "wof:placetype":"locality",

@@ -29,7 +29,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633337
+        85687059,
+        102191581,
+        404474691,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +43,18 @@
     "wof:geomhash":"b214e34db459cd081ab4914c2bab41e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209439115
+            "empire_id":136253051,
+            "localadmin_id":404474691,
+            "locality_id":1209439115,
+            "region_id":85687059
         }
     ],
     "wof:id":1209439115,
-    "wof:lastmodified":1536287011,
+    "wof:lastmodified":1559594365,
     "wof:name":"Westeind",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474691,
     "wof:placetype":"locality",
     "wof:population":165,
     "wof:population_rank":1,

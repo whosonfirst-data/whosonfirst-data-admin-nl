@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
-    "geom:area_square_m":942030.928885,
+    "geom:area_square_m":942030.928886,
     "geom:bbox":"4.54990125944,51.9067284874,4.57949096343,51.917613106",
     "geom:latitude":51.912086,
     "geom:longitude":4.56394,
@@ -31,26 +31,28 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101752769,
         85633337,
-        85687041
+        101752769,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"8184a7c457e57c42496c2950c81a1bb0",
+    "wof:geomhash":"8dfff868e8e68353bfc327566057fdfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752769,
             "macrohood_id":1158831021,
             "region_id":85687041
         }
     ],
     "wof:id":1158831021,
-    "wof:lastmodified":1513587456,
+    "wof:lastmodified":1559595262,
     "wof:name":"Capelle-West",
     "wof:parent_id":101752769,
     "wof:placetype":"macrohood",
@@ -62,7 +64,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.549901259436822,
+    4.54990125943682,
     51.9067284873566,
     4.57949096343439,
     51.9176131060125

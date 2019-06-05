@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001448,
-    "geom:area_square_m":10857439.847208,
+    "geom:area_square_m":10857439.84721,
     "geom:bbox":"6.26550119639,52.6536855937,6.36377382619,52.6841979469",
     "geom:latitude":52.670378,
     "geom:longitude":6.314851,
@@ -79,10 +79,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":84,
     "wof:belongsto":[
+        85687051,
         102191581,
         404474601,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,13 +100,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474601,
             "locality_id":101808785,
             "region_id":85687051
         }
     ],
     "wof:id":101808785,
-    "wof:lastmodified":1527715335,
+    "wof:lastmodified":1559594263,
     "wof:name":"De Wijk",
     "wof:parent_id":404474601,
     "wof:placetype":"locality",

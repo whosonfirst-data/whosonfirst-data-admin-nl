@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
-    "geom:area_square_m":655173.327194,
+    "geom:area_square_m":655173.327193,
     "geom:bbox":"5.43754941888,52.0766078198,5.4525657672,52.08733171",
     "geom:latitude":52.081158,
     "geom:longitude":5.444015,
@@ -41,25 +41,27 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        101808437,
         85633337,
+        101808437,
+        136253051,
         85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"977e3440089061b643047713584dde57",
+    "wof:geomhash":"415edf27340d7d914226a7e1b4c30a2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101808437,
             "neighbourhood_id":1158788463,
             "region_id":85687039
         }
     ],
     "wof:id":1158788463,
-    "wof:lastmodified":1513622011,
+    "wof:lastmodified":1559595983,
     "wof:name":"Woudenberg-Oost",
     "wof:parent_id":101808437,
     "wof:placetype":"neighbourhood",
@@ -69,8 +71,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.437549418878909,
-    52.076607819769855,
+    5.43754941887891,
+    52.07660781976985,
     5.45256576720011,
     52.08733171000384
 ],

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002903,
-    "geom:area_square_m":21846503.148119,
+    "geom:area_square_m":21846503.14812,
     "geom:bbox":"5.86258841246,52.4740575858,5.97180862029,52.5312546112",
     "geom:latitude":52.506075,
     "geom:longitude":5.929383,
@@ -46,10 +46,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473839,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +62,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473839,
             "locality_id":1158805649,
             "region_id":85687045
         }
     ],
     "wof:id":1158805649,
-    "wof:lastmodified":1514492457,
+    "wof:lastmodified":1559594289,
     "wof:name":"Kamperveen",
     "wof:parent_id":404473839,
     "wof:placetype":"locality",

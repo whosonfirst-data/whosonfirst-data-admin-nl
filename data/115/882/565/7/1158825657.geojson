@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000011,
-    "geom:area_square_m":85920.485255,
+    "geom:area_square_m":85920.485254,
     "geom:bbox":"4.65783401977,51.7950414701,4.66736289823,51.7983731998",
     "geom:latitude":51.796656,
     "geom:longitude":4.662743,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         1158829427,
         85633337,
         101751841,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"fa70bb80cb265bea4587c1e40ace20ce",
+    "wof:geomhash":"f3a3a94e9fe1d831d289e53e514b924a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751841,
             "macrohood_id":1158829427,
             "neighbourhood_id":1158825657,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158825657,
-    "wof:lastmodified":1513588009,
+    "wof:lastmodified":1559595597,
     "wof:name":"Rembrandtlaan en omgeving",
     "wof:parent_id":1158829427,
     "wof:placetype":"neighbourhood",
@@ -71,9 +73,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.657834019771652,
-    51.795041470134485,
-    4.667362898234823,
+    4.65783401977165,
+    51.79504147013449,
+    4.66736289823482,
     51.79837319977957
 ],
   "geometry": {"coordinates":[[[[4.66663043953421,51.79837319977957],[4.66736289823482,51.79723067586345],[4.65918343438465,51.79504147013449],[4.65883434327648,51.79514425568016],[4.65783401977165,51.79596050738296],[4.66663043953421,51.79837319977957]]]],"type":"MultiPolygon"}

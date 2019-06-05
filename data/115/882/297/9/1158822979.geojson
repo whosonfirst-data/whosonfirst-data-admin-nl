@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000651,
-    "geom:area_square_m":4869618.61106,
+    "geom:area_square_m":4869618.611061,
     "geom:bbox":"4.80684253148,52.7573502381,4.86335434873,52.7838479882",
     "geom:latitude":52.76856,
     "geom:longitude":4.832814,
@@ -40,10 +40,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687053,
         102191581,
         1158818287,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158818287,
             "locality_id":1158822979,
             "region_id":85687053
         }
     ],
     "wof:id":1158822979,
-    "wof:lastmodified":1514492323,
+    "wof:lastmodified":1559595219,
     "wof:name":"Haringhuizen",
     "wof:parent_id":1158818287,
     "wof:placetype":"locality",

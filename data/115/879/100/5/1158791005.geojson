@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000096,
-    "geom:area_square_m":719404.298345,
+    "geom:area_square_m":719404.298344,
     "geom:bbox":"6.48977937196,52.7206492589,6.50358584327,52.7286176797",
     "geom:latitude":52.724581,
     "geom:longitude":6.496461,
@@ -44,16 +44,18 @@
         102191581,
         404473811,
         85633337,
-        101837877
+        101837877,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"0cf5849ba4b8c9be13355de330cc293b",
+    "wof:geomhash":"acb0649570f0db5e0d96834f29d3735e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473811,
             "locality_id":101837877,
             "neighbourhood_id":1158791005,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158791005,
-    "wof:lastmodified":1513292312,
+    "wof:lastmodified":1559595448,
     "wof:name":"Bentinckspark",
     "wof:parent_id":101837877,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.489779371963488,
+    6.48977937196349,
     52.72064925894665,
     6.5035858432685,
     52.7286176796586

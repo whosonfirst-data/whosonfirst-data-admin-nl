@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000711,
-    "geom:area_square_m":5350919.667178,
+    "geom:area_square_m":5350919.667179,
     "geom:bbox":"5.85110119059,52.4914011207,5.90158112451,52.5220250202",
     "geom:latitude":52.507459,
     "geom:longitude":5.875436,
@@ -37,10 +37,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473927,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +53,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473927,
             "locality_id":1158783589,
             "region_id":85687043
         }
     ],
     "wof:id":1158783589,
-    "wof:lastmodified":1514492713,
+    "wof:lastmodified":1559594068,
     "wof:name":"Noordeinde",
     "wof:parent_id":404473927,
     "wof:placetype":"locality",

@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001626,
-    "geom:area_square_m":12144266.658956,
+    "geom:area_square_m":12144266.658957,
     "geom:bbox":"6.75229738837,52.8249111111,6.83600842392,52.8726189534",
     "geom:latitude":52.848504,
     "geom:longitude":6.795136,
@@ -51,10 +51,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474595,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +67,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474595,
             "locality_id":1158792115,
             "region_id":85687051
         }
     ],
     "wof:id":1158792115,
-    "wof:lastmodified":1514492731,
+    "wof:lastmodified":1559595126,
     "wof:name":"Odoornerveen",
     "wof:parent_id":404474595,
     "wof:placetype":"locality",

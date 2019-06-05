@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002089,
-    "geom:area_square_m":15656102.491049,
+    "geom:area_square_m":15656102.491053,
     "geom:bbox":"7.00788864149,52.6697695823,7.06415089082,52.73347985",
     "geom:latitude":52.700612,
     "geom:longitude":7.040106,
@@ -71,10 +71,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
+        85687051,
         102191581,
         404473809,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,13 +92,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473809,
             "locality_id":101837887,
             "region_id":85687051
         }
     ],
     "wof:id":101837887,
-    "wof:lastmodified":1527715301,
+    "wof:lastmodified":1559595082,
     "wof:name":"Zwartemeer",
     "wof:parent_id":404473809,
     "wof:placetype":"locality",

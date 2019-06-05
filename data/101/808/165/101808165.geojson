@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001482,
-    "geom:area_square_m":11336627.257631,
+    "geom:area_square_m":11336627.25763,
     "geom:bbox":"5.55276575267,51.731070448,5.60527009229,51.7990793842",
     "geom:latitude":51.768635,
     "geom:longitude":5.575027,
@@ -75,10 +75,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474415,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,13 +97,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474415,
             "locality_id":101808165,
             "region_id":85687035
         }
     ],
     "wof:id":101808165,
-    "wof:lastmodified":1514491945,
+    "wof:lastmodified":1559594799,
     "wof:name":"Berghem",
     "wof:parent_id":404474415,
     "wof:placetype":"locality",

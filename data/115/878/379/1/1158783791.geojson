@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00101,
-    "geom:area_square_m":7710329.662719,
+    "geom:area_square_m":7710329.662721,
     "geom:bbox":"6.38448126989,51.8593829278,6.45108907869,51.8916910732",
     "geom:latitude":51.876216,
     "geom:longitude":6.417173,
@@ -31,26 +31,28 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         404474543,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"6be1236b95771bdb15c5fb7c4d6ac7e5",
+    "wof:geomhash":"81fb475f9e398c89d79cc62374489f30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474543,
             "locality_id":1158783791,
             "region_id":85687043
         }
     ],
     "wof:id":1158783791,
-    "wof:lastmodified":1513368242,
+    "wof:lastmodified":1559594075,
     "wof:name":"Voorst",
     "wof:parent_id":404474543,
     "wof:placetype":"locality",
@@ -60,7 +62,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.384481269888349,
+    6.38448126988835,
     51.85938292776846,
     6.45108907868716,
     51.89169107320661

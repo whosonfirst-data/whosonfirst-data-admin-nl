@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
-    "geom:area_square_m":428740.444754,
+    "geom:area_square_m":428740.444753,
     "geom:bbox":"5.26056550129,52.2457907947,5.27054934655,52.2548242705",
     "geom:latitude":52.250278,
     "geom:longitude":5.26563,
@@ -41,25 +41,27 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        101837669,
         85633337,
+        101837669,
+        136253051,
         85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"4bee833ef9b5a9025d27183494919e6d",
+    "wof:geomhash":"35134de6de1ba7a08ddcc2dccd852801",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101837669,
             "neighbourhood_id":1158787957,
             "region_id":85687039
         }
     ],
     "wof:id":1158787957,
-    "wof:lastmodified":1513621964,
+    "wof:lastmodified":1559596294,
     "wof:name":"Eemnes",
     "wof:parent_id":101837669,
     "wof:placetype":"neighbourhood",
@@ -69,8 +71,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.260565501292396,
-    52.245790794693555,
+    5.2605655012924,
+    52.24579079469355,
     5.27054934654978,
     52.25482427048562
 ],

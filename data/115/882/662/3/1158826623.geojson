@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000234,
-    "geom:area_square_m":1773456.397279,
+    "geom:area_square_m":1773456.397278,
     "geom:bbox":"4.72073732729,52.1561112068,4.74152575588,52.1862160689",
     "geom:latitude":52.171377,
     "geom:longitude":4.730638,
@@ -44,16 +44,18 @@
         102191581,
         404474217,
         85633337,
-        101807015
+        101807015,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"2c9b0ba9a78de695059fbcbabac024af",
+    "wof:geomhash":"0fc1594c72f29345628e63b89fa32951",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474217,
             "locality_id":101807015,
             "neighbourhood_id":1158826623,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158826623,
-    "wof:lastmodified":1513588078,
+    "wof:lastmodified":1559596557,
     "wof:name":"Korteraar",
     "wof:parent_id":101807015,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.720737327291019,
-    52.156111206799864,
+    4.72073732729102,
+    52.15611120679986,
     4.74152575587638,
     52.18621606888594
 ],

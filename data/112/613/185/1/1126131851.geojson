@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004748,
-    "geom:area_square_m":35121875.36985,
+    "geom:area_square_m":35121875.369855,
     "geom:bbox":"4.84904065213,53.2073228608,5.15964487902,53.3093751871",
     "geom:latitude":53.260385,
     "geom:longitude":4.973792,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":4.910727,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473799,
         85633337,
         101807427,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473799,
             "locality_id":101807427,
             "neighbourhood_id":1126131851,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126131851,
-    "wof:lastmodified":1507246100,
+    "wof:lastmodified":1559595843,
     "wof:name":"Verspreide huizen Vlieland",
     "wof:parent_id":101807427,
     "wof:placetype":"neighbourhood",

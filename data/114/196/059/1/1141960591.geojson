@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000609,
-    "geom:area_square_m":4521104.586377,
+    "geom:area_square_m":4521104.586376,
     "geom:bbox":"6.18857349154,53.0899916006,6.22578077369,53.1228997632",
     "geom:latitude":53.107094,
     "geom:longitude":6.204989,
@@ -37,10 +37,11 @@
     "reversegeo:longitude":6.204989,
     "src:geom":"mz",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473787,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +53,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473787,
             "locality_id":1141960591,
             "region_id":85687055
         }
     ],
     "wof:id":1141960591,
-    "wof:lastmodified":1514492253,
+    "wof:lastmodified":1559594978,
     "wof:name":"Frieschepalen",
     "wof:parent_id":404473787,
     "wof:placetype":"locality",

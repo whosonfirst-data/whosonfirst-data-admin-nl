@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000359,
-    "geom:area_square_m":2666816.137337,
+    "geom:area_square_m":2666816.137336,
     "geom:bbox":"6.53151194361,53.0173184829,6.56409921241,53.0390892617",
     "geom:latitude":53.027666,
     "geom:longitude":6.54599,
@@ -46,10 +46,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404473805,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +62,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473805,
             "locality_id":1158791973,
             "region_id":85687051
         }
     ],
     "wof:id":1158791973,
-    "wof:lastmodified":1514492980,
+    "wof:lastmodified":1559595128,
     "wof:name":"Ter Aard",
     "wof:parent_id":404473805,
     "wof:placetype":"locality",

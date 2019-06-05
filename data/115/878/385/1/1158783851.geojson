@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002092,
-    "geom:area_square_m":15853207.935791,
+    "geom:area_square_m":15853207.93579,
     "geom:bbox":"5.72743534402,52.1937306534,5.8375518916,52.2224017113",
     "geom:latitude":52.208662,
     "geom:longitude":5.776904,
@@ -46,10 +46,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473867,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +62,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473867,
             "locality_id":1158783851,
             "region_id":85687043
         }
     ],
     "wof:id":1158783851,
-    "wof:lastmodified":1514492658,
+    "wof:lastmodified":1559595014,
     "wof:name":"Nieuw Milligen",
     "wof:parent_id":404473867,
     "wof:placetype":"locality",

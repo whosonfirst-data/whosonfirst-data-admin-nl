@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000319,
-    "geom:area_square_m":2427672.439464,
+    "geom:area_square_m":2427672.439463,
     "geom:bbox":"5.56738576465,52.0335236171,5.60157252513,52.0483743345",
     "geom:latitude":52.041884,
     "geom:longitude":5.585283,
@@ -43,10 +43,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473893,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473893,
             "locality_id":1158783391,
             "region_id":85687043
         }
     ],
     "wof:id":1158783391,
-    "wof:lastmodified":1514492065,
+    "wof:lastmodified":1559594453,
     "wof:name":"De Klomp",
     "wof:parent_id":404473893,
     "wof:placetype":"locality",

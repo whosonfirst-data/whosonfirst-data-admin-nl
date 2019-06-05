@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         1158831089,
         85633337,
         101751841,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"f7996ed74bb87545cc4d527949d60553",
+    "wof:geomhash":"964515dace0c0a20f4a98ae9dd8babb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751841,
             "macrohood_id":1158831089,
             "neighbourhood_id":1158825669,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158825669,
-    "wof:lastmodified":1513588009,
+    "wof:lastmodified":1559596373,
     "wof:name":"Pr. Bernhardstraat en omgeving",
     "wof:parent_id":1158831089,
     "wof:placetype":"neighbourhood",
@@ -71,9 +73,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.664059813193169,
+    4.66405981319317,
     51.79917887486785,
-    4.671202010635498,
+    4.6712020106355,
     51.80453060148919
 ],
   "geometry": {"coordinates":[[[[4.66405981319317,51.80378256336519],[4.66847205919595,51.80453060148919],[4.6712020106355,51.80141588552003],[4.66820885098836,51.79977817116591],[4.66726698240372,51.7994652247259],[4.66612721651238,51.79917887486785],[4.66520591676323,51.80117542223669],[4.66405981319317,51.80378256336519]]]],"type":"MultiPolygon"}

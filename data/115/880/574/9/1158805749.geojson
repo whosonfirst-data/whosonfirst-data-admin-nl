@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001736,
-    "geom:area_square_m":13142001.419514,
+    "geom:area_square_m":13142001.419511,
     "geom:bbox":"6.61679218297,52.2144699347,6.69507625685,52.2574409585",
     "geom:latitude":52.237021,
     "geom:longitude":6.655268,
@@ -37,26 +37,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404474653,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"fdf5fa9fef7416f766db61ad53f044a1",
+    "wof:geomhash":"5ba96da0f579ebb4c44bc8a9fdb3edb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474653,
             "locality_id":1158805749,
             "region_id":85687045
         }
     ],
     "wof:id":1158805749,
-    "wof:lastmodified":1513523987,
+    "wof:lastmodified":1559595188,
     "wof:name":"Wiene",
     "wof:parent_id":404474653,
     "wof:placetype":"locality",
@@ -69,7 +71,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.616792182971769,
+    6.61679218297177,
     52.21446993471344,
     6.69507625684811,
     52.25744095853678

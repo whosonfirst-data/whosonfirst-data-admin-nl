@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000093,
-    "geom:area_square_m":714636.923077,
+    "geom:area_square_m":714636.923078,
     "geom:bbox":"5.5087658805,51.7372755083,5.53359789495,51.7449989372",
     "geom:latitude":51.741491,
     "geom:longitude":5.522152,
@@ -45,16 +45,18 @@
         1158801735,
         404474415,
         85633337,
-        101751807
+        101751807,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"a90e74fd20257c8798e6c24f9e5ca15f",
+    "wof:geomhash":"a34f7508a05f459975fdba1b28e7d3bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474415,
             "locality_id":101751807,
             "macrohood_id":1158801735,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1158798679,
-    "wof:lastmodified":1513432691,
+    "wof:lastmodified":1559596740,
     "wof:name":"De Tillaard",
     "wof:parent_id":1158801735,
     "wof:placetype":"neighbourhood",
@@ -73,8 +75,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.508765880501379,
-    51.737275508325894,
+    5.50876588050138,
+    51.73727550832589,
     5.53359789494553,
     51.7449989371918
 ],

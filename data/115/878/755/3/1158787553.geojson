@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000025,
-    "geom:area_square_m":189009.72214,
+    "geom:area_square_m":189009.722141,
     "geom:bbox":"5.37051603573,52.1597863892,5.37883091518,52.1658625981",
     "geom:latitude":52.162886,
     "geom:longitude":5.374982,
@@ -45,16 +45,18 @@
         1158790267,
         404473971,
         85633337,
-        101751821
+        101751821,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"9f1e010e0cf35d39b22a766f1538cdc5",
+    "wof:geomhash":"50c2930179c2125e696c6effb629827e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473971,
             "locality_id":101751821,
             "macrohood_id":1158790267,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1158787553,
-    "wof:lastmodified":1513621937,
+    "wof:lastmodified":1559596266,
     "wof:name":"Geldersestraat",
     "wof:parent_id":1158790267,
     "wof:placetype":"neighbourhood",
@@ -73,7 +75,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.370516035727998,
+    5.370516035728,
     52.15978638924097,
     5.37883091517514,
     52.16586259810767

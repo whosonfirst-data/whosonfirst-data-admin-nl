@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00169,
-    "geom:area_square_m":12520072.14855,
+    "geom:area_square_m":12520072.148549,
     "geom:bbox":"5.85095585646,53.1814168789,5.93735162274,53.2179454341",
     "geom:latitude":53.199323,
     "geom:longitude":5.89449,
@@ -82,10 +82,11 @@
     "src:population":"geonames",
     "wd:wordcount":298,
     "wof:belongsto":[
+        85687055,
         102191581,
-        404474343,
+        404473775,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +105,8 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474343,
+            "empire_id":136253051,
+            "localadmin_id":404473775,
             "locality_id":101754885,
             "region_id":85687055
         }
@@ -113,9 +115,9 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527641865,
+    "wof:lastmodified":1559594066,
     "wof:name":"Tytsjerk",
-    "wof:parent_id":404474343,
+    "wof:parent_id":404473775,
     "wof:placetype":"locality",
     "wof:population":1545,
     "wof:population_rank":3,

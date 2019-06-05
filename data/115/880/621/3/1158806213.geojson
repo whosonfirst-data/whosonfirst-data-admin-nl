@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
-    "geom:area_square_m":315562.764642,
+    "geom:area_square_m":315562.764641,
     "geom:bbox":"5.96324754822,50.8938295077,5.97320906829,50.9026772572",
     "geom:latitude":50.899231,
     "geom:longitude":5.968513,
@@ -49,12 +49,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687033,
         102191581,
         1158818165,
         404474485,
         85633337,
         101839245,
-        85687033
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,6 +67,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474485,
             "locality_id":101839245,
             "macrohood_id":1158818165,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1158806213,
-    "wof:lastmodified":1514492629,
+    "wof:lastmodified":1559596417,
     "wof:name":"Musschemig",
     "wof:parent_id":1158818165,
     "wof:placetype":"neighbourhood",

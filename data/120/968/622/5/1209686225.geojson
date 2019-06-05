@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687045,
+        102191581,
+        404473835,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"6547305a464033d3903861609d249ffe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209686225
+            "empire_id":136253051,
+            "localadmin_id":404473835,
+            "locality_id":1209686225,
+            "region_id":85687045
         }
     ],
     "wof:id":1209686225,
-    "wof:lastmodified":1536279401,
+    "wof:lastmodified":1559594380,
     "wof:name":"Helhuizen",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404473835,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000171,
-    "geom:area_square_m":1267307.989361,
+    "geom:area_square_m":1267307.98936,
     "geom:bbox":"5.63454458394,53.2363730267,5.66431907125,53.2483786705",
     "geom:latitude":53.242369,
     "geom:longitude":5.648735,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.648518,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473783,
         85633337,
         101806095,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473783,
             "locality_id":101806095,
             "neighbourhood_id":1126132537,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126132537,
-    "wof:lastmodified":1507246106,
+    "wof:lastmodified":1559596863,
     "wof:name":"Berlikum",
     "wof:parent_id":101806095,
     "wof:placetype":"neighbourhood",

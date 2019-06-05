@@ -10,7 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033783,
-    "geom:area_square_m":254431742.895553,
+    "geom:area_square_m":254431742.895549,
     "geom:bbox":"5.25842419677,52.3843774099,5.60587056675,52.6927409972",
     "geom:latitude":52.477774,
     "geom:longitude":5.47217,
@@ -340,6 +340,7 @@
     "wof:belongsto":[
         102191581,
         85633337,
+        136253051,
         85687049
     ],
     "wof:breaches":[],
@@ -356,12 +357,13 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751873,
             "region_id":85687049
         }
     ],
     "wof:id":101751873,
-    "wof:lastmodified":1527714355,
+    "wof:lastmodified":1559594050,
     "wof:name":"Lelystad",
     "wof:parent_id":85687049,
     "wof:placetype":"locality",

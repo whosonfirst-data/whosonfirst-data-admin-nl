@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687033,
+        102191581,
+        404474507,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"4580d62117758850f2e880b2fbdb4fd0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209319265
+            "empire_id":136253051,
+            "localadmin_id":404474507,
+            "locality_id":1209319265,
+            "region_id":85687033
         }
     ],
     "wof:id":1209319265,
-    "wof:lastmodified":1536290754,
+    "wof:lastmodified":1559594361,
     "wof:name":"Boeket",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474507,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001128,
-    "geom:area_square_m":8417671.62675,
+    "geom:area_square_m":8417671.626749,
     "geom:bbox":"5.69426704042,52.868934359,5.75195923373,52.9002942548",
     "geom:latitude":52.883978,
     "geom:longitude":5.720841,
@@ -45,10 +45,11 @@
     "reversegeo:longitude":5.72084,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960737,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +61,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960737,
             "locality_id":1141960289,
             "region_id":85687055
         }
     ],
     "wof:id":1141960289,
-    "wof:lastmodified":1514492250,
+    "wof:lastmodified":1559594612,
     "wof:name":"Follega",
     "wof:parent_id":1141960737,
     "wof:placetype":"locality",

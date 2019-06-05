@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000121,
-    "geom:area_square_m":918637.369032,
+    "geom:area_square_m":918637.369031,
     "geom:bbox":"4.3407464435,52.0913739258,4.36330901205,52.1057613133",
     "geom:latitude":52.098575,
     "geom:longitude":4.352057,
@@ -72,12 +72,13 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
         1108808111,
         85633337,
         101752763,
-        1108808045,
-        85687041
+        136253051,
+        1108808045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +93,7 @@
             "borough_id":1108808045,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752763,
             "macrohood_id":1108808111,
             "neighbourhood_id":85859637,
@@ -102,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527270337,
+    "wof:lastmodified":1559595890,
     "wof:name":"Marlot",
     "wof:parent_id":1108808111,
     "wof:placetype":"neighbourhood",

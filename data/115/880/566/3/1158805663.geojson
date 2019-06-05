@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001006,
-    "geom:area_square_m":7577671.758445,
+    "geom:area_square_m":7577671.758447,
     "geom:bbox":"6.36952841453,52.476082074,6.4238715025,52.5075946664",
     "geom:latitude":52.491248,
     "geom:longitude":6.396102,
@@ -49,10 +49,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473847,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473847,
             "locality_id":1158805663,
             "region_id":85687045
         }
     ],
     "wof:id":1158805663,
-    "wof:lastmodified":1514492271,
+    "wof:lastmodified":1559595167,
     "wof:name":"Giethmen",
     "wof:parent_id":404473847,
     "wof:placetype":"locality",

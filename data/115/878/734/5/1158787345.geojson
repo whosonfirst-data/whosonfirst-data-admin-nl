@@ -10,7 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018369,
-    "geom:area_square_m":138688221.812962,
+    "geom:area_square_m":138688221.812959,
     "geom:bbox":"5.12119025621,52.3031008679,5.37921105154,52.4354254789",
     "geom:latitude":52.367207,
     "geom:longitude":5.246666,
@@ -274,6 +274,7 @@
     "wof:belongsto":[
         102191581,
         85633337,
+        136253051,
         85687049
     ],
     "wof:breaches":[],
@@ -286,12 +287,13 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":1158787345,
             "region_id":85687049
         }
     ],
     "wof:id":1158787345,
-    "wof:lastmodified":1514491848,
+    "wof:lastmodified":1559594264,
     "wof:name":"Almere",
     "wof:parent_id":85687049,
     "wof:placetype":"locality",

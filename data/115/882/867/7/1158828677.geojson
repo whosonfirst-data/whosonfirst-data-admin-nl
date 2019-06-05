@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001209,
-    "geom:area_square_m":9262132.256838,
+    "geom:area_square_m":9262132.256839,
     "geom:bbox":"4.04314567294,51.6989270613,4.13241871161,51.7337103506",
     "geom:latitude":51.717666,
     "geom:longitude":4.087087,
@@ -44,16 +44,18 @@
         102191581,
         1158824741,
         85633337,
-        101808503
+        101808503,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"4c68cb968dddbf4fcc67431fa1ac5d4b",
+    "wof:geomhash":"c036369d9a7cf42cfb46374a09407030",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158824741,
             "locality_id":101808503,
             "neighbourhood_id":1158828677,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158828677,
-    "wof:lastmodified":1513588262,
+    "wof:lastmodified":1559595774,
     "wof:name":"Herkingen buitengebied",
     "wof:parent_id":101808503,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.043145672941606,
+    4.04314567294161,
     51.69892706131992,
     4.13241871161454,
     51.73371035061626

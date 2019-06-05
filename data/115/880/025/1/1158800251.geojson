@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005221,
-    "geom:area_square_m":39982429.012263,
+    "geom:area_square_m":39982429.012261,
     "geom:bbox":"4.64513658576,51.7092250077,4.85312617029,51.7665683035",
     "geom:latitude":51.734099,
     "geom:longitude":4.782384,
@@ -44,16 +44,18 @@
         102191581,
         404474631,
         85633337,
-        1158801535
+        1158801535,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"b6fcb21ea6e66d1e6677d6daa9dbfebe",
+    "wof:geomhash":"df3a6fb6d00bcce97221a9e41e8e6bbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474631,
             "locality_id":1158801535,
             "neighbourhood_id":1158800251,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158800251,
-    "wof:lastmodified":1513432814,
+    "wof:lastmodified":1559595421,
     "wof:name":"Verspreide huizen Biesbosch",
     "wof:parent_id":1158801535,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.645136585763132,
+    4.64513658576313,
     51.70922500773541,
     4.85312617029016,
     51.76656830350689

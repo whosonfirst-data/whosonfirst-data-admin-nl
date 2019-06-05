@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000635,
-    "geom:area_square_m":4684674.081317,
+    "geom:area_square_m":4684674.081316,
     "geom:bbox":"6.82363394784,53.3432855,6.86439325745,53.3655052194",
     "geom:latitude":53.353694,
     "geom:longitude":6.843132,
@@ -40,10 +40,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687059,
         102191581,
         404473711,
         85633337,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473711,
             "locality_id":1158796673,
             "region_id":85687059
         }
     ],
     "wof:id":1158796673,
-    "wof:lastmodified":1514492482,
+    "wof:lastmodified":1559594299,
     "wof:name":"Krewerd",
     "wof:parent_id":404473711,
     "wof:placetype":"locality",

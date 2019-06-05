@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005475,
-    "geom:area_square_m":41389327.946582,
+    "geom:area_square_m":41389327.946583,
     "geom:bbox":"6.93432492191,52.2794888885,7.05722668839,52.3492592732",
     "geom:latitude":52.3144,
     "geom:longitude":6.993636,
@@ -70,10 +70,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473841,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,13 +91,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473841,
             "locality_id":101807149,
             "region_id":85687045
         }
     ],
     "wof:id":101807149,
-    "wof:lastmodified":1514492066,
+    "wof:lastmodified":1559594097,
     "wof:name":"De Lutte",
     "wof:parent_id":404473841,
     "wof:placetype":"locality",

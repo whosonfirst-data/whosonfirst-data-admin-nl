@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001694,
-    "geom:area_square_m":12678793.881691,
+    "geom:area_square_m":12678793.881692,
     "geom:bbox":"6.64325665514,52.7184811153,6.71511545513,52.7628576852",
     "geom:latitude":52.745512,
     "geom:longitude":6.680681,
@@ -34,10 +34,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404473807,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +50,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473807,
             "locality_id":1158791997,
             "region_id":85687051
         }
     ],
     "wof:id":1158791997,
-    "wof:lastmodified":1514492257,
+    "wof:lastmodified":1559594169,
     "wof:name":"Gees",
     "wof:parent_id":404473807,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
-    "geom:area_square_m":699617.062495,
+    "geom:area_square_m":699617.062494,
     "geom:bbox":"3.90477692911,51.7192229166,3.91976981533,51.7298170257",
     "geom:latitude":51.724729,
     "geom:longitude":3.911948,
@@ -44,16 +44,18 @@
         102191581,
         404474591,
         85633337,
-        101808353
+        101808353,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"976cbe2da1d7c46fce4ff4b7f07f7d91",
+    "wof:geomhash":"07abce21ad5f337122579f4fa33e548c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474591,
             "locality_id":101808353,
             "neighbourhood_id":1158784835,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158784835,
-    "wof:lastmodified":1513628712,
+    "wof:lastmodified":1559595490,
     "wof:name":"Brouwershaven",
     "wof:parent_id":101808353,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.904776929106729,
-    51.719222916648235,
+    3.90477692910673,
+    51.71922291664823,
     3.91976981533382,
     51.72981702565046
 ],

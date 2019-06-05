@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
-    "geom:area_square_m":502589.241109,
+    "geom:area_square_m":502589.241108,
     "geom:bbox":"5.5340686154,53.0832612221,5.55087742351,53.0930065382",
     "geom:latitude":53.087889,
     "geom:longitude":5.544323,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.546997,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
         1141960639,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":1141960639,
             "neighbourhood_id":1126132427,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126132427,
-    "wof:lastmodified":1507246105,
+    "wof:lastmodified":1559595856,
     "wof:name":"Burgwerd",
     "wof:parent_id":1141960639,
     "wof:placetype":"neighbourhood",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000027,
-    "geom:area_square_m":206768.748307,
+    "geom:area_square_m":206768.748306,
     "geom:bbox":"5.61226277381,52.3460625032,5.62179210131,52.3510052466",
     "geom:latitude":52.348533,
     "geom:longitude":5.616399,
@@ -45,16 +45,18 @@
         1158784019,
         404473907,
         85633337,
-        101837769
+        101837769,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"ec8aa67d9c1fd3349f7e129cbcc273b1",
+    "wof:geomhash":"7e570c990ec21f938ec79a796e9833ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473907,
             "locality_id":101837769,
             "macrohood_id":1158784019,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1141963343,
-    "wof:lastmodified":1513368739,
+    "wof:lastmodified":1559595687,
     "wof:name":"Binnenstad-Zuid",
     "wof:parent_id":1158784019,
     "wof:placetype":"neighbourhood",
@@ -73,7 +75,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.612262773806163,
+    5.61226277380616,
     52.34606250324104,
     5.62179210131196,
     52.35100524656168

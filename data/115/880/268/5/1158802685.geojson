@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":924026.072755,
+    "geom:area_square_m":924026.072754,
     "geom:bbox":"6.45270636824,52.3652653827,6.47457735368,52.3764868575",
     "geom:latitude":52.370598,
     "geom:longitude":6.463148,
@@ -44,16 +44,18 @@
         102191581,
         404473835,
         85633337,
-        101807161
+        101807161,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"f9f14736089fc73a288da1ea3f132502",
+    "wof:geomhash":"d67c4213dc2ae73fe4e79fc8c4258e24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473835,
             "locality_id":101807161,
             "neighbourhood_id":1158802685,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158802685,
-    "wof:lastmodified":1513524277,
+    "wof:lastmodified":1559596128,
     "wof:name":"Gagelman Industrieterrein-Noord",
     "wof:parent_id":101807161,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.452706368243796,
+    6.4527063682438,
     52.36526538273076,
     6.47457735368232,
     52.37648685748127

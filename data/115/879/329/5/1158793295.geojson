@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000231,
-    "geom:area_square_m":1723735.791277,
+    "geom:area_square_m":1723735.791276,
     "geom:bbox":"7.07406028861,52.8486872145,7.10437069428,52.8639311892",
     "geom:latitude":52.857037,
     "geom:longitude":7.08671,
@@ -44,16 +44,18 @@
         102191581,
         404473739,
         85633337,
-        101838031
+        101838031,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"135372cdcafb220d00d6b55fabe6cdbe",
+    "wof:geomhash":"aa736b4fdf91dc5372cff3c8887ad26e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473739,
             "locality_id":101838031,
             "neighbourhood_id":1158793295,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158793295,
-    "wof:lastmodified":1513382298,
+    "wof:lastmodified":1559596426,
     "wof:name":"Barnflair",
     "wof:parent_id":101838031,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.074060288607881,
+    7.07406028860788,
     52.84868721445554,
     7.10437069427763,
     52.86393118916366

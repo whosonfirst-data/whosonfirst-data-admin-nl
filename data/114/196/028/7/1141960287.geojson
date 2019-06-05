@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001374,
-    "geom:area_square_m":10242169.191354,
+    "geom:area_square_m":10242169.191357,
     "geom:bbox":"5.51183148694,52.9061472545,5.58260235601,52.9474813219",
     "geom:latitude":52.927815,
     "geom:longitude":5.548022,
@@ -42,10 +42,11 @@
     "reversegeo:longitude":5.545612,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960737,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +58,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960737,
             "locality_id":1141960287,
             "region_id":85687055
         }
     ],
     "wof:id":1141960287,
-    "wof:lastmodified":1514492217,
+    "wof:lastmodified":1559594669,
     "wof:name":"Elahuizen",
     "wof:parent_id":1141960737,
     "wof:placetype":"locality",

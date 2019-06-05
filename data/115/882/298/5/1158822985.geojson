@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007664,
-    "geom:area_square_m":57238560.073777,
+    "geom:area_square_m":57238560.073776,
     "geom:bbox":"5.02375197347,52.7732854655,5.11395309569,52.925178501",
     "geom:latitude":52.842404,
     "geom:longitude":5.070859,
@@ -40,10 +40,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687053,
         102191581,
         1158818287,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158818287,
             "locality_id":1158822985,
             "region_id":85687053
         }
     ],
     "wof:id":1158822985,
-    "wof:lastmodified":1514492481,
+    "wof:lastmodified":1559594142,
     "wof:name":"Kreileroord",
     "wof:parent_id":1158818287,
     "wof:placetype":"locality",

@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001107,
-    "geom:area_square_m":8287366.099012,
+    "geom:area_square_m":8287366.099013,
     "geom:bbox":"6.92234909521,52.7183143327,6.99126188897,52.7642894554",
     "geom:latitude":52.743351,
     "geom:longitude":6.962102,
@@ -71,10 +71,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":60,
     "wof:belongsto":[
+        85687051,
         102191581,
         404473809,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,13 +93,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473809,
             "locality_id":101837885,
             "region_id":85687051
         }
     ],
     "wof:id":101837885,
-    "wof:lastmodified":1527715312,
+    "wof:lastmodified":1559594263,
     "wof:name":"Nieuw-Dordrecht",
     "wof:parent_id":404473809,
     "wof:placetype":"locality",

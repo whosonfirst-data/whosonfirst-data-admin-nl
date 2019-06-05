@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687035,
+        102191581,
+        404474387,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"528807204e615aca3eee2e9cf3d3590b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209437095
+            "empire_id":136253051,
+            "localadmin_id":404474387,
+            "locality_id":1209437095,
+            "region_id":85687035
         }
     ],
     "wof:id":1209437095,
-    "wof:lastmodified":1536287071,
+    "wof:lastmodified":1559594365,
     "wof:name":"Eind",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474387,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

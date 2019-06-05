@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002723,
-    "geom:area_square_m":20335683.50431,
+    "geom:area_square_m":20335683.504313,
     "geom:bbox":"6.97522290907,52.8165272011,7.07638582217,52.8646973993",
     "geom:latitude":52.838906,
     "geom:longitude":7.025233,
@@ -45,10 +45,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404473809,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +61,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473809,
             "locality_id":1158792023,
             "region_id":85687051
         }
     ],
     "wof:id":1158792023,
-    "wof:lastmodified":1514492860,
+    "wof:lastmodified":1559594172,
     "wof:name":"Roswinkel",
     "wof:parent_id":404473809,
     "wof:placetype":"locality",

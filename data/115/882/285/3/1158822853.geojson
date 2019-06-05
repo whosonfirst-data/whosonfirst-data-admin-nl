@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000341,
-    "geom:area_square_m":2584933.158703,
+    "geom:area_square_m":2584933.158702,
     "geom:bbox":"4.62584464892,52.2153012465,4.66584720361,52.2356177329",
     "geom:latitude":52.225479,
     "geom:longitude":4.643721,
@@ -43,10 +43,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         404474065,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474065,
             "locality_id":1158822853,
             "region_id":85687053
         }
     ],
     "wof:id":1158822853,
-    "wof:lastmodified":1514493212,
+    "wof:lastmodified":1559595155,
     "wof:name":"Weteringbrug",
     "wof:parent_id":404474065,
     "wof:placetype":"locality",

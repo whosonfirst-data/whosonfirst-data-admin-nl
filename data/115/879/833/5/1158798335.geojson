@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001219,
-    "geom:area_square_m":9349961.845004,
+    "geom:area_square_m":9349961.845005,
     "geom:bbox":"5.73900257349,51.6326679803,5.78966725897,51.6726996205",
     "geom:latitude":51.654859,
     "geom:longitude":5.763851,
@@ -44,16 +44,18 @@
         102191581,
         404474403,
         85633337,
-        1158801607
+        1158801607,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"edd04f440f8aaee272480d69aa90dbe9",
+    "wof:geomhash":"638cd9554a17630a019372ea5be7ad84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474403,
             "locality_id":1158801607,
             "neighbourhood_id":1158798335,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158798335,
-    "wof:lastmodified":1513432668,
+    "wof:lastmodified":1559596663,
     "wof:name":"Verspreide huizen Wilbertoord",
     "wof:parent_id":1158801607,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.739002573485789,
+    5.73900257348579,
     51.63266798027469,
     5.78966725896855,
     51.67269962046985

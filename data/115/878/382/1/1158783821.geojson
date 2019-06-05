@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001619,
-    "geom:area_square_m":12308638.647982,
+    "geom:area_square_m":12308638.647981,
     "geom:bbox":"6.00604451748,52.0504492125,6.09225185047,52.0882470439",
     "geom:latitude":52.06905,
     "geom:longitude":6.054627,
@@ -49,10 +49,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473933,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473933,
             "locality_id":1158783821,
             "region_id":85687043
         }
     ],
     "wof:id":1158783821,
-    "wof:lastmodified":1514492486,
+    "wof:lastmodified":1559595107,
     "wof:name":"Laag-Soeren",
     "wof:parent_id":404473933,
     "wof:placetype":"locality",

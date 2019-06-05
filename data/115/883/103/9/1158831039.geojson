@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00009,
-    "geom:area_square_m":681143.118156,
+    "geom:area_square_m":681143.118155,
     "geom:bbox":"4.55277643019,52.2450061431,4.56783054103,52.2544286633",
     "geom:latitude":52.249627,
     "geom:longitude":4.56053,
@@ -31,26 +31,28 @@
     "src:geom":"mz",
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101837693,
         85633337,
-        85687041
+        101837693,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"5c453ca6f3e803c564f5744ffd654e49",
+    "wof:geomhash":"3b5d0a40d63fa3a362957c1efeac4afa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101837693,
             "macrohood_id":1158831039,
             "region_id":85687041
         }
     ],
     "wof:id":1158831039,
-    "wof:lastmodified":1513587464,
+    "wof:lastmodified":1559595303,
     "wof:name":"Poelpolder",
     "wof:parent_id":101837693,
     "wof:placetype":"macrohood",
@@ -62,8 +64,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.552776430185364,
-    52.245006143117976,
+    4.55277643018536,
+    52.24500614311798,
     4.56783054102645,
     52.2544286633179
 ],

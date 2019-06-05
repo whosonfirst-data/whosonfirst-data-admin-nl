@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001069,
-    "geom:area_square_m":8119425.590299,
+    "geom:area_square_m":8119425.590297,
     "geom:bbox":"4.9700959825,52.092225887,5.01211228326,52.1420505982",
     "geom:latitude":52.119754,
     "geom:longitude":4.990588,
@@ -33,11 +33,12 @@
     "reversegeo:longitude":4.990269,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687039,
         102191581,
         85633337,
         101751827,
-        1108808673,
-        85687039
+        136253051,
+        1108808673
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,13 +49,14 @@
             "borough_id":1108808673,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751827,
             "neighbourhood_id":1108808737,
             "region_id":85687039
         }
     ],
     "wof:id":1108808737,
-    "wof:lastmodified":1507246057,
+    "wof:lastmodified":1559595544,
     "wof:name":"Haarzuilens en omgeving",
     "wof:parent_id":1108808673,
     "wof:placetype":"neighbourhood",

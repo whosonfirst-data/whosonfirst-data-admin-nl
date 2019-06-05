@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000011,
-    "geom:area_square_m":86209.837679,
+    "geom:area_square_m":86209.837678,
     "geom:bbox":"4.65496227437,52.6219057361,4.66147001465,52.6249264015",
     "geom:latitude":52.623236,
     "geom:longitude":4.658302,
@@ -44,16 +44,18 @@
         102191581,
         404474041,
         85633337,
-        101807341
+        101807341,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"4b0d6e2af1bd6a3e32736e2df551696c",
+    "wof:geomhash":"dd9fb635ae187e6e4726841d7166b7a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474041,
             "locality_id":101807341,
             "neighbourhood_id":1158818631,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158818631,
-    "wof:lastmodified":1513464083,
+    "wof:lastmodified":1559595943,
     "wof:name":"Slotplan",
     "wof:parent_id":101807341,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.654962274368174,
+    4.65496227436817,
     52.62190573606475,
     4.66147001465332,
     52.62492640147216

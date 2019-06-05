@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001181,
-    "geom:area_square_m":8833260.301012,
+    "geom:area_square_m":8833260.30101,
     "geom:bbox":"6.29302973083,52.7685940279,6.35459649673,52.7989789761",
     "geom:latitude":52.784792,
     "geom:longitude":6.323922,
@@ -48,10 +48,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474601,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +64,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474601,
             "locality_id":1158792133,
             "region_id":85687051
         }
     ],
     "wof:id":1158792133,
-    "wof:lastmodified":1514491877,
+    "wof:lastmodified":1559594206,
     "wof:name":"Ansen",
     "wof:parent_id":404474601,
     "wof:placetype":"locality",

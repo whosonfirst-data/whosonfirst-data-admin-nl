@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000513,
-    "geom:area_square_m":3829477.481964,
+    "geom:area_square_m":3829477.481965,
     "geom:bbox":"5.35207070741,52.8685055428,5.38717792381,52.8984160909",
     "geom:latitude":52.883335,
     "geom:longitude":5.370986,
@@ -58,10 +58,11 @@
     "reversegeo:longitude":5.369279,
     "src:geom":"mz",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +74,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":1141960505,
             "region_id":85687055
         }
     ],
     "wof:id":1141960505,
-    "wof:lastmodified":1514492956,
+    "wof:lastmodified":1559594998,
     "wof:name":"Stavoren",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

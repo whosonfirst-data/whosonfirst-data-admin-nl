@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000832,
-    "geom:area_square_m":6357677.077754,
+    "geom:area_square_m":6357677.077755,
     "geom:bbox":"4.73496897127,51.8410026892,4.81070533757,51.8588752811",
     "geom:latitude":51.850556,
     "geom:longitude":4.771671,
@@ -49,10 +49,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         1158824743,
         85633337,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158824743,
             "locality_id":1158831379,
             "region_id":85687041
         }
     ],
     "wof:id":1158831379,
-    "wof:lastmodified":1514493218,
+    "wof:lastmodified":1559594072,
     "wof:name":"Wijngaarden",
     "wof:parent_id":1158824743,
     "wof:placetype":"locality",

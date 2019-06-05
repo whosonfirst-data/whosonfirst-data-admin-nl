@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001554,
-    "geom:area_square_m":11498393.822319,
+    "geom:area_square_m":11498393.822318,
     "geom:bbox":"5.51968975649,53.2166799134,5.58342492604,53.2644267854",
     "geom:latitude":53.237791,
     "geom:longitude":5.546882,
@@ -40,10 +40,11 @@
     "reversegeo:longitude":5.5464,
     "src:geom":"mz",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473767,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473767,
             "locality_id":1141960645,
             "region_id":85687055
         }
     ],
     "wof:id":1141960645,
-    "wof:lastmodified":1514493058,
+    "wof:lastmodified":1559595079,
     "wof:name":"Tzummarum",
     "wof:parent_id":404473767,
     "wof:placetype":"locality",

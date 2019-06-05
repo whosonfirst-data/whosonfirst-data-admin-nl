@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005152,
-    "geom:area_square_m":38645703.1644,
+    "geom:area_square_m":38645703.164404,
     "geom:bbox":"5.8377101906,52.6168629244,6.01705233231,52.6918453546",
     "geom:latitude":52.655366,
     "geom:longitude":5.908865,
@@ -49,10 +49,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687049,
         102191581,
         404473843,
         85633337,
-        85687049
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473843,
             "locality_id":1158787477,
             "region_id":85687049
         }
     ],
     "wof:id":1158787477,
-    "wof:lastmodified":1514492480,
+    "wof:lastmodified":1559594276,
     "wof:name":"Kraggenburg",
     "wof:parent_id":404473843,
     "wof:placetype":"locality",

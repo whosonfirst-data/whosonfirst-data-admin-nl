@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000795,
-    "geom:area_square_m":6078336.089592,
+    "geom:area_square_m":6078336.089591,
     "geom:bbox":"5.28085267755,51.7992243874,5.32829918248,51.8240572858",
     "geom:latitude":51.812792,
     "geom:longitude":5.301081,
@@ -40,10 +40,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473917,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473917,
             "locality_id":1158783385,
             "region_id":85687043
         }
     ],
     "wof:id":1158783385,
-    "wof:lastmodified":1514492432,
+    "wof:lastmodified":1559594956,
     "wof:name":"Hurwenen",
     "wof:parent_id":404473917,
     "wof:placetype":"locality",

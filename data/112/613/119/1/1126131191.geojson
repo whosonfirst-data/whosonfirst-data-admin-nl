@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000042,
-    "geom:area_square_m":308422.17036,
+    "geom:area_square_m":308422.170361,
     "geom:bbox":"5.51291351463,53.1640651452,5.52539795403,53.1683040459",
     "geom:latitude":53.166118,
     "geom:longitude":5.518922,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.518922,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473767,
         85633337,
         1141960109,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473767,
             "locality_id":1141960109,
             "neighbourhood_id":1126131191,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126131191,
-    "wof:lastmodified":1507246093,
+    "wof:lastmodified":1559595909,
     "wof:name":"Hitzum",
     "wof:parent_id":1141960109,
     "wof:placetype":"neighbourhood",

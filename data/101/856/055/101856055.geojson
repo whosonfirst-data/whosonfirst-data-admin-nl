@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001457,
-    "geom:area_square_m":10992252.360209,
+    "geom:area_square_m":10992252.360206,
     "geom:bbox":"6.97182243269,52.3810207043,7.06371636863,52.4164760446",
     "geom:latitude":52.399648,
     "geom:longitude":7.016906,
@@ -79,10 +79,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":110,
     "wof:belongsto":[
+        85687045,
         102191581,
         404474665,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,13 +99,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474665,
             "locality_id":101856055,
             "region_id":85687045
         }
     ],
     "wof:id":101856055,
-    "wof:lastmodified":1527642830,
+    "wof:lastmodified":1559594321,
     "wof:name":"Noord Deurningen",
     "wof:parent_id":404474665,
     "wof:placetype":"locality",

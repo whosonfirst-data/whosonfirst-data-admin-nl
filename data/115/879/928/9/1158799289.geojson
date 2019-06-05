@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000156,
-    "geom:area_square_m":1203000.071068,
+    "geom:area_square_m":1203000.071067,
     "geom:bbox":"5.43993874606,51.3398917952,5.46697927518,51.3492240932",
     "geom:latitude":51.344812,
     "geom:longitude":5.453878,
@@ -44,16 +44,18 @@
         102191581,
         404474439,
         85633337,
-        101839393
+        101839393,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"d9119b9d6dea7f0b27b571d6841c2750",
+    "wof:geomhash":"4b6a164e4e20d3893fa4c824a4bf233c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474439,
             "locality_id":101839393,
             "neighbourhood_id":1158799289,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158799289,
-    "wof:lastmodified":1513432736,
+    "wof:lastmodified":1559596789,
     "wof:name":"Hoge Akkers",
     "wof:parent_id":101839393,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.439938746062589,
+    5.43993874606259,
     51.33989179520562,
     5.46697927517533,
     51.34922409323415

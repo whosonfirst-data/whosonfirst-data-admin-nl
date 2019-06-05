@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001001,
-    "geom:area_square_m":7442272.754931,
+    "geom:area_square_m":7442272.75493,
     "geom:bbox":"5.36405723284,53.0319296563,5.43828493652,53.0763346715",
     "geom:latitude":53.051712,
     "geom:longitude":5.397248,
@@ -43,10 +43,11 @@
     "reversegeo:longitude":5.395555,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":1141960531,
             "region_id":85687055
         }
     ],
     "wof:id":1141960531,
-    "wof:lastmodified":1514492441,
+    "wof:lastmodified":1559594272,
     "wof:name":"Idsegahuizum",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

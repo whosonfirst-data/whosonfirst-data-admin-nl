@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
-    "geom:area_square_m":521052.992287,
+    "geom:area_square_m":521052.992286,
     "geom:bbox":"4.45760107917,51.9081446748,4.47691927048,51.9163539274",
     "geom:latitude":51.911641,
     "geom:longitude":4.46846,
@@ -84,11 +84,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
         85633337,
         101751843,
-        1108804841,
-        85687041
+        136253051,
+        1108804841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,6 +105,7 @@
             "borough_id":1108804841,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751843,
             "neighbourhood_id":85859799,
             "region_id":85687041
@@ -113,7 +115,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527270307,
+    "wof:lastmodified":1559596067,
     "wof:name":"Dijkzigt",
     "wof:parent_id":1108804841,
     "wof:placetype":"neighbourhood",

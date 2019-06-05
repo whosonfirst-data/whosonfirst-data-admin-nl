@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002252,
-    "geom:area_square_m":16816483.100464,
+    "geom:area_square_m":16816483.100465,
     "geom:bbox":"6.78664157254,52.8318371035,6.86714681407,52.8834780607",
     "geom:latitude":52.858812,
     "geom:longitude":6.829468,
@@ -89,10 +89,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":169,
     "wof:belongsto":[
+        85687051,
         102191581,
         404474595,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,13 +111,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474595,
             "locality_id":101807315,
             "region_id":85687051
         }
     ],
     "wof:id":101807315,
-    "wof:lastmodified":1527715107,
+    "wof:lastmodified":1559595115,
     "wof:name":"Odoorn",
     "wof:parent_id":404474595,
     "wof:placetype":"locality",

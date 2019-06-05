@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000851,
-    "geom:area_square_m":6636153.226699,
+    "geom:area_square_m":6636153.226698,
     "geom:bbox":"5.94189569458,50.9016080683,5.98000842711,50.9342223062",
     "geom:latitude":50.918449,
     "geom:longitude":5.960757,
@@ -61,10 +61,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687033,
         102191581,
         404474485,
         85633337,
-        85687033
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,13 +80,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474485,
             "locality_id":101839247,
             "region_id":85687033
         }
     ],
     "wof:id":101839247,
-    "wof:lastmodified":1514492345,
+    "wof:lastmodified":1559594117,
     "wof:name":"Heerlerheide",
     "wof:parent_id":404474485,
     "wof:placetype":"locality",

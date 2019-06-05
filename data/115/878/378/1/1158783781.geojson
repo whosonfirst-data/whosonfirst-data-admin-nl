@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001302,
-    "geom:area_square_m":9968281.194066,
+    "geom:area_square_m":9968281.194065,
     "geom:bbox":"5.1255914392,51.7376071426,5.18572516528,51.7737242978",
     "geom:latitude":51.754101,
     "geom:longitude":5.156846,
@@ -43,10 +43,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473955,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473955,
             "locality_id":1158783781,
             "region_id":85687043
         }
     ],
     "wof:id":1158783781,
-    "wof:lastmodified":1514492652,
+    "wof:lastmodified":1559595094,
     "wof:name":"Nederhemert",
     "wof:parent_id":404473955,
     "wof:placetype":"locality",

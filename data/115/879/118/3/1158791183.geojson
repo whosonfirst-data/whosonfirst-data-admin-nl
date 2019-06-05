@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000033,
-    "geom:area_square_m":243879.683178,
+    "geom:area_square_m":243879.683179,
     "geom:bbox":"6.16078833389,52.7318863223,6.17087521116,52.7373020007",
     "geom:latitude":52.734669,
     "geom:longitude":6.165637,
@@ -44,16 +44,18 @@
         102191581,
         404473813,
         85633337,
-        101807283
+        101807283,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"1b82c5bda72759ec405d20a0aa61ccdd",
+    "wof:geomhash":"fa3c284eaf33b43156cad6f5daba4d6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473813,
             "locality_id":101807283,
             "neighbourhood_id":1158791183,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158791183,
-    "wof:lastmodified":1513292323,
+    "wof:lastmodified":1559596138,
     "wof:name":"Vogelbuurt",
     "wof:parent_id":101807283,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.160788333890954,
+    6.16078833389095,
     52.7318863223333,
     6.17087521115567,
     52.73730200066659

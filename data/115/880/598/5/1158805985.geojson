@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000326,
-    "geom:area_square_m":2503676.043852,
+    "geom:area_square_m":2503676.043853,
     "geom:bbox":"6.03072341247,51.5770096552,6.0616686325,51.5967288692",
     "geom:latitude":51.587198,
     "geom:longitude":6.047092,
@@ -44,16 +44,18 @@
         102191581,
         404474475,
         85633337,
-        1158817915
+        1158817915,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"441664f66e5e99b2912e841c8088afab",
+    "wof:geomhash":"64e900d720cdff75db03befe4994a50c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474475,
             "locality_id":1158817915,
             "neighbourhood_id":1158805985,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158805985,
-    "wof:lastmodified":1513403996,
+    "wof:lastmodified":1559596562,
     "wof:name":"Aijen Buitengebied",
     "wof:parent_id":1158817915,
     "wof:placetype":"neighbourhood",
@@ -72,8 +74,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.030723412470501,
-    51.577009655154704,
+    6.0307234124705,
+    51.5770096551547,
     6.06166863249724,
     51.59672886921041
 ],

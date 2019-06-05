@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000499,
-    "geom:area_square_m":3709145.312953,
+    "geom:area_square_m":3709145.312952,
     "geom:bbox":"5.67810992195,52.9923534958,5.73616429561,53.0183549664",
     "geom:latitude":53.008246,
     "geom:longitude":5.702326,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.688023,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
         101837969,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":101837969,
             "neighbourhood_id":1126132385,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126132385,
-    "wof:lastmodified":1507246105,
+    "wof:lastmodified":1559596210,
     "wof:name":"Verspreide huizen Oppenhuizen",
     "wof:parent_id":101837969,
     "wof:placetype":"neighbourhood",

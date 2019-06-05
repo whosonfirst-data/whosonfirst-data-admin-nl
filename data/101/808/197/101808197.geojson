@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000708,
-    "geom:area_square_m":5409163.149551,
+    "geom:area_square_m":5409163.149549,
     "geom:bbox":"5.53565719054,51.8063520306,5.58911099643,51.8281333764",
     "geom:latitude":51.817162,
     "geom:longitude":5.563655,
@@ -65,10 +65,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":181,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474415,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,13 +87,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474415,
             "locality_id":101808197,
             "region_id":85687035
         }
     ],
     "wof:id":101808197,
-    "wof:lastmodified":1527715341,
+    "wof:lastmodified":1559594865,
     "wof:name":"Megen",
     "wof:parent_id":404474415,
     "wof:placetype":"locality",

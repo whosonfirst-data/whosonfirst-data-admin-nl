@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000076,
-    "geom:area_square_m":561675.775479,
+    "geom:area_square_m":561675.77548,
     "geom:bbox":"6.55933408449,53.2029700234,6.57416425096,53.210787793",
     "geom:latitude":53.207397,
     "geom:longitude":6.566929,
@@ -46,11 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687059,
         102191581,
         404473713,
         85633337,
         101751909,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +63,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473713,
             "locality_id":101751909,
             "neighbourhood_id":1158792553,
@@ -69,7 +71,7 @@
         }
     ],
     "wof:id":1158792553,
-    "wof:lastmodified":1514492856,
+    "wof:lastmodified":1559596802,
     "wof:name":"Rivierenbuurt",
     "wof:parent_id":101751909,
     "wof:placetype":"neighbourhood",

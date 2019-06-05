@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000099,
-    "geom:area_square_m":727838.034286,
+    "geom:area_square_m":727838.034285,
     "geom:bbox":"6.74646652091,53.3077492401,6.77856310789,53.3133665144",
     "geom:latitude":53.310209,
     "geom:longitude":6.763939,
@@ -44,16 +44,18 @@
         102191581,
         404473723,
         85633337,
-        1158796529
+        1158796529,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"b22ce4125bb32fb07349e1265316e3e3",
+    "wof:geomhash":"4084758281a756a416f61eb2188ac5b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473723,
             "locality_id":1158796529,
             "neighbourhood_id":1158792995,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158792995,
-    "wof:lastmodified":1513382280,
+    "wof:lastmodified":1559596929,
     "wof:name":"Garrelsweer",
     "wof:parent_id":1158796529,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.746466520911998,
-    53.307749240141675,
+    6.746466520912,
+    53.30774924014167,
     6.7785631078864,
     53.31336651443079
 ],

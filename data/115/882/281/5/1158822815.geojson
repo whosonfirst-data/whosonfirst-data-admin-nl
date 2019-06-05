@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000631,
-    "geom:area_square_m":4745544.348096,
+    "geom:area_square_m":4745544.348097,
     "geom:bbox":"4.75043651078,52.5337448773,4.78162284541,52.5620714336",
     "geom:latitude":52.547831,
     "geom:longitude":4.76612,
@@ -43,10 +43,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         404474053,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474053,
             "locality_id":1158822815,
             "region_id":85687053
         }
     ],
     "wof:id":1158822815,
-    "wof:lastmodified":1514492070,
+    "wof:lastmodified":1559594118,
     "wof:name":"De Woude",
     "wof:parent_id":404474053,
     "wof:placetype":"locality",

@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002237,
-    "geom:area_square_m":17242246.456893,
+    "geom:area_square_m":17242246.456891,
     "geom:bbox":"5.27935377207,51.4238434307,5.36944655003,51.4685366868",
     "geom:latitude":51.447012,
     "geom:longitude":5.328312,
@@ -68,10 +68,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":52,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474371,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,13 +90,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474371,
             "locality_id":101809759,
             "region_id":85687035
         }
     ],
     "wof:id":101809759,
-    "wof:lastmodified":1527715174,
+    "wof:lastmodified":1559595146,
     "wof:name":"Wintelre",
     "wof:parent_id":404474371,
     "wof:placetype":"locality",

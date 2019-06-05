@@ -28,24 +28,32 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687033,
+        102191581,
+        404474581,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2745282
     },
     "wof:country":"NL",
-    "wof:geomhash":"3c3179c57823690163f480ffdcb4aa98",
+    "wof:geomhash":"e3bc53f6ccf9501118589f36b5bd82ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209038359
+            "empire_id":136253051,
+            "localadmin_id":404474581,
+            "locality_id":1209038359,
+            "region_id":85687033
         }
     ],
     "wof:id":1209038359,
-    "wof:lastmodified":1536299626,
+    "wof:lastmodified":1559594949,
     "wof:name":"Voorsterveld",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474581,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
@@ -53,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.0319400000000005,
+    6.03194,
     51.1075,
-    6.0319400000000005,
+    6.03194,
     51.1075
 ],
   "geometry": {"coordinates":[6.03194,51.1075],"type":"Point"}

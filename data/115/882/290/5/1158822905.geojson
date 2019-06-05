@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000329,
-    "geom:area_square_m":2462441.824835,
+    "geom:area_square_m":2462441.824834,
     "geom:bbox":"4.72512298122,52.7548997455,4.75947199461,52.7758006156",
     "geom:latitude":52.765946,
     "geom:longitude":4.740492,
@@ -58,10 +58,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         404474113,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +74,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474113,
             "locality_id":1158822905,
             "region_id":85687053
         }
     ],
     "wof:id":1158822905,
-    "wof:lastmodified":1514492916,
+    "wof:lastmodified":1559595121,
     "wof:name":"Sint Maarten",
     "wof:parent_id":404474113,
     "wof:placetype":"locality",

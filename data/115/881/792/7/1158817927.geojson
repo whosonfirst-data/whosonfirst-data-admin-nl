@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001229,
-    "geom:area_square_m":9461760.529213,
+    "geom:area_square_m":9461760.529214,
     "geom:bbox":"5.99187995825,51.4745110259,6.07375597567,51.5079475052",
     "geom:latitude":51.490681,
     "geom:longitude":6.030239,
@@ -46,10 +46,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687033,
         102191581,
         404474527,
         85633337,
-        85687033
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +62,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474527,
             "locality_id":1158817927,
             "region_id":85687033
         }
     ],
     "wof:id":1158817927,
-    "wof:lastmodified":1514492036,
+    "wof:lastmodified":1559594060,
     "wof:name":"Castenray",
     "wof:parent_id":404474527,
     "wof:placetype":"locality",

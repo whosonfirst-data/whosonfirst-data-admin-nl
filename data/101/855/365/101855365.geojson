@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001897,
-    "geom:area_square_m":14410011.859554,
+    "geom:area_square_m":14410011.859555,
     "geom:bbox":"5.54674477845,52.0820195022,5.62278343984,52.1254923622",
     "geom:latitude":52.105469,
     "geom:longitude":5.580369,
@@ -60,10 +60,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473893,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,13 +80,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473893,
             "locality_id":101855365,
             "region_id":85687043
         }
     ],
     "wof:id":101855365,
-    "wof:lastmodified":1514492655,
+    "wof:lastmodified":1559594603,
     "wof:name":"Nederwoud",
     "wof:parent_id":404473893,
     "wof:placetype":"locality",

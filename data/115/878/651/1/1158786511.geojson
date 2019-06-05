@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001332,
-    "geom:area_square_m":10275166.631181,
+    "geom:area_square_m":10275166.63118,
     "geom:bbox":"4.0458893276,51.3967429101,4.12345077295,51.4352047924",
     "geom:latitude":51.417983,
     "geom:longitude":4.085262,
@@ -229,10 +229,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687037,
         102191581,
         404474323,
         85633337,
-        85687037
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -244,13 +245,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474323,
             "locality_id":1158786511,
             "region_id":85687037
         }
     ],
     "wof:id":1158786511,
-    "wof:lastmodified":1553816739,
+    "wof:lastmodified":1559594185,
     "wof:name":"Waarde",
     "wof:parent_id":404474323,
     "wof:placetype":"locality",

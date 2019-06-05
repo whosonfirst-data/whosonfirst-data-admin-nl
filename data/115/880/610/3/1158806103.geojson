@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000013,
-    "geom:area_square_m":105005.341475,
+    "geom:area_square_m":105005.341474,
     "geom:bbox":"5.96971216324,50.9437718009,5.97363245599,50.9484787206",
     "geom:latitude":50.94608,
     "geom:longitude":5.971722,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687033,
         102191581,
         1158818191,
         85633337,
         101839207,
-        85687033
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"75ad14a9981f6522a3bd59be3c183446",
+    "wof:geomhash":"2162221512842df7d7771be7406f1003",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101839207,
             "macrohood_id":1158818191,
             "neighbourhood_id":1158806103,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158806103,
-    "wof:lastmodified":1513404005,
+    "wof:lastmodified":1559596431,
     "wof:name":"Centrum",
     "wof:parent_id":1158818191,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.969712163235841,
+    5.96971216323584,
     50.94377180091635,
     5.97363245598935,
     50.94847872061769

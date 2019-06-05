@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000902,
-    "geom:area_square_m":6896751.321765,
+    "geom:area_square_m":6896751.321766,
     "geom:bbox":"4.67314854398,51.7745051527,4.73717396991,51.8039853453",
     "geom:latitude":51.790778,
     "geom:longitude":4.703582,
@@ -48,10 +48,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101751841,
         85633337,
-        85687041
+        101751841,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +64,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751841,
             "macrohood_id":1158829555,
             "region_id":85687041
         }
     ],
     "wof:id":1158829555,
-    "wof:lastmodified":1514492180,
+    "wof:lastmodified":1559595393,
     "wof:name":"Dubbeldam",
     "wof:parent_id":101751841,
     "wof:placetype":"macrohood",

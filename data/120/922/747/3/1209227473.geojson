@@ -34,7 +34,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687055,
+        102191581,
+        404473785,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +48,18 @@
     "wof:geomhash":"ca006d9ab3b3e103e8c8a3b874854503",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209227473
+            "empire_id":136253051,
+            "localadmin_id":404473785,
+            "locality_id":1209227473,
+            "region_id":85687055
         }
     ],
     "wof:id":1209227473,
-    "wof:lastmodified":1537675635,
+    "wof:lastmodified":1559594356,
     "wof:name":"Aekinga",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404473785,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

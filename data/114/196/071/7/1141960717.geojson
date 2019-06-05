@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000344,
-    "geom:area_square_m":2541848.881297,
+    "geom:area_square_m":2541848.881296,
     "geom:bbox":"6.0557796597,53.3368037598,6.09462136351,53.3538547465",
     "geom:latitude":53.346494,
     "geom:longitude":6.073214,
@@ -52,10 +52,11 @@
     "reversegeo:longitude":6.073216,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473755,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +68,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473755,
             "locality_id":1141960717,
             "region_id":85687055
         }
     ],
     "wof:id":1141960717,
-    "wof:lastmodified":1514492446,
+    "wof:lastmodified":1559594622,
     "wof:name":"Jouswier",
     "wof:parent_id":404473755,
     "wof:placetype":"locality",

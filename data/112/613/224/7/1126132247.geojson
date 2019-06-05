@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
-    "geom:area_square_m":505015.692172,
+    "geom:area_square_m":505015.692173,
     "geom:bbox":"5.6425438761,53.0222733992,5.65920049866,53.029339718",
     "geom:latitude":53.025624,
     "geom:longitude":5.650696,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.650696,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
         101837971,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":101837971,
             "neighbourhood_id":1126132247,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126132247,
-    "wof:lastmodified":1507246103,
+    "wof:lastmodified":1559595854,
     "wof:name":"Lemmerweg-West",
     "wof:parent_id":101837971,
     "wof:placetype":"neighbourhood",

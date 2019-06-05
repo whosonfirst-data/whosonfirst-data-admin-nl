@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004954,
-    "geom:area_square_m":36446287.387982,
+    "geom:area_square_m":36446287.387974,
     "geom:bbox":"6.05794438641,53.4601219738,6.39184140265,53.5157125508",
     "geom:latitude":53.491755,
     "geom:longitude":6.228058,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":6.194453,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473789,
         85633337,
         101807407,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473789,
             "locality_id":101807407,
             "neighbourhood_id":1126131739,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126131739,
-    "wof:lastmodified":1507246099,
+    "wof:lastmodified":1559595844,
     "wof:name":"Verspreide huizen Schiermonnikoog",
     "wof:parent_id":101807407,
     "wof:placetype":"neighbourhood",

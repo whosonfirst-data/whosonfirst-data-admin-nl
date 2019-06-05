@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000457,
-    "geom:area_square_m":3484147.597436,
+    "geom:area_square_m":3484147.597437,
     "geom:bbox":"4.57022990187,51.9653689667,4.6018082645,51.9942815528",
     "geom:latitude":51.980185,
     "geom:longitude":4.587253,
@@ -53,11 +53,12 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
         85633337,
         101751843,
-        1108805725,
-        85687041
+        136253051,
+        1108805725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,13 +72,14 @@
             "borough_id":1108805725,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751843,
             "neighbourhood_id":1108938013,
             "region_id":85687041
         }
     ],
     "wof:id":1108938013,
-    "wof:lastmodified":1514492656,
+    "wof:lastmodified":1559595877,
     "wof:name":"Nesselande",
     "wof:parent_id":1108805725,
     "wof:placetype":"neighbourhood",

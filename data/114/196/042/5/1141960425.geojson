@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000565,
-    "geom:area_square_m":4198011.335021,
+    "geom:area_square_m":4198011.33502,
     "geom:bbox":"5.99094515852,53.0887218931,6.05036956395,53.1084309888",
     "geom:latitude":53.096967,
     "geom:longitude":6.023233,
@@ -43,10 +43,11 @@
     "reversegeo:longitude":6.035156,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473791,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473791,
             "locality_id":1141960425,
             "region_id":85687055
         }
     ],
     "wof:id":1141960425,
-    "wof:lastmodified":1514492070,
+    "wof:lastmodified":1559595001,
     "wof:name":"De Wilgen",
     "wof:parent_id":404473791,
     "wof:placetype":"locality",

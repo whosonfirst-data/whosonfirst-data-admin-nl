@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001242,
-    "geom:area_square_m":9612209.630268,
+    "geom:area_square_m":9612209.630267,
     "geom:bbox":"5.90361175068,51.2131609226,5.98605890632,51.2555350876",
     "geom:latitude":51.23385,
     "geom:longitude":5.939027,
@@ -44,16 +44,18 @@
         102191581,
         404474557,
         85633337,
-        101809543
+        101809543,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"2f0945b43c0c9a0ba957d159242497bf",
+    "wof:geomhash":"8e29d8c27d138c9b17a7798b79e716fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474557,
             "locality_id":101809543,
             "neighbourhood_id":1158807341,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158807341,
-    "wof:lastmodified":1513404097,
+    "wof:lastmodified":1559595713,
     "wof:name":"Verspreide huizen Haelen",
     "wof:parent_id":101809543,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.903611750676927,
+    5.90361175067693,
     51.21316092263555,
     5.98605890631667,
     51.25553508760133

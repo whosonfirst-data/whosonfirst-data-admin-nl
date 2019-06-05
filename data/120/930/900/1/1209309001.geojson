@@ -28,24 +28,32 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687053,
+        102191581,
+        404474155,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2749467
     },
     "wof:country":"NL",
-    "wof:geomhash":"2a83037dae1b828a2523bdd10874b468",
+    "wof:geomhash":"4548479a61d34e3136688e9de1e9213c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209309001
+            "empire_id":136253051,
+            "localadmin_id":404474155,
+            "locality_id":1209309001,
+            "region_id":85687053
         }
     ],
     "wof:id":1209309001,
-    "wof:lastmodified":1536291095,
+    "wof:lastmodified":1559594361,
     "wof:name":"Oostergouw",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
@@ -53,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.2388900000000005,
+    5.23889,
     52.67833,
-    5.2388900000000005,
+    5.23889,
     52.67833
 ],
   "geometry": {"coordinates":[5.23889,52.67833],"type":"Point"}

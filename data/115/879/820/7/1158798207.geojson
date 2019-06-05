@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000707,
-    "geom:area_square_m":5417950.092192,
+    "geom:area_square_m":5417950.092191,
     "geom:bbox":"5.14362300351,51.7067561482,5.17825856787,51.743073867",
     "geom:latitude":51.723043,
     "geom:longitude":5.16213,
@@ -43,10 +43,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474395,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474395,
             "locality_id":1158798207,
             "region_id":85687035
         }
     ],
     "wof:id":1158798207,
-    "wof:lastmodified":1514492379,
+    "wof:lastmodified":1559595196,
     "wof:name":"Herpt",
     "wof:parent_id":404474395,
     "wof:placetype":"locality",

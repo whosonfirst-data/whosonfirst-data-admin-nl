@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000455,
-    "geom:area_square_m":3456095.972492,
+    "geom:area_square_m":3456095.972493,
     "geom:bbox":"4.19619988576,52.0447268883,4.22889410976,52.0664121247",
     "geom:latitude":52.055532,
     "geom:longitude":4.212971,
@@ -33,12 +33,13 @@
     "reversegeo:longitude":4.212974,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687041,
         102191581,
         1108808099,
         85633337,
         101752763,
-        1108808039,
-        85687041
+        136253051,
+        1108808039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,6 +50,7 @@
             "borough_id":1108808039,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752763,
             "macrohood_id":1108808099,
             "neighbourhood_id":1108808193,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1108808193,
-    "wof:lastmodified":1507246055,
+    "wof:lastmodified":1559595513,
     "wof:name":"Ockenburgh",
     "wof:parent_id":1108808099,
     "wof:placetype":"neighbourhood",

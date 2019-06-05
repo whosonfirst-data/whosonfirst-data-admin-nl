@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002403,
-    "geom:area_square_m":17904556.116749,
+    "geom:area_square_m":17904556.116748,
     "geom:bbox":"6.20067402504,52.9233474459,6.29188622671,52.967053924",
     "geom:latitude":52.941602,
     "geom:longitude":6.242719,
@@ -34,10 +34,11 @@
     "reversegeo:longitude":6.242715,
     "src:geom":"mz",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473785,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +50,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473785,
             "locality_id":1141960587,
             "region_id":85687055
         }
     ],
     "wof:id":1141960587,
-    "wof:lastmodified":1514492219,
+    "wof:lastmodified":1559595012,
     "wof:name":"Elsloo",
     "wof:parent_id":404473785,
     "wof:placetype":"locality",

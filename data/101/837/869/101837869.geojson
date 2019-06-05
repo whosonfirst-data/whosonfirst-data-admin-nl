@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001734,
-    "geom:area_square_m":12863853.755898,
+    "geom:area_square_m":12863853.755897,
     "geom:bbox":"6.53819703261,53.1128357169,6.61905311003,53.1486832356",
     "geom:latitude":53.131139,
     "geom:longitude":6.57441,
@@ -77,10 +77,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":154,
     "wof:belongsto":[
+        85687051,
         102191581,
         404474647,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,13 +99,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474647,
             "locality_id":101837869,
             "region_id":85687051
         }
     ],
     "wof:id":101837869,
-    "wof:lastmodified":1527715304,
+    "wof:lastmodified":1559595071,
     "wof:name":"Eelde",
     "wof:parent_id":404474647,
     "wof:placetype":"locality",

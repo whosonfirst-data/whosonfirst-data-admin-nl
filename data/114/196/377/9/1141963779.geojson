@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
-    "geom:area_square_m":438098.024165,
+    "geom:area_square_m":438098.024166,
     "geom:bbox":"5.85114611681,51.8326234714,5.85996270576,51.8425064646",
     "geom:latitude":51.838353,
     "geom:longitude":5.855676,
@@ -46,12 +46,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         1158784051,
         404473925,
         85633337,
         101751859,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,6 +64,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473925,
             "locality_id":101751859,
             "macrohood_id":1158784051,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1141963779,
-    "wof:lastmodified":1514492000,
+    "wof:lastmodified":1559596971,
     "wof:name":"Bottendaal",
     "wof:parent_id":1158784051,
     "wof:placetype":"neighbourhood",

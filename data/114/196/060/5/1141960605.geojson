@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000443,
-    "geom:area_square_m":3269235.4826,
+    "geom:area_square_m":3269235.482598,
     "geom:bbox":"5.92038856282,53.3154720105,5.95583839634,53.3408504339",
     "geom:latitude":53.32762,
     "geom:longitude":5.93837,
@@ -46,10 +46,11 @@
     "reversegeo:longitude":5.942802,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473755,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +62,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473755,
             "locality_id":1141960605,
             "region_id":85687055
         }
     ],
     "wof:id":1141960605,
-    "wof:lastmodified":1514492838,
+    "wof:lastmodified":1559595017,
     "wof:name":"Raard",
     "wof:parent_id":404473755,
     "wof:placetype":"locality",

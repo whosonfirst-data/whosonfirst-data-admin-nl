@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000354,
-    "geom:area_square_m":2638076.759417,
+    "geom:area_square_m":2638076.759416,
     "geom:bbox":"5.4302499197,52.9668854931,5.46068505022,52.9865094737",
     "geom:latitude":52.976499,
     "geom:longitude":5.447043,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.447042,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
         101807455,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":101807455,
             "neighbourhood_id":1126132259,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126132259,
-    "wof:lastmodified":1507246103,
+    "wof:lastmodified":1559596122,
     "wof:name":"Workum",
     "wof:parent_id":101807455,
     "wof:placetype":"neighbourhood",

@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687043,
+        102191581,
+        404474671,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"a01a865f1539283c782520f82266b7f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209422515
+            "empire_id":136253051,
+            "localadmin_id":404474671,
+            "locality_id":1209422515,
+            "region_id":85687043
         }
     ],
     "wof:id":1209422515,
-    "wof:lastmodified":1536287484,
+    "wof:lastmodified":1559594363,
     "wof:name":"Respelhoek",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

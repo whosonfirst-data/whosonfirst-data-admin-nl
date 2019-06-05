@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000647,
-    "geom:area_square_m":4922470.263554,
+    "geom:area_square_m":4922470.263556,
     "geom:bbox":"4.83907978824,52.0339974276,4.88134403106,52.0634463325",
     "geom:latitude":52.050156,
     "geom:longitude":4.860293,
@@ -40,19 +40,21 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404474237,
-        85633337
+        85633337,
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"3241c41f77f81c5201ebad00e0e73b15",
+    "wof:geomhash":"85de8caaaaa768fa808c8447038da256",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474237,
             "locality_id":-1,
             "neighbourhood_id":1158788723,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1158788723,
-    "wof:lastmodified":1513622034,
+    "wof:lastmodified":1559595651,
     "wof:name":"Diemerbroek",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -70,7 +72,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.839079788242651,
+    4.83907978824265,
     52.03399742756452,
     4.88134403105906,
     52.06344633254791

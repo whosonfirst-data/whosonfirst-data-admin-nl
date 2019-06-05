@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001022,
-    "geom:area_square_m":7621191.138653,
+    "geom:area_square_m":7621191.138652,
     "geom:bbox":"6.06769648243,52.8781428293,6.1206839855,52.9100726447",
     "geom:latitude":52.89209,
     "geom:longitude":6.093718,
@@ -34,10 +34,11 @@
     "reversegeo:longitude":6.093714,
     "src:geom":"mz",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473801,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +50,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473801,
             "locality_id":1141960611,
             "region_id":85687055
         }
     ],
     "wof:id":1141960611,
-    "wof:lastmodified":1514492063,
+    "wof:lastmodified":1559594953,
     "wof:name":"De Hoeve",
     "wof:parent_id":404473801,
     "wof:placetype":"locality",

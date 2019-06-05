@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000059,
-    "geom:area_square_m":450165.98573,
+    "geom:area_square_m":450165.985731,
     "geom:bbox":"4.38812905961,52.1391590638,4.39806800213,52.1487903046",
     "geom:latitude":52.143749,
     "geom:longitude":4.392369,
@@ -46,21 +46,23 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
         1158831323,
         85633337,
         101754719,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
     "wof:created":1491360183,
-    "wof:geomhash":"63ecc2e9884b946077fbccdaea130769",
+    "wof:geomhash":"a31dd7fee9232c90a49e5595e32e0bc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101754719,
             "macrohood_id":1158831323,
             "neighbourhood_id":1108938157,
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":1108938157,
-    "wof:lastmodified":1513587940,
+    "wof:lastmodified":1559596014,
     "wof:name":"Dorp Wassenaar",
     "wof:parent_id":1158831323,
     "wof:placetype":"neighbourhood",
@@ -78,7 +80,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.388129059614935,
+    4.38812905961494,
     52.13915906379045,
     4.39806800213346,
     52.14879030464723

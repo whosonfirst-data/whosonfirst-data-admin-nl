@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001629,
-    "geom:area_square_m":12558647.783758,
+    "geom:area_square_m":12558647.78376,
     "geom:bbox":"5.31580803932,51.3980480015,5.39643906576,51.4389087971",
     "geom:latitude":51.418872,
     "geom:longitude":5.355634,
@@ -63,10 +63,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474443,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,13 +85,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474443,
             "locality_id":101758611,
             "region_id":85687035
         }
     ],
     "wof:id":101758611,
-    "wof:lastmodified":1514492734,
+    "wof:lastmodified":1559594041,
     "wof:name":"Oerle",
     "wof:parent_id":404474443,
     "wof:placetype":"locality",

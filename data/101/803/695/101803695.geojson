@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003194,
-    "geom:area_square_m":24310185.676289,
+    "geom:area_square_m":24310185.67629,
     "geom:bbox":"4.54633927541,51.9684552093,4.63680252299,52.0412800813",
     "geom:latitude":52.006511,
     "geom:longitude":4.581997,
@@ -53,10 +53,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":129,
     "wof:belongsto":[
+        85687041,
         102191581,
         1158824737,
         85633337,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +74,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158824737,
             "locality_id":101803695,
             "region_id":85687041
         }
     ],
     "wof:id":101803695,
-    "wof:lastmodified":1527642764,
+    "wof:lastmodified":1559594148,
     "wof:name":"Zevenhuizen",
     "wof:parent_id":1158824737,
     "wof:placetype":"locality",

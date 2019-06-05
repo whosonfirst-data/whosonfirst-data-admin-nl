@@ -32,7 +32,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687039,
+        102191581,
+        404474341,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"8e7387939a22ee125c5f4d8bd02703f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209599727
+            "empire_id":136253051,
+            "localadmin_id":404474341,
+            "locality_id":1209599727,
+            "region_id":85687039
         }
     ],
     "wof:id":1209599727,
-    "wof:lastmodified":1537675622,
+    "wof:lastmodified":1559594388,
     "wof:name":"Geer",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

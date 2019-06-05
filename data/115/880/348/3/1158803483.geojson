@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000767,
-    "geom:area_square_m":5762906.618716,
+    "geom:area_square_m":5762906.618717,
     "geom:bbox":"6.00361900697,52.541894279,6.0704144766,52.5672799086",
     "geom:latitude":52.553898,
     "geom:longitude":6.03817,
@@ -46,12 +46,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         1158805799,
         404473861,
         85633337,
         101751861,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,6 +64,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473861,
             "locality_id":101751861,
             "macrohood_id":1158805799,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1158803483,
-    "wof:lastmodified":1514492571,
+    "wof:lastmodified":1559597101,
     "wof:name":"Mastenbroek",
     "wof:parent_id":1158805799,
     "wof:placetype":"neighbourhood",

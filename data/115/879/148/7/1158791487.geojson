@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00003,
-    "geom:area_square_m":227837.726284,
+    "geom:area_square_m":227837.726285,
     "geom:bbox":"6.27797270032,52.7355291184,6.28661100785,52.7439742182",
     "geom:latitude":52.739785,
     "geom:longitude":6.282213,
@@ -44,16 +44,18 @@
         102191581,
         404474601,
         85633337,
-        101808789
+        101808789,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"7731e6042b0937683181f36f7a079f59",
+    "wof:geomhash":"66317171a7a2ff22088f3c8779e820dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474601,
             "locality_id":101808789,
             "neighbourhood_id":1158791487,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158791487,
-    "wof:lastmodified":1513292343,
+    "wof:lastmodified":1559595504,
     "wof:name":"Oosteinde",
     "wof:parent_id":101808789,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.277972700321815,
-    52.735529118379475,
+    6.27797270032181,
+    52.73552911837947,
     6.28661100784826,
     52.74397421821314
 ],

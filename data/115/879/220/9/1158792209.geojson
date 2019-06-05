@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000825,
-    "geom:area_square_m":6165861.132295,
+    "geom:area_square_m":6165861.132296,
     "geom:bbox":"6.45545074346,52.795847796,6.49263291964,52.8336540911",
     "geom:latitude":52.813205,
     "geom:longitude":6.474985,
@@ -57,10 +57,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474649,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,13 +73,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474649,
             "locality_id":1158792209,
             "region_id":85687051
         }
     ],
     "wof:id":1158792209,
-    "wof:lastmodified":1514492947,
+    "wof:lastmodified":1559595133,
     "wof:name":"Spier",
     "wof:parent_id":404474649,
     "wof:placetype":"locality",

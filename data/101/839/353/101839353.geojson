@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000981,
-    "geom:area_square_m":7520786.620844,
+    "geom:area_square_m":7520786.620845,
     "geom:bbox":"5.1030273081,51.6921204195,5.16346736694,51.7163073081",
     "geom:latitude":51.703496,
     "geom:longitude":5.13245,
@@ -62,10 +62,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474395,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,13 +83,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474395,
             "locality_id":101839353,
             "region_id":85687035
         }
     ],
     "wof:id":101839353,
-    "wof:lastmodified":1514492219,
+    "wof:lastmodified":1559594881,
     "wof:name":"Elshout",
     "wof:parent_id":404474395,
     "wof:placetype":"locality",

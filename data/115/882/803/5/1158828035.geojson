@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000045,
-    "geom:area_square_m":340995.88334,
+    "geom:area_square_m":340995.883341,
     "geom:bbox":"4.52852984254,52.0059810464,4.53772198954,52.0138276164",
     "geom:latitude":52.009871,
     "geom:longitude":4.533056,
@@ -45,16 +45,18 @@
         1158831311,
         404474555,
         85633337,
-        101807025
+        101807025,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"5b7a6c2be6758c1ae84c78cf42bd4625",
+    "wof:geomhash":"6cf68ee75f374f8b30d3b1f95b32ec39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474555,
             "locality_id":101807025,
             "macrohood_id":1158831311,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1158828035,
-    "wof:lastmodified":1513588193,
+    "wof:lastmodified":1559596668,
     "wof:name":"Oranjebuurt",
     "wof:parent_id":1158831311,
     "wof:placetype":"neighbourhood",
@@ -73,8 +75,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.528529842542254,
-    52.005981046391454,
+    4.52852984254225,
+    52.00598104639145,
     4.53772198953742,
     52.01382761640833
 ],

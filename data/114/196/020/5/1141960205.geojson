@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000421,
-    "geom:area_square_m":3119983.442938,
+    "geom:area_square_m":3119983.442937,
     "geom:bbox":"5.72482790165,53.1593779102,5.76563681396,53.1743427901",
     "geom:latitude":53.166724,
     "geom:longitude":5.747994,
@@ -40,10 +40,11 @@
     "reversegeo:longitude":5.750017,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473817,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473817,
             "locality_id":1141960205,
             "region_id":85687055
         }
     ],
     "wof:id":1141960205,
-    "wof:lastmodified":1514492445,
+    "wof:lastmodified":1559594654,
     "wof:name":"Jellum",
     "wof:parent_id":404473817,
     "wof:placetype":"locality",

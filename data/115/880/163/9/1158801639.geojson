@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000676,
-    "geom:area_square_m":5169599.732818,
+    "geom:area_square_m":5169599.732819,
     "geom:bbox":"5.51454908938,51.7885619644,5.56277390386,51.8165851698",
     "geom:latitude":51.800458,
     "geom:longitude":5.539163,
@@ -51,10 +51,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474415,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +67,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474415,
             "locality_id":1158801639,
             "region_id":85687035
         }
     ],
     "wof:id":1158801639,
-    "wof:lastmodified":1514492564,
+    "wof:lastmodified":1559595138,
     "wof:name":"Macharen",
     "wof:parent_id":404474415,
     "wof:placetype":"locality",

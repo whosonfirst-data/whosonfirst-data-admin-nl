@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000583,
-    "geom:area_square_m":4303144.735814,
+    "geom:area_square_m":4303144.735815,
     "geom:bbox":"5.94730784106,53.3210913466,5.99170713501,53.3450807819",
     "geom:latitude":53.333866,
     "geom:longitude":5.96555,
@@ -46,10 +46,11 @@
     "reversegeo:longitude":5.962159,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473755,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +62,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473755,
             "locality_id":1141960595,
             "region_id":85687055
         }
     ],
     "wof:id":1141960595,
-    "wof:lastmodified":1514491998,
+    "wof:lastmodified":1559595011,
     "wof:name":"Bornwird",
     "wof:parent_id":404473755,
     "wof:placetype":"locality",

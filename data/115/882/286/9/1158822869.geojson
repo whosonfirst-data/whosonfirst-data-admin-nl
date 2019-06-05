@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000434,
-    "geom:area_square_m":3266595.378143,
+    "geom:area_square_m":3266595.378144,
     "geom:bbox":"4.90609401561,52.4739945642,4.94894212573,52.4904344771",
     "geom:latitude":52.481941,
     "geom:longitude":4.929558,
@@ -52,10 +52,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         404474091,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +68,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474091,
             "locality_id":1158822869,
             "region_id":85687053
         }
     ],
     "wof:id":1158822869,
-    "wof:lastmodified":1514492837,
+    "wof:lastmodified":1559595215,
     "wof:name":"Purmerland",
     "wof:parent_id":404474091,
     "wof:placetype":"locality",

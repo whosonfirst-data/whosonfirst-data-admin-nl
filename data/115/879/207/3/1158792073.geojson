@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001562,
-    "geom:area_square_m":11620363.397963,
+    "geom:area_square_m":11620363.397962,
     "geom:bbox":"6.85694608582,52.9834206151,6.93568480465,53.0180509292",
     "geom:latitude":53.000211,
     "geom:longitude":6.891768,
@@ -48,10 +48,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474593,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +64,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474593,
             "locality_id":1158792073,
             "region_id":85687051
         }
     ],
     "wof:id":1158792073,
-    "wof:lastmodified":1514492256,
+    "wof:lastmodified":1559595128,
     "wof:name":"Gasselternijveenschemond",
     "wof:parent_id":404474593,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00043,
-    "geom:area_square_m":3187362.174026,
+    "geom:area_square_m":3187362.174027,
     "geom:bbox":"5.65296347129,53.151735131,5.68593174231,53.1778175585",
     "geom:latitude":53.163859,
     "geom:longitude":5.669497,
@@ -40,10 +40,11 @@
     "reversegeo:longitude":5.669248,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473817,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473817,
             "locality_id":1141960667,
             "region_id":85687055
         }
     ],
     "wof:id":1141960667,
-    "wof:lastmodified":1514492431,
+    "wof:lastmodified":1559594566,
     "wof:name":"Huns",
     "wof:parent_id":404473817,
     "wof:placetype":"locality",

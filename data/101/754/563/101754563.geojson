@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004545,
-    "geom:area_square_m":34976129.285288,
+    "geom:area_square_m":34976129.285289,
     "geom:bbox":"5.34936182524,51.4717564039,5.44750769325,51.5483532679",
     "geom:latitude":51.513657,
     "geom:longitude":5.396465,
@@ -187,10 +187,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474353,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -208,6 +209,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474353,
             "locality_id":101754563,
             "region_id":85687035
@@ -217,7 +219,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1514491952,
+    "wof:lastmodified":1559594038,
     "wof:name":"Best",
     "wof:parent_id":404474353,
     "wof:placetype":"locality",

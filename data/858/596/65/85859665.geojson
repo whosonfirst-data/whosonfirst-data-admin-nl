@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000347,
-    "geom:area_square_m":2648808.085621,
+    "geom:area_square_m":2648808.08562,
     "geom:bbox":"4.36201678106,51.9086088468,4.40836281906,51.9362315964",
     "geom:latitude":51.924724,
     "geom:longitude":4.381224,
@@ -99,8 +99,9 @@
     "wd:wordcount":73,
     "wof:belongsto":[
         102191581,
-        101751845,
         85633337,
+        101751845,
+        136253051,
         85687041
     ],
     "wof:breaches":[],
@@ -119,6 +120,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751845,
             "neighbourhood_id":85859665,
             "region_id":85687041
@@ -128,7 +130,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527270337,
+    "wof:lastmodified":1559595944,
     "wof:name":"Bijdorp",
     "wof:parent_id":101751845,
     "wof:placetype":"neighbourhood",

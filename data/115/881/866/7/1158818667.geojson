@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000024,
-    "geom:area_square_m":180840.488146,
+    "geom:area_square_m":180840.488145,
     "geom:bbox":"4.66471075683,52.4824222031,4.67251509045,52.4882692753",
     "geom:latitude":52.485076,
     "geom:longitude":4.668225,
@@ -45,16 +45,18 @@
         1158823149,
         404474043,
         85633337,
-        101754793
+        101754793,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"3da5597fbda5ade8452d5a2f68cbd8c1",
+    "wof:geomhash":"5ef6c26a7f3c6643f7b1997021db8a2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474043,
             "locality_id":101754793,
             "macrohood_id":1158823149,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1158818667,
-    "wof:lastmodified":1513464085,
+    "wof:lastmodified":1559595935,
     "wof:name":"Beijnes",
     "wof:parent_id":1158823149,
     "wof:placetype":"neighbourhood",
@@ -73,7 +75,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.664710756825855,
+    4.66471075682585,
     52.48242220309048,
     4.67251509045483,
     52.48826927528916

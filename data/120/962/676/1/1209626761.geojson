@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687043,
+        102191581,
+        404473865,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"6c59985555dcfb03c7a6d4a8b8076162",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209626761
+            "empire_id":136253051,
+            "localadmin_id":404473865,
+            "locality_id":1209626761,
+            "region_id":85687043
         }
     ],
     "wof:id":1209626761,
-    "wof:lastmodified":1537675621,
+    "wof:lastmodified":1559594381,
     "wof:name":"Groot Entink",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404473865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

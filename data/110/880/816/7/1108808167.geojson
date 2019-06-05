@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
-    "geom:area_square_m":270381.438817,
+    "geom:area_square_m":270381.438818,
     "geom:bbox":"4.27528134422,52.099957676,4.28637753107,52.1063967267",
     "geom:latitude":52.103568,
     "geom:longitude":4.280791,
@@ -33,12 +33,13 @@
     "reversegeo:longitude":4.280875,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687041,
         102191581,
         1108833207,
         85633337,
         101752763,
-        1108808041,
-        85687041
+        136253051,
+        1108808041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,6 +50,7 @@
             "borough_id":1108808041,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752763,
             "macrohood_id":1108833207,
             "neighbourhood_id":1108808167,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1108808167,
-    "wof:lastmodified":1507246054,
+    "wof:lastmodified":1559597033,
     "wof:name":"Visserijbuurt",
     "wof:parent_id":1108833207,
     "wof:placetype":"neighbourhood",

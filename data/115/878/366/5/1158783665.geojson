@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000292,
-    "geom:area_square_m":2212357.11907,
+    "geom:area_square_m":2212357.119071,
     "geom:bbox":"5.7366788347,52.2454168197,5.76144867593,52.271672708",
     "geom:latitude":52.258312,
     "geom:longitude":5.748992,
@@ -37,26 +37,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473899,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"2a2c05ee5ac2787e95eec07d833aa7cc",
+    "wof:geomhash":"03810c9bbb35e84d0239329fbc926423",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473899,
             "locality_id":1158783665,
             "region_id":85687043
         }
     ],
     "wof:id":1158783665,
-    "wof:lastmodified":1513368074,
+    "wof:lastmodified":1559594553,
     "wof:name":"De Beek",
     "wof:parent_id":404473899,
     "wof:placetype":"locality",
@@ -69,7 +71,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.736678834696119,
+    5.73667883469612,
     52.24541681968424,
     5.76144867592777,
     52.27167270802596

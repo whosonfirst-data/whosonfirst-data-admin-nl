@@ -34,7 +34,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687055,
+        102191581,
+        1141960735,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +48,18 @@
     "wof:geomhash":"6655fde768adae3b17fcb5572ef9f396",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209109201
+            "empire_id":136253051,
+            "localadmin_id":1141960735,
+            "locality_id":1209109201,
+            "region_id":85687055
         }
     ],
     "wof:id":1209109201,
-    "wof:lastmodified":1537675612,
+    "wof:lastmodified":1559594342,
     "wof:name":"Laad en Zaad",
-    "wof:parent_id":85633337,
+    "wof:parent_id":1141960735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

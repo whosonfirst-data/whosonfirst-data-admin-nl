@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001242,
-    "geom:area_square_m":9531562.283935,
+    "geom:area_square_m":9531562.283933,
     "geom:bbox":"4.62440793898,51.6239342193,4.69907212031,51.6611889599",
     "geom:latitude":51.644054,
     "geom:longitude":4.661502,
@@ -44,16 +44,18 @@
         102191581,
         404474623,
         85633337,
-        1158801531
+        1158801531,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"9ac2bbe683645a2c96840b8f2754cf46",
+    "wof:geomhash":"e947958255fe53542bd017eb02463923",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474623,
             "locality_id":1158801531,
             "neighbourhood_id":1158800181,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158800181,
-    "wof:lastmodified":1513432806,
+    "wof:lastmodified":1559595897,
     "wof:name":"Verspreide huizen Langeweg",
     "wof:parent_id":1158801531,
     "wof:placetype":"neighbourhood",
@@ -72,8 +74,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.624407938983643,
-    51.623934219292636,
+    4.62440793898364,
+    51.62393421929264,
     4.69907212030868,
     51.66118895991847
 ],

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00335,
-    "geom:area_square_m":25039618.790332,
+    "geom:area_square_m":25039618.790327,
     "geom:bbox":"6.47849084799,52.7693461725,6.58190222406,52.8367461643",
     "geom:latitude":52.805974,
     "geom:longitude":6.522148,
@@ -44,16 +44,18 @@
         102191581,
         404474649,
         85633337,
-        1158792211
+        1158792211,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"9d351121eba579e29bc5c3c59c1750ef",
+    "wof:geomhash":"9584720c33391516342b887ab4c241d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474649,
             "locality_id":1158792211,
             "neighbourhood_id":1158791815,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158791815,
-    "wof:lastmodified":1513292366,
+    "wof:lastmodified":1559596791,
     "wof:name":"Verspreide huizen Wijster",
     "wof:parent_id":1158792211,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.478490847992427,
+    6.47849084799243,
     52.76934617251835,
     6.58190222406038,
     52.83674616431346

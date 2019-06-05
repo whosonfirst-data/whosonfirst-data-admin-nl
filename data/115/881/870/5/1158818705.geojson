@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000207,
-    "geom:area_square_m":1561116.235063,
+    "geom:area_square_m":1561116.235064,
     "geom:bbox":"4.65407207404,52.4694997267,4.68300034499,52.484327634",
     "geom:latitude":52.477221,
     "geom:longitude":4.667945,
@@ -61,11 +61,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         404474043,
         85633337,
         101754793,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,6 +78,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474043,
             "locality_id":101754793,
             "neighbourhood_id":1158818705,
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":1158818705,
-    "wof:lastmodified":1514492068,
+    "wof:lastmodified":1559596037,
     "wof:name":"De Pijp",
     "wof:parent_id":101754793,
     "wof:placetype":"neighbourhood",

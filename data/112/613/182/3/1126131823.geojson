@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000066,
-    "geom:area_square_m":489669.014071,
+    "geom:area_square_m":489669.01407,
     "geom:bbox":"5.30189451004,53.3867689977,5.31925688432,53.3921593461",
     "geom:latitude":53.38961,
     "geom:longitude":5.31059,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.31059,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473795,
         85633337,
         1141960183,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473795,
             "locality_id":1141960183,
             "neighbourhood_id":1126131823,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126131823,
-    "wof:lastmodified":1507246100,
+    "wof:lastmodified":1559596251,
     "wof:name":"Formerum",
     "wof:parent_id":1141960183,
     "wof:placetype":"neighbourhood",

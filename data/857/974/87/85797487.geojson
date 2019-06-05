@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
-    "geom:area_square_m":694903.198528,
+    "geom:area_square_m":694903.198527,
     "geom:bbox":"4.31672246986,52.0990161144,4.33306041358,52.1092873506",
     "geom:latitude":52.104304,
     "geom:longitude":4.32529,
@@ -74,12 +74,13 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
         1108805961,
         85633337,
         101752763,
-        1108808045,
-        85687041
+        136253051,
+        1108808045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +96,7 @@
             "borough_id":1108808045,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752763,
             "macrohood_id":1108805961,
             "neighbourhood_id":85797487,
@@ -105,7 +107,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1497308204,
+    "wof:lastmodified":1559596008,
     "wof:name":"Duinzigt",
     "wof:parent_id":1108805961,
     "wof:placetype":"neighbourhood",

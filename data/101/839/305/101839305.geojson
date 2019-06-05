@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000935,
-    "geom:area_square_m":7257483.893596,
+    "geom:area_square_m":7257483.893599,
     "geom:bbox":"5.87570574328,51.0711284158,5.92855110247,51.1104411189",
     "geom:latitude":51.093452,
     "geom:longitude":5.901659,
@@ -69,10 +69,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687033,
         102191581,
         404474627,
         85633337,
-        85687033
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,13 +89,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474627,
             "locality_id":101839305,
             "region_id":85687033
         }
     ],
     "wof:id":101839305,
-    "wof:lastmodified":1514492823,
+    "wof:lastmodified":1559594132,
     "wof:name":"Peij",
     "wof:parent_id":404474627,
     "wof:placetype":"locality",

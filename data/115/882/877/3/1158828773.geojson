@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000047,
-    "geom:area_square_m":356624.808571,
+    "geom:area_square_m":356624.808569,
     "geom:bbox":"4.81328756659,51.8754171181,4.82585066922,51.8819869404",
     "geom:latitude":51.878723,
     "geom:longitude":4.81948,
@@ -44,16 +44,18 @@
         102191581,
         1158824743,
         85633337,
-        101855293
+        101855293,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"d51b14de8747b6c6a41b1a1176254b2e",
+    "wof:geomhash":"5c7b3307d140a8782c22300e7adeebc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158824743,
             "locality_id":101855293,
             "neighbourhood_id":1158828773,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158828773,
-    "wof:lastmodified":1513588273,
+    "wof:lastmodified":1559596730,
     "wof:name":"Gijbeland Kern",
     "wof:parent_id":101855293,
     "wof:placetype":"neighbourhood",
@@ -71,9 +73,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.813287566589699,
-    51.875417118078445,
-    4.825850669217576,
+    4.8132875665897,
+    51.87541711807845,
+    4.82585066921758,
     51.88198694041669
 ],
   "geometry": {"coordinates":[[[[4.81611903678416,51.87541711807845],[4.8132875665897,51.87960993475156],[4.82264410752864,51.88198694041669],[4.82582537515159,51.87799051058162],[4.82585066921758,51.87794568901757],[4.81611903678416,51.87541711807845]]]],"type":"MultiPolygon"}

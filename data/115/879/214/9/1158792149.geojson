@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002291,
-    "geom:area_square_m":17103156.416214,
+    "geom:area_square_m":17103156.416213,
     "geom:bbox":"6.21895967467,52.8367559429,6.3026422612,52.8855186178",
     "geom:latitude":52.857909,
     "geom:longitude":6.259917,
@@ -51,10 +51,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474613,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +67,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474613,
             "locality_id":1158792149,
             "region_id":85687051
         }
     ],
     "wof:id":1158792149,
-    "wof:lastmodified":1514493177,
+    "wof:lastmodified":1559595127,
     "wof:name":"Wapse",
     "wof:parent_id":404474613,
     "wof:placetype":"locality",

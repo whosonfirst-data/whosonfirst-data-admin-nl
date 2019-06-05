@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000418,
-    "geom:area_square_m":3171461.796151,
+    "geom:area_square_m":3171461.796152,
     "geom:bbox":"4.28665395259,52.1068087565,4.32883585635,52.1283241007",
     "geom:latitude":52.116374,
     "geom:longitude":4.307167,
@@ -33,12 +33,13 @@
     "reversegeo:longitude":4.306848,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687041,
         102191581,
         1108808115,
         85633337,
         101752763,
-        1108808041,
-        85687041
+        136253051,
+        1108808041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,6 +50,7 @@
             "borough_id":1108808041,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752763,
             "macrohood_id":1108808115,
             "neighbourhood_id":1108808137,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1108808137,
-    "wof:lastmodified":1507246054,
+    "wof:lastmodified":1559596283,
     "wof:name":"Oostduinen",
     "wof:parent_id":1108808115,
     "wof:placetype":"neighbourhood",

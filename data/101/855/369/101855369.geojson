@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006512,
-    "geom:area_square_m":49541776.893085,
+    "geom:area_square_m":49541776.893083,
     "geom:bbox":"5.80296055955,51.995878304,5.95593093554,52.0778905302",
     "geom:latitude":52.029911,
     "geom:longitude":5.881675,
@@ -52,10 +52,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473871,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,13 +73,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473871,
             "locality_id":101855369,
             "region_id":85687043
         }
     ],
     "wof:id":101855369,
-    "wof:lastmodified":1514492869,
+    "wof:lastmodified":1559594615,
     "wof:name":"Schaarsbergen",
     "wof:parent_id":404473871,
     "wof:placetype":"locality",

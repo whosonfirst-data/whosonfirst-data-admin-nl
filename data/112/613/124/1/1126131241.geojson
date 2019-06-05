@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001193,
-    "geom:area_square_m":8846693.652989,
+    "geom:area_square_m":8846693.652987,
     "geom:bbox":"5.41347866792,53.1433327789,5.49639351504,53.1783827384",
     "geom:latitude":53.161498,
     "geom:longitude":5.461858,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.465949,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473769,
         85633337,
         101806147,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473769,
             "locality_id":101806147,
             "neighbourhood_id":1126131241,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126131241,
-    "wof:lastmodified":1507246093,
+    "wof:lastmodified":1559595869,
     "wof:name":"Verspreide huizen Harlingen",
     "wof:parent_id":101806147,
     "wof:placetype":"neighbourhood",

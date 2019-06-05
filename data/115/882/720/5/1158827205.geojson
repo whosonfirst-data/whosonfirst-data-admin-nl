@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000282,
-    "geom:area_square_m":2156914.768479,
+    "geom:area_square_m":2156914.76848,
     "geom:bbox":"4.3832286714,51.8400732328,4.4237522535,51.8551877423",
     "geom:latitude":51.84671,
     "geom:longitude":4.398672,
@@ -45,16 +45,18 @@
         1158831133,
         404474263,
         85633337,
-        101754731
+        101754731,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"d005978f64de3c478e9d9991b65243ec",
+    "wof:geomhash":"c08037b22ab248392178f8f2dfac7741",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474263,
             "locality_id":101754731,
             "macrohood_id":1158831133,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1158827205,
-    "wof:lastmodified":1513588129,
+    "wof:lastmodified":1559596823,
     "wof:name":"Polder Albrandswaard",
     "wof:parent_id":1158831133,
     "wof:placetype":"neighbourhood",
@@ -73,8 +75,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.383228671398228,
-    51.840073232753866,
+    4.38322867139823,
+    51.84007323275387,
     4.42375225349777,
     51.85518774225297
 ],

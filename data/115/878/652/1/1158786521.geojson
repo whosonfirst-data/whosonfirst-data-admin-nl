@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000906,
-    "geom:area_square_m":6968436.725212,
+    "geom:area_square_m":6968436.725213,
     "geom:bbox":"3.60980668584,51.5252565352,3.64547715996,51.5657175621",
     "geom:latitude":51.543608,
     "geom:longitude":3.627522,
@@ -52,10 +52,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687037,
         102191581,
         404474333,
         85633337,
-        85687037
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +68,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474333,
             "locality_id":1158786521,
             "region_id":85687037
         }
     ],
     "wof:id":1158786521,
-    "wof:lastmodified":1514492254,
+    "wof:lastmodified":1559595149,
     "wof:name":"Gapinge",
     "wof:parent_id":404474333,
     "wof:placetype":"locality",

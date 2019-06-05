@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001127,
-    "geom:area_square_m":8653596.549225,
+    "geom:area_square_m":8653596.549226,
     "geom:bbox":"5.14485265294,51.5976644634,5.21077018221,51.6407178158",
     "geom:latitude":51.624135,
     "geom:longitude":5.178653,
@@ -51,10 +51,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474387,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,18 +66,19 @@
         "tgn:id":7256597
     },
     "wof:country":"NL",
-    "wof:geomhash":"652c9933c9376eb290f939298aaac805",
+    "wof:geomhash":"54d0b7603e1b991fd17bb71e3b64c4d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474387,
             "locality_id":101855231,
             "region_id":85687035
         }
     ],
     "wof:id":101855231,
-    "wof:lastmodified":1513432040,
+    "wof:lastmodified":1559594323,
     "wof:name":"Biezenmortel",
     "wof:parent_id":404474387,
     "wof:placetype":"locality",
@@ -86,8 +88,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.144852652941847,
-    51.597664463407014,
+    5.14485265294185,
+    51.59766446340701,
     5.2107701822089,
     51.64071781582667
 ],

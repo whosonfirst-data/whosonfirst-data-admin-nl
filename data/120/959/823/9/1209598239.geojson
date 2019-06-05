@@ -28,24 +28,32 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687045,
+        102191581,
+        404474611,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2743557
     },
     "wof:country":"NL",
-    "wof:geomhash":"70ab759fd9a500df68b0336ae83a26c4",
+    "wof:geomhash":"8b3c6be476b43ecbe04742ff05dad8ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209598239
+            "empire_id":136253051,
+            "localadmin_id":404474611,
+            "locality_id":1209598239,
+            "region_id":85687045
         }
     ],
     "wof:id":1209598239,
-    "wof:lastmodified":1536282253,
+    "wof:lastmodified":1559594383,
     "wof:name":"Zwarte Gat",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
@@ -53,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.5666699999999985,
+    6.56667,
     52.46666999999999,
-    6.5666699999999985,
+    6.56667,
     52.46666999999999
 ],
   "geometry": {"coordinates":[6.56667,52.46666999999999],"type":"Point"}

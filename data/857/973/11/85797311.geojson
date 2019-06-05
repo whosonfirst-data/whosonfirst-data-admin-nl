@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1637767.747019,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.924121,52.955465,5.924121,52.955465",
     "geom:latitude":52.955465,
     "geom:longitude":5.924121,
@@ -57,7 +57,8 @@
         102191581,
         404473771,
         85633337,
-        101837957
+        101837957,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,6 +74,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473771,
             "locality_id":101837957,
             "neighbourhood_id":85797311,
@@ -83,7 +85,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861881,
+    "wof:lastmodified":1559595824,
     "wof:name":"De Greiden",
     "wof:parent_id":101837957,
     "wof:placetype":"neighbourhood",

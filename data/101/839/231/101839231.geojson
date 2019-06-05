@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000108,
-    "geom:area_square_m":836838.62315,
+    "geom:area_square_m":836838.623151,
     "geom:bbox":"5.81609289595,51.0393858541,5.82744815189,51.0558685222",
     "geom:latitude":51.047538,
     "geom:longitude":5.822892,
@@ -65,10 +65,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687033,
         102191581,
         404474675,
         85633337,
-        85687033
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,13 +86,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474675,
             "locality_id":101839231,
             "region_id":85687033
         }
     ],
     "wof:id":101839231,
-    "wof:lastmodified":1514492401,
+    "wof:lastmodified":1559594708,
     "wof:name":"Holtum",
     "wof:parent_id":404474675,
     "wof:placetype":"locality",

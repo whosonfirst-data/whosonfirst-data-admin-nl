@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000165,
-    "geom:area_square_m":1272816.758999,
+    "geom:area_square_m":1272816.758998,
     "geom:bbox":"5.28964393455,51.4997130154,5.30287202154,51.5178530678",
     "geom:latitude":51.509337,
     "geom:longitude":5.295266,
@@ -44,16 +44,18 @@
         102191581,
         404474407,
         85633337,
-        101809741
+        101809741,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"321b762860b272d8c02e0a27f47eaf0b",
+    "wof:geomhash":"bc5abe88adc986ced92f3ed8dbed2439",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474407,
             "locality_id":101809741,
             "neighbourhood_id":1158798369,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158798369,
-    "wof:lastmodified":1513432671,
+    "wof:lastmodified":1559596720,
     "wof:name":"Oirschot Noordoost",
     "wof:parent_id":101809741,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.289643934550598,
+    5.2896439345506,
     51.49971301535936,
     5.30287202153566,
     51.51785306777079

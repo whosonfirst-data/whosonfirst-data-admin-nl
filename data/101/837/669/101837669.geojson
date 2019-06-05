@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00414,
-    "geom:area_square_m":31337803.152121,
+    "geom:area_square_m":31337803.152123,
     "geom:bbox":"5.22290124692,52.2192733983,5.33124084165,52.2819261678",
     "geom:latitude":52.249879,
     "geom:longitude":5.279669,
@@ -162,6 +162,7 @@
     "wof:belongsto":[
         102191581,
         85633337,
+        136253051,
         85687039
     ],
     "wof:breaches":[],
@@ -178,12 +179,13 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101837669,
             "region_id":85687039
         }
     ],
     "wof:id":101837669,
-    "wof:lastmodified":1527715303,
+    "wof:lastmodified":1559594218,
     "wof:name":"Eemnes",
     "wof:parent_id":85687039,
     "wof:placetype":"locality",

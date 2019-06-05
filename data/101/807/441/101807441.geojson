@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001747,
-    "geom:area_square_m":12957304.568164,
+    "geom:area_square_m":12957304.568162,
     "geom:bbox":"5.8205611625,53.1216570658,5.88208834474,53.1703510707",
     "geom:latitude":53.146005,
     "geom:longitude":5.848366,
@@ -65,11 +65,11 @@
     "src:population":"geonames",
     "wd:wordcount":55,
     "wof:belongsto":[
+        85687055,
         102191581,
         404473775,
         85633337,
-        85687055,
-        404473751
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,15 +87,16 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473775,
             "locality_id":101807441,
             "region_id":85687055
         }
     ],
     "wof:id":101807441,
-    "wof:lastmodified":1527715101,
+    "wof:lastmodified":1559594164,
     "wof:name":"Warga",
-    "wof:parent_id":404473751,
+    "wof:parent_id":404473775,
     "wof:placetype":"locality",
     "wof:population":1622,
     "wof:population_rank":3,

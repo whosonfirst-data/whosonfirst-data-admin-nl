@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001949,
-    "geom:area_square_m":14760729.124536,
+    "geom:area_square_m":14760729.124537,
     "geom:bbox":"5.04051763967,52.2150498091,5.12266201158,52.2552645924",
     "geom:latitude":52.230209,
     "geom:longitude":5.089752,
@@ -86,10 +86,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687053,
         102191581,
         404474605,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,6 +109,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474605,
             "locality_id":101855425,
             "region_id":85687053
@@ -117,7 +119,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1514492473,
+    "wof:lastmodified":1559594328,
     "wof:name":"Kortenhoef",
     "wof:parent_id":404474605,
     "wof:placetype":"locality",

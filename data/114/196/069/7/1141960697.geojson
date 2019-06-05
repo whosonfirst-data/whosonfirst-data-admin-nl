@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000278,
-    "geom:area_square_m":2061012.632001,
+    "geom:area_square_m":2061012.632002,
     "geom:bbox":"5.58446885327,53.1826493746,5.61828858361,53.1992899733",
     "geom:latitude":53.190711,
     "geom:longitude":5.60282,
@@ -40,10 +40,11 @@
     "reversegeo:longitude":5.605876,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473767,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473767,
             "locality_id":1141960697,
             "region_id":85687055
         }
     ],
     "wof:id":1141960697,
-    "wof:lastmodified":1514493308,
+    "wof:lastmodified":1559595109,
     "wof:name":"Zweins",
     "wof:parent_id":404473767,
     "wof:placetype":"locality",

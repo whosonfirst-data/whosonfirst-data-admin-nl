@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000175,
-    "geom:area_square_m":1297997.562092,
+    "geom:area_square_m":1297997.562091,
     "geom:bbox":"5.61415689781,53.2410207722,5.63507454551,53.2557620507",
     "geom:latitude":53.248261,
     "geom:longitude":5.624725,
@@ -40,10 +40,11 @@
     "reversegeo:longitude":5.624014,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473783,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473783,
             "locality_id":1141960263,
             "region_id":85687055
         }
     ],
     "wof:id":1141960263,
-    "wof:lastmodified":1514493213,
+    "wof:lastmodified":1559594631,
     "wof:name":"Wier",
     "wof:parent_id":404473783,
     "wof:placetype":"locality",

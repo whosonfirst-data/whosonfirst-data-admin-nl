@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001157,
-    "geom:area_square_m":8569361.072214,
+    "geom:area_square_m":8569361.072212,
     "geom:bbox":"6.02739523726,53.1948920671,6.08628898256,53.2303303657",
     "geom:latitude":53.211306,
     "geom:longitude":6.053419,
@@ -40,10 +40,11 @@
     "reversegeo:longitude":6.052953,
     "src:geom":"mz",
     "wof:belongsto":[
+        85687055,
         102191581,
         404474343,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474343,
             "locality_id":1141960607,
             "region_id":85687055
         }
     ],
     "wof:id":1141960607,
-    "wof:lastmodified":1514492445,
+    "wof:lastmodified":1559594283,
     "wof:name":"Jistrum",
     "wof:parent_id":404474343,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000522,
-    "geom:area_square_m":3927883.560263,
+    "geom:area_square_m":3927883.560261,
     "geom:bbox":"5.98383519934,52.5260064255,6.03046492641,52.5455371852",
     "geom:latitude":52.53585,
     "geom:longitude":6.009733,
@@ -49,10 +49,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473839,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473839,
             "locality_id":1158805651,
             "region_id":85687045
         }
     ],
     "wof:id":1158805651,
-    "wof:lastmodified":1514491796,
+    "wof:lastmodified":1559595182,
     "wof:name":"'s-Heerenbroek",
     "wof:parent_id":404473839,
     "wof:placetype":"locality",

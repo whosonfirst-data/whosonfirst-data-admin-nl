@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001305,
-    "geom:area_square_m":9801145.147905,
+    "geom:area_square_m":9801145.147906,
     "geom:bbox":"4.90830626389,52.5593968347,4.95932072472,52.6141075238",
     "geom:latitude":52.585402,
     "geom:longitude":4.93458,
@@ -37,10 +37,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687053,
         102191581,
         404474039,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +53,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474039,
             "locality_id":1158822797,
             "region_id":85687053
         }
     ],
     "wof:id":1158822797,
-    "wof:lastmodified":1514492712,
+    "wof:lastmodified":1559595155,
     "wof:name":"Noordbeemster",
     "wof:parent_id":404474039,
     "wof:placetype":"locality",

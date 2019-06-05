@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687059,
+        102191581,
+        404474561,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"e1680ed3b547887a0b324a9d6c9c5d25",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209247689
+            "empire_id":136253051,
+            "localadmin_id":404474561,
+            "locality_id":1209247689,
+            "region_id":85687059
         }
     ],
     "wof:id":1209247689,
-    "wof:lastmodified":1536293107,
+    "wof:lastmodified":1559594358,
     "wof:name":"Westerhorn",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474561,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

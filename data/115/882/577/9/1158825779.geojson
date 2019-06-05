@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000019,
-    "geom:area_square_m":145102.757412,
+    "geom:area_square_m":145102.757413,
     "geom:bbox":"4.70831140061,51.7970990621,4.71770085328,51.8008858151",
     "geom:latitude":51.798862,
     "geom:longitude":4.713203,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         1158829555,
         85633337,
         101751841,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"82a1274c3f87ea2fac623d172d5460a9",
+    "wof:geomhash":"c9cf0bc473f798a14641e6463f1b09cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751841,
             "macrohood_id":1158829555,
             "neighbourhood_id":1158825779,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158825779,
-    "wof:lastmodified":1513588016,
+    "wof:lastmodified":1559596549,
     "wof:name":"Vissersdijk-Oost",
     "wof:parent_id":1158829555,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.708311400605424,
+    4.70831140060542,
     51.79709906207088,
     4.71770085327699,
     51.80088581512049

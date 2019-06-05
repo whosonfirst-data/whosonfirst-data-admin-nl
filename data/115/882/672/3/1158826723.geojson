@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000056,
-    "geom:area_square_m":425677.439406,
+    "geom:area_square_m":425677.439405,
     "geom:bbox":"4.46828333157,51.8226065165,4.49176367399,51.8304191384",
     "geom:latitude":51.825867,
     "geom:longitude":4.477659,
@@ -44,16 +44,18 @@
         102191581,
         404474233,
         85633337,
-        101808489
+        101808489,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"910c01aeeb3b55361639edbe14e8ed5b",
+    "wof:geomhash":"cf9cf806afd6a0ed0c5331f39ccd7300",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474233,
             "locality_id":101808489,
             "neighbourhood_id":1158826723,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158826723,
-    "wof:lastmodified":1513588087,
+    "wof:lastmodified":1559596482,
     "wof:name":"Heinenoord",
     "wof:parent_id":101808489,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.468283331566839,
+    4.46828333156684,
     51.82260651653692,
     4.49176367399194,
     51.83041913840531

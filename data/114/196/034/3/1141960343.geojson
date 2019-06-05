@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001285,
-    "geom:area_square_m":9591638.23139,
+    "geom:area_square_m":9591638.231392,
     "geom:bbox":"5.57209778238,52.8505488316,5.64415929857,52.8862678795",
     "geom:latitude":52.867283,
     "geom:longitude":5.60863,
@@ -48,10 +48,11 @@
     "reversegeo:longitude":5.608633,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960737,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +64,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960737,
             "locality_id":1141960343,
             "region_id":85687055
         }
     ],
     "wof:id":1141960343,
-    "wof:lastmodified":1514492945,
+    "wof:lastmodified":1559594992,
     "wof:name":"Sondel",
     "wof:parent_id":1141960737,
     "wof:placetype":"locality",

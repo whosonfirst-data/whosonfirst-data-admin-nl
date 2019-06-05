@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001892,
-    "geom:area_square_m":14385877.082897,
+    "geom:area_square_m":14385877.082895,
     "geom:bbox":"4.2350539963,52.014848433,4.3098123513,52.0706437778",
     "geom:latitude":52.044057,
     "geom:longitude":4.276603,
@@ -24,10 +24,11 @@
     "reversegeo:longitude":4.277163,
     "src:geom":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101752763,
         85633337,
-        85687041
+        101752763,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -38,12 +39,13 @@
             "borough_id":1108808051,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752763,
             "region_id":85687041
         }
     ],
     "wof:id":1108808051,
-    "wof:lastmodified":1507246140,
+    "wof:lastmodified":1559595252,
     "wof:name":"Escamp",
     "wof:parent_id":101752763,
     "wof:placetype":"borough",

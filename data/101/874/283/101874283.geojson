@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001384,
-    "geom:area_square_m":10304792.667246,
+    "geom:area_square_m":10304792.667245,
     "geom:bbox":"5.69736916057,52.9448282349,5.76897518247,53.0013805573",
     "geom:latitude":52.975706,
     "geom:longitude":5.732457,
@@ -66,10 +66,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":306,
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960737,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,13 +87,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960737,
             "locality_id":101874283,
             "region_id":85687055
         }
     ],
     "wof:id":101874283,
-    "wof:lastmodified":1527642360,
+    "wof:lastmodified":1559594920,
     "wof:name":"Boornzwaag",
     "wof:parent_id":1141960737,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000989,
-    "geom:area_square_m":7542065.19157,
+    "geom:area_square_m":7542065.191572,
     "geom:bbox":"6.55260492268,51.8881093674,6.61963521184,51.9183105821",
     "geom:latitude":51.903631,
     "geom:longitude":6.586274,
@@ -46,10 +46,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473865,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +62,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473865,
             "locality_id":1158783383,
             "region_id":85687043
         }
     ],
     "wof:id":1158783383,
-    "wof:lastmodified":1514492381,
+    "wof:lastmodified":1559594938,
     "wof:name":"Heurne",
     "wof:parent_id":404473865,
     "wof:placetype":"locality",

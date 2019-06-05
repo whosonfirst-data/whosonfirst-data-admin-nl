@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000218,
-    "geom:area_square_m":1623640.613772,
+    "geom:area_square_m":1623640.613771,
     "geom:bbox":"5.16588307248,52.9992590741,5.34070336518,53.0802480298",
     "geom:latitude":53.040716,
     "geom:longitude":5.249323,
@@ -39,10 +39,11 @@
     "reversegeo:longitude":5.248108,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         1141960735,
-        85633337
+        85633337,
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -52,6 +53,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":-1,
             "neighbourhood_id":1126132453,
@@ -59,7 +61,7 @@
         }
     ],
     "wof:id":1126132453,
-    "wof:lastmodified":1513450254,
+    "wof:lastmodified":1559595855,
     "wof:name":"Kornwerderzand",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

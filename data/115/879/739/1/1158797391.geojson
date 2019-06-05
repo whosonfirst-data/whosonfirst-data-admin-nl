@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000033,
-    "geom:area_square_m":256559.881549,
+    "geom:area_square_m":256559.881548,
     "geom:bbox":"5.45431866729,51.4568657192,5.46379639338,51.4640790419",
     "geom:latitude":51.460772,
     "geom:longitude":5.459139,
@@ -50,7 +50,8 @@
         102191581,
         1158801473,
         85633337,
-        101751819
+        101751819,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +63,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751819,
             "macrohood_id":1158801473,
             "neighbourhood_id":1158797391,
@@ -69,7 +71,7 @@
         }
     ],
     "wof:id":1158797391,
-    "wof:lastmodified":1514491923,
+    "wof:lastmodified":1559595690,
     "wof:name":"Barrier",
     "wof:parent_id":1158801473,
     "wof:placetype":"neighbourhood",

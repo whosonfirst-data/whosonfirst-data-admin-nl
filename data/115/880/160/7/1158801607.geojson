@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001307,
-    "geom:area_square_m":10029542.183343,
+    "geom:area_square_m":10029542.183344,
     "geom:bbox":"5.73900257349,51.6326679803,5.78966725897,51.6726996205",
     "geom:latitude":51.654731,
     "geom:longitude":5.764634,
@@ -36,26 +36,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474403,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"b0ae1d28be8b6ced3c823f909bbebe40",
+    "wof:geomhash":"89563fe7355b4bc9b9cb33891cdff8d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474403,
             "locality_id":1158801607,
             "region_id":85687035
         }
     ],
     "wof:id":1158801607,
-    "wof:lastmodified":1513432147,
+    "wof:lastmodified":1559595111,
     "wof:name":"Wilbertoord",
     "wof:parent_id":404474403,
     "wof:placetype":"locality",
@@ -65,7 +67,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.739002573485789,
+    5.73900257348579,
     51.63266798027469,
     5.78966725896855,
     51.67269962046985

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00065,
-    "geom:area_square_m":4828004.701786,
+    "geom:area_square_m":4828004.701785,
     "geom:bbox":"6.30527376208,53.0709315113,6.3560052024,53.0940527845",
     "geom:latitude":53.082436,
     "geom:longitude":6.33199,
@@ -46,10 +46,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474609,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +62,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474609,
             "locality_id":1158792145,
             "region_id":85687051
         }
     ],
     "wof:id":1158792145,
-    "wof:lastmodified":1514492195,
+    "wof:lastmodified":1559595222,
     "wof:name":"Een-West",
     "wof:parent_id":404474609,
     "wof:placetype":"locality",

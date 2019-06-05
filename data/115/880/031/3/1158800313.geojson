@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000673,
-    "geom:area_square_m":5182460.784359,
+    "geom:area_square_m":5182460.784361,
     "geom:bbox":"4.78068408794,51.4817900462,4.82974613849,51.5161510736",
     "geom:latitude":51.501155,
     "geom:longitude":4.806752,
@@ -43,10 +43,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474637,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474637,
             "locality_id":1158800313,
             "region_id":85687035
         }
     ],
     "wof:id":1158800313,
-    "wof:lastmodified":1514492966,
+    "wof:lastmodified":1559594069,
     "wof:name":"Strijbeek",
     "wof:parent_id":404474637,
     "wof:placetype":"locality",

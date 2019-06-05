@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001366,
-    "geom:area_square_m":10104434.064136,
+    "geom:area_square_m":10104434.064135,
     "geom:bbox":"5.55113446008,53.2254671096,5.62857513263,53.2643709514",
     "geom:latitude":53.247027,
     "geom:longitude":5.590429,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.607456,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473763,
         85633337,
         101807403,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473763,
             "locality_id":101807403,
             "neighbourhood_id":1126131131,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126131131,
-    "wof:lastmodified":1507246092,
+    "wof:lastmodified":1559595878,
     "wof:name":"Verspreide huizen Minnertsga",
     "wof:parent_id":101807403,
     "wof:placetype":"neighbourhood",

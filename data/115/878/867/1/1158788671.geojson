@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000414,
-    "geom:area_square_m":3150844.470643,
+    "geom:area_square_m":3150844.470644,
     "geom:bbox":"5.10444912124,52.0299563652,5.12968164428,52.0583235797",
     "geom:latitude":52.045277,
     "geom:longitude":5.11722,
@@ -41,25 +41,27 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        101751825,
         85633337,
+        101751825,
+        136253051,
         85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"8f5035914bd924be7938dbb52254468d",
+    "wof:geomhash":"cdc0931dcc17485c71014cf48c9542f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751825,
             "neighbourhood_id":1158788671,
             "region_id":85687039
         }
     ],
     "wof:id":1158788671,
-    "wof:lastmodified":1513622029,
+    "wof:lastmodified":1559596527,
     "wof:name":"Laagraven",
     "wof:parent_id":101751825,
     "wof:placetype":"neighbourhood",
@@ -69,8 +71,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.104449121235116,
-    52.029956365193065,
+    5.10444912123512,
+    52.02995636519307,
     5.12968164428283,
     52.05832357971458
 ],

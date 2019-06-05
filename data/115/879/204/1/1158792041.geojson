@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000204,
-    "geom:area_square_m":1531215.183012,
+    "geom:area_square_m":1531215.183013,
     "geom:bbox":"6.23388616799,52.6824919036,6.28384607186,52.6904205269",
     "geom:latitude":52.687256,
     "geom:longitude":6.258905,
@@ -43,10 +43,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687051,
         102191581,
         404473813,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +59,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473813,
             "locality_id":1158792041,
             "region_id":85687051
         }
     ],
     "wof:id":1158792041,
-    "wof:lastmodified":1514492858,
+    "wof:lastmodified":1559595205,
     "wof:name":"Rogat",
     "wof:parent_id":404473813,
     "wof:placetype":"locality",

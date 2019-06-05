@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687035,
+        102191581,
+        404474397,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"b96f21273ec7e8aed63419b1e09c7a75",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209607613
+            "empire_id":136253051,
+            "localadmin_id":404474397,
+            "locality_id":1209607613,
+            "region_id":85687035
         }
     ],
     "wof:id":1209607613,
-    "wof:lastmodified":1536281956,
+    "wof:lastmodified":1559594382,
     "wof:name":"Slibbroek",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

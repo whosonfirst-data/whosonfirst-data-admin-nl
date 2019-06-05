@@ -32,7 +32,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687043,
+        102191581,
+        404473913,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"2e4d3ed4b8c12bf7c704b375371cc4ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209517295
+            "empire_id":136253051,
+            "localadmin_id":404473913,
+            "locality_id":1209517295,
+            "region_id":85687043
         }
     ],
     "wof:id":1209517295,
-    "wof:lastmodified":1537675601,
+    "wof:lastmodified":1559594386,
     "wof:name":"Schoonenburg",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404473913,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

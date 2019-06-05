@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004969,
-    "geom:area_square_m":37095657.699095,
+    "geom:area_square_m":37095657.699096,
     "geom:bbox":"6.25918987486,52.8120561477,6.37326558306,52.9049685969",
     "geom:latitude":52.859204,
     "geom:longitude":6.312192,
@@ -89,10 +89,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":340,
     "wof:belongsto":[
+        85687051,
         102191581,
         404474613,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,13 +111,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474613,
             "locality_id":101807287,
             "region_id":85687051
         }
     ],
     "wof:id":101807287,
-    "wof:lastmodified":1527715100,
+    "wof:lastmodified":1559595074,
     "wof:name":"Diever",
     "wof:parent_id":404474613,
     "wof:placetype":"locality",

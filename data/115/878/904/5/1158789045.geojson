@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
-    "geom:area_square_m":1008322.803497,
+    "geom:area_square_m":1008322.803496,
     "geom:bbox":"5.02246409302,52.2021379867,5.03742102122,52.2251184629",
     "geom:latitude":52.210902,
     "geom:longitude":5.032098,
@@ -44,16 +44,18 @@
         102191581,
         1158787499,
         85633337,
-        101806991
+        101806991,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"f0a93a0f60995aef8e60fc6b67a2a20c",
+    "wof:geomhash":"48769aebce58b689afa8aa87f890a474",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1158787499,
             "locality_id":101806991,
             "neighbourhood_id":1158789045,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158789045,
-    "wof:lastmodified":1513622062,
+    "wof:lastmodified":1559595677,
     "wof:name":"Polder Oud Over",
     "wof:parent_id":101806991,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.022464093024896,
-    52.202137986715044,
+    5.0224640930249,
+    52.20213798671504,
     5.03742102122458,
     52.22511846292212
 ],

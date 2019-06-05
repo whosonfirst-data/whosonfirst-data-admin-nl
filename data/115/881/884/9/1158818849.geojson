@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000053,
-    "geom:area_square_m":402984.965553,
+    "geom:area_square_m":402984.965552,
     "geom:bbox":"4.96759110277,52.338959978,4.9858642089,52.3476086889",
     "geom:latitude":52.343684,
     "geom:longitude":4.976735,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         1158823005,
         85633337,
         1158822543,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"66c051e9d18f8b707a41fab2bee769c7",
+    "wof:geomhash":"8888376423e5d18a21eb55fee3a2dbf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":1158822543,
             "macrohood_id":1158823005,
             "neighbourhood_id":1158818849,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158818849,
-    "wof:lastmodified":1513464101,
+    "wof:lastmodified":1559595454,
     "wof:name":"Buitenlust",
     "wof:parent_id":1158823005,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.967591102766524,
+    4.96759110276652,
     52.33895997796928,
     4.98586420890282,
     52.34760868891131

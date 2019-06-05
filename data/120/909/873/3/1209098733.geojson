@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687035,
+        102191581,
+        404474419,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"d986f2e047e0e90f252d1802b04f7cef",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209098733
+            "empire_id":136253051,
+            "localadmin_id":404474419,
+            "locality_id":1209098733,
+            "region_id":85687035
         }
     ],
     "wof:id":1209098733,
-    "wof:lastmodified":1536297802,
+    "wof:lastmodified":1559594342,
     "wof:name":"Oetelaar",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474419,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

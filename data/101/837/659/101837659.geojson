@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002282,
-    "geom:area_square_m":17325225.333658,
+    "geom:area_square_m":17325225.333655,
     "geom:bbox":"5.40008214567,52.1004002579,5.47717548589,52.1480268367",
     "geom:latitude":52.125309,
     "geom:longitude":5.441531,
@@ -161,10 +161,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":552,
     "wof:belongsto":[
+        85687039,
         102191581,
         404473989,
         85633337,
-        85687039
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -179,13 +180,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473989,
             "locality_id":101837659,
             "region_id":85687039
         }
     ],
     "wof:id":101837659,
-    "wof:lastmodified":1527715304,
+    "wof:lastmodified":1559594703,
     "wof:name":"Leusden",
     "wof:parent_id":404473989,
     "wof:placetype":"locality",

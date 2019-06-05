@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000236,
-    "geom:area_square_m":1747012.968792,
+    "geom:area_square_m":1747012.968791,
     "geom:bbox":"6.69713075718,53.1616057607,6.72919588933,53.1746401162",
     "geom:latitude":53.169109,
     "geom:longitude":6.714044,
@@ -48,10 +48,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687059,
         102191581,
         404473719,
         85633337,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +64,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473719,
             "locality_id":1158796473,
             "region_id":85687059
         }
     ],
     "wof:id":1158796473,
-    "wof:lastmodified":1514492251,
+    "wof:lastmodified":1559595173,
     "wof:name":"Foxhol",
     "wof:parent_id":404473719,
     "wof:placetype":"locality",

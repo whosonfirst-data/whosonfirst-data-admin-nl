@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00088,
-    "geom:area_square_m":6705414.276876,
+    "geom:area_square_m":6705414.276875,
     "geom:bbox":"6.59751932349,51.9395372955,6.63947192146,51.9702761624",
     "geom:latitude":51.955758,
     "geom:longitude":6.617211,
@@ -294,10 +294,11 @@
     "src:population":"geonames",
     "wd:wordcount":606,
     "wof:belongsto":[
+        85687043,
         102191581,
         404473865,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -315,13 +316,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473865,
             "locality_id":101808611,
             "region_id":85687043
         }
     ],
     "wof:id":101808611,
-    "wof:lastmodified":1527715327,
+    "wof:lastmodified":1559595125,
     "wof:name":"Bredevoort",
     "wof:parent_id":404473865,
     "wof:placetype":"locality",

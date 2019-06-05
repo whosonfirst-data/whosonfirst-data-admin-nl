@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000383,
-    "geom:area_square_m":2851468.813871,
+    "geom:area_square_m":2851468.81387,
     "geom:bbox":"6.79554509292,52.9306757928,6.82542557611,52.9543106432",
     "geom:latitude":52.942831,
     "geom:longitude":6.810122,
@@ -57,10 +57,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474595,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,13 +73,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474595,
             "locality_id":1158792091,
             "region_id":85687051
         }
     ],
     "wof:id":1158792091,
-    "wof:lastmodified":1514492014,
+    "wof:lastmodified":1559595126,
     "wof:name":"Bronneger",
     "wof:parent_id":404474595,
     "wof:placetype":"locality",

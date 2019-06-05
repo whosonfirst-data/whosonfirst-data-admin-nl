@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000105,
-    "geom:area_square_m":801480.741642,
+    "geom:area_square_m":801480.741641,
     "geom:bbox":"4.2450171937,51.9213736124,4.26612838151,51.9327329892",
     "geom:latitude":51.926875,
     "geom:longitude":4.254619,
@@ -39,26 +39,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101754631,
         85633337,
-        85687041
+        101754631,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"14ae36a1b5abc45e123dd6aec2631f41",
+    "wof:geomhash":"8a49d9d72715627b657f34ea9a6fe5bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101754631,
             "macrohood_id":1158831267,
             "region_id":85687041
         }
     ],
     "wof:id":1158831267,
-    "wof:lastmodified":1513587529,
+    "wof:lastmodified":1559595330,
     "wof:name":"Dijkpolder",
     "wof:parent_id":101754631,
     "wof:placetype":"macrohood",
@@ -69,7 +71,7 @@
 },
   "bbox": [
     4.2450171937014,
-    51.921373612446736,
+    51.92137361244674,
     4.26612838151495,
     51.93273298922162
 ],

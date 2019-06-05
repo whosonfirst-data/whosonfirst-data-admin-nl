@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001959,
-    "geom:area_square_m":14951605.250891,
+    "geom:area_square_m":14951605.250893,
     "geom:bbox":"4.37213743271,51.8664183336,4.46341620043,51.902416086",
     "geom:latitude":51.885591,
     "geom:longitude":4.42465,
@@ -39,10 +39,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101751843,
         85633337,
-        85687041
+        101751843,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,12 +54,13 @@
             "borough_id":1158831803,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751843,
             "region_id":85687041
         }
     ],
     "wof:id":1158831803,
-    "wof:lastmodified":1513535777,
+    "wof:lastmodified":1559595246,
     "wof:name":"Waalhaven-Eemhaven",
     "wof:parent_id":101751843,
     "wof:placetype":"borough",

@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         1158829611,
         85633337,
         101752765,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"254dbc9892ceb17b44b926eeb80b2b19",
+    "wof:geomhash":"b148c81be464095f12a56f6d47def34c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752765,
             "macrohood_id":1158829611,
             "neighbourhood_id":1158825427,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158825427,
-    "wof:lastmodified":1513587993,
+    "wof:lastmodified":1559596357,
     "wof:name":"Bomenwijk",
     "wof:parent_id":1158829611,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.361936381090583,
-    52.016581605076404,
+    4.36193638109058,
+    52.0165816050764,
     4.36965202092373,
     52.02119870798577
 ],

@@ -28,24 +28,32 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687035,
+        102191581,
+        404474407,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6544828
     },
     "wof:country":"NL",
-    "wof:geomhash":"28c7472b59e85ddf8a0e2f9ac0a2b60e",
+    "wof:geomhash":"58334f4d53ef69f8ec92b64a0b986863",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209103703
+            "empire_id":136253051,
+            "localadmin_id":404474407,
+            "locality_id":1209103703,
+            "region_id":85687035
         }
     ],
     "wof:id":1209103703,
-    "wof:lastmodified":1536297648,
+    "wof:lastmodified":1559594340,
     "wof:name":"Pandgat",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474407,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
@@ -53,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.2819400000000005,
+    5.28194,
     51.5175,
-    5.2819400000000005,
+    5.28194,
     51.5175
 ],
   "geometry": {"coordinates":[5.28194,51.5175],"type":"Point"}

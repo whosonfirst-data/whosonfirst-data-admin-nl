@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000109,
-    "geom:area_square_m":822967.960465,
+    "geom:area_square_m":822967.960466,
     "geom:bbox":"4.55940132817,52.2928946729,4.57782720207,52.3039913625",
     "geom:latitude":52.298209,
     "geom:longitude":4.569257,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         1158831233,
         85633337,
         101807029,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"077810437448fcbb238ed6031bf9c6f4",
+    "wof:geomhash":"3a622fd9c1116bd5105d55a45c5b093b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101807029,
             "macrohood_id":1158831233,
             "neighbourhood_id":1158826181,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158826181,
-    "wof:lastmodified":1513588047,
+    "wof:lastmodified":1559596261,
     "wof:name":"De Zanderij",
     "wof:parent_id":1158831233,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000988,
-    "geom:area_square_m":7447345.147288,
+    "geom:area_square_m":7447345.147289,
     "geom:bbox":"6.1516521363,52.4246008673,6.22287232515,52.4614877491",
     "geom:latitude":52.442276,
     "geom:longitude":6.184965,
@@ -40,10 +40,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473849,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473849,
             "locality_id":1158805679,
             "region_id":85687045
         }
     ],
     "wof:id":1158805679,
-    "wof:lastmodified":1514492536,
+    "wof:lastmodified":1559595188,
     "wof:name":"Lierderholthuis",
     "wof:parent_id":404473849,
     "wof:placetype":"locality",

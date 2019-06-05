@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687059,
+        102191581,
+        1158792361,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"be1472bf120e067ee610ed5ca50299d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209639463
+            "empire_id":136253051,
+            "localadmin_id":1158792361,
+            "locality_id":1209639463,
+            "region_id":85687059
         }
     ],
     "wof:id":1209639463,
-    "wof:lastmodified":1536280930,
+    "wof:lastmodified":1559594386,
     "wof:name":"Oostwolderpolder",
-    "wof:parent_id":85633337,
+    "wof:parent_id":1158792361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000826,
-    "geom:area_square_m":6160033.420853,
+    "geom:area_square_m":6160033.420854,
     "geom:bbox":"6.75550758264,52.8789715911,6.80311437439,52.9041298147",
     "geom:latitude":52.891414,
     "geom:longitude":6.779959,
@@ -49,10 +49,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474595,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474595,
             "locality_id":1158792107,
             "region_id":85687051
         }
     ],
     "wof:id":1158792107,
-    "wof:lastmodified":1514492197,
+    "wof:lastmodified":1559595206,
     "wof:name":"Eesergroen",
     "wof:parent_id":404474595,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00124,
-    "geom:area_square_m":9173709.052535,
+    "geom:area_square_m":9173709.052534,
     "geom:bbox":"6.34377502226,53.2520680025,6.41827808692,53.2822246554",
     "geom:latitude":53.263972,
     "geom:longitude":6.381111,
@@ -58,10 +58,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687059,
         102191581,
         404473753,
         85633337,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,13 +79,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473753,
             "locality_id":101837985,
             "region_id":85687059
         }
     ],
     "wof:id":101837985,
-    "wof:lastmodified":1514492714,
+    "wof:lastmodified":1559595137,
     "wof:name":"Noordhorn",
     "wof:parent_id":404473753,
     "wof:placetype":"locality",

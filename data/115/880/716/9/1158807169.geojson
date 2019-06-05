@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000131,
-    "geom:area_square_m":1023423.128403,
+    "geom:area_square_m":1023423.128402,
     "geom:bbox":"5.83934015382,50.8505773806,5.86290814693,50.8600294037",
     "geom:latitude":50.855257,
     "geom:longitude":5.851203,
@@ -44,16 +44,18 @@
         102191581,
         404474537,
         85633337,
-        1158817973
+        1158817973,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"91602b3f92779a500d296db643f91fee",
+    "wof:geomhash":"a41d654ea512fc4a271aaa2d48bfd888",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474537,
             "locality_id":1158817973,
             "neighbourhood_id":1158807169,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158807169,
-    "wof:lastmodified":1513404082,
+    "wof:lastmodified":1559596594,
     "wof:name":"Oud-Valkenburg",
     "wof:parent_id":1158817973,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.839340153816305,
+    5.8393401538163,
     50.85057738059415,
     5.86290814692749,
     50.86002940374659

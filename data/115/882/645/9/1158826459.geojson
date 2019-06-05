@@ -41,25 +41,27 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        101754677,
         85633337,
+        101754677,
+        136253051,
         85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"e84759cb906733475853e31d1513de61",
+    "wof:geomhash":"8e65fa2e6bfcdbee1d1422f484d2656a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101754677,
             "neighbourhood_id":1158826459,
             "region_id":85687041
         }
     ],
     "wof:id":1158826459,
-    "wof:lastmodified":1513588066,
+    "wof:lastmodified":1559595630,
     "wof:name":"Binnenhof",
     "wof:parent_id":101754677,
     "wof:placetype":"neighbourhood",
@@ -69,9 +71,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.532558600575481,
-    52.161801999638406,
-    4.542076503511423,
+    4.53255860057548,
+    52.16180199963841,
+    4.54207650351142,
     52.16755290582044
 ],
   "geometry": {"coordinates":[[[[4.53255860057548,52.16458629321284],[4.53822526117811,52.16755290582044],[4.54207650351142,52.16458490610873],[4.53669694476393,52.16180199963841],[4.53255860057548,52.16458629321284]]]],"type":"MultiPolygon"}

@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687035,
+        102191581,
+        404474405,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"f3a590ad5bfee53558ebe253046ef078",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209128161
+            "empire_id":136253051,
+            "localadmin_id":404474405,
+            "locality_id":1209128161,
+            "region_id":85687035
         }
     ],
     "wof:id":1209128161,
-    "wof:lastmodified":1536296891,
+    "wof:lastmodified":1559594345,
     "wof:name":"Langlaar",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

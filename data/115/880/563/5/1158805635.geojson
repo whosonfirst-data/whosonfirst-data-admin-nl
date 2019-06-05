@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001352,
-    "geom:area_square_m":10203902.157142,
+    "geom:area_square_m":10203902.157141,
     "geom:bbox":"6.4626099636,52.3619194563,6.51410825587,52.4024200546",
     "geom:latitude":52.383629,
     "geom:longitude":6.485908,
@@ -34,10 +34,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473835,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +50,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473835,
             "locality_id":1158805635,
             "region_id":85687045
         }
     ],
     "wof:id":1158805635,
-    "wof:lastmodified":1514492430,
+    "wof:lastmodified":1559595169,
     "wof:name":"Hulsen",
     "wof:parent_id":404473835,
     "wof:placetype":"locality",

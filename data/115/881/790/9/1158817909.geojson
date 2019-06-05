@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001105,
-    "geom:area_square_m":8560359.519538,
+    "geom:area_square_m":8560359.519539,
     "geom:bbox":"6.01264931183,51.1721491337,6.07314143593,51.2078139634",
     "geom:latitude":51.188038,
     "geom:longitude":6.045018,
@@ -51,10 +51,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687033,
         102191581,
         404474511,
         85633337,
-        85687033
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +67,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474511,
             "locality_id":1158817909,
             "region_id":85687033
         }
     ],
     "wof:id":1158817909,
-    "wof:lastmodified":1514491890,
+    "wof:lastmodified":1559594593,
     "wof:name":"Asenray",
     "wof:parent_id":404474511,
     "wof:placetype":"locality",

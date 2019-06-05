@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001572,
-    "geom:area_square_m":12057207.572688,
+    "geom:area_square_m":12057207.572686,
     "geom:bbox":"5.85579768745,51.6431606949,5.91941837231,51.6814088221",
     "geom:latitude":51.662233,
     "geom:longitude":5.889619,
@@ -58,10 +58,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474359,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,13 +79,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474359,
             "locality_id":101809669,
             "region_id":85687035
         }
     ],
     "wof:id":101809669,
-    "wof:lastmodified":1514492852,
+    "wof:lastmodified":1559595095,
     "wof:name":"Rijkevoort",
     "wof:parent_id":404474359,
     "wof:placetype":"locality",

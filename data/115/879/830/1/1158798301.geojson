@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":934415.640032,
+    "geom:area_square_m":934415.640031,
     "geom:bbox":"5.77563236875,51.6813913535,5.79215527961,51.6936175656",
     "geom:latitude":51.686843,
     "geom:longitude":5.782962,
@@ -44,16 +44,18 @@
         102191581,
         404474403,
         85633337,
-        101808275
+        101808275,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"2951491b9c1888dc73d0ce0e2799e7c2",
+    "wof:geomhash":"d6028050d7537b693f8ea64f9489cc08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474403,
             "locality_id":101808275,
             "neighbourhood_id":1158798301,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158798301,
-    "wof:lastmodified":1513432665,
+    "wof:lastmodified":1559596997,
     "wof:name":"Mill-Centrum",
     "wof:parent_id":101808275,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.775632368745039,
-    51.681391353459425,
+    5.77563236874504,
+    51.68139135345942,
     5.79215527960593,
     51.69361756563898
 ],

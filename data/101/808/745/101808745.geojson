@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001035,
-    "geom:area_square_m":7759507.100989,
+    "geom:area_square_m":7759507.100988,
     "geom:bbox":"5.93275059015,52.6661543711,5.9830169561,52.7049409637",
     "geom:latitude":52.683557,
     "geom:longitude":5.962809,
@@ -100,10 +100,11 @@
     "src:population":"geonames",
     "wd:wordcount":704,
     "wof:belongsto":[
+        85687045,
         102191581,
         404474621,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,13 +122,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474621,
             "locality_id":101808745,
             "region_id":85687045
         }
     ],
     "wof:id":101808745,
-    "wof:lastmodified":1527715354,
+    "wof:lastmodified":1559595171,
     "wof:name":"Vollenhove",
     "wof:parent_id":404474621,
     "wof:placetype":"locality",

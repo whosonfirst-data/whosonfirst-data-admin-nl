@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001448,
-    "geom:area_square_m":11002074.810368,
+    "geom:area_square_m":11002074.810369,
     "geom:bbox":"5.12237418751,52.0566880436,5.19515497057,52.0984020097",
     "geom:latitude":52.082477,
     "geom:longitude":5.15581,
@@ -35,10 +35,11 @@
     "reversegeo:longitude":5.147267,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687039,
         102191581,
-        101751827,
         85633337,
-        85687039
+        101751827,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,12 +50,13 @@
             "borough_id":1108808669,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751827,
             "region_id":85687039
         }
     ],
     "wof:id":1108808669,
-    "wof:lastmodified":1507246140,
+    "wof:lastmodified":1559595252,
     "wof:name":"Oost",
     "wof:parent_id":101751827,
     "wof:placetype":"borough",

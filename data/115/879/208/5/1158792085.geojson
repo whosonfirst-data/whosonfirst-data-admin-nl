@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006183,
-    "geom:area_square_m":46097313.005114,
+    "geom:area_square_m":46097313.005109,
     "geom:bbox":"6.61487755493,52.8681588166,6.73633707151,52.9589367629",
     "geom:latitude":52.918129,
     "geom:longitude":6.682678,
@@ -40,10 +40,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474593,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474593,
             "locality_id":1158792085,
             "region_id":85687051
         }
     ],
     "wof:id":1158792085,
-    "wof:lastmodified":1514492300,
+    "wof:lastmodified":1559595223,
     "wof:name":"Grolloo",
     "wof:parent_id":404474593,
     "wof:placetype":"locality",

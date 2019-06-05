@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001243,
-    "geom:area_square_m":9549444.137022,
+    "geom:area_square_m":9549444.137023,
     "geom:bbox":"3.84925597685,51.5514488082,3.89941370593,51.5955986095",
     "geom:latitude":51.571439,
     "geom:longitude":3.871247,
@@ -49,10 +49,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687037,
         102191581,
         404474603,
         85633337,
-        85687037
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474603,
             "locality_id":1158786539,
             "region_id":85687037
         }
     ],
     "wof:id":1158786539,
-    "wof:lastmodified":1514492460,
+    "wof:lastmodified":1559595159,
     "wof:name":"Kats",
     "wof:parent_id":404474603,
     "wof:placetype":"locality",

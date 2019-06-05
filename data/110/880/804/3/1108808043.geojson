@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00095,
-    "geom:area_square_m":7218105.596251,
+    "geom:area_square_m":7218105.596252,
     "geom:bbox":"4.22973759873,52.0626440241,4.29695953752,52.0916334187",
     "geom:latitude":52.0771,
     "geom:longitude":4.262232,
@@ -24,10 +24,11 @@
     "reversegeo:longitude":4.262749,
     "src:geom":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101752763,
         85633337,
-        85687041
+        101752763,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -38,12 +39,13 @@
             "borough_id":1108808043,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752763,
             "region_id":85687041
         }
     ],
     "wof:id":1108808043,
-    "wof:lastmodified":1507246140,
+    "wof:lastmodified":1559595250,
     "wof:name":"Segbroek",
     "wof:parent_id":101752763,
     "wof:placetype":"borough",

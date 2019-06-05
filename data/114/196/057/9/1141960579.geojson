@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001797,
-    "geom:area_square_m":13313053.284056,
+    "geom:area_square_m":13313053.284054,
     "geom:bbox":"5.85706545303,53.1683458535,5.96009102377,53.1953476099",
     "geom:latitude":53.18082,
     "geom:longitude":5.911667,
@@ -34,10 +34,11 @@
     "reversegeo:longitude":5.911814,
     "src:geom":"mz",
     "wof:belongsto":[
+        85687055,
         102191581,
         404474343,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +50,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474343,
             "locality_id":1141960579,
             "region_id":85687055
         }
     ],
     "wof:id":1141960579,
-    "wof:lastmodified":1514492976,
+    "wof:lastmodified":1559595007,
     "wof:name":"Suwald",
     "wof:parent_id":404474343,
     "wof:placetype":"locality",

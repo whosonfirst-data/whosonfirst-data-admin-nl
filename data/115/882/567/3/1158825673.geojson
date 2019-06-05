@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         1158831089,
         85633337,
         101751841,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"8b3820699533c4f7e6d2bd25ceacd817",
+    "wof:geomhash":"b5a70cada07a83e34d21cb902271a927",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751841,
             "macrohood_id":1158831089,
             "neighbourhood_id":1158825673,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158825673,
-    "wof:lastmodified":1513588010,
+    "wof:lastmodified":1559596335,
     "wof:name":"Bloemenbuurt",
     "wof:parent_id":1158831089,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.673475362447285,
-    51.802721266444905,
+    4.67347536244729,
+    51.80272126644491,
     4.67872604610498,
     51.80674911219033
 ],

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000614,
-    "geom:area_square_m":4528558.734054,
+    "geom:area_square_m":4528558.734053,
     "geom:bbox":"6.0727480007,53.3527982093,6.11354966351,53.3791169892",
     "geom:latitude":53.365629,
     "geom:longitude":6.093638,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":6.095494,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473755,
         85633337,
         1141960359,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473755,
             "locality_id":1141960359,
             "neighbourhood_id":1126130965,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126130965,
-    "wof:lastmodified":1507246091,
+    "wof:lastmodified":1559595861,
     "wof:name":"Verspreide huizen Morra",
     "wof:parent_id":1141960359,
     "wof:placetype":"neighbourhood",

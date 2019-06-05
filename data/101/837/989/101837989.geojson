@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001713,
-    "geom:area_square_m":12690533.962996,
+    "geom:area_square_m":12690533.962997,
     "geom:bbox":"6.32907057877,53.1486209609,6.37483546063,53.2112500778",
     "geom:latitude":53.181606,
     "geom:longitude":6.35348,
@@ -68,10 +68,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":198,
     "wof:belongsto":[
+        85687059,
         102191581,
         404473721,
         85633337,
-        85687059
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,13 +89,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473721,
             "locality_id":101837989,
             "region_id":85687059
         }
     ],
     "wof:id":101837989,
-    "wof:lastmodified":1527715317,
+    "wof:lastmodified":1559595201,
     "wof:name":"Tolbert",
     "wof:parent_id":404473721,
     "wof:placetype":"locality",

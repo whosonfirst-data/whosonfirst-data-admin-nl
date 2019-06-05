@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000913,
-    "geom:area_square_m":6731111.435371,
+    "geom:area_square_m":6731111.43537,
     "geom:bbox":"6.57477706066,53.3805920915,6.65246781282,53.4127399782",
     "geom:latitude":53.397459,
     "geom:longitude":6.605722,
@@ -44,16 +44,18 @@
         102191581,
         404474561,
         85633337,
-        101807517
+        101807517,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"7cc92ca7eb8b007bfd6c9f60cf8c537c",
+    "wof:geomhash":"64db14e91f3cccfd169c247760503a35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474561,
             "locality_id":101807517,
             "neighbourhood_id":1158793481,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158793481,
-    "wof:lastmodified":1513382310,
+    "wof:lastmodified":1559596361,
     "wof:name":"Overige verspreide huizen",
     "wof:parent_id":101807517,
     "wof:placetype":"neighbourhood",
@@ -72,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.574777060660232,
+    6.57477706066023,
     53.38059209145101,
     6.65246781281564,
     53.41273997822403

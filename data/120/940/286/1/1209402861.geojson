@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687041,
+        102191581,
+        404474677,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"5949c3f0e164d261742b1d0e7c59c7db",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209402861
+            "empire_id":136253051,
+            "localadmin_id":404474677,
+            "locality_id":1209402861,
+            "region_id":85687041
         }
     ],
     "wof:id":1209402861,
-    "wof:lastmodified":1536288088,
+    "wof:lastmodified":1559594364,
     "wof:name":"Woudse Dijk",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404474677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

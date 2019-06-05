@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003768,
-    "geom:area_square_m":28458383.391716,
+    "geom:area_square_m":28458383.391717,
     "geom:bbox":"5.67892158688,52.3178261517,5.77448638073,52.3907861948",
     "geom:latitude":52.355073,
     "geom:longitude":5.729346,
@@ -59,10 +59,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473963,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,13 +80,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473963,
             "locality_id":101807111,
             "region_id":85687043
         }
     ],
     "wof:id":101807111,
-    "wof:lastmodified":1514492431,
+    "wof:lastmodified":1559594089,
     "wof:name":"Hulshorst",
     "wof:parent_id":404473963,
     "wof:placetype":"locality",

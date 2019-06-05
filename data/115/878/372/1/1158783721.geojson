@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003368,
-    "geom:area_square_m":25569218.657637,
+    "geom:area_square_m":25569218.657636,
     "geom:bbox":"6.39152965512,52.0969079885,6.49217224022,52.1476506945",
     "geom:latitude":52.12267,
     "geom:longitude":6.442007,
@@ -40,10 +40,11 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473915,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +56,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473915,
             "locality_id":1158783721,
             "region_id":85687043
         }
     ],
     "wof:id":1158783721,
-    "wof:lastmodified":1514491920,
+    "wof:lastmodified":1559594073,
     "wof:name":"Barchem",
     "wof:parent_id":404473915,
     "wof:placetype":"locality",

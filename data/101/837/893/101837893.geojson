@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00307,
-    "geom:area_square_m":22871628.472378,
+    "geom:area_square_m":22871628.472379,
     "geom:bbox":"6.4026711562,52.9244390407,6.50882678839,52.9856263624",
     "geom:latitude":52.949101,
     "geom:longitude":6.45125,
@@ -105,10 +105,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":234,
     "wof:belongsto":[
+        85687051,
         102191581,
         404474649,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,13 +127,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474649,
             "locality_id":101837893,
             "region_id":85687051
         }
     ],
     "wof:id":101837893,
-    "wof:lastmodified":1527715304,
+    "wof:lastmodified":1559594997,
     "wof:name":"Smilde",
     "wof:parent_id":404474649,
     "wof:placetype":"locality",

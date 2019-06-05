@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000042,
-    "geom:area_square_m":313455.276639,
+    "geom:area_square_m":313455.276638,
     "geom:bbox":"5.51618650499,53.0598632816,5.52847442494,53.0664660521",
     "geom:latitude":53.062842,
     "geom:longitude":5.523328,
@@ -45,11 +45,12 @@
     "reversegeo:longitude":5.523421,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         1141960735,
         85633337,
         101806099,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -59,6 +60,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":1141960735,
             "locality_id":101806099,
             "neighbourhood_id":1126132201,
@@ -66,7 +68,7 @@
         }
     ],
     "wof:id":1126132201,
-    "wof:lastmodified":1507246103,
+    "wof:lastmodified":1559596784,
     "wof:name":"binnen De Wallen",
     "wof:parent_id":101806099,
     "wof:placetype":"neighbourhood",

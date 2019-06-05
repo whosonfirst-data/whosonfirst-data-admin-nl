@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000098,
-    "geom:area_square_m":748779.703067,
+    "geom:area_square_m":748779.703066,
     "geom:bbox":"5.30357022168,51.6927127094,5.32142190711,51.7019638806",
     "geom:latitude":51.697725,
     "geom:longitude":5.313024,
@@ -46,12 +46,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687035,
         102191581,
         1158801681,
         404474393,
         85633337,
         101751809,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,6 +64,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474393,
             "locality_id":101751809,
             "macrohood_id":1158801681,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1158797991,
-    "wof:lastmodified":1514492069,
+    "wof:lastmodified":1559597005,
     "wof:name":"De Vliert",
     "wof:parent_id":1158801681,
     "wof:placetype":"neighbourhood",

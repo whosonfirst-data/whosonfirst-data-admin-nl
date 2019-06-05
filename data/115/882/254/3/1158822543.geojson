@@ -10,7 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001704,
-    "geom:area_square_m":12874103.086821,
+    "geom:area_square_m":12874103.086823,
     "geom:bbox":"4.94269355778,52.3139788505,5.03522872269,52.3561016784",
     "geom:latitude":52.336475,
     "geom:longitude":4.986966,
@@ -160,6 +160,7 @@
     "wof:belongsto":[
         102191581,
         85633337,
+        136253051,
         85687053
     ],
     "wof:breaches":[],
@@ -172,12 +173,13 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":1158822543,
             "region_id":85687053
         }
     ],
     "wof:id":1158822543,
-    "wof:lastmodified":1514492110,
+    "wof:lastmodified":1559595164,
     "wof:name":"Diemen",
     "wof:parent_id":85687053,
     "wof:placetype":"locality",

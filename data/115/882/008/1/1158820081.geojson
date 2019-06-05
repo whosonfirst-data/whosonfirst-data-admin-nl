@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
-    "geom:area_square_m":720538.159811,
+    "geom:area_square_m":720538.159812,
     "geom:bbox":"5.20377819507,52.2817637526,5.2206737909,52.2922642163",
     "geom:latitude":52.288371,
     "geom:longitude":5.212609,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         1158823079,
         85633337,
         101837931,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"871ae37cf40c5ca2c4a035ccafbe3dd1",
+    "wof:geomhash":"04476d0045d13b6974a8650890ef4794",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101837931,
             "macrohood_id":1158823079,
             "neighbourhood_id":1158820081,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158820081,
-    "wof:lastmodified":1513464192,
+    "wof:lastmodified":1559595867,
     "wof:name":"IJzeren veld",
     "wof:parent_id":1158823079,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.203778195065368,
-    52.281763752556905,
+    5.20377819506537,
+    52.28176375255691,
     5.22067379090296,
     52.2922642162836
 ],

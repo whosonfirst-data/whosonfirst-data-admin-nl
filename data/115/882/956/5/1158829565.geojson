@@ -45,10 +45,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101752765,
         85633337,
-        85687041
+        101752765,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +61,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101752765,
             "macrohood_id":1158829565,
             "region_id":85687041
         }
     ],
     "wof:id":1158829565,
-    "wof:lastmodified":1514492399,
+    "wof:lastmodified":1559595374,
     "wof:name":"Hof van Delft",
     "wof:parent_id":101752765,
     "wof:placetype":"macrohood",

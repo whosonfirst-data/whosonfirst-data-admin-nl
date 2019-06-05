@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633337
+        85687055,
+        102191581,
+        404473763,
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"7a7e2d8ed44cd88628fb2b5713d836f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":1209427851
+            "empire_id":136253051,
+            "localadmin_id":404473763,
+            "locality_id":1209427851,
+            "region_id":85687055
         }
     ],
     "wof:id":1209427851,
-    "wof:lastmodified":1537675607,
+    "wof:lastmodified":1559594365,
     "wof:name":"Nieuwe Bildtzijl",
-    "wof:parent_id":85633337,
+    "wof:parent_id":404473763,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

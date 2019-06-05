@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000108,
-    "geom:area_square_m":803991.486635,
+    "geom:area_square_m":803991.486636,
     "geom:bbox":"6.56252293892,52.9690726852,6.58120107372,52.9824967945",
     "geom:latitude":52.974517,
     "geom:longitude":6.570408,
@@ -46,12 +46,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687051,
         102191581,
         1158792263,
         404473805,
         85633337,
         101751879,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,6 +64,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473805,
             "locality_id":101751879,
             "macrohood_id":1158792263,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1158790489,
-    "wof:lastmodified":1514492821,
+    "wof:lastmodified":1559595920,
     "wof:name":"Park Diepstroeten",
     "wof:parent_id":1158792263,
     "wof:placetype":"neighbourhood",

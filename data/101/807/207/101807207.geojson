@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004477,
-    "geom:area_square_m":33828277.328112,
+    "geom:area_square_m":33828277.328111,
     "geom:bbox":"6.22486475182,52.3005215162,6.33629440666,52.3630586089",
     "geom:latitude":52.332229,
     "geom:longitude":6.279594,
@@ -70,10 +70,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473849,
         85633337,
-        85687045
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,13 +91,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473849,
             "locality_id":101807207,
             "region_id":85687045
         }
     ],
     "wof:id":101807207,
-    "wof:lastmodified":1514492346,
+    "wof:lastmodified":1559594461,
     "wof:name":"Heeten",
     "wof:parent_id":404473849,
     "wof:placetype":"locality",

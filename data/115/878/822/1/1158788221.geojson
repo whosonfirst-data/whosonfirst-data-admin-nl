@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000096,
-    "geom:area_square_m":728962.669615,
+    "geom:area_square_m":728962.669614,
     "geom:bbox":"4.94336791354,52.0234095056,4.97898975852,52.0396864626",
     "geom:latitude":52.032112,
     "geom:longitude":4.957305,
@@ -44,16 +44,18 @@
         102191581,
         404473999,
         85633337,
-        101807011
+        101807011,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"d65f6ae509c83243b7765284557608b7",
+    "wof:geomhash":"07808107400e62f015841a786e395199",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473999,
             "locality_id":101807011,
             "neighbourhood_id":1158788221,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158788221,
-    "wof:lastmodified":1513621991,
+    "wof:lastmodified":1559596285,
     "wof:name":"Blokland",
     "wof:parent_id":101807011,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.943367913539236,
+    4.94336791353924,
     52.02340950556914,
     4.97898975852045,
     52.03968646262828

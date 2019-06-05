@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000948,
-    "geom:area_square_m":7064656.774919,
+    "geom:area_square_m":7064656.774918,
     "geom:bbox":"6.81211020184,52.945264362,6.86090655006,52.9780602206",
     "geom:latitude":52.95988,
     "geom:longitude":6.838244,
@@ -52,10 +52,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687051,
         102191581,
         404474595,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +68,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474595,
             "locality_id":1158792097,
             "region_id":85687051
         }
     ],
     "wof:id":1158792097,
-    "wof:lastmodified":1514492014,
+    "wof:lastmodified":1559595132,
     "wof:name":"Bronnegerveen",
     "wof:parent_id":404474595,
     "wof:placetype":"locality",

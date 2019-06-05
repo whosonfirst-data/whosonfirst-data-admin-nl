@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000616,
-    "geom:area_square_m":4733832.820323,
+    "geom:area_square_m":4733832.820324,
     "geom:bbox":"5.06515067692,51.55983813,5.10875207087,51.5790130661",
     "geom:latitude":51.568866,
     "geom:longitude":5.084432,
@@ -43,16 +43,18 @@
         102191581,
         404474435,
         85633337,
-        101751817
+        101751817,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"5751970f08037956ae8ab6e755bce3f6",
+    "wof:geomhash":"747113d3ba69ca56084ad71d968ddfb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474435,
             "locality_id":101751817,
             "macrohood_id":1158801787,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1158801787,
-    "wof:lastmodified":1513432236,
+    "wof:lastmodified":1559595356,
     "wof:name":"Oud-Noord",
     "wof:parent_id":101751817,
     "wof:placetype":"macrohood",
@@ -70,8 +72,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.065150676923861,
-    51.559838129960646,
+    5.06515067692386,
+    51.55983812996065,
     5.10875207087321,
     51.57901306610716
 ],

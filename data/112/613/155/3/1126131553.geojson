@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001577,
-    "geom:area_square_m":11696082.096217,
+    "geom:area_square_m":11696082.096216,
     "geom:bbox":"5.8205611625,53.1216570658,5.88208834474,53.1703510707",
     "geom:latitude":53.145491,
     "geom:longitude":5.848616,
@@ -39,11 +39,12 @@
     "reversegeo:longitude":5.850913,
     "src:geom":"cbsnl",
     "wof:belongsto":[
+        85687055,
         102191581,
         404473775,
         85633337,
         101807441,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,6 +54,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473775,
             "locality_id":101807441,
             "neighbourhood_id":1126131553,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126131553,
-    "wof:lastmodified":1507246096,
+    "wof:lastmodified":1559595841,
     "wof:name":"Buitengebied Wergea",
     "wof:parent_id":101807441,
     "wof:placetype":"neighbourhood",

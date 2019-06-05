@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002529,
-    "geom:area_square_m":18932892.446635,
+    "geom:area_square_m":18932892.446634,
     "geom:bbox":"6.57642850871,52.7124177699,6.65346991357,52.7630100457",
     "geom:latitude":52.736911,
     "geom:longitude":6.62014,
@@ -68,10 +68,11 @@
     "src:population":"geonames",
     "wd:wordcount":49,
     "wof:belongsto":[
+        85687051,
         102191581,
         404473807,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,13 +90,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473807,
             "locality_id":101807303,
             "region_id":85687051
         }
     ],
     "wof:id":101807303,
-    "wof:lastmodified":1527715110,
+    "wof:lastmodified":1559595113,
     "wof:name":"Geesbrug",
     "wof:parent_id":404473807,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003839,
-    "geom:area_square_m":28536477.706315,
+    "geom:area_square_m":28536477.706311,
     "geom:bbox":"6.13341363981,53.0199051913,6.2565420565,53.0806980938",
     "geom:latitude":53.052198,
     "geom:longitude":6.194629,
@@ -69,10 +69,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":53,
     "wof:belongsto":[
+        85687055,
         102191581,
         404473787,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,13 +91,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473787,
             "locality_id":101807445,
             "region_id":85687055
         }
     ],
     "wof:id":101807445,
-    "wof:lastmodified":1527715115,
+    "wof:lastmodified":1559595229,
     "wof:name":"Wijnjewoude",
     "wof:parent_id":404473787,
     "wof:placetype":"locality",

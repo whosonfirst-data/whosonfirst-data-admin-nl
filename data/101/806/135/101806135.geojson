@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003248,
-    "geom:area_square_m":24110639.123123,
+    "geom:area_square_m":24110639.123118,
     "geom:bbox":"6.04078346028,53.0710135035,6.13993023192,53.1353918913",
     "geom:latitude":53.104844,
     "geom:longitude":6.08896,
@@ -168,10 +168,11 @@
     "wd:longitude":6.1,
     "wd:wordcount":954,
     "wof:belongsto":[
+        85687055,
         102191581,
         404473791,
         85633337,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -189,13 +190,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473791,
             "locality_id":101806135,
             "region_id":85687055
         }
     ],
     "wof:id":101806135,
-    "wof:lastmodified":1527715367,
+    "wof:lastmodified":1559594850,
     "wof:name":"Drachten",
     "wof:parent_id":404473791,
     "wof:placetype":"locality",

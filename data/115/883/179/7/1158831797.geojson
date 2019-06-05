@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00244,
-    "geom:area_square_m":18586966.679561,
+    "geom:area_square_m":18586966.679562,
     "geom:bbox":"4.04560198014,51.9337274651,4.21968772165,52.0018411287",
     "geom:latitude":51.970707,
     "geom:longitude":4.149127,
@@ -39,10 +39,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
-        101751843,
         85633337,
-        85687041
+        101751843,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,12 +54,13 @@
             "borough_id":1158831797,
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751843,
             "region_id":85687041
         }
     ],
     "wof:id":1158831797,
-    "wof:lastmodified":1513535773,
+    "wof:lastmodified":1559595246,
     "wof:name":"Hoek van Holland",
     "wof:parent_id":101751843,
     "wof:placetype":"borough",

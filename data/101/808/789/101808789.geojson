@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004584,
-    "geom:area_square_m":34321257.552331,
+    "geom:area_square_m":34321257.552329,
     "geom:bbox":"6.21631980777,52.7029242709,6.32887763616,52.7669375432",
     "geom:latitude":52.732271,
     "geom:longitude":6.270827,
@@ -71,10 +71,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":90,
     "wof:belongsto":[
+        85687051,
         102191581,
         404474601,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,13 +93,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474601,
             "locality_id":101808789,
             "region_id":85687051
         }
     ],
     "wof:id":101808789,
-    "wof:lastmodified":1527715354,
+    "wof:lastmodified":1559594263,
     "wof:name":"Ruinerwold",
     "wof:parent_id":404474601,
     "wof:placetype":"locality",

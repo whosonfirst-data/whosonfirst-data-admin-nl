@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0013,
-    "geom:area_square_m":9973409.836071,
+    "geom:area_square_m":9973409.836069,
     "geom:bbox":"4.62440793898,51.6239342193,4.69907212031,51.6611889599",
     "geom:latitude":51.644252,
     "geom:longitude":4.661623,
@@ -36,26 +36,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474623,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"e1a3438243715b5cb425eaffd2ca2496",
+    "wof:geomhash":"b02577bd71acd9f4480bdfe85cf113b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474623,
             "locality_id":1158801531,
             "region_id":85687035
         }
     ],
     "wof:id":1158801531,
-    "wof:lastmodified":1513432093,
+    "wof:lastmodified":1559595119,
     "wof:name":"Langeweg",
     "wof:parent_id":404474623,
     "wof:placetype":"locality",
@@ -65,8 +67,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.624407938983643,
-    51.623934219292636,
+    4.62440793898364,
+    51.62393421929264,
     4.69907212030868,
     51.66118895991847
 ],

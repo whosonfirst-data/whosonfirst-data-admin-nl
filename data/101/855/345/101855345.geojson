@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003146,
-    "geom:area_square_m":23894865.738376,
+    "geom:area_square_m":23894865.738375,
     "geom:bbox":"6.26338442174,52.0726364017,6.3540673407,52.1315583444",
     "geom:latitude":52.100595,
     "geom:longitude":6.306058,
@@ -85,10 +85,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":196,
     "wof:belongsto":[
+        85687043,
         102191581,
         404474673,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,13 +105,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474673,
             "locality_id":101855345,
             "region_id":85687043
         }
     ],
     "wof:id":101855345,
-    "wof:lastmodified":1527715436,
+    "wof:lastmodified":1559594490,
     "wof:name":"Delden",
     "wof:parent_id":404474673,
     "wof:placetype":"locality",

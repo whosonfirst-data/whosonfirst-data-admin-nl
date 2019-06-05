@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002702,
-    "geom:area_square_m":20796828.52953,
+    "geom:area_square_m":20796828.529529,
     "geom:bbox":"5.67442566414,51.4840838508,5.76825623066,51.5366825975",
     "geom:latitude":51.510068,
     "geom:longitude":5.72697,
@@ -74,10 +74,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":141,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474563,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,13 +96,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474563,
             "locality_id":101809691,
             "region_id":85687035
         }
     ],
     "wof:id":101809691,
-    "wof:lastmodified":1527715179,
+    "wof:lastmodified":1559595197,
     "wof:name":"Bakel",
     "wof:parent_id":404474563,
     "wof:placetype":"locality",

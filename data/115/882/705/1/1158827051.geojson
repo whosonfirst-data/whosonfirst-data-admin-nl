@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000059,
-    "geom:area_square_m":452326.289272,
+    "geom:area_square_m":452326.289271,
     "geom:bbox":"4.36302401832,51.9281166976,4.37581363809,51.9338617095",
     "geom:latitude":51.931087,
     "geom:longitude":4.369295,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         1158829561,
         85633337,
         101751845,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"0f332811fcb8443eb142f4b7683dbc01",
+    "wof:geomhash":"03fa194dcbaccf471ab519d500b69ba2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101751845,
             "macrohood_id":1158829561,
             "neighbourhood_id":1158827051,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158827051,
-    "wof:lastmodified":1513588116,
+    "wof:lastmodified":1559596643,
     "wof:name":"Groenoord-Midden",
     "wof:parent_id":1158829561,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.363024018323649,
+    4.36302401832365,
     51.92811669762145,
     4.3758136380873,
     51.93386170950898

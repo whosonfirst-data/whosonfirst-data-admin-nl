@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001349,
-    "geom:area_square_m":10411803.905957,
+    "geom:area_square_m":10411803.905956,
     "geom:bbox":"5.83188288555,51.3525349661,5.89455247894,51.3992697482",
     "geom:latitude":51.374208,
     "geom:longitude":5.867773,
@@ -59,10 +59,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":415,
     "wof:belongsto":[
+        85687035,
         102191581,
         404474365,
         85633337,
-        85687035
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,13 +80,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474365,
             "locality_id":101809735,
             "region_id":85687035
         }
     ],
     "wof:id":101809735,
-    "wof:lastmodified":1527715173,
+    "wof:lastmodified":1559595197,
     "wof:name":"Neerkant",
     "wof:parent_id":404474365,
     "wof:placetype":"locality",

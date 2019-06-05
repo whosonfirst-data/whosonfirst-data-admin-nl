@@ -13,7 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001808,
-    "geom:area_square_m":13544463.991599,
+    "geom:area_square_m":13544463.9916,
     "geom:bbox":"6.8442521705,52.6832730278,6.90791810317,52.7380282363",
     "geom:latitude":52.715833,
     "geom:longitude":6.873694,
@@ -77,10 +77,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":400,
     "wof:belongsto":[
+        85687051,
         102191581,
         404473809,
         85633337,
-        85687051
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,13 +99,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473809,
             "locality_id":101837881,
             "region_id":85687051
         }
     ],
     "wof:id":101837881,
-    "wof:lastmodified":1527715302,
+    "wof:lastmodified":1559595014,
     "wof:name":"Nieuw-Amsterdam",
     "wof:parent_id":404473809,
     "wof:placetype":"locality",

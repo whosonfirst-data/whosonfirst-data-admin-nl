@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000016,
-    "geom:area_square_m":122470.713944,
+    "geom:area_square_m":122470.713943,
     "geom:bbox":"4.25624777428,52.0123797627,4.26413317057,52.0173784943",
     "geom:latitude":52.015125,
     "geom:longitude":4.260486,
@@ -44,16 +44,18 @@
         102191581,
         404474667,
         85633337,
-        101807041
+        101807041,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"681a6e4fb2b59cf256b402a20c84ef1a",
+    "wof:geomhash":"065b17d38edad5019c953482269323e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474667,
             "locality_id":101807041,
             "neighbourhood_id":1158828213,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158828213,
-    "wof:lastmodified":1513588209,
+    "wof:lastmodified":1559596633,
     "wof:name":"Bedrijventerrein Bovendijk",
     "wof:parent_id":101807041,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.256247774280046,
+    4.25624777428005,
     52.01237976274532,
     4.26413317057094,
     52.0173784943217

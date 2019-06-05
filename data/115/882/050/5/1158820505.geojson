@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000242,
-    "geom:area_square_m":1833075.773961,
+    "geom:area_square_m":1833075.773962,
     "geom:bbox":"4.77183013667,52.2290545766,4.80716359164,52.2447605585",
     "geom:latitude":52.236796,
     "geom:longitude":4.786654,
@@ -44,16 +44,18 @@
         102191581,
         404474119,
         85633337,
-        101855415
+        101855415,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"c2d5e459df3a0d2b1b86eebb60bc351b",
+    "wof:geomhash":"9a2f4d3fa2946beb7759b6e3fea5a3bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474119,
             "locality_id":101855415,
             "neighbourhood_id":1158820505,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158820505,
-    "wof:lastmodified":1513464230,
+    "wof:lastmodified":1559595945,
     "wof:name":"Meerwijk",
     "wof:parent_id":101855415,
     "wof:placetype":"neighbourhood",
@@ -71,8 +73,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.771830136668862,
-    52.229054576550055,
+    4.77183013666886,
+    52.22905457655006,
     4.80716359164234,
     52.24476055851699
 ],

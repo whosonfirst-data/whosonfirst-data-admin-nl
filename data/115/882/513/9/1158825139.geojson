@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000235,
-    "geom:area_square_m":1796383.071726,
+    "geom:area_square_m":1796383.071725,
     "geom:bbox":"4.53622019582,51.829896906,4.55926196784,51.8441780545",
     "geom:latitude":51.837116,
     "geom:longitude":4.547377,
@@ -40,20 +40,22 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         1158831085,
         85633337,
         101754615,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"c9caeb67c9744dc24c7d4509a1c66966",
+    "wof:geomhash":"f949eaefc379a54e0c426453264d8615",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "locality_id":101754615,
             "macrohood_id":1158831085,
             "neighbourhood_id":1158825139,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158825139,
-    "wof:lastmodified":1513587970,
+    "wof:lastmodified":1559596519,
     "wof:name":"Achterzeedijk Oost",
     "wof:parent_id":1158831085,
     "wof:placetype":"neighbourhood",
@@ -71,7 +73,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.536220195817255,
+    4.53622019581725,
     51.82989690596868,
     4.55926196784448,
     51.84417805447001

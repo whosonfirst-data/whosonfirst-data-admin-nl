@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000276,
-    "geom:area_square_m":2070628.630295,
+    "geom:area_square_m":2070628.630297,
     "geom:bbox":"5.16652254919,52.634202826,5.20687263232,52.6485936941",
     "geom:latitude":52.640103,
     "geom:longitude":5.185725,
@@ -49,10 +49,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         404474155,
         85633337,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +65,14 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474155,
             "locality_id":1158822933,
             "region_id":85687053
         }
     ],
     "wof:id":1158822933,
-    "wof:lastmodified":1514492755,
+    "wof:lastmodified":1559595157,
     "wof:name":"Oosterleek",
     "wof:parent_id":404474155,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002759,
-    "geom:area_square_m":21223279.514395,
+    "geom:area_square_m":21223279.514392,
     "geom:bbox":"4.88820269799,51.5100812848,4.97956514816,51.5626800405",
     "geom:latitude":51.534679,
     "geom:longitude":4.927685,
@@ -44,16 +44,18 @@
         102191581,
         404474381,
         85633337,
-        101839359
+        101839359,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"a0bcd0388264038c5333aaf646e9b590",
+    "wof:geomhash":"f5b90e5f75fc9baafdf40ffd799f1dca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474381,
             "locality_id":101839359,
             "neighbourhood_id":1158797681,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1158797681,
-    "wof:lastmodified":1513432611,
+    "wof:lastmodified":1559596655,
     "wof:name":"Verspreide huizen Gilze",
     "wof:parent_id":101839359,
     "wof:placetype":"neighbourhood",
@@ -72,8 +74,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.888202697988246,
-    51.510081284805274,
+    4.88820269798825,
+    51.51008128480527,
     4.97956514815982,
     51.56268004054682
 ],

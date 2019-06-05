@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000964,
-    "geom:area_square_m":7341772.456917,
+    "geom:area_square_m":7341772.456916,
     "geom:bbox":"6.00487689244,51.9853668907,6.07884507402,52.0150244506",
     "geom:latitude":51.998686,
     "geom:longitude":6.046615,
@@ -37,26 +37,28 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473957,
         85633337,
-        85687043
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"f2729ff53725add1a8df544555566901",
+    "wof:geomhash":"9d921eb66614bcbe3b8ab752904ab2c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404473957,
             "locality_id":1158783389,
             "region_id":85687043
         }
     ],
     "wof:id":1158783389,
-    "wof:lastmodified":1513367851,
+    "wof:lastmodified":1559594976,
     "wof:name":"Rhederlaag",
     "wof:parent_id":404473957,
     "wof:placetype":"locality",
@@ -69,7 +71,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.004876892438419,
+    6.00487689243842,
     51.98536689066712,
     6.07884507401866,
     52.01502445055699
