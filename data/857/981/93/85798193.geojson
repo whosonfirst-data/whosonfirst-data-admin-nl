@@ -35,9 +35,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
-    "name:dut_x_preferred":[
-        "Oosterparkwijk"
-    ],
     "name:eng_x_preferred":[
         "Vogelbuurt"
     ],
@@ -45,7 +42,7 @@
         "Menkeweer",
         "Oosterparkwijk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Oosterparkwijk"
     ],
     "name:nld_x_colloquial":[
@@ -56,7 +53,8 @@
         "Vogelbuurt"
     ],
     "name:nld_x_variant":[
-        "Oosterparkbuurt"
+        "Oosterparkbuurt",
+        "Oosterparkwijk"
     ],
     "name:unk_x_variant":[
         "Oosterparkwijk",
@@ -98,13 +96,13 @@
     "src:population":"geonames",
     "wd:wordcount":18,
     "wof:belongsto":[
-        85687059,
         102191581,
         1158796115,
         404473713,
         85633337,
         101751909,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -132,7 +130,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596065,
+    "wof:lastmodified":1561768046,
     "wof:name":"Vogelbuurt",
     "wof:parent_id":1158796115,
     "wof:placetype":"neighbourhood",

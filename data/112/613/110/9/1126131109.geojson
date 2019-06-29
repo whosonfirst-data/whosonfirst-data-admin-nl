@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Verspreide huizen Sint Annaparochie"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Verspreide huizen Sint Annaparochie"
     ],
     "reversegeo:latitude":53.259115,
     "reversegeo:longitude":5.673341,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473763,
         85633337,
         101807411,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131109,
-    "wof:lastmodified":1559595870,
+    "wof:lastmodified":1561768350,
     "wof:name":"Verspreide huizen Sint Annaparochie",
     "wof:parent_id":101807411,
     "wof:placetype":"neighbourhood",

@@ -29,16 +29,13 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Heugemerveld"
     ],
     "name:eng_x_preferred":[
         "Heugemerveld"
     ],
-    "name:fre_x_preferred":[
-        "Heugemerveld"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Heugemerveld"
     ],
     "name:ita_x_preferred":[
@@ -58,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158818145,
         85633337,
         101751803,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":1158806391,
-    "wof:lastmodified":1559596558,
+    "wof:lastmodified":1561768428,
     "wof:name":"Heugemerveld",
     "wof:parent_id":1158818145,
     "wof:placetype":"neighbourhood",

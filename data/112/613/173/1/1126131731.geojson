@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Verspreide huizen Bakkeveen"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Verspreide huizen Bakkeveen"
     ],
     "reversegeo:latitude":53.080752,
     "reversegeo:longitude":6.282856,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473787,
         85633337,
         101806089,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131731,
-    "wof:lastmodified":1559596081,
+    "wof:lastmodified":1561768345,
     "wof:name":"Verspreide huizen Bakkeveen",
     "wof:parent_id":101806089,
     "wof:placetype":"neighbourhood",

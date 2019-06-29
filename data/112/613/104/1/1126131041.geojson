@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Verspreide huizen Twijzel"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Verspreide huizen Twijzel"
     ],
     "reversegeo:latitude":53.244009,
     "reversegeo:longitude":6.087686,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473757,
         85633337,
         101806157,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131041,
-    "wof:lastmodified":1559595907,
+    "wof:lastmodified":1561768324,
     "wof:name":"Verspreide huizen Twijzel",
     "wof:parent_id":101806157,
     "wof:placetype":"neighbourhood",

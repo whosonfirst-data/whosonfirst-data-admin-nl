@@ -29,13 +29,10 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tuindorp 't Lansink"
     ],
     "name:eng_x_preferred":[
-        "Tuindorp 't Lansink"
-    ],
-    "name:ger_x_preferred":[
         "Tuindorp 't Lansink"
     ],
     "name:nld_x_preferred":[
@@ -46,13 +43,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         1158805865,
         404473837,
         85633337,
         101751869,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +70,7 @@
         }
     ],
     "wof:id":1158802835,
-    "wof:lastmodified":1559596962,
+    "wof:lastmodified":1561768423,
     "wof:name":"Tuindorp 't Lansink",
     "wof:parent_id":1158805865,
     "wof:placetype":"neighbourhood",

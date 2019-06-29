@@ -29,9 +29,6 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Rode Dorp"
-    ],
     "name:eng_x_preferred":[
         "Rode Dorp"
     ],
@@ -43,12 +40,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158787499,
         85633337,
         101806981,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,7 +65,7 @@
         }
     ],
     "wof:id":1158789043,
-    "wof:lastmodified":1559596435,
+    "wof:lastmodified":1561768600,
     "wof:name":"Rode Dorp",
     "wof:parent_id":101806981,
     "wof:placetype":"neighbourhood",

@@ -33,16 +33,13 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":15,
-    "name:dut_x_preferred":[
-        "Oud-IJsselmonde"
-    ],
     "name:eng_x_preferred":[
         "Oud-IJsselmonde"
     ],
     "name:eng_x_variant":[
         "Oudijsselmonde"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Oud-IJsselmonde"
     ],
     "name:nld_x_colloquial":[
@@ -50,6 +47,9 @@
     ],
     "name:nld_x_preferred":[
         "Oudijsselmonde"
+    ],
+    "name:nld_x_variant":[
+        "Oud-IJsselmonde"
     ],
     "name:unk_x_variant":[
         "IJselmonde",
@@ -88,12 +88,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85687041,
         102191581,
         85633337,
         101751843,
         136253051,
         1158831761,
+        85687041,
         1108805721
     ],
     "wof:breaches":[],
@@ -132,7 +132,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595970,
+    "wof:lastmodified":1561768052,
     "wof:name":"Oud IJsselmonde",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

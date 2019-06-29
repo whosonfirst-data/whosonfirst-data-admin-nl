@@ -29,13 +29,10 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Ressen"
-    ],
     "name:eng_x_preferred":[
         "Ressen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ressen"
     ],
     "name:nld_x_preferred":[
@@ -46,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473925,
         85633337,
         1158783443,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +68,7 @@
         }
     ],
     "wof:id":1141963869,
-    "wof:lastmodified":1559597012,
+    "wof:lastmodified":1561768686,
     "wof:name":"Ressen",
     "wof:parent_id":1158783443,
     "wof:placetype":"neighbourhood",

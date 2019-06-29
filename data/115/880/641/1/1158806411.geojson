@@ -29,13 +29,10 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Meerssenhoven"
-    ],
     "name:eng_x_preferred":[
         "Meerssenhoven"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Meerssenhoven"
     ],
     "name:lim_x_preferred":[
@@ -49,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158818161,
         85633337,
         101751803,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +71,7 @@
         }
     ],
     "wof:id":1158806411,
-    "wof:lastmodified":1559596556,
+    "wof:lastmodified":1561768425,
     "wof:name":"Meerssenhoven",
     "wof:parent_id":1158818161,
     "wof:placetype":"neighbourhood",

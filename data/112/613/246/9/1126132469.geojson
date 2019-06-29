@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Verspreide huizen Parrega"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Verspreide huizen Parrega"
     ],
     "reversegeo:latitude":53.020764,
     "reversegeo:longitude":5.46474,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         1141960735,
         85633337,
         1141960547,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126132469,
-    "wof:lastmodified":1559596245,
+    "wof:lastmodified":1561768357,
     "wof:name":"Verspreide huizen Parrega",
     "wof:parent_id":1141960547,
     "wof:placetype":"neighbourhood",

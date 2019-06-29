@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Feanw\u00e2lden"
-    ],
     "name:eng_x_preferred":[
         "Feanwalden"
+    ],
+    "name:nld_x_preferred":[
+        "Feanw\u00e2lden"
     ],
     "reversegeo:latitude":53.23893,
     "reversegeo:longitude":5.9909,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404474681,
         85633337,
         101807439,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126132185,
-    "wof:lastmodified":1559596115,
+    "wof:lastmodified":1561768334,
     "wof:name":"Feanwalden",
     "wof:parent_id":101807439,
     "wof:placetype":"neighbourhood",

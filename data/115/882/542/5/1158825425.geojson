@@ -29,29 +29,29 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "De Bras"
-    ],
     "name:eng_x_preferred":[
         "Biesland"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Biesland"
     ],
     "name:nld_x_preferred":[
         "Biesland"
+    ],
+    "name:nld_x_variant":[
+        "De Bras"
     ],
     "reversegeo:latitude":52.016078,
     "reversegeo:longitude":4.368986,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158829611,
         85633337,
         101752765,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1158825425,
-    "wof:lastmodified":1559596336,
+    "wof:lastmodified":1561768561,
     "wof:name":"Biesland",
     "wof:parent_id":1158829611,
     "wof:placetype":"neighbourhood",

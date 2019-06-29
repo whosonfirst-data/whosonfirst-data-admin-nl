@@ -29,9 +29,6 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Sewei/De Ekers"
-    ],
     "name:dut_x_variant":[
         "Joure",
         "Sewei/De Ekers"
@@ -43,16 +40,19 @@
         "Joure",
         "Sewei/De Ekers"
     ],
+    "name:nld_x_preferred":[
+        "Sewei/De Ekers"
+    ],
     "reversegeo:latitude":52.96247,
     "reversegeo:longitude":5.825709,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         1141960737,
         85633337,
         101806179,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1126132609,
-    "wof:lastmodified":1559596891,
+    "wof:lastmodified":1561768341,
     "wof:name":"Sewei/De Ekers",
     "wof:parent_id":101806179,
     "wof:placetype":"neighbourhood",

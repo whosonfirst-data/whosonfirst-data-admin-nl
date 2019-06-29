@@ -34,9 +34,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
-    "name:dut_x_preferred":[
-        "De Domp"
-    ],
     "name:dut_x_variant":[
         "Stadsfenne"
     ],
@@ -47,6 +44,9 @@
         "Stadsfenne",
         "Stadsfenne"
     ],
+    "name:nld_x_preferred":[
+        "De Domp"
+    ],
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -54,12 +54,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687055,
         102191581,
         1141960735,
         85633337,
         101837971,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +85,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595826,
+    "wof:lastmodified":1561768048,
     "wof:name":"De Domp",
     "wof:parent_id":101837971,
     "wof:placetype":"neighbourhood",

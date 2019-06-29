@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Verspreide huizen Tijnje"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Verspreide huizen Tijnje"
     ],
     "reversegeo:latitude":53.044175,
     "reversegeo:longitude":5.970694,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473787,
         85633337,
         101806153,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131689,
-    "wof:lastmodified":1559596238,
+    "wof:lastmodified":1561768325,
     "wof:name":"Verspreide huizen Tijnje",
     "wof:parent_id":101806153,
     "wof:placetype":"neighbourhood",

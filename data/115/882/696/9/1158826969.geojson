@@ -29,13 +29,10 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Vrijenban"
-    ],
     "name:eng_x_preferred":[
         "Vrijenban"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vrijenban"
     ],
     "name:fry_x_preferred":[
@@ -49,11 +46,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         85633337,
         101754743,
-        136253051,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,7 +69,7 @@
         }
     ],
     "wof:id":1158826969,
-    "wof:lastmodified":1559596377,
+    "wof:lastmodified":1561768581,
     "wof:name":"Vrijenban",
     "wof:parent_id":101754743,
     "wof:placetype":"neighbourhood",

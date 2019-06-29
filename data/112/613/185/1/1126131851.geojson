@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Verspreide huizen Vlieland"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Verspreide huizen Vlieland"
     ],
     "reversegeo:latitude":53.230856,
     "reversegeo:longitude":4.910727,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473799,
         85633337,
         101807427,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131851,
-    "wof:lastmodified":1559595843,
+    "wof:lastmodified":1561768371,
     "wof:name":"Verspreide huizen Vlieland",
     "wof:parent_id":101807427,
     "wof:placetype":"neighbourhood",

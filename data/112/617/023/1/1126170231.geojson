@@ -20,20 +20,20 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Waddenzee"
-    ],
     "name:eng_x_preferred":[
         "Wadden Sea"
+    ],
+    "name:nld_x_preferred":[
+        "Waddenzee"
     ],
     "reversegeo:latitude":53.312398,
     "reversegeo:longitude":5.449762,
     "src:geom":"mz",
     "wof:belongsto":[
+        85687055,
         102191581,
         85633337,
-        136253051,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":1126170231,
-    "wof:lastmodified":1559597086,
+    "wof:lastmodified":1561768288,
     "wof:name":"Waddenzee",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

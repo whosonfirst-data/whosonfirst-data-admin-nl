@@ -25,19 +25,10 @@
     "name:afr_x_preferred":[
         "Almere"
     ],
-    "name:alb_x_preferred":[
-        "Almere"
-    ],
     "name:ara_x_preferred":[
         "\u0623\u0644\u0645\u064a\u0631\u0627"
     ],
     "name:arg_x_preferred":[
-        "Almere"
-    ],
-    "name:arm_x_preferred":[
-        "\u0531\u056c\u0574\u0565\u0580\u0565"
-    ],
-    "name:baq_x_preferred":[
         "Almere"
     ],
     "name:bel_x_preferred":[
@@ -55,17 +46,20 @@
     "name:cat_x_preferred":[
         "Almere"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5c14\u6885\u52d2"
+    "name:ces_x_preferred":[
+        "Almere"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Almere"
     ],
     "name:dan_x_preferred":[
         "Almere"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Almere"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03bc\u03ad\u03c1\u03b5"
     ],
     "name:eng_x_preferred":[
         "Almere"
@@ -76,22 +70,22 @@
     "name:est_x_preferred":[
         "Almere"
     ],
+    "name:eus_x_preferred":[
+        "Almere"
+    ],
     "name:fao_x_preferred":[
         "Almere"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0644\u0645\u06cc\u0631\u0647"
     ],
     "name:fin_x_preferred":[
         "Almere"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Almere"
     ],
     "name:fry_x_preferred":[
-        "Almere"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10da\u10db\u10d4\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
         "Almere"
     ],
     "name:gla_x_preferred":[
@@ -102,9 +96,6 @@
     ],
     "name:glg_x_preferred":[
         "Almere"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb\u03bc\u03ad\u03c1\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2\u0aae\u0ac7\u0ab0\u0ac7"
@@ -121,10 +112,13 @@
     "name:hun_x_preferred":[
         "Almere"
     ],
-    "name:ice_x_preferred":[
-        "Almere"
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0574\u0565\u0580\u0565"
     ],
     "name:ind_x_preferred":[
+        "Almere"
+    ],
+    "name:isl_x_preferred":[
         "Almere"
     ],
     "name:ita_x_preferred":[
@@ -138,6 +132,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c85\u0cb2\u0ccd\u0cae\u0cc6\u0cb0\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10db\u10d4\u10e0\u10d4"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u043b\u043c\u0435\u0440\u0435"
@@ -160,7 +157,7 @@
     "name:mar_x_preferred":[
         "\u0906\u0932\u094d\u092e\u0940\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Almere"
     ],
     "name:nan_x_preferred":[
@@ -178,9 +175,6 @@
     "name:oci_x_preferred":[
         "Almere"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0644\u0645\u06cc\u0631\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u0644\u0645\u06cc\u0631"
     ],
@@ -190,7 +184,7 @@
     "name:por_x_preferred":[
         "Almere"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Almere"
     ],
     "name:rus_x_preferred":[
@@ -202,13 +196,16 @@
     "name:sin_x_preferred":[
         "\u0d87\u0dbd\u0dca\u0db8\u0dd2\u0dba\u0dbb\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Almere"
     ],
     "name:som_x_preferred":[
         "Almere"
     ],
     "name:spa_x_preferred":[
+        "Almere"
+    ],
+    "name:sqi_x_preferred":[
         "Almere"
     ],
     "name:srp_x_preferred":[
@@ -256,14 +253,14 @@
     "name:war_x_preferred":[
         "Almere"
     ],
-    "name:wel_x_preferred":[
-        "Almere"
-    ],
     "name:yue_x_preferred":[
         "\u963f\u723e\u6885\u52d2"
     ],
     "name:zea_x_preferred":[
         "Almere"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5c14\u6885\u52d2"
     ],
     "reversegeo:latitude":52.373678,
     "reversegeo:longitude":5.248495,
@@ -293,7 +290,7 @@
         }
     ],
     "wof:id":1158787345,
-    "wof:lastmodified":1559594264,
+    "wof:lastmodified":1561768599,
     "wof:name":"Almere",
     "wof:parent_id":85687049,
     "wof:placetype":"locality",

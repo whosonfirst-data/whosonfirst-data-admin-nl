@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Gaast"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Gaast"
     ],
     "reversegeo:latitude":53.017824,
     "reversegeo:longitude":5.411835,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         1141960735,
         85633337,
         1141960535,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126132487,
-    "wof:lastmodified":1559596813,
+    "wof:lastmodified":1561768357,
     "wof:name":"Gaast",
     "wof:parent_id":1141960535,
     "wof:placetype":"neighbourhood",

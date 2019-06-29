@@ -29,9 +29,6 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Zijlroede"
-    ],
     "name:dut_x_variant":[
         "Lemmer-Zijlroede"
     ],
@@ -41,16 +38,19 @@
     "name:eng_x_variant":[
         "Lemmer-Zijlroede"
     ],
+    "name:nld_x_preferred":[
+        "Zijlroede"
+    ],
     "reversegeo:latitude":52.848263,
     "reversegeo:longitude":5.689154,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         1141960737,
         85633337,
         101807477,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1126132645,
-    "wof:lastmodified":1559596164,
+    "wof:lastmodified":1561768364,
     "wof:name":"Zijlroede",
     "wof:parent_id":101807477,
     "wof:placetype":"neighbourhood",

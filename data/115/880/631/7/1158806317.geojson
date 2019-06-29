@@ -29,13 +29,10 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Waubacherveld"
-    ],
     "name:eng_x_preferred":[
         "Waubacherveld"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Waubacherveld"
     ],
     "name:lim_x_preferred":[
@@ -49,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474489,
         85633337,
         1158817899,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +71,7 @@
         }
     ],
     "wof:id":1158806317,
-    "wof:lastmodified":1559596422,
+    "wof:lastmodified":1561768430,
     "wof:name":"Waubacherveld",
     "wof:parent_id":1158817899,
     "wof:placetype":"neighbourhood",

@@ -29,13 +29,10 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Gravenburg"
-    ],
     "name:eng_x_preferred":[
         "Gravenburg"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gravenburg"
     ],
     "name:nld_x_preferred":[
@@ -46,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473713,
         85633337,
         101754893,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +68,7 @@
         }
     ],
     "wof:id":1158792665,
-    "wof:lastmodified":1559597032,
+    "wof:lastmodified":1561768478,
     "wof:name":"Gravenburg",
     "wof:parent_id":101754893,
     "wof:placetype":"neighbourhood",

@@ -29,25 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Abstede"
-    ],
     "name:eng_x_preferred":[
         "Abstede"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Abstede"
+    ],
+    "name:nld_x_preferred":[
         "Abstede"
     ],
     "reversegeo:latitude":52.083568,
     "reversegeo:longitude":5.129242,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687039,
         102191581,
         85633337,
         101751827,
         136253051,
-        1108808669
+        1108808669,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":1108808689,
-    "wof:lastmodified":1559596376,
+    "wof:lastmodified":1561768077,
     "wof:name":"Abstede",
     "wof:parent_id":1108808669,
     "wof:placetype":"neighbourhood",

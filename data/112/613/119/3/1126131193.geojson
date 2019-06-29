@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Tzum"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Tzum"
     ],
     "reversegeo:latitude":53.157322,
     "reversegeo:longitude":5.564037,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473767,
         85633337,
         101806159,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131193,
-    "wof:lastmodified":1559595838,
+    "wof:lastmodified":1561768350,
     "wof:name":"Tzum",
     "wof:parent_id":101806159,
     "wof:placetype":"neighbourhood",

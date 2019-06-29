@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Verspreide huizen Wommels"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Verspreide huizen Wommels"
     ],
     "reversegeo:latitude":53.097086,
     "reversegeo:longitude":5.57147,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473817,
         85633337,
         101807453,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131979,
-    "wof:lastmodified":1559596249,
+    "wof:lastmodified":1561768354,
     "wof:name":"Verspreide huizen Wommels",
     "wof:parent_id":101807453,
     "wof:placetype":"neighbourhood",

@@ -6,7 +6,7 @@
     "edtf:deprecated":"2017-02-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":32935328.815958,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.964991,52.318062,4.964991,52.318062",
     "geom:latitude":52.318062,
     "geom:longitude":4.964991,
@@ -33,12 +33,12 @@
         "De Bijlmer",
         "De Bylmer"
     ],
-    "name:dut_x_preferred":[
-        "Bijlmer"
-    ],
     "name:dut_x_variant":[
         "De B\u0133lmer",
         "Bijlmermeer"
+    ],
+    "name:nld_x_preferred":[
+        "Bijlmer"
     ],
     "name:unk_x_variant":[
         "Bijlmer"
@@ -77,12 +77,12 @@
     "wd:longitude":4.96528,
     "wd:wordcount":1130,
     "wof:belongsto":[
-        85687053,
         102191581,
         1108807145,
         85633337,
         101751893,
-        1158844289
+        1158844289,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +111,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861868,
+    "wof:lastmodified":1561768039,
     "wof:name":"Bijlmer",
     "wof:parent_id":1108807145,
     "wof:placetype":"neighbourhood",

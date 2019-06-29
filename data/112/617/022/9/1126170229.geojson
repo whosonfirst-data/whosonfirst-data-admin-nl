@@ -20,20 +20,20 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "IJsselmeer"
-    ],
     "name:eng_x_preferred":[
         "Lake IJssel"
+    ],
+    "name:nld_x_preferred":[
+        "IJsselmeer"
     ],
     "reversegeo:latitude":52.958908,
     "reversegeo:longitude":5.301394,
     "src:geom":"mz",
     "wof:belongsto":[
+        85687055,
         102191581,
         85633337,
-        136253051,
-        85687055
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":1126170229,
-    "wof:lastmodified":1559595834,
+    "wof:lastmodified":1561768292,
     "wof:name":"IJsselmeer",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

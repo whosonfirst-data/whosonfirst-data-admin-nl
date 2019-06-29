@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Verspreide huizen Tirns"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Verspreide huizen Tirns"
     ],
     "reversegeo:latitude":53.065763,
     "reversegeo:longitude":5.616313,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         1141960735,
         85633337,
         1141960253,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126132377,
-    "wof:lastmodified":1559596129,
+    "wof:lastmodified":1561768363,
     "wof:name":"Verspreide huizen Tirns",
     "wof:parent_id":1141960253,
     "wof:placetype":"neighbourhood",

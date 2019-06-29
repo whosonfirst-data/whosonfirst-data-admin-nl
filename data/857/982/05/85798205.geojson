@@ -34,13 +34,10 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
-    "name:dut_x_preferred":[
-        "Orthen"
-    ],
     "name:eng_x_preferred":[
         "Orthen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Orthen"
     ],
     "name:nld_x_preferred":[
@@ -85,13 +82,13 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801683,
         404474393,
         85633337,
         101751809,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,7 +116,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595938,
+    "wof:lastmodified":1561768042,
     "wof:name":"Orthen",
     "wof:parent_id":1158801683,
     "wof:placetype":"neighbourhood",

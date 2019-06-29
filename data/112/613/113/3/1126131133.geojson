@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Franeker Binnenstad"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Franeker Binnenstad"
     ],
     "reversegeo:latitude":53.186611,
     "reversegeo:longitude":5.543019,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473767,
         85633337,
         101806163,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131133,
-    "wof:lastmodified":1559595839,
+    "wof:lastmodified":1561768369,
     "wof:name":"Franeker Binnenstad",
     "wof:parent_id":101806163,
     "wof:placetype":"neighbourhood",

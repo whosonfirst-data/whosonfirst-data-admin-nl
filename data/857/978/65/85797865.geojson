@@ -35,9 +35,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "mz:tier_metro":15,
-    "name:dut_x_preferred":[
-        "Kralingseveer"
-    ],
     "name:eng_x_preferred":[
         "Kralingse Velr"
     ],
@@ -45,7 +42,7 @@
         "Kralingsche Veer",
         "Kralingseveer"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kralingseveer"
     ],
     "name:lim_x_preferred":[
@@ -55,7 +52,8 @@
         "Kralingse Veer"
     ],
     "name:nld_x_variant":[
-        "Kralingsche Veer"
+        "Kralingsche Veer",
+        "Kralingseveer"
     ],
     "name:unk_x_variant":[
         "Kralingsche Veer",
@@ -95,12 +93,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85687041,
         102191581,
         85633337,
         101751843,
         136253051,
-        1108805725
+        1108805725,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +123,7 @@
         }
     ],
     "wof:id":85797865,
-    "wof:lastmodified":1559596043,
+    "wof:lastmodified":1561768039,
     "wof:name":"Kralingseveer",
     "wof:parent_id":1108805725,
     "wof:placetype":"neighbourhood",

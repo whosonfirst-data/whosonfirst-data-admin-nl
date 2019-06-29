@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Verspreide huizen Lollum"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Verspreide huizen Lollum"
     ],
     "reversegeo:latitude":53.136551,
     "reversegeo:longitude":5.52595,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         1141960735,
         85633337,
         1141960647,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126132439,
-    "wof:lastmodified":1559595855,
+    "wof:lastmodified":1561768339,
     "wof:name":"Verspreide huizen Lollum",
     "wof:parent_id":1141960647,
     "wof:placetype":"neighbourhood",

@@ -29,13 +29,10 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Sint Antoniusveld"
-    ],
     "name:eng_x_preferred":[
         "Sint Antoniusveld"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sint Antoniusveld"
     ],
     "name:nld_x_preferred":[
@@ -46,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474527,
         85633337,
         101839289,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +68,7 @@
         }
     ],
     "wof:id":1158806981,
-    "wof:lastmodified":1559596601,
+    "wof:lastmodified":1561768429,
     "wof:name":"Sint Antoniusveld",
     "wof:parent_id":101839289,
     "wof:placetype":"neighbourhood",

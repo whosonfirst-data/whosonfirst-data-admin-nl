@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Damw\u00e2ld"
-    ],
     "name:eng_x_preferred":[
         "Damwald"
+    ],
+    "name:nld_x_preferred":[
+        "Damw\u00e2ld"
     ],
     "reversegeo:latitude":53.289761,
     "reversegeo:longitude":5.990315,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404474681,
         85633337,
         101806109,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126132163,
-    "wof:lastmodified":1559596107,
+    "wof:lastmodified":1561768332,
     "wof:name":"Damwald",
     "wof:parent_id":101806109,
     "wof:placetype":"neighbourhood",

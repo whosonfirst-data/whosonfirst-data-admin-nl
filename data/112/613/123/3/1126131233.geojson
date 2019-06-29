@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Koningsbuurt"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Koningsbuurt"
     ],
     "reversegeo:latitude":53.174491,
     "reversegeo:longitude":5.443296,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473769,
         85633337,
         101806147,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131233,
-    "wof:lastmodified":1559595932,
+    "wof:lastmodified":1561768366,
     "wof:name":"Koningsbuurt",
     "wof:parent_id":101806147,
     "wof:placetype":"neighbourhood",

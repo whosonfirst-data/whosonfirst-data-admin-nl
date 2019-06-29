@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Koudum"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Koudum"
     ],
     "reversegeo:latitude":52.918484,
     "reversegeo:longitude":5.457145,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         1141960735,
         85633337,
         101806187,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126132271,
-    "wof:lastmodified":1559595853,
+    "wof:lastmodified":1561768333,
     "wof:name":"Koudum",
     "wof:parent_id":101806187,
     "wof:placetype":"neighbourhood",

@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Verspreide huizen Suw\u00e2ld"
-    ],
     "name:eng_x_preferred":[
         "Verspreide huizen Suwald"
+    ],
+    "name:nld_x_preferred":[
+        "Verspreide huizen Suw\u00e2ld"
     ],
     "reversegeo:latitude":53.179758,
     "reversegeo:longitude":5.903361,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404474343,
         85633337,
         1141960579,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126132089,
-    "wof:lastmodified":1559596102,
+    "wof:lastmodified":1561768363,
     "wof:name":"Verspreide huizen Suwald",
     "wof:parent_id":1141960579,
     "wof:placetype":"neighbourhood",
