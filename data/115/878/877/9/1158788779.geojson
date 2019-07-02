@@ -29,13 +29,10 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Schilderskwartier"
-    ],
     "name:eng_x_preferred":[
         "Schilderskwartier"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Schilderskwartier"
     ],
     "name:nld_x_preferred":[
@@ -46,13 +43,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790349,
         404474285,
         85633337,
         101808435,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +70,7 @@
         }
     ],
     "wof:id":1158788779,
-    "wof:lastmodified":1559595663,
+    "wof:lastmodified":1561768603,
     "wof:name":"Schilderskwartier",
     "wof:parent_id":1158790349,
     "wof:placetype":"neighbourhood",

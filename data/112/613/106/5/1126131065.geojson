@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Harkema"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Harkema"
     ],
     "reversegeo:latitude":53.185532,
     "reversegeo:longitude":6.131773,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473757,
         85633337,
         101806145,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131065,
-    "wof:lastmodified":1559595905,
+    "wof:lastmodified":1561768356,
     "wof:name":"Harkema",
     "wof:parent_id":101806145,
     "wof:placetype":"neighbourhood",

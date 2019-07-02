@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Verspreide huizen Makkum"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Verspreide huizen Makkum"
     ],
     "reversegeo:latitude":53.056955,
     "reversegeo:longitude":5.421714,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         1141960735,
         85633337,
         101806127,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126132477,
-    "wof:lastmodified":1559596225,
+    "wof:lastmodified":1561768358,
     "wof:name":"Verspreide huizen Makkum",
     "wof:parent_id":101806127,
     "wof:placetype":"neighbourhood",

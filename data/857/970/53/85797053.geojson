@@ -36,7 +36,7 @@
     "mz:note":"Name of old Polder: geographic feature rather than hood",
     "mz:tier_locality":4,
     "mz:tier_metro":15,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Het Lage Land"
     ],
     "name:eng_x_preferred":[
@@ -52,10 +52,7 @@
         "Lage Land",
         "Het Lage Land"
     ],
-    "name:fre_x_preferred":[
-        "Het Lage Land"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Het Lage Land"
     ],
     "name:ita_x_preferred":[
@@ -63,6 +60,9 @@
     ],
     "name:nld_x_preferred":[
         "Alexanderpolder"
+    ],
+    "name:nld_x_variant":[
+        "Het Lage Land"
     ],
     "name:unk_x_variant":[
         "Alexanderpolder"
@@ -101,12 +101,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85687041,
         102191581,
         85633337,
         101751843,
         136253051,
-        1108805725
+        1108805725,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -134,7 +134,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595969,
+    "wof:lastmodified":1561768037,
     "wof:name":"Het Lage Land",
     "wof:parent_id":1108805725,
     "wof:placetype":"neighbourhood",

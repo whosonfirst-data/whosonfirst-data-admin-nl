@@ -33,13 +33,10 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "mz:tier_metro":15,
-    "name:dut_x_preferred":[
-        "Scheepvaartkwartier"
-    ],
     "name:eng_x_preferred":[
         "Scheepvaartkwartier"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Scheepvaartkwartier"
     ],
     "name:nld_x_preferred":[
@@ -84,12 +81,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85687041,
         102191581,
         85633337,
         101751843,
         136253051,
-        1108804841
+        1108804841,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,7 +114,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596006,
+    "wof:lastmodified":1561768054,
     "wof:name":"Nieuwe Werk",
     "wof:parent_id":1108804841,
     "wof:placetype":"neighbourhood",

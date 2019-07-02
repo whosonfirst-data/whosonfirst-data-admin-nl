@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Noordoosthoek"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Noordoosthoek"
     ],
     "reversegeo:latitude":53.036791,
     "reversegeo:longitude":5.6629,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         1141960735,
         85633337,
         101837971,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126132225,
-    "wof:lastmodified":1559596170,
+    "wof:lastmodified":1561768359,
     "wof:name":"Noordoosthoek",
     "wof:parent_id":101837971,
     "wof:placetype":"neighbourhood",

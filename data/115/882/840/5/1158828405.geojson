@@ -29,13 +29,10 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Kleinpolder"
-    ],
     "name:eng_x_preferred":[
         "Kleinpolder"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kleinpolder"
     ],
     "name:nld_x_preferred":[
@@ -46,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158824737,
         85633337,
         101808529,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +68,7 @@
         }
     ],
     "wof:id":1158828405,
-    "wof:lastmodified":1559595754,
+    "wof:lastmodified":1561768574,
     "wof:name":"Kleinpolder",
     "wof:parent_id":101808529,
     "wof:placetype":"neighbourhood",

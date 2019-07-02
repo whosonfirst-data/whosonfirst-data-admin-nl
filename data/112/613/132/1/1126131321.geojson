@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Kollum"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Kollum"
     ],
     "reversegeo:latitude":53.279845,
     "reversegeo:longitude":6.150049,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473773,
         85633337,
         101806183,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131321,
-    "wof:lastmodified":1559595990,
+    "wof:lastmodified":1561768324,
     "wof:name":"Kollum",
     "wof:parent_id":101806183,
     "wof:placetype":"neighbourhood",

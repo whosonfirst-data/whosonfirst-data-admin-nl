@@ -29,23 +29,23 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Vliegeniersbuurt"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Vliegeniersbuurt"
     ],
     "reversegeo:latitude":52.042564,
     "reversegeo:longitude":4.354092,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687041,
         102191581,
         1108808097,
         85633337,
         101752763,
         136253051,
-        1108808047
+        1108808047,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":1108808337,
-    "wof:lastmodified":1559597039,
+    "wof:lastmodified":1561768078,
     "wof:name":"Vliegeniersbuurt",
     "wof:parent_id":1108808097,
     "wof:placetype":"neighbourhood",

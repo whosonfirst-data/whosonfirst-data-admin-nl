@@ -29,9 +29,6 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Fonteinslanden"
-    ],
     "name:dut_x_variant":[
         "Dokkum Fonteinslanden"
     ],
@@ -41,16 +38,19 @@
     "name:eng_x_variant":[
         "Dokkum Fonteinslanden"
     ],
+    "name:nld_x_preferred":[
+        "Fonteinslanden"
+    ],
     "reversegeo:latitude":53.321243,
     "reversegeo:longitude":6.002546,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473755,
         85633337,
         101806131,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1126130899,
-    "wof:lastmodified":1559595913,
+    "wof:lastmodified":1561768357,
     "wof:name":"Fonteinslanden",
     "wof:parent_id":101806131,
     "wof:placetype":"neighbourhood",

@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Hoorn"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Hoorn"
     ],
     "reversegeo:latitude":53.396819,
     "reversegeo:longitude":5.343666,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473795,
         85633337,
         1141960175,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131837,
-    "wof:lastmodified":1559596237,
+    "wof:lastmodified":1561768367,
     "wof:name":"Hoorn",
     "wof:parent_id":1141960175,
     "wof:placetype":"neighbourhood",

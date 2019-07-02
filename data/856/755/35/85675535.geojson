@@ -37,14 +37,8 @@
     "name:arg_x_preferred":[
         "Bonaire"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u0580\u056b\u0562\u0575\u0561\u0576 \u0546\u056b\u0564\u0565\u0580\u056c\u0561\u0576\u0564\u0576\u0565\u0580"
-    ],
     "name:aze_x_preferred":[
         "Karib Niderland\u0131"
-    ],
-    "name:baq_x_preferred":[
-        "Karibeko Herbehereak"
     ],
     "name:bar_x_preferred":[
         "Bonaire"
@@ -70,8 +64,8 @@
     "name:ces_x_preferred":[
         "Bonaire"
     ],
-    "name:chi_x_preferred":[
-        "\u8377\u862d\u52a0\u52d2\u6bd4\u5340"
+    "name:ces_x_variant":[
+        "Karibsk\u00e9 Nizozemsko"
     ],
     "name:chr_x_preferred":[
         "\u13c9\u13be\u13b5"
@@ -79,20 +73,20 @@
     "name:cym_x_preferred":[
         "Bonaire"
     ],
-    "name:cze_x_preferred":[
-        "Karibsk\u00e9 Nizozemsko"
-    ],
     "name:dan_x_preferred":[
         "Bonaire"
     ],
     "name:deu_x_preferred":[
         "Bonaire"
     ],
-    "name:dut_x_preferred":[
-        "Caribisch Nederland"
+    "name:deu_x_variant":[
+        "Karibische Niederlande"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03bd\u03b1\u03af\u03c1"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c1\u03b1\u03ca\u03b2\u03b9\u03ba\u03ad\u03c2 \u039a\u03ac\u03c4\u03c9 \u03a7\u03ce\u03c1\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Bonaire"
@@ -106,11 +100,17 @@
     "name:eus_x_preferred":[
         "Bonaire"
     ],
+    "name:eus_x_variant":[
+        "Karibeko Herbehereak"
+    ],
     "name:fao_x_preferred":[
         "Bonaire"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u0646\u06cc\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0627\u0631\u0627\u0626\u06cc\u0628 \u0647\u0644\u0646\u062f"
     ],
     "name:fin_x_preferred":[
         "Bonaire"
@@ -118,7 +118,7 @@
     "name:fra_x_preferred":[
         "Bonaire"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Pays-Bas carib\u00e9ens"
     ],
     "name:frr_x_preferred":[
@@ -130,17 +130,8 @@
     "name:gag_x_preferred":[
         "Bonaire"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e0\u10d8\u10d1\u10d8\u10e1 \u10dc\u10d8\u10d3\u10d4\u10e0\u10da\u10d0\u10dc\u10d3\u10d4\u10d1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Karibische Niederlande"
-    ],
     "name:glg_x_preferred":[
         "Bonaire"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c1\u03b1\u03ca\u03b2\u03b9\u03ba\u03ad\u03c2 \u039a\u03ac\u03c4\u03c9 \u03a7\u03ce\u03c1\u03b5\u03c2"
     ],
     "name:hbs_x_preferred":[
         "Bonaire"
@@ -157,6 +148,9 @@
     "name:hye_x_preferred":[
         "\u0532\u0578\u0576\u0565\u0575\u0580\u0565"
     ],
+    "name:hye_x_variant":[
+        "\u053f\u0561\u0580\u056b\u0562\u0575\u0561\u0576 \u0546\u056b\u0564\u0565\u0580\u056c\u0561\u0576\u0564\u0576\u0565\u0580"
+    ],
     "name:ind_x_preferred":[
         "Bonaire"
     ],
@@ -168,6 +162,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10dd\u10dc\u10d4\u10d8\u10e0\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10d9\u10d0\u10e0\u10d8\u10d1\u10d8\u10e1 \u10dc\u10d8\u10d3\u10d4\u10e0\u10da\u10d0\u10dc\u10d3\u10d4\u10d1\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u043e\u043d\u044d\u0439\u0440"
@@ -196,11 +193,11 @@
     "name:ltz_x_preferred":[
         "Bonaire"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u0440\u0438\u043f\u0441\u043a\u0430 \u0425\u043e\u043b\u0430\u043d\u0434\u0438\u0458\u0430"
-    ],
     "name:mkd_x_preferred":[
         "\u0411\u043e\u043d\u0435\u0440"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u0430\u0440\u0438\u043f\u0441\u043a\u0430 \u0425\u043e\u043b\u0430\u043d\u0434\u0438\u0458\u0430"
     ],
     "name:mlt_x_preferred":[
         "G\u017cejjer Karibej Olandi\u017ci"
@@ -210,6 +207,9 @@
     ],
     "name:nld_x_preferred":[
         "Bonaire"
+    ],
+    "name:nld_x_variant":[
+        "Caribisch Nederland"
     ],
     "name:nno_x_preferred":[
         "Bonaire"
@@ -228,9 +228,6 @@
     ],
     "name:pap_x_preferred":[
         "Boneiru"
-    ],
-    "name:per_x_preferred":[
-        "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0627\u0631\u0627\u0626\u06cc\u0628 \u0647\u0644\u0646\u062f"
     ],
     "name:pms_x_preferred":[
         "Bonaire"
@@ -315,6 +312,9 @@
     ],
     "name:zho_x_preferred":[
         "\u535a\u5948\u5c14"
+    ],
+    "name:zho_x_variant":[
+        "\u8377\u862d\u52a0\u52d2\u6bd4\u5340"
     ],
     "name:zho_yue_x_preferred":[
         "\u535a\u5948\u723e\u5cf6"
@@ -441,7 +441,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1553550444,
+    "wof:lastmodified":1561768050,
     "wof:name":"Bonaire",
     "wof:parent_id":136251281,
     "wof:placetype":"region",

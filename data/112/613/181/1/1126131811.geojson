@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "West-Terschelling"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "West-Terschelling"
     ],
     "reversegeo:latitude":53.362033,
     "reversegeo:longitude":5.212453,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473795,
         85633337,
         101807443,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131811,
-    "wof:lastmodified":1559596176,
+    "wof:lastmodified":1561768349,
     "wof:name":"West-Terschelling",
     "wof:parent_id":101807443,
     "wof:placetype":"neighbourhood",

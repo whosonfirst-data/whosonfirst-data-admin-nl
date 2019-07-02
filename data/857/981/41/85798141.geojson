@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1064787.331332,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.787851,53.185561,5.787851,53.185561",
     "geom:latitude":53.185561,
     "geom:longitude":5.787851,
@@ -34,9 +34,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
-    "name:dut_x_preferred":[
-        "Nijl\u00e2n"
-    ],
     "name:dut_x_variant":[
         "Nylan"
     ],
@@ -46,6 +43,9 @@
     "name:eng_x_variant":[
         "Nylan"
     ],
+    "name:nld_x_preferred":[
+        "Nijl\u00e2n"
+    ],
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -53,12 +53,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687055,
         102191581,
         1141960061,
         404473775,
         85633337,
-        101751907
+        101751907,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +84,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861927,
+    "wof:lastmodified":1561768047,
     "wof:name":"Nylan",
     "wof:parent_id":1141960061,
     "wof:placetype":"neighbourhood",

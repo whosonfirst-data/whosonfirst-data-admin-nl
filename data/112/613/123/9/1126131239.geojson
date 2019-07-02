@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Industriehaven en omgeving"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Industriehaven en omgeving"
     ],
     "reversegeo:latitude":53.18761,
     "reversegeo:longitude":5.425826,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473769,
         85633337,
         101806147,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131239,
-    "wof:lastmodified":1559595951,
+    "wof:lastmodified":1561768366,
     "wof:name":"Industriehaven en omgeving",
     "wof:parent_id":101806147,
     "wof:placetype":"neighbourhood",

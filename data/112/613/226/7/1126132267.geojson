@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Verspreide huizen Workum"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Verspreide huizen Workum"
     ],
     "reversegeo:latitude":52.98172,
     "reversegeo:longitude":5.419266,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         1141960735,
         85633337,
         101807455,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126132267,
-    "wof:lastmodified":1559595853,
+    "wof:lastmodified":1561768337,
     "wof:name":"Verspreide huizen Workum",
     "wof:parent_id":101807455,
     "wof:placetype":"neighbourhood",

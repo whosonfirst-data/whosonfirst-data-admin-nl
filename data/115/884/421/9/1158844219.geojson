@@ -33,16 +33,13 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lastage"
     ],
     "name:eng_x_preferred":[
         "Nieuwmarkt"
     ],
-    "name:fre_x_preferred":[
-        "Lastage"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lastage"
     ],
     "name:ita_x_preferred":[
@@ -52,7 +49,8 @@
         "Nieuwmarkt"
     ],
     "name:nld_x_variant":[
-        "Nieuwmarktbuurt"
+        "Nieuwmarktbuurt",
+        "Lastage"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0633\u0679\u0627\u06af\u06cc"
@@ -89,7 +87,7 @@
         }
     ],
     "wof:id":1158844219,
-    "wof:lastmodified":1559597191,
+    "wof:lastmodified":1561768530,
     "wof:name":"Nieuwmarkt",
     "wof:parent_id":1108802875,
     "wof:placetype":"microhood",

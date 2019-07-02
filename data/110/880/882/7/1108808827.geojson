@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Oudwijk"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Oudwijk"
     ],
     "reversegeo:latitude":52.087875,
     "reversegeo:longitude":5.134859,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687039,
         102191581,
         85633337,
         101751827,
         136253051,
-        1108808669
+        1108808669,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108808827,
-    "wof:lastmodified":1559596629,
+    "wof:lastmodified":1561768086,
     "wof:name":"Oudwijk",
     "wof:parent_id":1108808669,
     "wof:placetype":"neighbourhood",

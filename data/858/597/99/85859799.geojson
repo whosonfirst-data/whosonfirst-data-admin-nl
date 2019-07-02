@@ -34,9 +34,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "mz:tier_metro":15,
-    "name:dut_x_preferred":[
-        "Dijkzigt"
-    ],
     "name:eng_x_preferred":[
         "Dijkzigt"
     ],
@@ -48,6 +45,9 @@
     ],
     "name:nld_x_preferred":[
         "Dijkzicht"
+    ],
+    "name:nld_x_variant":[
+        "Dijkzigt"
     ],
     "name:unk_x_variant":[
         "Dijkzicht"
@@ -84,12 +84,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85687041,
         102191581,
         85633337,
         101751843,
         136253051,
-        1108804841
+        1108804841,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,7 +115,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596067,
+    "wof:lastmodified":1561768053,
     "wof:name":"Dijkzigt",
     "wof:parent_id":1108804841,
     "wof:placetype":"neighbourhood",

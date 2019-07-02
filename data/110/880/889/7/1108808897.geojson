@@ -29,23 +29,23 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Veldhuizen"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Veldhuizen"
     ],
     "reversegeo:latitude":52.080984,
     "reversegeo:longitude":5.015226,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790393,
         85633337,
         101751827,
         136253051,
-        1108808673
+        1108808673,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":1108808897,
-    "wof:lastmodified":1559596621,
+    "wof:lastmodified":1561768073,
     "wof:name":"Veldhuizen",
     "wof:parent_id":1158790393,
     "wof:placetype":"neighbourhood",

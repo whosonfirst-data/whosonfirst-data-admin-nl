@@ -32,14 +32,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
-    "name:dut_x_preferred":[
-        "Het meer"
-    ],
     "name:eng_x_preferred":[
         "Het meer"
     ],
     "name:nld_x_preferred":[
         "Het Meer"
+    ],
+    "name:nld_x_variant":[
+        "Het meer"
     ],
     "src:geom":"mz",
     "src:geom_alt":[
@@ -48,12 +48,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473771,
         85633337,
         101837957,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +80,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595830,
+    "wof:lastmodified":1561768052,
     "wof:name":"Het Meer",
     "wof:parent_id":101837957,
     "wof:placetype":"neighbourhood",

@@ -29,9 +29,6 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Baandert"
-    ],
     "name:eng_x_preferred":[
         "Baandert"
     ],
@@ -46,13 +43,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158818223,
         404474675,
         85633337,
         101839313,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +70,7 @@
         }
     ],
     "wof:id":1158807689,
-    "wof:lastmodified":1559596845,
+    "wof:lastmodified":1561768422,
     "wof:name":"Baandert",
     "wof:parent_id":1158818223,
     "wof:placetype":"neighbourhood",

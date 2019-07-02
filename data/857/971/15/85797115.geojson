@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":886750.887103,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.801231,53.216292,5.801231,53.216292",
     "geom:latitude":53.216292,
     "geom:longitude":5.801231,
@@ -35,9 +35,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
-    "name:dut_x_preferred":[
-        "Bilgaard"
-    ],
     "name:dut_x_variant":[
         "Bilgaerd"
     ],
@@ -90,12 +87,12 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
-        85687055,
         102191581,
         1141960017,
         404473775,
         85633337,
-        101751907
+        101751907,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,7 +118,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861869,
+    "wof:lastmodified":1561768040,
     "wof:name":"Bilgaard",
     "wof:parent_id":1141960017,
     "wof:placetype":"neighbourhood",

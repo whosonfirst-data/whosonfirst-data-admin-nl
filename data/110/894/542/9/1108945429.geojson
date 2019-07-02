@@ -37,17 +37,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
-        "De Eendracht"
-    ],
     "name:eng_x_preferred":[
         "Eendracht"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "De Eendracht"
     ],
     "name:nld_x_preferred":[
         "Eendracht"
+    ],
+    "name:nld_x_variant":[
+        "De Eendracht"
     ],
     "reversegeo:latitude":52.377999,
     "reversegeo:longitude":4.780878,
@@ -57,12 +57,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85687053,
         102191581,
         85633337,
         101751893,
         136253051,
-        1158844287
+        1158844287,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1108945429,
-    "wof:lastmodified":1559595870,
+    "wof:lastmodified":1561768092,
     "wof:name":"Eendracht",
     "wof:parent_id":1158844287,
     "wof:placetype":"neighbourhood",

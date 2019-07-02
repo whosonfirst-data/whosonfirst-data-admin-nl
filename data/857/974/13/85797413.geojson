@@ -34,9 +34,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
-    "name:dut_x_preferred":[
-        "De Wiken"
-    ],
     "name:dut_x_variant":[
         "De Wieken"
     ],
@@ -49,6 +46,9 @@
     ],
     "name:nld_x_preferred":[
         "De Wieken"
+    ],
+    "name:nld_x_variant":[
+        "De Wiken"
     ],
     "name:unk_x_variant":[
         "De Wiken",
@@ -88,12 +88,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473791,
         85633337,
         101806135,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,7 +119,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595825,
+    "wof:lastmodified":1561768045,
     "wof:name":"De Wieken",
     "wof:parent_id":101806135,
     "wof:placetype":"neighbourhood",

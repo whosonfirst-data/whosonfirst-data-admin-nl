@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Verspreide huizen Nes"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Verspreide huizen Nes"
     ],
     "reversegeo:latitude":53.449881,
     "reversegeo:longitude":5.753788,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473759,
         85633337,
         101807405,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131091,
-    "wof:lastmodified":1559595833,
+    "wof:lastmodified":1561768353,
     "wof:name":"Verspreide huizen Nes",
     "wof:parent_id":101807405,
     "wof:placetype":"neighbourhood",

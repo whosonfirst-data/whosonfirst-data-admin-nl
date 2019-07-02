@@ -29,9 +29,6 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Wyldehoarne"
-    ],
     "name:dut_x_variant":[
         "Joure",
         "Wyldehoarne"
@@ -43,16 +40,19 @@
         "Joure",
         "Wyldehoarne"
     ],
+    "name:nld_x_preferred":[
+        "Wyldehoarne"
+    ],
     "reversegeo:latitude":52.969933,
     "reversegeo:longitude":5.820203,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         1141960737,
         85633337,
         101806179,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1126132617,
-    "wof:lastmodified":1559595857,
+    "wof:lastmodified":1561768340,
     "wof:name":"Wyldehoarne",
     "wof:parent_id":101806179,
     "wof:placetype":"neighbourhood",

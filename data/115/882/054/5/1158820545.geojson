@@ -29,16 +29,13 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Rivierenbuurt"
     ],
     "name:eng_x_preferred":[
         "Rivierenbuurt"
     ],
-    "name:fre_x_preferred":[
-        "Rivierenbuurt"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Rivierenbuurt"
     ],
     "name:ind_x_preferred":[
@@ -52,13 +49,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823245,
         404474123,
         85633337,
         101754823,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +76,7 @@
         }
     ],
     "wof:id":1158820545,
-    "wof:lastmodified":1559595950,
+    "wof:lastmodified":1561768556,
     "wof:name":"Rivierenbuurt",
     "wof:parent_id":1158823245,
     "wof:placetype":"neighbourhood",

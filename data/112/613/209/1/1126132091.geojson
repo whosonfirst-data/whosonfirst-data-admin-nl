@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Earnew\u00e2ld"
-    ],
     "name:eng_x_preferred":[
         "Earnewald"
+    ],
+    "name:nld_x_preferred":[
+        "Earnew\u00e2ld"
     ],
     "reversegeo:latitude":53.131625,
     "reversegeo:longitude":5.948944,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404474343,
         85633337,
         1141960213,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126132091,
-    "wof:lastmodified":1559596227,
+    "wof:lastmodified":1561768360,
     "wof:name":"Earnewald",
     "wof:parent_id":1141960213,
     "wof:placetype":"neighbourhood",

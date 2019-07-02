@@ -29,13 +29,10 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Barrier"
-    ],
     "name:eng_x_preferred":[
         "Barrier"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Barrier"
     ],
     "name:nld_x_preferred":[
@@ -46,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801473,
         85633337,
         101751819,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +68,7 @@
         }
     ],
     "wof:id":1158797391,
-    "wof:lastmodified":1559595690,
+    "wof:lastmodified":1561768456,
     "wof:name":"Barrier",
     "wof:parent_id":1158801473,
     "wof:placetype":"neighbourhood",

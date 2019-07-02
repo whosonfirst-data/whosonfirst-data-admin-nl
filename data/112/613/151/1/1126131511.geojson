@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Buitengebied Goutum"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Buitengebied Goutum"
     ],
     "reversegeo:latitude":53.18131,
     "reversegeo:longitude":5.772124,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473775,
         85633337,
         101754887,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131511,
-    "wof:lastmodified":1559596140,
+    "wof:lastmodified":1561768331,
     "wof:name":"Buitengebied Goutum",
     "wof:parent_id":101754887,
     "wof:placetype":"neighbourhood",

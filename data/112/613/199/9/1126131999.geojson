@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Verspreide huizen Spannum"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Verspreide huizen Spannum"
     ],
     "reversegeo:latitude":53.131559,
     "reversegeo:longitude":5.605135,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473817,
         85633337,
         1141960659,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131999,
-    "wof:lastmodified":1559596250,
+    "wof:lastmodified":1561768355,
     "wof:name":"Verspreide huizen Spannum",
     "wof:parent_id":1141960659,
     "wof:placetype":"neighbourhood",

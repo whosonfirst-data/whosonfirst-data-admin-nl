@@ -37,20 +37,20 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Omval"
     ],
     "name:eng_x_preferred":[
         "De Omval"
     ],
-    "name:fre_x_preferred":[
-        "Omval"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Omval"
     ],
     "name:nld_x_preferred":[
         "De Omval"
+    ],
+    "name:nld_x_variant":[
+        "Omval"
     ],
     "name:swe_x_preferred":[
         "Omval"
@@ -63,13 +63,13 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85687053,
         102191581,
         1108802305,
         85633337,
         101751893,
         136253051,
-        1158844281
+        1158844281,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1108945561,
-    "wof:lastmodified":1559596012,
+    "wof:lastmodified":1561768091,
     "wof:name":"De Omval",
     "wof:parent_id":1108802305,
     "wof:placetype":"neighbourhood",

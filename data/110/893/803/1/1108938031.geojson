@@ -32,13 +32,10 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":15,
-    "name:dut_x_preferred":[
-        "Cool"
-    ],
     "name:eng_x_preferred":[
         "Cool"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cool"
     ],
     "name:lim_x_preferred":[
@@ -56,12 +53,12 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687041,
         102191581,
         85633337,
         101751843,
         136253051,
-        1108804841
+        1108804841,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":1108938031,
-    "wof:lastmodified":1559595899,
+    "wof:lastmodified":1561768095,
     "wof:name":"Cool",
     "wof:parent_id":1108804841,
     "wof:placetype":"neighbourhood",

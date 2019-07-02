@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Verspreide huizen Nij Beets"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Verspreide huizen Nij Beets"
     ],
     "reversegeo:latitude":53.066232,
     "reversegeo:longitude":5.978978,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473787,
         85633337,
         101806117,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131697,
-    "wof:lastmodified":1559595842,
+    "wof:lastmodified":1561768331,
     "wof:name":"Verspreide huizen Nij Beets",
     "wof:parent_id":101806117,
     "wof:placetype":"neighbourhood",

@@ -29,7 +29,7 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "De Pijp"
     ],
     "name:eng_x_preferred":[
@@ -38,10 +38,7 @@
     "name:fao_x_preferred":[
         "De Pijp"
     ],
-    "name:fre_x_preferred":[
-        "De Pijp"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "De Pijp"
     ],
     "name:heb_x_preferred":[
@@ -61,12 +58,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474043,
         85633337,
         101754793,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +83,7 @@
         }
     ],
     "wof:id":1158818705,
-    "wof:lastmodified":1559596037,
+    "wof:lastmodified":1561768448,
     "wof:name":"De Pijp",
     "wof:parent_id":101754793,
     "wof:placetype":"neighbourhood",

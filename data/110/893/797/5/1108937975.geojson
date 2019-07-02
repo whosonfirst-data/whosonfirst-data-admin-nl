@@ -32,13 +32,10 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":15,
-    "name:dut_x_preferred":[
-        "Waalhaven"
-    ],
     "name:eng_x_preferred":[
         "Waalhaven"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Waalhaven"
     ],
     "name:nld_x_preferred":[
@@ -53,12 +50,12 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687041,
         102191581,
         85633337,
         101751843,
         136253051,
-        1158831803
+        1158831803,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +76,7 @@
         }
     ],
     "wof:id":1108937975,
-    "wof:lastmodified":1559595535,
+    "wof:lastmodified":1561768095,
     "wof:name":"Waalhaven",
     "wof:parent_id":1158831803,
     "wof:placetype":"neighbourhood",

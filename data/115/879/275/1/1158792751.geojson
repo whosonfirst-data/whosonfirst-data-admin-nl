@@ -29,13 +29,10 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Noorddijk"
-    ],
     "name:eng_x_preferred":[
         "Noorddijk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Noorddijk"
     ],
     "name:fry_x_preferred":[
@@ -49,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473713,
         85633337,
         1158796475,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +71,7 @@
         }
     ],
     "wof:id":1158792751,
-    "wof:lastmodified":1559597034,
+    "wof:lastmodified":1561768476,
     "wof:name":"Noorddijk",
     "wof:parent_id":1158796475,
     "wof:placetype":"neighbourhood",

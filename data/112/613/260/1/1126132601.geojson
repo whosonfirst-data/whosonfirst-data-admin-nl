@@ -29,9 +29,6 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Buitengebied"
-    ],
     "name:dut_x_variant":[
         "Joure",
         "Buitengebied"
@@ -43,16 +40,19 @@
         "Joure",
         "Buitengebied"
     ],
+    "name:nld_x_preferred":[
+        "Buitengebied"
+    ],
     "reversegeo:latitude":52.985385,
     "reversegeo:longitude":5.818927,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         1141960737,
         85633337,
         101806179,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1126132601,
-    "wof:lastmodified":1559596853,
+    "wof:lastmodified":1561768341,
     "wof:name":"Buitengebied",
     "wof:parent_id":101806179,
     "wof:placetype":"neighbourhood",

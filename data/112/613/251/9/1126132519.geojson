@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Verspreide huizen Dronrijp"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Verspreide huizen Dronrijp"
     ],
     "reversegeo:latitude":53.178244,
     "reversegeo:longitude":5.652869,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473783,
         85633337,
         101806141,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126132519,
-    "wof:lastmodified":1559595986,
+    "wof:lastmodified":1561768342,
     "wof:name":"Verspreide huizen Dronrijp",
     "wof:parent_id":101806141,
     "wof:placetype":"neighbourhood",

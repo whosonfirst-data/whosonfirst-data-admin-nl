@@ -37,9 +37,6 @@
     "name:afr_x_preferred":[
         "Afrikaanderwijk"
     ],
-    "name:dut_x_preferred":[
-        "Afrikaanderwijk"
-    ],
     "name:eng_x_preferred":[
         "Afrikaanderwijk"
     ],
@@ -47,11 +44,14 @@
         "Afrikaander Buurt",
         "Afrikaanderbuurt"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Afrikaanderwijk"
     ],
     "name:nld_x_preferred":[
         "Afrikaander Buurt"
+    ],
+    "name:nld_x_variant":[
+        "Afrikaanderwijk"
     ],
     "name:unk_x_variant":[
         "Afrikaander Buurt"
@@ -88,12 +88,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85687041,
         102191581,
         85633337,
         101751843,
         136253051,
-        1108805747
+        1108805747,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,7 +119,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595993,
+    "wof:lastmodified":1561768055,
     "wof:name":"Afrikaanderwijk",
     "wof:parent_id":1108805747,
     "wof:placetype":"neighbourhood",

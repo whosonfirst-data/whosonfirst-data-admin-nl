@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Tijnje"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Tijnje"
     ],
     "reversegeo:latitude":53.028507,
     "reversegeo:longitude":5.990153,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473787,
         85633337,
         101806153,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131681,
-    "wof:lastmodified":1559596167,
+    "wof:lastmodified":1561768325,
     "wof:name":"Tijnje",
     "wof:parent_id":101806153,
     "wof:placetype":"neighbourhood",

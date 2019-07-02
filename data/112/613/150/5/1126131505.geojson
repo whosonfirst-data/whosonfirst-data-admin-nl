@@ -29,22 +29,22 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Buitengebied Wytgaard"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Buitengebied Wytgaard"
     ],
     "reversegeo:latitude":53.135994,
     "reversegeo:longitude":5.772685,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687055,
         102191581,
         404473775,
         85633337,
         1141960137,
-        136253051
+        136253051,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1126131505,
-    "wof:lastmodified":1559595841,
+    "wof:lastmodified":1561768326,
     "wof:name":"Buitengebied Wytgaard",
     "wof:parent_id":1141960137,
     "wof:placetype":"neighbourhood",
