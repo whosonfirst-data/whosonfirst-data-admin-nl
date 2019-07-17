@@ -33,11 +33,23 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "mz:tier_metro":15,
+    "name:deu_x_preferred":[
+        "Die Uithof"
+    ],
     "name:eng_x_preferred":[
         "Uithof"
     ],
+    "name:eng_x_variant":[
+        "The Uithof"
+    ],
+    "name:fra_x_preferred":[
+        "l'Uithof"
+    ],
     "name:nld_x_preferred":[
         "De Uithof"
+    ],
+    "name:nld_x_variant":[
+        "Utrecht Science Park"
     ],
     "name:unk_x_variant":[
         "De Uithof"
@@ -76,13 +88,13 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":567,
     "wof:belongsto":[
-        85687041,
         102191581,
         1108808029,
         85633337,
         101752763,
         136253051,
-        1108808051
+        1108808051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +123,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595858,
+    "wof:lastmodified":1563349656,
     "wof:name":"De Uithof",
     "wof:parent_id":1108808029,
     "wof:placetype":"neighbourhood",

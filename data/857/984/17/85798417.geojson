@@ -34,6 +34,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:ast_x_preferred":[
+        "Soestdijk"
+    ],
     "name:eng_x_preferred":[
         "Soestdijk"
     ],
@@ -42,6 +45,12 @@
     ],
     "name:fry_x_preferred":[
         "Soestdyk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30fc\u30b9\u30c8\u30c0\u30a4\u30af"
+    ],
+    "name:nan_x_preferred":[
+        "Soestdijk"
     ],
     "name:nld_x_colloquial":[
         "Soestdyk"
@@ -92,13 +101,13 @@
     "wd:longitude":5.279167,
     "wd:wordcount":91,
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790363,
         404474005,
         85633337,
         101808443,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -128,7 +137,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595828,
+    "wof:lastmodified":1563349577,
     "wof:name":"Soestdijk",
     "wof:parent_id":1158790363,
     "wof:placetype":"neighbourhood",

@@ -35,6 +35,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Zuidwijk"
+    ],
     "name:fra_x_preferred":[
         "Zuidwijk"
     ],
@@ -81,12 +84,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":79,
     "wof:belongsto":[
-        85687041,
         102191581,
         85633337,
         101751843,
         136253051,
-        1108804837
+        1108804837,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,7 +116,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596162,
+    "wof:lastmodified":1563349605,
     "wof:name":"Zuidwijk",
     "wof:parent_id":1108804837,
     "wof:placetype":"neighbourhood",

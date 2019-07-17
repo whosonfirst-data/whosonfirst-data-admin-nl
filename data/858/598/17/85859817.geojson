@@ -34,6 +34,9 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Provenierswijk"
+    ],
     "name:nld_x_colloquial":[
         "Provenierswyk"
     ],
@@ -76,12 +79,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":26,
     "wof:belongsto":[
-        85687041,
         102191581,
         85633337,
         101751843,
         136253051,
-        1108804843
+        1108804843,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +110,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596006,
+    "wof:lastmodified":1563349669,
     "wof:name":"Provenierswijk",
     "wof:parent_id":1108804843,
     "wof:placetype":"neighbourhood",

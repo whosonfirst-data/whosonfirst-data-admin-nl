@@ -28,11 +28,23 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "name:ast_x_preferred":[
+        "Vlaardingerambacht"
+    ],
     "name:eng_x_preferred":[
         "Vlaardinger Ambacht"
     ],
+    "name:eng_x_variant":[
+        "Vlaardinger-Ambacht"
+    ],
     "name:fra_x_preferred":[
         "Vlaardinger-Ambacht"
+    ],
+    "name:ltz_x_preferred":[
+        "Vlaardinger-Ambacht"
+    ],
+    "name:nan_x_preferred":[
+        "Vlaardingerambacht"
     ],
     "name:nld_x_preferred":[
         "Vlaardinger Ambacht"
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":1158829531,
-    "wof:lastmodified":1561768542,
+    "wof:lastmodified":1563352827,
     "wof:name":"Vlaardinger Ambacht",
     "wof:parent_id":101751851,
     "wof:placetype":"macrohood",
