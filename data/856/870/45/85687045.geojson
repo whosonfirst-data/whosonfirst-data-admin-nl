@@ -36,6 +36,9 @@
     "name:arg_x_preferred":[
         "Overijssel"
     ],
+    "name:ast_x_preferred":[
+        "Overijssel"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0410\u0432\u0435\u0440\u044d\u0439\u0441\u0435\u043b"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:cat_x_preferred":[
         "Overijssel"
+    ],
+    "name:ceb_x_preferred":[
+        "Provincie Overijssel"
     ],
     "name:ces_x_preferred":[
         "Overijssel"
@@ -81,6 +87,9 @@
     ],
     "name:epo_x_preferred":[
         "Overijssel"
+    ],
+    "name:epo_x_variant":[
+        "Overiselo"
     ],
     "name:est_x_preferred":[
         "Overijsseli provints"
@@ -130,6 +139,9 @@
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05d1\u05e8\u05d0\u05d9\u05e1\u05dc"
     ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d5\u05d1\u05e8\u05d9\u05d9\u05e1\u05dc"
+    ],
     "name:hin_x_preferred":[
         "\u0913\u0935\u0930\u093f\u0938\u094d\u0938\u0947\u0932"
     ],
@@ -166,11 +178,17 @@
     "name:kor_x_preferred":[
         "\uc624\ubc84\ub808\uc774\uc124 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc624\ubc84\ub808\uc774\uc124\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Transisalania"
     ],
     "name:lav_x_preferred":[
         "Overeisela"
+    ],
+    "name:lfn_x_preferred":[
+        "Overijssel"
     ],
     "name:lim_x_preferred":[
         "Euverijssel"
@@ -183,6 +201,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0913\u0935\u094d\u0939\u0930\u093e\u0908\u091c\u0932"
+    ],
+    "name:min_x_preferred":[
+        "Overijssel"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u0432\u0435\u0440\u0435\u0458\u0441\u0435\u043b"
@@ -216,6 +237,9 @@
     ],
     "name:oci_x_preferred":[
         "Overijssel"
+    ],
+    "name:oss_x_preferred":[
+        "\u041e\u0432\u0435\u0440\u044d\u0439\u0441\u0441\u0435\u043b"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0648\u0631\u0622\u0621\u06cc\u0633\u0644"
@@ -304,6 +328,12 @@
     ],
     "name:war_x_preferred":[
         "Overijssel"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e0a\u827e\u745f\u5c14\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e0a\u827e\u4fee"
     ],
     "name:zea_x_preferred":[
         "Overiessel"
@@ -434,7 +464,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1561768051,
+    "wof:lastmodified":1563349644,
     "wof:name":"Overijssel",
     "wof:parent_id":85633337,
     "wof:placetype":"region",

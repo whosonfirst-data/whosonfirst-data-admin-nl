@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0623\u0645\u064a\u0631\u064a\u0643\u0627\u060c \u0644\u064a\u0645\u0628\u0648\u0631\u062e"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0645\u064a\u0631\u064a\u0643\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "America"
+    ],
+    "name:ceb_x_preferred":[
+        "America"
+    ],
     "name:deu_x_preferred":[
         "America"
     ],
@@ -38,7 +47,8 @@
         "\u0622\u0645\u0631\u06cc\u06a9\u0627\u060c \u0644\u06cc\u0645\u0628\u0648\u0631\u06af"
     ],
     "name:fas_x_variant":[
-        "\u0627\u0645\u0631\u06cc\u06a9\u0627\u060c \u0644\u06cc\u0645\u0628\u0648\u0631\u06af"
+        "\u0627\u0645\u0631\u06cc\u06a9\u0627\u060c \u0644\u06cc\u0645\u0628\u0648\u0631\u06af",
+        "\u0627\u0645\u0631\u06cc\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
         "America"
@@ -48,6 +58,9 @@
     ],
     "name:lit_x_preferred":[
         "Amerika"
+    ],
+    "name:ltz_x_preferred":[
+        "America"
     ],
     "name:nan_x_preferred":[
         "America"
@@ -123,7 +136,7 @@
         }
     ],
     "wof:id":101808137,
-    "wof:lastmodified":1561768219,
+    "wof:lastmodified":1563350894,
     "wof:name":"America",
     "wof:parent_id":404474541,
     "wof:placetype":"locality",

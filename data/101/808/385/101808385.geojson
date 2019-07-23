@@ -17,14 +17,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "name:ast_x_preferred":[
+        "'s-Heer Arendskerke"
+    ],
+    "name:ceb_x_preferred":[
+        "S-Heer Arendskerke"
+    ],
     "name:deu_x_preferred":[
         "s-Heer Arendskerke"
+    ],
+    "name:deu_x_variant":[
+        "'s-Heer Arendskerke"
     ],
     "name:eng_x_preferred":[
         "'s-Heer-Arendskerke"
     ],
     "name:eng_x_variant":[
-        "s-Heer Arendskerke"
+        "s-Heer Arendskerke",
+        "'s-Heer Arendskerke"
     ],
     "name:fra_x_preferred":[
         "'s-Heer Arendskerke"
@@ -38,11 +48,15 @@
     "name:nan_x_preferred":[
         "s-Heer Arendskerke"
     ],
+    "name:nan_x_variant":[
+        "'s-Heer Arendskerke"
+    ],
     "name:nld_x_preferred":[
         "'s-Heer-Arendskerke"
     ],
     "name:nld_x_variant":[
-        "s-Heer Arendskerke"
+        "s-Heer Arendskerke",
+        "'s-Heer Arendskerke"
     ],
     "name:zea_x_preferred":[
         "Sraskerke"
@@ -104,7 +118,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561768211,
+    "wof:lastmodified":1563350862,
     "wof:name":"'s-Heer-Arendskerke",
     "wof:parent_id":404474303,
     "wof:placetype":"locality",

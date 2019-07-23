@@ -47,14 +47,26 @@
     "name:cat_x_preferred":[
         "Am\u00edgdala"
     ],
+    "name:cat_x_variant":[
+        "am\u00edgdala"
+    ],
     "name:ces_x_preferred":[
         "Mandle"
+    ],
+    "name:ces_x_variant":[
+        "mandle"
+    ],
+    "name:cym_x_preferred":[
+        "Tonsil"
     ],
     "name:dan_x_preferred":[
         "Mandel"
     ],
     "name:deu_x_preferred":[
         "Tonsille"
+    ],
+    "name:deu_x_variant":[
+        "Tonsilla palatina"
     ],
     "name:diq_x_preferred":[
         "Vam\u0131ke"
@@ -68,6 +80,9 @@
     "name:eng_x_preferred":[
         "Tonsel"
     ],
+    "name:eng_x_variant":[
+        "tonsil"
+    ],
     "name:epo_x_preferred":[
         "Tonsilo"
     ],
@@ -80,8 +95,14 @@
     "name:fas_x_preferred":[
         "\u0644\u0648\u0632\u0647"
     ],
+    "name:fin_x_preferred":[
+        "Nielurisa"
+    ],
     "name:fra_x_preferred":[
         "Tonsille"
+    ],
+    "name:fra_x_variant":[
+        "tonsille"
     ],
     "name:gle_x_preferred":[
         "C\u00e9isl\u00edn"
@@ -110,8 +131,14 @@
     "name:ind_x_preferred":[
         "Mandel"
     ],
+    "name:isl_x_preferred":[
+        "H\u00e1lseitlar"
+    ],
     "name:ita_x_preferred":[
         "Tonsilla"
+    ],
+    "name:ita_x_variant":[
+        "tonsilla"
     ],
     "name:jav_x_preferred":[
         "Amandhel"
@@ -128,8 +155,14 @@
     "name:kur_x_preferred":[
         "Arg\u00fb\u015fk"
     ],
+    "name:kur_x_variant":[
+        "Aloq"
+    ],
     "name:lat_x_preferred":[
         "Tonsilla palatina"
+    ],
+    "name:lfn_x_preferred":[
+        "Tonsil"
     ],
     "name:lit_x_preferred":[
         "Gomurio migdolas"
@@ -137,14 +170,26 @@
     "name:mal_x_preferred":[
         "\u0d1f\u0d4b\u0d7a\u0d38\u0d3f\u0d7d"
     ],
+    "name:mkd_x_preferred":[
+        "\u043a\u0440\u0430\u0458\u043d\u0438\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Tonsil"
+    ],
     "name:new_x_preferred":[
         "\u091f\u0928\u094d\u0938\u093f\u0932"
     ],
     "name:nld_x_preferred":[
         "Tonsel"
     ],
+    "name:nld_x_variant":[
+        "keelamandel"
+    ],
     "name:nno_x_preferred":[
         "Tonsill"
+    ],
+    "name:nob_x_preferred":[
+        "Mandler"
     ],
     "name:nor_x_preferred":[
         "Mandler"
@@ -152,14 +197,29 @@
     "name:pol_x_preferred":[
         "Migda\u0142ek podniebienny"
     ],
+    "name:pol_x_variant":[
+        "Migda\u0142ki podniebienne"
+    ],
     "name:por_x_preferred":[
         "Tonsila"
+    ],
+    "name:por_x_variant":[
+        "tonsila"
+    ],
+    "name:ron_x_preferred":[
+        "Amigdale"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u043d\u0434\u0430\u043b\u0438\u043d\u044b"
     ],
+    "name:rus_x_variant":[
+        "\u043c\u0438\u043d\u0434\u0430\u043b\u0438\u043d\u044b"
+    ],
     "name:spa_x_preferred":[
         "Am\u00edgdala palatina"
+    ],
+    "name:spa_x_variant":[
+        "am\u00edgdala"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0430\u0458\u043d\u0438\u0446\u0438"
@@ -169,6 +229,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b85\u0b9f\u0bbf\u0ba8\u0bbe\u0b9a\u0bcd \u0b9a\u0bc1\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bb3\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c3e\u0c28\u0c4d\u0c38\u0c3f\u0c32\u0c4d\u0c38\u0c4d\u200c"
     ],
     "name:tha_x_preferred":[
         "\u0e15\u0e48\u0e2d\u0e21\u0e17\u0e2d\u0e19\u0e0b\u0e34\u0e25"
@@ -182,8 +245,17 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0433\u0434\u0430\u043b\u0438\u043a\u0438"
     ],
+    "name:vie_x_preferred":[
+        "Amidan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6241\u6843\u817a"
+    ],
     "name:yid_x_preferred":[
         "\u05de\u05d0\u05e0\u05d3\u05dc\u05e2\u05df"
+    ],
+    "name:yue_x_preferred":[
+        "\u6241\u6843\u817a"
     ],
     "name:zho_x_preferred":[
         "\u6241\u6843\u817a"
@@ -236,7 +308,7 @@
         }
     ],
     "wof:id":101837779,
-    "wof:lastmodified":1559594610,
+    "wof:lastmodified":1563350727,
     "wof:name":"Tonsel",
     "wof:parent_id":404473899,
     "wof:placetype":"locality",

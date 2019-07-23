@@ -34,15 +34,31 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Blerick"
+    ],
+    "name:deu_x_preferred":[
+        "Blerick"
+    ],
     "name:eng_x_preferred":[
         "Blerick-Centrum"
     ],
     "name:eng_x_variant":[
         "Blerik",
-        "Blerik"
+        "Blerik",
+        "Blerick"
+    ],
+    "name:fra_x_preferred":[
+        "Blerick"
     ],
     "name:lim_x_preferred":[
         "Blierik"
+    ],
+    "name:ltz_x_preferred":[
+        "Blerick"
+    ],
+    "name:nan_x_preferred":[
+        "Blerick"
     ],
     "name:nld_x_preferred":[
         "Blerick-Centrum"
@@ -90,13 +106,13 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158818271,
         404474525,
         85633337,
         101839199,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +141,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595925,
+    "wof:lastmodified":1563349591,
     "wof:name":"Blerick-Centrum",
     "wof:parent_id":1158818271,
     "wof:placetype":"neighbourhood",
