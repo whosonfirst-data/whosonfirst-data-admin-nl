@@ -29,10 +29,19 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Noordzijde"
+    ],
     "name:eng_x_preferred":[
         "Noordzijde"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631\u062f\u0632\u06cc\u062f\u0647"
+    ],
     "name:nld_x_preferred":[
+        "Noordzijde"
+    ],
+    "name:por_x_preferred":[
         "Noordzijde"
     ],
     "reversegeo:latitude":52.08962,
@@ -40,13 +49,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831325,
         1158824739,
         85633337,
         101754619,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1158828433,
-    "wof:lastmodified":1559596636,
+    "wof:lastmodified":1564236412,
     "wof:name":"Noordzijde",
     "wof:parent_id":1158831325,
     "wof:placetype":"neighbourhood",

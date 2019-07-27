@@ -29,24 +29,99 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ast_x_preferred":[
+        "Prisma"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u044b\u0437\u043c\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cd\u09b0\u09bf\u099c\u09ae"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0438\u0437\u043c\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Prisma"
+    ],
+    "name:ces_x_preferred":[
+        "Prisma"
+    ],
+    "name:deu_x_preferred":[
+        "Prisma"
+    ],
     "name:eng_x_preferred":[
+        "Prisma"
+    ],
+    "name:eus_x_preferred":[
+        "Prisma"
+    ],
+    "name:fin_x_preferred":[
+        "Prisma"
+    ],
+    "name:fra_x_preferred":[
+        "Prisma"
+    ],
+    "name:fry_x_preferred":[
+        "Prisma"
+    ],
+    "name:ido_x_preferred":[
+        "Prismato"
+    ],
+    "name:ind_x_preferred":[
+        "Prisma"
+    ],
+    "name:ita_x_preferred":[
+        "Prisma"
+    ],
+    "name:ltz_x_preferred":[
         "Prisma"
     ],
     "name:nld_x_preferred":[
         "Prisma"
+    ],
+    "name:por_x_preferred":[
+        "Prisma"
+    ],
+    "name:ron_x_preferred":[
+        "Prism\u0103"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0437\u043c\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Hranol"
+    ],
+    "name:spa_x_preferred":[
+        "Prisma"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0438\u0437\u043c\u0430"
+    ],
+    "name:sun_x_preferred":[
+        "Prisma"
+    ],
+    "name:swe_x_preferred":[
+        "Prisma"
+    ],
+    "name:tur_x_preferred":[
+        "Prisma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0438\u0437\u043c\u0430"
     ],
     "reversegeo:latitude":52.040949,
     "reversegeo:longitude":4.533507,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831317,
         404474555,
         85633337,
         101807025,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +140,7 @@
         }
     ],
     "wof:id":1158828063,
-    "wof:lastmodified":1559596986,
+    "wof:lastmodified":1564236703,
     "wof:name":"Prisma",
     "wof:parent_id":1158831317,
     "wof:placetype":"neighbourhood",

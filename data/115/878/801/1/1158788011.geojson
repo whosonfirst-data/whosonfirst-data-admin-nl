@@ -29,7 +29,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Sloten"
+    ],
     "name:eng_x_preferred":[
+        "Sloten"
+    ],
+    "name:fra_x_preferred":[
+        "Sloten"
+    ],
+    "name:ita_x_preferred":[
         "Sloten"
     ],
     "name:nld_x_preferred":[
@@ -40,13 +49,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790317,
         404473987,
         85633337,
         101807003,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1158788011,
-    "wof:lastmodified":1559595620,
+    "wof:lastmodified":1564237094,
     "wof:name":"Sloten",
     "wof:parent_id":1158790317,
     "wof:placetype":"neighbourhood",

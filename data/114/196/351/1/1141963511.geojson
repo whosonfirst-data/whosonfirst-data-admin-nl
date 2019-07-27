@@ -29,10 +29,160 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Hoorn"
+    ],
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0631\u0646"
+    ],
+    "name:arg_x_preferred":[
+        "Hoorn"
+    ],
+    "name:bre_x_preferred":[
+        "Hoorn"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u0440\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Hoorn"
+    ],
+    "name:ceb_x_preferred":[
+        "Gemeente Hoorn"
+    ],
+    "name:ces_x_preferred":[
+        "Hoorn"
+    ],
+    "name:cym_x_preferred":[
+        "Hoorn"
+    ],
+    "name:deu_x_preferred":[
+        "Hoorn"
+    ],
     "name:eng_x_preferred":[
         "Hoorn"
     ],
+    "name:epo_x_preferred":[
+        "Hoorn"
+    ],
+    "name:est_x_preferred":[
+        "Hoorn"
+    ],
+    "name:eus_x_preferred":[
+        "Hoorn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0631\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Hoorn"
+    ],
+    "name:fra_x_preferred":[
+        "Hoorn"
+    ],
+    "name:fry_x_preferred":[
+        "Hoarn"
+    ],
+    "name:gle_x_preferred":[
+        "Hoorn"
+    ],
+    "name:glg_x_preferred":[
+        "Hoorn"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05e8\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Hoorn"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0578\u0580\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Hoorn"
+    ],
+    "name:isl_x_preferred":[
+        "Hoorn"
+    ],
+    "name:ita_x_preferred":[
+        "Hoorn"
+    ],
+    "name:jav_x_preferred":[
+        "Hoorn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30fc\u30eb\u30f3"
+    ],
+    "name:kom_x_preferred":[
+        "\u0425\u043e\u0440\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\ud638\ub978"
+    ],
+    "name:lim_x_preferred":[
+        "Hoorn"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u043e\u0440\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Hoorn"
+    ],
     "name:nld_x_preferred":[
+        "Hoorn"
+    ],
+    "name:nno_x_preferred":[
+        "Hoorn"
+    ],
+    "name:nor_x_preferred":[
+        "Hoorn"
+    ],
+    "name:pol_x_preferred":[
+        "Hoorn"
+    ],
+    "name:por_x_preferred":[
+        "Hoorn"
+    ],
+    "name:ron_x_preferred":[
+        "Hoorn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0440\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Hoorn"
+    ],
+    "name:spa_x_preferred":[
+        "Hoorn"
+    ],
+    "name:sqi_x_preferred":[
+        "Hoorn"
+    ],
+    "name:stq_x_preferred":[
+        "Hoorn"
+    ],
+    "name:swa_x_preferred":[
+        "Hoorn"
+    ],
+    "name:swe_x_preferred":[
+        "Hoorn"
+    ],
+    "name:tat_x_preferred":[
+        "\u04ba\u043e\u0440\u043d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e2e\u0e23\u0e4c\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Hoorn"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u043d"
+    ],
+    "name:war_x_preferred":[
+        "Hoorn"
+    ],
+    "name:zea_x_preferred":[
         "Hoorn"
     ],
     "reversegeo:latitude":52.401322,
@@ -40,12 +190,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473911,
         85633337,
         101807097,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +213,7 @@
         }
     ],
     "wof:id":1141963511,
-    "wof:lastmodified":1559597063,
+    "wof:lastmodified":1564237479,
     "wof:name":"Hoorn",
     "wof:parent_id":101807097,
     "wof:placetype":"neighbourhood",

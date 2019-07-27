@@ -32,7 +32,13 @@
     "name:eng_x_preferred":[
         "Beneden-Haastrecht"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u06cc\u062f\u0646-\u0647\u0627\u0633\u200c\u062a\u0631\u062e\u062a"
+    ],
     "name:nld_x_preferred":[
+        "Beneden-Haastrecht"
+    ],
+    "name:por_x_preferred":[
         "Beneden-Haastrecht"
     ],
     "reversegeo:latitude":52.004099,
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158824749,
         85633337,
         101808079,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158829129,
-    "wof:lastmodified":1559595813,
+    "wof:lastmodified":1564236492,
     "wof:name":"Beneden-Haastrecht",
     "wof:parent_id":101808079,
     "wof:placetype":"neighbourhood",

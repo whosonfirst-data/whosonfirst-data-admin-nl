@@ -29,8 +29,17 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Budel-Dorplein"
+    ],
     "name:eng_x_preferred":[
         "Budel-Dorplein"
+    ],
+    "name:fra_x_preferred":[
+        "Budel-Dorplein"
+    ],
+    "name:lim_x_preferred":[
+        "Dorplein"
     ],
     "name:nld_x_preferred":[
         "Budel-Dorplein"
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474619,
         85633337,
         101809693,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158800127,
-    "wof:lastmodified":1559595896,
+    "wof:lastmodified":1564235203,
     "wof:name":"Budel-Dorplein",
     "wof:parent_id":101809693,
     "wof:placetype":"neighbourhood",

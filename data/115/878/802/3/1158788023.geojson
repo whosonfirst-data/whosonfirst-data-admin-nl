@@ -29,7 +29,19 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Waters"
+    ],
     "name:eng_x_preferred":[
+        "Waters"
+    ],
+    "name:fin_x_preferred":[
+        "Waters"
+    ],
+    "name:fra_x_preferred":[
+        "Waters"
+    ],
+    "name:ita_x_preferred":[
         "Waters"
     ],
     "name:nld_x_preferred":[
@@ -40,13 +52,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790315,
         404473987,
         85633337,
         101807003,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +77,7 @@
         }
     ],
     "wof:id":1158788023,
-    "wof:lastmodified":1559597028,
+    "wof:lastmodified":1564236920,
     "wof:name":"Waters",
     "wof:parent_id":1158790315,
     "wof:placetype":"neighbourhood",

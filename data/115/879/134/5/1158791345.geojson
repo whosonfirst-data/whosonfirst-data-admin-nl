@@ -29,10 +29,31 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0648\u0646\u064a\u062e\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Bronneger"
+    ],
     "name:eng_x_preferred":[
         "Bronneger"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0648\u0646\u0647\u200c\u062e\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Bronneger"
+    ],
+    "name:fry_x_preferred":[
+        "Bronneger"
+    ],
     "name:nld_x_preferred":[
+        "Bronneger"
+    ],
+    "name:pol_x_preferred":[
+        "Bronneger"
+    ],
+    "name:por_x_preferred":[
         "Bronneger"
     ],
     "reversegeo:latitude":52.946026,
@@ -40,12 +61,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474595,
         85633337,
         1158792091,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1158791345,
-    "wof:lastmodified":1559596228,
+    "wof:lastmodified":1564235753,
     "wof:name":"Bronneger",
     "wof:parent_id":1158792091,
     "wof:placetype":"neighbourhood",

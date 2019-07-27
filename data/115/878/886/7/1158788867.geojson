@@ -29,7 +29,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Wilnis"
+    ],
     "name:eng_x_preferred":[
+        "Wilnis"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0646\u06cc\u0633"
+    ],
+    "name:fra_x_preferred":[
         "Wilnis"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404474341,
         85633337,
         101837677,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158788867,
-    "wof:lastmodified":1559596454,
+    "wof:lastmodified":1564236865,
     "wof:name":"Wilnis",
     "wof:parent_id":101837677,
     "wof:placetype":"neighbourhood",

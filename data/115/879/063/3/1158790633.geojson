@@ -32,7 +32,16 @@
     "name:eng_x_preferred":[
         "Ter Aard"
     ],
+    "name:fra_x_preferred":[
+        "Ter Aard"
+    ],
+    "name:fry_x_preferred":[
+        "Ter Aard"
+    ],
     "name:nld_x_preferred":[
+        "Ter Aard"
+    ],
+    "name:pol_x_preferred":[
         "Ter Aard"
     ],
     "reversegeo:latitude":53.02349,
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404473805,
         85633337,
         1158791973,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158790633,
-    "wof:lastmodified":1559595940,
+    "wof:lastmodified":1564235873,
     "wof:name":"Ter Aard",
     "wof:parent_id":1158791973,
     "wof:placetype":"neighbourhood",

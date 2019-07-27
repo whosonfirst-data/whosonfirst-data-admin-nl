@@ -29,7 +29,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Zetten"
+    ],
+    "name:ceb_x_preferred":[
+        "Zetten"
+    ],
     "name:eng_x_preferred":[
+        "Zetten"
+    ],
+    "name:fra_x_preferred":[
         "Zetten"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474651,
         85633337,
         101809867,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1141965017,
-    "wof:lastmodified":1559596350,
+    "wof:lastmodified":1564237469,
     "wof:name":"Zetten",
     "wof:parent_id":101809867,
     "wof:placetype":"neighbourhood",

@@ -29,7 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:cat_x_preferred":[
+        "Hoeven"
+    ],
+    "name:ceb_x_preferred":[
+        "Hoeven"
+    ],
     "name:eng_x_preferred":[
+        "Hoeven"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0641\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Hoeven"
+    ],
+    "name:ita_x_preferred":[
         "Hoeven"
     ],
     "name:nld_x_preferred":[
@@ -40,13 +55,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790319,
         404473987,
         85633337,
         101807003,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +80,7 @@
         }
     ],
     "wof:id":1158787979,
-    "wof:lastmodified":1559595612,
+    "wof:lastmodified":1564236784,
     "wof:name":"Hoeven",
     "wof:parent_id":1158790319,
     "wof:placetype":"neighbourhood",

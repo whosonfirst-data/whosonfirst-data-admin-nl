@@ -29,11 +29,32 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ces_x_preferred":[
+        "Centrum"
+    ],
+    "name:dan_x_preferred":[
+        "Centrum"
+    ],
+    "name:deu_x_preferred":[
+        "Centrum"
+    ],
     "name:eng_x_preferred":[
         "Centrum"
     ],
     "name:eng_x_variant":[
         "Centrum Ede"
+    ],
+    "name:epo_x_preferred":[
+        "Centrum"
+    ],
+    "name:hun_x_preferred":[
+        "Centrum"
+    ],
+    "name:ita_x_preferred":[
+        "Centrum"
+    ],
+    "name:lat_x_preferred":[
+        "Centrum"
     ],
     "name:nld_x_preferred":[
         "Centrum"
@@ -41,18 +62,30 @@
     "name:nld_x_variant":[
         "Centrum Ede"
     ],
+    "name:pol_x_preferred":[
+        "Centrum"
+    ],
+    "name:slk_x_preferred":[
+        "Centrum"
+    ],
+    "name:spa_x_preferred":[
+        "Centrum"
+    ],
+    "name:swe_x_preferred":[
+        "Centrum"
+    ],
     "reversegeo:latitude":52.048436,
     "reversegeo:longitude":5.671616,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783999,
         404473893,
         85633337,
         101751855,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -71,7 +104,7 @@
         }
     ],
     "wof:id":1141962991,
-    "wof:lastmodified":1559596901,
+    "wof:lastmodified":1564237587,
     "wof:name":"Centrum",
     "wof:parent_id":1158783999,
     "wof:placetype":"neighbourhood",

@@ -29,7 +29,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Weiteveen"
+    ],
     "name:eng_x_preferred":[
+        "Weiteveen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u062a\u0647\u200c\u0641\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Weiteveen"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404473809,
         85633337,
         101846155,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158790947,
-    "wof:lastmodified":1559595445,
+    "wof:lastmodified":1564236169,
     "wof:name":"Weiteveen",
     "wof:parent_id":101846155,
     "wof:placetype":"neighbourhood",

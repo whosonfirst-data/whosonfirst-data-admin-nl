@@ -32,7 +32,13 @@
     "name:eng_x_preferred":[
         "Noordse Dorp"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631\u062f\u0633\u0647 \u062f\u0648\u0631\u067e"
+    ],
     "name:nld_x_preferred":[
+        "Noordse Dorp"
+    ],
+    "name:por_x_preferred":[
         "Noordse Dorp"
     ],
     "reversegeo:latitude":52.169442,
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474217,
         85633337,
         101808467,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158826603,
-    "wof:lastmodified":1559596443,
+    "wof:lastmodified":1564236442,
     "wof:name":"Noordse Dorp",
     "wof:parent_id":101808467,
     "wof:placetype":"neighbourhood",

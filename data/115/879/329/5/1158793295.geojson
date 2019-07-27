@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Barnflair"
+    ],
     "name:eng_x_preferred":[
         "Barnflair"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u0646\u200c\u0641\u0644\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Barnflair"
+    ],
     "name:nld_x_preferred":[
+        "Barnflair"
+    ],
+    "name:por_x_preferred":[
         "Barnflair"
     ],
     "reversegeo:latitude":52.856786,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473739,
         85633337,
         101838031,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158793295,
-    "wof:lastmodified":1559596426,
+    "wof:lastmodified":1564236185,
     "wof:name":"Barnflair",
     "wof:parent_id":101838031,
     "wof:placetype":"neighbourhood",

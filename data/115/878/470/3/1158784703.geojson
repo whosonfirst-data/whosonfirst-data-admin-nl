@@ -29,23 +29,47 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Biggekerke"
+    ],
     "name:eng_x_preferred":[
+        "Biggekerke"
+    ],
+    "name:eus_x_preferred":[
+        "Biggekerke"
+    ],
+    "name:fra_x_preferred":[
+        "Biggekerke"
+    ],
+    "name:ita_x_preferred":[
         "Biggekerke"
     ],
     "name:nld_x_preferred":[
         "Biggekerke"
+    ],
+    "name:por_x_preferred":[
+        "Biggekerke"
+    ],
+    "name:spa_x_preferred":[
+        "Biggekerke"
+    ],
+    "name:vls_x_preferred":[
+        "Biggekerke"
+    ],
+    "name:zea_x_preferred":[
+        "B\u00eekerke"
     ],
     "reversegeo:latitude":51.498266,
     "reversegeo:longitude":3.526892,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474333,
         85633337,
         1158786571,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +87,7 @@
         }
     ],
     "wof:id":1158784703,
-    "wof:lastmodified":1559596194,
+    "wof:lastmodified":1564236854,
     "wof:name":"Biggekerke",
     "wof:parent_id":1158786571,
     "wof:placetype":"neighbourhood",

@@ -29,11 +29,23 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "S-Gravenpolder"
+    ],
+    "name:deu_x_preferred":[
+        "\u2019s-Gravenpolder"
+    ],
     "name:eng_x_preferred":[
         "'s-Gravenpolder"
     ],
     "name:eng_x_variant":[
         "'s-Gravenpolder (Kern)"
+    ],
+    "name:fra_x_preferred":[
+        "'s-Gravenpolder"
+    ],
+    "name:fry_x_preferred":[
+        "'s-Gravenpolder"
     ],
     "name:nld_x_preferred":[
         "'s-Gravenpolder"
@@ -41,17 +53,26 @@
     "name:nld_x_variant":[
         "'s-Gravenpolder (Kern)"
     ],
+    "name:por_x_preferred":[
+        "'s-Gravenpolder"
+    ],
+    "name:spa_x_preferred":[
+        "'s-Gravenpolder"
+    ],
+    "name:zea_x_preferred":[
+        "Schraevenpolder"
+    ],
     "reversegeo:latitude":51.46011,
     "reversegeo:longitude":3.902388,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474299,
         85633337,
         101809787,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -69,7 +90,7 @@
         }
     ],
     "wof:id":1158784211,
-    "wof:lastmodified":1559596173,
+    "wof:lastmodified":1564237000,
     "wof:name":"'s-Gravenpolder",
     "wof:parent_id":101809787,
     "wof:placetype":"neighbourhood",

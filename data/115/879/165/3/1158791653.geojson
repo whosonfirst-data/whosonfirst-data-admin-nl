@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Darp"
+    ],
     "name:eng_x_preferred":[
         "Darp"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631\u067e"
+    ],
+    "name:fra_x_preferred":[
+        "Darp"
+    ],
     "name:nld_x_preferred":[
+        "Darp"
+    ],
+    "name:por_x_preferred":[
         "Darp"
     ],
     "reversegeo:latitude":52.775354,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474613,
         85633337,
         101807293,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158791653,
-    "wof:lastmodified":1559595521,
+    "wof:lastmodified":1564235981,
     "wof:name":"Darp",
     "wof:parent_id":101807293,
     "wof:placetype":"neighbourhood",

@@ -29,23 +29,38 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Kerkwerve"
+    ],
     "name:eng_x_preferred":[
+        "Kerkwerve"
+    ],
+    "name:fra_x_preferred":[
         "Kerkwerve"
     ],
     "name:nld_x_preferred":[
         "Kerkwerve"
+    ],
+    "name:por_x_preferred":[
+        "Kerkwerve"
+    ],
+    "name:spa_x_preferred":[
+        "Kerkwerve"
+    ],
+    "name:zea_x_preferred":[
+        "Kaerkwaerve"
     ],
     "reversegeo:latitude":51.686172,
     "reversegeo:longitude":3.899087,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474591,
         85633337,
         101855265,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158784869,
-    "wof:lastmodified":1559595529,
+    "wof:lastmodified":1564237023,
     "wof:name":"Kerkwerve",
     "wof:parent_id":101855265,
     "wof:placetype":"neighbourhood",

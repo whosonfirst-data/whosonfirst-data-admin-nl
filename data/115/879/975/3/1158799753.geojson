@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:cat_x_preferred":[
+        "Stampersgat"
+    ],
+    "name:ceb_x_preferred":[
+        "Stampersgat"
+    ],
     "name:eng_x_preferred":[
         "Stampersgat"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0645\u067e\u0631\u0633\u200c\u062e\u0627\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Stampersgat"
+    ],
     "name:nld_x_preferred":[
+        "Stampersgat"
+    ],
+    "name:spa_x_preferred":[
         "Stampersgat"
     ],
     "reversegeo:latitude":51.613643,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474565,
         85633337,
         101809677,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158799753,
-    "wof:lastmodified":1559596718,
+    "wof:lastmodified":1564236242,
     "wof:name":"Stampersgat",
     "wof:parent_id":101809677,
     "wof:placetype":"neighbourhood",

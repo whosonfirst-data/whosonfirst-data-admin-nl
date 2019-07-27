@@ -29,11 +29,20 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Westdorpe"
+    ],
     "name:eng_x_preferred":[
         "Westdorpe"
     ],
     "name:eng_x_variant":[
         "Kern Westdorpe"
+    ],
+    "name:eus_x_preferred":[
+        "Westdorpe"
+    ],
+    "name:fra_x_preferred":[
+        "Westdorpe"
     ],
     "name:nld_x_preferred":[
         "Westdorpe"
@@ -41,17 +50,20 @@
     "name:nld_x_variant":[
         "Kern Westdorpe"
     ],
+    "name:zea_x_preferred":[
+        "Wesdurpe"
+    ],
     "reversegeo:latitude":51.233826,
     "reversegeo:longitude":3.832076,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474329,
         85633337,
         101809777,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":1158784585,
-    "wof:lastmodified":1559596123,
+    "wof:lastmodified":1564237050,
     "wof:name":"Westdorpe",
     "wof:parent_id":101809777,
     "wof:placetype":"neighbourhood",

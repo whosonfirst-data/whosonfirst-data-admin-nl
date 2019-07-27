@@ -29,10 +29,112 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0628\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u067e\u0646"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u043f\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Meppen"
+    ],
+    "name:ces_x_preferred":[
+        "Meppen"
+    ],
+    "name:dan_x_preferred":[
+        "Meppen"
+    ],
+    "name:deu_x_preferred":[
+        "Meppen"
+    ],
     "name:eng_x_preferred":[
         "Meppen"
     ],
+    "name:epo_x_preferred":[
+        "Meppen"
+    ],
+    "name:est_x_preferred":[
+        "Meppen"
+    ],
+    "name:eus_x_preferred":[
+        "Meppen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u067e\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Meppen"
+    ],
+    "name:gla_x_preferred":[
+        "Meppen"
+    ],
+    "name:hun_x_preferred":[
+        "Meppen"
+    ],
+    "name:ind_x_preferred":[
+        "Meppen"
+    ],
+    "name:ita_x_preferred":[
+        "Meppen"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0435\u043f\u043f\u0435\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u041c\u0435\u043f\u043f\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Meppen"
+    ],
+    "name:nds_x_preferred":[
+        "Meppen"
+    ],
     "name:nld_x_preferred":[
+        "Meppen"
+    ],
+    "name:nor_x_preferred":[
+        "Meppen"
+    ],
+    "name:pol_x_preferred":[
+        "Meppen"
+    ],
+    "name:por_x_preferred":[
+        "Meppen"
+    ],
+    "name:ron_x_preferred":[
+        "Meppen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043f\u043f\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Meppen"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u043f\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Meppen"
+    ],
+    "name:tur_x_preferred":[
+        "Meppen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043f\u043f\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Meppen"
+    ],
+    "name:vie_x_preferred":[
+        "Meppen"
+    ],
+    "name:vol_x_preferred":[
+        "Meppen"
+    ],
+    "name:war_x_preferred":[
         "Meppen"
     ],
     "reversegeo:latitude":52.782035,
@@ -40,12 +142,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404473807,
         85633337,
         1158792013,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +165,7 @@
         }
     ],
     "wof:id":1158790793,
-    "wof:lastmodified":1559595438,
+    "wof:lastmodified":1564235792,
     "wof:name":"Meppen",
     "wof:parent_id":1158792013,
     "wof:placetype":"neighbourhood",

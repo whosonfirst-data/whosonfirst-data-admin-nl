@@ -29,23 +29,95 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u0641\u0648\u0631\u062a"
+    ],
+    "name:cat_x_preferred":[
+        "Montfoort"
+    ],
+    "name:ceb_x_preferred":[
+        "Gemeente Montfoort"
+    ],
+    "name:deu_x_preferred":[
+        "Montfoort"
+    ],
     "name:eng_x_preferred":[
+        "Montfoort"
+    ],
+    "name:epo_x_preferred":[
+        "Montfoort"
+    ],
+    "name:eus_x_preferred":[
+        "Montfoort"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u200c\u0641\u0648\u0631\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Montfoort"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0576\u057f\u0586\u0578\u0580\u057f"
+    ],
+    "name:ind_x_preferred":[
+        "Montfoort"
+    ],
+    "name:ita_x_preferred":[
+        "Montfoort"
+    ],
+    "name:lim_x_preferred":[
+        "Montfoort"
+    ],
+    "name:msa_x_preferred":[
         "Montfoort"
     ],
     "name:nld_x_preferred":[
         "Montfoort"
+    ],
+    "name:nor_x_preferred":[
+        "Montfoort"
+    ],
+    "name:pol_x_preferred":[
+        "Montfoort"
+    ],
+    "name:ron_x_preferred":[
+        "Montfoort"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0444\u043e\u0440\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Montfoort"
+    ],
+    "name:sqi_x_preferred":[
+        "Montfoort"
+    ],
+    "name:stq_x_preferred":[
+        "Montfoort"
+    ],
+    "name:swe_x_preferred":[
+        "Montfoort"
+    ],
+    "name:vol_x_preferred":[
+        "Montfoort"
+    ],
+    "name:war_x_preferred":[
+        "Montfoort"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u7279\u798f\u7279"
     ],
     "reversegeo:latitude":52.044867,
     "reversegeo:longitude":4.948702,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404473999,
         85633337,
         101807011,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +135,7 @@
         }
     ],
     "wof:id":1158788199,
-    "wof:lastmodified":1559596300,
+    "wof:lastmodified":1564236861,
     "wof:name":"Montfoort",
     "wof:parent_id":101807011,
     "wof:placetype":"neighbourhood",

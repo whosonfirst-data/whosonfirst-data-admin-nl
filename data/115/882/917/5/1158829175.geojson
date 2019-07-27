@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Zevender"
     ],
+    "name:fra_x_preferred":[
+        "Zevender"
+    ],
     "name:nld_x_preferred":[
         "Zevender"
     ],
@@ -40,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158824749,
         85633337,
         101837721,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1158829175,
-    "wof:lastmodified":1559595810,
+    "wof:lastmodified":1564236766,
     "wof:name":"Zevender",
     "wof:parent_id":101837721,
     "wof:placetype":"neighbourhood",

@@ -29,10 +29,37 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Terborg"
+    ],
+    "name:ceb_x_preferred":[
+        "Terborg"
+    ],
+    "name:deu_x_preferred":[
+        "Terborg"
+    ],
     "name:eng_x_preferred":[
         "Terborg"
     ],
+    "name:epo_x_preferred":[
+        "Terborg"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0628\u0648\u0631\u062e"
+    ],
+    "name:fra_x_preferred":[
+        "Terborg"
+    ],
     "name:nld_x_preferred":[
+        "Terborg"
+    ],
+    "name:pol_x_preferred":[
+        "Terborg"
+    ],
+    "name:ron_x_preferred":[
+        "Terborg"
+    ],
+    "name:vol_x_preferred":[
         "Terborg"
     ],
     "reversegeo:latitude":51.919942,
@@ -40,12 +67,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474543,
         85633337,
         101837839,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +90,7 @@
         }
     ],
     "wof:id":1141964799,
-    "wof:lastmodified":1559596397,
+    "wof:lastmodified":1564237364,
     "wof:name":"Terborg",
     "wof:parent_id":101837839,
     "wof:placetype":"neighbourhood",

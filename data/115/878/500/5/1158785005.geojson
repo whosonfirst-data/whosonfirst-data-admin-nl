@@ -29,23 +29,41 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Nieuwvliet"
+    ],
     "name:eng_x_preferred":[
+        "Nieuwvliet"
+    ],
+    "name:eus_x_preferred":[
+        "Nieuwvliet"
+    ],
+    "name:fra_x_preferred":[
         "Nieuwvliet"
     ],
     "name:nld_x_preferred":[
         "Nieuwvliet"
+    ],
+    "name:oci_x_preferred":[
+        "Nieuwvliet"
+    ],
+    "name:vls_x_preferred":[
+        "Nieuwvliet"
+    ],
+    "name:zea_x_preferred":[
+        "Sinte Pier"
     ],
     "reversegeo:latitude":51.373274,
     "reversegeo:longitude":3.468752,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474629,
         85633337,
         1158786543,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158785005,
-    "wof:lastmodified":1559595543,
+    "wof:lastmodified":1564236977,
     "wof:name":"Nieuwvliet",
     "wof:parent_id":1158786543,
     "wof:placetype":"neighbourhood",

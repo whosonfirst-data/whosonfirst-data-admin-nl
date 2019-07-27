@@ -32,6 +32,12 @@
     "name:eng_x_preferred":[
         "Niekerk"
     ],
+    "name:fra_x_preferred":[
+        "Niekerk"
+    ],
+    "name:fry_x_preferred":[
+        "Nijtsjerk"
+    ],
     "name:nld_x_preferred":[
         "Niekerk"
     ],
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404474575,
         85633337,
         101803737,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158793507,
-    "wof:lastmodified":1559596404,
+    "wof:lastmodified":1564235974,
     "wof:name":"Niekerk",
     "wof:parent_id":101803737,
     "wof:placetype":"neighbourhood",

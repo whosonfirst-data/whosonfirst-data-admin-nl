@@ -29,24 +29,57 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Bogen"
+    ],
+    "name:deu_x_preferred":[
+        "Bogen"
+    ],
     "name:eng_x_preferred":[
         "Bogen"
     ],
+    "name:fra_x_preferred":[
+        "Bogen"
+    ],
+    "name:ita_x_preferred":[
+        "Bogen"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u04e9\u0433\u0435\u043d"
+    ],
+    "name:nds_x_preferred":[
+        "Bagen"
+    ],
     "name:nld_x_preferred":[
         "Bogen"
+    ],
+    "name:nor_x_preferred":[
+        "Bogen"
+    ],
+    "name:pol_x_preferred":[
+        "Bogen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Bogen"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05d5\u05d9\u05d2\u05df"
     ],
     "reversegeo:latitude":52.029138,
     "reversegeo:longitude":5.181627,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790321,
         404473987,
         85633337,
         101807003,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +98,7 @@
         }
     ],
     "wof:id":1158788075,
-    "wof:lastmodified":1559596285,
+    "wof:lastmodified":1564237056,
     "wof:name":"Bogen",
     "wof:parent_id":1158790321,
     "wof:placetype":"neighbourhood",

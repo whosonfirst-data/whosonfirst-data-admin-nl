@@ -29,11 +29,26 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Sas van Gent"
+    ],
+    "name:deu_x_preferred":[
+        "Sas van Gent"
+    ],
     "name:eng_x_preferred":[
         "Sas van Gent"
     ],
     "name:eng_x_variant":[
         "Kern Sas van Gent"
+    ],
+    "name:eus_x_preferred":[
+        "Sas van Gent"
+    ],
+    "name:fry_x_preferred":[
+        "Sas fan Gint"
+    ],
+    "name:ita_x_preferred":[
+        "Sas van Gent"
     ],
     "name:nld_x_preferred":[
         "Sas van Gent"
@@ -41,17 +56,32 @@
     "name:nld_x_variant":[
         "Kern Sas van Gent"
     ],
+    "name:pol_x_preferred":[
+        "Sas van Gent"
+    ],
+    "name:spa_x_preferred":[
+        "Sas van Gent"
+    ],
+    "name:sqi_x_preferred":[
+        "Sas van Gent"
+    ],
+    "name:zea_x_preferred":[
+        "Sas"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u65af\u51e1\u4ea8\u7279"
+    ],
     "reversegeo:latitude":51.231719,
     "reversegeo:longitude":3.798501,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474329,
         85633337,
         101758613,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -69,7 +99,7 @@
         }
     ],
     "wof:id":1158784573,
-    "wof:lastmodified":1559596120,
+    "wof:lastmodified":1564237088,
     "wof:name":"Sas van Gent",
     "wof:parent_id":101758613,
     "wof:placetype":"neighbourhood",

@@ -29,6 +29,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Reinier"
+    ],
     "name:eng_x_preferred":[
         "Reinier"
     ],
@@ -40,13 +43,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790297,
         404473971,
         85633337,
         101751821,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1158787799,
-    "wof:lastmodified":1559597020,
+    "wof:lastmodified":1564236952,
     "wof:name":"Reinier",
     "wof:parent_id":1158790297,
     "wof:placetype":"neighbourhood",

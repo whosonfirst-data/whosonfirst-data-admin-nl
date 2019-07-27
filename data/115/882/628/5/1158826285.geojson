@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Valkenburg"
+    ],
+    "name:deu_x_preferred":[
+        "Valkenburg"
+    ],
     "name:eng_x_preferred":[
         "Valkenburg"
     ],
+    "name:fra_x_preferred":[
+        "Valkenburg"
+    ],
+    "name:lim_x_preferred":[
+        "Valkenburg"
+    ],
     "name:nld_x_preferred":[
+        "Valkenburg"
+    ],
+    "name:nor_x_preferred":[
         "Valkenburg"
     ],
     "reversegeo:latitude":52.178207,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474191,
         85633337,
         101754707,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158826285,
-    "wof:lastmodified":1559595620,
+    "wof:lastmodified":1564236369,
     "wof:name":"Valkenburg",
     "wof:parent_id":101754707,
     "wof:placetype":"neighbourhood",

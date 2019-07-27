@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Puiflijk"
+    ],
+    "name:ceb_x_preferred":[
+        "Puiflijk"
+    ],
     "name:eng_x_preferred":[
         "Puiflijk"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u0641\u200c\u0644\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Puiflijk"
+    ],
     "name:nld_x_preferred":[
+        "Puiflijk"
+    ],
+    "name:por_x_preferred":[
         "Puiflijk"
     ],
     "reversegeo:latitude":51.878559,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473889,
         85633337,
         101837825,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1141962941,
-    "wof:lastmodified":1559596902,
+    "wof:lastmodified":1564237398,
     "wof:name":"Puiflijk",
     "wof:parent_id":101837825,
     "wof:placetype":"neighbourhood",

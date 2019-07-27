@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Zegge"
     ],
+    "name:fra_x_preferred":[
+        "Zegge"
+    ],
     "name:nld_x_preferred":[
         "Zegge"
     ],
@@ -40,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474417,
         85633337,
         101809651,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1158798815,
-    "wof:lastmodified":1559595793,
+    "wof:lastmodified":1564235825,
     "wof:name":"Zegge",
     "wof:parent_id":101809651,
     "wof:placetype":"neighbourhood",

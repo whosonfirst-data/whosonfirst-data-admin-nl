@@ -29,23 +29,53 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Monnickendam"
+    ],
+    "name:dan_x_preferred":[
+        "Monnickendam"
+    ],
+    "name:deu_x_preferred":[
+        "Monnickendam"
+    ],
     "name:eng_x_preferred":[
+        "Monnickendam"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u06cc\u06a9\u0646\u200c\u062f\u0627\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Monnickendam"
+    ],
+    "name:fry_x_preferred":[
+        "Monnickendam"
+    ],
+    "name:ita_x_preferred":[
         "Monnickendam"
     ],
     "name:nld_x_preferred":[
         "Monnickendam"
+    ],
+    "name:spa_x_preferred":[
+        "Monnickendam"
+    ],
+    "name:swe_x_preferred":[
+        "Monnickendam"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u5c3c\u80af\u4e39"
     ],
     "reversegeo:latitude":52.458358,
     "reversegeo:longitude":5.046924,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474433,
         85633337,
         101807369,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +93,7 @@
         }
     ],
     "wof:id":1158820903,
-    "wof:lastmodified":1559595457,
+    "wof:lastmodified":1564236458,
     "wof:name":"Monnickendam",
     "wof:parent_id":101807369,
     "wof:placetype":"neighbourhood",

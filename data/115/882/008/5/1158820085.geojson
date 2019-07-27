@@ -29,7 +29,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Rijsbergen"
+    ],
     "name:eng_x_preferred":[
+        "Rijsbergen"
+    ],
+    "name:fra_x_preferred":[
+        "Rijsbergen"
+    ],
+    "name:ita_x_preferred":[
         "Rijsbergen"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823079,
         85633337,
         101837931,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158820085,
-    "wof:lastmodified":1559595881,
+    "wof:lastmodified":1564236468,
     "wof:name":"Rijsbergen",
     "wof:parent_id":1158823079,
     "wof:placetype":"neighbourhood",

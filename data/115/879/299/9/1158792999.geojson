@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Wirdum"
+    ],
+    "name:deu_x_preferred":[
+        "Wirdum"
+    ],
     "name:eng_x_preferred":[
         "Wirdum"
     ],
+    "name:fra_x_preferred":[
+        "Wirdum"
+    ],
     "name:nld_x_preferred":[
+        "Wirdum"
+    ],
+    "name:swe_x_preferred":[
         "Wirdum"
     ],
     "reversegeo:latitude":53.320699,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473723,
         85633337,
         1158796527,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158792999,
-    "wof:lastmodified":1559597128,
+    "wof:lastmodified":1564236170,
     "wof:name":"Wirdum",
     "wof:parent_id":1158796527,
     "wof:placetype":"neighbourhood",

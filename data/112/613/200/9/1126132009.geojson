@@ -29,11 +29,23 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Oosterlittens"
+    ],
     "name:eng_x_preferred":[
+        "Easterlittens"
+    ],
+    "name:fra_x_preferred":[
+        "Easterlittens"
+    ],
+    "name:fry_x_preferred":[
         "Easterlittens"
     ],
     "name:nld_x_preferred":[
         "Easterlittens"
+    ],
+    "name:nld_x_variant":[
+        "Oosterlittens"
     ],
     "reversegeo:latitude":53.134551,
     "reversegeo:longitude":5.65065,
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1126132009,
-    "wof:lastmodified":1561768361,
+    "wof:lastmodified":1564235092,
     "wof:name":"Easterlittens",
     "wof:parent_id":1141960469,
     "wof:placetype":"neighbourhood",

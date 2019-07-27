@@ -32,6 +32,12 @@
     "name:eng_x_preferred":[
         "Heijen"
     ],
+    "name:fra_x_preferred":[
+        "Heijen"
+    ],
+    "name:lim_x_preferred":[
+        "Heie"
+    ],
     "name:nld_x_preferred":[
         "Heijen"
     ],
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474483,
         85633337,
         101839249,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158806149,
-    "wof:lastmodified":1559596432,
+    "wof:lastmodified":1564235397,
     "wof:name":"Heijen",
     "wof:parent_id":101839249,
     "wof:placetype":"neighbourhood",

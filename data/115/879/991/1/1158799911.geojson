@@ -29,28 +29,85 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:als_x_preferred":[
+        "Ettingen"
+    ],
+    "name:ast_x_preferred":[
+        "Ettingen"
+    ],
+    "name:ceb_x_preferred":[
+        "Ettingen"
+    ],
+    "name:deu_x_preferred":[
+        "Ettingen"
+    ],
     "name:eng_x_preferred":[
+        "Ettingen"
+    ],
+    "name:epo_x_preferred":[
+        "Ettingen"
+    ],
+    "name:eus_x_preferred":[
+        "Ettingen"
+    ],
+    "name:fra_x_preferred":[
+        "Ettingen"
+    ],
+    "name:ita_x_preferred":[
+        "Ettingen"
+    ],
+    "name:lmo_x_preferred":[
+        "Ettingen"
+    ],
+    "name:msa_x_preferred":[
         "Ettingen"
     ],
     "name:nld_x_preferred":[
         "Ettingen"
+    ],
+    "name:nno_x_preferred":[
+        "Ettingen"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0442\u0442\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Ettingen"
+    ],
+    "name:sqi_x_preferred":[
+        "Ettingen"
+    ],
+    "name:swe_x_preferred":[
+        "Ettingen"
+    ],
+    "name:uzb_x_preferred":[
+        "Ettingen"
+    ],
+    "name:vol_x_preferred":[
+        "Ettingen"
+    ],
+    "name:war_x_preferred":[
+        "Ettingen"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5ef7\u6839"
     ],
     "reversegeo:latitude":51.536201,
     "reversegeo:longitude":4.439937,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801763,
         404474587,
         85633337,
-        101751815
+        101751815,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"2ed18c4aaea1ef78e26bcc6875362eb3",
+    "wof:geomhash":"d25cca0f1ed8d20792712488342a2921",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +120,7 @@
         }
     ],
     "wof:id":1158799911,
-    "wof:lastmodified":1513432787,
+    "wof:lastmodified":1564235728,
     "wof:name":"Ettingen",
     "wof:parent_id":1158801763,
     "wof:placetype":"neighbourhood",
@@ -73,9 +130,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.433195647529623,
+    4.43319564752962,
     51.5323822374096,
-    4.444863388653299,
+    4.4448633886533,
     51.54116310631806
 ],
   "geometry": {"coordinates":[[[[4.44478896293401,51.53366231030689],[4.44428990493934,51.53367985805838],[4.44189006410123,51.53333595865702],[4.44004410696088,51.53311156150814],[4.43588801675313,51.53260047254024],[4.43403766486211,51.5323822374096],[4.43319564752962,51.53253447266184],[4.43640102280444,51.53646278959062],[4.44015161209102,51.54116310631806],[4.44166398802807,51.53976855411234],[4.44175487717737,51.53955714560777],[4.44194127648261,51.53911998392334],[4.44229363251912,51.53853494465591],[4.4441167512675,51.53549516482762],[4.44449594245992,51.53486449074419],[4.4448633886533,51.53424360911279],[4.44478896293401,51.53366231030689]]]],"type":"MultiPolygon"}

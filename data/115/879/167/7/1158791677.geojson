@@ -32,7 +32,19 @@
     "name:eng_x_preferred":[
         "Frederiksoord"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u062f\u0631\u06cc\u06a9\u0633\u200c\u0626\u0648\u0631\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Frederiksoord"
+    ],
+    "name:fry_x_preferred":[
+        "Frederiksoard"
+    ],
     "name:nld_x_preferred":[
+        "Frederiksoord"
+    ],
+    "name:por_x_preferred":[
         "Frederiksoord"
     ],
     "reversegeo:latitude":52.843179,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474613,
         85633337,
         1158792173,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158791677,
-    "wof:lastmodified":1559595523,
+    "wof:lastmodified":1564235766,
     "wof:name":"Frederiksoord",
     "wof:parent_id":1158792173,
     "wof:placetype":"neighbourhood",

@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Vogelenzang"
+    ],
     "name:eng_x_preferred":[
         "Vogelenzang"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0648\u062e\u0644\u0646\u200c\u0632\u0627\u0646\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Vogelenzang"
+    ],
     "name:nld_x_preferred":[
+        "Vogelenzang"
+    ],
+    "name:pol_x_preferred":[
         "Vogelenzang"
     ],
     "reversegeo:latitude":52.321477,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474047,
         85633337,
         101837945,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158818749,
-    "wof:lastmodified":1559595955,
+    "wof:lastmodified":1564235577,
     "wof:name":"Vogelenzang",
     "wof:parent_id":101837945,
     "wof:placetype":"neighbourhood",

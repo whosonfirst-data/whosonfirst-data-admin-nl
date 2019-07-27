@@ -29,23 +29,74 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:bos_x_preferred":[
+        "Balast"
+    ],
+    "name:dan_x_preferred":[
+        "Ballast"
+    ],
+    "name:deu_x_preferred":[
+        "Ballast"
+    ],
     "name:eng_x_preferred":[
         "Ballast"
     ],
+    "name:est_x_preferred":[
+        "Ballast"
+    ],
+    "name:eus_x_preferred":[
+        "Lasta"
+    ],
+    "name:fra_x_preferred":[
+        "Lest"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u056c\u0561\u057d\u057f"
+    ],
+    "name:isl_x_preferred":[
+        "Kj\u00f6lfesta"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0430\u0441\u0442"
+    ],
     "name:nld_x_preferred":[
         "Ballast"
+    ],
+    "name:nno_x_preferred":[
+        "Ballast"
+    ],
+    "name:nor_x_preferred":[
+        "Ballast"
+    ],
+    "name:por_x_preferred":[
+        "Lastro"
+    ],
+    "name:slv_x_preferred":[
+        "Balast"
+    ],
+    "name:spa_x_preferred":[
+        "Lastre"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0441\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Barlast"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0441\u0442"
     ],
     "reversegeo:latitude":52.672004,
     "reversegeo:longitude":6.731134,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404473807,
         85633337,
         101807741,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +114,7 @@
         }
     ],
     "wof:id":1158790669,
-    "wof:lastmodified":1559595410,
+    "wof:lastmodified":1564236123,
     "wof:name":"Ballast",
     "wof:parent_id":101807741,
     "wof:placetype":"neighbourhood",

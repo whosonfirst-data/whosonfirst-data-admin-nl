@@ -29,8 +29,20 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Hulsberg"
+    ],
     "name:eng_x_preferred":[
         "Hulsberg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0644\u0633\u200c\u0628\u0631\u062e"
+    ],
+    "name:fra_x_preferred":[
+        "Hulsberg"
+    ],
+    "name:lim_x_preferred":[
+        "H\u00f6lsberg"
     ],
     "name:nld_x_preferred":[
         "Hulsberg"
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474509,
         85633337,
         101809549,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158806513,
-    "wof:lastmodified":1559596577,
+    "wof:lastmodified":1564235258,
     "wof:name":"Hulsberg",
     "wof:parent_id":101809549,
     "wof:placetype":"neighbourhood",

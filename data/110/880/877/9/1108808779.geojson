@@ -29,16 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Langerak"
+    ],
+    "name:deu_x_preferred":[
+        "Langerak"
+    ],
+    "name:fra_x_preferred":[
+        "Langerak"
+    ],
+    "name:nld_x_preferred":[
+        "Langerak"
+    ],
     "reversegeo:latitude":52.08484,
     "reversegeo:longitude":5.061881,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687039,
         102191581,
         85633337,
         101751827,
         136253051,
-        1108808661
+        1108808661,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1108808779,
-    "wof:lastmodified":1559596455,
+    "wof:lastmodified":1564234470,
     "wof:name":"Langerak",
     "wof:parent_id":1108808661,
     "wof:placetype":"neighbourhood",

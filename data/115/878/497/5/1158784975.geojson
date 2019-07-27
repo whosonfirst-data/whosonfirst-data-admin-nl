@@ -29,23 +29,62 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Aardenburg"
+    ],
+    "name:deu_x_preferred":[
+        "Aardenburg"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b1\u03c1\u03bd\u03c4\u03b5\u03bd\u03bc\u03c0\u03bf\u03c5\u03c1\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
+        "Aardenburg"
+    ],
+    "name:eus_x_preferred":[
+        "Aardenburg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u062f\u0646\u200c\u0628\u0648\u0631\u062e"
+    ],
+    "name:fin_x_preferred":[
+        "Aardenburg"
+    ],
+    "name:fra_x_preferred":[
+        "Aardenburg"
+    ],
+    "name:ita_x_preferred":[
         "Aardenburg"
     ],
     "name:nld_x_preferred":[
         "Aardenburg"
+    ],
+    "name:spa_x_preferred":[
+        "Aardenburg"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0631\u0688\u0646\u0628\u0631\u06af"
+    ],
+    "name:vls_x_preferred":[
+        "Eirdnburg"
+    ],
+    "name:zea_x_preferred":[
+        "Erreburg"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u767b\u5821"
     ],
     "reversegeo:latitude":51.273747,
     "reversegeo:longitude":3.440869,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474629,
         85633337,
         101809795,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +102,7 @@
         }
     ],
     "wof:id":1158784975,
-    "wof:lastmodified":1559596225,
+    "wof:lastmodified":1564236887,
     "wof:name":"Aardenburg",
     "wof:parent_id":101809795,
     "wof:placetype":"neighbourhood",

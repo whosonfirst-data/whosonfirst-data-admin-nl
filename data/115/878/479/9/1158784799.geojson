@@ -29,23 +29,41 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Ritthem"
+    ],
+    "name:deu_x_preferred":[
+        "Ritthem"
+    ],
     "name:eng_x_preferred":[
+        "Ritthem"
+    ],
+    "name:fra_x_preferred":[
+        "Ritthem"
+    ],
+    "name:fry_x_preferred":[
         "Ritthem"
     ],
     "name:nld_x_preferred":[
         "Ritthem"
+    ],
+    "name:spa_x_preferred":[
+        "Ritthem"
+    ],
+    "name:zea_x_preferred":[
+        "Rittem"
     ],
     "reversegeo:latitude":51.451594,
     "reversegeo:longitude":3.626239,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474335,
         85633337,
         1158786523,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158784799,
-    "wof:lastmodified":1559596215,
+    "wof:lastmodified":1564236859,
     "wof:name":"Ritthem",
     "wof:parent_id":1158786523,
     "wof:placetype":"neighbourhood",

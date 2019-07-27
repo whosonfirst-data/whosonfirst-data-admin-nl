@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:arg_x_preferred":[
+        "Ens"
+    ],
+    "name:ceb_x_preferred":[
+        "Ens"
+    ],
     "name:eng_x_preferred":[
         "Ens"
     ],
     "name:nld_x_preferred":[
+        "Ens"
+    ],
+    "name:pol_x_preferred":[
+        "Ens"
+    ],
+    "name:por_x_preferred":[
+        "Ens"
+    ],
+    "name:swe_x_preferred":[
         "Ens"
     ],
     "reversegeo:latitude":52.636925,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         404473843,
         85633337,
         101807247,
-        136253051
+        136253051,
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158786859,
-    "wof:lastmodified":1559596818,
+    "wof:lastmodified":1564237010,
     "wof:name":"Ens",
     "wof:parent_id":101807247,
     "wof:placetype":"neighbourhood",

@@ -35,18 +35,21 @@
     "name:nld_x_preferred":[
         "Park Berg en Bos"
     ],
+    "name:nld_x_variant":[
+        "Natuurpark Berg & Bos"
+    ],
     "reversegeo:latitude":52.21549,
     "reversegeo:longitude":5.911878,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783951,
         404473867,
         85633337,
         101751853,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1141961933,
-    "wof:lastmodified":1559596046,
+    "wof:lastmodified":1564237325,
     "wof:name":"Park Berg en Bos",
     "wof:parent_id":1158783951,
     "wof:placetype":"neighbourhood",

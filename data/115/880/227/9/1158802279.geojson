@@ -29,10 +29,34 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:bih_x_preferred":[
+        "\u0932\u0942\u0939\u093f"
+    ],
+    "name:ceb_x_preferred":[
+        "Loo"
+    ],
+    "name:ces_x_preferred":[
+        "Loo"
+    ],
+    "name:cym_x_preferred":[
+        "Loo"
+    ],
+    "name:deu_x_preferred":[
+        "Loo"
+    ],
     "name:eng_x_preferred":[
         "Loo"
     ],
+    "name:fra_x_preferred":[
+        "Loo"
+    ],
     "name:nld_x_preferred":[
+        "Loo"
+    ],
+    "name:spa_x_preferred":[
+        "Loo"
+    ],
+    "name:swe_x_preferred":[
         "Loo"
     ],
     "reversegeo:latitude":52.258486,
@@ -40,12 +64,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473825,
         85633337,
         101807137,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +87,7 @@
         }
     ],
     "wof:id":1158802279,
-    "wof:lastmodified":1559595497,
+    "wof:lastmodified":1564235198,
     "wof:name":"Loo",
     "wof:parent_id":101807137,
     "wof:placetype":"neighbourhood",

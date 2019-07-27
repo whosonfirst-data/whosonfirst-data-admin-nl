@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "De Kiel"
     ],
+    "name:fra_x_preferred":[
+        "De Kiel"
+    ],
     "name:nld_x_preferred":[
         "De Kiel"
     ],
@@ -40,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404473807,
         85633337,
         1158791995,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1158790765,
-    "wof:lastmodified":1559596006,
+    "wof:lastmodified":1564235829,
     "wof:name":"De Kiel",
     "wof:parent_id":1158791995,
     "wof:placetype":"neighbourhood",

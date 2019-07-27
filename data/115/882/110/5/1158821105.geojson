@@ -29,7 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Hippolytushoef"
+    ],
     "name:eng_x_preferred":[
+        "Hippolytushoef"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u067e\u0648\u0644\u06cc\u062a\u0648\u0633\u200c\u0647\u0648\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Hippolytushoef"
+    ],
+    "name:fry_x_preferred":[
+        "Hippolytushoef"
+    ],
+    "name:ita_x_preferred":[
         "Hippolytushoef"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158818287,
         85633337,
         101806067,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158821105,
-    "wof:lastmodified":1559595478,
+    "wof:lastmodified":1564236525,
     "wof:name":"Hippolytushoef",
     "wof:parent_id":101806067,
     "wof:placetype":"neighbourhood",

@@ -29,23 +29,185 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:als_x_preferred":[
+        "Europa"
+    ],
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0631\u0648\u0628\u0627"
+    ],
+    "name:arc_x_preferred":[
+        "\u0710\u0718\u072a\u0718\u0726\u0710"
+    ],
+    "name:ast_x_preferred":[
+        "Europa"
+    ],
+    "name:aze_x_preferred":[
+        "Avropa"
+    ],
+    "name:bel_x_preferred":[
+        "\u0415\u045e\u0440\u043e\u043f\u0430"
+    ],
+    "name:bre_x_preferred":[
+        "Europa"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u0432\u0440\u043e\u043f\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Europa"
+    ],
+    "name:ces_x_preferred":[
+        "Europa"
+    ],
+    "name:dan_x_preferred":[
+        "Europa"
+    ],
+    "name:deu_x_preferred":[
+        "Europa"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c5\u03c1\u03ce\u03c0\u03b7"
+    ],
     "name:eng_x_preferred":[
+        "Europa"
+    ],
+    "name:epo_x_preferred":[
+        "E\u016dropo"
+    ],
+    "name:eus_x_preferred":[
+        "Europa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0648\u067e\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Europa"
+    ],
+    "name:fra_x_preferred":[
+        "Europa"
+    ],
+    "name:glg_x_preferred":[
+        "Europa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05e8\u05d5\u05e4\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Europa"
+    ],
+    "name:hye_x_preferred":[
+        "\u0535\u057e\u0580\u0578\u057a\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Europa"
+    ],
+    "name:ita_x_preferred":[
+        "Europa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e8\u30fc\u30ed\u30c3\u30d1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10d5\u10e0\u10dd\u10de\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc720\ub85c\ud30c"
+    ],
+    "name:lat_x_preferred":[
+        "Europa"
+    ],
+    "name:lav_x_preferred":[
+        "Europa"
+    ],
+    "name:lit_x_preferred":[
+        "Europa"
+    ],
+    "name:lmo_x_preferred":[
+        "Europa"
+    ],
+    "name:ltz_x_preferred":[
+        "Europa"
+    ],
+    "name:nds_x_preferred":[
         "Europa"
     ],
     "name:nld_x_preferred":[
         "Europa"
+    ],
+    "name:nno_x_preferred":[
+        "Europa"
+    ],
+    "name:nor_x_preferred":[
+        "Europa"
+    ],
+    "name:pol_x_preferred":[
+        "Europa"
+    ],
+    "name:por_x_preferred":[
+        "Europa"
+    ],
+    "name:ron_x_preferred":[
+        "Europa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0432\u0440\u043e\u043f\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Europa"
+    ],
+    "name:sco_x_preferred":[
+        "Europa"
+    ],
+    "name:slk_x_preferred":[
+        "Europa"
+    ],
+    "name:slv_x_preferred":[
+        "Evropa"
+    ],
+    "name:spa_x_preferred":[
+        "Europa"
+    ],
+    "name:srd_x_preferred":[
+        "Europa"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u0432\u0440\u043e\u043f\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Europa"
+    ],
+    "name:swe_x_preferred":[
+        "Europa"
+    ],
+    "name:szl_x_preferred":[
+        "Ojropa"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e22\u0e39\u0e42\u0e23\u0e1b\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Europa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u0432\u0440\u043e\u043f\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Europa"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b27\u7f57\u5df4"
     ],
     "reversegeo:latitude":52.506614,
     "reversegeo:longitude":4.938273,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823241,
         85633337,
         101751889,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +225,7 @@
         }
     ],
     "wof:id":1158820357,
-    "wof:lastmodified":1559595424,
+    "wof:lastmodified":1564236676,
     "wof:name":"Europa",
     "wof:parent_id":1158823241,
     "wof:placetype":"neighbourhood",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000126,
-    "geom:area_square_m":943793.375597,
+    "geom:area_square_m":943793.375596,
     "geom:bbox":"6.89291787464,52.7438155949,6.91234084062,52.7602429946",
     "geom:latitude":52.753518,
     "geom:longitude":6.902738,
@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Zuidbarge"
     ],
+    "name:fra_x_preferred":[
+        "Zuidbarge"
+    ],
     "name:nld_x_preferred":[
         "Zuidbarge"
     ],
@@ -40,16 +43,16 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404473809,
         85633337,
-        101751881
+        101751881,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"1026992ce7c2c9c83e061a3d8b873ea0",
+    "wof:geomhash":"c4d401d001e52d91e376f2e96b9fae75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1158790993,
-    "wof:lastmodified":1513292311,
+    "wof:lastmodified":1564235866,
     "wof:name":"Zuidbarge",
     "wof:parent_id":101751881,
     "wof:placetype":"neighbourhood",
@@ -71,8 +74,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.892917874639274,
-    52.743815594929345,
+    6.89291787463927,
+    52.74381559492934,
     6.91234084061785,
     52.76024299461041
 ],

@@ -32,6 +32,15 @@
     "name:eng_x_preferred":[
         "Beusichem"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0626\u0648\u0633\u06cc\u062e\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Beusichem"
+    ],
+    "name:hun_x_preferred":[
+        "Beusichem"
+    ],
     "name:nld_x_preferred":[
         "Beusichem"
     ],
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473879,
         85633337,
         101808605,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1141962623,
-    "wof:lastmodified":1559596792,
+    "wof:lastmodified":1564237556,
     "wof:name":"Beusichem",
     "wof:parent_id":101808605,
     "wof:placetype":"neighbourhood",

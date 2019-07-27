@@ -29,10 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Eelde"
+    ],
+    "name:deu_x_preferred":[
+        "Eelde"
+    ],
     "name:eng_x_preferred":[
         "Eelde"
     ],
+    "name:fra_x_preferred":[
+        "Eelde"
+    ],
+    "name:fry_x_preferred":[
+        "Eelde"
+    ],
+    "name:ita_x_preferred":[
+        "Eelde"
+    ],
     "name:nld_x_preferred":[
+        "Eelde"
+    ],
+    "name:pol_x_preferred":[
         "Eelde"
     ],
     "reversegeo:latitude":53.135066,
@@ -40,12 +58,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474647,
         85633337,
         101837869,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158791735,
-    "wof:lastmodified":1559596114,
+    "wof:lastmodified":1564235898,
     "wof:name":"Eelde",
     "wof:parent_id":101837869,
     "wof:placetype":"neighbourhood",

@@ -29,10 +29,19 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Heesselt"
+    ],
     "name:eng_x_preferred":[
         "Heesselt"
     ],
+    "name:fra_x_preferred":[
+        "Heesselt"
+    ],
     "name:nld_x_preferred":[
+        "Heesselt"
+    ],
+    "name:por_x_preferred":[
         "Heesselt"
     ],
     "reversegeo:latitude":51.814044,
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473967,
         85633337,
         1158783577,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1141964683,
-    "wof:lastmodified":1559596509,
+    "wof:lastmodified":1564237564,
     "wof:name":"Heesselt",
     "wof:parent_id":1158783577,
     "wof:placetype":"neighbourhood",

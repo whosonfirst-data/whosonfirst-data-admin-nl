@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Hellouw"
+    ],
+    "name:ceb_x_preferred":[
+        "Hellouw"
+    ],
     "name:eng_x_preferred":[
         "Hellouw"
     ],
+    "name:fra_x_preferred":[
+        "Hellouw"
+    ],
     "name:nld_x_preferred":[
+        "Hellouw"
+    ],
+    "name:por_x_preferred":[
         "Hellouw"
     ],
     "reversegeo:latitude":51.826259,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473967,
         85633337,
         1158783495,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1141964657,
-    "wof:lastmodified":1559595765,
+    "wof:lastmodified":1564237413,
     "wof:name":"Hellouw",
     "wof:parent_id":1158783495,
     "wof:placetype":"neighbourhood",

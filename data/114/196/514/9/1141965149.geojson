@@ -29,7 +29,19 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Rietmolen"
+    ],
+    "name:ceb_x_preferred":[
+        "Rietmolen"
+    ],
     "name:eng_x_preferred":[
+        "Rietmolen"
+    ],
+    "name:fra_x_preferred":[
+        "Rietmolen"
+    ],
+    "name:lim_x_preferred":[
         "Rietmolen"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474671,
         85633337,
         101856039,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1141965149,
-    "wof:lastmodified":1559596415,
+    "wof:lastmodified":1564237592,
     "wof:name":"Rietmolen",
     "wof:parent_id":101856039,
     "wof:placetype":"neighbourhood",

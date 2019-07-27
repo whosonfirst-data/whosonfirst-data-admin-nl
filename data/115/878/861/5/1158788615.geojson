@@ -29,10 +29,55 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:cat_x_preferred":[
+        "Austerlitz"
+    ],
+    "name:ceb_x_preferred":[
+        "Austerlitz"
+    ],
+    "name:deu_x_preferred":[
+        "Austerlitz"
+    ],
     "name:eng_x_preferred":[
         "Austerlitz"
     ],
+    "name:epo_x_preferred":[
+        "Austerlitz"
+    ],
+    "name:fin_x_preferred":[
+        "Austerlitz"
+    ],
+    "name:fra_x_preferred":[
+        "Austerlitz"
+    ],
+    "name:fry_x_preferred":[
+        "Austerlitz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e1\u05d8\u05e8\u05dc\u05d9\u05e5"
+    ],
+    "name:ita_x_preferred":[
+        "Austerlitz"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a6\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4"
+    ],
     "name:nld_x_preferred":[
+        "Austerlitz"
+    ],
+    "name:pol_x_preferred":[
+        "Austerlitz"
+    ],
+    "name:ron_x_preferred":[
+        "Austerlitz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0443\u0441\u0442\u0435\u0440\u043b\u0438\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Austerlitz"
+    ],
+    "name:spa_x_preferred":[
         "Austerlitz"
     ],
     "reversegeo:latitude":52.079871,
@@ -40,12 +85,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404474019,
         85633337,
         101806979,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +108,7 @@
         }
     ],
     "wof:id":1158788615,
-    "wof:lastmodified":1559596341,
+    "wof:lastmodified":1564236877,
     "wof:name":"Austerlitz",
     "wof:parent_id":101806979,
     "wof:placetype":"neighbourhood",

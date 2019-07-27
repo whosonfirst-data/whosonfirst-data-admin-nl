@@ -20,23 +20,44 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Biezelinge"
+    ],
+    "name:ceb_x_preferred":[
+        "Biezelinge"
+    ],
+    "name:deu_x_preferred":[
+        "Biezelinge"
+    ],
     "name:eng_x_preferred":[
+        "Biezelinge"
+    ],
+    "name:fra_x_preferred":[
+        "Biezelinge"
+    ],
+    "name:fry_x_preferred":[
         "Biezelinge"
     ],
     "name:nld_x_preferred":[
         "Biezelinge"
+    ],
+    "name:spa_x_preferred":[
+        "Biezelinge"
+    ],
+    "name:zea_x_preferred":[
+        "Biezelehe"
     ],
     "reversegeo:latitude":51.470965,
     "reversegeo:longitude":3.972889,
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474309,
         85633337,
         101809217,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1158784379,
-    "wof:lastmodified":1559596091,
+    "wof:lastmodified":1564236881,
     "wof:name":"Biezelinge",
     "wof:parent_id":101809217,
     "wof:placetype":"neighbourhood",

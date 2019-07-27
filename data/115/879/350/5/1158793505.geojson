@@ -32,7 +32,16 @@
     "name:eng_x_preferred":[
         "Houwerzijl"
     ],
+    "name:fra_x_preferred":[
+        "Houwerzijl"
+    ],
+    "name:fry_x_preferred":[
+        "Houwerzijl"
+    ],
     "name:nld_x_preferred":[
+        "Houwerzijl"
+    ],
+    "name:pol_x_preferred":[
         "Houwerzijl"
     ],
     "reversegeo:latitude":53.336095,
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404474575,
         85633337,
         101803737,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158793505,
-    "wof:lastmodified":1559596378,
+    "wof:lastmodified":1564235975,
     "wof:name":"Houwerzijl",
     "wof:parent_id":101803737,
     "wof:placetype":"neighbourhood",

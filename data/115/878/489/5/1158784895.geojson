@@ -29,23 +29,68 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:bre_x_preferred":[
+        "Burgh"
+    ],
+    "name:cat_x_preferred":[
+        "Burgh"
+    ],
+    "name:chv_x_preferred":[
+        "\u0418\u0440\u0115\u043a\u043b\u0115 \u0445\u0443\u043b\u0430"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03b7 \u03c0\u03cc\u03bb\u03b7"
+    ],
     "name:eng_x_preferred":[
         "Burgh"
     ],
+    "name:fra_x_preferred":[
+        "Burgh"
+    ],
+    "name:hun_x_preferred":[
+        "Burgh"
+    ],
+    "name:ita_x_preferred":[
+        "Burgh"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30e9"
+    ],
     "name:nld_x_preferred":[
         "Burgh"
+    ],
+    "name:nno_x_preferred":[
+        "Burgh"
+    ],
+    "name:nor_x_preferred":[
+        "Burgh"
+    ],
+    "name:por_x_preferred":[
+        "Burgh"
+    ],
+    "name:sco_x_preferred":[
+        "Burgh"
+    ],
+    "name:spa_x_preferred":[
+        "Burgh"
+    ],
+    "name:swe_x_preferred":[
+        "Burgh"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e30\u0e23\u0e30"
     ],
     "reversegeo:latitude":51.69046,
     "reversegeo:longitude":3.733975,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474591,
         85633337,
         1158786579,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +108,7 @@
         }
     ],
     "wof:id":1158784895,
-    "wof:lastmodified":1559596198,
+    "wof:lastmodified":1564237046,
     "wof:name":"Burgh",
     "wof:parent_id":1158786579,
     "wof:placetype":"neighbourhood",

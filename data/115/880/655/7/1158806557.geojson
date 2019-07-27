@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Leeuwen"
     ],
+    "name:fra_x_preferred":[
+        "Leeuwen"
+    ],
     "name:nld_x_preferred":[
         "Leeuwen"
     ],
@@ -40,13 +43,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158817881,
         404474511,
         85633337,
         101839309,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1158806557,
-    "wof:lastmodified":1559596590,
+    "wof:lastmodified":1564235448,
     "wof:name":"Leeuwen",
     "wof:parent_id":1158817881,
     "wof:placetype":"neighbourhood",

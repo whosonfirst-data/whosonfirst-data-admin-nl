@@ -29,23 +29,47 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Gieten"
+    ],
+    "name:deu_x_preferred":[
+        "Gieten"
+    ],
     "name:eng_x_preferred":[
+        "Gieten"
+    ],
+    "name:fra_x_preferred":[
+        "Gieten"
+    ],
+    "name:fry_x_preferred":[
+        "Gieten"
+    ],
+    "name:ita_x_preferred":[
         "Gieten"
     ],
     "name:nld_x_preferred":[
         "Gieten"
+    ],
+    "name:pol_x_preferred":[
+        "Gieten"
+    ],
+    "name:por_x_preferred":[
+        "Gieten"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u0442\u0435\u043d"
     ],
     "reversegeo:latitude":53.003124,
     "reversegeo:longitude":6.766586,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474593,
         85633337,
         101806059,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +87,7 @@
         }
     ],
     "wof:id":1158791287,
-    "wof:lastmodified":1559596243,
+    "wof:lastmodified":1564235961,
     "wof:name":"Gieten",
     "wof:parent_id":101806059,
     "wof:placetype":"neighbourhood",

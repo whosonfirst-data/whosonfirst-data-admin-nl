@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Oosterland"
     ],
+    "name:fra_x_preferred":[
+        "Oosterland"
+    ],
     "name:nld_x_preferred":[
         "Oosterland"
     ],
@@ -40,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474591,
         85633337,
         101808417,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1158784867,
-    "wof:lastmodified":1559596218,
+    "wof:lastmodified":1564237023,
     "wof:name":"Oosterland",
     "wof:parent_id":101808417,
     "wof:placetype":"neighbourhood",

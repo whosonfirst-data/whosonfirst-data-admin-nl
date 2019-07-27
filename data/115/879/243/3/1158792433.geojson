@@ -32,6 +32,12 @@
     "name:eng_x_preferred":[
         "Wedderveer"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u062f\u0631\u0641\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Wedderveer"
+    ],
     "name:nld_x_preferred":[
         "Wedderveer"
     ],
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473705,
         85633337,
         101807531,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158792433,
-    "wof:lastmodified":1559595572,
+    "wof:lastmodified":1564235823,
     "wof:name":"Wedderveer",
     "wof:parent_id":101807531,
     "wof:placetype":"neighbourhood",

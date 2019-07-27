@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Dirkshorn"
+    ],
     "name:eng_x_preferred":[
         "Dirkshorn"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0631\u06a9\u0633\u200c\u0647\u0648\u0631\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Dirkshorn"
+    ],
     "name:nld_x_preferred":[
+        "Dirkshorn"
+    ],
+    "name:por_x_preferred":[
         "Dirkshorn"
     ],
     "reversegeo:latitude":52.744143,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474113,
         85633337,
         101808085,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158820385,
-    "wof:lastmodified":1559595933,
+    "wof:lastmodified":1564236432,
     "wof:name":"Dirkshorn",
     "wof:parent_id":101808085,
     "wof:placetype":"neighbourhood",

@@ -29,7 +29,13 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:bos_x_preferred":[
+        "Zuideinde"
+    ],
     "name:eng_x_preferred":[
+        "Zuideinde"
+    ],
+    "name:fra_x_preferred":[
         "Zuideinde"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474147,
         85633337,
         101807017,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158824965,
-    "wof:lastmodified":1559596862,
+    "wof:lastmodified":1564236477,
     "wof:name":"Zuideinde",
     "wof:parent_id":101807017,
     "wof:placetype":"neighbourhood",

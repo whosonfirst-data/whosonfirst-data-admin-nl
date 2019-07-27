@@ -29,6 +29,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Westpark"
+    ],
     "name:eng_x_preferred":[
         "Westpark"
     ],
@@ -40,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473713,
         85633337,
         101751909,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1158792697,
-    "wof:lastmodified":1559597016,
+    "wof:lastmodified":1564235880,
     "wof:name":"Westpark",
     "wof:parent_id":101751909,
     "wof:placetype":"neighbourhood",

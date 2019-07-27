@@ -23,7 +23,16 @@
     "name:eng_x_preferred":[
         "Winneweer"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0646\u0647\u200c\u0648\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Winneweer"
+    ],
     "name:nld_x_preferred":[
+        "Winneweer"
+    ],
+    "name:pol_x_preferred":[
         "Winneweer"
     ],
     "reversegeo:latitude":53.310736,
@@ -31,12 +40,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473709,
         85633337,
         1158796541,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1158793001,
-    "wof:lastmodified":1559597101,
+    "wof:lastmodified":1564235704,
     "wof:name":"Winneweer",
     "wof:parent_id":1158796541,
     "wof:placetype":"neighbourhood",

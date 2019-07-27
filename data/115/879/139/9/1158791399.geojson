@@ -29,10 +29,31 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0644\u0627\u064a\u0646\u062f\u0627\u064a\u0643"
+    ],
+    "name:ceb_x_preferred":[
+        "Klijndijk"
+    ],
     "name:eng_x_preferred":[
         "Klijndijk"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u06cc\u0646\u200c\u062f\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Klijndijk"
+    ],
+    "name:fry_x_preferred":[
+        "Klijndijk"
+    ],
     "name:nld_x_preferred":[
+        "Klijndijk"
+    ],
+    "name:pol_x_preferred":[
+        "Klijndijk"
+    ],
+    "name:por_x_preferred":[
         "Klijndijk"
     ],
     "reversegeo:latitude":52.833078,
@@ -40,12 +61,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474595,
         85633337,
         1158792113,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1158791399,
-    "wof:lastmodified":1559596206,
+    "wof:lastmodified":1564236025,
     "wof:name":"Klijndijk",
     "wof:parent_id":1158792113,
     "wof:placetype":"neighbourhood",

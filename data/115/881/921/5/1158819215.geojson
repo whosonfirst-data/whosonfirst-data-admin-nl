@@ -29,7 +29,19 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Oost"
+    ],
     "name:eng_x_preferred":[
+        "Oost"
+    ],
+    "name:fra_x_preferred":[
+        "Oost"
+    ],
+    "name:lim_x_preferred":[
+        "Oost"
+    ],
+    "name:nds_x_preferred":[
         "Oost"
     ],
     "name:nld_x_preferred":[
@@ -40,16 +52,16 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474065,
         85633337,
-        101751899
+        101751899,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"07f434e4e2fe3eab5d3b9f2405d64b45",
+    "wof:geomhash":"ce6ad995705a2011018754c81020f66f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1158819215,
-    "wof:lastmodified":1513464125,
+    "wof:lastmodified":1564235691,
     "wof:name":"Oost",
     "wof:parent_id":101751899,
     "wof:placetype":"neighbourhood",
@@ -71,7 +83,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.692685937163424,
+    4.69268593716342,
     52.29690146890613,
     4.71442405282418,
     52.31229468130001

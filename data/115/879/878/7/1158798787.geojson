@@ -29,10 +29,46 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Kessel"
+    ],
+    "name:deu_x_preferred":[
+        "Kessel"
+    ],
     "name:eng_x_preferred":[
         "Kessel"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0633\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Kessel"
+    ],
+    "name:fra_x_preferred":[
+        "Kessel"
+    ],
+    "name:hun_x_preferred":[
+        "Kessel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30c3\u30bb\u30eb"
+    ],
     "name:nld_x_preferred":[
+        "Kessel"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0441\u0441\u0435\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Kessel"
+    ],
+    "name:swe_x_preferred":[
+        "Kessel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0441\u0441\u0435\u043b\u044c"
+    ],
+    "name:vol_x_preferred":[
         "Kessel"
     ],
     "reversegeo:latitude":51.810334,
@@ -40,12 +76,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474415,
         85633337,
         1158801635,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +99,7 @@
         }
     ],
     "wof:id":1158798787,
-    "wof:lastmodified":1559596728,
+    "wof:lastmodified":1564236084,
     "wof:name":"Kessel",
     "wof:parent_id":1158801635,
     "wof:placetype":"neighbourhood",

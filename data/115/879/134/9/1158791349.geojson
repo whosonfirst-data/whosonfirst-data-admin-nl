@@ -29,10 +29,34 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0627\u0648\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Drouwen"
+    ],
+    "name:ceb_x_preferred":[
+        "Drouwen"
+    ],
     "name:eng_x_preferred":[
         "Drouwen"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0627\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Drouwen"
+    ],
+    "name:fry_x_preferred":[
+        "Drouwen"
+    ],
     "name:nld_x_preferred":[
+        "Drouwen"
+    ],
+    "name:pol_x_preferred":[
+        "Drouwen"
+    ],
+    "name:por_x_preferred":[
         "Drouwen"
     ],
     "reversegeo:latitude":52.953003,
@@ -40,12 +64,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474595,
         85633337,
         1158792095,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +87,7 @@
         }
     ],
     "wof:id":1158791349,
-    "wof:lastmodified":1559596228,
+    "wof:lastmodified":1564235752,
     "wof:name":"Drouwen",
     "wof:parent_id":1158792095,
     "wof:placetype":"neighbourhood",

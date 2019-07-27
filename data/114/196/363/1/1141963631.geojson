@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Gorssel"
+    ],
+    "name:ceb_x_preferred":[
+        "Gorssel"
+    ],
     "name:eng_x_preferred":[
         "Gorssel"
     ],
+    "name:fra_x_preferred":[
+        "Gorssel"
+    ],
+    "name:ita_x_preferred":[
+        "Gorssel"
+    ],
     "name:nld_x_preferred":[
+        "Gorssel"
+    ],
+    "name:sqi_x_preferred":[
         "Gorssel"
     ],
     "reversegeo:latitude":52.201563,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473915,
         85633337,
         101807107,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1141963631,
-    "wof:lastmodified":1559596144,
+    "wof:lastmodified":1564237328,
     "wof:name":"Gorssel",
     "wof:parent_id":101807107,
     "wof:placetype":"neighbourhood",

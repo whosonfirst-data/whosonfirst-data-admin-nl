@@ -29,8 +29,17 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Ospeldijk"
+    ],
     "name:eng_x_preferred":[
         "Ospeldijk"
+    ],
+    "name:fra_x_preferred":[
+        "Ospeldijk"
+    ],
+    "name:lim_x_preferred":[
+        "Ospeldi\u00eak"
     ],
     "name:nld_x_preferred":[
         "Ospeldijk"
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474507,
         85633337,
         101809589,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158806481,
-    "wof:lastmodified":1559596559,
+    "wof:lastmodified":1564235445,
     "wof:name":"Ospeldijk",
     "wof:parent_id":101809589,
     "wof:placetype":"neighbourhood",

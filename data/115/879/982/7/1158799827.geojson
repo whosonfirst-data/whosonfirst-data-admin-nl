@@ -29,23 +29,44 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Aarle-Rixtel"
+    ],
     "name:eng_x_preferred":[
+        "Aarle-Rixtel"
+    ],
+    "name:epo_x_preferred":[
+        "Aarle-Rixtel"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0644-\u0631\u06cc\u06a9\u0633\u062a\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Aarle-Rixtel"
+    ],
+    "name:ita_x_preferred":[
         "Aarle-Rixtel"
     ],
     "name:nld_x_preferred":[
         "Aarle-Rixtel"
+    ],
+    "name:por_x_preferred":[
+        "Aarle-Rixtel"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0631\u0644\u06d2 \u0631\u06cc\u06a9\u0633\u0679\u0644"
     ],
     "reversegeo:latitude":51.512397,
     "reversegeo:longitude":5.640997,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474569,
         85633337,
         101809681,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1158799827,
-    "wof:lastmodified":1559596494,
+    "wof:lastmodified":1564235945,
     "wof:name":"Aarle-Rixtel",
     "wof:parent_id":101809681,
     "wof:placetype":"neighbourhood",

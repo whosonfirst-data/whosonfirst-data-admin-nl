@@ -29,10 +29,19 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Ulicoten"
+    ],
     "name:eng_x_preferred":[
         "Ulicoten"
     ],
+    "name:fra_x_preferred":[
+        "Ulicoten"
+    ],
     "name:nld_x_preferred":[
+        "Ulicoten"
+    ],
+    "name:por_x_preferred":[
         "Ulicoten"
     ],
     "reversegeo:latitude":51.456002,
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474349,
         85633337,
         101809747,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158796771,
-    "wof:lastmodified":1559596602,
+    "wof:lastmodified":1564236100,
     "wof:name":"Ulicoten",
     "wof:parent_id":101809747,
     "wof:placetype":"neighbourhood",

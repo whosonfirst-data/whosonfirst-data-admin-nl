@@ -29,23 +29,44 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0633\u062a\u0627\u0641\u064a\u0646\u064a\u0633\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Stavenisse"
+    ],
+    "name:deu_x_preferred":[
+        "Stavenisse"
+    ],
     "name:eng_x_preferred":[
+        "Stavenisse"
+    ],
+    "name:fra_x_preferred":[
+        "Stavenisse"
+    ],
+    "name:ita_x_preferred":[
         "Stavenisse"
     ],
     "name:nld_x_preferred":[
         "Stavenisse"
+    ],
+    "name:por_x_preferred":[
+        "Stavenisse"
+    ],
+    "name:zea_x_preferred":[
+        "Staevenisse"
     ],
     "reversegeo:latitude":51.585558,
     "reversegeo:longitude":4.014506,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474331,
         85633337,
         101809789,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1158784619,
-    "wof:lastmodified":1559596805,
+    "wof:lastmodified":1564237091,
     "wof:name":"Stavenisse",
     "wof:parent_id":101809789,
     "wof:placetype":"neighbourhood",

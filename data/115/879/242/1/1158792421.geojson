@@ -32,6 +32,12 @@
     "name:eng_x_preferred":[
         "Blijham"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u06cc\u200c\u0647\u0627\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Blijham"
+    ],
     "name:nld_x_preferred":[
         "Blijham"
     ],
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473705,
         85633337,
         101806197,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158792421,
-    "wof:lastmodified":1559595572,
+    "wof:lastmodified":1564235807,
     "wof:name":"Blijham",
     "wof:parent_id":101806197,
     "wof:placetype":"neighbourhood",

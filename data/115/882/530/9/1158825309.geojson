@@ -32,20 +32,29 @@
     "name:eng_x_preferred":[
         "Stationsbuurt"
     ],
+    "name:fra_x_preferred":[
+        "Stationsbuurt"
+    ],
+    "name:fry_x_preferred":[
+        "Stationsbuurt"
+    ],
     "name:nld_x_preferred":[
         "Stationsbuurt"
+    ],
+    "name:zea_x_preferred":[
+        "De Stationsbuurte"
     ],
     "reversegeo:latitude":51.937591,
     "reversegeo:longitude":4.585965,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158829527,
         85633337,
         101752769,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158825309,
-    "wof:lastmodified":1559596503,
+    "wof:lastmodified":1564236537,
     "wof:name":"Stationsbuurt",
     "wof:parent_id":1158829527,
     "wof:placetype":"neighbourhood",

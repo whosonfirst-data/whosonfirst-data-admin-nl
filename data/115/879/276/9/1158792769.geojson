@@ -29,10 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:bul_x_preferred":[
+        "\u0415\u043d\u0433\u0435\u043b\u0431\u0435\u0440\u0442"
+    ],
     "name:eng_x_preferred":[
         "Engelbert"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u06af\u0644\u0628\u0631\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Engelbert"
+    ],
     "name:nld_x_preferred":[
+        "Engelbert"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0433\u0438\u043b\u044c\u0431\u0435\u0440\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Engelbert"
+    ],
+    "name:swe_x_preferred":[
         "Engelbert"
     ],
     "reversegeo:latitude":53.208904,
@@ -40,12 +58,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473713,
         85633337,
         1158796479,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158792769,
-    "wof:lastmodified":1559596928,
+    "wof:lastmodified":1564236082,
     "wof:name":"Engelbert",
     "wof:parent_id":1158796479,
     "wof:placetype":"neighbourhood",

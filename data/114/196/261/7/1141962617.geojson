@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Zoelmond"
+    ],
     "name:eng_x_preferred":[
         "Zoelmond"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0644\u200c\u0645\u0648\u0646\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Zoelmond"
+    ],
     "name:nld_x_preferred":[
+        "Zoelmond"
+    ],
+    "name:por_x_preferred":[
         "Zoelmond"
     ],
     "reversegeo:latitude":51.942513,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473879,
         85633337,
         101808605,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1141962617,
-    "wof:lastmodified":1559595643,
+    "wof:lastmodified":1564237387,
     "wof:name":"Zoelmond",
     "wof:parent_id":101808605,
     "wof:placetype":"neighbourhood",

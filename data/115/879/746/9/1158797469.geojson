@@ -29,7 +29,13 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Schoot"
+    ],
     "name:eng_x_preferred":[
+        "Schoot"
+    ],
+    "name:fra_x_preferred":[
         "Schoot"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801465,
         85633337,
         101751819,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158797469,
-    "wof:lastmodified":1559596702,
+    "wof:lastmodified":1564235959,
     "wof:name":"Schoot",
     "wof:parent_id":1158801465,
     "wof:placetype":"neighbourhood",

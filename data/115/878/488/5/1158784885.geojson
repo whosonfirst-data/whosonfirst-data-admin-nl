@@ -29,23 +29,38 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Sirjansland"
+    ],
     "name:eng_x_preferred":[
+        "Sirjansland"
+    ],
+    "name:fra_x_preferred":[
         "Sirjansland"
     ],
     "name:nld_x_preferred":[
         "Sirjansland"
+    ],
+    "name:por_x_preferred":[
+        "Sirjansland"
+    ],
+    "name:spa_x_preferred":[
+        "Sirjansland"
+    ],
+    "name:zea_x_preferred":[
+        "Sturjalland"
     ],
     "reversegeo:latitude":51.675738,
     "reversegeo:longitude":4.032223,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474591,
         85633337,
         1158786533,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158784885,
-    "wof:lastmodified":1559596195,
+    "wof:lastmodified":1564237014,
     "wof:name":"Sirjansland",
     "wof:parent_id":1158786533,
     "wof:placetype":"neighbourhood",

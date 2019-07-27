@@ -29,23 +29,35 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Walsoorden"
+    ],
     "name:eng_x_preferred":[
+        "Walsoorden"
+    ],
+    "name:fra_x_preferred":[
         "Walsoorden"
     ],
     "name:nld_x_preferred":[
         "Walsoorden"
+    ],
+    "name:por_x_preferred":[
+        "Walsoorden"
+    ],
+    "name:zea_x_preferred":[
+        "Wals\u00f4\u00f4rd'n"
     ],
     "reversegeo:latitude":51.381838,
     "reversegeo:longitude":4.029025,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474307,
         85633337,
         101809811,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158784345,
-    "wof:lastmodified":1559596247,
+    "wof:lastmodified":1564237075,
     "wof:name":"Walsoorden",
     "wof:parent_id":101809811,
     "wof:placetype":"neighbourhood",

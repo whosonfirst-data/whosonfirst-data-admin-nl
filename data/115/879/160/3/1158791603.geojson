@@ -29,10 +29,19 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Wittelte"
+    ],
     "name:eng_x_preferred":[
         "Wittelte"
     ],
+    "name:fra_x_preferred":[
+        "Wittelte"
+    ],
     "name:nld_x_preferred":[
+        "Wittelte"
+    ],
+    "name:por_x_preferred":[
         "Wittelte"
     ],
     "reversegeo:latitude":52.824138,
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474613,
         85633337,
         101807287,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158791603,
-    "wof:lastmodified":1559596778,
+    "wof:lastmodified":1564235759,
     "wof:name":"Wittelte",
     "wof:parent_id":101807287,
     "wof:placetype":"neighbourhood",

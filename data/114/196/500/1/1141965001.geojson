@@ -29,7 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Valburg"
+    ],
+    "name:ceb_x_preferred":[
+        "Valburg"
+    ],
     "name:eng_x_preferred":[
+        "Valburg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u0644\u200c\u0628\u0648\u0631\u062e"
+    ],
+    "name:fra_x_preferred":[
+        "Valburg"
+    ],
+    "name:ita_x_preferred":[
         "Valburg"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474651,
         85633337,
         101808735,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1141965001,
-    "wof:lastmodified":1559596517,
+    "wof:lastmodified":1564237476,
     "wof:name":"Valburg",
     "wof:parent_id":101808735,
     "wof:placetype":"neighbourhood",

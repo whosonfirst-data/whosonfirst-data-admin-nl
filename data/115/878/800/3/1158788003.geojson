@@ -29,24 +29,60 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Velden"
+    ],
+    "name:deu_x_preferred":[
+        "Velden"
+    ],
     "name:eng_x_preferred":[
         "velden"
     ],
+    "name:epo_x_preferred":[
+        "Velden"
+    ],
+    "name:fra_x_preferred":[
+        "Velden"
+    ],
+    "name:hun_x_preferred":[
+        "Velden"
+    ],
+    "name:ita_x_preferred":[
+        "Velden"
+    ],
+    "name:lmo_x_preferred":[
+        "Velden"
+    ],
     "name:nld_x_preferred":[
         "velden"
+    ],
+    "name:nld_x_variant":[
+        "Velden"
+    ],
+    "name:pol_x_preferred":[
+        "Velden"
+    ],
+    "name:ron_x_preferred":[
+        "Velden"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0435\u043b\u0434\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Velden"
     ],
     "reversegeo:latitude":52.042105,
     "reversegeo:longitude":5.176133,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790317,
         404473987,
         85633337,
         101807003,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +101,7 @@
         }
     ],
     "wof:id":1158788003,
-    "wof:lastmodified":1559595619,
+    "wof:lastmodified":1564237052,
     "wof:name":"velden",
     "wof:parent_id":1158790317,
     "wof:placetype":"neighbourhood",

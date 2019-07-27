@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "'t Zandt"
+    ],
+    "name:ceb_x_preferred":[
+        "'t Zandt"
+    ],
     "name:eng_x_preferred":[
         "'t Zandt"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u062a \u0632\u0627\u0646\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "'t Zandt"
+    ],
     "name:nld_x_preferred":[
+        "'t Zandt"
+    ],
+    "name:pol_x_preferred":[
         "'t Zandt"
     ],
     "reversegeo:latitude":53.366855,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473723,
         85633337,
         1158796657,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158793031,
-    "wof:lastmodified":1559597129,
+    "wof:lastmodified":1564235984,
     "wof:name":"'t Zandt",
     "wof:parent_id":1158796657,
     "wof:placetype":"neighbourhood",

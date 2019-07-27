@@ -29,23 +29,38 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Udenhout"
+    ],
     "name:eng_x_preferred":[
+        "Udenhout"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u062f\u0646\u0647\u0648\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Udenhout"
+    ],
+    "name:ita_x_preferred":[
         "Udenhout"
     ],
     "name:nld_x_preferred":[
         "Udenhout"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u062f\u06d2 \u0646\u06c1\u0648\u0679"
     ],
     "reversegeo:latitude":51.608514,
     "reversegeo:longitude":5.143459,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474435,
         85633337,
         101808325,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158799211,
-    "wof:lastmodified":1559597085,
+    "wof:lastmodified":1564236218,
     "wof:name":"Udenhout",
     "wof:parent_id":101808325,
     "wof:placetype":"neighbourhood",

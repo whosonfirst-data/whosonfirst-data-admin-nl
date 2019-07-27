@@ -29,23 +29,44 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Haamstede"
+    ],
     "name:eng_x_preferred":[
+        "Haamstede"
+    ],
+    "name:fra_x_preferred":[
+        "Haamstede"
+    ],
+    "name:ita_x_preferred":[
         "Haamstede"
     ],
     "name:nld_x_preferred":[
         "Haamstede"
+    ],
+    "name:por_x_preferred":[
+        "Haamstede"
+    ],
+    "name:spa_x_preferred":[
+        "Haamstede"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u06cc\u0645\u0633\u0679\u06cc\u0688"
+    ],
+    "name:zea_x_preferred":[
+        "Aemstie"
     ],
     "reversegeo:latitude":51.695678,
     "reversegeo:longitude":3.745045,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474591,
         85633337,
         1158786579,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1158784899,
-    "wof:lastmodified":1559596218,
+    "wof:lastmodified":1564237045,
     "wof:name":"Haamstede",
     "wof:parent_id":1158786579,
     "wof:placetype":"neighbourhood",

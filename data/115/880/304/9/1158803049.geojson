@@ -32,7 +32,16 @@
     "name:eng_x_preferred":[
         "Besthmen"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0633\u062a\u0645\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Besthmen"
+    ],
     "name:nld_x_preferred":[
+        "Besthmen"
+    ],
+    "name:por_x_preferred":[
         "Besthmen"
     ],
     "reversegeo:latitude":52.501279,
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473847,
         85633337,
         101807231,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158803049,
-    "wof:lastmodified":1559597013,
+    "wof:lastmodified":1564235366,
     "wof:name":"Besthmen",
     "wof:parent_id":101807231,
     "wof:placetype":"neighbourhood",

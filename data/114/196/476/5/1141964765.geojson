@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Etten"
+    ],
+    "name:deu_x_preferred":[
+        "Etten"
+    ],
     "name:eng_x_preferred":[
         "Etten"
     ],
+    "name:fra_x_preferred":[
+        "Etten"
+    ],
+    "name:ita_x_preferred":[
+        "Etten"
+    ],
     "name:nld_x_preferred":[
+        "Etten"
+    ],
+    "name:swe_x_preferred":[
         "Etten"
     ],
     "reversegeo:latitude":51.917288,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474543,
         85633337,
         101837789,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1141964765,
-    "wof:lastmodified":1559596360,
+    "wof:lastmodified":1564237342,
     "wof:name":"Etten",
     "wof:parent_id":101837789,
     "wof:placetype":"neighbourhood",

@@ -29,23 +29,38 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "De Wilp"
+    ],
     "name:eng_x_preferred":[
         "De Wilp"
     ],
+    "name:fra_x_preferred":[
+        "De Wilp"
+    ],
+    "name:fry_x_preferred":[
+        "De Wylp"
+    ],
     "name:nld_x_preferred":[
         "De Wilp"
+    ],
+    "name:pol_x_preferred":[
+        "De Wilp"
+    ],
+    "name:stq_x_preferred":[
+        "De W\u00fclp"
     ],
     "reversegeo:latitude":53.119754,
     "reversegeo:longitude":6.251612,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473727,
         85633337,
         101806211,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158793067,
-    "wof:lastmodified":1559597129,
+    "wof:lastmodified":1564235752,
     "wof:name":"De Wilp",
     "wof:parent_id":101806211,
     "wof:placetype":"neighbourhood",

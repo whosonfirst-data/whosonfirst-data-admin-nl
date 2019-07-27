@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Lutjewinkel"
+    ],
     "name:eng_x_preferred":[
         "Lutjewinkel"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0686\u0647\u200c\u0648\u06cc\u0646\u06a9\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Lutjewinkel"
+    ],
     "name:nld_x_preferred":[
+        "Lutjewinkel"
+    ],
+    "name:por_x_preferred":[
         "Lutjewinkel"
     ],
     "reversegeo:latitude":52.767501,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158818287,
         85633337,
         1158822969,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158821063,
-    "wof:lastmodified":1559596109,
+    "wof:lastmodified":1564236571,
     "wof:name":"Lutjewinkel",
     "wof:parent_id":1158822969,
     "wof:placetype":"neighbourhood",

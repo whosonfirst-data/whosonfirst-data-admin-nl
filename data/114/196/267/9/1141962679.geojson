@@ -29,10 +29,19 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Eck en Wiel"
+    ],
     "name:eng_x_preferred":[
         "Eck en Wiel"
     ],
+    "name:fra_x_preferred":[
+        "Eck en Wiel"
+    ],
     "name:nld_x_preferred":[
+        "Eck en Wiel"
+    ],
+    "name:por_x_preferred":[
         "Eck en Wiel"
     ],
     "reversegeo:latitude":51.969709,
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473879,
         85633337,
         101808673,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1141962679,
-    "wof:lastmodified":1559596766,
+    "wof:lastmodified":1564237400,
     "wof:name":"Eck en Wiel",
     "wof:parent_id":101808673,
     "wof:placetype":"neighbourhood",

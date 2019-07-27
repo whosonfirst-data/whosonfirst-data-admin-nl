@@ -29,10 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Paterswolde"
+    ],
     "name:eng_x_preferred":[
         "Paterswolde"
     ],
+    "name:epo_x_preferred":[
+        "Paterswolde"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u062a\u0631\u0633\u200c\u0648\u0644\u062f\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Paterswolde"
+    ],
     "name:nld_x_preferred":[
+        "Paterswolde"
+    ],
+    "name:pol_x_preferred":[
+        "Paterswolde"
+    ],
+    "name:por_x_preferred":[
         "Paterswolde"
     ],
     "reversegeo:latitude":53.160707,
@@ -40,12 +58,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473717,
         85633337,
         1158796495,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158792811,
-    "wof:lastmodified":1559597033,
+    "wof:lastmodified":1564235836,
     "wof:name":"Paterswolde",
     "wof:parent_id":1158796495,
     "wof:placetype":"neighbourhood",

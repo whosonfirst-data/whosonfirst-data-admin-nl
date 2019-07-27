@@ -29,23 +29,65 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:bre_x_preferred":[
+        "Aalst"
+    ],
+    "name:ceb_x_preferred":[
+        "Aalst"
+    ],
+    "name:ces_x_preferred":[
+        "Aalst"
+    ],
+    "name:deu_x_preferred":[
+        "Aalst"
+    ],
     "name:eng_x_preferred":[
+        "Aalst"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0644\u0633\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Aalst"
+    ],
+    "name:hun_x_preferred":[
+        "Aalst"
+    ],
+    "name:ind_x_preferred":[
+        "Aalst"
+    ],
+    "name:lim_x_preferred":[
         "Aalst"
     ],
     "name:nld_x_preferred":[
         "Aalst"
+    ],
+    "name:por_x_preferred":[
+        "Aalst"
+    ],
+    "name:sco_x_preferred":[
+        "Aalst"
+    ],
+    "name:swe_x_preferred":[
+        "Aalst"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0441\u0442"
+    ],
+    "name:vls_x_preferred":[
+        "Oalst"
     ],
     "reversegeo:latitude":51.782205,
     "reversegeo:longitude":5.123104,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473955,
         85633337,
         101837735,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +105,7 @@
         }
     ],
     "wof:id":1141964443,
-    "wof:lastmodified":1559596316,
+    "wof:lastmodified":1564237502,
     "wof:name":"Aalst",
     "wof:parent_id":101837735,
     "wof:placetype":"neighbourhood",

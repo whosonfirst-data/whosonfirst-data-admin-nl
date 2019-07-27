@@ -29,7 +29,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Berkhout"
+    ],
     "name:eng_x_preferred":[
+        "Berkhout"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u06a9\u200c\u0647\u0627\u062a"
+    ],
+    "name:fra_x_preferred":[
         "Berkhout"
     ],
     "name:nld_x_preferred":[
@@ -40,11 +49,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         85633337,
         101837693,
-        136253051,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1158826499,
-    "wof:lastmodified":1559596598,
+    "wof:lastmodified":1564236604,
     "wof:name":"Berkhout",
     "wof:parent_id":101837693,
     "wof:placetype":"neighbourhood",

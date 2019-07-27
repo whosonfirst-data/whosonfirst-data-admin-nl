@@ -29,23 +29,71 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Campagne"
+    ],
+    "name:deu_x_preferred":[
+        "Campagne"
+    ],
     "name:eng_x_preferred":[
+        "Campagne"
+    ],
+    "name:fra_x_preferred":[
+        "Campagne"
+    ],
+    "name:ita_x_preferred":[
+        "Campagne"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30f3\u30d1\u30fc\u30cb\u30e5"
+    ],
+    "name:nds_x_preferred":[
         "Campagne"
     ],
     "name:nld_x_preferred":[
         "Campagne"
+    ],
+    "name:oci_x_preferred":[
+        "Campagne"
+    ],
+    "name:pms_x_preferred":[
+        "Campagne"
+    ],
+    "name:pol_x_preferred":[
+        "Campagne"
+    ],
+    "name:por_x_preferred":[
+        "Campagne"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u0430\u043d\u044c"
+    ],
+    "name:slk_x_preferred":[
+        "Campagne"
+    ],
+    "name:spa_x_preferred":[
+        "Campagne"
+    ],
+    "name:swe_x_preferred":[
+        "Campagne"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u0430\u043d\u044c"
+    ],
+    "name:uzb_x_preferred":[
+        "Kampaniya"
     ],
     "reversegeo:latitude":50.836811,
     "reversegeo:longitude":5.663073,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158818149,
         85633337,
         101751803,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +111,7 @@
         }
     ],
     "wof:id":1158806347,
-    "wof:lastmodified":1559596422,
+    "wof:lastmodified":1564235248,
     "wof:name":"Campagne",
     "wof:parent_id":1158818149,
     "wof:placetype":"neighbourhood",

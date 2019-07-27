@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Onna"
+    ],
     "name:eng_x_preferred":[
         "Onna"
     ],
+    "name:fra_x_preferred":[
+        "Onna"
+    ],
+    "name:hau_x_preferred":[
+        "Onna"
+    ],
+    "name:ita_x_preferred":[
+        "Onna"
+    ],
     "name:nld_x_preferred":[
+        "Onna"
+    ],
+    "name:spa_x_preferred":[
         "Onna"
     ],
     "reversegeo:latitude":52.77386,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404474621,
         85633337,
         1158805711,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158803713,
-    "wof:lastmodified":1559597094,
+    "wof:lastmodified":1564235327,
     "wof:name":"Onna",
     "wof:parent_id":1158805711,
     "wof:placetype":"neighbourhood",

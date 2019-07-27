@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Rottum"
+    ],
+    "name:deu_x_preferred":[
+        "Rottum"
+    ],
     "name:eng_x_preferred":[
         "Rottum"
     ],
+    "name:fra_x_preferred":[
+        "Rottum"
+    ],
+    "name:fry_x_preferred":[
+        "Rottum"
+    ],
     "name:nld_x_preferred":[
+        "Rottum"
+    ],
+    "name:swe_x_preferred":[
         "Rottum"
     ],
     "reversegeo:latitude":53.382721,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404474561,
         85633337,
         1158796637,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158793463,
-    "wof:lastmodified":1559595603,
+    "wof:lastmodified":1564235892,
     "wof:name":"Rottum",
     "wof:parent_id":1158796637,
     "wof:placetype":"neighbourhood",

@@ -29,11 +29,20 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Ovezande"
+    ],
     "name:eng_x_preferred":[
         "Ovezande"
     ],
     "name:eng_x_variant":[
         "Ovezande (Kern)"
+    ],
+    "name:fra_x_preferred":[
+        "Ovezande"
+    ],
+    "name:fry_x_preferred":[
+        "Ovezande"
     ],
     "name:nld_x_preferred":[
         "Ovezande"
@@ -41,17 +50,23 @@
     "name:nld_x_variant":[
         "Ovezande (Kern)"
     ],
+    "name:por_x_preferred":[
+        "Ovezande"
+    ],
+    "name:zea_x_preferred":[
+        "Ovezande"
+    ],
     "reversegeo:latitude":51.428853,
     "reversegeo:longitude":3.822361,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474299,
         85633337,
         101855275,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -69,7 +84,7 @@
         }
     ],
     "wof:id":1158784207,
-    "wof:lastmodified":1559595451,
+    "wof:lastmodified":1564237031,
     "wof:name":"Ovezande",
     "wof:parent_id":101855275,
     "wof:placetype":"neighbourhood",

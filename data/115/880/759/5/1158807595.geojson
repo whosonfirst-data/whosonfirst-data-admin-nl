@@ -29,10 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Koningsbosch"
+    ],
     "name:eng_x_preferred":[
         "Koningsbosch"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0646\u06cc\u0646\u06af\u200c\u0628\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Koningsbosch"
+    ],
+    "name:lim_x_preferred":[
+        "De Boesj"
+    ],
     "name:nld_x_preferred":[
+        "Koningsbosch"
+    ],
+    "name:slk_x_preferred":[
+        "Koningsbosch"
+    ],
+    "name:szl_x_preferred":[
         "Koningsbosch"
     ],
     "reversegeo:latitude":51.054908,
@@ -40,12 +58,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474627,
         85633337,
         101809555,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158807595,
-    "wof:lastmodified":1559595745,
+    "wof:lastmodified":1564235396,
     "wof:name":"Koningsbosch",
     "wof:parent_id":101809555,
     "wof:placetype":"neighbourhood",

@@ -29,23 +29,56 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u064a\u0646\u062f"
+    ],
+    "name:cat_x_preferred":[
+        "Griend"
+    ],
+    "name:deu_x_preferred":[
+        "Griend"
+    ],
     "name:eng_x_preferred":[
+        "Griend"
+    ],
+    "name:fra_x_preferred":[
+        "Griend"
+    ],
+    "name:fry_x_preferred":[
+        "It Gryn"
+    ],
+    "name:ita_x_preferred":[
         "Griend"
     ],
     "name:nld_x_preferred":[
         "Griend"
+    ],
+    "name:nno_x_preferred":[
+        "Griend"
+    ],
+    "name:nor_x_preferred":[
+        "Griend"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u043d\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Griend"
+    ],
+    "name:stq_x_preferred":[
+        "It Gryn"
     ],
     "reversegeo:latitude":52.49929,
     "reversegeo:longitude":5.486516,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         1158787365,
         85633337,
         101751873,
-        136253051
+        136253051,
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +96,7 @@
         }
     ],
     "wof:id":1158787189,
-    "wof:lastmodified":1559596978,
+    "wof:lastmodified":1564237132,
     "wof:name":"Griend",
     "wof:parent_id":1158787365,
     "wof:placetype":"neighbourhood",

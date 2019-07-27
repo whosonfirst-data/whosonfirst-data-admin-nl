@@ -29,8 +29,17 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Benzenrade"
+    ],
     "name:eng_x_preferred":[
         "Benzenrade"
+    ],
+    "name:fra_x_preferred":[
+        "Benzenrade"
+    ],
+    "name:lim_x_preferred":[
+        "Benzerao"
     ],
     "name:nld_x_preferred":[
         "Benzenrade"
@@ -40,13 +49,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158818177,
         404474485,
         85633337,
         101839245,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1158806249,
-    "wof:lastmodified":1559596435,
+    "wof:lastmodified":1564235425,
     "wof:name":"Benzenrade",
     "wof:parent_id":1158818177,
     "wof:placetype":"neighbourhood",

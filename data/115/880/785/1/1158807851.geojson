@@ -29,8 +29,20 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Rijckholt"
+    ],
     "name:eng_x_preferred":[
         "Rijckholt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u06a9\u200c\u0647\u0648\u0644\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Rijckholt"
+    ],
+    "name:lim_x_preferred":[
+        "Ri\u00eakelt"
     ],
     "name:nld_x_preferred":[
         "Rijckholt"
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158805871,
         85633337,
         101755867,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158807851,
-    "wof:lastmodified":1559596851,
+    "wof:lastmodified":1564235320,
     "wof:name":"Rijckholt",
     "wof:parent_id":101755867,
     "wof:placetype":"neighbourhood",

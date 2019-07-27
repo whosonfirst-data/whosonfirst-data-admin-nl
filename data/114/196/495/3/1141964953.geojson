@@ -29,6 +29,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Hulhuizen"
+    ],
     "name:eng_x_preferred":[
         "Hulhuizen"
     ],
@@ -40,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474617,
         85633337,
         101808689,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1141964953,
-    "wof:lastmodified":1559596331,
+    "wof:lastmodified":1564237568,
     "wof:name":"Hulhuizen",
     "wof:parent_id":101808689,
     "wof:placetype":"neighbourhood",

@@ -32,20 +32,32 @@
     "name:eng_x_preferred":[
         "Zoeterwoude-Dorp"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u062a\u0631\u0648\u0627\u062f\u0647-\u062f\u0648\u0631\u067e"
+    ],
+    "name:fra_x_preferred":[
+        "Zoeterwoude-Dorp"
+    ],
     "name:nld_x_preferred":[
         "Zoeterwoude-Dorp"
+    ],
+    "name:por_x_preferred":[
+        "Zoeterwoude-Dorp"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0443\u0442\u0435\u0440\u0432\u0430\u0443\u0434\u0435-\u0414\u043e\u0440\u043f"
     ],
     "reversegeo:latitude":52.120089,
     "reversegeo:longitude":4.496671,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474289,
         85633337,
         101754695,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158827579,
-    "wof:lastmodified":1559596991,
+    "wof:lastmodified":1564236573,
     "wof:name":"Zoeterwoude-Dorp",
     "wof:parent_id":101754695,
     "wof:placetype":"neighbourhood",

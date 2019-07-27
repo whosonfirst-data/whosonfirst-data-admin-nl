@@ -29,10 +29,34 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:aze_x_preferred":[
+        "De Kooq"
+    ],
+    "name:ceb_x_preferred":[
+        "De Koog"
+    ],
+    "name:deu_x_preferred":[
+        "De Koog"
+    ],
     "name:eng_x_preferred":[
         "De Koog"
     ],
+    "name:fra_x_preferred":[
+        "De Koog"
+    ],
+    "name:ita_x_preferred":[
+        "De Koog"
+    ],
+    "name:lit_x_preferred":[
+        "De Koogas"
+    ],
     "name:nld_x_preferred":[
+        "De Koog"
+    ],
+    "name:pol_x_preferred":[
+        "De Koog"
+    ],
+    "name:sqi_x_preferred":[
         "De Koog"
     ],
     "reversegeo:latitude":52.529805,
@@ -40,12 +64,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474117,
         85633337,
         101754853,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +87,7 @@
         }
     ],
     "wof:id":1158820481,
-    "wof:lastmodified":1559595991,
+    "wof:lastmodified":1564236374,
     "wof:name":"De Koog",
     "wof:parent_id":101754853,
     "wof:placetype":"neighbourhood",

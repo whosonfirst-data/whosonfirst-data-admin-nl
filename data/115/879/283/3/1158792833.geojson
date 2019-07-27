@@ -29,6 +29,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Oosterpark"
+    ],
     "name:eng_x_preferred":[
         "Oosterpark"
     ],
@@ -40,13 +43,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         1158796109,
         404473719,
         85633337,
         101837993,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1158792833,
-    "wof:lastmodified":1559597033,
+    "wof:lastmodified":1564236046,
     "wof:name":"Oosterpark",
     "wof:parent_id":1158796109,
     "wof:placetype":"neighbourhood",

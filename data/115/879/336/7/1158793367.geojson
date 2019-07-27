@@ -32,6 +32,12 @@
     "name:eng_x_preferred":[
         "Wetsinge"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0633\u062a\u06cc\u0646\u06af\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Wetsinge"
+    ],
     "name:nld_x_preferred":[
         "Wetsinge"
     ],
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473749,
         85633337,
         1158796565,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158793367,
-    "wof:lastmodified":1559596335,
+    "wof:lastmodified":1564235709,
     "wof:name":"Wetsinge",
     "wof:parent_id":1158796565,
     "wof:placetype":"neighbourhood",

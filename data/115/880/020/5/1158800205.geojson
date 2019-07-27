@@ -29,7 +29,19 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Standdaarbuiten"
+    ],
     "name:eng_x_preferred":[
+        "Standdaarbuiten"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646\u062f\u062f\u0627\u0631\u0628\u0627\u06cc\u062a\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Standdaarbuiten"
+    ],
+    "name:ita_x_preferred":[
         "Standdaarbuiten"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474623,
         85633337,
         101809679,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158800205,
-    "wof:lastmodified":1559595893,
+    "wof:lastmodified":1564235409,
     "wof:name":"Standdaarbuiten",
     "wof:parent_id":101809679,
     "wof:placetype":"neighbourhood",

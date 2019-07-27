@@ -32,7 +32,16 @@
     "name:eng_x_preferred":[
         "Brunsting"
     ],
+    "name:fra_x_preferred":[
+        "Brunsting"
+    ],
+    "name:fry_x_preferred":[
+        "Brunsting"
+    ],
     "name:nld_x_preferred":[
+        "Brunsting"
+    ],
+    "name:por_x_preferred":[
         "Brunsting"
     ],
     "reversegeo:latitude":52.870232,
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474649,
         85633337,
         101807273,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158791801,
-    "wof:lastmodified":1559596885,
+    "wof:lastmodified":1564235895,
     "wof:name":"Brunsting",
     "wof:parent_id":101807273,
     "wof:placetype":"neighbourhood",

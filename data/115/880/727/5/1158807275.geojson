@@ -29,10 +29,55 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:cat_x_preferred":[
+        "Sevenum"
+    ],
+    "name:ceb_x_preferred":[
+        "Sevenum"
+    ],
+    "name:deu_x_preferred":[
+        "Sevenum"
+    ],
     "name:eng_x_preferred":[
         "Sevenum"
     ],
+    "name:fra_x_preferred":[
+        "Sevenum"
+    ],
+    "name:ind_x_preferred":[
+        "Sevenum"
+    ],
+    "name:ita_x_preferred":[
+        "Sevenum"
+    ],
+    "name:jav_x_preferred":[
+        "Sevenum"
+    ],
+    "name:lim_x_preferred":[
+        "Zaerem"
+    ],
+    "name:msa_x_preferred":[
+        "Sevenum"
+    ],
     "name:nld_x_preferred":[
+        "Sevenum"
+    ],
+    "name:pol_x_preferred":[
+        "Sevenum"
+    ],
+    "name:ron_x_preferred":[
+        "Sevenum"
+    ],
+    "name:sqi_x_preferred":[
+        "Sevenum"
+    ],
+    "name:swe_x_preferred":[
+        "Sevenum"
+    ],
+    "name:vie_x_preferred":[
+        "Sevenum"
+    ],
+    "name:vol_x_preferred":[
         "Sevenum"
     ],
     "reversegeo:latitude":51.410394,
@@ -40,12 +85,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474541,
         85633337,
         101809577,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +108,7 @@
         }
     ],
     "wof:id":1158807275,
-    "wof:lastmodified":1559595987,
+    "wof:lastmodified":1564235547,
     "wof:name":"Sevenum",
     "wof:parent_id":101809577,
     "wof:placetype":"neighbourhood",

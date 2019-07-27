@@ -29,11 +29,20 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Lewedorp"
+    ],
     "name:eng_x_preferred":[
         "Lewedorp"
     ],
     "name:eng_x_variant":[
         "Lewedorp (Kern)"
+    ],
+    "name:fra_x_preferred":[
+        "Lewedorp"
+    ],
+    "name:fry_x_preferred":[
+        "Lewedorp"
     ],
     "name:nld_x_preferred":[
         "Lewedorp"
@@ -41,17 +50,26 @@
     "name:nld_x_variant":[
         "Lewedorp (Kern)"
     ],
+    "name:por_x_preferred":[
+        "Lewedorp"
+    ],
+    "name:spa_x_preferred":[
+        "Lewedorp"
+    ],
+    "name:zea_x_preferred":[
+        "'t Lewedurp"
+    ],
     "reversegeo:latitude":51.495428,
     "reversegeo:longitude":3.750049,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474299,
         85633337,
         101808363,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -69,7 +87,7 @@
         }
     ],
     "wof:id":1158784179,
-    "wof:lastmodified":1559596761,
+    "wof:lastmodified":1564237003,
     "wof:name":"Lewedorp",
     "wof:parent_id":101808363,
     "wof:placetype":"neighbourhood",

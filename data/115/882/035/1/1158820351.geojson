@@ -29,10 +29,121 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:als_x_preferred":[
+        "Amerika"
+    ],
+    "name:bre_x_preferred":[
+        "Amerika"
+    ],
+    "name:ceb_x_preferred":[
+        "Amerika"
+    ],
+    "name:ces_x_preferred":[
+        "Amerika"
+    ],
+    "name:crh_x_preferred":[
+        "Amerika"
+    ],
+    "name:dan_x_preferred":[
+        "Amerika"
+    ],
+    "name:deu_x_preferred":[
+        "Amerika"
+    ],
     "name:eng_x_preferred":[
         "Amerika"
     ],
+    "name:fao_x_preferred":[
+        "Amerika"
+    ],
+    "name:fra_x_preferred":[
+        "Amerika"
+    ],
+    "name:hrv_x_preferred":[
+        "Amerika"
+    ],
+    "name:hun_x_preferred":[
+        "Amerika"
+    ],
+    "name:ibo_x_preferred":[
+        "Amerik\u1ea1"
+    ],
+    "name:ind_x_preferred":[
+        "Amerika"
+    ],
+    "name:ita_x_preferred":[
+        "Amerika"
+    ],
+    "name:jav_x_preferred":[
+        "Am\u00e9rikah"
+    ],
+    "name:kur_x_preferred":[
+        "Amer\u00eeka"
+    ],
+    "name:lav_x_preferred":[
+        "Amerika"
+    ],
+    "name:lit_x_preferred":[
+        "Amerika"
+    ],
+    "name:ltz_x_preferred":[
+        "Amerika"
+    ],
     "name:nld_x_preferred":[
+        "Amerika"
+    ],
+    "name:nor_x_preferred":[
+        "Amerika"
+    ],
+    "name:pol_x_preferred":[
+        "Amerika"
+    ],
+    "name:por_x_preferred":[
+        "Amerika"
+    ],
+    "name:ron_x_preferred":[
+        "Amerika"
+    ],
+    "name:sco_x_preferred":[
+        "Amerika"
+    ],
+    "name:slk_x_preferred":[
+        "Amerika"
+    ],
+    "name:slv_x_preferred":[
+        "Amerika"
+    ],
+    "name:spa_x_preferred":[
+        "Amerika"
+    ],
+    "name:sqi_x_preferred":[
+        "Amerika"
+    ],
+    "name:sun_x_preferred":[
+        "Am\u00e9rika"
+    ],
+    "name:swe_x_preferred":[
+        "Amerika"
+    ],
+    "name:tgl_x_preferred":[
+        "Amerika"
+    ],
+    "name:tpi_x_preferred":[
+        "Amerika"
+    ],
+    "name:tur_x_preferred":[
+        "Amerika"
+    ],
+    "name:ukr_x_preferred":[
+        "Amerika"
+    ],
+    "name:uzb_x_preferred":[
+        "Amerika"
+    ],
+    "name:vls_x_preferred":[
+        "Amerika"
+    ],
+    "name:war_x_preferred":[
         "Amerika"
     ],
     "reversegeo:latitude":52.500237,
@@ -40,12 +151,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823241,
         85633337,
         101751889,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +174,7 @@
         }
     ],
     "wof:id":1158820351,
-    "wof:lastmodified":1559595967,
+    "wof:lastmodified":1564236676,
     "wof:name":"Amerika",
     "wof:parent_id":1158823241,
     "wof:placetype":"neighbourhood",

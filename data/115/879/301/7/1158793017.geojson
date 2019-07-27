@@ -32,7 +32,13 @@
     "name:eng_x_preferred":[
         "Huizinge"
     ],
+    "name:fra_x_preferred":[
+        "Huizinge"
+    ],
     "name:nld_x_preferred":[
+        "Huizinge"
+    ],
+    "name:pol_x_preferred":[
         "Huizinge"
     ],
     "reversegeo:latitude":53.345545,
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473723,
         85633337,
         1158796631,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158793017,
-    "wof:lastmodified":1559596937,
+    "wof:lastmodified":1564235750,
     "wof:name":"Huizinge",
     "wof:parent_id":1158796631,
     "wof:placetype":"neighbourhood",

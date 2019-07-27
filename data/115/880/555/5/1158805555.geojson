@@ -29,10 +29,34 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Bathmen"
+    ],
+    "name:deu_x_preferred":[
+        "Bathmen"
+    ],
     "name:eng_x_preferred":[
         "Bathmen"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062a\u0645\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Bathmen"
+    ],
+    "name:fry_x_preferred":[
+        "Bathmen"
+    ],
+    "name:ind_x_preferred":[
+        "Bathmen"
+    ],
+    "name:ita_x_preferred":[
+        "Bathmen"
+    ],
     "name:nld_x_preferred":[
+        "Bathmen"
+    ],
+    "name:sqi_x_preferred":[
         "Bathmen"
     ],
     "reversegeo:latitude":52.250959,
@@ -40,12 +64,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473825,
         85633337,
         101807137,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +87,7 @@
         }
     ],
     "wof:id":1158805555,
-    "wof:lastmodified":1559596451,
+    "wof:lastmodified":1564235364,
     "wof:name":"Bathmen",
     "wof:parent_id":101807137,
     "wof:placetype":"neighbourhood",

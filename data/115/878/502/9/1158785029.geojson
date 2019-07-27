@@ -29,23 +29,44 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Schoondijke"
+    ],
+    "name:deu_x_preferred":[
+        "Schoondijke"
+    ],
     "name:eng_x_preferred":[
+        "Schoondijke"
+    ],
+    "name:eus_x_preferred":[
+        "Schoondijke"
+    ],
+    "name:fra_x_preferred":[
         "Schoondijke"
     ],
     "name:nld_x_preferred":[
         "Schoondijke"
+    ],
+    "name:nor_x_preferred":[
+        "Schoondijke"
+    ],
+    "name:vls_x_preferred":[
+        "Sch\u00f4ondyke"
+    ],
+    "name:zea_x_preferred":[
+        "Schw\u00f2ndieke"
     ],
     "reversegeo:latitude":51.355125,
     "reversegeo:longitude":3.555331,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474629,
         85633337,
         101809815,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1158785029,
-    "wof:lastmodified":1559595546,
+    "wof:lastmodified":1564236799,
     "wof:name":"Schoondijke",
     "wof:parent_id":101809815,
     "wof:placetype":"neighbourhood",

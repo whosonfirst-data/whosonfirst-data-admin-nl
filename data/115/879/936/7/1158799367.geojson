@@ -29,10 +29,19 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Eerde"
+    ],
     "name:eng_x_preferred":[
         "Eerde"
     ],
+    "name:fra_x_preferred":[
+        "Eerde"
+    ],
     "name:nld_x_preferred":[
+        "Eerde"
+    ],
+    "name:pol_x_preferred":[
         "Eerde"
     ],
     "reversegeo:latitude":51.603526,
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474441,
         85633337,
         1158801631,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158799367,
-    "wof:lastmodified":1559596728,
+    "wof:lastmodified":1564235702,
     "wof:name":"Eerde",
     "wof:parent_id":1158801631,
     "wof:placetype":"neighbourhood",

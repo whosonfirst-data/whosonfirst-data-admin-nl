@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Mammoet"
+    ],
+    "name:ell_x_preferred":[
+        "Mammoet"
+    ],
     "name:eng_x_preferred":[
         "Mammoet"
     ],
+    "name:fra_x_preferred":[
+        "Mammoet"
+    ],
     "name:nld_x_preferred":[
+        "Mammoet"
+    ],
+    "name:rus_x_preferred":[
+        "Mammoet"
+    ],
+    "name:swe_x_preferred":[
         "Mammoet"
     ],
     "reversegeo:latitude":52.026952,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158829585,
         85633337,
         101751839,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158825999,
-    "wof:lastmodified":1559596576,
+    "wof:lastmodified":1564236549,
     "wof:name":"Mammoet",
     "wof:parent_id":1158829585,
     "wof:placetype":"neighbourhood",

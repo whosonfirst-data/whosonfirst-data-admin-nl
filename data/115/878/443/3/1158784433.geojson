@@ -29,23 +29,62 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Arnemuiden"
+    ],
+    "name:deu_x_preferred":[
+        "Arnemuiden"
+    ],
     "name:eng_x_preferred":[
+        "Arnemuiden"
+    ],
+    "name:epo_x_preferred":[
+        "Arnemuiden"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0646\u0647\u200c\u0645\u0627\u06cc\u062f\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Arnemuiden"
+    ],
+    "name:fra_x_preferred":[
+        "Arnemuiden"
+    ],
+    "name:fry_x_preferred":[
+        "Arnemuiden"
+    ],
+    "name:ita_x_preferred":[
+        "Arnemuiden"
+    ],
+    "name:nds_x_preferred":[
         "Arnemuiden"
     ],
     "name:nld_x_preferred":[
         "Arnemuiden"
+    ],
+    "name:spa_x_preferred":[
+        "Arnemuiden"
+    ],
+    "name:swe_x_preferred":[
+        "Arnemuiden"
+    ],
+    "name:zea_x_preferred":[
+        "Erremu"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u8a25\u9ed8\u4f0a\u767b"
     ],
     "reversegeo:latitude":51.503723,
     "reversegeo:longitude":3.673133,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474313,
         85633337,
         101808347,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +102,7 @@
         }
     ],
     "wof:id":1158784433,
-    "wof:lastmodified":1559596217,
+    "wof:lastmodified":1564237012,
     "wof:name":"Arnemuiden",
     "wof:parent_id":101808347,
     "wof:placetype":"neighbourhood",

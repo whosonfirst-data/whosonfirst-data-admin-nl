@@ -32,20 +32,35 @@
     "name:eng_x_preferred":[
         "Ubbena"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u0628\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ubbena"
+    ],
+    "name:fry_x_preferred":[
+        "Ubbena"
+    ],
     "name:nld_x_preferred":[
         "Ubbena"
+    ],
+    "name:pol_x_preferred":[
+        "Ubbena"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u06cc\u0646\u0627"
     ],
     "reversegeo:latitude":53.045865,
     "reversegeo:longitude":6.57262,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404473805,
         85633337,
         101874271,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158790623,
-    "wof:lastmodified":1559595893,
+    "wof:lastmodified":1564235842,
     "wof:name":"Ubbena",
     "wof:parent_id":101874271,
     "wof:placetype":"neighbourhood",

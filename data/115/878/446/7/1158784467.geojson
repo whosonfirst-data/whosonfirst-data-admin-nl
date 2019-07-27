@@ -29,11 +29,32 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:bre_x_preferred":[
+        "Kern"
+    ],
+    "name:ces_x_preferred":[
+        "Kern"
+    ],
+    "name:deu_x_preferred":[
+        "Kern"
+    ],
     "name:eng_x_preferred":[
         "Kern"
     ],
     "name:eng_x_variant":[
         "Krabbendijke - Kern"
+    ],
+    "name:fin_x_preferred":[
+        "Kern"
+    ],
+    "name:fra_x_preferred":[
+        "Kern"
+    ],
+    "name:hun_x_preferred":[
+        "Kern"
+    ],
+    "name:ita_x_preferred":[
+        "Kern"
     ],
     "name:nld_x_preferred":[
         "Kern"
@@ -41,17 +62,35 @@
     "name:nld_x_variant":[
         "Krabbendijke - Kern"
     ],
+    "name:pol_x_preferred":[
+        "Kern"
+    ],
+    "name:por_x_preferred":[
+        "Kern"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0440\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Kern"
+    ],
+    "name:spa_x_preferred":[
+        "Kern"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0440\u043d"
+    ],
     "reversegeo:latitude":51.430412,
     "reversegeo:longitude":4.114425,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474323,
         85633337,
         101809813,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -69,7 +108,7 @@
         }
     ],
     "wof:id":1158784467,
-    "wof:lastmodified":1559596137,
+    "wof:lastmodified":1564236858,
     "wof:name":"Kern",
     "wof:parent_id":101809813,
     "wof:placetype":"neighbourhood",

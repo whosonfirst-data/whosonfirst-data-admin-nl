@@ -35,17 +35,20 @@
     "name:nld_x_preferred":[
         "Kruisberg"
     ],
+    "name:nld_x_variant":[
+        "Nieuwe Kruisberg"
+    ],
     "reversegeo:latitude":50.942396,
     "reversegeo:longitude":5.964804,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158818191,
         85633337,
         101839207,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1158806107,
-    "wof:lastmodified":1559596592,
+    "wof:lastmodified":1564235206,
     "wof:name":"Kruisberg",
     "wof:parent_id":1158818191,
     "wof:placetype":"neighbourhood",

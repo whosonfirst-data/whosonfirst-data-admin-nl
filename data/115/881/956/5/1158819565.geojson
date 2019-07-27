@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Beveland"
     ],
+    "name:fra_x_preferred":[
+        "Beveland"
+    ],
     "name:nld_x_preferred":[
         "Beveland"
     ],
@@ -40,13 +43,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823299,
         404474075,
         85633337,
         101754815,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1158819565,
-    "wof:lastmodified":1559596065,
+    "wof:lastmodified":1564235637,
     "wof:name":"Beveland",
     "wof:parent_id":1158823299,
     "wof:placetype":"neighbourhood",

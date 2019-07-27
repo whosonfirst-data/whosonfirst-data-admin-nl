@@ -29,10 +29,79 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:bel_x_preferred":[
+        "\u041c\u0435\u043b\u0435"
+    ],
+    "name:bre_x_preferred":[
+        "Melle"
+    ],
+    "name:cat_x_preferred":[
+        "Melle"
+    ],
+    "name:ceb_x_preferred":[
+        "Melle"
+    ],
+    "name:deu_x_preferred":[
+        "Melle"
+    ],
     "name:eng_x_preferred":[
         "Melle"
     ],
+    "name:epo_x_preferred":[
+        "Melle"
+    ],
+    "name:est_x_preferred":[
+        "Melle"
+    ],
+    "name:fra_x_preferred":[
+        "Melle"
+    ],
+    "name:glg_x_preferred":[
+        "Melle"
+    ],
+    "name:hun_x_preferred":[
+        "Melle"
+    ],
+    "name:ind_x_preferred":[
+        "Melle"
+    ],
+    "name:ita_x_preferred":[
+        "Melle"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0435\u043b\u043b\u0435"
+    ],
+    "name:nds_x_preferred":[
+        "Melle"
+    ],
     "name:nld_x_preferred":[
+        "Melle"
+    ],
+    "name:nor_x_preferred":[
+        "Melle"
+    ],
+    "name:pol_x_preferred":[
+        "Melle"
+    ],
+    "name:por_x_preferred":[
+        "Melle"
+    ],
+    "name:ron_x_preferred":[
+        "Melle"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u043b\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Melle"
+    ],
+    "name:swe_x_preferred":[
+        "Melle"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043b\u043b\u0435"
+    ],
+    "name:vol_x_preferred":[
         "Melle"
     ],
     "reversegeo:latitude":51.665849,
@@ -40,12 +109,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474437,
         85633337,
         101839391,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +132,7 @@
         }
     ],
     "wof:id":1158799231,
-    "wof:lastmodified":1559597090,
+    "wof:lastmodified":1564235922,
     "wof:name":"Melle",
     "wof:parent_id":101839391,
     "wof:placetype":"neighbourhood",

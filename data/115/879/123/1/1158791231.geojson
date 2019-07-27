@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Schipborg"
+    ],
     "name:eng_x_preferred":[
         "Schipborg"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062e\u06cc\u067e\u200c\u0628\u0648\u0631\u062e"
+    ],
+    "name:fra_x_preferred":[
+        "Schipborg"
+    ],
     "name:nld_x_preferred":[
+        "Schipborg"
+    ],
+    "name:pol_x_preferred":[
+        "Schipborg"
+    ],
+    "name:por_x_preferred":[
         "Schipborg"
     ],
     "reversegeo:latitude":53.075306,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474593,
         85633337,
         1158792061,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158791231,
-    "wof:lastmodified":1559596149,
+    "wof:lastmodified":1564236183,
     "wof:name":"Schipborg",
     "wof:parent_id":1158792061,
     "wof:placetype":"neighbourhood",

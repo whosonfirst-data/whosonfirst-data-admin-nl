@@ -29,10 +29,37 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "S-Graveland"
+    ],
     "name:eng_x_preferred":[
         "'s-Graveland"
     ],
+    "name:fra_x_preferred":[
+        "'s-Graveland"
+    ],
+    "name:fry_x_preferred":[
+        "'s-Graveland"
+    ],
+    "name:gla_x_preferred":[
+        "'s-Graveland"
+    ],
+    "name:ita_x_preferred":[
+        "'s-Graveland"
+    ],
+    "name:mkd_x_preferred":[
+        "'\u0441-\u0413\u0440\u0430\u0432\u0435\u043b\u0430\u043d\u0434"
+    ],
     "name:nld_x_preferred":[
+        "'s-Graveland"
+    ],
+    "name:por_x_preferred":[
+        "'s-Graveland"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u0432\u0435\u043b\u0430\u043d\u0434"
+    ],
+    "name:sqi_x_preferred":[
         "'s-Graveland"
     ],
     "reversegeo:latitude":52.240684,
@@ -40,12 +67,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474605,
         85633337,
         101807353,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +90,7 @@
         }
     ],
     "wof:id":1158821023,
-    "wof:lastmodified":1559596108,
+    "wof:lastmodified":1564236329,
     "wof:name":"'s-Graveland",
     "wof:parent_id":101807353,
     "wof:placetype":"neighbourhood",

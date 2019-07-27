@@ -29,23 +29,68 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:cat_x_preferred":[
+        "Born"
+    ],
+    "name:ceb_x_preferred":[
+        "Born"
+    ],
+    "name:ces_x_preferred":[
+        "Born"
+    ],
+    "name:deu_x_preferred":[
+        "Born"
+    ],
     "name:eng_x_preferred":[
+        "Born"
+    ],
+    "name:fin_x_preferred":[
+        "Born"
+    ],
+    "name:fra_x_preferred":[
+        "Born"
+    ],
+    "name:ita_x_preferred":[
+        "Born"
+    ],
+    "name:lim_x_preferred":[
+        "Born"
+    ],
+    "name:nds_x_preferred":[
         "Born"
     ],
     "name:nld_x_preferred":[
         "Born"
+    ],
+    "name:pol_x_preferred":[
+        "Born"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Born"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0440\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Born"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u043d"
     ],
     "reversegeo:latitude":51.029767,
     "reversegeo:longitude":5.80592,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474675,
         85633337,
         101839201,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +108,7 @@
         }
     ],
     "wof:id":1158807737,
-    "wof:lastmodified":1559595769,
+    "wof:lastmodified":1564235520,
     "wof:name":"Born",
     "wof:parent_id":101839201,
     "wof:placetype":"neighbourhood",

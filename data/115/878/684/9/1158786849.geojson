@@ -29,23 +29,41 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Kraggenburg"
+    ],
     "name:eng_x_preferred":[
+        "Kraggenburg"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0627\u062e\u0646\u200c\u0628\u0648\u0631\u062e"
+    ],
+    "name:fin_x_preferred":[
+        "Kraggenburg"
+    ],
+    "name:fra_x_preferred":[
         "Kraggenburg"
     ],
     "name:nld_x_preferred":[
         "Kraggenburg"
+    ],
+    "name:pol_x_preferred":[
+        "Kraggenburg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0433\u0433\u0435\u043d\u0431\u0443\u0440\u0433"
     ],
     "reversegeo:latitude":52.661988,
     "reversegeo:longitude":5.901355,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         404473843,
         85633337,
         1158787477,
-        136253051
+        136253051,
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158786849,
-    "wof:lastmodified":1559596954,
+    "wof:lastmodified":1564237044,
     "wof:name":"Kraggenburg",
     "wof:parent_id":1158787477,
     "wof:placetype":"neighbourhood",

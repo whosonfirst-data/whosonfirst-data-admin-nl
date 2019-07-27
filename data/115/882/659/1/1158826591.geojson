@@ -29,23 +29,41 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Nieuwveen"
+    ],
     "name:eng_x_preferred":[
+        "Nieuwveen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0648\u0641\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Nieuwveen"
+    ],
+    "name:ita_x_preferred":[
         "Nieuwveen"
     ],
     "name:nld_x_preferred":[
         "Nieuwveen"
+    ],
+    "name:por_x_preferred":[
+        "Nieuwveen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u4e4c\u82ac"
     ],
     "reversegeo:latitude":52.199624,
     "reversegeo:longitude":4.75067,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474217,
         85633337,
         101807031,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158826591,
-    "wof:lastmodified":1559596574,
+    "wof:lastmodified":1564236464,
     "wof:name":"Nieuwveen",
     "wof:parent_id":101807031,
     "wof:placetype":"neighbourhood",

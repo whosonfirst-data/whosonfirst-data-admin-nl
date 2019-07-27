@@ -32,6 +32,12 @@
     "name:eng_x_preferred":[
         "Beutenaken"
     ],
+    "name:fra_x_preferred":[
+        "Beutenaken"
+    ],
+    "name:lim_x_preferred":[
+        "B\u00f6\u00e4tenake"
+    ],
     "name:nld_x_preferred":[
         "Beutenaken"
     ],
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474645,
         85633337,
         1158817971,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158807667,
-    "wof:lastmodified":1559596830,
+    "wof:lastmodified":1564235394,
     "wof:name":"Beutenaken",
     "wof:parent_id":1158817971,
     "wof:placetype":"neighbourhood",

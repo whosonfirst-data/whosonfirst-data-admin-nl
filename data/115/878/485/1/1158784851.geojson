@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Noordgouwe"
+    ],
     "name:eng_x_preferred":[
         "Noordgouwe"
     ],
+    "name:fra_x_preferred":[
+        "Noordgouwe"
+    ],
     "name:nld_x_preferred":[
+        "Noordgouwe"
+    ],
+    "name:por_x_preferred":[
+        "Noordgouwe"
+    ],
+    "name:zea_x_preferred":[
         "Noordgouwe"
     ],
     "reversegeo:latitude":51.693591,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474591,
         85633337,
         1158786565,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158784851,
-    "wof:lastmodified":1559595527,
+    "wof:lastmodified":1564236832,
     "wof:name":"Noordgouwe",
     "wof:parent_id":1158786565,
     "wof:placetype":"neighbourhood",

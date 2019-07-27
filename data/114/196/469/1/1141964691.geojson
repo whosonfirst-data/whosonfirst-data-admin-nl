@@ -29,11 +29,20 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Alphen"
+    ],
+    "name:deu_x_preferred":[
+        "Alphen"
+    ],
     "name:eng_x_preferred":[
         "Alphen"
     ],
     "name:eng_x_variant":[
         "Kern Alphen"
+    ],
+    "name:fra_x_preferred":[
+        "Alphen"
     ],
     "name:nld_x_preferred":[
         "Alphen"
@@ -41,17 +50,23 @@
     "name:nld_x_variant":[
         "Kern Alphen"
     ],
+    "name:por_x_preferred":[
+        "Alphen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u0444\u0435\u043d"
+    ],
     "reversegeo:latitude":51.82156,
     "reversegeo:longitude":5.47224,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474305,
         85633337,
         101808577,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -69,7 +84,7 @@
         }
     ],
     "wof:id":1141964691,
-    "wof:lastmodified":1559596507,
+    "wof:lastmodified":1564237544,
     "wof:name":"Alphen",
     "wof:parent_id":101808577,
     "wof:placetype":"neighbourhood",

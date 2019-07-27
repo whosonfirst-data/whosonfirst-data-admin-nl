@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:cat_x_preferred":[
+        "Thesinge"
+    ],
+    "name:ceb_x_preferred":[
+        "Thesinge"
+    ],
     "name:eng_x_preferred":[
         "Thesinge"
     ],
+    "name:fra_x_preferred":[
+        "Thesinge"
+    ],
     "name:nld_x_preferred":[
+        "Thesinge"
+    ],
+    "name:pol_x_preferred":[
         "Thesinge"
     ],
     "reversegeo:latitude":53.266892,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473709,
         85633337,
         1158796619,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158792449,
-    "wof:lastmodified":1559596933,
+    "wof:lastmodified":1564235827,
     "wof:name":"Thesinge",
     "wof:parent_id":1158796619,
     "wof:placetype":"neighbourhood",

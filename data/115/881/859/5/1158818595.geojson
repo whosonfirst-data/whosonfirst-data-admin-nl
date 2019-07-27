@@ -29,10 +29,58 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Geest"
+    ],
+    "name:cat_x_preferred":[
+        "Geest"
+    ],
+    "name:ces_x_preferred":[
+        "Geest"
+    ],
+    "name:dan_x_preferred":[
+        "Gest"
+    ],
+    "name:deu_x_preferred":[
+        "Geest"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03ad\u03b5\u03c3\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Geest"
     ],
+    "name:fra_x_preferred":[
+        "Geest"
+    ],
+    "name:frr_x_preferred":[
+        "Geest"
+    ],
+    "name:fry_x_preferred":[
+        "Geast"
+    ],
+    "name:hun_x_preferred":[
+        "Geest"
+    ],
+    "name:nds_x_preferred":[
+        "Geest"
+    ],
     "name:nld_x_preferred":[
+        "Geest"
+    ],
+    "name:nld_x_variant":[
+        "Geestgrond"
+    ],
+    "name:nno_x_preferred":[
+        "Geest"
+    ],
+    "name:nor_x_preferred":[
+        "Geest"
+    ],
+    "name:spa_x_preferred":[
+        "Geest"
+    ],
+    "name:swe_x_preferred":[
         "Geest"
     ],
     "reversegeo:latitude":52.662953,
@@ -40,12 +88,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474041,
         85633337,
         101808083,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +111,7 @@
         }
     ],
     "wof:id":1158818595,
-    "wof:lastmodified":1559595438,
+    "wof:lastmodified":1564235593,
     "wof:name":"Geest",
     "wof:parent_id":101808083,
     "wof:placetype":"neighbourhood",

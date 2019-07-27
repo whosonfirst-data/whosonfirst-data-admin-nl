@@ -32,20 +32,26 @@
     "name:eng_x_preferred":[
         "Bloemenbuurt"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0648\u0645\u0646\u200c\u0628\u0648\u0631\u062a"
+    ],
     "name:nld_x_preferred":[
         "Bloemenbuurt"
+    ],
+    "name:nld_x_variant":[
+        "Oosseld"
     ],
     "reversegeo:latitude":52.562724,
     "reversegeo:longitude":5.641021,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         404473965,
         85633337,
         101808773,
-        136253051
+        136253051,
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158787011,
-    "wof:lastmodified":1559597132,
+    "wof:lastmodified":1564236794,
     "wof:name":"Bloemenbuurt",
     "wof:parent_id":101808773,
     "wof:placetype":"neighbourhood",

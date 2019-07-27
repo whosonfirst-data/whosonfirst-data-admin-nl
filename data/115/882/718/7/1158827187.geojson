@@ -29,24 +29,42 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Poortugaal"
+    ],
     "name:eng_x_preferred":[
+        "Poortugaal"
+    ],
+    "name:fra_x_preferred":[
+        "Poortugaal"
+    ],
+    "name:ita_x_preferred":[
         "Poortugaal"
     ],
     "name:nld_x_preferred":[
         "Poortugaal"
+    ],
+    "name:pol_x_preferred":[
+        "Poortugaal"
+    ],
+    "name:por_x_preferred":[
+        "Poortugaal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u044e\u0433\u0430\u043b"
     ],
     "reversegeo:latitude":51.861597,
     "reversegeo:longitude":4.410918,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831131,
         404474263,
         85633337,
         101754731,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +83,7 @@
         }
     ],
     "wof:id":1158827187,
-    "wof:lastmodified":1559596832,
+    "wof:lastmodified":1564236783,
     "wof:name":"Poortugaal",
     "wof:parent_id":1158831131,
     "wof:placetype":"neighbourhood",

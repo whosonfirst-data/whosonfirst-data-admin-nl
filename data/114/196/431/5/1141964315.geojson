@@ -29,10 +29,58 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:als_x_preferred":[
+        "Homberg"
+    ],
+    "name:ceb_x_preferred":[
+        "Homberg"
+    ],
+    "name:deu_x_preferred":[
+        "Homberg"
+    ],
     "name:eng_x_preferred":[
         "Homberg"
     ],
+    "name:epo_x_preferred":[
+        "Homberg"
+    ],
+    "name:eus_x_preferred":[
+        "Homberg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0645\u0628\u0631\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Homberg"
+    ],
+    "name:ita_x_preferred":[
+        "Homberg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30e0\u30d9\u30eb\u30af"
+    ],
     "name:nld_x_preferred":[
+        "Homberg"
+    ],
+    "name:pol_x_preferred":[
+        "Homberg"
+    ],
+    "name:por_x_preferred":[
+        "Homberg"
+    ],
+    "name:ron_x_preferred":[
+        "Homberg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u043c\u0431\u0435\u0440\u0433"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u043c\u0431\u0435\u0440\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Homberg"
+    ],
+    "name:vol_x_preferred":[
         "Homberg"
     ],
     "reversegeo:latitude":51.811679,
@@ -40,13 +88,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783313,
         404473953,
         85633337,
         101754761,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +113,7 @@
         }
     ],
     "wof:id":1141964315,
-    "wof:lastmodified":1559596468,
+    "wof:lastmodified":1564237403,
     "wof:name":"Homberg",
     "wof:parent_id":1158783313,
     "wof:placetype":"neighbourhood",

@@ -29,23 +29,44 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Grijpskerke"
+    ],
     "name:eng_x_preferred":[
+        "Grijpskerke"
+    ],
+    "name:eus_x_preferred":[
+        "Grijpskerke"
+    ],
+    "name:fra_x_preferred":[
         "Grijpskerke"
     ],
     "name:nld_x_preferred":[
         "Grijpskerke"
+    ],
+    "name:por_x_preferred":[
+        "Grijpskerke"
+    ],
+    "name:spa_x_preferred":[
+        "Grijpskerke"
+    ],
+    "name:vls_x_preferred":[
+        "Griepskerke"
+    ],
+    "name:zea_x_preferred":[
+        "Grieps"
     ],
     "reversegeo:latitude":51.534346,
     "reversegeo:longitude":3.561168,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474333,
         85633337,
         101808375,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1158784683,
-    "wof:lastmodified":1559596194,
+    "wof:lastmodified":1564237085,
     "wof:name":"Grijpskerke",
     "wof:parent_id":101808375,
     "wof:placetype":"neighbourhood",

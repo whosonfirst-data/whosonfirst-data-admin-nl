@@ -29,11 +29,23 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Wamel"
+    ],
+    "name:ceb_x_preferred":[
+        "Wamel"
+    ],
+    "name:deu_x_preferred":[
+        "Wamel"
+    ],
     "name:eng_x_preferred":[
         "Wamel"
     ],
     "name:eng_x_variant":[
         "Kern Wamel"
+    ],
+    "name:fra_x_preferred":[
+        "Wamel"
     ],
     "name:nld_x_preferred":[
         "Wamel"
@@ -41,17 +53,20 @@
     "name:nld_x_variant":[
         "Kern Wamel"
     ],
+    "name:por_x_preferred":[
+        "Wamel"
+    ],
     "reversegeo:latitude":51.880345,
     "reversegeo:longitude":5.468065,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474305,
         85633337,
         101808743,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -69,7 +84,7 @@
         }
     ],
     "wof:id":1141964725,
-    "wof:lastmodified":1559596512,
+    "wof:lastmodified":1564237511,
     "wof:name":"Wamel",
     "wof:parent_id":101808743,
     "wof:placetype":"neighbourhood",

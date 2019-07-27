@@ -29,6 +29,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Westerhout"
+    ],
     "name:eng_x_preferred":[
         "Westerhout"
     ],
@@ -40,13 +43,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823147,
         404474043,
         85633337,
         101754793,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1158818669,
-    "wof:lastmodified":1559595441,
+    "wof:lastmodified":1564235593,
     "wof:name":"Westerhout",
     "wof:parent_id":1158823147,
     "wof:placetype":"neighbourhood",

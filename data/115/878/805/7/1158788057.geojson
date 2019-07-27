@@ -29,10 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u063a\u0631\u0627\u0633\u064a\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Grassen"
+    ],
+    "name:deu_x_preferred":[
+        "Grassen"
+    ],
     "name:eng_x_preferred":[
         "Grassen"
     ],
+    "name:fra_x_preferred":[
+        "Grassen"
+    ],
     "name:nld_x_preferred":[
+        "Grassen"
+    ],
+    "name:nno_x_preferred":[
+        "Grassen"
+    ],
+    "name:swe_x_preferred":[
         "Grassen"
     ],
     "reversegeo:latitude":52.014683,
@@ -40,13 +58,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790313,
         404473987,
         85633337,
         101807003,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +83,7 @@
         }
     ],
     "wof:id":1158788057,
-    "wof:lastmodified":1559597039,
+    "wof:lastmodified":1564236922,
     "wof:name":"Grassen",
     "wof:parent_id":1158790313,
     "wof:placetype":"neighbourhood",

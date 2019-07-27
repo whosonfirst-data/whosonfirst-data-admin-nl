@@ -29,7 +29,19 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Wapenveld"
+    ],
+    "name:ceb_x_preferred":[
+        "Wapenveld"
+    ],
     "name:eng_x_preferred":[
+        "Wapenveld"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u067e\u0646\u200c\u0641\u0644\u062f"
+    ],
+    "name:fra_x_preferred":[
         "Wapenveld"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473911,
         85633337,
         101837815,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1141963531,
-    "wof:lastmodified":1559596916,
+    "wof:lastmodified":1564237316,
     "wof:name":"Wapenveld",
     "wof:parent_id":101837815,
     "wof:placetype":"neighbourhood",

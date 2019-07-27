@@ -29,10 +29,31 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Gendringen"
+    ],
+    "name:ceb_x_preferred":[
+        "Gendringen"
+    ],
+    "name:deu_x_preferred":[
+        "Gendringen"
+    ],
     "name:eng_x_preferred":[
         "Gendringen"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0646\u062f\u0631\u06cc\u0646\u06af\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Gendringen"
+    ],
+    "name:ita_x_preferred":[
+        "Gendringen"
+    ],
     "name:nld_x_preferred":[
+        "Gendringen"
+    ],
+    "name:sqi_x_preferred":[
         "Gendringen"
     ],
     "reversegeo:latitude":51.872587,
@@ -40,12 +61,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474543,
         85633337,
         101837795,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1141964773,
-    "wof:lastmodified":1559596315,
+    "wof:lastmodified":1564237355,
     "wof:name":"Gendringen",
     "wof:parent_id":101837795,
     "wof:placetype":"neighbourhood",

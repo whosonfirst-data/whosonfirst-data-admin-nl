@@ -29,10 +29,124 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Halle"
+    ],
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u0644\u0647"
+    ],
+    "name:bre_x_preferred":[
+        "Halle"
+    ],
+    "name:cat_x_preferred":[
+        "Halle"
+    ],
+    "name:ceb_x_preferred":[
+        "Halle"
+    ],
+    "name:ces_x_preferred":[
+        "Halle"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0430\u043b\u043b\u0435"
+    ],
+    "name:dan_x_preferred":[
+        "Halle"
+    ],
+    "name:deu_x_preferred":[
+        "Halle"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ac\u03bb\u03bb\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Halle"
     ],
+    "name:epo_x_preferred":[
+        "Halle"
+    ],
+    "name:est_x_preferred":[
+        "Halle"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0644\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Halle"
+    ],
+    "name:fra_x_preferred":[
+        "Halle"
+    ],
+    "name:fry_x_preferred":[
+        "Halle"
+    ],
+    "name:hun_x_preferred":[
+        "Halle"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0561\u056c\u056c\u0565"
+    ],
+    "name:ina_x_preferred":[
+        "Halle"
+    ],
+    "name:ita_x_preferred":[
+        "Halle"
+    ],
+    "name:kor_x_preferred":[
+        "\ud560\ub808"
+    ],
+    "name:lim_x_preferred":[
+        "Halle"
+    ],
+    "name:ltz_x_preferred":[
+        "Halle"
+    ],
+    "name:nds_x_preferred":[
+        "Halle"
+    ],
     "name:nld_x_preferred":[
+        "Halle"
+    ],
+    "name:nor_x_preferred":[
+        "Halle"
+    ],
+    "name:pol_x_preferred":[
+        "Halle"
+    ],
+    "name:por_x_preferred":[
+        "Halle"
+    ],
+    "name:que_x_preferred":[
+        "Halle"
+    ],
+    "name:ron_x_preferred":[
+        "Halle"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043b\u043b\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Halle"
+    ],
+    "name:slk_x_preferred":[
+        "Halle"
+    ],
+    "name:spa_x_preferred":[
+        "Halle"
+    ],
+    "name:swe_x_preferred":[
+        "Halle"
+    ],
+    "name:tur_x_preferred":[
+        "Halle"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043b\u043b\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Halle"
+    ],
+    "name:vol_x_preferred":[
         "Halle"
     ],
     "reversegeo:latitude":51.990214,
@@ -40,12 +154,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474673,
         85633337,
         1158783527,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +177,7 @@
         }
     ],
     "wof:id":1141965193,
-    "wof:lastmodified":1559596349,
+    "wof:lastmodified":1564237433,
     "wof:name":"Halle",
     "wof:parent_id":1158783527,
     "wof:placetype":"neighbourhood",

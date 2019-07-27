@@ -29,10 +29,37 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Asten"
+    ],
+    "name:deu_x_preferred":[
+        "Asten"
+    ],
     "name:eng_x_preferred":[
         "Asten"
     ],
+    "name:fra_x_preferred":[
+        "Asten"
+    ],
+    "name:ita_x_preferred":[
+        "Asten"
+    ],
+    "name:nds_x_preferred":[
+        "Asten"
+    ],
     "name:nld_x_preferred":[
+        "Asten"
+    ],
+    "name:pol_x_preferred":[
+        "Asten"
+    ],
+    "name:ron_x_preferred":[
+        "Asten"
+    ],
+    "name:swe_x_preferred":[
+        "Asten"
+    ],
+    "name:vol_x_preferred":[
         "Asten"
     ],
     "reversegeo:latitude":51.401189,
@@ -40,12 +67,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474347,
         85633337,
         101809687,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +90,7 @@
         }
     ],
     "wof:id":1158796741,
-    "wof:lastmodified":1559596600,
+    "wof:lastmodified":1564235815,
     "wof:name":"Asten",
     "wof:parent_id":101809687,
     "wof:placetype":"neighbourhood",

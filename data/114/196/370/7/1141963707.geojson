@@ -29,7 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Rossum"
+    ],
+    "name:deu_x_preferred":[
+        "Rossum"
+    ],
     "name:eng_x_preferred":[
+        "Rossum"
+    ],
+    "name:fra_x_preferred":[
+        "Rossum"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30c3\u30b5\u30e0"
+    ],
+    "name:nds_x_preferred":[
         "Rossum"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473917,
         85633337,
         101809875,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1141963707,
-    "wof:lastmodified":1559596969,
+    "wof:lastmodified":1564237431,
     "wof:name":"Rossum",
     "wof:parent_id":101809875,
     "wof:placetype":"neighbourhood",

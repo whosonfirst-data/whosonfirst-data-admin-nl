@@ -32,6 +32,12 @@
     "name:eng_x_preferred":[
         "Eyserheide"
     ],
+    "name:fra_x_preferred":[
+        "Eyserheide"
+    ],
+    "name:lim_x_preferred":[
+        "Ezerhei"
+    ],
     "name:nld_x_preferred":[
         "Eyserheide"
     ],
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474645,
         85633337,
         101810589,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158807629,
-    "wof:lastmodified":1559596826,
+    "wof:lastmodified":1564235170,
     "wof:name":"Eyserheide",
     "wof:parent_id":101810589,
     "wof:placetype":"neighbourhood",

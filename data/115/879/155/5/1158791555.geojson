@@ -32,6 +32,15 @@
     "name:eng_x_preferred":[
         "Zuidvelde"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u06cc\u062f\u0641\u0644\u062f\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Zuidvelde"
+    ],
+    "name:fry_x_preferred":[
+        "Zuidvelde"
+    ],
     "name:nld_x_preferred":[
         "Zuidvelde"
     ],
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474609,
         85633337,
         1158792139,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158791555,
-    "wof:lastmodified":1559596097,
+    "wof:lastmodified":1564236016,
     "wof:name":"Zuidvelde",
     "wof:parent_id":1158792139,
     "wof:placetype":"neighbourhood",

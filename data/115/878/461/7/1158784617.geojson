@@ -29,23 +29,47 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Sint Annaland"
+    ],
     "name:eng_x_preferred":[
+        "Sint-Annaland"
+    ],
+    "name:fra_x_preferred":[
+        "Sint-Annaland"
+    ],
+    "name:ind_x_preferred":[
+        "Sint Annaland"
+    ],
+    "name:ita_x_preferred":[
+        "Sint-Annaland"
+    ],
+    "name:lim_x_preferred":[
         "Sint-Annaland"
     ],
     "name:nld_x_preferred":[
         "Sint-Annaland"
+    ],
+    "name:pol_x_preferred":[
+        "Sint Annaland"
+    ],
+    "name:por_x_preferred":[
+        "Sint-Annaland"
+    ],
+    "name:zea_x_preferred":[
+        "Stalland"
     ],
     "reversegeo:latitude":51.599563,
     "reversegeo:longitude":4.102537,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474331,
         85633337,
         101808399,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +87,7 @@
         }
     ],
     "wof:id":1158784617,
-    "wof:lastmodified":1559595500,
+    "wof:lastmodified":1564237092,
     "wof:name":"Sint-Annaland",
     "wof:parent_id":101808399,
     "wof:placetype":"neighbourhood",

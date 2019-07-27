@@ -29,10 +29,55 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:cat_x_preferred":[
+        "Margraten"
+    ],
+    "name:ceb_x_preferred":[
+        "Margraten"
+    ],
+    "name:deu_x_preferred":[
+        "Margraten"
+    ],
     "name:eng_x_preferred":[
         "Margraten"
     ],
+    "name:eus_x_preferred":[
+        "Margraten"
+    ],
+    "name:fra_x_preferred":[
+        "Margraten"
+    ],
+    "name:ind_x_preferred":[
+        "Margraten"
+    ],
+    "name:ita_x_preferred":[
+        "Margraten"
+    ],
+    "name:lim_x_preferred":[
+        "Mergraote"
+    ],
+    "name:msa_x_preferred":[
+        "Margraten"
+    ],
     "name:nld_x_preferred":[
+        "Margraten"
+    ],
+    "name:ron_x_preferred":[
+        "Margraten"
+    ],
+    "name:sqi_x_preferred":[
+        "Margraten"
+    ],
+    "name:swe_x_preferred":[
+        "Margraten"
+    ],
+    "name:vie_x_preferred":[
+        "Margraten"
+    ],
+    "name:vol_x_preferred":[
+        "Margraten"
+    ],
+    "name:war_x_preferred":[
         "Margraten"
     ],
     "reversegeo:latitude":50.822195,
@@ -40,12 +85,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158805871,
         85633337,
         101810579,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +108,7 @@
         }
     ],
     "wof:id":1158807839,
-    "wof:lastmodified":1559596855,
+    "wof:lastmodified":1564235336,
     "wof:name":"Margraten",
     "wof:parent_id":101810579,
     "wof:placetype":"neighbourhood",

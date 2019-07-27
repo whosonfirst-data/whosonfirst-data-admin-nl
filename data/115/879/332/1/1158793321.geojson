@@ -32,7 +32,13 @@
     "name:eng_x_preferred":[
         "De Maten"
     ],
+    "name:fry_x_preferred":[
+        "De Maten"
+    ],
     "name:nld_x_preferred":[
+        "De Maten"
+    ],
+    "name:por_x_preferred":[
         "De Maten"
     ],
     "reversegeo:latitude":52.860666,
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473739,
         85633337,
         101838031,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158793321,
-    "wof:lastmodified":1559596448,
+    "wof:lastmodified":1564235994,
     "wof:name":"De Maten",
     "wof:parent_id":101838031,
     "wof:placetype":"neighbourhood",

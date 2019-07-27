@@ -29,23 +29,128 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "De Graafschap"
+    ],
+    "name:ara_x_preferred":[
+        "\u062f\u064a \u063a\u0631\u0627\u0641\u0634\u0627\u0628"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u06cc \u0642\u0631\u0627\u0641\u0634\u0627\u067e \u0641\u0648\u062a\u0628\u0627\u0644 \u06a9\u0648\u0644\u0648\u0628\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0435 \u0413\u0440\u0430\u0430\u0444\u0441\u0445\u0430\u043f"
+    ],
+    "name:cat_x_preferred":[
+        "VBV De Graafschap"
+    ],
+    "name:ces_x_preferred":[
+        "De Graafschap"
+    ],
+    "name:dan_x_preferred":[
+        "De Graafschap"
+    ],
+    "name:deu_x_preferred":[
+        "BV De Graafschap"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b5 \u03a7\u03c1\u03ac\u03b1\u03c6\u03c3\u03c7\u03b1\u03c0"
+    ],
     "name:eng_x_preferred":[
+        "De Graafschap"
+    ],
+    "name:est_x_preferred":[
+        "De Graafschap"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0634\u06af\u0627\u0647 \u0641\u0648\u062a\u0628\u0627\u0644 \u062f\u06cc \u06af\u0631\u0627\u0641\u0634\u0627\u067e"
+    ],
+    "name:fin_x_preferred":[
+        "De Graafschap"
+    ],
+    "name:fra_x_preferred":[
+        "De Graafschap Doetinchem"
+    ],
+    "name:fry_x_preferred":[
+        "De Graafschap"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d4 \u05d7\u05e8\u05d0\u05e4\u05e1\u05d7\u05d0\u05e4"
+    ],
+    "name:hrv_x_preferred":[
+        "De Graafschap"
+    ],
+    "name:hun_x_preferred":[
+        "VBV De Graafschap"
+    ],
+    "name:ind_x_preferred":[
+        "De Graafschap"
+    ],
+    "name:ita_x_preferred":[
+        "Betaald Voetbal De Graafschap"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30fb\u30d5\u30e9\u30fc\u30d5\u30b9\u30cf\u30c3\u30d7"
+    ],
+    "name:kor_x_preferred":[
+        "\ub354 \ud750\ub77c\ud504\uc2a4\ud569"
+    ],
+    "name:lav_x_preferred":[
+        "De Graafschap"
+    ],
+    "name:lim_x_preferred":[
         "De Graafschap"
     ],
     "name:nld_x_preferred":[
         "De Graafschap"
+    ],
+    "name:nld_x_variant":[
+        "BV De Graafschap"
+    ],
+    "name:nor_x_preferred":[
+        "De Graafschap"
+    ],
+    "name:pol_x_preferred":[
+        "De Graafschap"
+    ],
+    "name:por_x_preferred":[
+        "Betaald Voetbal De Graafschap"
+    ],
+    "name:ron_x_preferred":[
+        "De Graafschap"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435 \u0413\u0440\u0430\u0444\u0441\u0445\u0430\u043f"
+    ],
+    "name:spa_x_preferred":[
+        "De Graafschap Doetinchem"
+    ],
+    "name:swe_x_preferred":[
+        "De Graafschap"
+    ],
+    "name:tur_x_preferred":[
+        "BV De Graafschap"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435 \u0413\u0440\u0430\u0444\u0441\u0445\u0430\u043f"
+    ],
+    "name:vie_x_preferred":[
+        "De Graafschap"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u52a0\u53f2\u5353\u666e"
     ],
     "reversegeo:latitude":52.452263,
     "reversegeo:longitude":5.703937,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         404473965,
         85633337,
         101807239,
-        136253051
+        136253051,
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +168,7 @@
         }
     ],
     "wof:id":1158786995,
-    "wof:lastmodified":1559596256,
+    "wof:lastmodified":1564237058,
     "wof:name":"De Graafschap",
     "wof:parent_id":101807239,
     "wof:placetype":"neighbourhood",

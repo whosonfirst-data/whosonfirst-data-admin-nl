@@ -35,17 +35,20 @@
     "name:nld_x_preferred":[
         "Doornsteeg"
     ],
+    "name:por_x_preferred":[
+        "Doornsteeg"
+    ],
     "reversegeo:latitude":52.216969,
     "reversegeo:longitude":5.456574,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473921,
         85633337,
         101807075,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1141963717,
-    "wof:lastmodified":1559596970,
+    "wof:lastmodified":1564237440,
     "wof:name":"Doornsteeg",
     "wof:parent_id":101807075,
     "wof:placetype":"neighbourhood",

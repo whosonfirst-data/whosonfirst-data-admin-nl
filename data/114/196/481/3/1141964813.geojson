@@ -35,17 +35,20 @@
     "name:nld_x_preferred":[
         "Westendorp"
     ],
+    "name:spa_x_preferred":[
+        "Westendorp"
+    ],
     "reversegeo:latitude":51.950192,
     "reversegeo:longitude":6.414443,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474543,
         85633337,
         101855389,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1141964813,
-    "wof:lastmodified":1559596515,
+    "wof:lastmodified":1564237506,
     "wof:name":"Westendorp",
     "wof:parent_id":101855389,
     "wof:placetype":"neighbourhood",

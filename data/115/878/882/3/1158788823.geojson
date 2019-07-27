@@ -29,7 +29,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Gerverscop"
+    ],
     "name:eng_x_preferred":[
+        "Gerverscop"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u0641\u0631\u0633\u200c\u06a9\u0648\u067e"
+    ],
+    "name:fra_x_preferred":[
         "Gerverscop"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404474285,
         85633337,
         1158790387,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158788823,
-    "wof:lastmodified":1559595985,
+    "wof:lastmodified":1564237025,
     "wof:name":"Gerverscop",
     "wof:parent_id":1158790387,
     "wof:placetype":"neighbourhood",

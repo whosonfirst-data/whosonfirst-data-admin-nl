@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Drijber"
+    ],
     "name:eng_x_preferred":[
         "Drijber"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u06cc\u0628\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Drijber"
+    ],
+    "name:fry_x_preferred":[
+        "Drijber"
+    ],
     "name:nld_x_preferred":[
+        "Drijber"
+    ],
+    "name:por_x_preferred":[
         "Drijber"
     ],
     "reversegeo:latitude":52.791083,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474649,
         85633337,
         1158792217,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158791829,
-    "wof:lastmodified":1559596806,
+    "wof:lastmodified":1564236237,
     "wof:name":"Drijber",
     "wof:parent_id":1158792217,
     "wof:placetype":"neighbourhood",

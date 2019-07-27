@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Genderen"
+    ],
     "name:eng_x_preferred":[
         "Genderen"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0646\u062f\u0631\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Genderen"
+    ],
     "name:nld_x_preferred":[
+        "Genderen"
+    ],
+    "name:pol_x_preferred":[
+        "Genderen"
+    ],
+    "name:por_x_preferred":[
         "Genderen"
     ],
     "reversegeo:latitude":51.735639,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474345,
         85633337,
         101808245,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158796723,
-    "wof:lastmodified":1559596476,
+    "wof:lastmodified":1564235777,
     "wof:name":"Genderen",
     "wof:parent_id":101808245,
     "wof:placetype":"neighbourhood",

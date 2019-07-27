@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Beerzerveld"
+    ],
     "name:eng_x_preferred":[
         "Beerzerveld"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0631\u0632\u0647\u200c\u0641\u0644\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Beerzerveld"
+    ],
     "name:nld_x_preferred":[
+        "Beerzerveld"
+    ],
+    "name:por_x_preferred":[
         "Beerzerveld"
     ],
     "reversegeo:latitude":52.491266,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473847,
         85633337,
         1158805659,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158803103,
-    "wof:lastmodified":1559596862,
+    "wof:lastmodified":1564235524,
     "wof:name":"Beerzerveld",
     "wof:parent_id":1158805659,
     "wof:placetype":"neighbourhood",

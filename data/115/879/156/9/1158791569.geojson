@@ -32,6 +32,12 @@
     "name:eng_x_preferred":[
         "Veenhuizen"
     ],
+    "name:fra_x_preferred":[
+        "Veenhuizen"
+    ],
+    "name:fry_x_preferred":[
+        "Feanhuzen"
+    ],
     "name:nld_x_preferred":[
         "Veenhuizen"
     ],
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474609,
         85633337,
         101807257,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158791569,
-    "wof:lastmodified":1559595514,
+    "wof:lastmodified":1564235774,
     "wof:name":"Veenhuizen",
     "wof:parent_id":101807257,
     "wof:placetype":"neighbourhood",

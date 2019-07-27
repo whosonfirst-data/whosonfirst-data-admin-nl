@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Jipsingboertange"
+    ],
     "name:eng_x_preferred":[
         "Jipsingboertange"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u06cc\u067e\u0633\u06cc\u0646\u06af\u200c\u0628\u0648\u0631\u062a\u0627\u0646\u06af\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Jipsingboertange"
+    ],
     "name:nld_x_preferred":[
+        "Jipsingboertange"
+    ],
+    "name:por_x_preferred":[
         "Jipsingboertange"
     ],
     "reversegeo:latitude":52.965225,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473739,
         85633337,
         1158796543,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158793289,
-    "wof:lastmodified":1559595597,
+    "wof:lastmodified":1564236213,
     "wof:name":"Jipsingboertange",
     "wof:parent_id":1158796543,
     "wof:placetype":"neighbourhood",

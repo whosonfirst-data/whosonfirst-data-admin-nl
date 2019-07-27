@@ -29,11 +29,20 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Noord"
+    ],
     "name:eng_x_preferred":[
         "Noord"
     ],
     "name:eng_x_variant":[
         "Stadsdennen-Noord"
+    ],
+    "name:epo_x_preferred":[
+        "Noord"
+    ],
+    "name:fra_x_preferred":[
+        "Noord"
     ],
     "name:nld_x_preferred":[
         "Noord"
@@ -41,18 +50,30 @@
     "name:nld_x_variant":[
         "Stadsdennen-Noord"
     ],
+    "name:pol_x_preferred":[
+        "Noord"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u043e\u0440\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Noord"
+    ],
+    "name:swe_x_preferred":[
+        "Noord"
+    ],
     "reversegeo:latitude":52.348066,
     "reversegeo:longitude":5.635847,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783331,
         404473907,
         85633337,
         101837769,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -71,7 +92,7 @@
         }
     ],
     "wof:id":1141963363,
-    "wof:lastmodified":1559595687,
+    "wof:lastmodified":1564237305,
     "wof:name":"Noord",
     "wof:parent_id":1158783331,
     "wof:placetype":"neighbourhood",

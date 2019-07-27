@@ -29,11 +29,23 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Oost"
+    ],
     "name:eng_x_preferred":[
         "Oost"
     ],
     "name:eng_x_variant":[
         "Overstegen-Oost"
+    ],
+    "name:fra_x_preferred":[
+        "Oost"
+    ],
+    "name:lim_x_preferred":[
+        "Oost"
+    ],
+    "name:nds_x_preferred":[
+        "Oost"
     ],
     "name:nld_x_preferred":[
         "Oost"
@@ -46,13 +58,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783315,
         404473885,
         85633337,
         101808663,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -71,7 +83,7 @@
         }
     ],
     "wof:id":1141962761,
-    "wof:lastmodified":1559596155,
+    "wof:lastmodified":1564237519,
     "wof:name":"Oost",
     "wof:parent_id":1158783315,
     "wof:placetype":"neighbourhood",

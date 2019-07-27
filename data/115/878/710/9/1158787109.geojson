@@ -29,7 +29,13 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:cat_x_preferred":[
+        "Punter"
+    ],
     "name:eng_x_preferred":[
+        "Punter"
+    ],
+    "name:fra_x_preferred":[
         "Punter"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         1158787401,
         85633337,
         101751873,
-        136253051
+        136253051,
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158787109,
-    "wof:lastmodified":1559596975,
+    "wof:lastmodified":1564237119,
     "wof:name":"Punter",
     "wof:parent_id":1158787401,
     "wof:placetype":"neighbourhood",

@@ -29,7 +29,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Broek"
+    ],
+    "name:deu_x_preferred":[
+        "Broek"
+    ],
     "name:eng_x_preferred":[
+        "Broek"
+    ],
+    "name:fra_x_preferred":[
         "Broek"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474549,
         85633337,
         101808627,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1141964843,
-    "wof:lastmodified":1559596328,
+    "wof:lastmodified":1564237358,
     "wof:name":"Broek",
     "wof:parent_id":101808627,
     "wof:placetype":"neighbourhood",

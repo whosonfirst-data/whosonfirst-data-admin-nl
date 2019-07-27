@@ -32,7 +32,13 @@
     "name:eng_x_preferred":[
         "Terdiek"
     ],
+    "name:fra_x_preferred":[
+        "Terdiek"
+    ],
     "name:nld_x_preferred":[
+        "Terdiek"
+    ],
+    "name:por_x_preferred":[
         "Terdiek"
     ],
     "reversegeo:latitude":52.727097,
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158818287,
         85633337,
         101837935,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158821071,
-    "wof:lastmodified":1559596163,
+    "wof:lastmodified":1564236556,
     "wof:name":"Terdiek",
     "wof:parent_id":101837935,
     "wof:placetype":"neighbourhood",
