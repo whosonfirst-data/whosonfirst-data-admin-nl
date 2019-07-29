@@ -29,10 +29,40 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Westerland"
+    ],
+    "name:deu_x_preferred":[
+        "Westerland"
+    ],
     "name:eng_x_preferred":[
         "Westerland"
     ],
+    "name:fin_x_preferred":[
+        "Westerland"
+    ],
+    "name:fra_x_preferred":[
+        "Westerland"
+    ],
+    "name:frr_x_preferred":[
+        "Westerland"
+    ],
+    "name:ita_x_preferred":[
+        "Westerland"
+    ],
     "name:nld_x_preferred":[
+        "Westerland"
+    ],
+    "name:pol_x_preferred":[
+        "Westerland"
+    ],
+    "name:por_x_preferred":[
+        "Westerland"
+    ],
+    "name:rus_x_preferred":[
+        "Westerland"
+    ],
+    "name:slv_x_preferred":[
         "Westerland"
     ],
     "reversegeo:latitude":52.894059,
@@ -40,12 +70,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158818287,
         85633337,
         1158822983,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +93,7 @@
         }
     ],
     "wof:id":1158821111,
-    "wof:lastmodified":1559595479,
+    "wof:lastmodified":1564236496,
     "wof:name":"Westerland",
     "wof:parent_id":1158822983,
     "wof:placetype":"neighbourhood",

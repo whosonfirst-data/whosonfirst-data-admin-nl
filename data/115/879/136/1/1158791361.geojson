@@ -29,10 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0627\u0648\u0646\u064a\u0631\u0645\u0648\u0646\u062a"
+    ],
+    "name:ceb_x_preferred":[
+        "Drouwenermond"
+    ],
     "name:eng_x_preferred":[
         "Drouwenermond"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0627\u0648\u0646\u0631\u0645\u0648\u0646\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Drouwenermond"
+    ],
     "name:nld_x_preferred":[
+        "Drouwenermond"
+    ],
+    "name:pol_x_preferred":[
+        "Drouwenermond"
+    ],
+    "name:por_x_preferred":[
         "Drouwenermond"
     ],
     "reversegeo:latitude":52.979673,
@@ -40,12 +58,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474595,
         85633337,
         1158792101,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158791361,
-    "wof:lastmodified":1559596792,
+    "wof:lastmodified":1564235990,
     "wof:name":"Drouwenermond",
     "wof:parent_id":1158792101,
     "wof:placetype":"neighbourhood",

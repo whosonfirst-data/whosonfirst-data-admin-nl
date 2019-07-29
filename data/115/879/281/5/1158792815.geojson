@@ -32,7 +32,22 @@
     "name:eng_x_preferred":[
         "Noordlaren"
     ],
+    "name:epo_x_preferred":[
+        "Noordlaren"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631\u062f\u0644\u0627\u0631\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Noordlaren"
+    ],
+    "name:fry_x_preferred":[
+        "Noardlaren"
+    ],
     "name:nld_x_preferred":[
+        "Noordlaren"
+    ],
+    "name:pol_x_preferred":[
         "Noordlaren"
     ],
     "reversegeo:latitude":53.121155,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473717,
         85633337,
         1158796515,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158792815,
-    "wof:lastmodified":1559596894,
+    "wof:lastmodified":1564235836,
     "wof:name":"Noordlaren",
     "wof:parent_id":1158796515,
     "wof:placetype":"neighbourhood",

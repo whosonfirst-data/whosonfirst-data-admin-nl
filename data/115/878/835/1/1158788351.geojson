@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Soestduinen"
+    ],
     "name:eng_x_preferred":[
         "Soestduinen"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0633\u062a\u200c\u062f\u0627\u06cc\u0646\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Soestduinen"
+    ],
+    "name:fry_x_preferred":[
+        "Soestduinen"
+    ],
     "name:nld_x_preferred":[
+        "Soestduinen"
+    ],
+    "name:pol_x_preferred":[
         "Soestduinen"
     ],
     "reversegeo:latitude":52.151653,
@@ -40,13 +55,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790367,
         404474005,
         85633337,
         101808443,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +80,7 @@
         }
     ],
     "wof:id":1158788351,
-    "wof:lastmodified":1559596288,
+    "wof:lastmodified":1564236893,
     "wof:name":"Soestduinen",
     "wof:parent_id":1158790367,
     "wof:placetype":"neighbourhood",

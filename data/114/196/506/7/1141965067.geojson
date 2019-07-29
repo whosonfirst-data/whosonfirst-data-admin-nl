@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Echteld"
+    ],
     "name:eng_x_preferred":[
         "Echteld"
     ],
+    "name:fra_x_preferred":[
+        "Echteld"
+    ],
+    "name:ita_x_preferred":[
+        "Echteld"
+    ],
     "name:nld_x_preferred":[
+        "Echteld"
+    ],
+    "name:por_x_preferred":[
+        "Echteld"
+    ],
+    "name:sqi_x_preferred":[
         "Echteld"
     ],
     "reversegeo:latitude":51.909518,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474655,
         85633337,
         101855347,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1141965067,
-    "wof:lastmodified":1559596365,
+    "wof:lastmodified":1564237467,
     "wof:name":"Echteld",
     "wof:parent_id":101855347,
     "wof:placetype":"neighbourhood",

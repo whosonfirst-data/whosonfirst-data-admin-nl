@@ -29,23 +29,140 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Randstad"
+    ],
+    "name:als_x_preferred":[
+        "Randstad"
+    ],
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0646\u062f\u0633\u062a\u0627\u062f"
+    ],
+    "name:arz_x_preferred":[
+        "\u0631\u0627\u0646\u062f\u0633\u062a\u0627\u062f"
+    ],
+    "name:bre_x_preferred":[
+        "Randstad"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u043d\u0434\u0441\u0442\u0430\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Randstad"
+    ],
+    "name:ces_x_preferred":[
+        "Randstad"
+    ],
+    "name:cym_x_preferred":[
+        "Randstad"
+    ],
+    "name:dan_x_preferred":[
+        "Randstad"
+    ],
+    "name:deu_x_preferred":[
+        "Randstad"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03ac\u03bd\u03c4\u03c3\u03c4\u03b1\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Randstad"
     ],
+    "name:epo_x_preferred":[
+        "Randstad"
+    ],
+    "name:fin_x_preferred":[
+        "Randstad"
+    ],
+    "name:fra_x_preferred":[
+        "Randstad"
+    ],
+    "name:fry_x_preferred":[
+        "R\u00e2nest\u00ead"
+    ],
+    "name:gle_x_preferred":[
+        "Randstad"
+    ],
+    "name:glg_x_preferred":[
+        "Randstad"
+    ],
+    "name:hrv_x_preferred":[
+        "Randstad"
+    ],
+    "name:ind_x_preferred":[
+        "Randstad"
+    ],
+    "name:ita_x_preferred":[
+        "Randstad"
+    ],
+    "name:jav_x_preferred":[
+        "Randstad"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f3\u30c9\u30b9\u30bf\u30c3\u30c8"
+    ],
+    "name:krc_x_preferred":[
+        "\u0420\u0430\u043d\u0434\u0441\u0442\u0430\u0434"
+    ],
+    "name:lim_x_preferred":[
+        "Randstad"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u043d\u0434\u0441\u0442\u0430\u0434"
+    ],
     "name:nld_x_preferred":[
         "Randstad"
+    ],
+    "name:nor_x_preferred":[
+        "Randstad"
+    ],
+    "name:pol_x_preferred":[
+        "Randstad"
+    ],
+    "name:por_x_preferred":[
+        "Randstad"
+    ],
+    "name:ron_x_preferred":[
+        "Randstad"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043d\u0434\u0441\u0442\u0430\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Randstad"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u043d\u0434\u0441\u0442\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Randstad"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b87\u0bb0\u0bbe\u0ba9\u0bcd\u0b9f\u0bcd\u0b9a\u0bc1\u0b9f\u0bbe\u0b9f\u0bc1"
+    ],
+    "name:tur_x_preferred":[
+        "Randstad"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043d\u0434\u0441\u0442\u0430\u0434"
+    ],
+    "name:vie_x_preferred":[
+        "Randstad"
+    ],
+    "name:zho_x_preferred":[
+        "\u5170\u65af\u53f0\u5fb7"
     ],
     "reversegeo:latitude":52.37802,
     "reversegeo:longitude":5.226276,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         1158787353,
         85633337,
         1158787345,
-        136253051
+        136253051,
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +180,7 @@
         }
     ],
     "wof:id":1158786681,
-    "wof:lastmodified":1559596814,
+    "wof:lastmodified":1564236918,
     "wof:name":"Randstad",
     "wof:parent_id":1158787353,
     "wof:placetype":"neighbourhood",

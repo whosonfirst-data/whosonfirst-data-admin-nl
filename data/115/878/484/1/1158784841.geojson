@@ -29,23 +29,38 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:cat_x_preferred":[
+        "Zonnemaire"
+    ],
+    "name:deu_x_preferred":[
+        "Zonnemaire"
+    ],
     "name:eng_x_preferred":[
+        "Zonnemaire"
+    ],
+    "name:fra_x_preferred":[
         "Zonnemaire"
     ],
     "name:nld_x_preferred":[
         "Zonnemaire"
+    ],
+    "name:por_x_preferred":[
+        "Zonnemaire"
+    ],
+    "name:zea_x_preferred":[
+        "Sunnemaere"
     ],
     "reversegeo:latitude":51.712476,
     "reversegeo:longitude":3.95124,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474591,
         85633337,
         1158786525,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158784841,
-    "wof:lastmodified":1559595525,
+    "wof:lastmodified":1564236852,
     "wof:name":"Zonnemaire",
     "wof:parent_id":1158786525,
     "wof:placetype":"neighbourhood",

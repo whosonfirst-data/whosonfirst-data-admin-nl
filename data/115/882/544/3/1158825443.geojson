@@ -29,23 +29,35 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Westerkwartier"
+    ],
     "name:eng_x_preferred":[
         "Westerkwartier"
     ],
+    "name:epo_x_preferred":[
+        "Westerkwartier"
+    ],
+    "name:fry_x_preferred":[
+        "Westerkertier"
+    ],
     "name:nld_x_preferred":[
         "Westerkwartier"
+    ],
+    "name:stq_x_preferred":[
+        "W\u00e4\u00e4sterkertier"
     ],
     "reversegeo:latitude":52.005396,
     "reversegeo:longitude":4.353541,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158829565,
         85633337,
         101752765,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158825443,
-    "wof:lastmodified":1559596334,
+    "wof:lastmodified":1564236505,
     "wof:name":"Westerkwartier",
     "wof:parent_id":1158829565,
     "wof:placetype":"neighbourhood",

@@ -32,7 +32,16 @@
     "name:eng_x_preferred":[
         "Eppenhuizen"
     ],
+    "name:fra_x_preferred":[
+        "Eppenhuizen"
+    ],
+    "name:fry_x_preferred":[
+        "Eppenhuizen"
+    ],
     "name:nld_x_preferred":[
+        "Eppenhuizen"
+    ],
+    "name:pol_x_preferred":[
         "Eppenhuizen"
     ],
     "reversegeo:latitude":53.380196,
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404474561,
         85633337,
         1158796643,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158793469,
-    "wof:lastmodified":1559596349,
+    "wof:lastmodified":1564235891,
     "wof:name":"Eppenhuizen",
     "wof:parent_id":1158796643,
     "wof:placetype":"neighbourhood",

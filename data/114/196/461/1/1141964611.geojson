@@ -29,10 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:cat_x_preferred":[
+        "Warken"
+    ],
+    "name:ceb_x_preferred":[
+        "Warken"
+    ],
     "name:eng_x_preferred":[
         "Warken"
     ],
+    "name:fra_x_preferred":[
+        "Warken"
+    ],
+    "name:ltz_x_preferred":[
+        "Waarken"
+    ],
     "name:nld_x_preferred":[
+        "Warken"
+    ],
+    "name:pol_x_preferred":[
+        "Warken"
+    ],
+    "name:swe_x_preferred":[
         "Warken"
     ],
     "reversegeo:latitude":52.136934,
@@ -40,12 +58,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473961,
         85633337,
         101837819,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1141964611,
-    "wof:lastmodified":1559595769,
+    "wof:lastmodified":1564237568,
     "wof:name":"Warken",
     "wof:parent_id":101837819,
     "wof:placetype":"neighbourhood",

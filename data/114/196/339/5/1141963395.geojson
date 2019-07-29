@@ -29,24 +29,60 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ces_x_preferred":[
+        "Drift"
+    ],
+    "name:dan_x_preferred":[
+        "Drift"
+    ],
+    "name:deu_x_preferred":[
+        "Drift"
+    ],
     "name:eng_x_preferred":[
         "Drift"
     ],
+    "name:ita_x_preferred":[
+        "Drift"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30ea\u30d5\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub4dc\ub9ac\ud504\ud2b8"
+    ],
     "name:nld_x_preferred":[
         "Drift"
+    ],
+    "name:pol_x_preferred":[
+        "Dryf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0435\u0439\u0444"
+    ],
+    "name:slk_x_preferred":[
+        "Drift"
+    ],
+    "name:swe_x_preferred":[
+        "Drift"
+    ],
+    "name:tur_x_preferred":[
+        "Drift"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0435\u0439\u0444"
     ],
     "reversegeo:latitude":52.337616,
     "reversegeo:longitude":5.610708,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158784033,
         404473907,
         85633337,
         101837769,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +101,7 @@
         }
     ],
     "wof:id":1141963395,
-    "wof:lastmodified":1559596912,
+    "wof:lastmodified":1564237321,
     "wof:name":"Drift",
     "wof:parent_id":1158784033,
     "wof:placetype":"neighbourhood",

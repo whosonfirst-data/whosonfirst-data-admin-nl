@@ -29,10 +29,49 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:cat_x_preferred":[
+        "Loenen"
+    ],
     "name:eng_x_preferred":[
         "Loenen"
     ],
+    "name:epo_x_preferred":[
+        "Loenen"
+    ],
+    "name:eus_x_preferred":[
+        "Loenen"
+    ],
+    "name:fra_x_preferred":[
+        "Loenen"
+    ],
+    "name:fry_x_preferred":[
+        "Loenen"
+    ],
+    "name:ind_x_preferred":[
+        "Loenen"
+    ],
+    "name:ita_x_preferred":[
+        "Loenen"
+    ],
+    "name:lim_x_preferred":[
+        "Loenen"
+    ],
+    "name:msa_x_preferred":[
+        "Loenen"
+    ],
     "name:nld_x_preferred":[
+        "Loenen"
+    ],
+    "name:ron_x_preferred":[
+        "Loenen"
+    ],
+    "name:sqi_x_preferred":[
+        "Loenen"
+    ],
+    "name:swe_x_preferred":[
+        "Loenen"
+    ],
+    "name:war_x_preferred":[
         "Loenen"
     ],
     "reversegeo:latitude":52.114591,
@@ -40,12 +79,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473867,
         85633337,
         101807067,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +102,7 @@
         }
     ],
     "wof:id":1141962085,
-    "wof:lastmodified":1559596000,
+    "wof:lastmodified":1564237567,
     "wof:name":"Loenen",
     "wof:parent_id":101807067,
     "wof:placetype":"neighbourhood",

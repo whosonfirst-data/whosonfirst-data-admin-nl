@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Westerlee"
     ],
+    "name:fra_x_preferred":[
+        "Westerlee"
+    ],
     "name:nld_x_preferred":[
         "Westerlee"
     ],
@@ -40,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         1158792361,
         85633337,
         101807533,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1158793625,
-    "wof:lastmodified":1559596365,
+    "wof:lastmodified":1564235723,
     "wof:name":"Westerlee",
     "wof:parent_id":101807533,
     "wof:placetype":"neighbourhood",

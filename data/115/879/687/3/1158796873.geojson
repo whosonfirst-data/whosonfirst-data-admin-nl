@@ -29,6 +29,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ces_x_preferred":[
+        "Batadorp"
+    ],
     "name:eng_x_preferred":[
         "Batadorp"
     ],
@@ -40,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474353,
         85633337,
         101754563,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1158796873,
-    "wof:lastmodified":1559596604,
+    "wof:lastmodified":1564235819,
     "wof:name":"Batadorp",
     "wof:parent_id":101754563,
     "wof:placetype":"neighbourhood",

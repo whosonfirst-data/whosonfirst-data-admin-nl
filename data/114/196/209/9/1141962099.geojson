@@ -29,7 +29,19 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Lieren"
+    ],
+    "name:ceb_x_preferred":[
+        "Lieren"
+    ],
     "name:eng_x_preferred":[
+        "Lieren"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0631\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Lieren"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473867,
         85633337,
         1158783731,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1141962099,
-    "wof:lastmodified":1559596071,
+    "wof:lastmodified":1564237540,
     "wof:name":"Lieren",
     "wof:parent_id":1158783731,
     "wof:placetype":"neighbourhood",

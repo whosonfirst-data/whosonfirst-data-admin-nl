@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Huijbergen"
+    ],
     "name:eng_x_preferred":[
         "Huijbergen"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u06cc\u200c\u0628\u0631\u062e\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Huijbergen"
+    ],
+    "name:ita_x_preferred":[
+        "Huijbergen"
+    ],
     "name:nld_x_preferred":[
+        "Huijbergen"
+    ],
+    "name:zea_x_preferred":[
         "Huijbergen"
     ],
     "reversegeo:latitude":51.432469,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474455,
         85633337,
         101809725,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158799609,
-    "wof:lastmodified":1559596485,
+    "wof:lastmodified":1564236006,
     "wof:name":"Huijbergen",
     "wof:parent_id":101809725,
     "wof:placetype":"neighbourhood",

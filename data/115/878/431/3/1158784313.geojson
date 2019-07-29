@@ -29,11 +29,20 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Sint Jansteen"
+    ],
     "name:eng_x_preferred":[
         "Sint Jansteen"
     ],
     "name:eng_x_variant":[
         "Kern Sint Jansteen"
+    ],
+    "name:fra_x_preferred":[
+        "Sint Jansteen"
+    ],
+    "name:fry_x_preferred":[
+        "Sint Jansteen"
     ],
     "name:nld_x_preferred":[
         "Sint Jansteen"
@@ -41,17 +50,20 @@
     "name:nld_x_variant":[
         "Kern Sint Jansteen"
     ],
+    "name:por_x_preferred":[
+        "Sint Jansteen"
+    ],
     "reversegeo:latitude":51.26224,
     "reversegeo:longitude":4.050705,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474307,
         85633337,
         101839439,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":1158784313,
-    "wof:lastmodified":1559596211,
+    "wof:lastmodified":1564236902,
     "wof:name":"Sint Jansteen",
     "wof:parent_id":101839439,
     "wof:placetype":"neighbourhood",

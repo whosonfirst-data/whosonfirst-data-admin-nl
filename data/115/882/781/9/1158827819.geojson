@@ -29,23 +29,32 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Rietveld"
+    ],
     "name:eng_x_preferred":[
+        "Rietveld"
+    ],
+    "name:fra_x_preferred":[
         "Rietveld"
     ],
     "name:nld_x_preferred":[
         "Rietveld"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0442\u0432\u0435\u043b\u044c\u0434"
     ],
     "reversegeo:latitude":51.868254,
     "reversegeo:longitude":5.01217,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474315,
         85633337,
         101837683,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158827819,
-    "wof:lastmodified":1559596642,
+    "wof:lastmodified":1564236741,
     "wof:name":"Rietveld",
     "wof:parent_id":101837683,
     "wof:placetype":"neighbourhood",

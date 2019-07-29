@@ -29,8 +29,26 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Kroon"
+    ],
+    "name:deu_x_preferred":[
+        "Kroon"
+    ],
     "name:eng_x_preferred":[
         "Kroon"
+    ],
+    "name:est_x_preferred":[
+        "Kroon"
+    ],
+    "name:fra_x_preferred":[
+        "Kroon"
+    ],
+    "name:ita_x_preferred":[
+        "Kroon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30eb\u30fc\u30f3"
     ],
     "name:nld_x_preferred":[
         "Kroon"
@@ -40,13 +58,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801697,
         404474389,
         85633337,
         101751805,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +83,7 @@
         }
     ],
     "wof:id":1158797867,
-    "wof:lastmodified":1559596693,
+    "wof:lastmodified":1564236187,
     "wof:name":"Kroon",
     "wof:parent_id":1158801697,
     "wof:placetype":"neighbourhood",

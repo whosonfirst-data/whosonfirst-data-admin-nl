@@ -29,10 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Megen"
+    ],
+    "name:deu_x_preferred":[
+        "Megen"
+    ],
     "name:eng_x_preferred":[
         "Megen"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u062e\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Megen"
+    ],
+    "name:ita_x_preferred":[
+        "Megen"
+    ],
     "name:nld_x_preferred":[
+        "Megen"
+    ],
+    "name:pol_x_preferred":[
         "Megen"
     ],
     "reversegeo:latitude":51.821394,
@@ -40,12 +58,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474415,
         85633337,
         101808197,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158798715,
-    "wof:lastmodified":1559596710,
+    "wof:lastmodified":1564236077,
     "wof:name":"Megen",
     "wof:parent_id":101808197,
     "wof:placetype":"neighbourhood",

@@ -29,23 +29,41 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Scharendijke"
+    ],
+    "name:deu_x_preferred":[
+        "Scharendijke"
+    ],
     "name:eng_x_preferred":[
+        "Scharendijke"
+    ],
+    "name:fra_x_preferred":[
         "Scharendijke"
     ],
     "name:nld_x_preferred":[
         "Scharendijke"
+    ],
+    "name:por_x_preferred":[
+        "Scharendijke"
+    ],
+    "name:spa_x_preferred":[
+        "Scharendijke"
+    ],
+    "name:zea_x_preferred":[
+        "Schaerendieke"
     ],
     "reversegeo:latitude":51.734458,
     "reversegeo:longitude":3.844242,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474591,
         85633337,
         101808393,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158784879,
-    "wof:lastmodified":1559595530,
+    "wof:lastmodified":1564237035,
     "wof:name":"Scharendijke",
     "wof:parent_id":101808393,
     "wof:placetype":"neighbourhood",

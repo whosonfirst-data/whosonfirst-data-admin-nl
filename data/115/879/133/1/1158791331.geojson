@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Westdorp"
+    ],
     "name:eng_x_preferred":[
         "Westdorp"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0633\u062a\u200c\u062f\u0648\u0631\u067e"
+    ],
+    "name:fra_x_preferred":[
+        "Westdorp"
+    ],
     "name:nld_x_preferred":[
+        "Westdorp"
+    ],
+    "name:pol_x_preferred":[
+        "Westdorp"
+    ],
+    "name:por_x_preferred":[
         "Westdorp"
     ],
     "reversegeo:latitude":52.905065,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474595,
         85633337,
         1158792083,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158791331,
-    "wof:lastmodified":1559596050,
+    "wof:lastmodified":1564235750,
     "wof:name":"Westdorp",
     "wof:parent_id":1158792083,
     "wof:placetype":"neighbourhood",

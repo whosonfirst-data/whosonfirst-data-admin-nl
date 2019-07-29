@@ -29,23 +29,56 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Aagtekerke"
+    ],
+    "name:deu_x_preferred":[
+        "Aagtekerke"
+    ],
     "name:eng_x_preferred":[
+        "Aagtekerke"
+    ],
+    "name:eus_x_preferred":[
+        "Aagtekerke"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0627\u06af\u062a\u06a9\u0631\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Aagtekerke"
+    ],
+    "name:ita_x_preferred":[
         "Aagtekerke"
     ],
     "name:nld_x_preferred":[
         "Aagtekerke"
+    ],
+    "name:por_x_preferred":[
+        "Aagtekerke"
+    ],
+    "name:spa_x_preferred":[
+        "Aagtekerke"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u06af\u0679\u06cc\u06a9\u0631\u06a9\u06d2"
+    ],
+    "name:vls_x_preferred":[
+        "Oagtekerke"
+    ],
+    "name:zea_x_preferred":[
+        "Aegte"
     ],
     "reversegeo:latitude":51.547132,
     "reversegeo:longitude":3.510202,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474333,
         85633337,
         101808345,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +96,7 @@
         }
     ],
     "wof:id":1158784679,
-    "wof:lastmodified":1559596205,
+    "wof:lastmodified":1564237054,
     "wof:name":"Aagtekerke",
     "wof:parent_id":101808345,
     "wof:placetype":"neighbourhood",

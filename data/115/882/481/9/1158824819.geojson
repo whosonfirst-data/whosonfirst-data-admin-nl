@@ -29,7 +29,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Gnephoek"
+    ],
     "name:eng_x_preferred":[
+        "Gnephoek"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0646\u067e\u200c\u0647\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
         "Gnephoek"
     ],
     "name:nld_x_preferred":[
@@ -40,13 +49,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831205,
         404474147,
         85633337,
         101751837,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1158824819,
-    "wof:lastmodified":1559596922,
+    "wof:lastmodified":1564236610,
     "wof:name":"Gnephoek",
     "wof:parent_id":1158831205,
     "wof:placetype":"neighbourhood",

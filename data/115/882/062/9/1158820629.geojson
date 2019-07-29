@@ -32,7 +32,13 @@
     "name:eng_x_preferred":[
         "Hofgeest"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0641\u200c\u062e\u06cc\u0633\u062a"
+    ],
     "name:nld_x_preferred":[
+        "Hofgeest"
+    ],
+    "name:por_x_preferred":[
         "Hofgeest"
     ],
     "reversegeo:latitude":52.441268,
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474123,
         85633337,
         1158822925,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158820629,
-    "wof:lastmodified":1559596240,
+    "wof:lastmodified":1564236424,
     "wof:name":"Hofgeest",
     "wof:parent_id":1158822925,
     "wof:placetype":"neighbourhood",

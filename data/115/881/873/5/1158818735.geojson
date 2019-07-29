@@ -29,23 +29,38 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Overveen"
+    ],
     "name:eng_x_preferred":[
+        "Overveen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0641\u0631\u0641\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Overveen"
+    ],
+    "name:fry_x_preferred":[
         "Overveen"
     ],
     "name:nld_x_preferred":[
         "Overveen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0432\u0435\u0440\u0432\u0435\u043d"
     ],
     "reversegeo:latitude":52.392274,
     "reversegeo:longitude":4.613814,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474047,
         85633337,
         101754875,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158818735,
-    "wof:lastmodified":1559595872,
+    "wof:lastmodified":1564235579,
     "wof:name":"Overveen",
     "wof:parent_id":101754875,
     "wof:placetype":"neighbourhood",

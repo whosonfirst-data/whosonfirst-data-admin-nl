@@ -29,11 +29,26 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Hoek"
+    ],
+    "name:deu_x_preferred":[
+        "Hoek"
+    ],
     "name:eng_x_preferred":[
         "Hoek"
     ],
     "name:eng_x_variant":[
         "Kern Hoek"
+    ],
+    "name:eus_x_preferred":[
+        "Hoek"
+    ],
+    "name:fra_x_preferred":[
+        "Hoek"
+    ],
+    "name:fry_x_preferred":[
+        "Hoek"
     ],
     "name:nld_x_preferred":[
         "Hoek"
@@ -41,17 +56,20 @@
     "name:nld_x_variant":[
         "Kern Hoek"
     ],
+    "name:spa_x_preferred":[
+        "Hoek"
+    ],
     "reversegeo:latitude":51.312146,
     "reversegeo:longitude":3.778648,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474329,
         85633337,
         101809803,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -69,7 +87,7 @@
         }
     ],
     "wof:id":1158784559,
-    "wof:lastmodified":1559596120,
+    "wof:lastmodified":1564236897,
     "wof:name":"Hoek",
     "wof:parent_id":101809803,
     "wof:placetype":"neighbourhood",

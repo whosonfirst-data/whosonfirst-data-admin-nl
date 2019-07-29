@@ -29,10 +29,46 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u064a\u0641\u064a\u0644\u064a\u0646\u062c\u0646"
+    ],
+    "name:chv_x_preferred":[
+        "\u0413\u0440\u0435\u0432\u0435\u043b\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Grevelingen"
+    ],
     "name:eng_x_preferred":[
         "Grevelingen"
     ],
+    "name:fra_x_preferred":[
+        "Grevelingenmeer"
+    ],
+    "name:fry_x_preferred":[
+        "Grevelingenmar"
+    ],
+    "name:ita_x_preferred":[
+        "Grevelingenmeer"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e0\u10d4\u10d5\u10d4\u10da\u10d8\u10dc\u10d2\u10d4\u10dc\u10d8"
+    ],
     "name:nld_x_preferred":[
+        "Grevelingen"
+    ],
+    "name:nld_x_variant":[
+        "Grevelingenmeer"
+    ],
+    "name:nno_x_preferred":[
+        "Grevelingen"
+    ],
+    "name:nor_x_preferred":[
+        "Grevelingenmeer"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0435\u0432\u0435\u043b\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:zea_x_preferred":[
         "Grevelingen"
     ],
     "reversegeo:latitude":51.690006,
@@ -40,13 +76,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801677,
         404474393,
         85633337,
         101751809,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +101,7 @@
         }
     ],
     "wof:id":1158797963,
-    "wof:lastmodified":1559595733,
+    "wof:lastmodified":1564235755,
     "wof:name":"Grevelingen",
     "wof:parent_id":1158801677,
     "wof:placetype":"neighbourhood",

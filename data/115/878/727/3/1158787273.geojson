@@ -32,6 +32,12 @@
     "name:eng_x_preferred":[
         "Grietenij"
     ],
+    "name:fry_x_preferred":[
+        "Gritenij"
+    ],
+    "name:lim_x_preferred":[
+        "Grietenij"
+    ],
     "name:nld_x_preferred":[
         "Grietenij"
     ],
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         1158787407,
         85633337,
         101751873,
-        136253051
+        136253051,
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158787273,
-    "wof:lastmodified":1559596944,
+    "wof:lastmodified":1564237131,
     "wof:name":"Grietenij",
     "wof:parent_id":1158787407,
     "wof:placetype":"neighbourhood",

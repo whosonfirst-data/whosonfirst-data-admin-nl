@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:bre_x_preferred":[
+        "Kalenberg"
+    ],
+    "name:ceb_x_preferred":[
+        "Kalenberg"
+    ],
+    "name:deu_x_preferred":[
+        "Kalenberg"
+    ],
     "name:eng_x_preferred":[
         "Kalenberg"
     ],
+    "name:fra_x_preferred":[
+        "Kalenberg"
+    ],
     "name:nld_x_preferred":[
+        "Kalenberg"
+    ],
+    "name:swe_x_preferred":[
         "Kalenberg"
     ],
     "reversegeo:latitude":52.776144,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404474621,
         85633337,
         1158805721,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158803737,
-    "wof:lastmodified":1559597097,
+    "wof:lastmodified":1564235511,
     "wof:name":"Kalenberg",
     "wof:parent_id":1158805721,
     "wof:placetype":"neighbourhood",

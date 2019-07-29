@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Oukoop"
     ],
+    "name:fra_x_preferred":[
+        "Oukoop"
+    ],
     "name:nld_x_preferred":[
         "Oukoop"
     ],
@@ -40,13 +43,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831331,
         1158824739,
         85633337,
         101754735,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1158828491,
-    "wof:lastmodified":1559596985,
+    "wof:lastmodified":1564236622,
     "wof:name":"Oukoop",
     "wof:parent_id":1158831331,
     "wof:placetype":"neighbourhood",

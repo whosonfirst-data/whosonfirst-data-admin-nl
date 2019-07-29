@@ -29,24 +29,30 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "De Noord"
+    ],
     "name:eng_x_preferred":[
         "De Noord"
     ],
     "name:nld_x_preferred":[
         "De Noord"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bbf \u0ba8\u0bc2\u0bb0\u0bcd\u0b9f\u0bcd"
+    ],
     "reversegeo:latitude":51.780942,
     "reversegeo:longitude":5.511393,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801747,
         404474415,
         85633337,
         101751807,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1158798613,
-    "wof:lastmodified":1559596675,
+    "wof:lastmodified":1564235844,
     "wof:name":"De Noord",
     "wof:parent_id":1158801747,
     "wof:placetype":"neighbourhood",

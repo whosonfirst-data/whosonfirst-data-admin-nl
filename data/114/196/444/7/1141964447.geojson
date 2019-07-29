@@ -29,10 +29,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "De Rietschoof"
+    ],
     "name:eng_x_preferred":[
         "De Rietschoof"
     ],
     "name:nld_x_preferred":[
+        "De Rietschoof"
+    ],
+    "name:por_x_preferred":[
         "De Rietschoof"
     ],
     "reversegeo:latitude":51.772465,
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473955,
         85633337,
         101837735,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1141964447,
-    "wof:lastmodified":1559596352,
+    "wof:lastmodified":1564237501,
     "wof:name":"De Rietschoof",
     "wof:parent_id":101837735,
     "wof:placetype":"neighbourhood",

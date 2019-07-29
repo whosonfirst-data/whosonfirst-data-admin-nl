@@ -29,7 +29,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Noordbeemster"
+    ],
     "name:eng_x_preferred":[
+        "Noordbeemster"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631\u062f\u0628\u06cc\u0645\u0633\u062a\u0631"
+    ],
+    "name:fra_x_preferred":[
         "Noordbeemster"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474039,
         85633337,
         1158822797,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158818547,
-    "wof:lastmodified":1559595863,
+    "wof:lastmodified":1564235666,
     "wof:name":"Noordbeemster",
     "wof:parent_id":1158822797,
     "wof:placetype":"neighbourhood",

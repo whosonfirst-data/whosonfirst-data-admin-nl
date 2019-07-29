@@ -29,10 +29,31 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Tollebeek"
+    ],
     "name:eng_x_preferred":[
         "Tollebeek"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0644\u0647\u200c\u0628\u06cc\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Tollebeek"
+    ],
+    "name:fra_x_preferred":[
+        "Tollebeek"
+    ],
     "name:nld_x_preferred":[
+        "Tollebeek"
+    ],
+    "name:pol_x_preferred":[
+        "Tollebeek"
+    ],
+    "name:vls_x_preferred":[
+        "Tollebeek"
+    ],
+    "name:zea_x_preferred":[
         "Tollebeek"
     ],
     "reversegeo:latitude":52.677859,
@@ -40,12 +61,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         404473843,
         85633337,
         101807243,
-        136253051
+        136253051,
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1158786871,
-    "wof:lastmodified":1559596925,
+    "wof:lastmodified":1564236863,
     "wof:name":"Tollebeek",
     "wof:parent_id":101807243,
     "wof:placetype":"neighbourhood",

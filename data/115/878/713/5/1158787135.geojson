@@ -29,6 +29,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Schoener"
+    ],
     "name:eng_x_preferred":[
         "Schoener"
     ],
@@ -40,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         1158787403,
         85633337,
         101751873,
-        136253051
+        136253051,
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1158787135,
-    "wof:lastmodified":1559596956,
+    "wof:lastmodified":1564236931,
     "wof:name":"Schoener",
     "wof:parent_id":1158787403,
     "wof:placetype":"neighbourhood",

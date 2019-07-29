@@ -29,23 +29,56 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0622\u064a \u0645\u064a\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "IJmeer"
+    ],
+    "name:deu_x_preferred":[
+        "IJmeer"
+    ],
     "name:eng_x_preferred":[
+        "IJmeer"
+    ],
+    "name:fra_x_preferred":[
+        "IJmeer"
+    ],
+    "name:fry_x_preferred":[
+        "IJmar"
+    ],
+    "name:ita_x_preferred":[
+        "IJmeer"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a4\u6e56"
+    ],
+    "name:msa_x_preferred":[
         "IJmeer"
     ],
     "name:nld_x_preferred":[
         "IJmeer"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0439\u043c\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "IJmeer"
+    ],
+    "name:vls_x_preferred":[
+        "Eymeer"
     ],
     "reversegeo:latitude":52.344984,
     "reversegeo:longitude":5.1067,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158818281,
         85633337,
         101807371,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +96,7 @@
         }
     ],
     "wof:id":1158821257,
-    "wof:lastmodified":1559595493,
+    "wof:lastmodified":1564236759,
     "wof:name":"IJmeer",
     "wof:parent_id":101807371,
     "wof:placetype":"neighbourhood",

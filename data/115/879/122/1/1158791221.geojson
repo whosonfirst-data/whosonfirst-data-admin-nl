@@ -29,10 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Gasteren"
+    ],
     "name:eng_x_preferred":[
         "Gasteren"
     ],
+    "name:epo_x_preferred":[
+        "Gasteren"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0633\u062a\u0631\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Gasteren"
+    ],
     "name:nld_x_preferred":[
+        "Gasteren"
+    ],
+    "name:pol_x_preferred":[
+        "Gasteren"
+    ],
+    "name:por_x_preferred":[
         "Gasteren"
     ],
     "reversegeo:latitude":53.035836,
@@ -40,12 +58,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474593,
         85633337,
         1158792055,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158791221,
-    "wof:lastmodified":1559595474,
+    "wof:lastmodified":1564236220,
     "wof:name":"Gasteren",
     "wof:parent_id":1158792055,
     "wof:placetype":"neighbourhood",

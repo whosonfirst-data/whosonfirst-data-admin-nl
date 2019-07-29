@@ -29,11 +29,20 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Noord"
+    ],
     "name:eng_x_preferred":[
         "Noord"
     ],
     "name:eng_x_variant":[
         "Lochem-Noord"
+    ],
+    "name:epo_x_preferred":[
+        "Noord"
+    ],
+    "name:fra_x_preferred":[
+        "Noord"
     ],
     "name:nld_x_preferred":[
         "Noord"
@@ -41,17 +50,29 @@
     "name:nld_x_variant":[
         "Lochem-Noord"
     ],
+    "name:pol_x_preferred":[
+        "Noord"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u043e\u0440\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Noord"
+    ],
+    "name:swe_x_preferred":[
+        "Noord"
+    ],
     "reversegeo:latitude":52.166321,
     "reversegeo:longitude":6.405653,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473915,
         85633337,
         101807065,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -69,7 +90,7 @@
         }
     ],
     "wof:id":1141963589,
-    "wof:lastmodified":1559597093,
+    "wof:lastmodified":1564237481,
     "wof:name":"Noord",
     "wof:parent_id":101807065,
     "wof:placetype":"neighbourhood",

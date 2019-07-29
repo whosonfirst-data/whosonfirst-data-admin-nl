@@ -29,10 +29,142 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u0648\u064a\u0629 \u0645\u062d\u0635\u0646\u0629"
+    ],
+    "name:ast_x_preferred":[
+        "Basti\u00f3n"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0441\u0442\u044b\u0451\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0441\u0442\u0438\u043e\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Baluard"
+    ],
+    "name:ces_x_preferred":[
+        "Bastion"
+    ],
+    "name:dan_x_preferred":[
+        "Bastion"
+    ],
+    "name:deu_x_preferred":[
+        "Bastion"
+    ],
     "name:eng_x_preferred":[
         "Bastion"
     ],
+    "name:epo_x_preferred":[
+        "Bastiono"
+    ],
+    "name:est_x_preferred":[
+        "Bastion"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u0646\u200c\u067e\u0646\u0627\u0647 \u062f\u0698"
+    ],
+    "name:fra_x_preferred":[
+        "Bastion"
+    ],
+    "name:glg_x_preferred":[
+        "Baluarte"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e1\u05d8\u05d9\u05d5\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Bastion"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e1stya"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u057d\u057f\u056b\u0578\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Bastiono"
+    ],
+    "name:ind_x_preferred":[
+        "Selekoh"
+    ],
+    "name:ita_x_preferred":[
+        "Baluardo"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cca\u0ca4\u0ccd\u0ca4\u0cb3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e1\u10e2\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\ub8e8"
+    ],
+    "name:lat_x_preferred":[
+        "Pugnaculum"
+    ],
+    "name:lav_x_preferred":[
+        "Bastions"
+    ],
+    "name:lit_x_preferred":[
+        "Bastionas"
+    ],
+    "name:ltz_x_preferred":[
+        "Bastioun"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0441\u0442\u0438\u043e\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Katelum"
+    ],
     "name:nld_x_preferred":[
+        "Bastion"
+    ],
+    "name:nor_x_preferred":[
+        "Bastion"
+    ],
+    "name:pol_x_preferred":[
+        "Bastion"
+    ],
+    "name:por_x_preferred":[
+        "Baluarte"
+    ],
+    "name:ron_x_preferred":[
+        "Bastion"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0441\u0442\u0438\u043e\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Basti\u00f3n"
+    ],
+    "name:slv_x_preferred":[
+        "Bastijon"
+    ],
+    "name:spa_x_preferred":[
+        "Baluarte"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0441\u0442\u0438\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Bastion"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bca\u0ba4\u0bcd\u0ba4\u0bb3\u0bae\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e38\u0e02\u0e1b\u0e49\u0e2d\u0e21"
+    ],
+    "name:tur_x_preferred":[
+        "Kale burcu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0441\u0442\u0456\u043e\u043d"
+    ],
+    "name:uzb_x_preferred":[
         "Bastion"
     ],
     "reversegeo:latitude":52.519705,
@@ -40,12 +172,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         1158787367,
         85633337,
         101751873,
-        136253051
+        136253051,
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +195,7 @@
         }
     ],
     "wof:id":1158787059,
-    "wof:lastmodified":1559596953,
+    "wof:lastmodified":1564236956,
     "wof:name":"Bastion",
     "wof:parent_id":1158787367,
     "wof:placetype":"neighbourhood",

@@ -32,7 +32,19 @@
     "name:eng_x_preferred":[
         "Martenshoek"
     ],
+    "name:epo_x_preferred":[
+        "Martenshoek"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u062a\u0646\u0633\u200c\u0647\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Martenshoek"
+    ],
     "name:nld_x_preferred":[
+        "Martenshoek"
+    ],
+    "name:pol_x_preferred":[
         "Martenshoek"
     ],
     "reversegeo:latitude":53.162637,
@@ -40,13 +52,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         1158794575,
         404473719,
         85633337,
         101837993,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +77,7 @@
         }
     ],
     "wof:id":1158792835,
-    "wof:lastmodified":1559597034,
+    "wof:lastmodified":1564236046,
     "wof:name":"Martenshoek",
     "wof:parent_id":1158794575,
     "wof:placetype":"neighbourhood",

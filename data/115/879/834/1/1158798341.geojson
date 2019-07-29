@@ -32,7 +32,13 @@
     "name:eng_x_preferred":[
         "Sint Hubert"
     ],
+    "name:fra_x_preferred":[
+        "Sint Hubert"
+    ],
     "name:nld_x_preferred":[
+        "Sint Hubert"
+    ],
+    "name:vol_x_preferred":[
         "Sint Hubert"
     ],
     "reversegeo:latitude":51.676743,
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474403,
         85633337,
         101808293,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158798341,
-    "wof:lastmodified":1559597006,
+    "wof:lastmodified":1564235885,
     "wof:name":"Sint Hubert",
     "wof:parent_id":101808293,
     "wof:placetype":"neighbourhood",

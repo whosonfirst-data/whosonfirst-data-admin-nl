@@ -29,6 +29,12 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Haarlhout"
+    ],
+    "name:deu_x_preferred":[
+        "Haarlemmerhout"
+    ],
     "name:eng_x_preferred":[
         "Haarlemmerhout"
     ],
@@ -40,13 +46,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823163,
         404474061,
         85633337,
         101751897,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1158818973,
-    "wof:lastmodified":1559595995,
+    "wof:lastmodified":1564235673,
     "wof:name":"Haarlemmerhout",
     "wof:parent_id":1158823163,
     "wof:placetype":"neighbourhood",

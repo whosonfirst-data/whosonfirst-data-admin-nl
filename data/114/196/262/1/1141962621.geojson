@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Erichem"
+    ],
+    "name:ceb_x_preferred":[
+        "Erichem"
+    ],
     "name:eng_x_preferred":[
         "Erichem"
     ],
+    "name:fra_x_preferred":[
+        "Erichem"
+    ],
     "name:nld_x_preferred":[
+        "Erichem"
+    ],
+    "name:por_x_preferred":[
         "Erichem"
     ],
     "reversegeo:latitude":51.899322,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473879,
         85633337,
         1158783555,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1141962621,
-    "wof:lastmodified":1559596792,
+    "wof:lastmodified":1564237556,
     "wof:name":"Erichem",
     "wof:parent_id":1158783555,
     "wof:placetype":"neighbourhood",

@@ -29,7 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Werkhoven"
+    ],
     "name:eng_x_preferred":[
+        "Werkhoven"
+    ],
+    "name:fra_x_preferred":[
+        "Werkhoven"
+    ],
+    "name:fry_x_preferred":[
+        "Werkhoven"
+    ],
+    "name:ita_x_preferred":[
+        "Werkhoven"
+    ],
+    "name:lim_x_preferred":[
         "Werkhoven"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404473981,
         85633337,
         101808431,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158787941,
-    "wof:lastmodified":1559596268,
+    "wof:lastmodified":1564236970,
     "wof:name":"Werkhoven",
     "wof:parent_id":101808431,
     "wof:placetype":"neighbourhood",

@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Midlaren"
+    ],
     "name:eng_x_preferred":[
         "Midlaren"
     ],
+    "name:epo_x_preferred":[
+        "Midlaren"
+    ],
+    "name:fra_x_preferred":[
+        "Midlaren"
+    ],
     "name:nld_x_preferred":[
+        "Midlaren"
+    ],
+    "name:pol_x_preferred":[
+        "Midlaren"
+    ],
+    "name:por_x_preferred":[
         "Midlaren"
     ],
     "reversegeo:latitude":53.111145,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474647,
         85633337,
         1158792189,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158791711,
-    "wof:lastmodified":1559596862,
+    "wof:lastmodified":1564236243,
     "wof:name":"Midlaren",
     "wof:parent_id":1158792189,
     "wof:placetype":"neighbourhood",

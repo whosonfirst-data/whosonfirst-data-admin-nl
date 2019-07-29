@@ -29,7 +29,13 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Middenmeer"
+    ],
     "name:eng_x_preferred":[
+        "Middenmeer"
+    ],
+    "name:fra_x_preferred":[
         "Middenmeer"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158818287,
         85633337,
         101807367,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158821133,
-    "wof:lastmodified":1559596165,
+    "wof:lastmodified":1564236773,
     "wof:name":"Middenmeer",
     "wof:parent_id":101807367,
     "wof:placetype":"neighbourhood",

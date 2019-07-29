@@ -29,23 +29,41 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Kattendijke"
+    ],
+    "name:deu_x_preferred":[
+        "Kattendijke"
+    ],
     "name:eng_x_preferred":[
+        "Kattendijke"
+    ],
+    "name:fra_x_preferred":[
+        "Kattendijke"
+    ],
+    "name:fry_x_preferred":[
         "Kattendijke"
     ],
     "name:nld_x_preferred":[
         "Kattendijke"
+    ],
+    "name:spa_x_preferred":[
+        "Kattendijke"
+    ],
+    "name:zea_x_preferred":[
+        "Kattendieke"
     ],
     "reversegeo:latitude":51.522864,
     "reversegeo:longitude":3.945142,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474303,
         85633337,
         1158786491,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158784261,
-    "wof:lastmodified":1559596236,
+    "wof:lastmodified":1564236998,
     "wof:name":"Kattendijke",
     "wof:parent_id":1158786491,
     "wof:placetype":"neighbourhood",

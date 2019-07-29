@@ -29,10 +29,52 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:als_x_preferred":[
+        "Linde"
+    ],
+    "name:ceb_x_preferred":[
+        "Linde"
+    ],
+    "name:ces_x_preferred":[
+        "Linde"
+    ],
+    "name:dan_x_preferred":[
+        "Linde"
+    ],
+    "name:deu_x_preferred":[
+        "Linde"
+    ],
     "name:eng_x_preferred":[
         "Linde"
     ],
+    "name:epo_x_preferred":[
+        "Linde"
+    ],
+    "name:fra_x_preferred":[
+        "Linde"
+    ],
+    "name:ita_x_preferred":[
+        "Linde"
+    ],
     "name:nld_x_preferred":[
+        "Linde"
+    ],
+    "name:pol_x_preferred":[
+        "Linde"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043d\u0434\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Linde"
+    ],
+    "name:swe_x_preferred":[
+        "Linde"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043d\u0434\u0435"
+    ],
+    "name:vls_x_preferred":[
         "Linde"
     ],
     "reversegeo:latitude":52.448038,
@@ -40,12 +82,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404474611,
         85633337,
         101807205,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +105,7 @@
         }
     ],
     "wof:id":1158803637,
-    "wof:lastmodified":1559595588,
+    "wof:lastmodified":1564235184,
     "wof:name":"Linde",
     "wof:parent_id":101807205,
     "wof:placetype":"neighbourhood",

@@ -29,10 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Mensingeweer"
+    ],
     "name:eng_x_preferred":[
         "Mensingeweer"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0633\u06cc\u0646\u06af\u0647\u200c\u0648\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Mensingeweer"
+    ],
+    "name:fry_x_preferred":[
+        "Mensingeweer"
+    ],
+    "name:lim_x_preferred":[
+        "Mensingewae\u00ebrd"
+    ],
     "name:nld_x_preferred":[
+        "Mensingeweer"
+    ],
+    "name:pol_x_preferred":[
         "Mensingeweer"
     ],
     "reversegeo:latitude":53.351773,
@@ -40,12 +58,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404474575,
         85633337,
         1158796591,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158793513,
-    "wof:lastmodified":1559596362,
+    "wof:lastmodified":1564236008,
     "wof:name":"Mensingeweer",
     "wof:parent_id":1158796591,
     "wof:placetype":"neighbourhood",

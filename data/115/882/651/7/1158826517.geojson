@@ -29,22 +29,49 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Vrouwepolder"
+    ],
+    "name:deu_x_preferred":[
+        "Vrouwenpolder"
+    ],
     "name:eng_x_preferred":[
+        "Vrouwenpolder"
+    ],
+    "name:eus_x_preferred":[
+        "Vrouwenpolder"
+    ],
+    "name:fra_x_preferred":[
         "Vrouwenpolder"
     ],
     "name:nld_x_preferred":[
         "Vrouwenpolder"
+    ],
+    "name:por_x_preferred":[
+        "Vrouwenpolder"
+    ],
+    "name:spa_x_preferred":[
+        "Vrouwenpolder"
+    ],
+    "name:swe_x_preferred":[
+        "Vrouwenpolder"
+    ],
+    "name:vls_x_preferred":[
+        "Vrouwnpolder"
+    ],
+    "name:zea_x_preferred":[
+        "D'n Polder"
     ],
     "reversegeo:latitude":52.243104,
     "reversegeo:longitude":4.555675,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         85633337,
         101837693,
-        136253051,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -61,7 +88,7 @@
         }
     ],
     "wof:id":1158826517,
-    "wof:lastmodified":1559596465,
+    "wof:lastmodified":1564236433,
     "wof:name":"Vrouwenpolder",
     "wof:parent_id":101837693,
     "wof:placetype":"neighbourhood",

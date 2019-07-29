@@ -32,7 +32,19 @@
     "name:eng_x_preferred":[
         "Zwiggelte"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u06cc\u062e\u0644\u062a\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Zwiggelte"
+    ],
+    "name:fry_x_preferred":[
+        "Swiggelte"
+    ],
     "name:nld_x_preferred":[
+        "Zwiggelte"
+    ],
+    "name:por_x_preferred":[
         "Zwiggelte"
     ],
     "reversegeo:latitude":52.873455,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474649,
         85633337,
         1158792229,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158791897,
-    "wof:lastmodified":1559596136,
+    "wof:lastmodified":1564235908,
     "wof:name":"Zwiggelte",
     "wof:parent_id":1158792229,
     "wof:placetype":"neighbourhood",

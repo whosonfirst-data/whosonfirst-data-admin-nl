@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Hoornaar"
+    ],
     "name:eng_x_preferred":[
         "Hoornaar"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0631\u0646\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Hoornaar"
+    ],
     "name:nld_x_preferred":[
+        "Hoornaar"
+    ],
+    "name:por_x_preferred":[
         "Hoornaar"
     ],
     "reversegeo:latitude":51.87998,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474315,
         85633337,
         101837711,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158827837,
-    "wof:lastmodified":1559596654,
+    "wof:lastmodified":1564236514,
     "wof:name":"Hoornaar",
     "wof:parent_id":101837711,
     "wof:placetype":"neighbourhood",

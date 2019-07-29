@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "De Steeg"
+    ],
+    "name:ceb_x_preferred":[
+        "De Steeg"
+    ],
     "name:eng_x_preferred":[
         "De Steeg"
     ],
+    "name:fra_x_preferred":[
+        "De Steeg"
+    ],
     "name:nld_x_preferred":[
+        "De Steeg"
+    ],
+    "name:por_x_preferred":[
         "De Steeg"
     ],
     "reversegeo:latitude":52.019693,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473933,
         85633337,
         101837837,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1141964039,
-    "wof:lastmodified":1559595712,
+    "wof:lastmodified":1564237584,
     "wof:name":"De Steeg",
     "wof:parent_id":101837837,
     "wof:placetype":"neighbourhood",

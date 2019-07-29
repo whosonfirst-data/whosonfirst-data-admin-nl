@@ -32,6 +32,12 @@
     "name:eng_x_preferred":[
         "Cillaarshoek"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0644\u0627\u0631\u0633\u200c\u0647\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Cillaarshoek"
+    ],
     "name:nld_x_preferred":[
         "Cillaarshoek"
     ],
@@ -40,11 +46,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         85633337,
         101809849,
-        136253051,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1158827295,
-    "wof:lastmodified":1559596824,
+    "wof:lastmodified":1564236780,
     "wof:name":"Cillaarshoek",
     "wof:parent_id":101809849,
     "wof:placetype":"neighbourhood",

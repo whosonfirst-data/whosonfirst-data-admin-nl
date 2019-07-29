@@ -29,23 +29,173 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0641\u0644\u064a\u062a\u0631\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u0644\u062a\u0631\u06cc"
+    ],
+    "name:bcl_x_preferred":[
+        "Velletri"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u0442\u0440\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Velletri"
+    ],
+    "name:ceb_x_preferred":[
+        "Velletri"
+    ],
+    "name:ces_x_preferred":[
+        "Velletri"
+    ],
+    "name:deu_x_preferred":[
+        "Velletri"
+    ],
     "name:eng_x_preferred":[
+        "Velletri"
+    ],
+    "name:epo_x_preferred":[
+        "Velletri"
+    ],
+    "name:eus_x_preferred":[
+        "Velletri"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u062a\u0631\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Velletri"
+    ],
+    "name:fra_x_preferred":[
+        "Velletri"
+    ],
+    "name:hun_x_preferred":[
+        "Velletri"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u056c\u0565\u057f\u0580\u056b"
+    ],
+    "name:ina_x_preferred":[
+        "Velletri"
+    ],
+    "name:ind_x_preferred":[
+        "Velletri"
+    ],
+    "name:isl_x_preferred":[
+        "Velletri"
+    ],
+    "name:ita_x_preferred":[
+        "Velletri"
+    ],
+    "name:jav_x_preferred":[
+        "Velletri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a7\u30c3\u30ec\u30c8\u30ea"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0435\u043b\u043b\u0435\u0442\u0440\u0438"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca8\ub808\ud2b8\ub9ac"
+    ],
+    "name:lat_x_preferred":[
+        "Velitrae"
+    ],
+    "name:lit_x_preferred":[
+        "Veletris"
+    ],
+    "name:lmo_x_preferred":[
+        "Velletri"
+    ],
+    "name:msa_x_preferred":[
+        "Velletri"
+    ],
+    "name:nap_x_preferred":[
         "Velletri"
     ],
     "name:nld_x_preferred":[
         "Velletri"
+    ],
+    "name:nno_x_preferred":[
+        "Velletri"
+    ],
+    "name:pms_x_preferred":[
+        "Velletri"
+    ],
+    "name:pol_x_preferred":[
+        "Velletri"
+    ],
+    "name:por_x_preferred":[
+        "Velletri"
+    ],
+    "name:ron_x_preferred":[
+        "Velletri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u043b\u0435\u0442\u0440\u0438"
+    ],
+    "name:san_x_preferred":[
+        "\u0935\u0947\u0932\u094d\u0932\u0947\u0924\u094d\u0930\u0940"
+    ],
+    "name:scn_x_preferred":[
+        "Velletri"
+    ],
+    "name:sco_x_preferred":[
+        "Velletri"
+    ],
+    "name:spa_x_preferred":[
+        "Velletri"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u0442\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Velletri"
+    ],
+    "name:szl_x_preferred":[
+        "Velletri"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0435\u043b\u043b\u0435\u0442\u0440\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Velletri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u043b\u0435\u0442\u0440\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0644\u06cc\u062a\u0631\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Velletri"
+    ],
+    "name:vls_x_preferred":[
+        "Velletri"
+    ],
+    "name:vol_x_preferred":[
+        "Velletri"
+    ],
+    "name:war_x_preferred":[
+        "Velletri"
+    ],
+    "name:zho_x_preferred":[
+        "\u97cb\u840a\u7279\u91cc"
     ],
     "reversegeo:latitude":51.592696,
     "reversegeo:longitude":4.54976,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474565,
         85633337,
         101808323,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +213,7 @@
         }
     ],
     "wof:id":1158799765,
-    "wof:lastmodified":1559595823,
+    "wof:lastmodified":1564235947,
     "wof:name":"Velletri",
     "wof:parent_id":101808323,
     "wof:placetype":"neighbourhood",

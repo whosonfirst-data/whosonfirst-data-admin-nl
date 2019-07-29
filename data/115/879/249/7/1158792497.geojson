@@ -29,10 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Termunterzijl"
+    ],
     "name:eng_x_preferred":[
         "Termunterzijl"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0645\u0648\u0646\u062a\u0631\u0632\u06cc\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Termunterzijl"
+    ],
+    "name:fry_x_preferred":[
+        "Termunterzijl"
+    ],
     "name:nld_x_preferred":[
+        "Termunterzijl"
+    ],
+    "name:pol_x_preferred":[
+        "Termunterzijl"
+    ],
+    "name:por_x_preferred":[
         "Termunterzijl"
     ],
     "reversegeo:latitude":53.299612,
@@ -40,12 +58,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473711,
         85633337,
         1158796597,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158792497,
-    "wof:lastmodified":1559596136,
+    "wof:lastmodified":1564236082,
     "wof:name":"Termunterzijl",
     "wof:parent_id":1158796597,
     "wof:placetype":"neighbourhood",

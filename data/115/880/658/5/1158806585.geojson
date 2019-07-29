@@ -29,8 +29,20 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Asenray"
+    ],
+    "name:deu_x_preferred":[
+        "Asenray"
+    ],
     "name:eng_x_preferred":[
         "Asenray"
+    ],
+    "name:fra_x_preferred":[
+        "Asenray"
+    ],
+    "name:lim_x_preferred":[
+        "Azeraoj"
     ],
     "name:nld_x_preferred":[
         "Asenray"
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474511,
         85633337,
         1158817909,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158806585,
-    "wof:lastmodified":1559596586,
+    "wof:lastmodified":1564235268,
     "wof:name":"Asenray",
     "wof:parent_id":1158817909,
     "wof:placetype":"neighbourhood",

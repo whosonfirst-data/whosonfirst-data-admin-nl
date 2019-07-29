@@ -29,7 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Heinenoord"
+    ],
+    "name:deu_x_preferred":[
+        "Heinenoord"
+    ],
     "name:eng_x_preferred":[
+        "Heinenoord"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0646\u0646\u200c\u0627\u0648\u0631\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Heinenoord"
+    ],
+    "name:ita_x_preferred":[
         "Heinenoord"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474233,
         85633337,
         101808489,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158826723,
-    "wof:lastmodified":1559596482,
+    "wof:lastmodified":1564236353,
     "wof:name":"Heinenoord",
     "wof:parent_id":101808489,
     "wof:placetype":"neighbourhood",

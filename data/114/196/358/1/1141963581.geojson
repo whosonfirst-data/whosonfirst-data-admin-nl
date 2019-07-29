@@ -32,20 +32,26 @@
     "name:eng_x_preferred":[
         "Vesting"
     ],
+    "name:ita_x_preferred":[
+        "Diritti acquisiti"
+    ],
     "name:nld_x_preferred":[
         "Vesting"
+    ],
+    "name:por_x_preferred":[
+        "Direito adquirido"
     ],
     "reversegeo:latitude":52.161444,
     "reversegeo:longitude":6.415327,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473915,
         85633337,
         101807065,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1141963581,
-    "wof:lastmodified":1559597091,
+    "wof:lastmodified":1564237481,
     "wof:name":"Vesting",
     "wof:parent_id":101807065,
     "wof:placetype":"neighbourhood",

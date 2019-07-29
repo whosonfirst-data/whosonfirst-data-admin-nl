@@ -29,6 +29,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "DeCamp"
+    ],
     "name:eng_x_preferred":[
         "De Camp"
     ],
@@ -40,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158829547,
         85633337,
         101751833,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1158826331,
-    "wof:lastmodified":1559596567,
+    "wof:lastmodified":1564236420,
     "wof:name":"De Camp",
     "wof:parent_id":1158829547,
     "wof:placetype":"neighbourhood",

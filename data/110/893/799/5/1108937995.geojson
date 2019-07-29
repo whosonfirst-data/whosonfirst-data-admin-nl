@@ -32,11 +32,59 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":15,
+    "name:cat_x_preferred":[
+        "Europoort"
+    ],
+    "name:ceb_x_preferred":[
+        "Europoort"
+    ],
+    "name:deu_x_preferred":[
+        "Europoort"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bf\u03c5\u03c1\u03bf\u03c0\u03cc\u03c1\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Europoort"
     ],
+    "name:epo_x_preferred":[
+        "Europoort"
+    ],
+    "name:fin_x_preferred":[
+        "Europoort"
+    ],
+    "name:fra_x_preferred":[
+        "Europoort"
+    ],
+    "name:ita_x_preferred":[
+        "Europoort"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10d5\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
     "name:nld_x_preferred":[
         "Europoort"
+    ],
+    "name:pol_x_preferred":[
+        "Europort"
+    ],
+    "name:por_x_preferred":[
+        "Europoort"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0432\u0440\u043e\u043f\u043e\u0440\u0442"
+    ],
+    "name:slv_x_preferred":[
+        "Europoort"
+    ],
+    "name:swe_x_preferred":[
+        "Europoort"
+    ],
+    "name:tur_x_preferred":[
+        "Europort"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u0432\u0440\u043e\u043f\u043e\u0440\u0442"
     ],
     "reversegeo:latitude":51.955584,
     "reversegeo:longitude":4.116475,
@@ -47,12 +95,12 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687041,
         102191581,
         85633337,
         101751843,
         136253051,
-        1158831791
+        1158831791,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -71,7 +119,7 @@
         }
     ],
     "wof:id":1108937995,
-    "wof:lastmodified":1559595539,
+    "wof:lastmodified":1564234516,
     "wof:name":"Europoort",
     "wof:parent_id":1158831791,
     "wof:placetype":"neighbourhood",

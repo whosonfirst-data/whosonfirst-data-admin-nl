@@ -29,23 +29,86 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Sonnenberg"
+    ],
+    "name:deu_x_preferred":[
+        "Sonnenberg"
+    ],
     "name:eng_x_preferred":[
+        "Sonnenberg"
+    ],
+    "name:epo_x_preferred":[
+        "Sonnenberg"
+    ],
+    "name:eus_x_preferred":[
+        "Sonnenberg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0646\u0646\u0628\u0631\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Sonnenberg"
+    ],
+    "name:hun_x_preferred":[
+        "Sonnenberg"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0576\u0565\u0576\u0562\u0565\u0580\u0563"
+    ],
+    "name:ita_x_preferred":[
+        "Sonnenberg"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0417\u043e\u043d\u0435\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:msa_x_preferred":[
         "Sonnenberg"
     ],
     "name:nld_x_preferred":[
         "Sonnenberg"
+    ],
+    "name:pol_x_preferred":[
+        "Sonnenberg"
+    ],
+    "name:ron_x_preferred":[
+        "Sonnenberg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u043d\u043d\u0435\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Sonnenberg"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u043e\u043d\u0435\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u043e\u043d\u043d\u0435\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:uzb_x_preferred":[
+        "Sonnenberg"
+    ],
+    "name:vol_x_preferred":[
+        "Sonnenberg"
+    ],
+    "name:war_x_preferred":[
+        "Sonnenberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u5ae9\u8d1d\u683c"
     ],
     "reversegeo:latitude":52.549327,
     "reversegeo:longitude":5.966164,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473839,
         85633337,
         101837845,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +126,7 @@
         }
     ],
     "wof:id":1158802951,
-    "wof:lastmodified":1559596964,
+    "wof:lastmodified":1564235255,
     "wof:name":"Sonnenberg",
     "wof:parent_id":101837845,
     "wof:placetype":"neighbourhood",

@@ -29,23 +29,41 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Vreeland"
+    ],
     "name:eng_x_preferred":[
+        "Vreeland"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u06cc\u200c\u0644\u0627\u0646\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Vreeland"
+    ],
+    "name:fry_x_preferred":[
+        "Vreeland"
+    ],
+    "name:ita_x_preferred":[
         "Vreeland"
     ],
     "name:nld_x_preferred":[
         "Vreeland"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u96f7\u862d"
     ],
     "reversegeo:latitude":52.229216,
     "reversegeo:longitude":5.04083,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158787499,
         85633337,
         101808429,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158789091,
-    "wof:lastmodified":1559596437,
+    "wof:lastmodified":1564236785,
     "wof:name":"Vreeland",
     "wof:parent_id":101808429,
     "wof:placetype":"neighbourhood",

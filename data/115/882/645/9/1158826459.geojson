@@ -29,22 +29,91 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0646\u0646\u0647\u0648\u0641"
+    ],
+    "name:ast_x_preferred":[
+        "Binnenhof"
+    ],
+    "name:aze_x_preferred":[
+        "Binnenxof"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u043d\u0435\u043d\u0445\u043e\u0444"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0438\u043d\u0435\u043d\u0445\u043e\u0444"
+    ],
+    "name:cat_x_preferred":[
+        "Binnenhof"
+    ],
+    "name:ces_x_preferred":[
+        "Binnenhof"
+    ],
+    "name:deu_x_preferred":[
+        "Binnenhof"
+    ],
     "name:eng_x_preferred":[
+        "Binnenhof"
+    ],
+    "name:fra_x_preferred":[
+        "Binnenhof"
+    ],
+    "name:fry_x_preferred":[
+        "Binnenh\u00f4f"
+    ],
+    "name:hun_x_preferred":[
+        "Binnenhof"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u056b\u0576\u0565\u0576\u0570\u0578\u0586"
+    ],
+    "name:isl_x_preferred":[
+        "Binnenhof"
+    ],
+    "name:ita_x_preferred":[
         "Binnenhof"
     ],
     "name:nld_x_preferred":[
         "Binnenhof"
+    ],
+    "name:nor_x_preferred":[
+        "Binnenhof"
+    ],
+    "name:pol_x_preferred":[
+        "Binnenhof"
+    ],
+    "name:por_x_preferred":[
+        "Binnenhof"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043d\u043d\u0435\u043d\u0445\u043e\u0444"
+    ],
+    "name:spa_x_preferred":[
+        "Binnenhof"
+    ],
+    "name:swe_x_preferred":[
+        "Binnenhof"
+    ],
+    "name:tur_x_preferred":[
+        "Binnenhof"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u043d\u043d\u0435\u043d\u0433\u043e\u0444"
+    ],
+    "name:zho_x_preferred":[
+        "\u8377\u5170\u56fd\u4f1a\u8bae\u4e8b\u5802"
     ],
     "reversegeo:latitude":52.16463,
     "reversegeo:longitude":4.537374,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         85633337,
         101754677,
-        136253051,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -61,7 +130,7 @@
         }
     ],
     "wof:id":1158826459,
-    "wof:lastmodified":1559595630,
+    "wof:lastmodified":1564236384,
     "wof:name":"Binnenhof",
     "wof:parent_id":101754677,
     "wof:placetype":"neighbourhood",

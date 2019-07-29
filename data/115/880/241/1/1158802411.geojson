@@ -29,10 +29,31 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:cat_x_preferred":[
+        "Oikos"
+    ],
+    "name:deu_x_preferred":[
+        "Oikos"
+    ],
     "name:eng_x_preferred":[
         "Oikos"
     ],
+    "name:fra_x_preferred":[
+        "Oikos"
+    ],
+    "name:hun_x_preferred":[
+        "Oikosz"
+    ],
+    "name:ita_x_preferred":[
+        "Oikos"
+    ],
     "name:nld_x_preferred":[
+        "Oikos"
+    ],
+    "name:por_x_preferred":[
+        "Oikos"
+    ],
+    "name:spa_x_preferred":[
         "Oikos"
     ],
     "reversegeo:latitude":52.206379,
@@ -40,12 +61,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473827,
         85633337,
         101754777,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1158802411,
-    "wof:lastmodified":1559596128,
+    "wof:lastmodified":1564235403,
     "wof:name":"Oikos",
     "wof:parent_id":101754777,
     "wof:placetype":"neighbourhood",

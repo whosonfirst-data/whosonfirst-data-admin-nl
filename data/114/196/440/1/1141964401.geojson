@@ -29,7 +29,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Hernen"
+    ],
+    "name:ceb_x_preferred":[
+        "Hernen"
+    ],
     "name:eng_x_preferred":[
+        "Hernen"
+    ],
+    "name:fra_x_preferred":[
         "Hernen"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473953,
         85633337,
         1158783755,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1141964401,
-    "wof:lastmodified":1559596478,
+    "wof:lastmodified":1564237334,
     "wof:name":"Hernen",
     "wof:parent_id":1158783755,
     "wof:placetype":"neighbourhood",

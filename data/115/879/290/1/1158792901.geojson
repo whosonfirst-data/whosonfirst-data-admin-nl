@@ -29,10 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Kropswolde"
+    ],
     "name:eng_x_preferred":[
         "Kropswolde"
     ],
+    "name:epo_x_preferred":[
+        "Kropswolde"
+    ],
+    "name:fra_x_preferred":[
+        "Kropswolde"
+    ],
+    "name:fry_x_preferred":[
+        "Kropswolde"
+    ],
     "name:nld_x_preferred":[
+        "Kropswolde"
+    ],
+    "name:pol_x_preferred":[
+        "Kropswolde"
+    ],
+    "name:vol_x_preferred":[
         "Kropswolde"
     ],
     "reversegeo:latitude":53.145071,
@@ -40,12 +58,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473719,
         85633337,
         101874319,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158792901,
-    "wof:lastmodified":1559596800,
+    "wof:lastmodified":1564236155,
     "wof:name":"Kropswolde",
     "wof:parent_id":101874319,
     "wof:placetype":"neighbourhood",

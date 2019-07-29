@@ -29,10 +29,31 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:aze_x_preferred":[
+        "Aude\u015fild"
+    ],
+    "name:deu_x_preferred":[
+        "Oudeschild"
+    ],
     "name:eng_x_preferred":[
         "Oudeschild"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u062f\u0647\u200c\u0627\u0633\u062e\u06cc\u0644\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Oudeschild"
+    ],
+    "name:ita_x_preferred":[
+        "Oudeschild"
+    ],
     "name:nld_x_preferred":[
+        "Oudeschild"
+    ],
+    "name:pol_x_preferred":[
+        "Oudeschild"
+    ],
+    "name:sqi_x_preferred":[
         "Oudeschild"
     ],
     "reversegeo:latitude":53.037238,
@@ -40,12 +61,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474115,
         85633337,
         101806075,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1158820451,
-    "wof:lastmodified":1559595933,
+    "wof:lastmodified":1564236593,
     "wof:name":"Oudeschild",
     "wof:parent_id":101806075,
     "wof:placetype":"neighbourhood",

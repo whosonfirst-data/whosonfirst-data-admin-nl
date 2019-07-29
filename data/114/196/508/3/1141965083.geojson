@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "IJzendoorn"
+    ],
+    "name:ceb_x_preferred":[
+        "IJzendoorn"
+    ],
     "name:eng_x_preferred":[
         "IJzendoorn"
     ],
+    "name:fra_x_preferred":[
+        "IJzendoorn"
+    ],
     "name:nld_x_preferred":[
+        "IJzendoorn"
+    ],
+    "name:por_x_preferred":[
         "IJzendoorn"
     ],
     "reversegeo:latitude":51.906511,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474655,
         85633337,
         101855359,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1141965083,
-    "wof:lastmodified":1559596347,
+    "wof:lastmodified":1564237456,
     "wof:name":"IJzendoorn",
     "wof:parent_id":101855359,
     "wof:placetype":"neighbourhood",

@@ -29,7 +29,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Strijensas"
+    ],
     "name:eng_x_preferred":[
+        "Strijensas"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0631\u06cc\u0646\u200c\u0633\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
         "Strijensas"
     ],
     "name:nld_x_preferred":[
@@ -40,11 +49,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         85633337,
         101809849,
-        136253051,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1158827291,
-    "wof:lastmodified":1559596832,
+    "wof:lastmodified":1564236779,
     "wof:name":"Strijensas",
     "wof:parent_id":101809849,
     "wof:placetype":"neighbourhood",

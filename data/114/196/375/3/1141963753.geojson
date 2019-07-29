@@ -29,23 +29,53 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Appel"
+    ],
+    "name:deu_x_preferred":[
+        "Appel"
+    ],
     "name:eng_x_preferred":[
+        "Appel"
+    ],
+    "name:fra_x_preferred":[
+        "Appel"
+    ],
+    "name:ita_x_preferred":[
+        "Appel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30da\u30eb"
+    ],
+    "name:nds_x_preferred":[
         "Appel"
     ],
     "name:nld_x_preferred":[
         "Appel"
+    ],
+    "name:pol_x_preferred":[
+        "Appel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043f\u043f\u0435\u043b\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Appel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043f\u043f\u0435\u043b\u044c"
     ],
     "reversegeo:latitude":52.189021,
     "reversegeo:longitude":5.551673,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473921,
         85633337,
         101807075,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +93,7 @@
         }
     ],
     "wof:id":1141963753,
-    "wof:lastmodified":1559595709,
+    "wof:lastmodified":1564237609,
     "wof:name":"Appel",
     "wof:parent_id":101807075,
     "wof:placetype":"neighbourhood",

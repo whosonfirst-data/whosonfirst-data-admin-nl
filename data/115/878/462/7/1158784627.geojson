@@ -29,23 +29,38 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:bar_x_preferred":[
+        "Oud-Vossemeer"
+    ],
+    "name:ceb_x_preferred":[
+        "Oud-Vossemeer"
+    ],
+    "name:deu_x_preferred":[
+        "Oud-Vossemeer"
+    ],
     "name:eng_x_preferred":[
+        "Oud-Vossemeer"
+    ],
+    "name:fra_x_preferred":[
         "Oud-Vossemeer"
     ],
     "name:nld_x_preferred":[
         "Oud-Vossemeer"
+    ],
+    "name:zea_x_preferred":[
+        "Ou-Vossemaer"
     ],
     "reversegeo:latitude":51.569756,
     "reversegeo:longitude":4.199952,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474331,
         85633337,
         101808373,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158784627,
-    "wof:lastmodified":1559596208,
+    "wof:lastmodified":1564236925,
     "wof:name":"Oud-Vossemeer",
     "wof:parent_id":101808373,
     "wof:placetype":"neighbourhood",

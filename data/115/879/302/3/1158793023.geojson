@@ -29,10 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Middelstum"
+    ],
+    "name:ceb_x_preferred":[
+        "Middelstum"
+    ],
+    "name:deu_x_preferred":[
+        "Middelstum"
+    ],
     "name:eng_x_preferred":[
         "Middelstum"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u062f\u0644\u0633\u062a\u0648\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Middelstum"
+    ],
     "name:nld_x_preferred":[
+        "Middelstum"
+    ],
+    "name:pol_x_preferred":[
         "Middelstum"
     ],
     "reversegeo:latitude":53.346677,
@@ -40,12 +58,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473723,
         85633337,
         101807485,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158793023,
-    "wof:lastmodified":1559596938,
+    "wof:lastmodified":1564236038,
     "wof:name":"Middelstum",
     "wof:parent_id":101807485,
     "wof:placetype":"neighbourhood",

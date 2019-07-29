@@ -29,23 +29,35 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Pannerden"
+    ],
+    "name:ceb_x_preferred":[
+        "Pannerden"
+    ],
     "name:eng_x_preferred":[
+        "Pannerden"
+    ],
+    "name:fra_x_preferred":[
         "Pannerden"
     ],
     "name:nld_x_preferred":[
         "Pannerden"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043d\u043d\u0435\u0440\u0434\u0435\u043d"
     ],
     "reversegeo:latitude":51.888083,
     "reversegeo:longitude":6.042348,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473863,
         85633337,
         101809871,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1141961845,
-    "wof:lastmodified":1559595954,
+    "wof:lastmodified":1564237592,
     "wof:name":"Pannerden",
     "wof:parent_id":101809871,
     "wof:placetype":"neighbourhood",

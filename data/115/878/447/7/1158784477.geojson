@@ -29,23 +29,44 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Waarde"
+    ],
+    "name:ceb_x_preferred":[
+        "Waarde"
+    ],
+    "name:deu_x_preferred":[
+        "Waarde"
+    ],
     "name:eng_x_preferred":[
+        "Waarde"
+    ],
+    "name:fra_x_preferred":[
+        "Waarde"
+    ],
+    "name:fry_x_preferred":[
         "Waarde"
     ],
     "name:nld_x_preferred":[
         "Waarde"
+    ],
+    "name:spa_x_preferred":[
+        "Waarde"
+    ],
+    "name:zea_x_preferred":[
+        "Waerde"
     ],
     "reversegeo:latitude":51.418299,
     "reversegeo:longitude":4.069829,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474323,
         85633337,
         1158786511,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1158784477,
-    "wof:lastmodified":1559596226,
+    "wof:lastmodified":1564236826,
     "wof:name":"Waarde",
     "wof:parent_id":1158786511,
     "wof:placetype":"neighbourhood",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000075,
-    "geom:area_square_m":558221.321444,
+    "geom:area_square_m":558221.321445,
     "geom:bbox":"6.33984082992,52.8169129565,6.36068398166,52.8331846129",
     "geom:latitude":52.825231,
     "geom:longitude":6.349815,
@@ -29,10 +29,19 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Westeinde"
+    ],
     "name:eng_x_preferred":[
         "Westeinde"
     ],
+    "name:fra_x_preferred":[
+        "Westeinde"
+    ],
     "name:nld_x_preferred":[
+        "Westeinde"
+    ],
+    "name:por_x_preferred":[
         "Westeinde"
     ],
     "reversegeo:latitude":52.826146,
@@ -40,16 +49,16 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474613,
         85633337,
-        101807291
+        101807291,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"01fbdc8dc4ff78ad49f5697b9966ebdb",
+    "wof:geomhash":"5bb9f03560b7db185eda6bd0ec722b96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1158791609,
-    "wof:lastmodified":1513292351,
+    "wof:lastmodified":1564235758,
     "wof:name":"Westeinde",
     "wof:parent_id":101807291,
     "wof:placetype":"neighbourhood",
@@ -71,8 +80,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.339840829920761,
-    52.816912956464435,
+    6.33984082992076,
+    52.81691295646444,
     6.36068398165502,
     52.83318461290107
 ],

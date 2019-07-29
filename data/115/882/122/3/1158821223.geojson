@@ -32,6 +32,12 @@
     "name:eng_x_preferred":[
         "Koedijk"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u062f\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Koedijk"
+    ],
     "name:nld_x_preferred":[
         "Koedijk"
     ],
@@ -40,13 +46,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823009,
         1158818281,
         85633337,
         101753097,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1158821223,
-    "wof:lastmodified":1559596803,
+    "wof:lastmodified":1564236762,
     "wof:name":"Koedijk",
     "wof:parent_id":1158823009,
     "wof:placetype":"neighbourhood",

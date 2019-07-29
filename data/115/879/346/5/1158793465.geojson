@@ -32,7 +32,22 @@
     "name:eng_x_preferred":[
         "Stitswerd"
     ],
+    "name:epo_x_preferred":[
+        "Stitswerd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u06cc\u062a\u0633\u200c\u0648\u0631\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Stitswerd"
+    ],
+    "name:fry_x_preferred":[
+        "Stitswert"
+    ],
     "name:nld_x_preferred":[
+        "Stitswerd"
+    ],
+    "name:pol_x_preferred":[
         "Stitswerd"
     ],
     "reversegeo:latitude":53.360852,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404474561,
         85633337,
         1158796635,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158793465,
-    "wof:lastmodified":1559596315,
+    "wof:lastmodified":1564235892,
     "wof:name":"Stitswerd",
     "wof:parent_id":1158796635,
     "wof:placetype":"neighbourhood",

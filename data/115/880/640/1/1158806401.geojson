@@ -29,8 +29,23 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:bar_x_preferred":[
+        "Amby"
+    ],
+    "name:ceb_x_preferred":[
+        "Amby"
+    ],
     "name:eng_x_preferred":[
         "Amby"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Amby"
+    ],
+    "name:lim_x_preferred":[
+        "Amie"
     ],
     "name:nld_x_preferred":[
         "Amby"
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158818145,
         85633337,
         101751803,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158806401,
-    "wof:lastmodified":1559595660,
+    "wof:lastmodified":1564235420,
     "wof:name":"Amby",
     "wof:parent_id":1158818145,
     "wof:placetype":"neighbourhood",

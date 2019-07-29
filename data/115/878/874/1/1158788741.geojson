@@ -29,7 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Hagestein"
+    ],
+    "name:deu_x_preferred":[
+        "Hagestein"
+    ],
     "name:eng_x_preferred":[
+        "Hagestein"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u062e\u0647\u200c\u0627\u0633\u062a\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Hagestein"
+    ],
+    "name:fry_x_preferred":[
         "Hagestein"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404474271,
         85633337,
         101855287,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158788741,
-    "wof:lastmodified":1559596374,
+    "wof:lastmodified":1564236843,
     "wof:name":"Hagestein",
     "wof:parent_id":101855287,
     "wof:placetype":"neighbourhood",

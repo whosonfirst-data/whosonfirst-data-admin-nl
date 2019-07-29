@@ -35,17 +35,20 @@
     "name:nld_x_preferred":[
         "Den Dam"
     ],
+    "name:nld_x_variant":[
+        "Dam"
+    ],
     "reversegeo:latitude":52.390433,
     "reversegeo:longitude":6.45496,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473835,
         85633337,
         101807159,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1158802669,
-    "wof:lastmodified":1559596911,
+    "wof:lastmodified":1564235251,
     "wof:name":"Den Dam",
     "wof:parent_id":101807159,
     "wof:placetype":"neighbourhood",

@@ -32,6 +32,15 @@
     "name:eng_x_preferred":[
         "Noordwolde"
     ],
+    "name:fra_x_preferred":[
+        "Noordwolde"
+    ],
+    "name:fry_x_preferred":[
+        "Noardw\u00e2lde"
+    ],
+    "name:ita_x_preferred":[
+        "Noordwolde"
+    ],
     "name:nld_x_preferred":[
         "Noordwolde"
     ],
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473703,
         85633337,
         1158796463,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158792391,
-    "wof:lastmodified":1559596890,
+    "wof:lastmodified":1564236137,
     "wof:name":"Noordwolde",
     "wof:parent_id":1158796463,
     "wof:placetype":"neighbourhood",

@@ -29,24 +29,39 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Kronenburg"
+    ],
     "name:eng_x_preferred":[
         "Kronenburg"
     ],
+    "name:fra_x_preferred":[
+        "Kronenburg"
+    ],
+    "name:ita_x_preferred":[
+        "Kronenbourg"
+    ],
     "name:nld_x_preferred":[
         "Kronenburg"
+    ],
+    "name:ron_x_preferred":[
+        "Kronenburg"
+    ],
+    "name:swe_x_preferred":[
+        "Kronenbourg"
     ],
     "reversegeo:latitude":51.958844,
     "reversegeo:longitude":5.894855,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783977,
         404473871,
         85633337,
         101751857,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +80,7 @@
         }
     ],
     "wof:id":1141962281,
-    "wof:lastmodified":1559596086,
+    "wof:lastmodified":1564237366,
     "wof:name":"Kronenburg",
     "wof:parent_id":1158783977,
     "wof:placetype":"neighbourhood",

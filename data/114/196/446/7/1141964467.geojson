@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Gameren"
+    ],
+    "name:ceb_x_preferred":[
+        "Gameren"
+    ],
     "name:eng_x_preferred":[
         "Gameren"
     ],
+    "name:fra_x_preferred":[
+        "Gameren"
+    ],
     "name:nld_x_preferred":[
+        "Gameren"
+    ],
+    "name:por_x_preferred":[
         "Gameren"
     ],
     "reversegeo:latitude":51.801273,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473955,
         85633337,
         101808687,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1141964467,
-    "wof:lastmodified":1559596333,
+    "wof:lastmodified":1564237362,
     "wof:name":"Gameren",
     "wof:parent_id":101808687,
     "wof:placetype":"neighbourhood",

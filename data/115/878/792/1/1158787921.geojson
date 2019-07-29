@@ -29,7 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Odijk"
+    ],
+    "name:dan_x_preferred":[
+        "Odijk"
+    ],
     "name:eng_x_preferred":[
+        "Odijk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0624\u062f\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Odijk"
+    ],
+    "name:fry_x_preferred":[
+        "Odijk"
+    ],
+    "name:lim_x_preferred":[
         "Odijk"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +58,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404473981,
         85633337,
         101807013,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158787921,
-    "wof:lastmodified":1559596979,
+    "wof:lastmodified":1564236993,
     "wof:name":"Odijk",
     "wof:parent_id":101807013,
     "wof:placetype":"neighbourhood",

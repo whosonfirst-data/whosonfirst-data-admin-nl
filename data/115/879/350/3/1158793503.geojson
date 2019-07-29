@@ -29,10 +29,34 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Leens"
+    ],
+    "name:ceb_x_preferred":[
+        "Leens"
+    ],
+    "name:deu_x_preferred":[
+        "Leens"
+    ],
     "name:eng_x_preferred":[
         "Leens"
     ],
+    "name:fra_x_preferred":[
+        "Leens"
+    ],
+    "name:fry_x_preferred":[
+        "Liens"
+    ],
+    "name:ita_x_preferred":[
+        "Leens"
+    ],
+    "name:lim_x_preferred":[
+        "L\u00e8ns"
+    ],
     "name:nld_x_preferred":[
+        "Leens"
+    ],
+    "name:pol_x_preferred":[
         "Leens"
     ],
     "reversegeo:latitude":53.359501,
@@ -40,12 +64,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404474575,
         85633337,
         101803733,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +87,7 @@
         }
     ],
     "wof:id":1158793503,
-    "wof:lastmodified":1559596362,
+    "wof:lastmodified":1564235974,
     "wof:name":"Leens",
     "wof:parent_id":101803733,
     "wof:placetype":"neighbourhood",

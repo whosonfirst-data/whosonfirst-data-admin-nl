@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Nieuwolda"
+    ],
     "name:eng_x_preferred":[
         "Nieuwolda"
     ],
+    "name:fra_x_preferred":[
+        "Nieuwolda"
+    ],
+    "name:ita_x_preferred":[
+        "Nieuwolda"
+    ],
     "name:nld_x_preferred":[
+        "Nieuwolda"
+    ],
+    "name:pol_x_preferred":[
         "Nieuwolda"
     ],
     "reversegeo:latitude":53.245231,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         1158792361,
         85633337,
         101806207,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158793657,
-    "wof:lastmodified":1559596411,
+    "wof:lastmodified":1564235719,
     "wof:name":"Nieuwolda",
     "wof:parent_id":101806207,
     "wof:placetype":"neighbourhood",

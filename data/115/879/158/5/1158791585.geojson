@@ -29,7 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Peize"
+    ],
     "name:eng_x_preferred":[
+        "Peize"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0632\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Peize"
+    ],
+    "name:fry_x_preferred":[
+        "Peize"
+    ],
+    "name:ita_x_preferred":[
         "Peize"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474609,
         85633337,
         101807261,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158791585,
-    "wof:lastmodified":1559596890,
+    "wof:lastmodified":1564235764,
     "wof:name":"Peize",
     "wof:parent_id":101807261,
     "wof:placetype":"neighbourhood",

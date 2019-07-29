@@ -29,11 +29,20 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Hengstdijk"
+    ],
     "name:eng_x_preferred":[
         "Hengstdijk"
     ],
     "name:eng_x_variant":[
         "Kern Hengstdijk"
+    ],
+    "name:fra_x_preferred":[
+        "Hengstdijk"
+    ],
+    "name:fry_x_preferred":[
+        "Hengstdijk"
     ],
     "name:nld_x_preferred":[
         "Hengstdijk"
@@ -41,17 +50,26 @@
     "name:nld_x_variant":[
         "Kern Hengstdijk"
     ],
+    "name:por_x_preferred":[
+        "Hengstdijk"
+    ],
+    "name:spa_x_preferred":[
+        "Hengstdijk"
+    ],
+    "name:zea_x_preferred":[
+        "Usdiek"
+    ],
     "reversegeo:latitude":51.343495,
     "reversegeo:longitude":3.996625,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474307,
         85633337,
         1158786505,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -69,7 +87,7 @@
         }
     ],
     "wof:id":1158784367,
-    "wof:lastmodified":1559595473,
+    "wof:lastmodified":1564236899,
     "wof:name":"Hengstdijk",
     "wof:parent_id":1158786505,
     "wof:placetype":"neighbourhood",

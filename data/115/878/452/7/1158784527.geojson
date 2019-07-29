@@ -29,6 +29,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Zeldenrust"
+    ],
     "name:eng_x_preferred":[
         "Zeldenrust"
     ],
@@ -40,13 +43,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         1158786451,
         404474329,
         85633337,
         101809831,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1158784527,
-    "wof:lastmodified":1559596161,
+    "wof:lastmodified":1564236894,
     "wof:name":"Zeldenrust",
     "wof:parent_id":1158786451,
     "wof:placetype":"neighbourhood",

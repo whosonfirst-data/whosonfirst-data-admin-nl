@@ -29,10 +29,64 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:bre_x_preferred":[
+        "Scheemda"
+    ],
+    "name:cat_x_preferred":[
+        "Scheemda"
+    ],
+    "name:ceb_x_preferred":[
+        "Scheemda"
+    ],
+    "name:deu_x_preferred":[
+        "Scheemda"
+    ],
     "name:eng_x_preferred":[
         "Scheemda"
     ],
+    "name:epo_x_preferred":[
+        "Scheemda"
+    ],
+    "name:fra_x_preferred":[
+        "Scheemda"
+    ],
+    "name:ind_x_preferred":[
+        "Scheemda"
+    ],
+    "name:ita_x_preferred":[
+        "Scheemda"
+    ],
+    "name:lim_x_preferred":[
+        "Scheemda"
+    ],
+    "name:msa_x_preferred":[
+        "Scheemda"
+    ],
     "name:nld_x_preferred":[
+        "Scheemda"
+    ],
+    "name:pol_x_preferred":[
+        "Scheemda"
+    ],
+    "name:ron_x_preferred":[
+        "Scheemda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0445\u0435\u043c\u0434\u0430"
+    ],
+    "name:sqi_x_preferred":[
+        "Scheemda"
+    ],
+    "name:stq_x_preferred":[
+        "Scheemda"
+    ],
+    "name:swe_x_preferred":[
+        "Scheemda"
+    ],
+    "name:vie_x_preferred":[
+        "Scheemda"
+    ],
+    "name:vol_x_preferred":[
         "Scheemda"
     ],
     "reversegeo:latitude":53.179853,
@@ -40,12 +94,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         1158792361,
         85633337,
         101807495,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +117,7 @@
         }
     ],
     "wof:id":1158793609,
-    "wof:lastmodified":1559596379,
+    "wof:lastmodified":1564236018,
     "wof:name":"Scheemda",
     "wof:parent_id":101807495,
     "wof:placetype":"neighbourhood",

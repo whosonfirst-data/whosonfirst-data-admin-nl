@@ -29,7 +29,19 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Baak"
+    ],
+    "name:deu_x_preferred":[
+        "Baak"
+    ],
     "name:eng_x_preferred":[
+        "Baak"
+    ],
+    "name:fra_x_preferred":[
+        "Baak"
+    ],
+    "name:fry_x_preferred":[
         "Baak"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474673,
         85633337,
         101855327,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1141965231,
-    "wof:lastmodified":1559596350,
+    "wof:lastmodified":1564237610,
     "wof:name":"Baak",
     "wof:parent_id":101855327,
     "wof:placetype":"neighbourhood",

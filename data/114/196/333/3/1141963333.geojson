@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Tricht"
+    ],
+    "name:ceb_x_preferred":[
+        "Tricht"
+    ],
     "name:eng_x_preferred":[
         "Tricht"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u06cc\u062e\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Tricht"
+    ],
     "name:nld_x_preferred":[
+        "Tricht"
+    ],
+    "name:por_x_preferred":[
         "Tricht"
     ],
     "reversegeo:latitude":51.890258,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473901,
         85633337,
         101837783,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1141963333,
-    "wof:lastmodified":1559596801,
+    "wof:lastmodified":1564237488,
     "wof:name":"Tricht",
     "wof:parent_id":101837783,
     "wof:placetype":"neighbourhood",

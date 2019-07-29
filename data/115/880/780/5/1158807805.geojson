@@ -29,8 +29,17 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Baarlo"
+    ],
     "name:eng_x_preferred":[
         "Baarlo"
+    ],
+    "name:fra_x_preferred":[
+        "Baarlo"
+    ],
+    "name:lim_x_preferred":[
+        "Baolder"
     ],
     "name:nld_x_preferred":[
         "Baarlo"
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158805873,
         85633337,
         101808139,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158807805,
-    "wof:lastmodified":1559596849,
+    "wof:lastmodified":1564235524,
     "wof:name":"Baarlo",
     "wof:parent_id":101808139,
     "wof:placetype":"neighbourhood",

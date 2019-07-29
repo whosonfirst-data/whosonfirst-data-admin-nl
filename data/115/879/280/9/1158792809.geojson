@@ -29,7 +29,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Hemmen"
+    ],
+    "name:ceb_x_preferred":[
+        "Hemmen"
+    ],
     "name:eng_x_preferred":[
+        "Hemmen"
+    ],
+    "name:fra_x_preferred":[
         "Hemmen"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473717,
         85633337,
         101754889,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158792809,
-    "wof:lastmodified":1559596915,
+    "wof:lastmodified":1564235792,
     "wof:name":"Hemmen",
     "wof:parent_id":101754889,
     "wof:placetype":"neighbourhood",

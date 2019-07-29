@@ -29,10 +29,19 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Platteweg"
+    ],
     "name:eng_x_preferred":[
         "Platteweg"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u0627\u062a\u0647\u200c\u0648\u062e"
+    ],
     "name:nld_x_preferred":[
+        "Platteweg"
+    ],
+    "name:por_x_preferred":[
         "Platteweg"
     ],
     "reversegeo:latitude":52.025675,
@@ -40,13 +49,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831331,
         1158824739,
         85633337,
         101754735,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1158828483,
-    "wof:lastmodified":1559596637,
+    "wof:lastmodified":1564236600,
     "wof:name":"Platteweg",
     "wof:parent_id":1158831331,
     "wof:placetype":"neighbourhood",

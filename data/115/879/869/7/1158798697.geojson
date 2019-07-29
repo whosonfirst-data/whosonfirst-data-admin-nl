@@ -29,10 +29,43 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Haren"
+    ],
+    "name:ces_x_preferred":[
+        "Haren"
+    ],
+    "name:dan_x_preferred":[
+        "Haren"
+    ],
+    "name:deu_x_preferred":[
+        "Haren"
+    ],
     "name:eng_x_preferred":[
         "Haren"
     ],
+    "name:epo_x_preferred":[
+        "Haren"
+    ],
+    "name:fra_x_preferred":[
+        "Haren"
+    ],
     "name:nld_x_preferred":[
+        "Haren"
+    ],
+    "name:pol_x_preferred":[
+        "Haren"
+    ],
+    "name:ron_x_preferred":[
+        "Haren"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u0435\u043d"
+    ],
+    "name:stq_x_preferred":[
+        "Haren"
+    ],
+    "name:swe_x_preferred":[
         "Haren"
     ],
     "reversegeo:latitude":51.803023,
@@ -40,12 +73,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474415,
         85633337,
         1158801641,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +96,7 @@
         }
     ],
     "wof:id":1158798697,
-    "wof:lastmodified":1559596726,
+    "wof:lastmodified":1564235868,
     "wof:name":"Haren",
     "wof:parent_id":1158801641,
     "wof:placetype":"neighbourhood",

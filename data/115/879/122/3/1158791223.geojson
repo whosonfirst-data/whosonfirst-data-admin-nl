@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Eext"
+    ],
     "name:eng_x_preferred":[
         "Eext"
     ],
+    "name:fra_x_preferred":[
+        "Eext"
+    ],
     "name:nld_x_preferred":[
+        "Eext"
+    ],
+    "name:pol_x_preferred":[
+        "Eext"
+    ],
+    "name:por_x_preferred":[
         "Eext"
     ],
     "reversegeo:latitude":53.015851,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474593,
         85633337,
         101806051,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158791223,
-    "wof:lastmodified":1559596146,
+    "wof:lastmodified":1564236220,
     "wof:name":"Eext",
     "wof:parent_id":101806051,
     "wof:placetype":"neighbourhood",

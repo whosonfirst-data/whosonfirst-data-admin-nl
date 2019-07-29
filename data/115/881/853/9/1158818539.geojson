@@ -29,8 +29,23 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Amsterdamse Bos"
+    ],
+    "name:deu_x_preferred":[
+        "Amsterdamse Bos"
+    ],
     "name:eng_x_preferred":[
         "Amsterdamse Bos"
+    ],
+    "name:fra_x_preferred":[
+        "Amsterdamse Bos"
+    ],
+    "name:ita_x_preferred":[
+        "Amsterdamse Bos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e0\u30b9\u30c6\u30eb\u30c0\u30e0\u30bb\u30fb\u30dc\u30b9"
     ],
     "name:nld_x_preferred":[
         "Amsterdamse Bos"
@@ -40,11 +55,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         85633337,
         101751891,
-        136253051,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1158818539,
-    "wof:lastmodified":1559595436,
+    "wof:lastmodified":1564235665,
     "wof:name":"Amsterdamse Bos",
     "wof:parent_id":101751891,
     "wof:placetype":"neighbourhood",

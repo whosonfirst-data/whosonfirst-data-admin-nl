@@ -29,10 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Poederoijen"
+    ],
+    "name:ceb_x_preferred":[
+        "Poederoijen"
+    ],
     "name:eng_x_preferred":[
         "Poederoijen"
     ],
+    "name:epo_x_preferred":[
+        "Poederoijen"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u062f\u0631\u0648\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Poederoijen"
+    ],
     "name:nld_x_preferred":[
+        "Poederoijen"
+    ],
+    "name:por_x_preferred":[
         "Poederoijen"
     ],
     "reversegeo:latitude":51.786013,
@@ -40,12 +58,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473955,
         85633337,
         1158783475,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1141964441,
-    "wof:lastmodified":1559596310,
+    "wof:lastmodified":1564237502,
     "wof:name":"Poederoijen",
     "wof:parent_id":1158783475,
     "wof:placetype":"neighbourhood",

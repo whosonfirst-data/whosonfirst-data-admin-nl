@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Sint Anthoniepolder"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0646\u062a \u0622\u0646\u062a\u0648\u0646\u06cc\u200c\u067e\u0644\u062f\u0631"
+    ],
     "name:nld_x_preferred":[
         "Sint Anthoniepolder"
     ],
@@ -40,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474233,
         85633337,
         101808493,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1158826755,
-    "wof:lastmodified":1559596606,
+    "wof:lastmodified":1564236355,
     "wof:name":"Sint Anthoniepolder",
     "wof:parent_id":101808493,
     "wof:placetype":"neighbourhood",

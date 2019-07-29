@@ -29,7 +29,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Ridderbuurt"
+    ],
     "name:eng_x_preferred":[
+        "Ridderbuurt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u062f\u0631\u0628\u0648\u0631\u062a"
+    ],
+    "name:fra_x_preferred":[
         "Ridderbuurt"
     ],
     "name:nld_x_preferred":[
@@ -40,13 +49,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831211,
         404474147,
         85633337,
         101751837,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1158824841,
-    "wof:lastmodified":1559596216,
+    "wof:lastmodified":1564236388,
     "wof:name":"Ridderbuurt",
     "wof:parent_id":1158831211,
     "wof:placetype":"neighbourhood",

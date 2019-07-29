@@ -29,8 +29,20 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Reuver"
+    ],
+    "name:deu_x_preferred":[
+        "Reuver"
+    ],
     "name:eng_x_preferred":[
         "Reuver"
+    ],
+    "name:fra_x_preferred":[
+        "Reuver"
+    ],
+    "name:lim_x_preferred":[
+        "De Ruiver"
     ],
     "name:nld_x_preferred":[
         "Reuver"
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474473,
         85633337,
         101809609,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158805965,
-    "wof:lastmodified":1559595637,
+    "wof:lastmodified":1564235386,
     "wof:name":"Reuver",
     "wof:parent_id":101809609,
     "wof:placetype":"neighbourhood",

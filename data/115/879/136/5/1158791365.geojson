@@ -29,10 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0648-\u0628\u0627\u0648\u0646\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Nieuw-Buinen"
+    ],
     "name:eng_x_preferred":[
         "Nieuw-Buinen"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0648-\u0628\u0627\u06cc\u0646\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Nieuw-Buinen"
+    ],
     "name:nld_x_preferred":[
+        "Nieuw-Buinen"
+    ],
+    "name:pol_x_preferred":[
+        "Nieuw-Buinen"
+    ],
+    "name:por_x_preferred":[
         "Nieuw-Buinen"
     ],
     "reversegeo:latitude":52.956198,
@@ -40,12 +58,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474595,
         85633337,
         101837883,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158791365,
-    "wof:lastmodified":1559596194,
+    "wof:lastmodified":1564235990,
     "wof:name":"Nieuw-Buinen",
     "wof:parent_id":101837883,
     "wof:placetype":"neighbourhood",

@@ -29,10 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Epen"
+    ],
     "name:eng_x_preferred":[
         "Epen"
     ],
+    "name:fra_x_preferred":[
+        "Epen"
+    ],
+    "name:lim_x_preferred":[
+        "Ie\u00ebpe"
+    ],
     "name:nld_x_preferred":[
+        "Epen"
+    ],
+    "name:pol_x_preferred":[
         "Epen"
     ],
     "reversegeo:latitude":50.77554,
@@ -40,12 +52,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474645,
         85633337,
         101855217,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158807655,
-    "wof:lastmodified":1559595758,
+    "wof:lastmodified":1564235168,
     "wof:name":"Epen",
     "wof:parent_id":101855217,
     "wof:placetype":"neighbourhood",

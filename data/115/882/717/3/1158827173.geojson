@@ -29,23 +29,35 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Klaaswaal"
+    ],
     "name:eng_x_preferred":[
+        "Klaaswaal"
+    ],
+    "name:fra_x_preferred":[
+        "Klaaswaal"
+    ],
+    "name:ita_x_preferred":[
         "Klaaswaal"
     ],
     "name:nld_x_preferred":[
         "Klaaswaal"
+    ],
+    "name:zea_x_preferred":[
+        "Klaeswael"
     ],
     "reversegeo:latitude":51.770384,
     "reversegeo:longitude":4.444835,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474259,
         85633337,
         101809219,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1158827173,
-    "wof:lastmodified":1559596832,
+    "wof:lastmodified":1564236751,
     "wof:name":"Klaaswaal",
     "wof:parent_id":101809219,
     "wof:placetype":"neighbourhood",

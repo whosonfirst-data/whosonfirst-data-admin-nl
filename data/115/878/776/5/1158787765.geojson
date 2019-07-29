@@ -29,24 +29,96 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u062f\u064a\u0648\u0645"
+    ],
+    "name:ast_x_preferred":[
+        "Podiu"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u043e\u0434\u044b\u0443\u043c"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0434\u0438\u0443\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Podi"
+    ],
+    "name:dan_x_preferred":[
+        "Podium"
+    ],
+    "name:deu_x_preferred":[
+        "Podest"
+    ],
     "name:eng_x_preferred":[
+        "Podium"
+    ],
+    "name:epo_x_preferred":[
+        "Podio"
+    ],
+    "name:fin_x_preferred":[
+        "Koroke"
+    ],
+    "name:fra_x_preferred":[
+        "Podium"
+    ],
+    "name:glg_x_preferred":[
+        "Podio"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d3\u05d9\u05d5\u05dd"
+    ],
+    "name:hun_x_preferred":[
+        "Dobog\u00f3"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0564\u056b\u0578\u0582\u0574"
+    ],
+    "name:ind_x_preferred":[
+        "Podium"
+    ],
+    "name:ita_x_preferred":[
+        "Podio"
+    ],
+    "name:msa_x_preferred":[
         "Podium"
     ],
     "name:nld_x_preferred":[
         "Podium"
+    ],
+    "name:nor_x_preferred":[
+        "Podium"
+    ],
+    "name:pol_x_preferred":[
+        "Podium"
+    ],
+    "name:por_x_preferred":[
+        "P\u00f3dio"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0438\u0443\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Podio"
+    ],
+    "name:swe_x_preferred":[
+        "Podium"
+    ],
+    "name:zho_x_preferred":[
+        "\u9886\u5956\u53f0"
     ],
     "reversegeo:latitude":52.191678,
     "reversegeo:longitude":5.437518,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790295,
         404473971,
         85633337,
         101751821,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +137,7 @@
         }
     ],
     "wof:id":1158787765,
-    "wof:lastmodified":1559597021,
+    "wof:lastmodified":1564236940,
     "wof:name":"Podium",
     "wof:parent_id":1158790295,
     "wof:placetype":"neighbourhood",

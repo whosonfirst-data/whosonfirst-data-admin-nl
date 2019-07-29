@@ -29,23 +29,38 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Aalden"
+    ],
     "name:eng_x_preferred":[
+        "Aalden"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0644\u062f\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Aalden"
+    ],
+    "name:fry_x_preferred":[
         "Aalden"
     ],
     "name:nld_x_preferred":[
         "Aalden"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0644\u062f\u06cc\u0646"
     ],
     "reversegeo:latitude":52.789697,
     "reversegeo:longitude":6.717829,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404473807,
         85633337,
         1158792015,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158790787,
-    "wof:lastmodified":1559596014,
+    "wof:lastmodified":1564235833,
     "wof:name":"Aalden",
     "wof:parent_id":1158792015,
     "wof:placetype":"neighbourhood",

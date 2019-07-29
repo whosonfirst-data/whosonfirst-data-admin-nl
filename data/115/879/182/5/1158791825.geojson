@@ -29,10 +29,37 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:afr_x_preferred":[
+        "Oranje"
+    ],
+    "name:deu_x_preferred":[
+        "Oranje"
+    ],
     "name:eng_x_preferred":[
         "Oranje"
     ],
+    "name:est_x_preferred":[
+        "Oranje"
+    ],
+    "name:fin_x_preferred":[
+        "Oranje"
+    ],
+    "name:hrv_x_preferred":[
+        "Oranje"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ub77c\ub15c"
+    ],
+    "name:nds_x_preferred":[
+        "Oranje"
+    ],
     "name:nld_x_preferred":[
+        "Oranje"
+    ],
+    "name:slv_x_preferred":[
+        "Oranje"
+    ],
+    "name:swe_x_preferred":[
         "Oranje"
     ],
     "reversegeo:latitude":52.907744,
@@ -40,12 +67,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474649,
         85633337,
         1158792215,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +90,7 @@
         }
     ],
     "wof:id":1158791825,
-    "wof:lastmodified":1559596120,
+    "wof:lastmodified":1564236237,
     "wof:name":"Oranje",
     "wof:parent_id":1158792215,
     "wof:placetype":"neighbourhood",

@@ -29,11 +29,17 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Clinge"
+    ],
     "name:eng_x_preferred":[
         "Clinge"
     ],
     "name:eng_x_variant":[
         "Kern Clinge"
+    ],
+    "name:fra_x_preferred":[
+        "Clinge"
     ],
     "name:nld_x_preferred":[
         "Clinge"
@@ -41,17 +47,26 @@
     "name:nld_x_variant":[
         "Kern Clinge"
     ],
+    "name:por_x_preferred":[
+        "Clinge"
+    ],
+    "name:spa_x_preferred":[
+        "Clinge"
+    ],
+    "name:zea_x_preferred":[
+        "De Kling"
+    ],
     "reversegeo:latitude":51.270366,
     "reversegeo:longitude":4.090155,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474307,
         85633337,
         101839427,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -69,7 +84,7 @@
         }
     ],
     "wof:id":1158784319,
-    "wof:lastmodified":1559596211,
+    "wof:lastmodified":1564236901,
     "wof:name":"Clinge",
     "wof:parent_id":101839427,
     "wof:placetype":"neighbourhood",

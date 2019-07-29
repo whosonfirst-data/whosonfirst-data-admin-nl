@@ -29,10 +29,40 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Domburg"
+    ],
+    "name:deu_x_preferred":[
+        "Domburg"
+    ],
     "name:eng_x_preferred":[
         "Domburg"
     ],
+    "name:eus_x_preferred":[
+        "Domburg"
+    ],
+    "name:fra_x_preferred":[
+        "Dombourg"
+    ],
+    "name:ita_x_preferred":[
+        "Domburg"
+    ],
+    "name:nds_x_preferred":[
+        "Domburg"
+    ],
     "name:nld_x_preferred":[
+        "Domburg"
+    ],
+    "name:spa_x_preferred":[
+        "Domburgo"
+    ],
+    "name:swe_x_preferred":[
+        "Domburg"
+    ],
+    "name:vls_x_preferred":[
+        "Domburg"
+    ],
+    "name:zea_x_preferred":[
         "Domburg"
     ],
     "reversegeo:latitude":51.564027,
@@ -40,12 +70,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474333,
         85633337,
         101808367,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +93,7 @@
         }
     ],
     "wof:id":1158784669,
-    "wof:lastmodified":1559595512,
+    "wof:lastmodified":1564237095,
     "wof:name":"Domburg",
     "wof:parent_id":101808367,
     "wof:placetype":"neighbourhood",

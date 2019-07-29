@@ -29,10 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0633\u064a\u0631\u062e\u0631\u0648\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Eesergroen"
+    ],
     "name:eng_x_preferred":[
         "Eesergroen"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u0631\u062e\u0631\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Eesergroen"
+    ],
     "name:nld_x_preferred":[
+        "Eesergroen"
+    ],
+    "name:pol_x_preferred":[
+        "Eesergroen"
+    ],
+    "name:por_x_preferred":[
         "Eesergroen"
     ],
     "reversegeo:latitude":52.889643,
@@ -40,12 +58,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474595,
         85633337,
         1158792107,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158791377,
-    "wof:lastmodified":1559595490,
+    "wof:lastmodified":1564236032,
     "wof:name":"Eesergroen",
     "wof:parent_id":1158792107,
     "wof:placetype":"neighbourhood",

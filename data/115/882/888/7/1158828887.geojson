@@ -32,7 +32,13 @@
     "name:eng_x_preferred":[
         "De Dijk"
     ],
+    "name:fra_x_preferred":[
+        "De Dijk"
+    ],
     "name:nld_x_preferred":[
+        "De Dijk"
+    ],
+    "name:nor_x_preferred":[
         "De Dijk"
     ],
     "reversegeo:latitude":51.851386,
@@ -40,13 +46,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831191,
         1158824747,
         85633337,
         101751847,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1158828887,
-    "wof:lastmodified":1559596756,
+    "wof:lastmodified":1564236413,
     "wof:name":"De Dijk",
     "wof:parent_id":1158831191,
     "wof:placetype":"neighbourhood",

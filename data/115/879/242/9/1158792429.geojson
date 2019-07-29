@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Wedde"
+    ],
     "name:eng_x_preferred":[
         "Wedde"
     ],
+    "name:epo_x_preferred":[
+        "Wedde"
+    ],
+    "name:fra_x_preferred":[
+        "Wedde"
+    ],
+    "name:ita_x_preferred":[
+        "Wedde"
+    ],
     "name:nld_x_preferred":[
+        "Wedde"
+    ],
+    "name:pol_x_preferred":[
         "Wedde"
     ],
     "reversegeo:latitude":53.068092,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473705,
         85633337,
         101807531,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158792429,
-    "wof:lastmodified":1559596795,
+    "wof:lastmodified":1564235807,
     "wof:name":"Wedde",
     "wof:parent_id":101807531,
     "wof:placetype":"neighbourhood",

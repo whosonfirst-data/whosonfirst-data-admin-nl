@@ -32,6 +32,12 @@
     "name:eng_x_preferred":[
         "Goidschalxoord"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u06cc\u062f\u0633\u062e\u0627\u0644\u06a9\u0633\u200c\u0627\u0631\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Goidschalxoord"
+    ],
     "name:nld_x_preferred":[
         "Goidschalxoord"
     ],
@@ -40,12 +46,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474233,
         85633337,
         101808489,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1158826729,
-    "wof:lastmodified":1559596609,
+    "wof:lastmodified":1564236353,
     "wof:name":"Goidschalxoord",
     "wof:parent_id":101808489,
     "wof:placetype":"neighbourhood",

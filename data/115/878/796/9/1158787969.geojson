@@ -29,10 +29,31 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Hoven"
+    ],
+    "name:dan_x_preferred":[
+        "Hoven"
+    ],
+    "name:deu_x_preferred":[
+        "Hoven"
+    ],
     "name:eng_x_preferred":[
         "Hoven"
     ],
+    "name:fra_x_preferred":[
+        "Hoven"
+    ],
+    "name:ita_x_preferred":[
+        "Hoven"
+    ],
+    "name:lav_x_preferred":[
+        "Hovens"
+    ],
     "name:nld_x_preferred":[
+        "Hoven"
+    ],
+    "name:pol_x_preferred":[
         "Hoven"
     ],
     "reversegeo:latitude":52.031694,
@@ -40,13 +61,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790319,
         404473987,
         85633337,
         101807003,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +86,7 @@
         }
     ],
     "wof:id":1158787969,
-    "wof:lastmodified":1559595611,
+    "wof:lastmodified":1564236811,
     "wof:name":"Hoven",
     "wof:parent_id":1158790319,
     "wof:placetype":"neighbourhood",

@@ -29,7 +29,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Den Hoorn"
+    ],
     "name:eng_x_preferred":[
+        "Den Hoorn"
+    ],
+    "name:fra_x_preferred":[
+        "Hoorn"
+    ],
+    "name:ita_x_preferred":[
         "Den Hoorn"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474115,
         85633337,
         1158822923,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158820453,
-    "wof:lastmodified":1559595991,
+    "wof:lastmodified":1564236593,
     "wof:name":"Den Hoorn",
     "wof:parent_id":1158822923,
     "wof:placetype":"neighbourhood",

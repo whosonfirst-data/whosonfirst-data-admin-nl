@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Noorderkwartier"
     ],
+    "name:ita_x_preferred":[
+        "Noorderkwartier"
+    ],
     "name:nld_x_preferred":[
         "Noorderkwartier"
     ],
@@ -40,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158829599,
         85633337,
         101751841,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1158825709,
-    "wof:lastmodified":1559596358,
+    "wof:lastmodified":1564236767,
     "wof:name":"Noorderkwartier",
     "wof:parent_id":1158829599,
     "wof:placetype":"neighbourhood",

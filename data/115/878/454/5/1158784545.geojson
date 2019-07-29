@@ -29,11 +29,26 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Axel"
+    ],
     "name:eng_x_preferred":[
         "Axel"
     ],
     "name:eng_x_variant":[
         "Kern Axel"
+    ],
+    "name:fra_x_preferred":[
+        "Axel"
+    ],
+    "name:hun_x_preferred":[
+        "Axel"
+    ],
+    "name:ita_x_preferred":[
+        "Axel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30af\u30bb\u30eb"
     ],
     "name:nld_x_preferred":[
         "Axel"
@@ -41,17 +56,32 @@
     "name:nld_x_variant":[
         "Kern Axel"
     ],
+    "name:nor_x_preferred":[
+        "Axel"
+    ],
+    "name:pol_x_preferred":[
+        "Axel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0441\u0435\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Axel"
+    ],
+    "name:swe_x_preferred":[
+        "Axel"
+    ],
     "reversegeo:latitude":51.264245,
     "reversegeo:longitude":3.911485,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474329,
         85633337,
         101809797,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -69,7 +99,7 @@
         }
     ],
     "wof:id":1158784545,
-    "wof:lastmodified":1559596192,
+    "wof:lastmodified":1564236912,
     "wof:name":"Axel",
     "wof:parent_id":101809797,
     "wof:placetype":"neighbourhood",

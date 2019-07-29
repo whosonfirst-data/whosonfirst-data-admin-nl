@@ -35,18 +35,21 @@
     "name:nld_x_preferred":[
         "kerkbuurt"
     ],
+    "name:nld_x_variant":[
+        "Kerkbuurt"
+    ],
     "reversegeo:latitude":51.862725,
     "reversegeo:longitude":4.664896,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831053,
         404474145,
         85633337,
         101754613,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1158824761,
-    "wof:lastmodified":1559596218,
+    "wof:lastmodified":1564236363,
     "wof:name":"kerkbuurt",
     "wof:parent_id":1158831053,
     "wof:placetype":"neighbourhood",

@@ -29,10 +29,61 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:cat_x_preferred":[
+        "Lith"
+    ],
+    "name:ceb_x_preferred":[
+        "Lith"
+    ],
+    "name:deu_x_preferred":[
+        "Lith"
+    ],
     "name:eng_x_preferred":[
         "Lith"
     ],
+    "name:fra_x_preferred":[
+        "Lith"
+    ],
+    "name:ind_x_preferred":[
+        "Lith"
+    ],
+    "name:ita_x_preferred":[
+        "Lith"
+    ],
+    "name:jav_x_preferred":[
+        "Lith"
+    ],
+    "name:lim_x_preferred":[
+        "Lith"
+    ],
+    "name:msa_x_preferred":[
+        "Lith"
+    ],
     "name:nld_x_preferred":[
+        "Lith"
+    ],
+    "name:pol_x_preferred":[
+        "Lith"
+    ],
+    "name:por_x_preferred":[
+        "Lith"
+    ],
+    "name:ron_x_preferred":[
+        "Lith"
+    ],
+    "name:sqi_x_preferred":[
+        "Lith"
+    ],
+    "name:swe_x_preferred":[
+        "Lith"
+    ],
+    "name:vie_x_preferred":[
+        "Lith"
+    ],
+    "name:vol_x_preferred":[
+        "Lith"
+    ],
+    "name:war_x_preferred":[
         "Lith"
     ],
     "reversegeo:latitude":51.80413,
@@ -40,12 +91,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474415,
         85633337,
         101808185,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +114,7 @@
         }
     ],
     "wof:id":1158798757,
-    "wof:lastmodified":1559596726,
+    "wof:lastmodified":1564235826,
     "wof:name":"Lith",
     "wof:parent_id":101808185,
     "wof:placetype":"neighbourhood",

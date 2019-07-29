@@ -29,10 +29,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Stroe"
+    ],
+    "name:deu_x_preferred":[
+        "Stroe"
+    ],
     "name:eng_x_preferred":[
         "Stroe"
     ],
+    "name:fra_x_preferred":[
+        "Stroe"
+    ],
+    "name:fry_x_preferred":[
+        "Stroe"
+    ],
     "name:nld_x_preferred":[
+        "Stroe"
+    ],
+    "name:ron_x_preferred":[
         "Stroe"
     ],
     "reversegeo:latitude":52.923141,
@@ -40,12 +55,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158818287,
         85633337,
         101806067,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1158821117,
-    "wof:lastmodified":1559595479,
+    "wof:lastmodified":1564236495,
     "wof:name":"Stroe",
     "wof:parent_id":101806067,
     "wof:placetype":"neighbourhood",

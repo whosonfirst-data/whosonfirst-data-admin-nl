@@ -29,10 +29,19 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Oudeschip"
+    ],
     "name:eng_x_preferred":[
         "Oudeschip"
     ],
+    "name:fra_x_preferred":[
+        "Oudeschip"
+    ],
     "name:nld_x_preferred":[
+        "Oudeschip"
+    ],
+    "name:pol_x_preferred":[
         "Oudeschip"
     ],
     "reversegeo:latitude":53.429095,
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404474561,
         85633337,
         1158796651,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158793449,
-    "wof:lastmodified":1559596528,
+    "wof:lastmodified":1564236237,
     "wof:name":"Oudeschip",
     "wof:parent_id":1158796651,
     "wof:placetype":"neighbourhood",

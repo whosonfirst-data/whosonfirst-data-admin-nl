@@ -29,10 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0648\u0646\u064a\u0631\u0641\u064a\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Buinerveen"
+    ],
     "name:eng_x_preferred":[
         "Buinerveen"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc\u0646\u0631\u0641\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Buinerveen"
+    ],
     "name:nld_x_preferred":[
+        "Buinerveen"
+    ],
+    "name:pol_x_preferred":[
+        "Buinerveen"
+    ],
+    "name:por_x_preferred":[
         "Buinerveen"
     ],
     "reversegeo:latitude":52.936644,
@@ -40,12 +58,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474595,
         85633337,
         1158792099,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1158791369,
-    "wof:lastmodified":1559595490,
+    "wof:lastmodified":1564235990,
     "wof:name":"Buinerveen",
     "wof:parent_id":1158792099,
     "wof:placetype":"neighbourhood",

@@ -29,7 +29,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Bergen aan Zee"
+    ],
+    "name:deu_x_preferred":[
+        "Bergen aan Zee"
+    ],
     "name:eng_x_preferred":[
+        "Bergen aan Zee"
+    ],
+    "name:fra_x_preferred":[
         "Bergen aan Zee"
     ],
     "name:nld_x_preferred":[
@@ -40,12 +49,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474041,
         85633337,
         1158822803,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1158818605,
-    "wof:lastmodified":1559595956,
+    "wof:lastmodified":1564235602,
     "wof:name":"Bergen aan Zee",
     "wof:parent_id":1158822803,
     "wof:placetype":"neighbourhood",
