@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.823881,
     "lbl:longitude":4.63779,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.823881,
     "mps:longitude":4.63779,
     "mz:hierarchy_label":1,
@@ -40,17 +41,17 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831145,
         404474291,
         85633337,
-        101754703
+        101754703,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"fcc6db7325189cd4a07297b133805c3a",
+    "wof:geomhash":"9b61fff94cebf32da86893eb95806df5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158827671,
-    "wof:lastmodified":1513588164,
+    "wof:lastmodified":1566660200,
     "wof:name":"Langeraarstraat en omgeving",
     "wof:parent_id":1158831145,
     "wof:placetype":"neighbourhood",
@@ -73,9 +74,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.636104451117743,
+    4.63610445111774,
     51.82252620757554,
-    4.639440574528202,
+    4.6394405745282,
     51.82519029028902
 ],
   "geometry": {"coordinates":[[[[4.6383473158851,51.82502866058819],[4.6394405745282,51.8245247582947],[4.63845788392734,51.82346110890841],[4.63760361566481,51.82252620757554],[4.6363858090032,51.82304689546199],[4.63610445111774,51.82318257773037],[4.63674870947749,51.82388886857066],[4.63779616177595,51.82519029028902],[4.6383473158851,51.82502866058819]]]],"type":"MultiPolygon"}

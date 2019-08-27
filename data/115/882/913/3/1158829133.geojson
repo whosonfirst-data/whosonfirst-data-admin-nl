@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.009236,
     "lbl:longitude":4.782207,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.009236,
     "mps:longitude":4.782207,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158824749,
         85633337,
         101808079,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158829133,
-    "wof:lastmodified":1559595806,
+    "wof:lastmodified":1566660182,
     "wof:name":"Verspr. huizen Haastrecht Noord",
     "wof:parent_id":101808079,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.092049,
     "lbl:longitude":5.217061,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.092049,
     "mps:longitude":5.217061,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790355,
         404474019,
         85633337,
         101751823,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158788589,
-    "wof:lastmodified":1559596346,
+    "wof:lastmodified":1566660601,
     "wof:name":"Crosesteijn",
     "wof:parent_id":1158790355,
     "wof:placetype":"neighbourhood",

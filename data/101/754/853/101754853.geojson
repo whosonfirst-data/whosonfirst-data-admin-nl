@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.524722,
     "lbl:longitude":4.705315,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.522882,
     "mps:longitude":4.727895,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0622\u0648\u062a\u062e\u064a\u0633\u062a"
     ],
@@ -183,7 +186,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":389,
     "wof:belongsto":[
@@ -198,7 +201,6 @@
         "fct:id":"01f21798-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2745978,
         "gp:id":734017,
-        "qs:id":1352496,
         "qs_pg:id":1352496,
         "tgn:id":1048160,
         "wd:id":"Q9967"
@@ -219,7 +221,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350294,
+    "wof:lastmodified":1566657855,
     "wof:name":"Uitgeest",
     "wof:parent_id":404474117,
     "wof:placetype":"locality",

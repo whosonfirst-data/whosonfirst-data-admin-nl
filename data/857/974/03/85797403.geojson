@@ -24,6 +24,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.082425,
     "lbl:longitude":5.167225,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.078339,
     "mps:longitude":5.172149,
     "mz:hierarchy_label":1,
@@ -49,9 +50,6 @@
     ],
     "name:nld_x_variant":[
         "Utrecht Science Park"
-    ],
-    "name:unk_x_variant":[
-        "De Uithof"
     ],
     "qs:gn_adm0_cc":"NL",
     "qs:gn_fcode":"PPLX",
@@ -84,7 +82,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":567,
     "wof:belongsto":[
         102191581,
@@ -99,7 +97,6 @@
         "fct:id":"01f67784-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2757015,
         "gp:id":728539,
-        "qs:id":849679,
         "qs_pg:id":849679,
         "wd:id":"Q5363315",
         "wk:page":"Uithof"
@@ -121,7 +118,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563349611,
+    "wof:lastmodified":1566657349,
     "wof:name":"De Uithof",
     "wof:parent_id":1108808669,
     "wof:placetype":"neighbourhood",

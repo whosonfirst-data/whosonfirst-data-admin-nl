@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.556374,
     "lbl:longitude":4.941739,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.5359,
     "mps:longitude":4.929135,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gilze"
     ],
@@ -68,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":200,
     "wof:belongsto":[
         85687035,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2755507,
         "gp:id":729422,
-        "qs:id":897794,
         "qs_pg:id":897794,
         "tgn:id":1047790,
         "wd:id":"Q2068159"
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101839359,
-    "wof:lastmodified":1563351045,
+    "wof:lastmodified":1566658237,
     "wof:name":"Gilze",
     "wof:parent_id":404474381,
     "wof:placetype":"locality",

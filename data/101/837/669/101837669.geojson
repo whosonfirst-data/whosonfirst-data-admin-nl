@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.254013,
     "lbl:longitude":5.258741,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.252026,
     "mps:longitude":5.279667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0645\u0646\u064a\u0633"
     ],
@@ -115,7 +118,7 @@
     "name:swe_x_preferred":[
         "Eemnes"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eemnes-binne"
     ],
     "name:vol_x_preferred":[
@@ -145,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wd:latitude":52.2539,
     "wd:longitude":5.2572,
@@ -160,7 +163,7 @@
     "wof:concordances":{
         "gn:id":2756392,
         "gp:id":728962,
-        "qs:id":1158255,
+        "qs_pg:id":1158255,
         "tgn:id":7261627,
         "wd:id":"Q10037"
     },
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":101837669,
-    "wof:lastmodified":1563350707,
+    "wof:lastmodified":1566658056,
     "wof:name":"Eemnes",
     "wof:parent_id":85687039,
     "wof:placetype":"locality",

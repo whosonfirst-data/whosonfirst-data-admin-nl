@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.564745,
     "lbl:longitude":5.995524,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.564745,
     "mps:longitude":5.995524,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404474683,
         85633337,
         1158805781,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158802971,
-    "wof:lastmodified":1559596859,
+    "wof:lastmodified":1566659097,
     "wof:name":"Verspreide huizen polder Mastenbroek",
     "wof:parent_id":1158805781,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.467939,
     "lbl:longitude":4.688024,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.467939,
     "mps:longitude":4.688024,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474459,
         85633337,
         101839389,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158799675,
-    "wof:lastmodified":1559596736,
+    "wof:lastmodified":1566659632,
     "wof:name":"Verspreide huizen Zundert",
     "wof:parent_id":101839389,
     "wof:placetype":"neighbourhood",

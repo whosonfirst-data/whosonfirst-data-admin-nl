@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.381885,
     "lbl:longitude":4.399132,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.381885,
     "mps:longitude":4.399132,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474455,
         85633337,
         101755869,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158799631,
-    "wof:lastmodified":1559597111,
+    "wof:lastmodified":1566659380,
     "wof:name":"Verspreide huizen Putte",
     "wof:parent_id":101755869,
     "wof:placetype":"neighbourhood",

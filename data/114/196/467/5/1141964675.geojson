@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.851178,
     "lbl:longitude":5.315045,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.851178,
     "mps:longitude":5.315045,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473967,
         85633337,
         1158783767,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964675,
-    "wof:lastmodified":1559596313,
+    "wof:lastmodified":1566661268,
     "wof:name":"Est",
     "wof:parent_id":1158783767,
     "wof:placetype":"neighbourhood",

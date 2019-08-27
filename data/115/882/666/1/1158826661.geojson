@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.249598,
     "lbl:longitude":4.470288,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.249598,
     "mps:longitude":4.470288,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474223,
         85633337,
         101803693,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158826661,
-    "wof:lastmodified":1559596577,
+    "wof:lastmodified":1566660124,
     "wof:name":"Verspreide huizen ten zuiden van de gemeente",
     "wof:parent_id":101803693,
     "wof:placetype":"neighbourhood",

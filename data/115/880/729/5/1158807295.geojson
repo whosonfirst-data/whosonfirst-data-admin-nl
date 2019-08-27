@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.415201,
     "lbl:longitude":5.985869,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.415201,
     "mps:longitude":5.985869,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474541,
         85633337,
         101855221,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807295,
-    "wof:lastmodified":1559596760,
+    "wof:lastmodified":1566659156,
     "wof:name":"Verspreide huizen Kronenberg",
     "wof:parent_id":101855221,
     "wof:placetype":"neighbourhood",

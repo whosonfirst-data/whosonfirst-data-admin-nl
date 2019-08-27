@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.986411,
     "lbl:longitude":6.849388,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.99356,
     "mps:longitude":6.850122,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gasselternijveen"
     ],
@@ -55,7 +58,7 @@
     "name:spa_x_preferred":[
         "Gasselternijveen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gasselternijeveen"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -80,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":100,
     "wof:belongsto":[
         85687051,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2755712,
         "gp:id":729313,
-        "qs:id":301818,
         "qs_pg:id":301818,
         "tgn:id":7261700,
         "wd:id":"Q2162450",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101806057,
-    "wof:lastmodified":1563351001,
+    "wof:lastmodified":1566658217,
     "wof:name":"Gasselternijveen",
     "wof:parent_id":404474593,
     "wof:placetype":"locality",

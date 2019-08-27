@@ -22,11 +22,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.735914,
     "lbl:longitude":5.138991,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.734729,
     "mps:longitude":5.140887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Heusden"
     ],
@@ -129,7 +132,7 @@
     "name:tur_x_preferred":[
         "Heusden"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Housden"
     ],
     "name:vie_x_preferred":[
@@ -165,7 +168,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1006,
     "wof:belongsto":[
@@ -179,7 +182,7 @@
     "wof:concordances":{
         "gn:id":2754135,
         "gp:id":730096,
-        "qs:id":3,
+        "qs_pg:id":3,
         "tgn:id":4005002,
         "wd:id":"Q9845",
         "wk:page":"Heusden"
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":101808211,
-    "wof:lastmodified":1563350807,
+    "wof:lastmodified":1566658107,
     "wof:name":"Heusden",
     "wof:parent_id":404474395,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.196613,
     "lbl:longitude":5.883816,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.196613,
     "mps:longitude":5.883816,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474559,
         85633337,
         101839235,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807417,
-    "wof:lastmodified":1559596816,
+    "wof:lastmodified":1566658943,
     "wof:name":"Verspreide huizen Heel",
     "wof:parent_id":101839235,
     "wof:placetype":"neighbourhood",

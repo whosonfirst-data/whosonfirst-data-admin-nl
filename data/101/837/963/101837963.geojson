@@ -18,15 +18,18 @@
     "geom:bbox":"5.95806448985,52.9561796811,6.02327169027,52.9724246687",
     "geom:latitude":52.963692,
     "geom:longitude":5.988696,
-    "geonames:id":"2758492,2759213",
+    "gn:id":"2758492,2759213",
     "iso:country":"NL",
     "lbl:latitude":52.933714,
     "lbl:longitude":5.954218,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.933714,
     "mps:longitude":5.954218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "De Knipe"
     ],
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":79,
     "wof:belongsto":[
         85687055,
@@ -95,9 +98,11 @@
     "wof:concordances":{
         "gn:id":6697854,
         "gp:id":732585,
-        "qs:id":6,
-        "qs_pg:id":1053805,
+        "qs_pg:id":6,
         "wd:id":"Q2466507"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1053805
     },
     "wof:country":"NL",
     "wof:geomhash":"76853992cbb52ff8694e1e3c2bb9acd3",
@@ -112,7 +117,7 @@
         }
     ],
     "wof:id":101837963,
-    "wof:lastmodified":1563350690,
+    "wof:lastmodified":1566658049,
     "wof:name":"De Knijpe",
     "wof:parent_id":404473771,
     "wof:placetype":"locality",

@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.288216,
     "lbl:longitude":6.151656,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.292387,
     "mps:longitude":6.157354,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Diepenveen"
     ],
@@ -80,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.2894,
     "wd:longitude":6.15,
     "wd:wordcount":85,
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":2756875,
         "gp:id":728700,
-        "qs:id":881198,
         "qs_pg:id":881198,
         "tgn:id":7006941,
         "wd:id":"Q2905573",
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101754775,
-    "wof:lastmodified":1563350303,
+    "wof:lastmodified":1566657859,
     "wof:name":"Diepenveen",
     "wof:parent_id":404473825,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.212284,
     "lbl:longitude":6.821275,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.212284,
     "mps:longitude":6.821275,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         1158805851,
         404473827,
         85633337,
         101751871,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158802397,
-    "wof:lastmodified":1559595514,
+    "wof:lastmodified":1566659082,
     "wof:name":"Marssteden",
     "wof:parent_id":1158805851,
     "wof:placetype":"neighbourhood",

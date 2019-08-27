@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.686754,
     "lbl:longitude":6.771621,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.686754,
     "mps:longitude":6.771621,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404473807,
         85633337,
         101807277,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158790705,
-    "wof:lastmodified":1559595860,
+    "wof:lastmodified":1566659432,
     "wof:name":"Verspreide huizen Dalen",
     "wof:parent_id":101807277,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.828178,
     "lbl:longitude":4.437553,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.828178,
     "mps:longitude":4.437553,
     "mz:hierarchy_label":1,
@@ -40,11 +41,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         85633337,
         101754705,
-        136253051,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1158826697,
-    "wof:lastmodified":1559596596,
+    "wof:lastmodified":1566660085,
     "wof:name":"Bedrijventerrein De Bosschen",
     "wof:parent_id":101754705,
     "wof:placetype":"neighbourhood",

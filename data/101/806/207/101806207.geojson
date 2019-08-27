@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.24278,
     "lbl:longitude":6.974692,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.240477,
     "mps:longitude":6.981582,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Nieuwolda"
     ],
@@ -71,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.2447,
     "wd:longitude":6.9758,
     "wd:wordcount":82,
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":2750154,
         "gp:id":732028,
-        "qs:id":217201,
         "qs_pg:id":217201,
         "tgn:id":1047983,
         "wd:id":"Q2483664",
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101806207,
-    "wof:lastmodified":1563350999,
+    "wof:lastmodified":1566658216,
     "wof:name":"Nieuwolda",
     "wof:parent_id":1158792361,
     "wof:placetype":"locality",

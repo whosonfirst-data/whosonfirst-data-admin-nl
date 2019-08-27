@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.623494,
     "lbl:longitude":6.047073,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.612952,
     "mps:longitude":6.022238,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u0435\u043d\u0435\u043c\u0443\u0438\u0434\u0435\u043d"
     ],
@@ -87,7 +90,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":310,
     "wof:belongsto":[
         85687045,
@@ -100,7 +103,6 @@
     "wof:concordances":{
         "gn:id":2755594,
         "gp:id":729375,
-        "qs:id":1079579,
         "qs_pg:id":1079579,
         "tgn:id":1047786,
         "wd:id":"Q81186",
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101807193,
-    "wof:lastmodified":1563350445,
+    "wof:lastmodified":1566657914,
     "wof:name":"Genemuiden",
     "wof:parent_id":404474683,
     "wof:placetype":"locality",

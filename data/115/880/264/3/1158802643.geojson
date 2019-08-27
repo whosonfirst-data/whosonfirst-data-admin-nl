@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.574821,
     "lbl:longitude":6.642856,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.574819,
     "mps:longitude":6.642847,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473831,
         85633337,
         101807179,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158802643,
-    "wof:lastmodified":1559596884,
+    "wof:lastmodified":1566659095,
     "wof:name":"Baalderveld",
     "wof:parent_id":101807179,
     "wof:placetype":"neighbourhood",

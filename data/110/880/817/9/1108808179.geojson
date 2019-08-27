@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.082956,
     "lbl:longitude":4.283273,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.082956,
     "mps:longitude":4.283273,
     "mz:hierarchy_label":1,
@@ -33,13 +34,13 @@
     "reversegeo:longitude":4.283273,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831875,
         85633337,
         101752763,
         136253051,
-        1108808041
+        1108808041,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108808179,
-    "wof:lastmodified":1559596282,
+    "wof:lastmodified":1566657591,
     "wof:name":"Sweelinckplein en omgeving",
     "wof:parent_id":1158831875,
     "wof:placetype":"neighbourhood",

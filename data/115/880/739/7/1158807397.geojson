@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.16283,
     "lbl:longitude":5.926117,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.16283,
     "mps:longitude":5.926117,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474559,
         85633337,
         101839217,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807397,
-    "wof:lastmodified":1559596813,
+    "wof:lastmodified":1566658739,
     "wof:name":"Verspreide huizen Linnerveld en Weerd",
     "wof:parent_id":101839217,
     "wof:placetype":"neighbourhood",

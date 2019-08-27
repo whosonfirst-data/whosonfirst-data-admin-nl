@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.962489,
     "lbl:longitude":5.893409,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.968117,
     "mps:longitude":5.897581,
     "mz:hierarchy_label":0,
@@ -38,9 +39,6 @@
         "Malburgen West"
     ],
     "name:nld_x_preferred":[
-        "Malburgen West"
-    ],
-    "name:unk_x_variant":[
         "Malburgen West"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -74,21 +72,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783979,
         404473871,
         85633337,
         101751857,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2751243,
         "gp:id":731523,
-        "qs:id":1080783,
         "qs_pg:id":1080783
     },
     "wof:country":"NL",
@@ -109,7 +106,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596064,
+    "wof:lastmodified":1566657329,
     "wof:name":"Malburgen West",
     "wof:parent_id":1158783979,
     "wof:placetype":"neighbourhood",

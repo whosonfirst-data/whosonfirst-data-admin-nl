@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.396854,
     "lbl:longitude":6.762009,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.396854,
     "mps:longitude":6.762009,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473855,
         85633337,
         101807187,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158803301,
-    "wof:lastmodified":1559597061,
+    "wof:lastmodified":1566658753,
     "wof:name":"Verspreide huizen Tubbergen",
     "wof:parent_id":101807187,
     "wof:placetype":"neighbourhood",

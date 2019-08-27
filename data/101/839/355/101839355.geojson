@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.569684,
     "lbl:longitude":4.64294,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.580498,
     "mps:longitude":4.640742,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u062a\u0646- \u0644\u0648\u0631"
     ],
@@ -173,7 +176,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":377,
     "wof:belongsto":[
         85687035,
@@ -187,7 +190,6 @@
         "fct:id":"01f0ae44-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2755996,
         "gp:id":729189,
-        "qs:id":1143986,
         "qs_pg:id":1143986,
         "wd:id":"Q9833",
         "wk:page":"Etten-Leur"
@@ -208,7 +210,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351018,
+    "wof:lastmodified":1566658225,
     "wof:name":"Etten-Leur",
     "wof:parent_id":404474377,
     "wof:placetype":"locality",

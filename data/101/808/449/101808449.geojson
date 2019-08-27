@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.972485,
     "lbl:longitude":4.940526,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.976536,
     "mps:longitude":4.964266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0628\u064a\u0643"
     ],
@@ -139,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":193,
     "wof:belongsto":[
@@ -153,7 +156,6 @@
         "fct:id":"01f146ba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2751436,
         "gp:id":731408,
-        "qs:id":1065248,
         "qs_pg:id":1065248,
         "tgn:id":1047923,
         "wd:id":"Q10047"
@@ -173,7 +175,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350810,
+    "wof:lastmodified":1566658108,
     "wof:name":"Lopik",
     "wof:parent_id":404473993,
     "wof:placetype":"locality",

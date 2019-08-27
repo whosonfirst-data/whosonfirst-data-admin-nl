@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.626879,
     "lbl:longitude":6.555616,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.627268,
     "mps:longitude":6.531233,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Slagharen"
     ],
@@ -68,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687045,
         102191581,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":2747191,
         "gp:id":733395,
-        "qs:id":222677,
         "qs_pg:id":222677,
         "tgn:id":7270828,
         "wd:id":"Q2631564"
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101808767,
-    "wof:lastmodified":1563350881,
+    "wof:lastmodified":1566658155,
     "wof:name":"Slagharen",
     "wof:parent_id":404473831,
     "wof:placetype":"locality",

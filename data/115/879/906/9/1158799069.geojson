@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.579407,
     "lbl:longitude":4.232351,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.579407,
     "mps:longitude":4.232351,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474431,
         85633337,
         101808303,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158799069,
-    "wof:lastmodified":1559596754,
+    "wof:lastmodified":1566659366,
     "wof:name":"Verspreide huizen waaronder Pelsendijk en Rolaf",
     "wof:parent_id":101808303,
     "wof:placetype":"neighbourhood",

@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.954878,
     "lbl:longitude":6.307761,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.184555,
     "mps:longitude":5.930424,
     "mz:hierarchy_label":1,
@@ -73,11 +74,6 @@
     "name:nld_x_variant":[
         "Uchelen"
     ],
-    "name:unk_x_variant":[
-        "Ugchelen",
-        "Uchelen",
-        "Uchelen"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Ugchelen"
     ],
@@ -112,7 +108,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":52.1853,
     "wd:longitude":5.9408,
     "wd:wordcount":193,
@@ -128,7 +124,6 @@
     "wof:concordances":{
         "gn:id":2745997,
         "gp:id":734003,
-        "qs:id":102369,
         "qs_pg:id":102369,
         "wd:id":"Q1915779",
         "wk:page":"Ugchelen"
@@ -150,7 +145,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563349595,
+    "wof:lastmodified":1566657336,
     "wof:name":"Ugchelen",
     "wof:parent_id":1158783437,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.463792,
     "lbl:longitude":3.780545,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.463792,
     "mps:longitude":3.780545,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474299,
         85633337,
         101808389,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158784231,
-    "wof:lastmodified":1559596174,
+    "wof:lastmodified":1566660555,
     "wof:name":"Verspreide huizen 's-Heerenhoek",
     "wof:parent_id":101808389,
     "wof:placetype":"neighbourhood",

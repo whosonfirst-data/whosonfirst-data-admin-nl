@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.662791,
     "lbl:longitude":7.014172,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.662791,
     "mps:longitude":7.014172,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404473809,
         85633337,
         101846155,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158790951,
-    "wof:lastmodified":1559596233,
+    "wof:lastmodified":1566659750,
     "wof:name":"Verspreide huizen Weiteveen",
     "wof:parent_id":101846155,
     "wof:placetype":"neighbourhood",

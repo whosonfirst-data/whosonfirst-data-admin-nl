@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.098207,
     "lbl:longitude":4.945661,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.098207,
     "mps:longitude":4.945661,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404474285,
         85633337,
         1158790387,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158788819,
-    "wof:lastmodified":1559596580,
+    "wof:lastmodified":1566660548,
     "wof:name":"Putkop",
     "wof:parent_id":1158790387,
     "wof:placetype":"neighbourhood",

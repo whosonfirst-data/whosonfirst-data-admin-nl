@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.770316,
     "lbl:longitude":5.286645,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.770316,
     "mps:longitude":5.286645,
     "mz:hierarchy_label":0,
@@ -42,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473917,
         85633337,
         1158783393,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1141963683,
-    "wof:lastmodified":1559596952,
+    "wof:lastmodified":1566661185,
     "wof:name":"Verspreide huizen Velddriel, Vlierd en Beemden",
     "wof:parent_id":1158783393,
     "wof:placetype":"neighbourhood",

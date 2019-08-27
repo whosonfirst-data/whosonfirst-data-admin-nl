@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.905726,
     "lbl:longitude":6.302779,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.905726,
     "mps:longitude":6.302779,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474613,
         85633337,
         1158792155,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158791605,
-    "wof:lastmodified":1559596783,
+    "wof:lastmodified":1566659381,
     "wof:name":"Verspreide huizen Zorgvlied",
     "wof:parent_id":1158792155,
     "wof:placetype":"neighbourhood",

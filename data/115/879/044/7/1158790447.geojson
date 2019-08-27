@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.001652,
     "lbl:longitude":6.545618,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.001652,
     "mps:longitude":6.545618,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         1158792261,
         404473805,
         85633337,
         101751879,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158790447,
-    "wof:lastmodified":1559595887,
+    "wof:lastmodified":1566659707,
     "wof:name":"Luchiesland Zuid",
     "wof:parent_id":1158792261,
     "wof:placetype":"neighbourhood",

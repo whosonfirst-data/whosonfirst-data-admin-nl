@@ -14,11 +14,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.207918,
     "lbl:longitude":5.958917,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":52.210473,
     "mps:longitude":5.97659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Apeldoorn"
     ],
@@ -271,7 +274,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1859,
     "wof:belongsto":[
@@ -286,7 +289,6 @@
         "fct:id":"01f034aa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2759706,
         "gp:id":727318,
-        "qs:id":141379,
         "qs_pg:id":141379,
         "tgn:id":7006898,
         "wd:id":"Q101918"
@@ -307,7 +309,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350424,
+    "wof:lastmodified":1566657904,
     "wof:name":"Apeldoorn",
     "wof:parent_id":404473867,
     "wof:placetype":"locality",

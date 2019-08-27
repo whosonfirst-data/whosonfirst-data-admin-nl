@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.785671,
     "lbl:longitude":4.603264,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.785671,
     "mps:longitude":4.603264,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474233,
         85633337,
         101754655,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158826809,
-    "wof:lastmodified":1559596611,
+    "wof:lastmodified":1566660040,
     "wof:name":"Schuilingen",
     "wof:parent_id":101754655,
     "wof:placetype":"neighbourhood",

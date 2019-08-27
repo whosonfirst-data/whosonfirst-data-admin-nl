@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.734573,
     "lbl:longitude":3.842717,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.72288,
     "mps:longitude":3.856476,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Scharendijke"
     ],
@@ -82,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":101,
     "wof:belongsto":[
@@ -97,7 +100,6 @@
         "fct:id":"01f1dabc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2747680,
         "gp:id":733216,
-        "qs:id":1136769,
         "qs_pg:id":1136769,
         "tgn:id":7269469,
         "wd:id":"Q660156",
@@ -119,7 +121,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350890,
+    "wof:lastmodified":1566658159,
     "wof:name":"Scharendijke",
     "wof:parent_id":404474591,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.972396,
     "lbl:longitude":5.667287,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.972396,
     "mps:longitude":5.667287,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473947,
         85633337,
         101837813,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964209,
-    "wof:lastmodified":1559596323,
+    "wof:lastmodified":1566661244,
     "wof:name":"Buitenwijk Wageningen-Noord",
     "wof:parent_id":101837813,
     "wof:placetype":"neighbourhood",

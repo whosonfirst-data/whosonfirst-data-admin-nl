@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.531322,
     "lbl:longitude":6.108157,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.528879,
     "mps:longitude":6.111335,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Blitterswijck"
     ],
@@ -53,7 +56,7 @@
     "name:nld_x_preferred":[
         "Blitterswijck"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Blitterswijk"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -78,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.5319,
     "wd:longitude":6.1056,
     "wd:wordcount":80,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2758809,
         "gp:id":727783,
-        "qs:id":273326,
         "qs_pg:id":273326,
         "tgn:id":7257425,
         "wd:id":"Q2906656",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101808141,
-    "wof:lastmodified":1563350948,
+    "wof:lastmodified":1566658190,
     "wof:name":"Blitterswijck",
     "wof:parent_id":404474527,
     "wof:placetype":"locality",

@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.499286,
     "lbl:longitude":3.605117,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.506693,
     "mps:longitude":3.595441,
     "mz:hierarchy_label":1,
@@ -38,9 +39,6 @@
         "Griffioen"
     ],
     "name:nld_x_preferred":[
-        "Griffioen"
-    ],
-    "name:unk_x_variant":[
         "Griffioen"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -74,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":42,
     "wof:belongsto":[
         102191581,
@@ -88,7 +86,6 @@
     "wof:concordances":{
         "gn:id":2755319,
         "gp:id":729516,
-        "qs:id":1080759,
         "qs_pg:id":1080759
     },
     "wof:country":"NL",
@@ -108,7 +105,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269562,
+    "wof:lastmodified":1566657359,
     "wof:name":"Griffioen",
     "wof:parent_id":1158786455,
     "wof:placetype":"neighbourhood",

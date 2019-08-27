@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.734071,
     "lbl:longitude":5.962138,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.734071,
     "mps:longitude":5.962138,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404474621,
         85633337,
         101807139,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158803823,
-    "wof:lastmodified":1559597126,
+    "wof:lastmodified":1566658925,
     "wof:name":"Verspreide huizen ten noorden van Blokzijl",
     "wof:parent_id":101807139,
     "wof:placetype":"neighbourhood",

@@ -18,11 +18,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.018523,
     "lbl:longitude":4.702678,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":52.018548,
     "mps:longitude":4.702858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Gouda"
     ],
@@ -215,9 +218,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0443\u0434\u0430"
     ],
-    "name:unk_x_variant":[
-        "Guda"
-    ],
     "name:vie_x_preferred":[
         "Gouda"
     ],
@@ -252,7 +252,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wd:latitude":52.016667,
     "wd:longitude":4.716667,
@@ -269,7 +269,6 @@
         "fct:id":"01f0c708-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2755420,
         "gp:id":729467,
-        "qs:id":794739,
         "qs_pg:id":794739,
         "tgn:id":7006805,
         "wd:id":"Q84125",
@@ -290,7 +289,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350426,
+    "wof:lastmodified":1566657905,
     "wof:name":"Gouda",
     "wof:parent_id":85687041,
     "wof:placetype":"locality",

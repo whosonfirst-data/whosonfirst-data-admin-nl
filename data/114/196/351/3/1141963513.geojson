@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.382036,
     "lbl:longitude":6.103515,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.382036,
     "mps:longitude":6.103515,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473911,
         85633337,
         1158783553,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963513,
-    "wof:lastmodified":1559597062,
+    "wof:lastmodified":1566661194,
     "wof:name":"Verspreide huizen Veessen",
     "wof:parent_id":1158783553,
     "wof:placetype":"neighbourhood",

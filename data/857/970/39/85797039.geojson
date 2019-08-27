@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.488395,
     "lbl:longitude":3.589908,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.491067,
     "mps:longitude":3.600469,
     "mz:hierarchy_label":1,
@@ -42,9 +43,6 @@
     ],
     "name:nld_x_preferred":[
         "Stromenwijk/'t Zand"
-    ],
-    "name:unk_x_variant":[
-        "'t Zand"
     ],
     "qs:gn_adm0_cc":"NL",
     "qs:gn_fcode":"PPLX",
@@ -77,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":56,
     "wof:belongsto":[
         102191581,
@@ -91,7 +89,6 @@
     "wof:concordances":{
         "gn:id":2746030,
         "gp:id":726994,
-        "qs:id":477016,
         "qs_pg:id":477016
     },
     "wof:country":"NL",
@@ -111,7 +108,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269453,
+    "wof:lastmodified":1566657325,
     "wof:name":"Stromenwijk/'t Zand",
     "wof:parent_id":1158786457,
     "wof:placetype":"neighbourhood",

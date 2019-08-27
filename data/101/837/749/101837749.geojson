@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.863643,
     "lbl:longitude":6.113892,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.863846,
     "mps:longitude":6.114757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Lobith"
     ],
@@ -56,7 +59,7 @@
     "name:nld_x_preferred":[
         "Lobith"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lobit"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -81,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8617,
     "wd:longitude":6.1181,
     "wd:wordcount":111,
@@ -96,7 +99,6 @@
     "wof:concordances":{
         "gn:id":2751538,
         "gp:id":731354,
-        "qs:id":1168066,
         "qs_pg:id":1168066,
         "tgn:id":7029961,
         "wd:id":"Q3110427",
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":101837749,
-    "wof:lastmodified":1563350720,
+    "wof:lastmodified":1566658063,
     "wof:name":"Lobith",
     "wof:parent_id":404473863,
     "wof:placetype":"locality",

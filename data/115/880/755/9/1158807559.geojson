@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.101113,
     "lbl:longitude":5.989758,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.101113,
     "mps:longitude":5.989758,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474627,
         85633337,
         101855215,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807559,
-    "wof:lastmodified":1559595739,
+    "wof:lastmodified":1566658731,
     "wof:name":"Diergaarde",
     "wof:parent_id":101855215,
     "wof:placetype":"neighbourhood",

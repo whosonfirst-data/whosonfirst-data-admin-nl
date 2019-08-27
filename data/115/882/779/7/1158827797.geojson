@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.818227,
     "lbl:longitude":4.567335,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.818227,
     "mps:longitude":4.567335,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831161,
         404474291,
         85633337,
         101808507,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158827797,
-    "wof:lastmodified":1559597143,
+    "wof:lastmodified":1566660180,
     "wof:name":"Hooge Nespolder",
     "wof:parent_id":1158831161,
     "wof:placetype":"neighbourhood",

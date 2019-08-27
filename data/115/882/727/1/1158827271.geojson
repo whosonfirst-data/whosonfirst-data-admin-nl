@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.913328,
     "lbl:longitude":4.088314,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.913328,
     "mps:longitude":4.088314,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474267,
         85633337,
         101808543,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158827271,
-    "wof:lastmodified":1559595689,
+    "wof:lastmodified":1566660457,
     "wof:name":"Duinoord",
     "wof:parent_id":101808543,
     "wof:placetype":"neighbourhood",

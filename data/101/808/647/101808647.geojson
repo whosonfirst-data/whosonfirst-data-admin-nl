@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.826011,
     "lbl:longitude":5.129364,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.843391,
     "mps:longitude":5.124432,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Herwijnen"
     ],
@@ -81,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8253,
     "wd:longitude":5.1303,
     "wd:wordcount":145,
@@ -97,7 +100,6 @@
         "fct:id":"01f0ee5e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2754318,
         "gp:id":730024,
-        "qs:id":290219,
         "qs_pg:id":290219,
         "tgn:id":7266551,
         "wd:id":"Q2347830",
@@ -119,7 +121,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350908,
+    "wof:lastmodified":1566658169,
     "wof:name":"Herwijnen",
     "wof:parent_id":404474339,
     "wof:placetype":"locality",

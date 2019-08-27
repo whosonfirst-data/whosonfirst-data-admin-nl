@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.474414,
     "lbl:longitude":4.652729,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.474414,
     "mps:longitude":4.652729,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474123,
         85633337,
         101754857,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158820595,
-    "wof:lastmodified":1559596062,
+    "wof:lastmodified":1566660350,
     "wof:name":"Watervlietbuurt",
     "wof:parent_id":101754857,
     "wof:placetype":"neighbourhood",

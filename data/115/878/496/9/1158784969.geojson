@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.288323,
     "lbl:longitude":3.401994,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.288323,
     "mps:longitude":3.401994,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474629,
         85633337,
         101809825,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158784969,
-    "wof:lastmodified":1559595979,
+    "wof:lastmodified":1566660619,
     "wof:name":"Verspreide huizen Sluis",
     "wof:parent_id":101809825,
     "wof:placetype":"neighbourhood",

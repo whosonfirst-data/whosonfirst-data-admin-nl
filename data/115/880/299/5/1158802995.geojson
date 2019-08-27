@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.30165,
     "lbl:longitude":6.96711,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.30165,
     "mps:longitude":6.96711,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473841,
         85633337,
         101807149,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158802995,
-    "wof:lastmodified":1559595982,
+    "wof:lastmodified":1566659106,
     "wof:name":"Verspreide huizen De Lutte",
     "wof:parent_id":101807149,
     "wof:placetype":"neighbourhood",

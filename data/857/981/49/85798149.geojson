@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.960836,
     "lbl:longitude":4.542421,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.96105,
     "mps:longitude":4.550542,
     "mz:hierarchy_label":1,
@@ -42,9 +43,6 @@
         "Ommoord"
     ],
     "name:nld_x_preferred":[
-        "Ommoord"
-    ],
-    "name:unk_x_variant":[
         "Ommoord"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -78,7 +76,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":51.9622,
     "wd:longitude":4.5506,
     "wd:wordcount":162,
@@ -94,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2749604,
         "gp:id":732277,
-        "qs:id":1291574,
         "qs_pg:id":1291574,
         "wd:id":"Q3144479",
         "wk:page":"Ommoord"
@@ -116,7 +113,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561768047,
+    "wof:lastmodified":1566657357,
     "wof:name":"Ommoord",
     "wof:parent_id":1108805725,
     "wof:placetype":"neighbourhood",

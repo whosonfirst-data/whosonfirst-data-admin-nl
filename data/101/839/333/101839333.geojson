@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.589855,
     "lbl:longitude":5.315775,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.596656,
     "mps:longitude":5.315772,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u0633\u062a\u0644"
     ],
@@ -149,9 +152,6 @@
     "name:swe_x_preferred":[
         "Boxtel"
     ],
-    "name:unk_x_variant":[
-        "Bokstel"
-    ],
     "name:vie_x_preferred":[
         "Boxtel"
     ],
@@ -186,7 +186,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":178,
     "wof:belongsto":[
@@ -201,7 +201,6 @@
         "fct:id":"01f06150-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2758460,
         "gp:id":727943,
-        "qs:id":239824,
         "qs_pg:id":239824,
         "tgn:id":1047673,
         "wd:id":"Q9821"
@@ -222,7 +221,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351052,
+    "wof:lastmodified":1566658239,
     "wof:name":"Boxtel",
     "wof:parent_id":404474361,
     "wof:placetype":"locality",

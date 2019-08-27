@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.181577,
     "lbl:longitude":4.430697,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.170101,
     "mps:longitude":4.430644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Valkenburg"
     ],
@@ -95,7 +98,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.179722,
     "wd:longitude":4.431667,
     "wd:wordcount":155,
@@ -111,7 +114,6 @@
         "fct:id":"01f21d4c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2745872,
         "gp:id":734095,
-        "qs:id":1092014,
         "qs_pg:id":1092014,
         "tgn:id":7273020,
         "wd:id":"Q1615405",
@@ -133,7 +135,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350232,
+    "wof:lastmodified":1566657831,
     "wof:name":"Valkenburg",
     "wof:parent_id":404474191,
     "wof:placetype":"locality",

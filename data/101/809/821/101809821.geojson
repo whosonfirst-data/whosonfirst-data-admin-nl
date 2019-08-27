@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.282533,
     "lbl:longitude":3.760845,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.29077,
     "mps:longitude":3.730454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Philippine"
     ],
@@ -62,9 +65,6 @@
     "name:spa_x_preferred":[
         "Philippine"
     ],
-    "name:unk_x_variant":[
-        "Filippine"
-    ],
     "name:zea_x_preferred":[
         "Phelippine"
     ],
@@ -96,7 +96,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":308,
     "wof:belongsto":[
         85687037,
@@ -110,7 +110,6 @@
         "fct:id":"01f1b82a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2748625,
         "gp:id":732726,
-        "qs:id":315077,
         "qs_pg:id":315077,
         "tgn:id":7268540,
         "wd:id":"Q2735908",
@@ -132,7 +131,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350592,
+    "wof:lastmodified":1566657996,
     "wof:name":"Philippine",
     "wof:parent_id":404474329,
     "wof:placetype":"locality",

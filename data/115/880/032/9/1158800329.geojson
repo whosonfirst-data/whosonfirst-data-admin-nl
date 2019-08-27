@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.286992,
     "lbl:longitude":5.35557,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.286992,
     "mps:longitude":5.35557,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474639,
         85633337,
         101839321,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158800329,
-    "wof:lastmodified":1559596077,
+    "wof:lastmodified":1566659064,
     "wof:name":"Verspreide huizen Bergeyk-Loo",
     "wof:parent_id":101839321,
     "wof:placetype":"neighbourhood",

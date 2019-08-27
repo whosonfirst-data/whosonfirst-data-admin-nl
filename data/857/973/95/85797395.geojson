@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.510383,
     "lbl:longitude":6.436024,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.525716,
     "mps:longitude":6.436248,
     "mz:hierarchy_label":0,
@@ -40,7 +41,7 @@
     "name:nld_x_preferred":[
         "De Strangen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "De Strange"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -74,20 +75,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473847,
         85633337,
         101807231,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2757036,
         "gp:id":728530,
-        "qs:id":490942,
         "qs_pg:id":490942
     },
     "wof:country":"NL",
@@ -107,7 +107,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596034,
+    "wof:lastmodified":1566657346,
     "wof:name":"De Strangen",
     "wof:parent_id":101807231,
     "wof:placetype":"neighbourhood",

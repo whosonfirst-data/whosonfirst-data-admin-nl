@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.855012,
     "lbl:longitude":6.006979,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.855012,
     "mps:longitude":6.006979,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783377,
         85633337,
         1158783811,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141965341,
-    "wof:lastmodified":1559596356,
+    "wof:lastmodified":1566661011,
     "wof:name":"Buitengebied Kekerdom",
     "wof:parent_id":1158783811,
     "wof:placetype":"neighbourhood",

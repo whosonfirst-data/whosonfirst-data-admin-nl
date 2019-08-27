@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.374624,
     "lbl:longitude":6.736128,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.374624,
     "mps:longitude":6.736128,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473723,
         85633337,
         1158796625,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158796019,
-    "wof:lastmodified":1559596420,
+    "wof:lastmodified":1566659765,
     "wof:name":"Verspreide huizen Garsthuizen",
     "wof:parent_id":1158796625,
     "wof:placetype":"neighbourhood",

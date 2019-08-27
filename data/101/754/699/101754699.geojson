@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.108553,
     "lbl:longitude":4.716065,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.104563,
     "mps:longitude":4.725683,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Zwammerdam"
     ],
@@ -80,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.1058,
     "wd:longitude":4.7272,
     "wd:wordcount":160,
@@ -96,7 +99,6 @@
         "fct:id":"01f26d2e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2743578,
         "gp:id":735181,
-        "qs:id":409025,
         "qs_pg:id":409025,
         "tgn:id":7274410,
         "wd:id":"Q2946722"
@@ -117,7 +119,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350291,
+    "wof:lastmodified":1566657854,
     "wof:name":"Zwammerdam",
     "wof:parent_id":404474147,
     "wof:placetype":"locality",

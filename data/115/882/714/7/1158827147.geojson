@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.817935,
     "lbl:longitude":4.793254,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.817935,
     "mps:longitude":4.793254,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831125,
         85633337,
         101754745,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158827147,
-    "wof:lastmodified":1559596830,
+    "wof:lastmodified":1566660142,
     "wof:name":"Rivierdijk-Midden",
     "wof:parent_id":1158831125,
     "wof:placetype":"neighbourhood",

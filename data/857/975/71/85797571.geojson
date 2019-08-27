@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.002608,
     "lbl:longitude":5.935044,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.002943,
     "mps:longitude":5.939743,
     "mz:hierarchy_label":0,
@@ -38,9 +39,6 @@
         "Geitenkamp"
     ],
     "name:nld_x_preferred":[
-        "Geitenkamp"
-    ],
-    "name:unk_x_variant":[
         "Geitenkamp"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -74,20 +72,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473871,
         85633337,
         101751857,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2755638,
         "gp:id":729348,
-        "qs:id":285777,
         "qs_pg:id":285777
     },
     "wof:country":"NL",
@@ -107,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595957,
+    "wof:lastmodified":1566657360,
     "wof:name":"Geitenkamp",
     "wof:parent_id":101751857,
     "wof:placetype":"neighbourhood",

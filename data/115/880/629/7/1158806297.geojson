@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":50.877507,
     "lbl:longitude":6.044536,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.877507,
     "mps:longitude":6.044536,
     "mz:hierarchy_label":0,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158818151,
         404474489,
         85633337,
         101839255,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158806297,
-    "wof:lastmodified":1559596444,
+    "wof:lastmodified":1566658829,
     "wof:name":"Verspreide huizen Dentgenbach",
     "wof:parent_id":1158818151,
     "wof:placetype":"neighbourhood",

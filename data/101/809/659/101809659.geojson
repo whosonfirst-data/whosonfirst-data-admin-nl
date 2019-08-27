@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.688301,
     "lbl:longitude":4.908243,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.695428,
     "mps:longitude":4.906359,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Raamsdonk"
     ],
@@ -80,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":99,
     "wof:belongsto":[
         85687035,
@@ -94,7 +97,6 @@
         "fct:id":"01f1bfb4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2748363,
         "gp:id":732846,
-        "qs:id":915135,
         "qs_pg:id":915135,
         "tgn:id":7269397,
         "wd:id":"Q3415830",
@@ -116,7 +118,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350606,
+    "wof:lastmodified":1566658003,
     "wof:name":"Raamsdonk",
     "wof:parent_id":404474379,
     "wof:placetype":"locality",

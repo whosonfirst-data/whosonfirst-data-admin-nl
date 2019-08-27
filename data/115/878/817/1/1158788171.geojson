@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.974424,
     "lbl:longitude":4.94698,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.974424,
     "mps:longitude":4.94698,
     "mz:hierarchy_label":1,
@@ -40,16 +41,16 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404473993,
         85633337,
-        101808449
+        101808449,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"ef07f5e41f1eb435d0bb07a031709b79",
+    "wof:geomhash":"1d16c0b59d5174352ed271dc05855a55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1158788171,
-    "wof:lastmodified":1513621987,
+    "wof:lastmodified":1566660536,
     "wof:name":"Lopik-Dorp",
     "wof:parent_id":101808449,
     "wof:placetype":"neighbourhood",
@@ -71,7 +72,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.932574061666633,
+    4.93257406166663,
     51.96875347366326,
     4.96089083751977,
     51.9796237153207

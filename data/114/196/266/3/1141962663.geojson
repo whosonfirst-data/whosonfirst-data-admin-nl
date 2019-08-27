@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.97331,
     "lbl:longitude":5.483835,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.97331,
     "mps:longitude":5.483835,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473879,
         85633337,
         1158783581,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962663,
-    "wof:lastmodified":1559596112,
+    "wof:lastmodified":1566661098,
     "wof:name":"Verspreide huizen Klinkenberg",
     "wof:parent_id":1158783581,
     "wof:placetype":"neighbourhood",

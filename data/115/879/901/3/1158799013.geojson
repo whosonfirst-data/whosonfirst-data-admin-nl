@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.525166,
     "lbl:longitude":5.480705,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.525166,
     "mps:longitude":5.480705,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474429,
         85633337,
         101754589,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158799013,
-    "wof:lastmodified":1559596698,
+    "wof:lastmodified":1566659362,
     "wof:name":"De Gentiaan",
     "wof:parent_id":101754589,
     "wof:placetype":"neighbourhood",

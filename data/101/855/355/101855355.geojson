@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.224495,
     "lbl:longitude":6.201041,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.220289,
     "mps:longitude":6.210455,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Epse"
     ],
@@ -55,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687043,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":2756050,
         "gp:id":729162,
-        "qs:id":178197,
         "qs_pg:id":178197,
         "tgn:id":7260236
     },
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":101855355,
-    "wof:lastmodified":1564234646,
+    "wof:lastmodified":1566658252,
     "wof:name":"Epse",
     "wof:parent_id":404473915,
     "wof:placetype":"locality",

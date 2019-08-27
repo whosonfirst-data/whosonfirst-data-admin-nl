@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.967474,
     "lbl:longitude":6.253577,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.967474,
     "mps:longitude":6.253577,
     "mz:hierarchy_label":1,
@@ -46,12 +47,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473885,
         85633337,
         101808663,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1141962815,
-    "wof:lastmodified":1559596895,
+    "wof:lastmodified":1566661090,
     "wof:name":"Fase 5",
     "wof:parent_id":101808663,
     "wof:placetype":"neighbourhood",

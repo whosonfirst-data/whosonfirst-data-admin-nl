@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.863701,
     "lbl:longitude":4.260922,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.852742,
     "mps:longitude":4.262495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Geervliet"
     ],
@@ -77,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8611,
     "wd:longitude":4.2622,
     "wd:wordcount":173,
@@ -93,7 +96,6 @@
         "fct:id":"01f0bc0e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2755666,
         "gp:id":729338,
-        "qs:id":1350851,
         "qs_pg:id":1350851,
         "tgn:id":7261870,
         "wd:id":"Q3100092",
@@ -115,7 +117,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350281,
+    "wof:lastmodified":1566657850,
     "wof:name":"Geervliet",
     "wof:parent_id":1158824747,
     "wof:placetype":"locality",

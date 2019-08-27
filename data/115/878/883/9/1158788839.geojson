@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.215247,
     "lbl:longitude":4.841616,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.215247,
     "mps:longitude":4.841616,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404474341,
         85633337,
         101837675,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158788839,
-    "wof:lastmodified":1559596578,
+    "wof:lastmodified":1566660715,
     "wof:name":"Verspreide huizen 1e 2e 3e Bedijking",
     "wof:parent_id":101837675,
     "wof:placetype":"neighbourhood",

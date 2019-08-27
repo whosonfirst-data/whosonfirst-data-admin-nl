@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.583296,
     "lbl:longitude":4.659184,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.583296,
     "mps:longitude":4.659184,
     "mz:hierarchy_label":1,
@@ -42,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474377,
         85633337,
         101839355,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158797569,
-    "wof:lastmodified":1559596703,
+    "wof:lastmodified":1566659624,
     "wof:name":"Noord 4, Stichting Het Hooghuys",
     "wof:parent_id":101839355,
     "wof:placetype":"neighbourhood",

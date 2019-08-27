@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.42968,
     "lbl:longitude":6.0365,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.42968,
     "mps:longitude":6.0365,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473911,
         85633337,
         101837815,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963537,
-    "wof:lastmodified":1559596942,
+    "wof:lastmodified":1566661015,
     "wof:name":"Verspreide huizen bosgebied",
     "wof:parent_id":101837815,
     "wof:placetype":"neighbourhood",

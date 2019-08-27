@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.14845,
     "lbl:longitude":4.654453,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.14845,
     "mps:longitude":4.654453,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831205,
         404474147,
         85633337,
         101751837,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158824831,
-    "wof:lastmodified":1559595562,
+    "wof:lastmodified":1566660033,
     "wof:name":"Stromenbuurt",
     "wof:parent_id":1158831205,
     "wof:placetype":"neighbourhood",

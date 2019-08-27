@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.814538,
     "lbl:longitude":4.420885,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.814538,
     "mps:longitude":4.420885,
     "mz:hierarchy_label":1,
@@ -42,11 +43,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         85633337,
         101754705,
-        136253051,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158826713,
-    "wof:lastmodified":1559596596,
+    "wof:lastmodified":1566660267,
     "wof:name":"Bedrijventerrein Langeweg, Rembrandtstraat",
     "wof:parent_id":101754705,
     "wof:placetype":"neighbourhood",

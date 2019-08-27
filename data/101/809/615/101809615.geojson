@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.082962,
     "lbl:longitude":5.817986,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.083508,
     "mps:longitude":5.815537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Roosteren"
     ],
@@ -78,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.0831,
     "wd:longitude":5.8175,
     "wd:wordcount":92,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2747924,
         "gp:id":733057,
-        "qs:id":1352198,
         "qs_pg:id":1352198,
         "tgn:id":7268596,
         "wd:id":"Q2675589",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101809615,
-    "wof:lastmodified":1563350647,
+    "wof:lastmodified":1566658027,
     "wof:name":"Roosteren",
     "wof:parent_id":404474627,
     "wof:placetype":"locality",

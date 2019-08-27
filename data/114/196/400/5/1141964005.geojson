@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.964339,
     "lbl:longitude":5.777523,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.964339,
     "mps:longitude":5.777523,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473931,
         85633337,
         101808667,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964005,
-    "wof:lastmodified":1559596272,
+    "wof:lastmodified":1566661132,
     "wof:name":"Verspreide huizen Doorwerthse waarden",
     "wof:parent_id":101808667,
     "wof:placetype":"neighbourhood",

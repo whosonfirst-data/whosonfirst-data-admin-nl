@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.588571,
     "lbl:longitude":6.28157,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.588571,
     "mps:longitude":6.28157,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473823,
         85633337,
         1158805573,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158802121,
-    "wof:lastmodified":1559596144,
+    "wof:lastmodified":1566659018,
     "wof:name":"Nieuwleusen-Noord",
     "wof:parent_id":1158805573,
     "wof:placetype":"neighbourhood",

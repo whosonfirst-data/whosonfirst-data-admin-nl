@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.009846,
     "lbl:longitude":6.594328,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.017728,
     "mps:longitude":6.582839,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Lievelde"
     ],
@@ -73,7 +76,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.0094,
     "wd:longitude":6.5944,
     "wd:wordcount":123,
@@ -89,7 +92,6 @@
         "fct:id":"01f13e5e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2751619,
         "gp:id":731319,
-        "qs:id":478564,
         "qs_pg:id":478564,
         "tgn:id":7264446,
         "wd:id":"Q922911",
@@ -111,7 +113,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350937,
+    "wof:lastmodified":1566658182,
     "wof:name":"Lievelde",
     "wof:parent_id":404474549,
     "wof:placetype":"locality",

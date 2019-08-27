@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.011551,
     "lbl:longitude":6.143423,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.011551,
     "mps:longitude":6.143423,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473883,
         85633337,
         101837759,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962717,
-    "wof:lastmodified":1559596114,
+    "wof:lastmodified":1566661250,
     "wof:name":"Zuidelijk Molenveld",
     "wof:parent_id":101837759,
     "wof:placetype":"neighbourhood",

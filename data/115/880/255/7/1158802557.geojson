@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.604577,
     "lbl:longitude":6.463898,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.604577,
     "mps:longitude":6.463898,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473831,
         85633337,
         101807167,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158802557,
-    "wof:lastmodified":1559596879,
+    "wof:lastmodified":1566659100,
     "wof:name":"Dedemsvaart-Noord",
     "wof:parent_id":101807167,
     "wof:placetype":"neighbourhood",

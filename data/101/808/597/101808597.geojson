@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.883193,
     "lbl:longitude":5.514479,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.873861,
     "mps:longitude":5.515453,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Beneden-Leeuwen"
     ],
@@ -53,7 +56,7 @@
     "name:por_x_preferred":[
         "Beneden-Leeuwen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Leeuwenbeneden"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -79,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8811,
     "wd:longitude":5.5178,
     "wd:wordcount":150,
@@ -94,7 +97,6 @@
     "wof:concordances":{
         "gn:id":2759212,
         "gp:id":727575,
-        "qs:id":278702,
         "qs_pg:id":278702,
         "tgn:id":7258587,
         "wd:id":"Q2240248",
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101808597,
-    "wof:lastmodified":1563350886,
+    "wof:lastmodified":1566658157,
     "wof:name":"Beneden-Leeuwen",
     "wof:parent_id":404474305,
     "wof:placetype":"locality",

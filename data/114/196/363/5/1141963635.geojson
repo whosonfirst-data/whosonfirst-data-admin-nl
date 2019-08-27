@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.115999,
     "lbl:longitude":6.417475,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.115999,
     "mps:longitude":6.417475,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473915,
         85633337,
         1158783721,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963635,
-    "wof:lastmodified":1559596933,
+    "wof:lastmodified":1566661028,
     "wof:name":"Verspreide huizen Zwarte Veen en Barchemse Enk",
     "wof:parent_id":1158783721,
     "wof:placetype":"neighbourhood",

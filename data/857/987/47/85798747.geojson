@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.42391,
     "lbl:longitude":5.40079,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.426173,
     "mps:longitude":5.420021,
     "mz:hierarchy_label":1,
@@ -54,10 +55,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0435\u0435\u043b\u0441\u0442"
-    ],
-    "name:unk_x_variant":[
-        "Zeelst",
-        "Zeelst"
     ],
     "name:zho_min_nan_x_preferred":[
         "Zeelst"
@@ -91,7 +88,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":51.4231,
     "wd:longitude":5.4164,
     "wd:wordcount":78,
@@ -107,7 +104,6 @@
     "wof:concordances":{
         "gn:id":2744006,
         "gp:id":734988,
-        "qs:id":796435,
         "qs_pg:id":796435,
         "wd:id":"Q2376179"
     },
@@ -128,7 +124,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563349607,
+    "wof:lastmodified":1566657346,
     "wof:name":"Zeelst",
     "wof:parent_id":101754579,
     "wof:placetype":"neighbourhood",

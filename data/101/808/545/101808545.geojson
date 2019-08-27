@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.858759,
     "lbl:longitude":4.709654,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.858781,
     "mps:longitude":4.711423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Oud-Alblas"
     ],
@@ -71,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8569,
     "wd:longitude":4.7047,
     "wd:wordcount":173,
@@ -87,7 +90,6 @@
         "fct:id":"01f1a696-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2749189,
         "gp:id":732490,
-        "qs:id":178644,
         "qs_pg:id":178644,
         "tgn:id":7268912,
         "wd:id":"Q2603491",
@@ -109,7 +111,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350869,
+    "wof:lastmodified":1566658146,
     "wof:name":"Oud-Alblas",
     "wof:parent_id":1158824743,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.817176,
     "lbl:longitude":5.848159,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.817176,
     "mps:longitude":5.848159,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158784045,
         404473925,
         85633337,
         101751859,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1141963825,
-    "wof:lastmodified":1559596950,
+    "wof:lastmodified":1566661165,
     "wof:name":"Hatertse Hei",
     "wof:parent_id":1158784045,
     "wof:placetype":"neighbourhood",

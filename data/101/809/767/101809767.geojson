@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.385222,
     "lbl:longitude":5.714045,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.389797,
     "mps:longitude":5.700896,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0645\u0631\u064a\u0646"
     ],
@@ -144,7 +147,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":146,
     "wof:belongsto":[
@@ -159,7 +162,6 @@
         "fct:id":"01f1ef02-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2747021,
         "gp:id":733486,
-        "qs:id":911025,
         "qs_pg:id":911025,
         "tgn:id":1048124,
         "wd:id":"Q9868"
@@ -180,7 +182,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350624,
+    "wof:lastmodified":1566658013,
     "wof:name":"Someren",
     "wof:parent_id":404474425,
     "wof:placetype":"locality",

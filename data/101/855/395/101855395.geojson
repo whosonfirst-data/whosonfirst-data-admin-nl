@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.877445,
     "lbl:longitude":6.222435,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.878208,
     "mps:longitude":6.224756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stokkum"
     ],
@@ -41,7 +44,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687043,
         102191581,
@@ -53,7 +56,6 @@
     "wof:concordances":{
         "gn:id":2746673,
         "gp:id":733680,
-        "qs:id":1277545,
         "qs_pg:id":1277545,
         "tgn:id":7272157
     },
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":101855395,
-    "wof:lastmodified":1559594633,
+    "wof:lastmodified":1566658260,
     "wof:name":"Stokkum",
     "wof:parent_id":404474689,
     "wof:placetype":"locality",

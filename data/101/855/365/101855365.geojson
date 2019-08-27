@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.101681,
     "lbl:longitude":5.574008,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.103894,
     "mps:longitude":5.579795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nederwoud"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687043,
         102191581,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":2750463,
         "gp:id":731872,
-        "qs:id":5,
+        "qs_pg:id":5,
         "tgn:id":7270264,
         "wd:id":"Q2574515"
     },
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101855365,
-    "wof:lastmodified":1563351083,
+    "wof:lastmodified":1566658251,
     "wof:name":"Nederwoud",
     "wof:parent_id":404473893,
     "wof:placetype":"locality",

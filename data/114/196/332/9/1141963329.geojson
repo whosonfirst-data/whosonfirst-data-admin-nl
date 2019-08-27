@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.903473,
     "lbl:longitude":5.211689,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.903473,
     "mps:longitude":5.211689,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473901,
         85633337,
         101808595,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963329,
-    "wof:lastmodified":1559596936,
+    "wof:lastmodified":1566661189,
     "wof:name":"Verspreide huizen Beesd",
     "wof:parent_id":101808595,
     "wof:placetype":"neighbourhood",

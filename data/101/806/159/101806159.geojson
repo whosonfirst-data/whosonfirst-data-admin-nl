@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.158118,
     "lbl:longitude":5.564707,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.158118,
     "mps:longitude":5.564707,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tzum"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687055,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":2746024,
         "gp:id":733996,
-        "qs:id":747004,
         "qs_pg:id":747004,
         "tgn:id":7271971,
         "wd:id":"Q1025059",
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101806159,
-    "wof:lastmodified":1563350964,
+    "wof:lastmodified":1566658199,
     "wof:name":"Tzum",
     "wof:parent_id":404473767,
     "wof:placetype":"locality",

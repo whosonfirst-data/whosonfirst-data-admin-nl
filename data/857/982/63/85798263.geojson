@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.873646,
     "lbl:longitude":4.468224,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.872251,
     "mps:longitude":4.473129,
     "mz:hierarchy_label":1,
@@ -45,9 +46,6 @@
         "Pendrecht"
     ],
     "name:nld_x_preferred":[
-        "Pendrecht"
-    ],
-    "name:unk_x_variant":[
         "Pendrecht"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -81,7 +79,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":51.8736,
     "wd:longitude":4.4686,
     "wd:wordcount":65,
@@ -97,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2748657,
         "gp:id":732710,
-        "qs:id":1080798,
         "qs_pg:id":1080798,
         "wd:id":"Q582028",
         "wk:page":"Pendrecht"
@@ -119,7 +116,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563349600,
+    "wof:lastmodified":1566657341,
     "wof:name":"Pendrecht",
     "wof:parent_id":1108804837,
     "wof:placetype":"neighbourhood",

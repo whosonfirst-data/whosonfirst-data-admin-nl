@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.134443,
     "lbl:longitude":5.589124,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.134443,
     "mps:longitude":5.589124,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473873,
         85633337,
         101807053,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962323,
-    "wof:lastmodified":1559596148,
+    "wof:lastmodified":1566661114,
     "wof:name":"Vogelbuurt",
     "wof:parent_id":101807053,
     "wof:placetype":"neighbourhood",

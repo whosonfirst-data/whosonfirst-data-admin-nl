@@ -28,6 +28,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.357873,
     "lbl:longitude":4.826919,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.346243,
     "mps:longitude":4.838034,
     "mz:hierarchy_label":1,
@@ -54,9 +55,6 @@
     ],
     "name:nld_x_variant":[
         "Tuinstad Slotervaart"
-    ],
-    "name:unk_x_variant":[
-        "Slotervaart"
     ],
     "qs:gn_adm0_cc":"NL",
     "qs:gn_fcode":"PPLX",
@@ -89,7 +87,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -102,7 +100,6 @@
     "wof:concordances":{
         "gn:id":2747125,
         "gp:id":733430,
-        "qs:id":1144202,
         "qs_pg:id":1144202,
         "wd:id":"Q2558755",
         "wk:page":"Slotervaart (former borough)"
@@ -124,7 +121,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563349575,
+    "wof:lastmodified":1566657320,
     "wof:name":"Slotervaart",
     "wof:parent_id":1158844287,
     "wof:placetype":"neighbourhood",

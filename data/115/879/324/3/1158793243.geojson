@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.927274,
     "lbl:longitude":7.127407,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.927274,
     "mps:longitude":7.127407,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473739,
         85633337,
         101846165,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158793243,
-    "wof:lastmodified":1559596419,
+    "wof:lastmodified":1566659548,
     "wof:name":"Laude",
     "wof:parent_id":101846165,
     "wof:placetype":"neighbourhood",

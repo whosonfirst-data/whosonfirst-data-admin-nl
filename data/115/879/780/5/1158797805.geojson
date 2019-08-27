@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.597029,
     "lbl:longitude":5.234846,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.597029,
     "mps:longitude":5.234846,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474387,
         85633337,
         101808257,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158797805,
-    "wof:lastmodified":1559596664,
+    "wof:lastmodified":1566659846,
     "wof:name":"'t Eind",
     "wof:parent_id":101808257,
     "wof:placetype":"neighbourhood",

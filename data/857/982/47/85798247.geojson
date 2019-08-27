@@ -12,8 +12,10 @@
     "gn:latitude":50.9,
     "gn:longitude":6.0,
     "iso:country":"NL",
+    "lbl:bbox":"5.99718,50.892963,6.00718,50.902963",
     "lbl:latitude":50.897963,
     "lbl:longitude":6.00218,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.899504,
     "mps:longitude":6.000559,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:nld_x_preferred":[
-        "Palenberg"
-    ],
-    "name:unk_x_variant":[
         "Palenberg"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -59,20 +58,20 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474467,
         85633337,
         101839719,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2748761,
         "gp:id":732658,
-        "qs:id":1158312
+        "qs_pg:id":1158312
     },
     "wof:country":"NL",
     "wof:geomhash":"f703ee5b2af39c9f39fa78f7b44dd07f",
@@ -91,7 +90,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595827,
+    "wof:lastmodified":1566657341,
     "wof:name":"Palenberg",
     "wof:parent_id":101839719,
     "wof:placetype":"neighbourhood",

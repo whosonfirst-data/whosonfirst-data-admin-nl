@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.631208,
     "lbl:longitude":5.169253,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.631208,
     "mps:longitude":5.169253,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474387,
         85633337,
         101855231,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158797833,
-    "wof:lastmodified":1559595721,
+    "wof:lastmodified":1566659585,
     "wof:name":"Verspreide huizen Biezenmortel",
     "wof:parent_id":101855231,
     "wof:placetype":"neighbourhood",

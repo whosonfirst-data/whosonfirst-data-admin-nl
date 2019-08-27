@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.745698,
     "lbl:longitude":6.948466,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.731145,
     "mps:longitude":6.951618,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nieuw-Dordrecht"
     ],
@@ -68,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":60,
     "wof:belongsto":[
         85687051,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2750357,
         "gp:id":731933,
-        "qs:id":1036327,
         "qs_pg:id":1036327,
         "tgn:id":7270286,
         "wd:id":"Q3030491",
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101837885,
-    "wof:lastmodified":1563350749,
+    "wof:lastmodified":1566658077,
     "wof:name":"Nieuw-Dordrecht",
     "wof:parent_id":404473809,
     "wof:placetype":"locality",

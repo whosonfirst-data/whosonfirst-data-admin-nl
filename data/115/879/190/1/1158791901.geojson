@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.814586,
     "lbl:longitude":6.59746,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.814586,
     "mps:longitude":6.59746,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474649,
         85633337,
         1158792231,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158791901,
-    "wof:lastmodified":1559596889,
+    "wof:lastmodified":1566659632,
     "wof:name":"Verspreide huizen de Broekstreek",
     "wof:parent_id":1158792231,
     "wof:placetype":"neighbourhood",

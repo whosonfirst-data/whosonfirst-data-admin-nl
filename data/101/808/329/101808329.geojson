@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.615017,
     "lbl:longitude":5.545228,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.618918,
     "mps:longitude":5.550599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u062e\u0644"
     ],
@@ -119,9 +122,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0433\u0435\u043b"
     ],
-    "name:unk_x_variant":[
-        "Vechel"
-    ],
     "name:vie_x_preferred":[
         "Veghel"
     ],
@@ -156,7 +156,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1080,
     "wof:belongsto":[
@@ -171,7 +171,6 @@
         "fct:id":"01f2235a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2745726,
         "gp:id":734156,
-        "qs:id":796172,
         "qs_pg:id":796172,
         "tgn:id":1048181,
         "wd:id":"Q9874"
@@ -192,7 +191,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350944,
+    "wof:lastmodified":1566658188,
     "wof:name":"Veghel",
     "wof:parent_id":404474441,
     "wof:placetype":"locality",

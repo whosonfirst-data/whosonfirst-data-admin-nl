@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.191635,
     "lbl:longitude":6.269599,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.191635,
     "mps:longitude":6.269599,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473715,
         85633337,
         101806221,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158792775,
-    "wof:lastmodified":1559596928,
+    "wof:lastmodified":1566659673,
     "wof:name":"Verspreide huizen ten zuiden van Grootegast",
     "wof:parent_id":101806221,
     "wof:placetype":"neighbourhood",

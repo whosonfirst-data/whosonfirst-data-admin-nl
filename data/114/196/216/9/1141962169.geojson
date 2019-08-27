@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.981759,
     "lbl:longitude":5.96481,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.981759,
     "mps:longitude":5.96481,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783325,
         404473871,
         85633337,
         101751857,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1141962169,
-    "wof:lastmodified":1559596020,
+    "wof:lastmodified":1566661032,
     "wof:name":"Over het Lange Water",
     "wof:parent_id":1158783325,
     "wof:placetype":"neighbourhood",

@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.177898,
     "lbl:longitude":6.936554,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.177898,
     "mps:longitude":6.936554,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         1158792361,
         85633337,
         101807495,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158795985,
-    "wof:lastmodified":1559596539,
+    "wof:lastmodified":1566659661,
     "wof:name":"Verspreide huizen Scheemda",
     "wof:parent_id":101807495,
     "wof:placetype":"neighbourhood",

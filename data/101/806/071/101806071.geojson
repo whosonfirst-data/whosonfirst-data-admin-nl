@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.947335,
     "lbl:longitude":4.7727,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":52.937137,
     "mps:longitude":4.761652,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062f\u0646 \u0647\u064a\u0644\u062f\u0631"
     ],
@@ -187,9 +190,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043d-\u0413\u0435\u043b\u0434\u0435\u0440"
     ],
-    "name:unk_x_variant":[
-        "Helder"
-    ],
     "name:vie_x_preferred":[
         "Den Helder"
     ],
@@ -230,7 +230,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.958333,
     "wd:longitude":4.758889,
@@ -247,7 +247,6 @@
         "fct:id":"01f084e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2757220,
         "gp:id":728649,
-        "qs:id":457690,
         "qs_pg:id":457690,
         "tgn:id":1047713,
         "wd:id":"Q9911"
@@ -268,7 +267,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350975,
+    "wof:lastmodified":1566658204,
     "wof:name":"Den Helder",
     "wof:parent_id":404474079,
     "wof:placetype":"locality",

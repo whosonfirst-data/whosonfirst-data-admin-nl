@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.230736,
     "lbl:longitude":5.031517,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.238834,
     "mps:longitude":5.036277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Vreeland"
     ],
@@ -99,7 +102,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.2297,
     "wd:longitude":5.0311,
@@ -115,7 +118,6 @@
     "wof:concordances":{
         "gn:id":2745196,
         "gp:id":734420,
-        "qs:id":1352634,
         "qs_pg:id":1352634,
         "tgn:id":7272812,
         "wd:id":"Q81493",
@@ -134,7 +136,7 @@
         }
     ],
     "wof:id":101808429,
-    "wof:lastmodified":1563350912,
+    "wof:lastmodified":1566658171,
     "wof:name":"Vreeland",
     "wof:parent_id":1158787499,
     "wof:placetype":"locality",

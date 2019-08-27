@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.416885,
     "lbl:longitude":5.340441,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.416885,
     "mps:longitude":5.340441,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474443,
         85633337,
         101758611,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158799423,
-    "wof:lastmodified":1559596709,
+    "wof:lastmodified":1566659834,
     "wof:name":"Verspreide huizen Groote Aard en Vliet",
     "wof:parent_id":101758611,
     "wof:placetype":"neighbourhood",

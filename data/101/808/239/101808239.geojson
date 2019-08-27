@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.739477,
     "lbl:longitude":5.464151,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.74456,
     "mps:longitude":5.467291,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Geffen"
     ],
@@ -75,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.7392,
     "wd:longitude":5.4639,
@@ -91,7 +94,6 @@
     "wof:concordances":{
         "gn:id":2755645,
         "gp:id":729346,
-        "qs:id":1239177,
         "qs_pg:id":1239177,
         "tgn:id":7261850,
         "wd:id":"Q2047353",
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101808239,
-    "wof:lastmodified":1563350930,
+    "wof:lastmodified":1566658179,
     "wof:name":"Geffen",
     "wof:parent_id":404474415,
     "wof:placetype":"locality",

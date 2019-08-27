@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.950367,
     "lbl:longitude":6.413364,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":51.948394,
     "mps:longitude":6.414943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Fiep Westendorp"
     ],
@@ -84,7 +87,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":176,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
         "fct:id":"01f2457e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2744780,
         "gp:id":734645,
-        "qs:id":905829,
         "qs_pg:id":905829,
         "tgn:id":7273170,
         "wd:id":"Q2145950"
@@ -120,7 +122,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351115,
+    "wof:lastmodified":1566658268,
     "wof:name":"Westendorp",
     "wof:parent_id":404474543,
     "wof:placetype":"locality",

@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.358174,
     "lbl:longitude":5.733954,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.347153,
     "mps:longitude":5.732962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Someren-Eind"
     ],
@@ -43,7 +46,7 @@
     "name:nld_x_preferred":[
         "Someren-Eind"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eindje"
     ],
     "qs:a0":"Nederland",
@@ -65,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":280,
     "wof:belongsto":[
         85687035,
@@ -78,7 +81,6 @@
     "wof:concordances":{
         "gn:id":2747019,
         "gp:id":733487,
-        "qs:id":187885,
         "qs_pg:id":187885,
         "wd:id":"Q2724393",
         "wk:page":"Someren-Eind"
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101809769,
-    "wof:lastmodified":1563350627,
+    "wof:lastmodified":1566658015,
     "wof:name":"Someren-Eind",
     "wof:parent_id":404474425,
     "wof:placetype":"locality",

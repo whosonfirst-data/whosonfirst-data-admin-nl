@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.598545,
     "lbl:longitude":5.33051,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.598545,
     "mps:longitude":5.33051,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474361,
         85633337,
         101839333,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158796997,
-    "wof:lastmodified":1559597141,
+    "wof:lastmodified":1566659733,
     "wof:name":"Munsel-Selissen",
     "wof:parent_id":101839333,
     "wof:placetype":"neighbourhood",

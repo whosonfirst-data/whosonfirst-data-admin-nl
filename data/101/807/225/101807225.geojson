@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.821283,
     "lbl:longitude":5.974532,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.817545,
     "mps:longitude":5.967368,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Oldemarkt"
     ],
@@ -81,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.82,
     "wd:longitude":5.9736,
@@ -96,7 +99,6 @@
     "wof:concordances":{
         "gn:id":2749653,
         "gp:id":732247,
-        "qs:id":261451,
         "qs_pg:id":261451,
         "tgn:id":7267138,
         "wd:id":"Q3117018",
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101807225,
-    "wof:lastmodified":1563350532,
+    "wof:lastmodified":1566657963,
     "wof:name":"Oldemarkt",
     "wof:parent_id":404474621,
     "wof:placetype":"locality",

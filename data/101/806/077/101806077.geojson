@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.889669,
     "lbl:longitude":4.741215,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.896584,
     "mps:longitude":4.746036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Julianadorp"
     ],
@@ -75,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.8906,
     "wd:longitude":4.7389,
     "wd:wordcount":175,
@@ -91,7 +94,6 @@
         "fct:id":"01f11000-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2753184,
         "gp:id":730557,
-        "qs:id":1351176,
         "qs_pg:id":1351176,
         "tgn:id":7263759,
         "wd:id":"Q476442",
@@ -113,7 +115,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350971,
+    "wof:lastmodified":1566658203,
     "wof:name":"Julianadorp",
     "wof:parent_id":404474079,
     "wof:placetype":"locality",

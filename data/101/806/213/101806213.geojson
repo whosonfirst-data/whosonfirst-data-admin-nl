@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.201363,
     "lbl:longitude":6.251112,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.194122,
     "mps:longitude":6.22677,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Doezum"
     ],
@@ -51,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687059,
         102191581,
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":2756763,
         "gp:id":728758,
-        "qs:id":187478,
         "qs_pg:id":187478,
         "tgn:id":7260191
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101806213,
-    "wof:lastmodified":1564234640,
+    "wof:lastmodified":1566658216,
     "wof:name":"Doezum",
     "wof:parent_id":404473715,
     "wof:placetype":"locality",

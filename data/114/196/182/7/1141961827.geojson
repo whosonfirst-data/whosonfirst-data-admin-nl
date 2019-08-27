@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.889422,
     "lbl:longitude":6.073113,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.889422,
     "mps:longitude":6.073113,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473863,
         85633337,
         1158783765,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141961827,
-    "wof:lastmodified":1559595998,
+    "wof:lastmodified":1566661341,
     "wof:name":"Verspreide huizen Aerdt",
     "wof:parent_id":1158783765,
     "wof:placetype":"neighbourhood",

@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":50.883447,
     "lbl:longitude":5.979059,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.885086,
     "mps:longitude":5.975785,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Heerlen"
     ],
@@ -265,7 +268,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2301,
     "wof:belongsto":[
@@ -280,10 +283,12 @@
         "fct:id":"01f0e0bc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2754652,
         "gp:id":729833,
-        "qs:id":21956,
-        "qs_pg:id":794837,
+        "qs_pg:id":21956,
         "tgn:id":7006860,
         "wd:id":"Q9799"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":794837
     },
     "wof:country":"NL",
     "wof:geomhash":"43daeb4b21aad6d038ac18dc84ab5acc",
@@ -301,7 +306,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351026,
+    "wof:lastmodified":1566658229,
     "wof:name":"Heerlen",
     "wof:parent_id":404474485,
     "wof:placetype":"locality",

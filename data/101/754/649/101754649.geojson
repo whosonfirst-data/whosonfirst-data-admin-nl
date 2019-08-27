@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.850556,
     "lbl:longitude":4.890774,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.856171,
     "mps:longitude":4.883772,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Giessenburg"
     ],
@@ -55,9 +58,6 @@
     "name:por_x_preferred":[
         "Giessenburg"
     ],
-    "name:unk_x_variant":[
-        "Giessen Nieuwkerk"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Giessenburg"
     ],
@@ -80,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.85,
     "wd:longitude":4.8897,
@@ -97,7 +97,6 @@
         "fct:id":"01f0c258-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2755533,
         "gp:id":729409,
-        "qs:id":1350864,
         "qs_pg:id":1350864,
         "tgn:id":7262298,
         "wd:id":"Q1523411",
@@ -119,7 +118,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350278,
+    "wof:lastmodified":1566657850,
     "wof:name":"Giessenburg",
     "wof:parent_id":404474315,
     "wof:placetype":"locality",

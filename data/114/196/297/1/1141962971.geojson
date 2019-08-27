@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.945352,
     "lbl:longitude":6.017203,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.945352,
     "mps:longitude":6.017203,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473891,
         85633337,
         101837765,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962971,
-    "wof:lastmodified":1559595658,
+    "wof:lastmodified":1566661312,
     "wof:name":"Oud Zuid",
     "wof:parent_id":101837765,
     "wof:placetype":"neighbourhood",

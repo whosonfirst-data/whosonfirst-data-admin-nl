@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.771269,
     "lbl:longitude":6.779812,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.771269,
     "mps:longitude":6.779812,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404473807,
         85633337,
         101808791,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158790751,
-    "wof:lastmodified":1559595954,
+    "wof:lastmodified":1566659699,
     "wof:name":"Verspreide huizen Sleen",
     "wof:parent_id":101808791,
     "wof:placetype":"neighbourhood",

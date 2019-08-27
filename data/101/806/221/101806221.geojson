@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.214627,
     "lbl:longitude":6.272744,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.204696,
     "mps:longitude":6.278665,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Grootegast"
     ],
@@ -175,7 +178,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":238,
     "wof:belongsto":[
@@ -190,7 +193,6 @@
         "fct:id":"01f0ce7e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2755204,
         "gp:id":729602,
-        "qs:id":187540,
         "qs_pg:id":187540,
         "tgn:id":7261047,
         "wd:id":"Q605986"
@@ -211,7 +213,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350972,
+    "wof:lastmodified":1566658203,
     "wof:name":"Grootegast",
     "wof:parent_id":404473715,
     "wof:placetype":"locality",

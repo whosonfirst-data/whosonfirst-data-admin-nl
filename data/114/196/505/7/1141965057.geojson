@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.934442,
     "lbl:longitude":5.602445,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.934442,
     "mps:longitude":5.602445,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474655,
         85633337,
         101808733,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141965057,
-    "wof:lastmodified":1559595805,
+    "wof:lastmodified":1566661016,
     "wof:name":"Verspreide huizen Opheusden",
     "wof:parent_id":101808733,
     "wof:placetype":"neighbourhood",

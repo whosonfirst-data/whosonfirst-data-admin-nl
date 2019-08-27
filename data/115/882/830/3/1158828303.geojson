@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.161698,
     "lbl:longitude":4.586943,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.161698,
     "mps:longitude":4.586943,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474677,
         85633337,
         101807039,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158828303,
-    "wof:lastmodified":1559596989,
+    "wof:lastmodified":1566660368,
     "wof:name":"Overige verspreide huizen",
     "wof:parent_id":101807039,
     "wof:placetype":"neighbourhood",

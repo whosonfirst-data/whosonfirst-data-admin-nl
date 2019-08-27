@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.444519,
     "lbl:longitude":6.608963,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.444519,
     "mps:longitude":6.608963,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404474611,
         85633337,
         101837855,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158803617,
-    "wof:lastmodified":1559596934,
+    "wof:lastmodified":1566658945,
     "wof:name":"Verspreide huizen Westerhaar-Vriezenveensewijk-West",
     "wof:parent_id":101837855,
     "wof:placetype":"neighbourhood",

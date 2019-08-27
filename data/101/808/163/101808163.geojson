@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.725199,
     "lbl:longitude":5.831631,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.720213,
     "mps:longitude":5.817839,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Beers"
     ],
@@ -74,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":269,
     "wof:belongsto":[
         85687035,
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":2759309,
         "gp:id":727530,
-        "qs:id":1250151,
         "qs_pg:id":1250151,
         "tgn:id":7258340,
         "wd:id":"Q954104",
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":101808163,
-    "wof:lastmodified":1563350886,
+    "wof:lastmodified":1566658157,
     "wof:name":"Beers",
     "wof:parent_id":404474597,
     "wof:placetype":"locality",

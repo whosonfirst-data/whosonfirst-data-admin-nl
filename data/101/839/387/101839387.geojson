@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.689827,
     "lbl:longitude":5.189611,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.692786,
     "mps:longitude":5.173406,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Nieuwkuijk"
     ],
@@ -56,7 +59,7 @@
     "name:rus_x_preferred":[
         "\u041d\u044c\u0438\u0432\u043a\u0451\u0439\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nieuwkuik"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -81,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":99,
     "wof:belongsto":[
         85687035,
@@ -94,7 +97,6 @@
     "wof:concordances":{
         "gn:id":2750180,
         "gp:id":732018,
-        "qs:id":1168088,
         "qs_pg:id":1168088,
         "tgn:id":7267594,
         "wd:id":"Q2376492",
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101839387,
-    "wof:lastmodified":1563351079,
+    "wof:lastmodified":1566658249,
     "wof:name":"Nieuwkuijk",
     "wof:parent_id":404474395,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.908345,
     "lbl:longitude":4.526822,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.911286,
     "mps:longitude":4.525027,
     "mz:hierarchy_label":1,
@@ -45,9 +46,6 @@
     ],
     "name:nld_x_variant":[
         "Deesch"
-    ],
-    "name:unk_x_variant":[
-        "De Esch"
     ],
     "qs:gn_adm0_cc":"NL",
     "qs:gn_id":0,
@@ -79,7 +77,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":51.9062,
     "wd:longitude":4.5305,
     "wd:wordcount":27,
@@ -94,7 +92,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20063973,
-        "qs:id":500571,
         "qs_pg:id":500571,
         "wd:id":"Q3469541"
     },
@@ -115,7 +112,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561768055,
+    "wof:lastmodified":1566657383,
     "wof:name":"De Esch",
     "wof:parent_id":1158831799,
     "wof:placetype":"neighbourhood",

@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.608792,
     "lbl:longitude":4.820378,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.612273,
     "mps:longitude":4.820645,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Teteringen"
     ],
@@ -80,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.6086,
     "wd:longitude":4.8206,
     "wd:wordcount":86,
@@ -96,7 +99,6 @@
         "fct:id":"01f20b54-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2746389,
         "gp:id":733847,
-        "qs:id":178871,
         "qs_pg:id":178871,
         "tgn:id":7271567,
         "wd:id":"Q3519142",
@@ -118,7 +120,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350225,
+    "wof:lastmodified":1566657829,
     "wof:name":"Teteringen",
     "wof:parent_id":404474363,
     "wof:placetype":"locality",

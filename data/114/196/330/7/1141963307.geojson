@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.865981,
     "lbl:longitude":5.156449,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.865981,
     "mps:longitude":5.156449,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473901,
         85633337,
         1158783761,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963307,
-    "wof:lastmodified":1559596244,
+    "wof:lastmodified":1566661017,
     "wof:name":"Verspreide huizen Gellicum",
     "wof:parent_id":1158783761,
     "wof:placetype":"neighbourhood",

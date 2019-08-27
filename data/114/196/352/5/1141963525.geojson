@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.416217,
     "lbl:longitude":6.067929,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.416217,
     "mps:longitude":6.067929,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473911,
         85633337,
         101837815,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963525,
-    "wof:lastmodified":1559597078,
+    "wof:lastmodified":1566661023,
     "wof:name":"Verspreide huizen Wapenveld-Zuid",
     "wof:parent_id":101837815,
     "wof:placetype":"neighbourhood",

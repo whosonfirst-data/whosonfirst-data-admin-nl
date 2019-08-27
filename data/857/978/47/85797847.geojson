@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.571839,
     "lbl:longitude":5.008661,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.586757,
     "mps:longitude":5.052231,
     "mz:hierarchy_label":0,
@@ -40,7 +41,7 @@
     "name:nld_x_preferred":[
         "Industrieterrein Kraaiven"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kraaiven"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -74,21 +75,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801791,
         404474435,
         85633337,
         101751817,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2752346,
         "gp:id":730930,
-        "qs:id":1158293,
         "qs_pg:id":1158293
     },
     "wof:country":"NL",
@@ -109,7 +109,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596018,
+    "wof:lastmodified":1566657332,
     "wof:name":"Industrieterrein Kraaiven",
     "wof:parent_id":1158801791,
     "wof:placetype":"neighbourhood",

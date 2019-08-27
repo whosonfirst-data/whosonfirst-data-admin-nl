@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.260862,
     "lbl:longitude":6.053208,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.260862,
     "mps:longitude":6.053208,
     "mz:hierarchy_label":0,
@@ -42,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473945,
         85633337,
         1158783457,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1141964187,
-    "wof:lastmodified":1559595724,
+    "wof:lastmodified":1566661248,
     "wof:name":"Verspreide huizen De Vecht, De Pol en omgeving",
     "wof:parent_id":1158783457,
     "wof:placetype":"neighbourhood",

@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.066736,
     "lbl:longitude":6.334659,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.066736,
     "mps:longitude":6.334659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Haulerwijk"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":51,
     "wof:belongsto":[
         85687055,
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":2754758,
         "gp:id":729768,
-        "qs:id":1164562,
         "qs_pg:id":1164562,
         "tgn:id":1047826,
         "wd:id":"Q2455984",
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101806149,
-    "wof:lastmodified":1563351011,
+    "wof:lastmodified":1566658222,
     "wof:name":"Haulerwijk",
     "wof:parent_id":404473785,
     "wof:placetype":"locality",

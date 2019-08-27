@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.510808,
     "lbl:longitude":5.526254,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.510808,
     "mps:longitude":5.526254,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474429,
         85633337,
         101754565,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158799029,
-    "wof:lastmodified":1559596740,
+    "wof:lastmodified":1566659655,
     "wof:name":"Verspreide huizen Breugel",
     "wof:parent_id":101754565,
     "wof:placetype":"neighbourhood",

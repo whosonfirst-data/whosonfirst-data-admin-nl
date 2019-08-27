@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.800224,
     "lbl:longitude":5.821532,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.800224,
     "mps:longitude":5.821532,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404474621,
         85633337,
         1158805715,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158803741,
-    "wof:lastmodified":1559597097,
+    "wof:lastmodified":1566659132,
     "wof:name":"Verspreide huizen Kuinre",
     "wof:parent_id":1158805715,
     "wof:placetype":"neighbourhood",

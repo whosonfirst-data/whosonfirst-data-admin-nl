@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.892675,
     "lbl:longitude":5.869096,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.892675,
     "mps:longitude":5.869096,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473925,
         85633337,
         1158783443,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964929,
-    "wof:lastmodified":1559596378,
+    "wof:lastmodified":1566661306,
     "wof:name":"Verspreide huizen Ressen",
     "wof:parent_id":1158783443,
     "wof:placetype":"neighbourhood",

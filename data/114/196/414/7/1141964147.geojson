@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.192655,
     "lbl:longitude":6.137589,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.192655,
     "mps:longitude":6.137589,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473945,
         85633337,
         1158783717,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964147,
-    "wof:lastmodified":1559596303,
+    "wof:lastmodified":1566661063,
     "wof:name":"Verspreide huizen Gietelo-Bussloo",
     "wof:parent_id":1158783717,
     "wof:placetype":"neighbourhood",

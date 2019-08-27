@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.319753,
     "lbl:longitude":5.99917,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.323621,
     "mps:longitude":6.012892,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Helden"
     ],
@@ -93,7 +96,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.316667,
     "wd:longitude":6.0,
     "wd:wordcount":48,
@@ -109,7 +112,6 @@
         "fct:id":"01f0e648-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2754482,
         "gp:id":729949,
-        "qs:id":1351031,
         "qs_pg:id":1351031,
         "tgn:id":7266328,
         "wd:id":"Q1025690",
@@ -131,7 +133,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351065,
+    "wof:lastmodified":1566658244,
     "wof:name":"Helden",
     "wof:parent_id":1158805873,
     "wof:placetype":"locality",

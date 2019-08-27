@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.937845,
     "lbl:longitude":6.05836,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.941297,
     "mps:longitude":6.064504,
     "mz:hierarchy_label":0,
@@ -38,9 +39,6 @@
         "Stegeslag"
     ],
     "name:nld_x_preferred":[
-        "Stegeslag"
-    ],
-    "name:unk_x_variant":[
         "Stegeslag"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -74,20 +72,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473957,
         85633337,
         101809869,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2746753,
         "gp:id":733646,
-        "qs:id":227284,
         "qs_pg:id":227284
     },
     "wof:country":"NL",
@@ -107,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596769,
+    "wof:lastmodified":1566657320,
     "wof:name":"Stegeslag",
     "wof:parent_id":101809869,
     "wof:placetype":"neighbourhood",

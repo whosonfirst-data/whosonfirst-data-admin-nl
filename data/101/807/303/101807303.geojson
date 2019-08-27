@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.727379,
     "lbl:longitude":6.63411,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":52.735511,
     "mps:longitude":6.6194,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u0435\u0441\u0431\u0440\u0443\u0433"
     ],
@@ -70,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":49,
     "wof:belongsto":[
@@ -84,7 +87,6 @@
     "wof:concordances":{
         "gn:id":2755662,
         "gp:id":729340,
-        "qs:id":1168029,
         "qs_pg:id":1168029,
         "tgn:id":7261866,
         "wd:id":"Q2324628",
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101807303,
-    "wof:lastmodified":1563350508,
+    "wof:lastmodified":1566657949,
     "wof:name":"Geesbrug",
     "wof:parent_id":404473807,
     "wof:placetype":"locality",

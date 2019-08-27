@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.014366,
     "lbl:longitude":4.73988,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.014366,
     "mps:longitude":4.73988,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158829559,
         85633337,
         101751839,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158826043,
-    "wof:lastmodified":1559596382,
+    "wof:lastmodified":1566660097,
     "wof:name":"Muziekbuurt",
     "wof:parent_id":1158829559,
     "wof:placetype":"neighbourhood",

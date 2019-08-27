@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.642257,
     "lbl:longitude":6.213934,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.651817,
     "mps:longitude":6.215993,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Staphorst"
     ],
@@ -130,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687045,
@@ -144,7 +147,6 @@
         "fct:id":"01f1fa56-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2746839,
         "gp:id":733605,
-        "qs:id":911031,
         "qs_pg:id":911031,
         "tgn:id":1048131
     },
@@ -164,7 +166,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1564234622,
+    "wof:lastmodified":1566658054,
     "wof:name":"Staphorst",
     "wof:parent_id":404473853,
     "wof:placetype":"locality",

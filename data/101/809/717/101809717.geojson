@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.38362,
     "lbl:longitude":5.574741,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.384743,
     "mps:longitude":5.576671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Heeze"
     ],
@@ -93,7 +96,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":166,
     "wof:belongsto":[
@@ -107,7 +110,6 @@
     "wof:concordances":{
         "gn:id":2754618,
         "gp:id":729858,
-        "qs:id":1074747,
         "qs_pg:id":1074747,
         "tgn:id":1047837,
         "wd:id":"Q2652133",
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101809717,
-    "wof:lastmodified":1563350671,
+    "wof:lastmodified":1566658039,
     "wof:name":"Heeze",
     "wof:parent_id":404474567,
     "wof:placetype":"locality",

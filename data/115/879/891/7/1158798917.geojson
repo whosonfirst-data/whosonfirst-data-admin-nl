@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.61102,
     "lbl:longitude":5.347238,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.61102,
     "mps:longitude":5.347238,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474421,
         85633337,
         1158801649,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158798917,
-    "wof:lastmodified":1559595792,
+    "wof:lastmodified":1566659758,
     "wof:name":"Verspreide huizen ten westen van Gemonde",
     "wof:parent_id":1158801649,
     "wof:placetype":"neighbourhood",

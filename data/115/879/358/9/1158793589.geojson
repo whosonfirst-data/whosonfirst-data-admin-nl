@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.218988,
     "lbl:longitude":7.194833,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.218988,
     "mps:longitude":7.194833,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         1158792361,
         85633337,
         1158796439,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158793589,
-    "wof:lastmodified":1559595619,
+    "wof:lastmodified":1566659641,
     "wof:name":"Verspreide huizen Drieborg",
     "wof:parent_id":1158796439,
     "wof:placetype":"neighbourhood",

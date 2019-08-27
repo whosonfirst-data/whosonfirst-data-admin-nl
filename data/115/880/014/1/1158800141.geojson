@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.325355,
     "lbl:longitude":5.654123,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.325355,
     "mps:longitude":5.654123,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474619,
         85633337,
         101809699,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158800141,
-    "wof:lastmodified":1559595415,
+    "wof:lastmodified":1566658814,
     "wof:name":"Verspreide huizen Hugten",
     "wof:parent_id":101809699,
     "wof:placetype":"neighbourhood",

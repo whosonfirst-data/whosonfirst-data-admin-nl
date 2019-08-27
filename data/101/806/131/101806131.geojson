@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.322064,
     "lbl:longitude":6.002626,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.322064,
     "mps:longitude":6.002626,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Dokkum"
     ],
@@ -147,7 +150,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":531,
     "wof:belongsto":[
@@ -161,7 +164,6 @@
     "wof:concordances":{
         "gn:id":2756759,
         "gp:id":728760,
-        "qs:id":794502,
         "qs_pg:id":794502,
         "tgn:id":7007020,
         "wd:id":"Q41976",
@@ -180,7 +182,7 @@
         }
     ],
     "wof:id":101806131,
-    "wof:lastmodified":1563350991,
+    "wof:lastmodified":1566658211,
     "wof:name":"Dokkum",
     "wof:parent_id":404473755,
     "wof:placetype":"locality",

@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.638935,
     "lbl:longitude":5.826495,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.642403,
     "mps:longitude":5.826665,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Ens"
     ],
@@ -82,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.6369,
     "wd:longitude":5.82556,
@@ -98,7 +101,6 @@
     "wof:concordances":{
         "gn:id":2756072,
         "gp:id":729138,
-        "qs:id":219228,
         "qs_pg:id":219228,
         "tgn:id":1047766,
         "wd:id":"Q2805272",
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101807247,
-    "wof:lastmodified":1563350529,
+    "wof:lastmodified":1566657961,
     "wof:name":"Ens",
     "wof:parent_id":404473843,
     "wof:placetype":"locality",

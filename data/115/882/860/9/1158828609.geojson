@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.79982,
     "lbl:longitude":4.047733,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.79982,
     "mps:longitude":4.047733,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158824741,
         85633337,
         101809843,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158828609,
-    "wof:lastmodified":1559595775,
+    "wof:lastmodified":1566660107,
     "wof:name":"Stellendam buitengebied",
     "wof:parent_id":101809843,
     "wof:placetype":"neighbourhood",

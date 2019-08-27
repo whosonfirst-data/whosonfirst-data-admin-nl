@@ -11,13 +11,17 @@
     "geom:longitude":6.028051,
     "gn:population":1079,
     "iso:country":"NL",
+    "lbl:bbox":"6.008051,53.282384,6.048051,53.322384",
     "lbl:latitude":53.302384,
     "lbl:longitude":6.028051,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.302384,
     "mps:longitude":6.028051,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u062a\u0631\u0633\u0641\u0627\u0644\u062f"
     ],
@@ -76,7 +80,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687055,
@@ -90,7 +94,6 @@
         "fct:id":"01f25c12-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2744147,
         "gp:id":734913,
-        "qs:id":187997,
         "qs_pg:id":187997,
         "tgn:id":7274747,
         "wd:id":"Q2339632",
@@ -112,7 +115,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350324,
+    "wof:lastmodified":1566657871,
     "wof:name":"Wouterswoude",
     "wof:parent_id":404474681,
     "wof:placetype":"locality",

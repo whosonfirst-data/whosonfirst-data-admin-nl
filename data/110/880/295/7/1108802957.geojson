@@ -26,6 +26,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.360821,
     "lbl:longitude":4.853378,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.360821,
     "mps:longitude":4.853378,
     "mz:hierarchy_label":1,
@@ -38,13 +39,13 @@
     "reversegeo:longitude":4.853378,
     "src:geom":"amsgis",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158844389,
         85633337,
         101751893,
         136253051,
-        1158844285
+        1158844285,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1108802957,
-    "wof:lastmodified":1559595944,
+    "wof:lastmodified":1566657609,
     "wof:name":"Westindische Buurt",
     "wof:parent_id":1158844389,
     "wof:placetype":"neighbourhood",

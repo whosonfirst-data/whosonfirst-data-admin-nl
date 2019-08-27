@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.346753,
     "lbl:longitude":5.634516,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.323146,
     "mps:longitude":5.671672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Harderwijk"
     ],
@@ -193,7 +196,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":600,
     "wof:belongsto":[
@@ -208,7 +211,6 @@
         "fct:id":"01f0d770-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2754848,
         "gp:id":729718,
-        "qs:id":794797,
         "qs_pg:id":794797,
         "tgn:id":7006902,
         "wd:id":"Q58931"
@@ -229,7 +231,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350735,
+    "wof:lastmodified":1566658070,
     "wof:name":"Harderwijk",
     "wof:parent_id":404473907,
     "wof:placetype":"locality",

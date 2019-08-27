@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.637454,
     "lbl:longitude":5.024731,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.637454,
     "mps:longitude":5.024731,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823007,
         404474083,
         85633337,
         101751883,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158819941,
-    "wof:lastmodified":1559596108,
+    "wof:lastmodified":1566659261,
     "wof:name":"Grote Waal - Buurt 13 07",
     "wof:parent_id":1158823007,
     "wof:placetype":"neighbourhood",

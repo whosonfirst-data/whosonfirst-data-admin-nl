@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.370783,
     "lbl:longitude":4.016503,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.378078,
     "mps:longitude":4.017742,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kloosterzande"
     ],
@@ -70,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":444,
     "wof:belongsto":[
         85687037,
@@ -84,7 +87,6 @@
         "fct:id":"01f11d52-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2752611,
         "gp:id":730829,
-        "qs:id":892323,
         "qs_pg:id":892323,
         "tgn:id":1047887,
         "wd:id":"Q945131",
@@ -106,7 +108,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350587,
+    "wof:lastmodified":1566657994,
     "wof:name":"Kloosterzande",
     "wof:parent_id":404474307,
     "wof:placetype":"locality",

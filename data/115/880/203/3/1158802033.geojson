@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.302086,
     "lbl:longitude":6.736498,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.302086,
     "mps:longitude":6.736498,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473821,
         85633337,
         101754771,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158802033,
-    "wof:lastmodified":1559595471,
+    "wof:lastmodified":1566658861,
     "wof:name":"Lettersveld I",
     "wof:parent_id":101754771,
     "wof:placetype":"neighbourhood",

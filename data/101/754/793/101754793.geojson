@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.491334,
     "lbl:longitude":4.663322,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.484187,
     "mps:longitude":4.667549,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Beverwijk"
     ],
@@ -167,9 +170,6 @@
     "name:tur_x_preferred":[
         "Beverwijk"
     ],
-    "name:unk_x_variant":[
-        "Berverwyk"
-    ],
     "name:vie_x_preferred":[
         "Beverwijk"
     ],
@@ -207,7 +207,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":629,
     "wof:belongsto":[
@@ -222,7 +222,6 @@
         "fct:id":"01f0525a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2758998,
         "gp:id":727690,
-        "qs:id":347669,
         "qs_pg:id":347669,
         "tgn:id":7007050,
         "wd:id":"Q9905"
@@ -243,7 +242,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350265,
+    "wof:lastmodified":1566657845,
     "wof:name":"Beverwijk",
     "wof:parent_id":404474043,
     "wof:placetype":"locality",

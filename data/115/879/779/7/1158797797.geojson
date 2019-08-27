@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.728791,
     "lbl:longitude":5.785376,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.728791,
     "mps:longitude":5.785376,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474385,
         85633337,
         101808237,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158797797,
-    "wof:lastmodified":1559596714,
+    "wof:lastmodified":1566659592,
     "wof:name":"Buitengebied Gassel",
     "wof:parent_id":101808237,
     "wof:placetype":"neighbourhood",

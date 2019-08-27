@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.375051,
     "lbl:longitude":5.825501,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.375051,
     "mps:longitude":5.825501,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473963,
         85633337,
         101807123,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964633,
-    "wof:lastmodified":1559596497,
+    "wof:lastmodified":1566661109,
     "wof:name":"Verspreide huizen bosgebied Nunspeet",
     "wof:parent_id":101807123,
     "wof:placetype":"neighbourhood",

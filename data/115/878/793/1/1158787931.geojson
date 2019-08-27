@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.024889,
     "lbl:longitude":5.224763,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.024889,
     "mps:longitude":5.224763,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404473981,
         85633337,
         101808431,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158787931,
-    "wof:lastmodified":1559595608,
+    "wof:lastmodified":1566660676,
     "wof:name":"Verspreide huizen van Werkhoven",
     "wof:parent_id":101808431,
     "wof:placetype":"neighbourhood",

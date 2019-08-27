@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.09075,
     "lbl:longitude":5.09642,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.09075,
     "mps:longitude":5.09642,
     "mz:hierarchy_label":1,
@@ -33,13 +34,13 @@
     "reversegeo:longitude":5.09642,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687039,
         102191581,
         1108808651,
         85633337,
         101751827,
         136253051,
-        1108808675
+        1108808675,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108808791,
-    "wof:lastmodified":1559596597,
+    "wof:lastmodified":1566657669,
     "wof:name":"Lombok-West",
     "wof:parent_id":1108808651,
     "wof:placetype":"neighbourhood",

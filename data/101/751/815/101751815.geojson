@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.531203,
     "lbl:longitude":4.469845,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":51.531321,
     "mps:longitude":4.458706,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Roosendaal"
     ],
@@ -187,7 +190,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.533333,
     "wd:longitude":4.45,
@@ -204,7 +207,6 @@
         "gn:id":2747930,
         "gp:id":733052,
         "loc:id":"n81101037",
-        "qs:id":795825,
         "qs_pg:id":795825,
         "tgn:id":7006825,
         "wd:id":"Q6903267",
@@ -225,7 +227,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350412,
+    "wof:lastmodified":1566657902,
     "wof:name":"Roosendaal",
     "wof:parent_id":404474587,
     "wof:placetype":"locality",

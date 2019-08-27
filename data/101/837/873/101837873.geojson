@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.807319,
     "lbl:longitude":7.038763,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.799646,
     "mps:longitude":7.021577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Emmer-Compascuum"
     ],
@@ -66,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":58,
     "wof:belongsto":[
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":2756133,
         "gp:id":729110,
-        "qs:id":910666,
         "qs_pg:id":910666,
         "tgn:id":1047763,
         "wd:id":"Q3053020"
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101837873,
-    "wof:lastmodified":1563350698,
+    "wof:lastmodified":1566658052,
     "wof:name":"Emmer-Compascuum",
     "wof:parent_id":404473809,
     "wof:placetype":"locality",

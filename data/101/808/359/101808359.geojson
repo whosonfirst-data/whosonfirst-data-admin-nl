@@ -9,15 +9,18 @@
     "geom:bbox":"3.98209126426,51.2411134455,4.03999803983,51.2664603575",
     "geom:latitude":51.252751,
     "geom:longitude":4.006657,
-    "geonames:id":"2796204,2754550",
+    "gn:id":"2796204,2754550",
     "iso:country":"NL",
     "lbl:latitude":51.251006,
     "lbl:longitude":4.027342,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.253638,
     "mps:longitude":4.001395,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0425\u0435\u0438\u043a\u0430\u043d\u0442"
     ],
@@ -70,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":132,
     "wof:belongsto":[
         85687037,
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":2754550,
         "gp:id":729919,
-        "qs:id":478493,
         "qs_pg:id":478493,
         "wd:id":"Q2350682",
         "wk:page":"Heikant, Zeeland"
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101808359,
-    "wof:lastmodified":1563350876,
+    "wof:lastmodified":1566658151,
     "wof:name":"Heikant",
     "wof:parent_id":404474307,
     "wof:placetype":"locality",

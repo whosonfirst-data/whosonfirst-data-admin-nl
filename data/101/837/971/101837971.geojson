@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.030026,
     "lbl:longitude":5.660212,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.030026,
     "mps:longitude":5.660212,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0646\u064a\u0643"
     ],
@@ -186,7 +189,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.033333,
     "wd:longitude":5.666667,
@@ -203,7 +206,6 @@
         "fct:id":"01f1ed9a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2747063,
         "gp:id":733456,
-        "qs:id":1037705,
         "qs_pg:id":1037705,
         "tgn:id":7006995,
         "wd:id":"Q23070",
@@ -225,7 +227,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350724,
+    "wof:lastmodified":1566658065,
     "wof:name":"Sneek",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

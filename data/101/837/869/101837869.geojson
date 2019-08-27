@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.135987,
     "lbl:longitude":6.563925,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.131647,
     "mps:longitude":6.577669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Eelde"
     ],
@@ -73,7 +76,7 @@
     "name:pol_x_preferred":[
         "Eelde"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Paterswolde"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -98,7 +101,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":154,
     "wof:belongsto":[
         85687051,
@@ -111,11 +114,13 @@
     "wof:concordances":{
         "gn:id":2756408,
         "gp:id":28995425,
-        "qs:id":1077488,
-        "qs_pg:id":1294943,
+        "qs_pg:id":1077488,
         "tgn:id":1047748,
         "wd:id":"Q225591",
         "wk:page":"Eelde"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1294943
     },
     "wof:country":"NL",
     "wof:geomhash":"453371d408a3c50f590f55d17645214d",
@@ -130,7 +135,7 @@
         }
     ],
     "wof:id":101837869,
-    "wof:lastmodified":1563350710,
+    "wof:lastmodified":1566658058,
     "wof:name":"Eelde",
     "wof:parent_id":404474647,
     "wof:placetype":"locality",

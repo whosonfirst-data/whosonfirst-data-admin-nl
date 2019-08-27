@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":50.820012,
     "lbl:longitude":5.870581,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.820012,
     "mps:longitude":5.870581,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474645,
         85633337,
         1158817985,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158807615,
-    "wof:lastmodified":1559596825,
+    "wof:lastmodified":1566659001,
     "wof:name":"Verspreide huizen Ingber",
     "wof:parent_id":1158817985,
     "wof:placetype":"neighbourhood",

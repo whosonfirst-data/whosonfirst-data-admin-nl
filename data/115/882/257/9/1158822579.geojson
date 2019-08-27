@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.648113,
     "lbl:longitude":4.63387,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.648113,
     "mps:longitude":4.63387,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474041,
         85633337,
         1158822803,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158822579,
-    "wof:lastmodified":1559595507,
+    "wof:lastmodified":1566660061,
     "wof:name":"Verspreide huizen Bergen aan Zee",
     "wof:parent_id":1158822803,
     "wof:placetype":"neighbourhood",

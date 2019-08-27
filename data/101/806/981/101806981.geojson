@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.172063,
     "lbl:longitude":4.995113,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.165132,
     "mps:longitude":4.99876,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Breukelen"
     ],
@@ -162,7 +165,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.1725,
     "wd:longitude":4.9986,
@@ -179,7 +182,6 @@
         "fct:id":"01f0647a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2758333,
         "gp:id":728004,
-        "qs:id":239579,
         "qs_pg:id":239579,
         "tgn:id":1047677,
         "wd:id":"Q615732",
@@ -201,7 +203,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351011,
+    "wof:lastmodified":1566658222,
     "wof:name":"Breukelen",
     "wof:parent_id":1158787499,
     "wof:placetype":"locality",

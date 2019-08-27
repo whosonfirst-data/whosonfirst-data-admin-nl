@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":50.906083,
     "lbl:longitude":5.780785,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.900986,
     "mps:longitude":5.780695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Ulestraten"
     ],
@@ -81,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.9053,
     "wd:longitude":5.7803,
     "wd:wordcount":85,
@@ -96,7 +99,6 @@
     "wof:concordances":{
         "gn:id":2745955,
         "gp:id":734026,
-        "qs:id":337054,
         "qs_pg:id":337054,
         "tgn:id":7272847,
         "wd:id":"Q2164942",
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":101809591,
-    "wof:lastmodified":1563350633,
+    "wof:lastmodified":1566658017,
     "wof:name":"Ulestraten",
     "wof:parent_id":404474501,
     "wof:placetype":"locality",

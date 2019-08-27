@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":50.880663,
     "lbl:longitude":6.012078,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.880663,
     "mps:longitude":6.012078,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474467,
         85633337,
         101839719,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158805911,
-    "wof:lastmodified":1559596522,
+    "wof:lastmodified":1566658998,
     "wof:name":"Eiske",
     "wof:parent_id":101839719,
     "wof:placetype":"neighbourhood",

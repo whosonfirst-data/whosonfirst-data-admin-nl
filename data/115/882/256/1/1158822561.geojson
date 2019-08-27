@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.128157,
     "lbl:longitude":4.850099,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.128157,
     "mps:longitude":4.850099,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474115,
         85633337,
         101874273,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158822561,
-    "wof:lastmodified":1559595501,
+    "wof:lastmodified":1566660116,
     "wof:name":"Verspreide huizen Cocksdorp",
     "wof:parent_id":101874273,
     "wof:placetype":"neighbourhood",

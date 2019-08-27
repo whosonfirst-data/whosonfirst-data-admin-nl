@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.457265,
     "lbl:longitude":6.553453,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.457265,
     "mps:longitude":6.553453,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404474611,
         85633337,
         101837851,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158803639,
-    "wof:lastmodified":1559596934,
+    "wof:lastmodified":1566658776,
     "wof:name":"Vroomshoop-West",
     "wof:parent_id":101837851,
     "wof:placetype":"neighbourhood",

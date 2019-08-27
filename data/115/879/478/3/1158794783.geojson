@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.413296,
     "lbl:longitude":6.457884,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.413296,
     "mps:longitude":6.457884,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404474575,
         85633337,
         1158796523,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158794783,
-    "wof:lastmodified":1559595622,
+    "wof:lastmodified":1566659405,
     "wof:name":"Verspreide huizen Pieterburen",
     "wof:parent_id":1158796523,
     "wof:placetype":"neighbourhood",

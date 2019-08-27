@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.660904,
     "lbl:longitude":5.045582,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.660904,
     "mps:longitude":5.045582,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801793,
         404474401,
         85633337,
         101839371,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158798289,
-    "wof:lastmodified":1559595762,
+    "wof:lastmodified":1566659436,
     "wof:name":"Loonse Vaart",
     "wof:parent_id":1158801793,
     "wof:placetype":"neighbourhood",

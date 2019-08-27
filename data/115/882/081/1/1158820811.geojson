@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.504235,
     "lbl:longitude":4.7646,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.504235,
     "mps:longitude":4.7646,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823265,
         404474143,
         85633337,
         101754827,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158820811,
-    "wof:lastmodified":1559596097,
+    "wof:lastmodified":1566660278,
     "wof:name":"Rosariumbuurt",
     "wof:parent_id":1158823265,
     "wof:placetype":"neighbourhood",

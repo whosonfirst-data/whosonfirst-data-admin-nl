@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.893718,
     "lbl:longitude":6.045628,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.893718,
     "mps:longitude":6.045628,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473863,
         85633337,
         101809871,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141961839,
-    "wof:lastmodified":1559595953,
+    "wof:lastmodified":1566661328,
     "wof:name":"Verspreide huizen Pannerden",
     "wof:parent_id":101809871,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.093964,
     "lbl:longitude":6.712129,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.093964,
     "mps:longitude":6.712129,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474647,
         85633337,
         101807255,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158791705,
-    "wof:lastmodified":1559595525,
+    "wof:lastmodified":1566659822,
     "wof:name":"Verspreide huizen Zuidlaren",
     "wof:parent_id":101807255,
     "wof:placetype":"neighbourhood",

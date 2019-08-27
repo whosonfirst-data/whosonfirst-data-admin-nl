@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.737835,
     "lbl:longitude":5.857203,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.737835,
     "mps:longitude":5.857203,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474597,
         85633337,
         101839723,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158800011,
-    "wof:lastmodified":1559595912,
+    "wof:lastmodified":1566658886,
     "wof:name":"Heeswijkse Kampen",
     "wof:parent_id":101839723,
     "wof:placetype":"neighbourhood",

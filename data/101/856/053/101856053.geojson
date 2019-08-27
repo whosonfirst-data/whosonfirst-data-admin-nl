@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.435063,
     "lbl:longitude":6.536483,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.431197,
     "mps:longitude":6.545207,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Daarle"
     ],
@@ -41,7 +44,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687045,
         102191581,
@@ -53,7 +56,6 @@
     "wof:concordances":{
         "gn:id":2757867,
         "gp:id":728244,
-        "qs:id":920241,
         "qs_pg:id":920241,
         "tgn:id":7262958
     },
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":101856053,
-    "wof:lastmodified":1559594321,
+    "wof:lastmodified":1566657885,
     "wof:name":"Daarle",
     "wof:parent_id":404473835,
     "wof:placetype":"locality",

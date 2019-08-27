@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.463993,
     "lbl:longitude":6.619394,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.463993,
     "mps:longitude":6.619394,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404474611,
         85633337,
         101837855,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158803625,
-    "wof:lastmodified":1559597105,
+    "wof:lastmodified":1566658741,
     "wof:name":"Westerhaar-West",
     "wof:parent_id":101837855,
     "wof:placetype":"neighbourhood",

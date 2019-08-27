@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.281119,
     "lbl:longitude":3.858329,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.281119,
     "mps:longitude":3.858329,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474329,
         85633337,
         101809829,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158784579,
-    "wof:lastmodified":1559595494,
+    "wof:lastmodified":1566660815,
     "wof:name":"Buitengebied Sluiskil",
     "wof:parent_id":101809829,
     "wof:placetype":"neighbourhood",

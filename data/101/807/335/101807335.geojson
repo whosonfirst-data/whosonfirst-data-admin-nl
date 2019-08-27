@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.552867,
     "lbl:longitude":4.671366,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.545982,
     "mps:longitude":4.675583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Castricum"
     ],
@@ -150,9 +153,6 @@
     "name:tur_x_preferred":[
         "Castricum"
     ],
-    "name:unk_x_variant":[
-        "Kastrikum"
-    ],
     "name:vie_x_preferred":[
         "Castricum"
     ],
@@ -190,7 +190,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":295,
     "wof:belongsto":[
@@ -205,7 +205,6 @@
         "fct:id":"01f070a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2757991,
         "gp:id":728189,
-        "qs:id":1350618,
         "qs_pg:id":1350618,
         "tgn:id":1047694,
         "wd:id":"Q9910"
@@ -226,7 +225,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350509,
+    "wof:lastmodified":1566657949,
     "wof:name":"Castricum",
     "wof:parent_id":404474053,
     "wof:placetype":"locality",

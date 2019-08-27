@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.717929,
     "lbl:longitude":5.398637,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.717929,
     "mps:longitude":5.398637,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474393,
         85633337,
         101754587,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158798003,
-    "wof:lastmodified":1559596657,
+    "wof:lastmodified":1566659730,
     "wof:name":"Binckhorst",
     "wof:parent_id":101754587,
     "wof:placetype":"neighbourhood",

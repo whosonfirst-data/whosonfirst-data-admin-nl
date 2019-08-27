@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.100947,
     "lbl:longitude":5.14157,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.100947,
     "mps:longitude":5.14157,
     "mz:hierarchy_label":1,
@@ -33,12 +34,12 @@
     "reversegeo:longitude":5.14157,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687039,
         102191581,
         85633337,
         101751827,
         136253051,
-        1108808663
+        1108808663,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1108808755,
-    "wof:lastmodified":1559595546,
+    "wof:lastmodified":1566657598,
     "wof:name":"Huizingalaan, K. Doormanlaan en omgeving",
     "wof:parent_id":1108808663,
     "wof:placetype":"neighbourhood",

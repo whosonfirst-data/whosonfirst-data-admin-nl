@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.122269,
     "lbl:longitude":5.147061,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.125388,
     "mps:longitude":5.159424,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Groenekan"
     ],
@@ -71,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.1242,
     "wd:longitude":5.1489,
     "wd:wordcount":109,
@@ -87,7 +90,6 @@
         "fct:id":"01f0cae6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2755302,
         "gp:id":729524,
-        "qs:id":1350913,
         "qs_pg:id":1350913,
         "tgn:id":7260588,
         "wd:id":"Q1866725"
@@ -108,7 +110,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350295,
+    "wof:lastmodified":1566657856,
     "wof:name":"Groenekan",
     "wof:parent_id":404473975,
     "wof:placetype":"locality",

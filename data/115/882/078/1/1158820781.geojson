@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.465577,
     "lbl:longitude":4.809493,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.465577,
     "mps:longitude":4.809493,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474143,
         85633337,
         101754825,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158820781,
-    "wof:lastmodified":1559595446,
+    "wof:lastmodified":1566660058,
     "wof:name":"Oud Koog",
     "wof:parent_id":101754825,
     "wof:placetype":"neighbourhood",

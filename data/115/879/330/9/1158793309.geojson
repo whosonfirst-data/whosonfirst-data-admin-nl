@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.871913,
     "lbl:longitude":7.080199,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.871913,
     "mps:longitude":7.080199,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473739,
         85633337,
         101838031,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158793309,
-    "wof:lastmodified":1559596282,
+    "wof:lastmodified":1566659360,
     "wof:name":"Agobuurt",
     "wof:parent_id":101838031,
     "wof:placetype":"neighbourhood",

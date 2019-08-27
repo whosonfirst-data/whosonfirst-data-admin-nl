@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.714489,
     "lbl:longitude":4.936643,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.725559,
     "mps:longitude":4.93582,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Hoogwoud"
     ],
@@ -78,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":222,
     "wof:belongsto":[
         85687053,
@@ -92,7 +95,6 @@
         "fct:id":"01f0fec6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2753663,
         "gp:id":730346,
-        "qs:id":1074759,
         "qs_pg:id":1074759,
         "tgn:id":7264508,
         "wd:id":"Q2784508",
@@ -114,7 +116,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350768,
+    "wof:lastmodified":1566658085,
     "wof:name":"Hoogwoud",
     "wof:parent_id":404474107,
     "wof:placetype":"locality",

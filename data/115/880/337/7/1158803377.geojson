@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.291301,
     "lbl:longitude":6.573974,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.291301,
     "mps:longitude":6.573974,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473859,
         85633337,
         101807189,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158803377,
-    "wof:lastmodified":1559597090,
+    "wof:lastmodified":1566658756,
     "wof:name":"Enter-Zuidwest",
     "wof:parent_id":101807189,
     "wof:placetype":"neighbourhood",

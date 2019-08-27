@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.988862,
     "lbl:longitude":5.919102,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.988862,
     "mps:longitude":5.919102,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783967,
         404473871,
         85633337,
         101751857,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1141962185,
-    "wof:lastmodified":1559596082,
+    "wof:lastmodified":1566661042,
     "wof:name":"Klarendal Noord",
     "wof:parent_id":1158783967,
     "wof:placetype":"neighbourhood",

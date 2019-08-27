@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.272973,
     "lbl:longitude":5.125213,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.272973,
     "mps:longitude":5.125213,
     "mz:hierarchy_label":0,
@@ -40,11 +41,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         85633337,
         101751905,
-        136253051,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1158819891,
-    "wof:lastmodified":1559596227,
+    "wof:lastmodified":1566659308,
     "wof:name":"Landelijk gebied 97",
     "wof:parent_id":101751905,
     "wof:placetype":"neighbourhood",

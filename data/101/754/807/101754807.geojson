@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.453154,
     "lbl:longitude":4.638565,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.446327,
     "mps:longitude":4.63538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Driehuis"
     ],
@@ -78,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687053,
         102191581,
@@ -91,7 +94,6 @@
         "fct:id":"01f09292-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2756598,
         "gp:id":728849,
-        "qs:id":215334,
         "qs_pg:id":215334,
         "tgn:id":7260929,
         "wd:id":"Q2656192",
@@ -113,7 +115,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350291,
+    "wof:lastmodified":1566657854,
     "wof:name":"Driehuis",
     "wof:parent_id":404474123,
     "wof:placetype":"locality",

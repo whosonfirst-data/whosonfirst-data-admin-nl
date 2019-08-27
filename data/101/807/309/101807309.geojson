@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.698819,
     "lbl:longitude":6.317281,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.700505,
     "mps:longitude":6.329663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Koekange"
     ],
@@ -50,7 +53,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687051,
         102191581,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":2752568,
         "gp:id":730845,
-        "qs:id":187629,
         "qs_pg:id":187629,
         "tgn:id":7267079
     },
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":101807309,
-    "wof:lastmodified":1559595115,
+    "wof:lastmodified":1566657910,
     "wof:name":"Koekange",
     "wof:parent_id":404474601,
     "wof:placetype":"locality",

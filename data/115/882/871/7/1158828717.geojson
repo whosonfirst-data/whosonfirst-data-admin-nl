@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.020608,
     "lbl:longitude":4.441503,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.020608,
     "mps:longitude":4.441503,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474687,
         85633337,
         101808469,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158828717,
-    "wof:lastmodified":1559596743,
+    "wof:lastmodified":1566660281,
     "wof:name":"Klapwijk Noord",
     "wof:parent_id":101808469,
     "wof:placetype":"neighbourhood",

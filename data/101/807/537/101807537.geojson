@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.419571,
     "lbl:longitude":6.768505,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.416849,
     "mps:longitude":6.781976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Roodeschool"
     ],
@@ -50,7 +53,7 @@
     "name:pol_x_preferred":[
         "Roodeschool"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Roodeschooi"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -75,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.4206,
     "wd:longitude":6.7636,
     "wd:wordcount":87,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":2747956,
         "gp:id":733042,
-        "qs:id":1168103,
         "qs_pg:id":1168103,
         "tgn:id":1048073,
         "wd:id":"Q2974509",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101807537,
-    "wof:lastmodified":1563350505,
+    "wof:lastmodified":1566657947,
     "wof:name":"Roodeschool",
     "wof:parent_id":404474561,
     "wof:placetype":"locality",

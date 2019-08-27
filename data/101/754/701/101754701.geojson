@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.883624,
     "lbl:longitude":4.225474,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.877445,
     "mps:longitude":4.21556,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Zwartewaal"
     ],
@@ -68,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8833,
     "wd:longitude":4.2208,
     "wd:wordcount":139,
@@ -84,7 +87,6 @@
         "fct:id":"01f26e32-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2743528,
         "gp:id":735196,
-        "qs:id":1352836,
         "qs_pg:id":1352836,
         "tgn:id":7274488,
         "wd:id":"Q3029866"
@@ -105,7 +107,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350226,
+    "wof:lastmodified":1566657829,
     "wof:name":"Zwartewaal",
     "wof:parent_id":404474161,
     "wof:placetype":"locality",

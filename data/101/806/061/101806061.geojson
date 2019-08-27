@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.889389,
     "lbl:longitude":4.807147,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.887926,
     "mps:longitude":4.825643,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Breezand"
     ],
@@ -72,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.8872,
     "wd:longitude":4.8106,
     "wd:wordcount":121,
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":2758360,
         "gp:id":727992,
-        "qs:id":236701,
         "qs_pg:id":236701,
         "tgn:id":7262427,
         "wd:id":"Q940668",
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":101806061,
-    "wof:lastmodified":1563351000,
+    "wof:lastmodified":1566658217,
     "wof:name":"Breezand",
     "wof:parent_id":1158818287,
     "wof:placetype":"locality",

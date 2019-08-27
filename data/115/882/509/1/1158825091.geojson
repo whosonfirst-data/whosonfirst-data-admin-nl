@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.861861,
     "lbl:longitude":4.531927,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.861861,
     "mps:longitude":4.531927,
     "mz:hierarchy_label":1,
@@ -40,11 +41,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         85633337,
         101754615,
-        136253051,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1158825091,
-    "wof:lastmodified":1559596470,
+    "wof:lastmodified":1566660226,
     "wof:name":"Dorpzicht",
     "wof:parent_id":101754615,
     "wof:placetype":"neighbourhood",

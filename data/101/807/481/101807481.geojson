@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.873572,
     "lbl:longitude":5.819513,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.873572,
     "mps:longitude":5.819513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0415\u0447\u0442\u0435\u043d\u0435\u0440\u0431\u0440\u0443\u0433"
     ],
@@ -56,7 +59,7 @@
     "name:pol_x_preferred":[
         "Echtenerbrug"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Echterbrug"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":52,
     "wof:belongsto":[
@@ -92,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2756438,
         "gp:id":728933,
-        "qs:id":205457,
         "qs_pg:id":205457,
         "tgn:id":7261328,
         "wd:id":"Q2224902",
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101807481,
-    "wof:lastmodified":1563350523,
+    "wof:lastmodified":1566657958,
     "wof:name":"Echternerbrug",
     "wof:parent_id":404473781,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.859279,
     "lbl:longitude":5.690091,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.859279,
     "mps:longitude":5.690091,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473875,
         85633337,
         101809853,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962513,
-    "wof:lastmodified":1559596154,
+    "wof:lastmodified":1566661128,
     "wof:name":"Winssen-Buitengebied Zuid-2",
     "wof:parent_id":101809853,
     "wof:placetype":"neighbourhood",

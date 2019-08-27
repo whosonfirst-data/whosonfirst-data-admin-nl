@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.801331,
     "lbl:longitude":5.552615,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.801331,
     "mps:longitude":5.552615,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474415,
         85633337,
         1158801639,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158798709,
-    "wof:lastmodified":1559595783,
+    "wof:lastmodified":1566659673,
     "wof:name":"Verspreide huizen Harense Broek",
     "wof:parent_id":1158801639,
     "wof:placetype":"neighbourhood",

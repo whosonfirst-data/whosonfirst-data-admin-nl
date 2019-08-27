@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.378663,
     "lbl:longitude":6.611604,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.378663,
     "mps:longitude":6.611604,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473819,
         85633337,
         101754769,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158802013,
-    "wof:lastmodified":1559596770,
+    "wof:lastmodified":1566659087,
     "wof:name":"Bedrijvenpark Twente",
     "wof:parent_id":101754769,
     "wof:placetype":"neighbourhood",

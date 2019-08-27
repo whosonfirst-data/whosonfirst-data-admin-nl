@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.408479,
     "lbl:longitude":5.655665,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.408479,
     "mps:longitude":5.655665,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474425,
         85633337,
         101808181,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158798993,
-    "wof:lastmodified":1559596700,
+    "wof:lastmodified":1566659790,
     "wof:name":"Verspreide huizen Meerven",
     "wof:parent_id":101808181,
     "wof:placetype":"neighbourhood",

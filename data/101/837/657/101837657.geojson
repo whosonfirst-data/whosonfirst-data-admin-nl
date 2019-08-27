@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.134585,
     "lbl:longitude":5.214643,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.137036,
     "mps:longitude":5.209597,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Bilthoven"
     ],
@@ -102,7 +105,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.1283,
     "wd:longitude":5.1986,
     "wd:wordcount":448,
@@ -118,7 +121,6 @@
         "fct:id":"01f05494-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2758927,
         "gp:id":727728,
-        "qs:id":1074709,
         "qs_pg:id":1074709,
         "tgn:id":1047656,
         "wd:id":"Q1075656",
@@ -140,7 +142,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350714,
+    "wof:lastmodified":1566658060,
     "wof:name":"Bilthoven",
     "wof:parent_id":404473975,
     "wof:placetype":"locality",

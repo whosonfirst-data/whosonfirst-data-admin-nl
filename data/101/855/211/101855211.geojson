@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":50.783211,
     "lbl:longitude":5.990877,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.789316,
     "mps:longitude":5.982554,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Lemiers"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687033,
         102191581,
@@ -79,7 +82,7 @@
     "wof:concordances":{
         "gn:id":2751730,
         "gp:id":731259,
-        "qs:id":5,
+        "qs_pg:id":5,
         "tgn:id":4006295,
         "wd:id":"Q325180"
     },
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101855211,
-    "wof:lastmodified":1563351087,
+    "wof:lastmodified":1566658253,
     "wof:name":"Lemiers",
     "wof:parent_id":404474523,
     "wof:placetype":"locality",

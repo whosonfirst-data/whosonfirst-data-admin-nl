@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.354941,
     "lbl:longitude":6.806202,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.354941,
     "mps:longitude":6.806202,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473723,
         85633337,
         1158796661,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158796075,
-    "wof:lastmodified":1559595640,
+    "wof:lastmodified":1566659791,
     "wof:name":"Verspreide huizen Leermens",
     "wof:parent_id":1158796661,
     "wof:placetype":"neighbourhood",

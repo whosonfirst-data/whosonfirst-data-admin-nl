@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.462531,
     "lbl:longitude":5.472753,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.462531,
     "mps:longitude":5.472753,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801473,
         85633337,
         101751819,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158797397,
-    "wof:lastmodified":1559596663,
+    "wof:lastmodified":1566659345,
     "wof:name":"Rapenland",
     "wof:parent_id":1158801473,
     "wof:placetype":"neighbourhood",

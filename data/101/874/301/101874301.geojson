@@ -11,13 +11,17 @@
     "geom:longitude":5.881725,
     "gn:population":2279,
     "iso:country":"NL",
+    "lbl:bbox":"5.861725,53.225814,5.901725,53.265814",
     "lbl:latitude":53.245814,
     "lbl:longitude":5.881725,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.245814,
     "mps:longitude":5.881725,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gytsjerk"
     ],
@@ -59,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687055,
@@ -73,7 +77,6 @@
         "fct:id":"01f0c186-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2755542,
         "gp:id":729402,
-        "qs:id":1350865,
         "qs_pg:id":1350865,
         "tgn:id":7262307,
         "wd:id":"Q2238305",
@@ -95,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350314,
+    "wof:lastmodified":1566657864,
     "wof:name":"Giekerk",
     "wof:parent_id":404474343,
     "wof:placetype":"locality",

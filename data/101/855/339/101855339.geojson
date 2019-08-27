@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.901634,
     "lbl:longitude":5.752302,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.899108,
     "mps:longitude":5.749968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Herveld"
     ],
@@ -78,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.8989,
     "wd:longitude":5.7475,
@@ -94,7 +97,6 @@
     "wof:concordances":{
         "gn:id":2754322,
         "gp:id":730021,
-        "qs:id":905808,
         "qs_pg:id":905808,
         "tgn:id":7266555,
         "wd:id":"Q2757855",
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101855339,
-    "wof:lastmodified":1563351085,
+    "wof:lastmodified":1566658252,
     "wof:name":"Herveld",
     "wof:parent_id":404474651,
     "wof:placetype":"locality",

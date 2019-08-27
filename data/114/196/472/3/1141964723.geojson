@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.851012,
     "lbl:longitude":5.455777,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.851012,
     "mps:longitude":5.455777,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474305,
         85633337,
         101808669,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964723,
-    "wof:lastmodified":1559596513,
+    "wof:lastmodified":1566661235,
     "wof:name":"Buitengebied Dreumel",
     "wof:parent_id":101808669,
     "wof:placetype":"neighbourhood",

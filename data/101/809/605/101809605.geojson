@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.117975,
     "lbl:longitude":6.038771,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.121129,
     "mps:longitude":6.036887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Posterholt"
     ],
@@ -93,7 +96,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.1219,
     "wd:longitude":6.0378,
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":2748481,
         "gp:id":732789,
-        "qs:id":1219808,
         "qs_pg:id":1219808,
         "tgn:id":1048048,
         "wd:id":"Q2064352",
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101809605,
-    "wof:lastmodified":1563350599,
+    "wof:lastmodified":1566658000,
     "wof:name":"Posterholt",
     "wof:parent_id":404474581,
     "wof:placetype":"locality",

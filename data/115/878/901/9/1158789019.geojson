@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.181401,
     "lbl:longitude":5.000871,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.181401,
     "mps:longitude":5.000871,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158787499,
         85633337,
         101806981,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158789019,
-    "wof:lastmodified":1559596593,
+    "wof:lastmodified":1566660481,
     "wof:name":"Breukelen Noord",
     "wof:parent_id":101806981,
     "wof:placetype":"neighbourhood",

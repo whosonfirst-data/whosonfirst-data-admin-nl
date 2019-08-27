@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.012359,
     "lbl:longitude":5.328629,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.002219,
     "mps:longitude":5.349104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Langbroek"
     ],
@@ -64,7 +67,7 @@
     "name:spa_x_preferred":[
         "Langbroek"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neerlangbroek"
     ],
     "name:urd_x_preferred":[
@@ -92,7 +95,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":4.0,
     "wd:latitude":52.0122,
     "wd:longitude":5.3269,
@@ -109,7 +112,6 @@
         "fct:id":"01f16bf4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2750473,
         "gp:id":731867,
-        "qs:id":906089,
         "qs_pg:id":906089,
         "tgn:id":7270274,
         "wd:id":"Q3030117",
@@ -131,7 +133,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350474,
+    "wof:lastmodified":1566657930,
     "wof:name":"Langbroek",
     "wof:parent_id":404474015,
     "wof:placetype":"locality",

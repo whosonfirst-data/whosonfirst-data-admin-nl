@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.363155,
     "lbl:longitude":5.726662,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.355724,
     "mps:longitude":5.729345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Hulshorst"
     ],
@@ -63,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687043,
         102191581,
@@ -75,7 +78,6 @@
     "wof:concordances":{
         "gn:id":2753441,
         "gp:id":730448,
-        "qs:id":347724,
         "qs_pg:id":347724,
         "tgn:id":7265405,
         "wd:id":"Q3030468"
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101807111,
-    "wof:lastmodified":1563350494,
+    "wof:lastmodified":1566657941,
     "wof:name":"Hulshorst",
     "wof:parent_id":404473963,
     "wof:placetype":"locality",

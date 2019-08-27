@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.911657,
     "lbl:longitude":5.399459,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.924743,
     "mps:longitude":5.398038,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Zoelen"
     ],
@@ -57,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":165,
     "wof:belongsto":[
         85687043,
@@ -71,7 +74,6 @@
         "fct:id":"01f26568-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2743861,
         "gp:id":735074,
-        "qs:id":896022,
         "qs_pg:id":896022,
         "tgn:id":7274180,
         "wd:id":"Q1985335"
@@ -92,7 +94,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350849,
+    "wof:lastmodified":1566658131,
     "wof:name":"Zoelen",
     "wof:parent_id":404473879,
     "wof:placetype":"locality",

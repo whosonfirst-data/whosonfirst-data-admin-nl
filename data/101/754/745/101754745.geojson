@@ -18,11 +18,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.822472,
     "lbl:longitude":4.774385,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.830007,
     "mps:longitude":4.772943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u064a\u062f\u0631\u064a\u062e\u062a"
     ],
@@ -134,9 +137,6 @@
     "name:tur_x_preferred":[
         "Sliedrecht"
     ],
-    "name:unk_x_variant":[
-        "Shedrecht"
-    ],
     "name:vie_x_preferred":[
         "Sliedrecht"
     ],
@@ -171,7 +171,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wd:latitude":51.816667,
     "wd:longitude":4.766667,
@@ -187,7 +187,6 @@
         "fct:id":"01f1ea02-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2747169,
         "gp:id":733406,
-        "qs:id":1037708,
         "qs_pg:id":1037708,
         "tgn:id":1048113,
         "wd:id":"Q750760"
@@ -207,7 +206,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350311,
+    "wof:lastmodified":1566657862,
     "wof:name":"Sliedrecht",
     "wof:parent_id":85687041,
     "wof:placetype":"locality",

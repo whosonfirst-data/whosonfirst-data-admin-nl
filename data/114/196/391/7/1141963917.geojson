@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.445464,
     "lbl:longitude":5.981173,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.445464,
     "mps:longitude":5.981173,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473927,
         85633337,
         101837823,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963917,
-    "wof:lastmodified":1559596970,
+    "wof:lastmodified":1566661007,
     "wof:name":"Verspreide huizen Heide Hoek",
     "wof:parent_id":101837823,
     "wof:placetype":"neighbourhood",

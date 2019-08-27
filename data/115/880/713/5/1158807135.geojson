@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":50.870029,
     "lbl:longitude":5.821978,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.870029,
     "mps:longitude":5.821978,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474537,
         85633337,
         101810315,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807135,
-    "wof:lastmodified":1559596342,
+    "wof:lastmodified":1566658900,
     "wof:name":"Broekhem Zuid",
     "wof:parent_id":101810315,
     "wof:placetype":"neighbourhood",

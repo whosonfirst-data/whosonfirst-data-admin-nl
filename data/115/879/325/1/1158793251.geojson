@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.971521,
     "lbl:longitude":7.180438,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.971521,
     "mps:longitude":7.180438,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473739,
         85633337,
         101846165,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158793251,
-    "wof:lastmodified":1559596420,
+    "wof:lastmodified":1566659596,
     "wof:name":"Verspreide huizen ten oosten van Ruiten A-kanaal",
     "wof:parent_id":101846165,
     "wof:placetype":"neighbourhood",

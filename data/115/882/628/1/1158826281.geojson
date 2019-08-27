@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.204092,
     "lbl:longitude":4.450012,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.204092,
     "mps:longitude":4.450012,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474191,
         85633337,
         101754741,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158826281,
-    "wof:lastmodified":1559596445,
+    "wof:lastmodified":1566660015,
     "wof:name":"Verspreide huizen Rijnsburg",
     "wof:parent_id":101754741,
     "wof:placetype":"neighbourhood",

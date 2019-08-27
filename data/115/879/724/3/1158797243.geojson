@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.333956,
     "lbl:longitude":5.302193,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.333956,
     "mps:longitude":5.302193,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474371,
         85633337,
         101839351,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158797243,
-    "wof:lastmodified":1559596998,
+    "wof:lastmodified":1566659573,
     "wof:name":"Verspreide huizen Eersel",
     "wof:parent_id":101839351,
     "wof:placetype":"neighbourhood",

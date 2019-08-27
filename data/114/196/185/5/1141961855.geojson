@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.935416,
     "lbl:longitude":6.523294,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.935416,
     "mps:longitude":6.523294,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473865,
         85633337,
         1158783537,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141961855,
-    "wof:lastmodified":1559595603,
+    "wof:lastmodified":1566661345,
     "wof:name":"Verspreide huizen Lintelo",
     "wof:parent_id":1158783537,
     "wof:placetype":"neighbourhood",

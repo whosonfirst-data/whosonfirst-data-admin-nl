@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.766894,
     "lbl:longitude":5.517477,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.766894,
     "mps:longitude":5.517477,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801733,
         404474415,
         85633337,
         101751807,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158798557,
-    "wof:lastmodified":1559596693,
+    "wof:lastmodified":1566659788,
     "wof:name":"Centrum West",
     "wof:parent_id":1158801733,
     "wof:placetype":"neighbourhood",

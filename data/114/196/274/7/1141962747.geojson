@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.965235,
     "lbl:longitude":6.288351,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.965235,
     "mps:longitude":6.288351,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473885,
         85633337,
         101808663,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962747,
-    "wof:lastmodified":1559596782,
+    "wof:lastmodified":1566661050,
     "wof:name":"Stadscentrum-Zuid",
     "wof:parent_id":101808663,
     "wof:placetype":"neighbourhood",

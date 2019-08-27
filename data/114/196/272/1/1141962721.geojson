@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.002249,
     "lbl:longitude":6.130069,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.002249,
     "mps:longitude":6.130069,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473883,
         85633337,
         101837739,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962721,
-    "wof:lastmodified":1559596852,
+    "wof:lastmodified":1566661085,
     "wof:name":"Beinum I",
     "wof:parent_id":101837739,
     "wof:placetype":"neighbourhood",

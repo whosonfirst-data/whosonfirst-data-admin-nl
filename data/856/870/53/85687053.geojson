@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":52.827683,
     "lbl:longitude":4.955985,
+    "lbl:min_zoom":8.0,
     "mps:latitude":52.827683,
     "mps:longitude":4.955985,
     "mz:hierarchy_label":1,
@@ -322,9 +323,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0430 \u0413\u043e\u043b\u043b\u0430\u043d\u0434\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Provincie Noord-Holland"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u0645\u0627\u0644\u06cc \u06c1\u0648\u0644\u0627\u0646\u062a"
     ],
@@ -422,9 +420,9 @@
     "qs:type":"Provincie",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-01-01",
+    "src:population_date":"2012-01-01",
     "statoids:area_km":"2,663",
     "statoids:area_mi":"1,028",
     "statoids:as_of_date":"2012-01-01",
@@ -472,11 +470,10 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1565731607,
+    "wof:lastmodified":1566657368,
     "wof:name":"Noord-Holland",
     "wof:parent_id":85633337,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":2709822,
     "wof:population_rank":12,

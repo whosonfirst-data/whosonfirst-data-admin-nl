@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.094991,
     "lbl:longitude":6.689296,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.086405,
     "mps:longitude":6.702281,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0632\u0627\u0648\u062f\u0644\u0627\u0631\u0646"
     ],
@@ -100,7 +103,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":544,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":2743680,
         "gp:id":735134,
-        "qs:id":478962,
         "qs_pg:id":478962,
         "tgn:id":1048278,
         "wd:id":"Q228666"
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":101807255,
-    "wof:lastmodified":1563350550,
+    "wof:lastmodified":1566657973,
     "wof:name":"Zuidlaren",
     "wof:parent_id":404474647,
     "wof:placetype":"locality",

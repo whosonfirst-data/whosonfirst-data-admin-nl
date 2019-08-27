@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.912783,
     "lbl:longitude":5.685019,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.912783,
     "mps:longitude":5.685019,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474655,
         85633337,
         101808661,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141965087,
-    "wof:lastmodified":1559595801,
+    "wof:lastmodified":1566661174,
     "wof:name":"Verspreide huizen Dodewaard-Oost en Wely",
     "wof:parent_id":101808661,
     "wof:placetype":"neighbourhood",

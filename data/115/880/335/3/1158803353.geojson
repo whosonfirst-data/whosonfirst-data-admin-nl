@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.359368,
     "lbl:longitude":6.605169,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.359368,
     "mps:longitude":6.605169,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473859,
         85633337,
         101754779,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158803353,
-    "wof:lastmodified":1559596906,
+    "wof:lastmodified":1566658972,
     "wof:name":"Wierden-Oost",
     "wof:parent_id":101754779,
     "wof:placetype":"neighbourhood",

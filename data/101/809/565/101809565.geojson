@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.262826,
     "lbl:longitude":5.992543,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.272327,
     "mps:longitude":5.974641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Neer"
     ],
@@ -77,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.2614,
     "wd:longitude":5.9917,
     "wd:wordcount":86,
@@ -92,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2750456,
         "gp:id":731874,
-        "qs:id":422135,
         "qs_pg:id":422135,
         "tgn:id":7270256,
         "wd:id":"Q975986",
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101809565,
-    "wof:lastmodified":1563350633,
+    "wof:lastmodified":1566658017,
     "wof:name":"Neer",
     "wof:parent_id":404474557,
     "wof:placetype":"locality",

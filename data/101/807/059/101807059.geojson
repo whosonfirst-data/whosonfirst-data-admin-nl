@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.06658,
     "lbl:longitude":6.563386,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.060835,
     "mps:longitude":6.561263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Beltrum"
     ],
@@ -72,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.0689,
     "wd:longitude":6.5658,
     "wd:wordcount":233,
@@ -88,7 +91,6 @@
         "fct:id":"01f04918-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2759240,
         "gp:id":727567,
-        "qs:id":1003447,
         "qs_pg:id":1003447,
         "tgn:id":7258615,
         "wd:id":"Q2011066",
@@ -110,7 +112,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350541,
+    "wof:lastmodified":1566657968,
     "wof:name":"Beltrum",
     "wof:parent_id":404474671,
     "wof:placetype":"locality",

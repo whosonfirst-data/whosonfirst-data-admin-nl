@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.968197,
     "lbl:longitude":6.314263,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.968197,
     "mps:longitude":6.314263,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473885,
         85633337,
         101808663,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962755,
-    "wof:lastmodified":1559596852,
+    "wof:lastmodified":1566661089,
     "wof:name":"Wiltinksbrug",
     "wof:parent_id":101808663,
     "wof:placetype":"neighbourhood",

@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.067308,
     "lbl:longitude":4.221882,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.064114,
     "mps:longitude":4.204277,
     "mz:hierarchy_label":1,
@@ -59,9 +60,6 @@
     "name:spa_x_preferred":[
         "Kijkduin"
     ],
-    "name:unk_x_variant":[
-        "Kijkduin"
-    ],
     "qs:gn_adm0_cc":"NL",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2747373,
@@ -93,7 +91,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":148,
     "wof:belongsto":[
         102191581,
@@ -108,7 +106,6 @@
     "wof:concordances":{
         "gn:id":2752842,
         "gp:id":730724,
-        "qs:id":178514,
         "qs_pg:id":178514,
         "wd:id":"Q1000107",
         "wk:page":"Kijkduin"
@@ -131,7 +128,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563349587,
+    "wof:lastmodified":1566657330,
     "wof:name":"Kijkduin",
     "wof:parent_id":1108808099,
     "wof:placetype":"neighbourhood",

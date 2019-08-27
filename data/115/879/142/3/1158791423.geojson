@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.885038,
     "lbl:longitude":7.001849,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.885038,
     "mps:longitude":7.001849,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474595,
         85633337,
         101808777,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158791423,
-    "wof:lastmodified":1559595494,
+    "wof:lastmodified":1566659542,
     "wof:name":"Verspreide huizen Valthermond",
     "wof:parent_id":101808777,
     "wof:placetype":"neighbourhood",

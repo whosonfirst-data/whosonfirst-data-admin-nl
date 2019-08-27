@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.336801,
     "lbl:longitude":5.640213,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.336801,
     "mps:longitude":5.640213,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158784039,
         404473907,
         85633337,
         101837769,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1141963415,
-    "wof:lastmodified":1559596924,
+    "wof:lastmodified":1566661150,
     "wof:name":"De Wittenhagen-Zuid",
     "wof:parent_id":1158784039,
     "wof:placetype":"neighbourhood",

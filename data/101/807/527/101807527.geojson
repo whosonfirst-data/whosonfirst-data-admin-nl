@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.256486,
     "lbl:longitude":6.931745,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.258873,
     "mps:longitude":6.934215,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Wagenborgen"
     ],
@@ -67,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.2561,
     "wd:longitude":6.93222,
     "wd:wordcount":117,
@@ -82,7 +85,6 @@
     "wof:concordances":{
         "gn:id":2745090,
         "gp:id":734478,
-        "qs:id":187952,
         "qs_pg:id":187952,
         "tgn:id":1048213,
         "wd:id":"Q1905772",
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101807527,
-    "wof:lastmodified":1563350496,
+    "wof:lastmodified":1566657942,
     "wof:name":"Wagenborgen",
     "wof:parent_id":404473711,
     "wof:placetype":"locality",

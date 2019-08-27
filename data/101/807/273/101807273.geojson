@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.859241,
     "lbl:longitude":6.511268,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.853078,
     "mps:longitude":6.492901,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Beilen"
     ],
@@ -101,7 +104,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":255,
     "wof:belongsto":[
         85687051,
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":2759271,
         "gp:id":727549,
-        "qs:id":176317,
         "qs_pg:id":176317,
         "tgn:id":1047640,
         "wd:id":"Q2034045",
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101807273,
-    "wof:lastmodified":1563350455,
+    "wof:lastmodified":1566657919,
     "wof:name":"Beilen",
     "wof:parent_id":404474649,
     "wof:placetype":"locality",

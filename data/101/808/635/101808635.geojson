@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.781037,
     "lbl:longitude":5.854568,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.790251,
     "mps:longitude":5.86015,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Malden"
     ],
@@ -75,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.7808,
     "wd:longitude":5.8544,
     "wd:wordcount":67,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":2751242,
         "gp:id":731524,
-        "qs:id":391731,
         "qs_pg:id":391731,
         "tgn:id":4006825,
         "wd:id":"Q1013407",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101808635,
-    "wof:lastmodified":1563350841,
+    "wof:lastmodified":1566658128,
     "wof:name":"Malden",
     "wof:parent_id":404473913,
     "wof:placetype":"locality",

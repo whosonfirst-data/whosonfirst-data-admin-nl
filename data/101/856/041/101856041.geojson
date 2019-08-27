@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.225929,
     "lbl:longitude":6.683366,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":52.215574,
     "mps:longitude":6.684302,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Bentelo"
     ],
@@ -57,7 +60,7 @@
     "name:spa_x_preferred":[
         "Bentelo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Benteloo"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -81,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.2247,
     "wd:longitude":6.6839,
@@ -97,7 +100,6 @@
     "wof:concordances":{
         "gn:id":2759180,
         "gp:id":727591,
-        "qs:id":1167979,
         "qs_pg:id":1167979,
         "tgn:id":7258769,
         "wd:id":"Q2777173",
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":101856041,
-    "wof:lastmodified":1563350348,
+    "wof:lastmodified":1566657884,
     "wof:name":"Bentelo",
     "wof:parent_id":404474653,
     "wof:placetype":"locality",

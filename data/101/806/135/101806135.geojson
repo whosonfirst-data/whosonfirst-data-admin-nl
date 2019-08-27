@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.109442,
     "lbl:longitude":6.090418,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.109442,
     "mps:longitude":6.090418,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Drachten"
     ],
@@ -153,7 +156,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.1,
     "wd:longitude":6.1,
@@ -169,7 +172,6 @@
     "wof:concordances":{
         "gn:id":2756644,
         "gp:id":728824,
-        "qs:id":1295572,
         "qs_pg:id":1295572,
         "tgn:id":1047736,
         "wd:id":"Q60444",
@@ -188,7 +190,7 @@
         }
     ],
     "wof:id":101806135,
-    "wof:lastmodified":1563350963,
+    "wof:lastmodified":1566658199,
     "wof:name":"Drachten",
     "wof:parent_id":404473791,
     "wof:placetype":"locality",

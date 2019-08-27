@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.970787,
     "lbl:longitude":6.789608,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.976926,
     "mps:longitude":6.786528,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Gasselte"
     ],
@@ -89,7 +92,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         85687051,
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":2755717,
         "gp:id":729310,
-        "qs:id":1025791,
         "qs_pg:id":1025791,
         "tgn:id":1047779,
         "wd:id":"Q2015118",
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":101806055,
-    "wof:lastmodified":1563350979,
+    "wof:lastmodified":1566658206,
     "wof:name":"Gasselte",
     "wof:parent_id":404474593,
     "wof:placetype":"locality",

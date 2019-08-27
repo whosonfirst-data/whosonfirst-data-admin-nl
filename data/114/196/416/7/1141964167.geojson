@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.232516,
     "lbl:longitude":6.130228,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.232516,
     "mps:longitude":6.130228,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473945,
         85633337,
         101807099,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964167,
-    "wof:lastmodified":1559596305,
+    "wof:lastmodified":1566661242,
     "wof:name":"Verspreide huizen Twello-Zuid",
     "wof:parent_id":101807099,
     "wof:placetype":"neighbourhood",

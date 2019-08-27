@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.531253,
     "lbl:longitude":3.820745,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.524195,
     "mps:longitude":3.815015,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Wolphaartsdijk"
     ],
@@ -38,7 +41,7 @@
     "name:nld_x_preferred":[
         "Wolphaartsdijk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oostkerk"
     ],
     "name:zea_x_preferred":[
@@ -66,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":284,
     "wof:belongsto":[
         85687037,
@@ -79,10 +82,12 @@
     "wof:concordances":{
         "gn:id":2755476,
         "gp:id":734882,
-        "qs:id":6,
-        "qs_pg:id":141353,
+        "qs_pg:id":6,
         "tgn:id":7274671,
         "wd:id":"Q1025042"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":141353
     },
     "wof:country":"NL",
     "wof:geomhash":"51707d6ccd26af40b8f51f9679b02fa6",
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":101809779,
-    "wof:lastmodified":1563350619,
+    "wof:lastmodified":1566658010,
     "wof:name":"Wolphaartsdijk",
     "wof:parent_id":404474303,
     "wof:placetype":"locality",

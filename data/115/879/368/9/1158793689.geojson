@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.155242,
     "lbl:longitude":6.922019,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.155242,
     "mps:longitude":6.922019,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404474691,
         85633337,
         101806205,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158793689,
-    "wof:lastmodified":1559596583,
+    "wof:lastmodified":1566659611,
     "wof:name":"Verspreide huizen Meeden",
     "wof:parent_id":101806205,
     "wof:placetype":"neighbourhood",

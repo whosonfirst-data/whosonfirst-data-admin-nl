@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.134061,
     "lbl:longitude":6.615037,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.139054,
     "mps:longitude":6.614292,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Neede"
     ],
@@ -69,9 +72,6 @@
     "name:sqi_x_preferred":[
         "Neede"
     ],
-    "name:unk_x_variant":[
-        "Nede"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Neede"
     ],
@@ -94,7 +94,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.133333,
     "wd:longitude":6.616667,
@@ -111,7 +111,6 @@
         "fct:id":"01f16cc6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2750460,
         "gp:id":731873,
-        "qs:id":1259206,
         "qs_pg:id":1259206,
         "tgn:id":1047971,
         "wd:id":"Q1350047",
@@ -133,7 +132,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350503,
+    "wof:lastmodified":1566657946,
     "wof:name":"Neede",
     "wof:parent_id":404474671,
     "wof:placetype":"locality",

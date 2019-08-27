@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.220003,
     "lbl:longitude":5.744037,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.220003,
     "mps:longitude":5.744037,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474531,
         85633337,
         101809523,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807121,
-    "wof:lastmodified":1559596620,
+    "wof:lastmodified":1566658924,
     "wof:name":"Tungelroy buitengebied",
     "wof:parent_id":101809523,
     "wof:placetype":"neighbourhood",

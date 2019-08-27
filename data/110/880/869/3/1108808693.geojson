@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.074367,
     "lbl:longitude":5.048645,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.074367,
     "mps:longitude":5.048645,
     "mz:hierarchy_label":1,
@@ -33,13 +34,13 @@
     "reversegeo:longitude":5.048645,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790393,
         85633337,
         101751827,
         136253051,
-        1108808673
+        1108808673,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108808693,
-    "wof:lastmodified":1559596374,
+    "wof:lastmodified":1566657616,
     "wof:name":"Bedrijvengebied Oudenrijn",
     "wof:parent_id":1158790393,
     "wof:placetype":"neighbourhood",

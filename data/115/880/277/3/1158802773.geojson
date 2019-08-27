@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.266793,
     "lbl:longitude":6.805383,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.266793,
     "mps:longitude":6.805383,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         1158805859,
         404473837,
         85633337,
         101751869,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158802773,
-    "wof:lastmodified":1559596768,
+    "wof:lastmodified":1566659011,
     "wof:name":"Elsbeek",
     "wof:parent_id":1158805859,
     "wof:placetype":"neighbourhood",

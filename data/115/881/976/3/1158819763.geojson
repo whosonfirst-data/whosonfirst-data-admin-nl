@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.908879,
     "lbl:longitude":4.785046,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.908879,
     "mps:longitude":4.785046,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474079,
         85633337,
         101806071,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158819763,
-    "wof:lastmodified":1559596084,
+    "wof:lastmodified":1566659243,
     "wof:name":"Kooypunt",
     "wof:parent_id":101806071,
     "wof:placetype":"neighbourhood",

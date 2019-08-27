@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.931252,
     "lbl:longitude":6.155358,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.927344,
     "mps:longitude":6.16072,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Nieuw-Dijk"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.933333,
     "wd:longitude":6.15,
     "wd:wordcount":109,
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gn:id":2750358,
         "gp:id":731932,
-        "qs:id":5,
+        "qs_pg:id":5,
         "tgn:id":7270287,
         "wd:id":"Q176259",
         "wk:page":"Nieuw-Dijk"
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101855373,
-    "wof:lastmodified":1563351116,
+    "wof:lastmodified":1566658269,
     "wof:name":"Nieuw-Dijk",
     "wof:parent_id":404474689,
     "wof:placetype":"locality",

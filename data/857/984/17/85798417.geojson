@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.208648,
     "lbl:longitude":5.289933,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.18857,
     "mps:longitude":5.29259,
     "mz:hierarchy_label":1,
@@ -56,10 +57,6 @@
         "Soestdyk"
     ],
     "name:nld_x_preferred":[
-        "Soestdijk"
-    ],
-    "name:unk_x_variant":[
-        "Soestdijk",
         "Soestdijk"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -96,7 +93,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":52.193611,
     "wd:longitude":5.279167,
     "wd:wordcount":91,
@@ -113,7 +110,6 @@
     "wof:concordances":{
         "gn:id":2747032,
         "gp:id":733479,
-        "qs:id":911023,
         "qs_pg:id":911023,
         "tgn:id":7006929,
         "wd:id":"Q2214216",
@@ -137,7 +133,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563349577,
+    "wof:lastmodified":1566657321,
     "wof:name":"Soestdijk",
     "wof:parent_id":1158790363,
     "wof:placetype":"neighbourhood",

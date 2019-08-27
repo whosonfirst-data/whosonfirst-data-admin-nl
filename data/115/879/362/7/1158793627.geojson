@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.151949,
     "lbl:longitude":6.964087,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.151949,
     "mps:longitude":6.964087,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         1158792361,
         85633337,
         101807533,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158793627,
-    "wof:lastmodified":1559596381,
+    "wof:lastmodified":1566659347,
     "wof:name":"Verspreide huizen ten noorden van Westerlee",
     "wof:parent_id":101807533,
     "wof:placetype":"neighbourhood",

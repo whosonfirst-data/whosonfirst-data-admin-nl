@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.811886,
     "lbl:longitude":5.764687,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.798995,
     "mps:longitude":5.769506,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Alverna"
     ],
@@ -57,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687043,
         102191581,
@@ -69,7 +72,6 @@
     "wof:concordances":{
         "gn:id":2759853,
         "gp:id":727203,
-        "qs:id":187366,
         "qs_pg:id":187366,
         "tgn:id":7258815,
         "wd:id":"Q2587102"
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101754751,
-    "wof:lastmodified":1563350267,
+    "wof:lastmodified":1566657845,
     "wof:name":"Alverna",
     "wof:parent_id":404473953,
     "wof:placetype":"locality",

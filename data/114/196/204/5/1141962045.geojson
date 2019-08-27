@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.230164,
     "lbl:longitude":5.956073,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.230164,
     "mps:longitude":5.956073,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783959,
         404473867,
         85633337,
         101751853,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1141962045,
-    "wof:lastmodified":1559596061,
+    "wof:lastmodified":1566661116,
     "wof:name":"Kerschoten-West",
     "wof:parent_id":1158783959,
     "wof:placetype":"neighbourhood",

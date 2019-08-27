@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.106721,
     "lbl:longitude":6.569173,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.106721,
     "mps:longitude":6.569173,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474671,
         85633337,
         1158783619,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141965111,
-    "wof:lastmodified":1559596348,
+    "wof:lastmodified":1566661170,
     "wof:name":"Verspreide huizen Haarlo",
     "wof:parent_id":1158783619,
     "wof:placetype":"neighbourhood",

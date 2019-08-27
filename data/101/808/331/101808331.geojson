@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.609935,
     "lbl:longitude":5.742387,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.606865,
     "mps:longitude":5.73465,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Venhorst"
     ],
@@ -68,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":177,
     "wof:belongsto":[
         85687035,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2745646,
         "gp:id":734204,
-        "qs:id":187937,
         "qs_pg:id":187937,
         "tgn:id":7272362,
         "wd:id":"Q3555509"
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101808331,
-    "wof:lastmodified":1563350784,
+    "wof:lastmodified":1566658091,
     "wof:name":"Venhorst",
     "wof:parent_id":404474357,
     "wof:placetype":"locality",

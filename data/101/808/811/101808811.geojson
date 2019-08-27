@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.837572,
     "lbl:longitude":4.754727,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.829316,
     "mps:longitude":4.752715,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "'t Zand"
     ],
@@ -59,7 +62,7 @@
     "name:nld_x_variant":[
         "t Zand"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zand"
     ],
     "qs:a0":"Nederland",
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687053,
         102191581,
@@ -92,7 +95,7 @@
     "wof:concordances":{
         "gn:id":2746031,
         "gp:id":726995,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2384262"
     },
     "wof:country":"NL",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101808811,
-    "wof:lastmodified":1563350809,
+    "wof:lastmodified":1566658108,
     "wof:name":"'t Zand",
     "wof:parent_id":404474113,
     "wof:placetype":"locality",

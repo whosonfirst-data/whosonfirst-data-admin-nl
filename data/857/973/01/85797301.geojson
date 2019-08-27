@@ -21,8 +21,10 @@
     "gn:latitude":53.09743,
     "gn:longitude":6.06791,
     "iso:country":"NL",
+    "lbl:bbox":"6.067476,53.093871,6.077476,53.103871",
     "lbl:latitude":53.098871,
     "lbl:longitude":6.072476,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.100327,
     "mps:longitude":6.061071,
     "mz:hierarchy_label":0,
@@ -42,7 +44,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         404473791,
@@ -55,7 +57,6 @@
     "wof:concordances":{
         "gn:id":2757683,
         "gp:id":728318,
-        "qs:id":179551,
         "qs_pg:id":179551
     },
     "wof:country":"NL",
@@ -75,7 +76,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561768044,
+    "wof:lastmodified":1566657348,
     "wof:name":"De Drait",
     "wof:parent_id":101806135,
     "wof:placetype":"neighbourhood",

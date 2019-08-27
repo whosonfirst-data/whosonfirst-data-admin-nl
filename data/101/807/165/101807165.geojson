@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.278905,
     "lbl:longitude":6.416575,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.283292,
     "mps:longitude":6.405422,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Holten"
     ],
@@ -81,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.281389,
     "wd:longitude":6.418611,
     "wd:wordcount":390,
@@ -96,7 +99,6 @@
     "wof:concordances":{
         "gn:id":2753874,
         "gp:id":730232,
-        "qs:id":1074752,
         "qs_pg:id":1074752,
         "tgn:id":1047855,
         "wd:id":"Q3112138",
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":101807165,
-    "wof:lastmodified":1563350507,
+    "wof:lastmodified":1566657948,
     "wof:name":"Holten",
     "wof:parent_id":404474657,
     "wof:placetype":"locality",

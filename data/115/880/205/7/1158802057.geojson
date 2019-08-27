@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.509521,
     "lbl:longitude":6.264834,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.509521,
     "mps:longitude":6.264834,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473823,
         85633337,
         101803703,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158802057,
-    "wof:lastmodified":1559596219,
+    "wof:lastmodified":1566658884,
     "wof:name":"Rondweg",
     "wof:parent_id":101803703,
     "wof:placetype":"neighbourhood",

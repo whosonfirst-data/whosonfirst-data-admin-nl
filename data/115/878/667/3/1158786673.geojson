@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.36562,
     "lbl:longitude":5.195752,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.36562,
     "mps:longitude":5.195752,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         1158787353,
         85633337,
         1158787345,
-        136253051
+        136253051,
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158786673,
-    "wof:lastmodified":1559595562,
+    "wof:lastmodified":1566660592,
     "wof:name":"Muziekwijk Zuid",
     "wof:parent_id":1158787353,
     "wof:placetype":"neighbourhood",

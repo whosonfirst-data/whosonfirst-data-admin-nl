@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.163627,
     "lbl:longitude":5.841547,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.163024,
     "mps:longitude":5.849372,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Thorn"
     ],
@@ -100,9 +103,6 @@
     "name:swe_x_preferred":[
         "Thorn"
     ],
-    "name:unk_x_variant":[
-        "Torn"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Thorn"
     ],
@@ -129,7 +129,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.166667,
     "wd:longitude":5.833333,
     "wd:wordcount":253,
@@ -144,7 +144,6 @@
     "wof:concordances":{
         "gn:id":2746342,
         "gp:id":733854,
-        "qs:id":1168131,
         "qs_pg:id":1168131,
         "tgn:id":1048150,
         "wd:id":"Q72842",
@@ -163,7 +162,7 @@
         }
     ],
     "wof:id":101809631,
-    "wof:lastmodified":1563350664,
+    "wof:lastmodified":1566658035,
     "wof:name":"Thorn",
     "wof:parent_id":404474559,
     "wof:placetype":"locality",

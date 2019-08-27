@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.291313,
     "lbl:longitude":6.471343,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.291313,
     "mps:longitude":6.471343,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473749,
         85633337,
         1158796517,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158794781,
-    "wof:lastmodified":1559595621,
+    "wof:lastmodified":1566659404,
     "wof:name":"Verspreide huizen Feerwerd",
     "wof:parent_id":1158796517,
     "wof:placetype":"neighbourhood",

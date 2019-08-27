@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.496086,
     "lbl:longitude":6.19351,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.496086,
     "mps:longitude":6.19351,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474525,
         85633337,
         101809483,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158806939,
-    "wof:lastmodified":1559596610,
+    "wof:lastmodified":1566658862,
     "wof:name":"Verspreide huizen arcen",
     "wof:parent_id":101809483,
     "wof:placetype":"neighbourhood",

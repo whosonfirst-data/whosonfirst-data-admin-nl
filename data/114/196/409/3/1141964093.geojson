@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.878908,
     "lbl:longitude":5.406732,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.878908,
     "mps:longitude":5.406732,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783931,
         404473939,
         85633337,
         101809879,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1141964093,
-    "wof:lastmodified":1559597043,
+    "wof:lastmodified":1566661123,
     "wof:name":"Wadenoijenlaan e.o.",
     "wof:parent_id":1158783931,
     "wof:placetype":"neighbourhood",

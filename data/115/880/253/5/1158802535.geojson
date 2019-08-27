@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.517234,
     "lbl:longitude":6.638066,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.517234,
     "mps:longitude":6.638066,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473831,
         85633337,
         101803701,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158802535,
-    "wof:lastmodified":1559596862,
+    "wof:lastmodified":1566659072,
     "wof:name":"Verspreide huizen Bergentheimerveen",
     "wof:parent_id":101803701,
     "wof:placetype":"neighbourhood",

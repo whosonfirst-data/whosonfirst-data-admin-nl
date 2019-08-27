@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.442962,
     "lbl:longitude":5.942187,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.442962,
     "mps:longitude":5.942187,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473927,
         85633337,
         101807069,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963889,
-    "wof:lastmodified":1559596276,
+    "wof:lastmodified":1566661345,
     "wof:name":"Verspreide huizen 't Loo",
     "wof:parent_id":101807069,
     "wof:placetype":"neighbourhood",

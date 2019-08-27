@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.301793,
     "lbl:longitude":5.577217,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.306523,
     "mps:longitude":5.576688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Soerendonk"
     ],
@@ -59,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687035,
         102191581,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":2747037,
         "gp:id":733472,
-        "qs:id":270962,
         "qs_pg:id":270962,
         "tgn:id":7270930,
         "wd:id":"Q247227"
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101809765,
-    "wof:lastmodified":1563350582,
+    "wof:lastmodified":1566657992,
     "wof:name":"Soerendonk",
     "wof:parent_id":404474619,
     "wof:placetype":"locality",

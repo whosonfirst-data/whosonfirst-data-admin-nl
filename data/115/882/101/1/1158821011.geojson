@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.69072,
     "lbl:longitude":4.897509,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.69072,
     "mps:longitude":4.897509,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474551,
         85633337,
         101807385,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158821011,
-    "wof:lastmodified":1559596069,
+    "wof:lastmodified":1566660233,
     "wof:name":"Verspreide huizen in Berkmeer polder",
     "wof:parent_id":101807385,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.390544,
     "lbl:longitude":6.273182,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.390544,
     "mps:longitude":6.273182,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473849,
         85633337,
         101808759,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158803141,
-    "wof:lastmodified":1559596969,
+    "wof:lastmodified":1566658936,
     "wof:name":"Blekkershoek",
     "wof:parent_id":101808759,
     "wof:placetype":"neighbourhood",

@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.898388,
     "lbl:longitude":4.687878,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.912382,
     "mps:longitude":4.695044,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Lekkerkerk"
     ],
@@ -89,7 +92,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8972,
     "wd:longitude":4.6828,
     "wd:wordcount":436,
@@ -105,7 +108,6 @@
         "fct:id":"01f13670-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2751744,
         "gp:id":731231,
-        "qs:id":1036310,
         "qs_pg:id":1036310,
         "tgn:id":7263883,
         "wd:id":"Q3143983",
@@ -127,7 +129,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350716,
+    "wof:lastmodified":1566658061,
     "wof:name":"Lekkerkerk",
     "wof:parent_id":1158824749,
     "wof:placetype":"locality",

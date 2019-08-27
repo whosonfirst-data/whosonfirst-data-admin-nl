@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.635645,
     "lbl:longitude":6.496886,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.635645,
     "mps:longitude":6.496886,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474601,
         85633337,
         1158792119,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158791449,
-    "wof:lastmodified":1559595497,
+    "wof:lastmodified":1566659564,
     "wof:name":"Verspreide huizen Drogteropslagen",
     "wof:parent_id":1158792119,
     "wof:placetype":"neighbourhood",

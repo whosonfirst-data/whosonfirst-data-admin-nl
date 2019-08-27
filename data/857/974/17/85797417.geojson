@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.210761,
     "lbl:longitude":6.564551,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.19672,
     "mps:longitude":6.568795,
     "mz:hierarchy_label":0,
@@ -41,9 +42,6 @@
         "De Wyert"
     ],
     "name:nld_x_preferred":[
-        "De Wijert"
-    ],
-    "name:unk_x_variant":[
         "De Wijert"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -77,20 +75,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473713,
         85633337,
         101751909,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2756937,
         "gp:id":728566,
-        "qs:id":490952,
         "qs_pg:id":490952
     },
     "wof:country":"NL",
@@ -110,7 +107,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595947,
+    "wof:lastmodified":1566657350,
     "wof:name":"De Wijert",
     "wof:parent_id":101751909,
     "wof:placetype":"neighbourhood",

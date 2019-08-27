@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.86584,
     "lbl:longitude":5.813687,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.86584,
     "mps:longitude":5.813687,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473875,
         85633337,
         101754759,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962499,
-    "wof:lastmodified":1559596200,
+    "wof:lastmodified":1566661243,
     "wof:name":"Weurt-Buitengebied Noord",
     "wof:parent_id":101754759,
     "wof:placetype":"neighbourhood",

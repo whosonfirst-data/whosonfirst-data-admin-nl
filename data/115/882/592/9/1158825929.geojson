@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.842388,
     "lbl:longitude":4.99632,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.842388,
     "mps:longitude":4.99632,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831095,
         404474173,
         85633337,
         101808515,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158825929,
-    "wof:lastmodified":1559596379,
+    "wof:lastmodified":1566659971,
     "wof:name":"Oost I",
     "wof:parent_id":1158831095,
     "wof:placetype":"neighbourhood",

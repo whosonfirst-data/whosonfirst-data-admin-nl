@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.51007,
     "lbl:longitude":4.990025,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.51007,
     "mps:longitude":4.990025,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823231,
         85633337,
         101751889,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158820337,
-    "wof:lastmodified":1559595897,
+    "wof:lastmodified":1566660369,
     "wof:name":"De Graeffweg en omgeving",
     "wof:parent_id":1158823231,
     "wof:placetype":"neighbourhood",

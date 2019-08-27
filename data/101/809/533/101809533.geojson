@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.194377,
     "lbl:longitude":5.858388,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.198417,
     "mps:longitude":5.856155,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Grathem"
     ],
@@ -52,9 +55,6 @@
     "name:nld_x_preferred":[
         "Grathem"
     ],
-    "name:unk_x_variant":[
-        "Gratem"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Grathem"
     ],
@@ -77,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.1925,
     "wd:longitude":5.8578,
     "wd:wordcount":78,
@@ -92,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2755363,
         "gp:id":729500,
-        "qs:id":178447,
         "qs_pg:id":178447,
         "tgn:id":7260306,
         "wd:id":"Q1019519"
@@ -110,7 +109,7 @@
         }
     ],
     "wof:id":101809533,
-    "wof:lastmodified":1563350580,
+    "wof:lastmodified":1566657990,
     "wof:name":"Grathem",
     "wof:parent_id":404474557,
     "wof:placetype":"locality",

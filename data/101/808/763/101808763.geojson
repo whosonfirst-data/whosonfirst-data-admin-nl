@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.350942,
     "lbl:longitude":6.922724,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.359112,
     "mps:longitude":6.933366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Rossum"
     ],
@@ -77,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.3522,
     "wd:longitude":6.9231,
     "wd:wordcount":109,
@@ -92,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2747907,
         "gp:id":733066,
-        "qs:id":1352197,
         "qs_pg:id":1352197,
         "tgn:id":7268579,
         "wd:id":"Q765030",
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101808763,
-    "wof:lastmodified":1563350781,
+    "wof:lastmodified":1566658090,
     "wof:name":"Rossum",
     "wof:parent_id":404474665,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.439933,
     "lbl:longitude":3.848808,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.439933,
     "mps:longitude":3.848808,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474299,
         85633337,
         1158786483,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158784199,
-    "wof:lastmodified":1559596077,
+    "wof:lastmodified":1566660704,
     "wof:name":"Verspreide huizen Nisse",
     "wof:parent_id":1158786483,
     "wof:placetype":"neighbourhood",

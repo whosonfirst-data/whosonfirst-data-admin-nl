@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.211125,
     "lbl:longitude":4.755593,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.211125,
     "mps:longitude":4.755593,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474217,
         85633337,
         101807031,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158826597,
-    "wof:lastmodified":1559596482,
+    "wof:lastmodified":1566660120,
     "wof:name":"Verspreide huizen in het Noorden",
     "wof:parent_id":101807031,
     "wof:placetype":"neighbourhood",

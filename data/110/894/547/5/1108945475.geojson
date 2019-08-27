@@ -26,6 +26,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.348039,
     "lbl:longitude":4.874236,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.348171,
     "mps:longitude":4.87591,
     "mz:hierarchy_label":1,
@@ -58,7 +59,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108945475,
-    "wof:lastmodified":1561768094,
+    "wof:lastmodified":1566657745,
     "wof:name":"Apollobuurt",
     "wof:parent_id":1158844283,
     "wof:placetype":"neighbourhood",

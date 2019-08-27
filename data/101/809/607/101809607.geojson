@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":50.951331,
     "lbl:longitude":5.875737,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.955263,
     "mps:longitude":5.876246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Puth"
     ],
@@ -64,7 +67,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687033,
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":2748403,
         "gp:id":732827,
-        "qs:id":235373,
         "qs_pg:id":235373,
         "tgn:id":7269437,
         "wd:id":"Q2479146"
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101809607,
-    "wof:lastmodified":1563350664,
+    "wof:lastmodified":1566658035,
     "wof:name":"Puth",
     "wof:parent_id":404474513,
     "wof:placetype":"locality",

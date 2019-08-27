@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.003257,
     "lbl:longitude":5.769656,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.010782,
     "mps:longitude":5.773244,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Berg"
     ],
@@ -46,7 +49,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687033,
@@ -59,11 +62,13 @@
     "wof:concordances":{
         "gn:id":2759164,
         "gp:id":727599,
-        "qs:id":187396,
         "qs_pg:id":141376,
         "tgn:id":7258880,
         "wd:id":"Q2183938",
         "wk:page":"Berg aan de Maas"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":187396
     },
     "wof:country":"NL",
     "wof:geomhash":"a2d0a5cd4e6be0ae0f3bd66d7768e8ad",
@@ -78,7 +83,7 @@
         }
     ],
     "wof:id":101839197,
-    "wof:lastmodified":1563351049,
+    "wof:lastmodified":1566658238,
     "wof:name":"Berg",
     "wof:parent_id":404474521,
     "wof:placetype":"locality",

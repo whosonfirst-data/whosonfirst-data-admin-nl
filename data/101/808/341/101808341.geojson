@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.654152,
     "lbl:longitude":5.551533,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.664369,
     "mps:longitude":5.550666,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u043e\u0440\u0441\u0442\u0435\u043d\u0431\u043e\u0441\u0447"
     ],
@@ -69,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":101,
     "wof:belongsto":[
         85687035,
@@ -82,7 +85,6 @@
     "wof:concordances":{
         "gn:id":2745252,
         "gp:id":734390,
-        "qs:id":915278,
         "qs_pg:id":915278,
         "tgn:id":7272739,
         "wd:id":"Q287904",
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101808341,
-    "wof:lastmodified":1563350852,
+    "wof:lastmodified":1566658134,
     "wof:name":"Vorstenbosch",
     "wof:parent_id":404474633,
     "wof:placetype":"locality",

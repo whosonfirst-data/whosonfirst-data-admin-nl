@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":50.947565,
     "lbl:longitude":5.860849,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.947565,
     "mps:longitude":5.860849,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474513,
         85633337,
         1158817891,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158806613,
-    "wof:lastmodified":1559596453,
+    "wof:lastmodified":1566658883,
     "wof:name":"Verspreide huizen Sweikhuizen",
     "wof:parent_id":1158817891,
     "wof:placetype":"neighbourhood",

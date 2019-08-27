@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.497932,
     "lbl:longitude":5.377493,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.497932,
     "mps:longitude":5.377493,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474353,
         85633337,
         101754563,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158796891,
-    "wof:lastmodified":1559596495,
+    "wof:lastmodified":1566659439,
     "wof:name":"Heuveleind",
     "wof:parent_id":101754563,
     "wof:placetype":"neighbourhood",

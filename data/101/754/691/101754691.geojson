@@ -18,11 +18,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.187509,
     "lbl:longitude":4.477309,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.190329,
     "mps:longitude":4.475949,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u062e\u0633\u062a\u062e\u064a\u0633\u062a"
     ],
@@ -137,9 +140,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u0433\u0441\u0442\u0433\u0435\u0441\u0442"
     ],
-    "name:unk_x_variant":[
-        "Oestgeest"
-    ],
     "name:vie_x_preferred":[
         "Oegstgeest"
     ],
@@ -171,7 +171,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wof:belongsto":[
         102191581,
@@ -184,7 +184,6 @@
         "fct:id":"01f18e18-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2749723,
         "gp:id":732209,
-        "qs:id":897875,
         "qs_pg:id":897875,
         "tgn:id":7006818,
         "wd:id":"Q94747",
@@ -205,7 +204,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350295,
+    "wof:lastmodified":1566657856,
     "wof:name":"Oegstgeest",
     "wof:parent_id":85687041,
     "wof:placetype":"locality",

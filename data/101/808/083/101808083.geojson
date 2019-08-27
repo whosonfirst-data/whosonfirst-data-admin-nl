@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.668052,
     "lbl:longitude":4.706317,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.661505,
     "mps:longitude":4.694391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u062e\u0646"
     ],
@@ -152,9 +155,6 @@
     "name:tur_x_preferred":[
         "Bergen"
     ],
-    "name:unk_x_variant":[
-        "Bergen-Binnen"
-    ],
     "name:vol_x_preferred":[
         "Bergen"
     ],
@@ -189,7 +189,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":793,
     "wof:belongsto":[
         85687053,
@@ -203,7 +203,6 @@
         "fct:id":"01f04c88-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2759154,
         "gp:id":727610,
-        "qs:id":1074704,
         "qs_pg:id":1074704,
         "tgn:id":7007058,
         "wd:id":"Q9901",
@@ -225,7 +224,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350815,
+    "wof:lastmodified":1566658111,
     "wof:name":"Bergen",
     "wof:parent_id":404474041,
     "wof:placetype":"locality",

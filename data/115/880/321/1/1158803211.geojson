@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.437499,
     "lbl:longitude":6.227397,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.437499,
     "mps:longitude":6.227397,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473849,
         85633337,
         101807223,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158803211,
-    "wof:lastmodified":1559597051,
+    "wof:lastmodified":1566659146,
     "wof:name":"Heino-West",
     "wof:parent_id":101807223,
     "wof:placetype":"neighbourhood",

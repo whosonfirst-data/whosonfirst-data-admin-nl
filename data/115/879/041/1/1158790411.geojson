@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.991568,
     "lbl:longitude":6.567155,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.991568,
     "mps:longitude":6.567155,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         1158792259,
         404473805,
         85633337,
         101751879,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158790411,
-    "wof:lastmodified":1559595866,
+    "wof:lastmodified":1566659421,
     "wof:name":"Overcingel",
     "wof:parent_id":1158792259,
     "wof:placetype":"neighbourhood",

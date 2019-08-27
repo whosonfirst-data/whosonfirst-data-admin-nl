@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.403499,
     "lbl:longitude":5.892317,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.403499,
     "mps:longitude":5.892317,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474365,
         85633337,
         1158801515,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158797191,
-    "wof:lastmodified":1559596550,
+    "wof:lastmodified":1566659825,
     "wof:name":"Verspreide huizen Helenaveen",
     "wof:parent_id":1158801515,
     "wof:placetype":"neighbourhood",

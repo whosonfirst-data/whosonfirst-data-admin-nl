@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.567649,
     "lbl:longitude":5.644948,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.568259,
     "mps:longitude":5.63272,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u064a\u0641\u062a\u0631\u0628\u0627\u0646\u062a"
     ],
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.5675,
     "wd:longitude":5.641667,
     "wd:wordcount":104,
@@ -95,7 +98,7 @@
     "wof:concordances":{
         "gn:id":2746540,
         "gp:id":733756,
-        "qs:id":9,
+        "qs_pg:id":9,
         "tgn:id":7271461,
         "wd:id":"Q2376829",
         "wk:page":"Swifterbant"
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101808773,
-    "wof:lastmodified":1563350952,
+    "wof:lastmodified":1566658195,
     "wof:name":"Swifterbant",
     "wof:parent_id":404473965,
     "wof:placetype":"locality",

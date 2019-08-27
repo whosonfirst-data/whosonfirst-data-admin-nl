@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.974355,
     "lbl:longitude":5.85546,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.974355,
     "mps:longitude":5.85546,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473931,
         85633337,
         101754755,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963989,
-    "wof:lastmodified":1559595715,
+    "wof:lastmodified":1566661013,
     "wof:name":"Verspreide huizen Rosandepolder",
     "wof:parent_id":101754755,
     "wof:placetype":"neighbourhood",

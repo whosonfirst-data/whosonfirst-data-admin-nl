@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.033891,
     "lbl:longitude":5.549045,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.033891,
     "mps:longitude":5.549045,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790341,
         85633337,
         101751829,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158788417,
-    "wof:lastmodified":1559596303,
+    "wof:lastmodified":1566660705,
     "wof:name":"'t Hoorntje",
     "wof:parent_id":1158790341,
     "wof:placetype":"neighbourhood",

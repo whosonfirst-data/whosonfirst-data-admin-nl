@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.481032,
     "lbl:longitude":5.450695,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.481032,
     "mps:longitude":5.450695,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801469,
         85633337,
         101751819,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158797431,
-    "wof:lastmodified":1559596645,
+    "wof:lastmodified":1566659808,
     "wof:name":"Achtse Barrier-Gunterslaer",
     "wof:parent_id":1158801469,
     "wof:placetype":"neighbourhood",

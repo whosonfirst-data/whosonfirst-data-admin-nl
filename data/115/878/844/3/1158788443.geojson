@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.045579,
     "lbl:longitude":5.549314,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.045579,
     "mps:longitude":5.549314,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790335,
         85633337,
         101751829,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158788443,
-    "wof:lastmodified":1559596326,
+    "wof:lastmodified":1566660554,
     "wof:name":"Fort Buurtsteeg",
     "wof:parent_id":1158790335,
     "wof:placetype":"neighbourhood",

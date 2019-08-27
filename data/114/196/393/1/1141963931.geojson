@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.457577,
     "lbl:longitude":5.890156,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.457577,
     "mps:longitude":5.890156,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473927,
         85633337,
         101807125,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963931,
-    "wof:lastmodified":1559596257,
+    "wof:lastmodified":1566661198,
     "wof:name":"Eekt",
     "wof:parent_id":101807125,
     "wof:placetype":"neighbourhood",

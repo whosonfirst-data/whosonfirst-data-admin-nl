@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.832632,
     "lbl:longitude":4.625849,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.832632,
     "mps:longitude":4.625849,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831115,
         85633337,
         101754633,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158826159,
-    "wof:lastmodified":1559596566,
+    "wof:lastmodified":1566660291,
     "wof:name":"Ambachtszone",
     "wof:parent_id":1158831115,
     "wof:placetype":"neighbourhood",

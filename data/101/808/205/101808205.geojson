@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.484908,
     "lbl:longitude":4.458305,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.485597,
     "mps:longitude":4.458184,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nispen"
     ],
@@ -65,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687035,
         102191581,
@@ -78,7 +81,6 @@
         "fct:id":"01f1842c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2750035,
         "gp:id":732094,
-        "qs:id":1351877,
         "qs_pg:id":1351877,
         "tgn:id":1047987,
         "wd:id":"Q670577"
@@ -99,7 +101,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350844,
+    "wof:lastmodified":1566658129,
     "wof:name":"Nispen",
     "wof:parent_id":404474587,
     "wof:placetype":"locality",

@@ -22,11 +22,14 @@
     "iso:country":"NL",
     "lbl:latitude":50.946121,
     "lbl:longitude":5.792272,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.941441,
     "mps:longitude":5.797679,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u064a\u0643"
     ],
@@ -85,7 +88,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687033,
@@ -99,7 +102,6 @@
         "fct:id":"01f04544-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2759350,
         "gp:id":727518,
-        "qs:id":457606,
         "qs_pg:id":457606,
         "tgn:id":1047637
     },
@@ -119,7 +121,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1564234642,
+    "wof:lastmodified":1566658224,
     "wof:name":"Beek",
     "wof:parent_id":404474471,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.200984,
     "lbl:longitude":6.933543,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.200984,
     "mps:longitude":6.933543,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         1158792361,
         85633337,
         1158796601,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158793633,
-    "wof:lastmodified":1559596535,
+    "wof:lastmodified":1566659390,
     "wof:name":"Hamrikkerweg",
     "wof:parent_id":1158796601,
     "wof:placetype":"neighbourhood",

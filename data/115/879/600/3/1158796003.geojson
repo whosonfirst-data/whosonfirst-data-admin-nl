@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.194899,
     "lbl:longitude":6.741637,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.194899,
     "mps:longitude":6.741637,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473735,
         85633337,
         101874317,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158796003,
-    "wof:lastmodified":1559596370,
+    "wof:lastmodified":1566659787,
     "wof:name":"Verspreide huizen Kolham",
     "wof:parent_id":101874317,
     "wof:placetype":"neighbourhood",

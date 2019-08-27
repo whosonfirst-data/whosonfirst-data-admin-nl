@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.944773,
     "lbl:longitude":6.071319,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.944773,
     "mps:longitude":6.071319,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473957,
         85633337,
         101809869,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964511,
-    "wof:lastmodified":1559595755,
+    "wof:lastmodified":1566661277,
     "wof:name":"Mercurion",
     "wof:parent_id":101809869,
     "wof:placetype":"neighbourhood",

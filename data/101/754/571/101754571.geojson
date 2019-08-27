@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.724167,
     "lbl:longitude":5.259015,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.720989,
     "mps:longitude":5.252471,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Engelen"
     ],
@@ -80,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":415,
     "wof:belongsto":[
         85687035,
@@ -94,7 +97,6 @@
         "fct:id":"01f0a8b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2756096,
         "gp:id":729131,
-        "qs:id":896194,
         "qs_pg:id":896194,
         "tgn:id":7260068,
         "wd:id":"Q1342086"
@@ -115,7 +117,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350301,
+    "wof:lastmodified":1566657858,
     "wof:name":"Engelen",
     "wof:parent_id":404474393,
     "wof:placetype":"locality",

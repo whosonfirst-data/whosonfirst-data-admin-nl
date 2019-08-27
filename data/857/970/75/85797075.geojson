@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.007228,
     "lbl:longitude":5.896991,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.006258,
     "mps:longitude":5.877967,
     "mz:hierarchy_label":0,
@@ -38,9 +39,6 @@
         "Bakenberg"
     ],
     "name:nld_x_preferred":[
-        "Bakenberg"
-    ],
-    "name:unk_x_variant":[
         "Bakenberg"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -74,20 +72,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473871,
         85633337,
         101751857,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2759505,
         "gp:id":727445,
-        "qs:id":1350405,
         "qs_pg:id":1350405
     },
     "wof:country":"NL",
@@ -107,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595873,
+    "wof:lastmodified":1566657323,
     "wof:name":"Bakenberg",
     "wof:parent_id":101751857,
     "wof:placetype":"neighbourhood",

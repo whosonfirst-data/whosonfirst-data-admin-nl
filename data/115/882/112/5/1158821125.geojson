@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.914314,
     "lbl:longitude":5.015528,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.914314,
     "mps:longitude":5.015528,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158818287,
         85633337,
         101806067,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158821125,
-    "wof:lastmodified":1559596117,
+    "wof:lastmodified":1566660401,
     "wof:name":"Verspreide huizen Waard-Nieuwlandpolder",
     "wof:parent_id":101806067,
     "wof:placetype":"neighbourhood",

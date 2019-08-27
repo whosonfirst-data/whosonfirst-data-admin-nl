@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.731323,
     "lbl:longitude":4.964286,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.736899,
     "mps:longitude":4.96226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Dussen"
     ],
@@ -80,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":166,
     "wof:belongsto":[
         85687035,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2756483,
         "gp:id":728917,
-        "qs:id":412625,
         "qs_pg:id":412625,
         "tgn:id":7261372,
         "wd:id":"Q2749166",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101808223,
-    "wof:lastmodified":1563350909,
+    "wof:lastmodified":1566658170,
     "wof:name":"Dussen",
     "wof:parent_id":404474453,
     "wof:placetype":"locality",

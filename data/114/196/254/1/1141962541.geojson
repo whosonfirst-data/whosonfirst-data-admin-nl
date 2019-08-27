@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.104244,
     "lbl:longitude":6.160273,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.104244,
     "mps:longitude":6.160273,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473877,
         85633337,
         1158783445,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962541,
-    "wof:lastmodified":1559596070,
+    "wof:lastmodified":1566661284,
     "wof:name":"Verspreide huizen Rhienderen",
     "wof:parent_id":1158783445,
     "wof:placetype":"neighbourhood",

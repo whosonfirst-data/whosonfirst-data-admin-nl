@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.503975,
     "lbl:longitude":5.034024,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.503975,
     "mps:longitude":5.034024,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474383,
         85633337,
         101754577,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158797755,
-    "wof:lastmodified":1559595713,
+    "wof:lastmodified":1566659814,
     "wof:name":"Verspreide huizen Goirle",
     "wof:parent_id":101754577,
     "wof:placetype":"neighbourhood",

@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.988356,
     "lbl:longitude":4.499728,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.981395,
     "mps:longitude":4.512873,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u062e\u0633\u0646\u0647\u0648\u0643"
     ],
@@ -109,7 +112,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.98,
     "wd:longitude":4.5,
@@ -126,7 +129,6 @@
         "fct:id":"01f04e22-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2759113,
         "gp:id":727638,
-        "qs:id":1037785,
         "qs_pg:id":1037785,
         "tgn:id":7259937,
         "wd:id":"Q820175",
@@ -148,7 +150,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350237,
+    "wof:lastmodified":1566657833,
     "wof:name":"Bergschenhoek",
     "wof:parent_id":404474555,
     "wof:placetype":"locality",

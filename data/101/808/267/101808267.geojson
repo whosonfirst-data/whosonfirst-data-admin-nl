@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.405147,
     "lbl:longitude":5.148826,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.413172,
     "mps:longitude":5.156028,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lage Mierde"
     ],
@@ -50,7 +53,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687035,
         102191581,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":2752028,
         "gp:id":731076,
-        "qs:id":1036311,
         "qs_pg:id":1036311,
         "tgn:id":7265713
     },
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":101808267,
-    "wof:lastmodified":1559594502,
+    "wof:lastmodified":1566658122,
     "wof:name":"Lage Mierde",
     "wof:parent_id":404474579,
     "wof:placetype":"locality",

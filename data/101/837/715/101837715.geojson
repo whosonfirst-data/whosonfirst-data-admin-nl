@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.759511,
     "lbl:longitude":4.173566,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.751115,
     "mps:longitude":4.183485,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062f\u0644\u0647\u0627\u0631\u0646\u064a\u0633"
     ],
@@ -147,7 +150,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.75,
     "wd:longitude":4.15,
@@ -164,7 +167,6 @@
         "fct:id":"01f15ccc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2750884,
         "gp:id":731671,
-        "qs:id":1283697,
         "qs_pg:id":1283697,
         "tgn:id":1047946,
         "wd:id":"Q848898",
@@ -186,7 +188,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350722,
+    "wof:lastmodified":1566658064,
     "wof:name":"Middelharnis",
     "wof:parent_id":1158824741,
     "wof:placetype":"locality",

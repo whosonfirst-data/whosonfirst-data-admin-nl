@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.532528,
     "lbl:longitude":4.558973,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.534165,
     "mps:longitude":4.543286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Rucphen"
     ],
@@ -236,9 +239,6 @@
     "name:swe_x_preferred":[
         "Rucphen"
     ],
-    "name:unk_x_variant":[
-        "Rukfen"
-    ],
     "name:vec_x_preferred":[
         "Rucphen"
     ],
@@ -288,7 +288,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":129,
     "wof:belongsto":[
@@ -303,7 +303,6 @@
         "fct:id":"01f1d4a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2747858,
         "gp:id":733133,
-        "qs:id":458012,
         "qs_pg:id":458012,
         "tgn:id":1048079,
         "wd:id":"Q9862"
@@ -324,7 +323,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350585,
+    "wof:lastmodified":1566657993,
     "wof:name":"Rucphen",
     "wof:parent_id":404474417,
     "wof:placetype":"locality",

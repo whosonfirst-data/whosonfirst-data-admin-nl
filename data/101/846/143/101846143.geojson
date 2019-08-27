@@ -9,15 +9,18 @@
     "geom:bbox":"5.68656714241,51.2680428366,5.72884533993,51.2836050406",
     "geom:latitude":51.277487,
     "geom:longitude":5.707242,
-    "geonames:id":"2752083,2752084",
+    "gn:id":"2752083,2752084",
     "iso:country":"NL",
     "lbl:latitude":51.273064,
     "lbl:longitude":5.704919,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.277454,
     "mps:longitude":5.707245,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Laar"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687033,
         102191581,
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2752084,
         "gp:id":731059,
-        "qs:id":936480,
+        "qs_pg:id":936480,
         "wd:id":"Q2168065",
         "wk:page":"Laar, Weert"
     },
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101846143,
-    "wof:lastmodified":1563350432,
+    "wof:lastmodified":1566657907,
     "wof:name":"Laar",
     "wof:parent_id":404474531,
     "wof:placetype":"locality",

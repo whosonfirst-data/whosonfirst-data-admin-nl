@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.156535,
     "lbl:longitude":5.264195,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.156535,
     "mps:longitude":5.264195,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790369,
         404474005,
         85633337,
         101808443,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158788333,
-    "wof:lastmodified":1559595637,
+    "wof:lastmodified":1566660604,
     "wof:name":"De Zoom",
     "wof:parent_id":1158790369,
     "wof:placetype":"neighbourhood",

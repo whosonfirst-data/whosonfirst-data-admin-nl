@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.18723,
     "lbl:longitude":6.881916,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.18723,
     "mps:longitude":6.881916,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         1158805849,
         404473827,
         85633337,
         101751871,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158802381,
-    "wof:lastmodified":1559595513,
+    "wof:lastmodified":1566659067,
     "wof:name":"Wesselerbrink Zuid-Oost",
     "wof:parent_id":1158805849,
     "wof:placetype":"neighbourhood",

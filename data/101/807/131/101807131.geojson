@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.25832,
     "lbl:longitude":5.781229,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.262119,
     "mps:longitude":5.773198,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Uddel"
     ],
@@ -85,7 +88,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.2578,
     "wd:longitude":5.7808,
@@ -102,7 +105,6 @@
         "fct:id":"01f21662-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2746009,
         "gp:id":734004,
-        "qs:id":102224,
         "qs_pg:id":102224,
         "tgn:id":1048157,
         "wd:id":"Q2692088",
@@ -124,7 +126,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350508,
+    "wof:lastmodified":1566657949,
     "wof:name":"Uddel",
     "wof:parent_id":404473867,
     "wof:placetype":"locality",

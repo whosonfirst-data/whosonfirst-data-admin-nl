@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.528662,
     "lbl:longitude":5.987487,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.534141,
     "mps:longitude":5.97226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Venray"
     ],
@@ -48,9 +51,6 @@
         "Venraai",
         "Venra\u0133"
     ],
-    "name:unk_x_variant":[
-        "Venraai"
-    ],
     "qs:a0":"Nederland",
     "qs:a1":"*Limburg",
     "qs:a1r":"0",
@@ -71,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687033,
@@ -85,7 +85,6 @@
         "fct:id":"01f226fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2745634,
         "gp:id":734218,
-        "qs:id":1092005,
         "qs_pg:id":1092005,
         "tgn:id":1048186,
         "wd:id":"Q23015555"
@@ -106,7 +105,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351027,
+    "wof:lastmodified":1566658229,
     "wof:name":"Venray",
     "wof:parent_id":404474527,
     "wof:placetype":"locality",

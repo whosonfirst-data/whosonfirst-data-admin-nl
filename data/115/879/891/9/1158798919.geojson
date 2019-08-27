@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.65597,
     "lbl:longitude":5.392562,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.65597,
     "mps:longitude":5.392562,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474421,
         85633337,
         1158801645,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158798919,
-    "wof:lastmodified":1559596736,
+    "wof:lastmodified":1566659758,
     "wof:name":"Verspreide huizen Spurk en 't Woud",
     "wof:parent_id":1158801645,
     "wof:placetype":"neighbourhood",

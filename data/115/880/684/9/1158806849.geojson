@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.377482,
     "lbl:longitude":6.101056,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.377482,
     "mps:longitude":6.101056,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474525,
         85633337,
         1158817897,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158806849,
-    "wof:lastmodified":1559596591,
+    "wof:lastmodified":1566659050,
     "wof:name":"Verspreide huizen Boekend",
     "wof:parent_id":1158817897,
     "wof:placetype":"neighbourhood",

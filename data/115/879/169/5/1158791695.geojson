@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.0949,
     "lbl:longitude":6.744357,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.0949,
     "mps:longitude":6.744357,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474647,
         85633337,
         1158792187,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158791695,
-    "wof:lastmodified":1559596791,
+    "wof:lastmodified":1566659393,
     "wof:name":"Verspreide huizen Zuidlaarderveen",
     "wof:parent_id":1158792187,
     "wof:placetype":"neighbourhood",

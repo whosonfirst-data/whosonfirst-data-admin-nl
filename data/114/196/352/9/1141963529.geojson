@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.379066,
     "lbl:longitude":6.016712,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.379066,
     "mps:longitude":6.016712,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473911,
         85633337,
         101807097,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963529,
-    "wof:lastmodified":1559597061,
+    "wof:lastmodified":1566661022,
     "wof:name":"Verspreide huizen Heerde-Zuid",
     "wof:parent_id":101807097,
     "wof:placetype":"neighbourhood",

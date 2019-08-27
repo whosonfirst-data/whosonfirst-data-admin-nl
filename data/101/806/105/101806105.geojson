@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.252648,
     "lbl:longitude":5.786773,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.252648,
     "mps:longitude":5.786773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Britsum"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":120,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
     "wof:concordances":{
         "gn:id":2758309,
         "gp:id":728020,
-        "qs:id":187426,
         "qs_pg:id":187426,
         "tgn:id":7029526,
         "wd:id":"Q2177852",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101806105,
-    "wof:lastmodified":1563350966,
+    "wof:lastmodified":1566658200,
     "wof:name":"Britsum",
     "wof:parent_id":404473777,
     "wof:placetype":"locality",

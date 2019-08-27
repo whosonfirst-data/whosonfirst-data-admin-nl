@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.42796,
     "lbl:longitude":6.103872,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.42796,
     "mps:longitude":6.103872,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473911,
         85633337,
         1158783571,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963523,
-    "wof:lastmodified":1559597076,
+    "wof:lastmodified":1566661023,
     "wof:name":"Verspreide huizen Lage Land",
     "wof:parent_id":1158783571,
     "wof:placetype":"neighbourhood",

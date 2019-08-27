@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.602004,
     "lbl:longitude":5.606229,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.602004,
     "mps:longitude":5.606229,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474441,
         85633337,
         1158801629,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158799361,
-    "wof:lastmodified":1559597103,
+    "wof:lastmodified":1566659327,
     "wof:name":"Erp",
     "wof:parent_id":1158801629,
     "wof:placetype":"neighbourhood",

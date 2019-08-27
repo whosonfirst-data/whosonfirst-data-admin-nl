@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.268238,
     "lbl:longitude":6.937004,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.268238,
     "mps:longitude":6.937004,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473711,
         85633337,
         101807527,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158792515,
-    "wof:lastmodified":1559596807,
+    "wof:lastmodified":1566659509,
     "wof:name":"Verspreide huizen Wagenborgen",
     "wof:parent_id":101807527,
     "wof:placetype":"neighbourhood",

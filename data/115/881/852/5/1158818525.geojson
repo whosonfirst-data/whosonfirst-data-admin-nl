@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.289916,
     "lbl:longitude":4.870063,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.289916,
     "mps:longitude":4.870063,
     "mz:hierarchy_label":1,
@@ -40,11 +41,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687053,
         102191581,
         85633337,
         101751891,
-        136253051,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1158818525,
-    "wof:lastmodified":1559595434,
+    "wof:lastmodified":1566659298,
     "wof:name":"Groenelaan",
     "wof:parent_id":101751891,
     "wof:placetype":"neighbourhood",

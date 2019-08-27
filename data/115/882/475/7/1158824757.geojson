@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.865128,
     "lbl:longitude":4.653976,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.865128,
     "mps:longitude":4.653976,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831053,
         404474145,
         85633337,
         101754613,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158824757,
-    "wof:lastmodified":1559596808,
+    "wof:lastmodified":1566660270,
     "wof:name":"Cortgene",
     "wof:parent_id":1158831053,
     "wof:placetype":"neighbourhood",

@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.217685,
     "lbl:longitude":5.48498,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.217685,
     "mps:longitude":5.48498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sexbierum"
     ],
@@ -48,9 +51,6 @@
     "name:rus_x_preferred":[
         "\u0421\u0435\u043a\u0441\u0431\u0438\u0440\u044e\u043c"
     ],
-    "name:unk_x_variant":[
-        "Sixbierum"
-    ],
     "name:zea_x_preferred":[
         "Sexbierum"
     ],
@@ -73,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":351,
     "wof:belongsto":[
@@ -87,7 +87,6 @@
     "wof:concordances":{
         "gn:id":2747380,
         "gp:id":733361,
-        "qs:id":187876,
         "qs_pg:id":187876,
         "tgn:id":7270625,
         "wd:id":"Q1000617",
@@ -106,7 +105,7 @@
         }
     ],
     "wof:id":101807409,
-    "wof:lastmodified":1563350478,
+    "wof:lastmodified":1566657933,
     "wof:name":"Sexbierum",
     "wof:parent_id":404473767,
     "wof:placetype":"locality",

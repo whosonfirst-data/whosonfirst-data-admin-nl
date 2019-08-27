@@ -22,6 +22,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.060099,
     "lbl:longitude":4.269573,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.05962,
     "mps:longitude":4.260714,
     "mz:hierarchy_label":1,
@@ -35,9 +36,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":15,
     "name:nld_x_preferred":[
-        "Leyenburg"
-    ],
-    "name:unk_x_variant":[
         "Leyenburg"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -71,22 +69,21 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
-        85687041,
         102191581,
         1108808107,
         85633337,
         101752763,
         136253051,
-        1108808051
+        1108808051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6941548,
         "gp:id":20063890,
-        "qs:id":23058,
         "qs_pg:id":23058
     },
     "wof:country":"NL",
@@ -107,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595830,
+    "wof:lastmodified":1566657370,
     "wof:name":"Leyenburg",
     "wof:parent_id":1108808107,
     "wof:placetype":"neighbourhood",

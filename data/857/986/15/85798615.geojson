@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.284764,
     "lbl:longitude":4.86704,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.278939,
     "mps:longitude":4.862585,
     "mz:hierarchy_label":0,
@@ -38,9 +39,6 @@
         "Waardhuizen"
     ],
     "name:nld_x_preferred":[
-        "Waardhuizen"
-    ],
-    "name:unk_x_variant":[
         "Waardhuizen"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -74,19 +72,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687053,
         102191581,
         85633337,
         101751891,
-        136253051,
-        85687053
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2745111,
         "gp:id":734465,
-        "qs:id":905820,
         "qs_pg:id":905820,
         "tgn:id":7273675
     },
@@ -106,7 +103,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595829,
+    "wof:lastmodified":1566657365,
     "wof:name":"Waardhuizen",
     "wof:parent_id":101751891,
     "wof:placetype":"neighbourhood",

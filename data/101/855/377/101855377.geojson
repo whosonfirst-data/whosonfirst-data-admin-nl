@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.179039,
     "lbl:longitude":5.503906,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.178408,
     "mps:longitude":5.503503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Zwartebroek"
     ],
@@ -63,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687043,
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":2743561,
         "gp:id":735190,
-        "qs:id":219240,
         "qs_pg:id":219240,
         "tgn:id":7274393,
         "wd:id":"Q3117076"
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101855377,
-    "wof:lastmodified":1563351098,
+    "wof:lastmodified":1566658258,
     "wof:name":"Zwartebroek",
     "wof:parent_id":404473873,
     "wof:placetype":"locality",

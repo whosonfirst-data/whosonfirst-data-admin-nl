@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.122159,
     "lbl:longitude":5.52063,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.122159,
     "mps:longitude":5.52063,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473873,
         85633337,
         1158783827,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962407,
-    "wof:lastmodified":1559595626,
+    "wof:lastmodified":1566661241,
     "wof:name":"Buitengebied De Glind",
     "wof:parent_id":1158783827,
     "wof:placetype":"neighbourhood",

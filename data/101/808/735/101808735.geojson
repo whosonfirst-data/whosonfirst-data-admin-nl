@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.912249,
     "lbl:longitude":5.789431,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.919613,
     "mps:longitude":5.772212,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Valburg"
     ],
@@ -82,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.9111,
     "wd:longitude":5.7892,
@@ -98,7 +101,6 @@
     "wof:concordances":{
         "gn:id":2745885,
         "gp:id":734089,
-        "qs:id":1279441,
         "qs_pg:id":1279441,
         "tgn:id":7273033,
         "wd:id":"Q1889496",
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101808735,
-    "wof:lastmodified":1563350887,
+    "wof:lastmodified":1566658157,
     "wof:name":"Valburg",
     "wof:parent_id":404474651,
     "wof:placetype":"locality",

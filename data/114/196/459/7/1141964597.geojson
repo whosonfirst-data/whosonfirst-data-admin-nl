@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.126198,
     "lbl:longitude":6.229846,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.126198,
     "mps:longitude":6.229846,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158784059,
         404473961,
         85633337,
         101837807,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1141964597,
-    "wof:lastmodified":1559596332,
+    "wof:lastmodified":1566661303,
     "wof:name":"De Enk",
     "wof:parent_id":1158784059,
     "wof:placetype":"neighbourhood",

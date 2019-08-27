@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":50.914932,
     "lbl:longitude":5.972156,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.917548,
     "mps:longitude":5.955602,
     "mz:hierarchy_label":0,
@@ -73,9 +74,6 @@
     "name:nld_x_variant":[
         "Heerlerheide"
     ],
-    "name:unk_x_variant":[
-        "Heerlerheide"
-    ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
     "qs:gn_namadm1":"05",
@@ -105,7 +103,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1158818187,
@@ -119,7 +117,6 @@
     "wof:concordances":{
         "gn:id":2754649,
         "gp:id":729837,
-        "qs:id":245852,
         "qs_pg:id":245852,
         "wd:id":"Q966265",
         "wk:page":"Heerlerheide"
@@ -142,7 +139,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563349601,
+    "wof:lastmodified":1566657341,
     "wof:name":"Heerlerheide Kom",
     "wof:parent_id":1158818187,
     "wof:placetype":"neighbourhood",

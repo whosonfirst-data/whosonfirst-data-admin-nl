@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.355833,
     "lbl:longitude":6.172414,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.355833,
     "mps:longitude":6.172414,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158818259,
         404474525,
         85633337,
         101839287,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158806719,
-    "wof:lastmodified":1559596602,
+    "wof:lastmodified":1566659022,
     "wof:name":"Hagerbroek",
     "wof:parent_id":1158818259,
     "wof:placetype":"neighbourhood",

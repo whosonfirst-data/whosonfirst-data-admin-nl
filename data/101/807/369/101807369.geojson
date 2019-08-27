@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.454824,
     "lbl:longitude":5.038923,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.477085,
     "mps:longitude":4.99966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Monnickendam"
     ],
@@ -83,7 +86,7 @@
     "name:swe_x_preferred":[
         "Monnickendam"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Monnikendam"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -110,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":501,
     "wof:belongsto":[
@@ -124,7 +127,7 @@
     "wof:concordances":{
         "gn:id":2750641,
         "gp:id":731783,
-        "qs:id":891148,
+        "qs_pg:id":891148,
         "tgn:id":1047959,
         "wd:id":"Q81276",
         "wk:page":"Monnickendam"
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101807369,
-    "wof:lastmodified":1563350510,
+    "wof:lastmodified":1566657950,
     "wof:name":"Monnickendam",
     "wof:parent_id":404474433,
     "wof:placetype":"locality",

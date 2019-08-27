@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.170998,
     "lbl:longitude":5.74996,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.170998,
     "mps:longitude":5.74996,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473873,
         85633337,
         1158783479,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962415,
-    "wof:lastmodified":1559596145,
+    "wof:lastmodified":1566661221,
     "wof:name":"Buitengebied kootwijk",
     "wof:parent_id":1158783479,
     "wof:placetype":"neighbourhood",

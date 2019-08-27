@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.910837,
     "lbl:longitude":6.96821,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.910837,
     "mps:longitude":6.96821,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474595,
         85633337,
         101807295,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158791415,
-    "wof:lastmodified":1559596201,
+    "wof:lastmodified":1566659833,
     "wof:name":"Verspreide huizen Tweede Exloermond",
     "wof:parent_id":101807295,
     "wof:placetype":"neighbourhood",

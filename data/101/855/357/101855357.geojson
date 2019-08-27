@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.229599,
     "lbl:longitude":5.593515,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.239615,
     "mps:longitude":5.582211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Huinen"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687043,
         102191581,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":2753519,
         "gp:id":730418,
-        "qs:id":2,
+        "qs_pg:id":2,
         "tgn:id":7265139
     },
     "wof:country":"NL",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101855357,
-    "wof:lastmodified":1559594454,
+    "wof:lastmodified":1566658260,
     "wof:name":"Huinen",
     "wof:parent_id":404473929,
     "wof:placetype":"locality",

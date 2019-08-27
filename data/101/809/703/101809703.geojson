@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.383287,
     "lbl:longitude":5.76311,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.369846,
     "mps:longitude":5.79716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Heusden"
     ],
@@ -64,7 +67,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687035,
         102191581,
@@ -77,7 +80,6 @@
         "fct:id":"01f0f052-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2754136,
         "gp:id":15021014,
-        "qs:id":23047,
         "qs_pg:id":23047,
         "tgn:id":7007096,
         "wd:id":"Q1986076",
@@ -99,7 +101,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350631,
+    "wof:lastmodified":1566658017,
     "wof:name":"Heusden",
     "wof:parent_id":404474347,
     "wof:placetype":"locality",

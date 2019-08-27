@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.931775,
     "lbl:longitude":6.170363,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.931775,
     "mps:longitude":6.170363,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474689,
         85633337,
         101855373,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141965421,
-    "wof:lastmodified":1559597139,
+    "wof:lastmodified":1566661173,
     "wof:name":"Verspreide huizen Nieuw-Dijk",
     "wof:parent_id":101855373,
     "wof:placetype":"neighbourhood",

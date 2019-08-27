@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.995053,
     "lbl:longitude":5.285577,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.995053,
     "mps:longitude":5.285577,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404474015,
         85633337,
         101808447,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158788483,
-    "wof:lastmodified":1559595648,
+    "wof:lastmodified":1566660716,
     "wof:name":"Verspreide huizen Cothen",
     "wof:parent_id":101808447,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.283384,
     "lbl:longitude":6.61597,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.283384,
     "mps:longitude":6.61597,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473703,
         85633337,
         101806189,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158792379,
-    "wof:lastmodified":1559595570,
+    "wof:lastmodified":1566659782,
     "wof:name":"Verspreide huizen Bedum",
     "wof:parent_id":101806189,
     "wof:placetype":"neighbourhood",

@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.165726,
     "lbl:longitude":5.803845,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":51.164169,
     "mps:longitude":5.791472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Neeritter"
     ],
@@ -83,7 +86,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":51.1644,
     "wd:longitude":5.8036,
@@ -100,7 +103,6 @@
     "wof:concordances":{
         "gn:id":2750443,
         "gp:id":731882,
-        "qs:id":1036326,
         "qs_pg:id":1036326,
         "tgn:id":7270243,
         "wd:id":"Q2856996",
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101808151,
-    "wof:lastmodified":1563350802,
+    "wof:lastmodified":1566658104,
     "wof:name":"Neeritter",
     "wof:parent_id":404474557,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.042902,
     "lbl:longitude":7.112061,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.042902,
     "mps:longitude":7.112061,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473739,
         85633337,
         101807521,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158793279,
-    "wof:lastmodified":1559596273,
+    "wof:lastmodified":1566659808,
     "wof:name":"Verspreide huizen Bourtange",
     "wof:parent_id":101807521,
     "wof:placetype":"neighbourhood",

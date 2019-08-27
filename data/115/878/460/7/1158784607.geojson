@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.523638,
     "lbl:longitude":4.189057,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.523638,
     "mps:longitude":4.189057,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474331,
         85633337,
         101809793,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158784607,
-    "wof:lastmodified":1559595498,
+    "wof:lastmodified":1566660775,
     "wof:name":"Verspreide huizen Tholen",
     "wof:parent_id":101809793,
     "wof:placetype":"neighbourhood",

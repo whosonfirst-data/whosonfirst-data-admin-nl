@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.034929,
     "lbl:longitude":4.368862,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.034929,
     "mps:longitude":4.368862,
     "mz:hierarchy_label":1,
@@ -33,13 +34,13 @@
     "reversegeo:longitude":4.368862,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687041,
         102191581,
         1108808063,
         85633337,
         101752763,
         136253051,
-        1108808047
+        1108808047,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108808353,
-    "wof:lastmodified":1559596334,
+    "wof:lastmodified":1566657613,
     "wof:name":"Waterbuurt",
     "wof:parent_id":1108808063,
     "wof:placetype":"neighbourhood",

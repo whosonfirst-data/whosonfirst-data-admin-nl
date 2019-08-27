@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.878096,
     "lbl:longitude":5.896817,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.878096,
     "mps:longitude":5.896817,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474617,
         85633337,
         101837741,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964941,
-    "wof:lastmodified":1559596518,
+    "wof:lastmodified":1566661272,
     "wof:name":"Verspreide huizen Ambtswaard",
     "wof:parent_id":101837741,
     "wof:placetype":"neighbourhood",

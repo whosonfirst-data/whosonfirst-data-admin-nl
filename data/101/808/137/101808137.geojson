@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.437435,
     "lbl:longitude":5.979858,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.44452,
     "mps:longitude":5.962958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0645\u064a\u0631\u064a\u0643\u0627\u060c \u0644\u064a\u0645\u0628\u0648\u0631\u062e"
     ],
@@ -77,9 +80,6 @@
     "name:pol_x_preferred":[
         "America"
     ],
-    "name:unk_x_variant":[
-        "Amerika"
-    ],
     "name:zho_min_nan_x_preferred":[
         "America"
     ],
@@ -102,7 +102,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.436667,
     "wd:longitude":5.979167,
     "wd:wordcount":134,
@@ -117,7 +117,6 @@
     "wof:concordances":{
         "gn:id":2759831,
         "gp:id":727208,
-        "qs:id":211580,
         "qs_pg:id":211580,
         "tgn:id":1047611,
         "wd:id":"Q463100",
@@ -136,7 +135,7 @@
         }
     ],
     "wof:id":101808137,
-    "wof:lastmodified":1563350894,
+    "wof:lastmodified":1566658163,
     "wof:name":"America",
     "wof:parent_id":404474541,
     "wof:placetype":"locality",

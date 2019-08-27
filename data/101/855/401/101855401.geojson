@@ -20,18 +20,21 @@
     "iso:country":"NL",
     "lbl:latitude":52.330933,
     "lbl:longitude":6.215169,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.335605,
     "mps:longitude":6.204081,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wesepe"
     ],
     "name:nld_x_preferred":[
         "Wesepe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wezepe"
     ],
     "qs:a0":"Nederland",
@@ -52,7 +55,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687045,
         102191581,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":2744818,
         "gp:id":734613,
-        "qs:id":1352692,
         "qs_pg:id":1352692,
         "tgn:id":7273208
     },
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":101855401,
-    "wof:lastmodified":1559594602,
+    "wof:lastmodified":1566658256,
     "wof:name":"Wesepe",
     "wof:parent_id":404474663,
     "wof:placetype":"locality",

@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.772214,
     "lbl:longitude":4.96406,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.773508,
     "mps:longitude":4.96068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Almkerk"
     ],
@@ -75,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.7717,
     "wd:longitude":4.9603,
@@ -91,7 +94,6 @@
     "wof:concordances":{
         "gn:id":2759878,
         "gp:id":727183,
-        "qs:id":1350348,
         "qs_pg:id":1350348,
         "tgn:id":7258712,
         "wd:id":"Q2763565",
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101808157,
-    "wof:lastmodified":1563350787,
+    "wof:lastmodified":1566658093,
     "wof:name":"Almkerk",
     "wof:parent_id":404474457,
     "wof:placetype":"locality",

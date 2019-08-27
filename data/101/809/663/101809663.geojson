@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.744899,
     "lbl:longitude":5.683899,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.743714,
     "mps:longitude":5.683686,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Reek"
     ],
@@ -69,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":84,
     "wof:belongsto":[
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":2748286,
         "gp:id":732880,
-        "qs:id":1352134,
         "qs_pg:id":1352134,
         "tgn:id":7267155,
         "wd:id":"Q2574931",
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101809663,
-    "wof:lastmodified":1563350656,
+    "wof:lastmodified":1566658030,
     "wof:name":"Reek",
     "wof:parent_id":404474599,
     "wof:placetype":"locality",

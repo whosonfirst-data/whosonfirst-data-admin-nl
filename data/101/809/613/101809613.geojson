@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.262361,
     "lbl:longitude":5.927303,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.274766,
     "mps:longitude":5.926782,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Roggel"
     ],
@@ -77,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.2625,
     "wd:longitude":5.9269,
     "wd:wordcount":104,
@@ -92,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2747990,
         "gp:id":733027,
-        "qs:id":1057512,
         "qs_pg:id":1057512,
         "tgn:id":7268320,
         "wd:id":"Q2621569",
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101809613,
-    "wof:lastmodified":1563350636,
+    "wof:lastmodified":1566658020,
     "wof:name":"Roggel",
     "wof:parent_id":404474557,
     "wof:placetype":"locality",

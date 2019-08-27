@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.885203,
     "lbl:longitude":6.228432,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.885203,
     "mps:longitude":6.228432,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474689,
         85633337,
         101855395,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141965379,
-    "wof:lastmodified":1559596554,
+    "wof:lastmodified":1566661177,
     "wof:name":"Verspreide huizen Stokkum",
     "wof:parent_id":101855395,
     "wof:placetype":"neighbourhood",

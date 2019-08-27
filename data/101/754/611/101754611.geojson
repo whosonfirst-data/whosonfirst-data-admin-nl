@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.851839,
     "lbl:longitude":4.245295,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.84021,
     "mps:longitude":4.228692,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Abbenbroek"
     ],
@@ -77,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8486,
     "wd:longitude":4.2428,
     "wd:wordcount":138,
@@ -93,7 +96,6 @@
         "fct:id":"01f0229e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2760075,
         "gp:id":727044,
-        "qs:id":246441,
         "qs_pg:id":246441,
         "tgn:id":7257918,
         "wd:id":"Q2654350"
@@ -114,7 +116,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350244,
+    "wof:lastmodified":1566657837,
     "wof:name":"Abbenbroek",
     "wof:parent_id":1158824747,
     "wof:placetype":"locality",

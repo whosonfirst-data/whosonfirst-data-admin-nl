@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.426727,
     "lbl:longitude":6.976266,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.423075,
     "mps:longitude":6.989181,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Lattrop"
     ],
@@ -83,7 +86,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.4278,
     "wd:longitude":6.9753,
     "wd:wordcount":120,
@@ -98,7 +101,6 @@
     "wof:concordances":{
         "gn:id":2751865,
         "gp:id":731156,
-        "qs:id":891315,
         "qs_pg:id":891315,
         "tgn:id":7263447,
         "wd:id":"Q2063264",
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101856063,
-    "wof:lastmodified":1563350350,
+    "wof:lastmodified":1566657885,
     "wof:name":"Lattrop",
     "wof:parent_id":404474665,
     "wof:placetype":"locality",

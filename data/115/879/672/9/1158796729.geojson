@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.742937,
     "lbl:longitude":5.016772,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.742937,
     "mps:longitude":5.016772,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474345,
         85633337,
         1158801547,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158796729,
-    "wof:lastmodified":1559596605,
+    "wof:lastmodified":1566659399,
     "wof:name":"Babylonienbroek",
     "wof:parent_id":1158801547,
     "wof:placetype":"neighbourhood",

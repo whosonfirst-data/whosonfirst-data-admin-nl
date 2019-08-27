@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.052033,
     "lbl:longitude":6.09911,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.051242,
     "mps:longitude":6.095818,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Dieren"
     ],
@@ -94,7 +97,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.0521,
     "wd:longitude":6.0974,
@@ -110,7 +113,6 @@
     "wof:concordances":{
         "gn:id":2756865,
         "gp:id":728702,
-        "qs:id":1350690,
         "qs_pg:id":1350690,
         "tgn:id":7006895,
         "wd:id":"Q73101",
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101837757,
-    "wof:lastmodified":1563350740,
+    "wof:lastmodified":1566658072,
     "wof:name":"Dieren",
     "wof:parent_id":404473933,
     "wof:placetype":"locality",

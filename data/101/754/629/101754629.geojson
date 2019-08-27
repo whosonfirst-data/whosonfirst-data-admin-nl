@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.93426,
     "lbl:longitude":4.271203,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.944876,
     "mps:longitude":4.280591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Maasland"
     ],
@@ -86,7 +89,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.933333,
     "wd:longitude":4.266667,
     "wd:wordcount":452,
@@ -102,7 +105,6 @@
         "fct:id":"01f14d90-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2751288,
         "gp:id":731489,
-        "qs:id":219236,
         "qs_pg:id":219236,
         "tgn:id":7265790,
         "wd:id":"Q1055703",
@@ -124,7 +126,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350243,
+    "wof:lastmodified":1566657837,
     "wof:name":"Maasland",
     "wof:parent_id":404474669,
     "wof:placetype":"locality",

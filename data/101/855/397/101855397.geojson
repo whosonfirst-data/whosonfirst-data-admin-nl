@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.331532,
     "lbl:longitude":6.129104,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.323953,
     "mps:longitude":6.126423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Boskamp"
     ],
@@ -71,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.3308,
     "wd:longitude":6.1289,
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":2758549,
         "gp:id":727902,
-        "qs:id":1037776,
         "qs_pg:id":1037776,
         "tgn:id":7258387,
         "wd:id":"Q508326",
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":101855397,
-    "wof:lastmodified":1563351086,
+    "wof:lastmodified":1566658252,
     "wof:name":"Boskamp",
     "wof:parent_id":404474663,
     "wof:placetype":"locality",

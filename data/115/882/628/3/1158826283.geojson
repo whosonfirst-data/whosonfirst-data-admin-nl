@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.188833,
     "lbl:longitude":4.455787,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.188833,
     "mps:longitude":4.455787,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474191,
         85633337,
         101754741,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158826283,
-    "wof:lastmodified":1559596462,
+    "wof:lastmodified":1566660015,
     "wof:name":"Polder Kamphuizen",
     "wof:parent_id":101754741,
     "wof:placetype":"neighbourhood",

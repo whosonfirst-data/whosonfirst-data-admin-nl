@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.895467,
     "lbl:longitude":5.441968,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.895467,
     "mps:longitude":5.441968,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783941,
         404473939,
         85633337,
         101809879,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1141964081,
-    "wof:lastmodified":1559596288,
+    "wof:lastmodified":1566661107,
     "wof:name":"Het Ooij",
     "wof:parent_id":1158783941,
     "wof:placetype":"neighbourhood",

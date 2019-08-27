@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.236129,
     "lbl:longitude":6.498217,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.227272,
     "mps:longitude":6.49336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Markelo"
     ],
@@ -71,7 +74,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u043a\u0435\u043b\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Markeloo"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -96,7 +99,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.234167,
     "wd:longitude":6.495278,
@@ -112,7 +115,6 @@
     "wof:concordances":{
         "gn:id":2751161,
         "gp:id":731555,
-        "qs:id":141321,
         "qs_pg:id":141321,
         "tgn:id":7006936,
         "wd:id":"Q852674",
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":101807157,
-    "wof:lastmodified":1563350438,
+    "wof:lastmodified":1566657911,
     "wof:name":"Markelo",
     "wof:parent_id":404474653,
     "wof:placetype":"locality",

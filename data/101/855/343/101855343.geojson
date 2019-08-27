@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.889321,
     "lbl:longitude":6.491361,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.891708,
     "mps:longitude":6.498987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "De Heurne"
     ],
@@ -244,7 +247,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":150,
     "wof:belongsto":[
         85687043,
@@ -257,7 +260,7 @@
     "wof:concordances":{
         "gn:id":2757547,
         "gp:id":728375,
-        "qs:id":2,
+        "qs_pg:id":2,
         "tgn:id":7263291,
         "wd:id":"Q3020167",
         "wk:page":"De Heurne"
@@ -275,7 +278,7 @@
         }
     ],
     "wof:id":101855343,
-    "wof:lastmodified":1563351118,
+    "wof:lastmodified":1566658270,
     "wof:name":"De Heurne",
     "wof:parent_id":404473865,
     "wof:placetype":"locality",

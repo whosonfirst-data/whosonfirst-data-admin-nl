@@ -18,11 +18,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.158316,
     "lbl:longitude":4.498955,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":52.152741,
     "mps:longitude":4.488016,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Leiden"
     ],
@@ -299,9 +302,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0439\u0434\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Leyden"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0626\u0688\u0646"
     ],
@@ -345,7 +345,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wd:latitude":52.154444,
     "wd:longitude":4.494722,
@@ -362,7 +362,6 @@
         "fct:id":"01f13558-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2751773,
         "gp:id":731208,
-        "qs:id":900975,
         "qs_pg:id":900975,
         "tgn:id":7006809,
         "wd:id":"Q43631",
@@ -383,7 +382,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350402,
+    "wof:lastmodified":1566657899,
     "wof:name":"Leiden",
     "wof:parent_id":85687041,
     "wof:placetype":"locality",

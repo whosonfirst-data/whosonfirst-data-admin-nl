@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.720268,
     "lbl:longitude":4.555454,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.720268,
     "mps:longitude":4.555454,
     "mz:hierarchy_label":0,
@@ -40,11 +41,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         85633337,
         101809849,
-        136253051,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1158827299,
-    "wof:lastmodified":1559595689,
+    "wof:lastmodified":1566660454,
     "wof:name":"Buitengebied-Zuid",
     "wof:parent_id":101809849,
     "wof:placetype":"neighbourhood",

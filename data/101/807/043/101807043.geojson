@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.193806,
     "lbl:longitude":4.708985,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.196535,
     "mps:longitude":4.710196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Langeraar"
     ],
@@ -70,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.195,
     "wd:longitude":4.7089,
     "wd:wordcount":25,
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":2751926,
         "gp:id":731131,
-        "qs:id":1168052,
         "qs_pg:id":1168052,
         "tgn:id":7267064,
         "wd:id":"Q3217246",
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101807043,
-    "wof:lastmodified":1563350530,
+    "wof:lastmodified":1566657962,
     "wof:name":"Langeraar",
     "wof:parent_id":404474217,
     "wof:placetype":"locality",

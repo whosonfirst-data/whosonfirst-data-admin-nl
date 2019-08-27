@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.113424,
     "lbl:longitude":5.716202,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.113424,
     "mps:longitude":5.716202,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473893,
         85633337,
         101855383,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963139,
-    "wof:lastmodified":1559596922,
+    "wof:lastmodified":1566661172,
     "wof:name":"Wekerom dorp",
     "wof:parent_id":101855383,
     "wof:placetype":"neighbourhood",

@@ -18,11 +18,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.74575,
     "lbl:longitude":4.553699,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.738825,
     "mps:longitude":4.551284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0631\u0627\u064a\u0646"
     ],
@@ -163,7 +166,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wd:latitude":51.75,
     "wd:longitude":4.55,
@@ -179,7 +182,6 @@
         "fct:id":"01f2010e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2746609,
         "gp:id":733716,
-        "qs:id":1352422,
         "qs_pg:id":1352422,
         "tgn:id":1048139,
         "wd:id":"Q858607"
@@ -199,7 +201,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350645,
+    "wof:lastmodified":1566658025,
     "wof:name":"Strijen",
     "wof:parent_id":85687041,
     "wof:placetype":"locality",

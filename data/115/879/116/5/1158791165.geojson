@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.693794,
     "lbl:longitude":6.237861,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.693794,
     "mps:longitude":6.237861,
     "mz:hierarchy_label":0,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         1158792253,
         404473813,
         85633337,
         101807279,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158791165,
-    "wof:lastmodified":1559596140,
+    "wof:lastmodified":1566659547,
     "wof:name":"Verspreid gebied Meppel Oost",
     "wof:parent_id":1158792253,
     "wof:placetype":"neighbourhood",

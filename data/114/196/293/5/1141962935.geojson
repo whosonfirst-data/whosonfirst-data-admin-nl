@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.881012,
     "lbl:longitude":5.612322,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.881012,
     "mps:longitude":5.612322,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473889,
         85633337,
         101837761,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962935,
-    "wof:lastmodified":1559596900,
+    "wof:lastmodified":1566661127,
     "wof:name":"Druten Buitengebied",
     "wof:parent_id":101837761,
     "wof:placetype":"neighbourhood",

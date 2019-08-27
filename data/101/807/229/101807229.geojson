@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.338532,
     "lbl:longitude":6.11,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.324153,
     "mps:longitude":6.106276,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Olst"
     ],
@@ -99,7 +102,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.3378,
     "wd:longitude":6.1108,
@@ -115,7 +118,6 @@
     "wof:concordances":{
         "gn:id":2749626,
         "gp:id":732268,
-        "qs:id":178608,
         "qs_pg:id":178608,
         "tgn:id":1048007,
         "wd:id":"Q3032495",
@@ -134,7 +136,7 @@
         }
     ],
     "wof:id":101807229,
-    "wof:lastmodified":1563350449,
+    "wof:lastmodified":1566657916,
     "wof:name":"Olst",
     "wof:parent_id":404474663,
     "wof:placetype":"locality",

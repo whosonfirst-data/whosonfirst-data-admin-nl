@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.825537,
     "lbl:longitude":5.563198,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.817614,
     "mps:longitude":5.564163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Megen"
     ],
@@ -80,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":181,
     "wof:belongsto":[
         85687035,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2751002,
         "gp:id":731615,
-        "qs:id":893672,
         "qs_pg:id":893672,
         "tgn:id":5003275,
         "wd:id":"Q1862257",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101808197,
-    "wof:lastmodified":1563350887,
+    "wof:lastmodified":1566658157,
     "wof:name":"Megen",
     "wof:parent_id":404474415,
     "wof:placetype":"locality",

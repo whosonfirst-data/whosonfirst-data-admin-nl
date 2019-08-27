@@ -22,11 +22,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.786121,
     "lbl:longitude":6.097043,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.796504,
     "mps:longitude":6.094966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Tuk"
     ],
@@ -52,7 +55,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687045,
@@ -65,7 +68,6 @@
     "wof:concordances":{
         "gn:id":2746120,
         "gp:id":733966,
-        "qs:id":218354,
         "qs_pg:id":218354,
         "tgn:id":7271938
     },
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":101837843,
-    "wof:lastmodified":1559594980,
+    "wof:lastmodified":1566658054,
     "wof:name":"Tuk",
     "wof:parent_id":404474621,
     "wof:placetype":"locality",

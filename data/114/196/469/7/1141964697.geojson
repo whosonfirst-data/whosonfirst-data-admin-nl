@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.865252,
     "lbl:longitude":5.521149,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.865252,
     "mps:longitude":5.521149,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474305,
         85633337,
         101808597,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964697,
-    "wof:lastmodified":1559596510,
+    "wof:lastmodified":1566661273,
     "wof:name":"Buitengebied Beneden-Leeuwen",
     "wof:parent_id":101808597,
     "wof:placetype":"neighbourhood",

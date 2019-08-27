@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.234536,
     "lbl:longitude":5.731687,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.234536,
     "mps:longitude":5.731687,
     "mz:hierarchy_label":0,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158818243,
         404474531,
         85633337,
         101839297,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158807099,
-    "wof:lastmodified":1559596612,
+    "wof:lastmodified":1566658766,
     "wof:name":"Moesel buitengebied",
     "wof:parent_id":1158818243,
     "wof:placetype":"neighbourhood",

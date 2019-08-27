@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.510183,
     "lbl:longitude":6.256854,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.520281,
     "mps:longitude":6.260945,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0644\u0641\u0633\u0646"
     ],
@@ -166,7 +169,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.503056,
     "wd:longitude":6.259167,
@@ -183,7 +186,6 @@
         "fct:id":"01f0762c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2757850,
         "gp:id":728255,
-        "qs:id":457662,
         "qs_pg:id":457662,
         "tgn:id":1047701,
         "wd:id":"Q9998"
@@ -204,7 +206,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350342,
+    "wof:lastmodified":1566657881,
     "wof:name":"Dalfsen",
     "wof:parent_id":404473823,
     "wof:placetype":"locality",

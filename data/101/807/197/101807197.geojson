@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.236642,
     "lbl:longitude":6.584854,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.237631,
     "mps:longitude":6.589115,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Goor"
     ],
@@ -82,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":144,
     "wof:belongsto":[
@@ -96,7 +99,6 @@
     "wof:concordances":{
         "gn:id":2755449,
         "gp:id":729451,
-        "qs:id":1037769,
         "qs_pg:id":1037769,
         "tgn:id":1047794,
         "wd:id":"Q2054185"
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101807197,
-    "wof:lastmodified":1563350512,
+    "wof:lastmodified":1566657951,
     "wof:name":"Goor",
     "wof:parent_id":404474653,
     "wof:placetype":"locality",

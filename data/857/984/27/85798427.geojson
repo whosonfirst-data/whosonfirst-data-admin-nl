@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.916744,
     "lbl:longitude":4.436238,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.919708,
     "mps:longitude":4.435563,
     "mz:hierarchy_label":1,
@@ -42,9 +43,6 @@
         "Spangen"
     ],
     "name:nld_x_preferred":[
-        "Spangen"
-    ],
-    "name:unk_x_variant":[
         "Spangen"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -78,7 +76,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":189,
     "wof:belongsto":[
         102191581,
@@ -92,7 +90,6 @@
     "wof:concordances":{
         "gn:id":2746975,
         "gp:id":733507,
-        "qs:id":1168114,
         "qs_pg:id":1168114,
         "wd:id":"Q2096672",
         "wk:page":"Spangen"
@@ -114,7 +111,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563349576,
+    "wof:lastmodified":1566657320,
     "wof:name":"Spangen",
     "wof:parent_id":1108805753,
     "wof:placetype":"neighbourhood",

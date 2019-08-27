@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.81258,
     "lbl:longitude":5.724253,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.81258,
     "mps:longitude":5.724253,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         404473843,
         85633337,
         1158787463,
-        136253051
+        136253051,
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158786897,
-    "wof:lastmodified":1559595576,
+    "wof:lastmodified":1566660535,
     "wof:name":"Rutten-landelijk gebied",
     "wof:parent_id":1158787463,
     "wof:placetype":"neighbourhood",

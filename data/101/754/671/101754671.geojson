@@ -18,11 +18,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.912224,
     "lbl:longitude":4.594949,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.916826,
     "mps:longitude":4.60141,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Krimpen aan den IJssel"
     ],
@@ -132,9 +135,6 @@
     "name:tur_x_preferred":[
         "Krimpen aan den IJssel"
     ],
-    "name:unk_x_variant":[
-        "Krimpen"
-    ],
     "name:vie_x_preferred":[
         "Krimpen aan den IJssel"
     ],
@@ -166,7 +166,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wd:wordcount":378,
     "wof:belongsto":[
@@ -180,7 +180,6 @@
         "fct:id":"01f126b2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2752264,
         "gp:id":730972,
-        "qs:id":1351277,
         "qs_pg:id":1351277,
         "tgn:id":7264832,
         "wd:id":"Q739449"
@@ -200,7 +199,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350280,
+    "wof:lastmodified":1566657850,
     "wof:name":"Krimpen aan den IJssel",
     "wof:parent_id":85687041,
     "wof:placetype":"locality",

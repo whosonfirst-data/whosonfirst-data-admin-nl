@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.368816,
     "lbl:longitude":6.175917,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":51.361543,
     "mps:longitude":6.183733,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Venlo"
     ],
@@ -240,9 +243,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043d\u043b\u043e"
     ],
-    "name:unk_x_variant":[
-        "Venloo"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0646\u0644\u0648"
     ],
@@ -287,7 +287,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1357,
     "wof:belongsto":[
@@ -302,7 +302,6 @@
         "fct:id":"01f226ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2745641,
         "gp:id":734208,
-        "qs:id":141301,
         "qs_pg:id":141301,
         "tgn:id":7006853,
         "wd:id":"Q9777"
@@ -323,7 +322,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351024,
+    "wof:lastmodified":1566658228,
     "wof:name":"Venlo",
     "wof:parent_id":404474525,
     "wof:placetype":"locality",

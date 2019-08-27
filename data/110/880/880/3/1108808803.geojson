@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.117611,
     "lbl:longitude":5.120434,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.117611,
     "mps:longitude":5.120434,
     "mz:hierarchy_label":1,
@@ -33,13 +34,13 @@
     "reversegeo:longitude":5.120434,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687039,
         102191581,
         1108832367,
         85633337,
         101751827,
         136253051,
-        1108808671
+        1108808671,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108808803,
-    "wof:lastmodified":1559596489,
+    "wof:lastmodified":1566657585,
     "wof:name":"Neckardreef en omgeving",
     "wof:parent_id":1108832367,
     "wof:placetype":"neighbourhood",

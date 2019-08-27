@@ -14,11 +14,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.138962,
     "lbl:longitude":6.629876,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.133541,
     "mps:longitude":6.630245,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Glimmen"
     ],
@@ -68,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.1383,
     "wd:longitude":6.6286,
     "wd:wordcount":121,
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":2755495,
         "gp:id":729430,
-        "qs:id":1168040,
         "qs_pg:id":1168040,
         "tgn:id":7263497,
         "wd:id":"Q3029697",
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101806219,
-    "wof:lastmodified":1563350973,
+    "wof:lastmodified":1566658203,
     "wof:name":"Glimmen",
     "wof:parent_id":404473717,
     "wof:placetype":"locality",

@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.258528,
     "lbl:longitude":6.169684,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":52.245589,
     "mps:longitude":6.196097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Deventer"
     ],
@@ -338,7 +341,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.251111,
     "wd:longitude":6.16,
@@ -354,7 +357,6 @@
         "fct:id":"01f087d4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2756987,
         "gp:id":728683,
-        "qs:id":794484,
         "qs_pg:id":794484,
         "tgn:id":7006940,
         "wd:id":"Q10001",
@@ -375,7 +377,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350421,
+    "wof:lastmodified":1566657904,
     "wof:name":"Deventer",
     "wof:parent_id":404473825,
     "wof:placetype":"locality",

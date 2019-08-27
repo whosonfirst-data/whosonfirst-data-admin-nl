@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.363047,
     "lbl:longitude":6.131086,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.355631,
     "mps:longitude":6.120846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Hout-Blerick"
     ],
@@ -46,7 +49,7 @@
     "name:nld_x_preferred":[
         "Hout-Blerick"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Holtblerick"
     ],
     "qs:a0":"Nederland",
@@ -68,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.3561,
     "wd:longitude":6.13,
     "wd:wordcount":93,
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":2753563,
         "gp:id":730394,
-        "qs:id":187599,
         "qs_pg:id":187599,
         "tgn:id":7264967,
         "wd:id":"Q2844311",
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101839251,
-    "wof:lastmodified":1563351035,
+    "wof:lastmodified":1566658233,
     "wof:name":"Hout-Blerick",
     "wof:parent_id":404474525,
     "wof:placetype":"locality",

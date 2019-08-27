@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.407192,
     "lbl:longitude":6.676503,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.432755,
     "mps:longitude":6.677986,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Uithuizen"
     ],
@@ -90,7 +93,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.4067,
     "wd:longitude":6.6722,
     "wd:wordcount":251,
@@ -105,7 +108,6 @@
     "wof:concordances":{
         "gn:id":2745970,
         "gp:id":734020,
-        "qs:id":220726,
         "qs_pg:id":220726,
         "tgn:id":7006991,
         "wd:id":"Q2223679",
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101807513,
-    "wof:lastmodified":1563350556,
+    "wof:lastmodified":1566657977,
     "wof:name":"Uithuizen",
     "wof:parent_id":404474561,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.194904,
     "lbl:longitude":5.419552,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.194904,
     "mps:longitude":5.419552,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790301,
         404473971,
         85633337,
         101751821,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158787811,
-    "wof:lastmodified":1559596266,
+    "wof:lastmodified":1566660840,
     "wof:name":"De Bron Noord",
     "wof:parent_id":1158790301,
     "wof:placetype":"neighbourhood",

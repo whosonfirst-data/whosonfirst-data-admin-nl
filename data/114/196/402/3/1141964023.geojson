@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.068379,
     "lbl:longitude":6.105887,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.068379,
     "mps:longitude":6.105887,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473933,
         85633337,
         101837833,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964023,
-    "wof:lastmodified":1559597045,
+    "wof:lastmodified":1566661285,
     "wof:name":"Verspreide huizen Spankeren",
     "wof:parent_id":101837833,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.478311,
     "lbl:longitude":6.570236,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.478311,
     "mps:longitude":6.570236,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404474611,
         85633337,
         101837851,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158803645,
-    "wof:lastmodified":1559596932,
+    "wof:lastmodified":1566658782,
     "wof:name":"Geerdijk-Oost",
     "wof:parent_id":101837851,
     "wof:placetype":"neighbourhood",

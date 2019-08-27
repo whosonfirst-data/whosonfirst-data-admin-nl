@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.564458,
     "lbl:longitude":5.074477,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.57067,
     "mps:longitude":5.045046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Tilburg"
     ],
@@ -307,7 +310,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":51.57,
     "wd:longitude":5.07,
@@ -325,7 +328,6 @@
         "fct:id":"01f20e2e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2746301,
         "gp:id":733881,
-        "qs:id":796086,
         "qs_pg:id":796086,
         "tgn:id":7006831,
         "wd:id":"Q26430"
@@ -346,7 +348,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350376,
+    "wof:lastmodified":1566657893,
     "wof:name":"Tilburg",
     "wof:parent_id":404474435,
     "wof:placetype":"locality",

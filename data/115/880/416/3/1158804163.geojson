@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.342709,
     "lbl:longitude":6.792118,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.342709,
     "mps:longitude":6.792118,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404474665,
         85633337,
         1158805775,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158804163,
-    "wof:lastmodified":1559595986,
+    "wof:lastmodified":1566659035,
     "wof:name":"Verspreide huizen Saasveld",
     "wof:parent_id":1158805775,
     "wof:placetype":"neighbourhood",

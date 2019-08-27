@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.480574,
     "lbl:longitude":4.617055,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.47243,
     "mps:longitude":4.633998,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Velsen-Noord"
     ],
@@ -62,9 +65,6 @@
     "name:rus_x_preferred":[
         "\u0412\u0435\u043b\u0437\u0435\u043d-\u041d\u043e\u0440\u0434"
     ],
-    "name:unk_x_variant":[
-        "Velseroord"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Velsen-Noord"
     ],
@@ -87,7 +87,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.472222,
     "wd:longitude":4.644167,
     "wd:wordcount":194,
@@ -103,7 +103,6 @@
         "fct:id":"01f22562-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2745674,
         "gp:id":734187,
-        "qs:id":478882,
         "qs_pg:id":478882,
         "tgn:id":7272390,
         "wd:id":"Q2229853",
@@ -125,7 +124,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350246,
+    "wof:lastmodified":1566657838,
     "wof:name":"Velsen-Noord",
     "wof:parent_id":404474123,
     "wof:placetype":"locality",

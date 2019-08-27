@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.760625,
     "lbl:longitude":5.769674,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.760625,
     "mps:longitude":5.769674,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473913,
         85633337,
         101808679,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963573,
-    "wof:lastmodified":1559597092,
+    "wof:lastmodified":1566661187,
     "wof:name":"Verspreide huizen Overasseltse Uiterwaarden",
     "wof:parent_id":101808679,
     "wof:placetype":"neighbourhood",

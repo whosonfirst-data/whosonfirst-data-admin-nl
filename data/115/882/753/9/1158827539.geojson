@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.064449,
     "lbl:longitude":4.508868,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.064449,
     "mps:longitude":4.508868,
     "mz:hierarchy_label":1,
@@ -40,16 +41,16 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         1158829539,
         85633337,
-        101751835,
-        85687041
+        101751835
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"0a754da9c8f6ff5f0392400393d3a364",
+    "wof:geomhash":"a6507d427f08997ff0ffa06890b37e06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1158827539,
-    "wof:lastmodified":1513588155,
+    "wof:lastmodified":1566659976,
     "wof:name":"Seghwaert-Zuid-West",
     "wof:parent_id":1158829539,
     "wof:placetype":"neighbourhood",
@@ -71,7 +72,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.499359462454587,
+    4.49935946245459,
     52.05976379306938,
     4.51783822531314,
     52.06995705880105

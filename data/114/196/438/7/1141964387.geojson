@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.789713,
     "lbl:longitude":5.711059,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.789713,
     "mps:longitude":5.711059,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473953,
         85633337,
         1158783691,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964387,
-    "wof:lastmodified":1559595745,
+    "wof:lastmodified":1566661130,
     "wof:name":"Verspreidehuizen Balgoij",
     "wof:parent_id":1158783691,
     "wof:placetype":"neighbourhood",

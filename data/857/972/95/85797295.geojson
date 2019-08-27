@@ -21,8 +21,10 @@
     "gn:latitude":53.03113,
     "gn:longitude":5.67716,
     "iso:country":"NL",
+    "lbl:bbox":"5.661835,53.025955,5.671835,53.035955",
     "lbl:latitude":53.030955,
     "lbl:longitude":5.666835,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.042602,
     "mps:longitude":5.676572,
     "mz:hierarchy_label":0,
@@ -52,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1141960735,
@@ -65,7 +67,6 @@
     "wof:concordances":{
         "gn:id":2757690,
         "gp:id":728315,
-        "qs:id":217167,
         "qs_pg:id":217167
     },
     "wof:country":"NL",
@@ -85,7 +86,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561768048,
+    "wof:lastmodified":1566657360,
     "wof:name":"De Domp",
     "wof:parent_id":101837971,
     "wof:placetype":"neighbourhood",

@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.728704,
     "lbl:longitude":5.493489,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -28,12 +29,12 @@
     "reversegeo:longitude":5.493489,
     "src:geom":"mz",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474633,
         85633337,
         101808253,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1158800567,
-    "wof:lastmodified":1559597173,
+    "wof:lastmodified":1566659094,
     "wof:name":"Zoggel",
     "wof:parent_id":-1,
     "wof:placetype":"microhood",

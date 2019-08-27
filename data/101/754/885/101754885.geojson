@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.211884,
     "lbl:longitude":5.896632,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.211884,
     "mps:longitude":5.896632,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tytsjerk"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":298,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
         "fct:id":"01f20dc0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2746311,
         "gp:id":733874,
-        "qs:id":246710,
         "qs_pg:id":246710,
         "tgn:id":7271745,
         "wd:id":"Q182853",
@@ -109,7 +111,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350284,
+    "wof:lastmodified":1566657852,
     "wof:name":"Tytsjerk",
     "wof:parent_id":404473775,
     "wof:placetype":"locality",

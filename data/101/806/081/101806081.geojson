@@ -22,11 +22,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.049539,
     "lbl:longitude":5.838655,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.049539,
     "mps:longitude":5.838655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Akkrum"
     ],
@@ -90,7 +93,7 @@
     "name:swe_x_preferred":[
         "Akkrum"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ankrum"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.05,
     "wd:longitude":5.836111,
@@ -131,7 +134,6 @@
     "wof:concordances":{
         "gn:id":2759922,
         "gp:id":727122,
-        "qs:id":880967,
         "qs_pg:id":880967,
         "tgn:id":1047604,
         "wd:id":"Q2250527"
@@ -149,7 +151,7 @@
         }
     ],
     "wof:id":101806081,
-    "wof:lastmodified":1563350997,
+    "wof:lastmodified":1566658215,
     "wof:name":"Akkrum",
     "wof:parent_id":404473771,
     "wof:placetype":"locality",

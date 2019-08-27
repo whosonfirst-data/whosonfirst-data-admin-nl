@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.93554,
     "lbl:longitude":5.914197,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.93554,
     "mps:longitude":5.914197,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474617,
         85633337,
         101754753,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964967,
-    "wof:lastmodified":1559596535,
+    "wof:lastmodified":1566661144,
     "wof:name":"Verspreide huizen Hoeve en Loostraat",
     "wof:parent_id":101754753,
     "wof:placetype":"neighbourhood",

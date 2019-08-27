@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.907104,
     "lbl:longitude":5.532343,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.909941,
     "mps:longitude":5.526942,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "IJzendoorn"
     ],
@@ -65,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.906389,
     "wd:longitude":5.533056,
     "wd:wordcount":144,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":2753347,
         "gp:id":730501,
-        "qs:id":92683,
         "qs_pg:id":92683,
         "tgn:id":7265742,
         "wd:id":"Q2136597",
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101855359,
-    "wof:lastmodified":1563351101,
+    "wof:lastmodified":1566658260,
     "wof:name":"IJzendoorn",
     "wof:parent_id":404474655,
     "wof:placetype":"locality",

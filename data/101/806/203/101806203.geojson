@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.145361,
     "lbl:longitude":6.269395,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.14727,
     "mps:longitude":6.267476,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Marum"
     ],
@@ -165,7 +168,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":117,
     "wof:belongsto":[
         85687059,
@@ -179,7 +182,6 @@
         "fct:id":"01f15434-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2751111,
         "gp:id":731569,
-        "qs:id":1248879,
         "qs_pg:id":1248879,
         "tgn:id":1047938,
         "wd:id":"Q841525"
@@ -200,7 +202,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350978,
+    "wof:lastmodified":1566658205,
     "wof:name":"Marum",
     "wof:parent_id":404473727,
     "wof:placetype":"locality",

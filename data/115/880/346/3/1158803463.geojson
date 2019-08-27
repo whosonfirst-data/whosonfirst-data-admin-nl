@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.512691,
     "lbl:longitude":6.066599,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.512691,
     "mps:longitude":6.066599,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         1158805801,
         404473861,
         85633337,
         101751861,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158803463,
-    "wof:lastmodified":1559597079,
+    "wof:lastmodified":1566658892,
     "wof:name":"Bedrijventerrein Voorst-B",
     "wof:parent_id":1158805801,
     "wof:placetype":"neighbourhood",

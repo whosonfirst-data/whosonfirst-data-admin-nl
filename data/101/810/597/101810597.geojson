@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":50.78795,
     "lbl:longitude":5.965875,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.78083,
     "mps:longitude":5.959669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Vijlen"
     ],
@@ -75,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.7897,
     "wd:longitude":5.9631,
     "wd:wordcount":318,
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2745522,
         "gp:id":734261,
-        "qs:id":222685,
         "qs_pg:id":222685,
         "tgn:id":4011801,
         "wd:id":"Q99990",
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101810597,
-    "wof:lastmodified":1563350329,
+    "wof:lastmodified":1566657873,
     "wof:name":"Vijlen",
     "wof:parent_id":404474523,
     "wof:placetype":"locality",

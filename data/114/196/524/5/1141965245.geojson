@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.043888,
     "lbl:longitude":6.237134,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.043888,
     "mps:longitude":6.237134,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474673,
         85633337,
         1158783629,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141965245,
-    "wof:lastmodified":1559595810,
+    "wof:lastmodified":1566661340,
     "wof:name":"Verspreide huizen Toldijk",
     "wof:parent_id":1158783629,
     "wof:placetype":"neighbourhood",

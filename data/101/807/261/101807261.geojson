@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.145957,
     "lbl:longitude":6.497215,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.15333,
     "mps:longitude":6.505282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Peize"
     ],
@@ -90,7 +93,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":321,
     "wof:belongsto":[
         85687051,
@@ -103,7 +106,6 @@
     "wof:concordances":{
         "gn:id":2748673,
         "gp:id":732704,
-        "qs:id":478643,
         "qs_pg:id":478643,
         "tgn:id":7268246,
         "wd:id":"Q1985729",
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":101807261,
-    "wof:lastmodified":1563350470,
+    "wof:lastmodified":1566657928,
     "wof:name":"Peize",
     "wof:parent_id":404474609,
     "wof:placetype":"locality",

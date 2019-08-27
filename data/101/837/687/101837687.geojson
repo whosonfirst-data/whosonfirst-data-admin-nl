@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.945675,
     "lbl:longitude":4.709492,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.94852,
     "mps:longitude":4.696775,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Berkenwoude"
     ],
@@ -74,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.9453,
     "wd:longitude":4.7089,
     "wd:wordcount":74,
@@ -90,7 +93,6 @@
         "fct:id":"01f04fda-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2759078,
         "gp:id":727654,
-        "qs:id":247109,
         "qs_pg:id":247109,
         "tgn:id":7256178,
         "wd:id":"Q2897199",
@@ -112,7 +114,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350701,
+    "wof:lastmodified":1566658053,
     "wof:name":"Berkenwoude",
     "wof:parent_id":1158824749,
     "wof:placetype":"locality",

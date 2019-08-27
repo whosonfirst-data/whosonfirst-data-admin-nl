@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.000289,
     "lbl:longitude":4.777777,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.004819,
     "mps:longitude":4.792451,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Haastrecht"
     ],
@@ -99,7 +102,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.0003,
     "wd:longitude":4.7765,
@@ -116,7 +119,6 @@
         "fct:id":"01f0d22a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2754978,
         "gp:id":729658,
-        "qs:id":1350963,
         "qs_pg:id":1350963,
         "tgn:id":7031558,
         "wd:id":"Q2523099",
@@ -138,7 +140,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350811,
+    "wof:lastmodified":1566658109,
     "wof:name":"Haastrecht",
     "wof:parent_id":1158824749,
     "wof:placetype":"locality",

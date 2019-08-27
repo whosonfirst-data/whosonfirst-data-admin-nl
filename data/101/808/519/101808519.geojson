@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.908779,
     "lbl:longitude":5.052017,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.920233,
     "mps:longitude":5.045471,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Leerbroek"
     ],
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.9089,
     "wd:longitude":5.0514,
     "wd:wordcount":165,
@@ -98,7 +101,7 @@
     "wof:concordances":{
         "gn:id":2751810,
         "gp:id":731177,
-        "qs:id":936489,
+        "qs_pg:id":936489,
         "tgn:id":7263735,
         "wd:id":"Q1001658",
         "wk:page":"Leerbroek"
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101808519,
-    "wof:lastmodified":1563350856,
+    "wof:lastmodified":1566658137,
     "wof:name":"Leerbroek",
     "wof:parent_id":404474325,
     "wof:placetype":"locality",

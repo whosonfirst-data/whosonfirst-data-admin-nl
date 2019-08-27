@@ -21,8 +21,10 @@
     "gn:latitude":53.18624,
     "gn:longitude":5.78547,
     "iso:country":"NL",
+    "lbl:bbox":"5.782851,53.180561,5.792851,53.190561",
     "lbl:latitude":53.185561,
     "lbl:longitude":5.787851,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.175703,
     "mps:longitude":5.784044,
     "mz:hierarchy_label":0,
@@ -51,7 +53,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1141960061,
@@ -64,7 +66,6 @@
     "wof:concordances":{
         "gn:id":2749749,
         "gp:id":732198,
-        "qs:id":1071659,
         "qs_pg:id":1071659
     },
     "wof:country":"NL",
@@ -84,7 +85,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561768047,
+    "wof:lastmodified":1566657357,
     "wof:name":"Nylan",
     "wof:parent_id":1141960061,
     "wof:placetype":"neighbourhood",

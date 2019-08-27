@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":50.846921,
     "lbl:longitude":5.686079,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.839616,
     "mps:longitude":5.671863,
     "mz:hierarchy_label":1,
@@ -51,9 +52,6 @@
     ],
     "name:nld_x_variant":[
         "De Bras"
-    ],
-    "name:unk_x_variant":[
-        "Biesland"
     ],
     "qs:gn_adm0_cc":"NL",
     "qs:gn_fcode":"PPLX",
@@ -86,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":52.031189,
     "wd:longitude":4.38715,
     "wd:wordcount":107,
@@ -102,7 +100,6 @@
     "wof:concordances":{
         "gn:id":2758971,
         "gp:id":727705,
-        "qs:id":1158232,
         "qs_pg:id":1158232,
         "wd:id":"Q2406980",
         "wk:page":"Biesland"
@@ -124,7 +121,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563349591,
+    "wof:lastmodified":1566657333,
     "wof:name":"Biesland",
     "wof:parent_id":1158818149,
     "wof:placetype":"neighbourhood",

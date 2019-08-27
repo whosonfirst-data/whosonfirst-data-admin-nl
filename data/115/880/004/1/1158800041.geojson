@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.747911,
     "lbl:longitude":5.806077,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.747911,
     "mps:longitude":5.806077,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474597,
         85633337,
         1158801601,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158800041,
-    "wof:lastmodified":1559595871,
+    "wof:lastmodified":1566659062,
     "wof:name":"Verspreide huizen Linden",
     "wof:parent_id":1158801601,
     "wof:placetype":"neighbourhood",

@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.386507,
     "lbl:longitude":6.63089,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.386507,
     "mps:longitude":6.63089,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404474561,
         85633337,
         1158796637,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158796037,
-    "wof:lastmodified":1559595631,
+    "wof:lastmodified":1566659505,
     "wof:name":"Verspreide huizen Rottum",
     "wof:parent_id":1158796637,
     "wof:placetype":"neighbourhood",

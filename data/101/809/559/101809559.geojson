@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.357414,
     "lbl:longitude":5.995145,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.361589,
     "mps:longitude":5.991669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Koningslust"
     ],
@@ -51,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687033,
         102191581,
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":2752484,
         "gp:id":730871,
-        "qs:id":915705,
         "qs_pg:id":915705,
         "tgn:id":7263938
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101809559,
-    "wof:lastmodified":1559595019,
+    "wof:lastmodified":1566657991,
     "wof:name":"Koningslust",
     "wof:parent_id":1158805873,
     "wof:placetype":"locality",

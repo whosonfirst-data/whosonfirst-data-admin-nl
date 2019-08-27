@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.293539,
     "lbl:longitude":6.535201,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.295333,
     "mps:longitude":6.540208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sauwerd"
     ],
@@ -78,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.2933,
     "wd:longitude":6.5347,
     "wd:wordcount":299,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2747747,
         "gp:id":733185,
-        "qs:id":478703,
         "qs_pg:id":478703,
         "tgn:id":7269320,
         "wd:id":"Q2361678",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101807493,
-    "wof:lastmodified":1563350536,
+    "wof:lastmodified":1566657965,
     "wof:name":"Sauwerd",
     "wof:parent_id":404473749,
     "wof:placetype":"locality",

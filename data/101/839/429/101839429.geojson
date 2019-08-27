@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.506112,
     "lbl:longitude":3.888983,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.501666,
     "mps:longitude":3.889392,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Goes"
     ],
@@ -184,7 +187,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":564,
     "wof:belongsto":[
@@ -199,7 +202,6 @@
         "fct:id":"01f0c56e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2755476,
         "gp:id":729438,
-        "qs:id":398294,
         "qs_pg:id":398294,
         "tgn:id":7006755,
         "wd:id":"Q81220"
@@ -220,7 +222,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351060,
+    "wof:lastmodified":1566658242,
     "wof:name":"Goes",
     "wof:parent_id":404474303,
     "wof:placetype":"locality",

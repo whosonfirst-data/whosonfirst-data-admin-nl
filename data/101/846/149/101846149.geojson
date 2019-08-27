@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.659671,
     "lbl:longitude":6.291445,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.641117,
     "mps:longitude":6.287726,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "IJhorst"
     ],
@@ -74,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.6592,
     "wd:longitude":6.2908,
     "wd:wordcount":73,
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2753381,
         "gp:id":730477,
-        "qs:id":1351168,
         "qs_pg:id":1351168,
         "tgn:id":7265560,
         "wd:id":"Q2193670",
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101846149,
-    "wof:lastmodified":1563350435,
+    "wof:lastmodified":1566657909,
     "wof:name":"IJhorst",
     "wof:parent_id":404473853,
     "wof:placetype":"locality",

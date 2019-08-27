@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.40411,
     "lbl:longitude":6.840385,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.407046,
     "mps:longitude":6.836649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Haarle"
     ],
@@ -50,7 +53,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687045,
         102191581,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":2755005,
         "gp:id":729634,
-        "qs:id":324816,
         "qs_pg:id":324816,
         "tgn:id":7261751
     },
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":101875789,
-    "wof:lastmodified":1559594723,
+    "wof:lastmodified":1566657876,
     "wof:name":"Haarle",
     "wof:parent_id":404473855,
     "wof:placetype":"locality",

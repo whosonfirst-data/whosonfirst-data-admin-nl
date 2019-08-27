@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.978071,
     "lbl:longitude":5.450664,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.978071,
     "mps:longitude":5.450664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Workum"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":142,
     "wof:belongsto":[
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":2744179,
         "gp:id":734896,
-        "qs:id":911153,
         "qs_pg:id":911153,
         "tgn:id":1048256,
         "wd:id":"Q73405"
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":101807455,
-    "wof:lastmodified":1563350476,
+    "wof:lastmodified":1566657932,
     "wof:name":"Workum",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

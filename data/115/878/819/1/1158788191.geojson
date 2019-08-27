@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.985776,
     "lbl:longitude":4.962499,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.985776,
     "mps:longitude":4.962499,
     "mz:hierarchy_label":1,
@@ -40,16 +41,16 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404473993,
         85633337,
-        101808449
+        101808449,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"686e598ca69ac04ca25899d7485b32ab",
+    "wof:geomhash":"32bf59a83a6f265f0f7c8d83c8f4ef1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1158788191,
-    "wof:lastmodified":1513621988,
+    "wof:lastmodified":1566660541,
     "wof:name":"Langs de Lekdijk Lopikerwaard",
     "wof:parent_id":101808449,
     "wof:placetype":"neighbourhood",
@@ -71,7 +72,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.860382220058334,
+    4.86038222005833,
     51.94351133722717,
     5.06263811633237,
     52.00568987126884

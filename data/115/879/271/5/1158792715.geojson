@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.249583,
     "lbl:longitude":6.600146,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.249583,
     "mps:longitude":6.600146,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         1158796113,
         404473713,
         85633337,
         101751909,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158792715,
-    "wof:lastmodified":1559597010,
+    "wof:lastmodified":1566659713,
     "wof:name":"Beijum-Oost",
     "wof:parent_id":1158796113,
     "wof:placetype":"neighbourhood",

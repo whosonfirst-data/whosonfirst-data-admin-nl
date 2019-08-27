@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.331105,
     "lbl:longitude":3.852086,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.331105,
     "mps:longitude":3.852086,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         1158786453,
         404474329,
         85633337,
         101809831,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158784535,
-    "wof:lastmodified":1559596749,
+    "wof:lastmodified":1566660611,
     "wof:name":"Serlippenspolder",
     "wof:parent_id":1158786453,
     "wof:placetype":"neighbourhood",

@@ -14,16 +14,19 @@
     "geom:bbox":"5.25842419677,52.3843774099,5.60587056675,52.6927409972",
     "geom:latitude":52.477774,
     "geom:longitude":5.47217,
-    "geonames:id":"2751736,2751738",
+    "gn:id":"2751736,2751738",
     "gn:population":70741,
     "iso:country":"NL",
     "lbl:latitude":52.511606,
     "lbl:longitude":5.458384,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":52.487635,
     "mps:longitude":5.498523,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Lelystad"
     ],
@@ -302,7 +305,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wd:latitude":52.516667,
     "wd:longitude":5.483333,
@@ -317,7 +320,6 @@
     "wof:concordances":{
         "gn:id":2751738,
         "gp:id":731253,
-        "qs:id":352094,
         "qs_pg:id":352094,
         "wd:id":"Q166065"
     },
@@ -333,7 +335,7 @@
         }
     ],
     "wof:id":101751873,
-    "wof:lastmodified":1563350374,
+    "wof:lastmodified":1566657893,
     "wof:name":"Lelystad",
     "wof:parent_id":85687049,
     "wof:placetype":"locality",

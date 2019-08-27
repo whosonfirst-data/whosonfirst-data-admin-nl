@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.935201,
     "lbl:longitude":4.755785,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.935201,
     "mps:longitude":4.755785,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823015,
         404474079,
         85633337,
         101806071,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158819731,
-    "wof:lastmodified":1559596157,
+    "wof:lastmodified":1566659306,
     "wof:name":"Dirksz Admiraal",
     "wof:parent_id":1158823015,
     "wof:placetype":"neighbourhood",

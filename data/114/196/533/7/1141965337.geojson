@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.868849,
     "lbl:longitude":6.030892,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.868849,
     "mps:longitude":6.030892,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783377,
         85633337,
         101808717,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141965337,
-    "wof:lastmodified":1559596371,
+    "wof:lastmodified":1566661008,
     "wof:name":"Bedrijventerrein Molenveld",
     "wof:parent_id":101808717,
     "wof:placetype":"neighbourhood",

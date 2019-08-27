@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.499099,
     "lbl:longitude":4.789516,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.498809,
     "mps:longitude":4.784558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Wormerveer"
     ],
@@ -62,7 +65,7 @@
     "name:spa_x_preferred":[
         "Wormerveer"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wormereer"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -87,7 +90,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.483333,
     "wd:longitude":4.783333,
     "wd:wordcount":149,
@@ -103,7 +106,6 @@
         "fct:id":"01f27030-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2744171,
         "gp:id":15000567,
-        "qs:id":1076907,
         "qs_pg:id":1076907,
         "tgn:id":1048257,
         "wd:id":"Q1164598",
@@ -126,7 +128,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350251,
+    "wof:lastmodified":1566657840,
     "wof:name":"Wormerveer",
     "wof:parent_id":404474143,
     "wof:placetype":"locality",

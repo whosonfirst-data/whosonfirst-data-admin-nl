@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.486376,
     "lbl:longitude":4.897003,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.486376,
     "mps:longitude":4.897003,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474461,
         85633337,
         101855433,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158820963,
-    "wof:lastmodified":1559596102,
+    "wof:lastmodified":1566660071,
     "wof:name":"Verspreide huizen ten zuiden van De Middentocht",
     "wof:parent_id":101855433,
     "wof:placetype":"neighbourhood",

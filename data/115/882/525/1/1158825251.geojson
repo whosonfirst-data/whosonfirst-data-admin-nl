@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.922914,
     "lbl:longitude":4.584672,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.922914,
     "mps:longitude":4.584672,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158829573,
         85633337,
         101752769,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158825251,
-    "wof:lastmodified":1559596476,
+    "wof:lastmodified":1566660427,
     "wof:name":"Oude plaats",
     "wof:parent_id":1158829573,
     "wof:placetype":"neighbourhood",

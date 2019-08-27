@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.176341,
     "lbl:longitude":6.687598,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.176341,
     "mps:longitude":6.687598,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473719,
         85633337,
         1158796477,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158792911,
-    "wof:lastmodified":1559597085,
+    "wof:lastmodified":1566659763,
     "wof:name":"Industriegebied Winschoterdiep",
     "wof:parent_id":1158796477,
     "wof:placetype":"neighbourhood",

@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":50.815698,
     "lbl:longitude":5.890051,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.800431,
     "mps:longitude":5.881908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Gulpen"
     ],
@@ -85,7 +88,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.8156,
     "wd:longitude":5.8886,
     "wd:wordcount":271,
@@ -101,7 +104,6 @@
         "fct:id":"01f0cf8c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2755045,
         "gp:id":729615,
-        "qs:id":897795,
         "qs_pg:id":897795,
         "tgn:id":1047808,
         "wd:id":"Q99988",
@@ -123,7 +125,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350329,
+    "wof:lastmodified":1566657874,
     "wof:name":"Gulpen",
     "wof:parent_id":404474645,
     "wof:placetype":"locality",

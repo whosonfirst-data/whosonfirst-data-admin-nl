@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.623054,
     "lbl:longitude":5.121895,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.623054,
     "mps:longitude":5.121895,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474435,
         85633337,
         101808325,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158799219,
-    "wof:lastmodified":1559595815,
+    "wof:lastmodified":1566659844,
     "wof:name":"Verspreide huizen Udenhout",
     "wof:parent_id":101808325,
     "wof:placetype":"neighbourhood",

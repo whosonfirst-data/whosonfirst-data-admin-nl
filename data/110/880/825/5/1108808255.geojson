@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.078035,
     "lbl:longitude":4.31956,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.078035,
     "mps:longitude":4.31956,
     "mz:hierarchy_label":1,
@@ -33,13 +34,13 @@
     "reversegeo:longitude":4.31956,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831865,
         85633337,
         101752763,
         136253051,
-        1108808053
+        1108808053,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108808255,
-    "wof:lastmodified":1559596307,
+    "wof:lastmodified":1566657689,
     "wof:name":"Uilebomen",
     "wof:parent_id":1158831865,
     "wof:placetype":"neighbourhood",

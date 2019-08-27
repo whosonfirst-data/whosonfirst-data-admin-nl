@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.891193,
     "lbl:longitude":6.038525,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.89154,
     "mps:longitude":6.038321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Pannerden"
     ],
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043d\u043d\u0435\u0440\u0434\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rannereen"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -75,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.89,
     "wd:longitude":6.0378,
     "wd:wordcount":76,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":2748740,
         "gp:id":732666,
-        "qs:id":895783,
         "qs_pg:id":895783,
         "tgn:id":7268099,
         "wd:id":"Q1918938",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101809871,
-    "wof:lastmodified":1563350646,
+    "wof:lastmodified":1566658026,
     "wof:name":"Pannerden",
     "wof:parent_id":404473863,
     "wof:placetype":"locality",

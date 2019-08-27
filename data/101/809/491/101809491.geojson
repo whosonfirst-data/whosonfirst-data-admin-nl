@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":50.862092,
     "lbl:longitude":5.783989,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.859152,
     "mps:longitude":5.786351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Berg en Terblijt"
     ],
@@ -68,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687033,
@@ -81,10 +84,12 @@
     "wof:concordances":{
         "gn:id":2746469,
         "gp:id":733797,
-        "qs:id":141376,
-        "qs_pg:id":1021359,
+        "qs_pg:id":141376,
         "wd:id":"Q2273131",
         "wk:page":"Berg, Valkenburg"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1021359
     },
     "wof:country":"NL",
     "wof:geomhash":"e4c42aef40c6fa2e9a65a1e9f26e3981",
@@ -99,7 +104,7 @@
         }
     ],
     "wof:id":101809491,
-    "wof:lastmodified":1563350608,
+    "wof:lastmodified":1566658004,
     "wof:name":"Berg en Terblijt",
     "wof:parent_id":404474537,
     "wof:placetype":"locality",

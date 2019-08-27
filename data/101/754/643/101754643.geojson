@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.867111,
     "lbl:longitude":4.244115,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.862367,
     "mps:longitude":4.2329,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Heenvliet"
     ],
@@ -74,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8656,
     "wd:longitude":4.2425,
     "wd:wordcount":164,
@@ -90,7 +93,6 @@
         "fct:id":"01f0df54-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2754687,
         "gp:id":729813,
-        "qs:id":314828,
         "qs_pg:id":314828,
         "tgn:id":7266007,
         "wd:id":"Q2160156",
@@ -112,7 +114,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350234,
+    "wof:lastmodified":1566657832,
     "wof:name":"Heenvliet",
     "wof:parent_id":1158824747,
     "wof:placetype":"locality",

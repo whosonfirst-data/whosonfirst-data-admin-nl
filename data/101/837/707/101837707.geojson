@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.874501,
     "lbl:longitude":4.976252,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.886521,
     "mps:longitude":4.983953,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Hoogblokland"
     ],
@@ -77,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8742,
     "wd:longitude":4.975,
     "wd:wordcount":168,
@@ -93,7 +96,6 @@
         "fct:id":"01f0fb60-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2753789,
         "gp:id":730283,
-        "qs:id":1351120,
         "qs_pg:id":1351120,
         "tgn:id":7263947,
         "wd:id":"Q2969717",
@@ -115,7 +117,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350692,
+    "wof:lastmodified":1566658050,
     "wof:name":"Hoogblokland",
     "wof:parent_id":404474315,
     "wof:placetype":"locality",

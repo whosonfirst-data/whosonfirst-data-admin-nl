@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.194171,
     "lbl:longitude":5.647732,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.194171,
     "mps:longitude":5.647732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Dronrijp"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":233,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":2756561,
         "gp:id":728876,
-        "qs:id":966488,
         "qs_pg:id":966488,
         "tgn:id":1047738,
         "wd:id":"Q578267",
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101806141,
-    "wof:lastmodified":1563351006,
+    "wof:lastmodified":1566658220,
     "wof:name":"Dronrijp",
     "wof:parent_id":404473783,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.960003,
     "lbl:longitude":6.485922,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.960003,
     "mps:longitude":6.485922,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474543,
         85633337,
         101855353,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964821,
-    "wof:lastmodified":1559595782,
+    "wof:lastmodified":1566661042,
     "wof:name":"Verspreide huizen Heelweg",
     "wof:parent_id":101855353,
     "wof:placetype":"neighbourhood",

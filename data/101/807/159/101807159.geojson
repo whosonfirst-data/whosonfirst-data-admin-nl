@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.386578,
     "lbl:longitude":6.452177,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.390111,
     "mps:longitude":6.436359,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0644\u064a\u0646\u062f\u0648\u0631\u0646"
     ],
@@ -151,7 +154,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687045,
         102191581,
@@ -164,7 +167,6 @@
         "fct:id":"01f0e710-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2754457,
         "gp:id":729961,
-        "qs:id":239834,
         "qs_pg:id":239834,
         "tgn:id":1047840,
         "wd:id":"Q10005"
@@ -185,7 +187,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350439,
+    "wof:lastmodified":1566657911,
     "wof:name":"Hellendoorn",
     "wof:parent_id":404473835,
     "wof:placetype":"locality",

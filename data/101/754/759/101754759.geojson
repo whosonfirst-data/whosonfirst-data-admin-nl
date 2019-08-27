@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.843377,
     "lbl:longitude":5.804283,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.859243,
     "mps:longitude":5.811858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Weurt"
     ],
@@ -41,7 +44,7 @@
     "name:por_x_preferred":[
         "Weurt"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Weurd"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -66,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8833,
     "wd:longitude":5.7,
     "wd:wordcount":96,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2744587,
         "gp:id":734707,
-        "qs:id":1352729,
         "qs_pg:id":1352729,
         "tgn:id":7273363,
         "wd:id":"Q937611",
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101754759,
-    "wof:lastmodified":1563350274,
+    "wof:lastmodified":1566657848,
     "wof:name":"Weurt",
     "wof:parent_id":404473875,
     "wof:placetype":"locality",

@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.263772,
     "lbl:longitude":6.799395,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.271793,
     "mps:longitude":6.820295,
     "mz:hierarchy_label":0,
@@ -38,9 +39,6 @@
         "Klein Driene"
     ],
     "name:nld_x_preferred":[
-        "Klein Driene"
-    ],
-    "name:unk_x_variant":[
         "Klein Driene"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -74,21 +72,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687045,
         102191581,
         1158805859,
         404473837,
         85633337,
         101751869,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2752772,
         "gp:id":730761,
-        "qs:id":309509,
         "qs_pg:id":309509
     },
     "wof:country":"NL",
@@ -109,7 +106,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596001,
+    "wof:lastmodified":1566657330,
     "wof:name":"Klein Driene",
     "wof:parent_id":1158805859,
     "wof:placetype":"neighbourhood",

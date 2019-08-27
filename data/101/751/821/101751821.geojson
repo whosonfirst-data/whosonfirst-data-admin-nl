@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.15664,
     "lbl:longitude":5.389244,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":52.169892,
     "mps:longitude":5.401074,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Amersfoort"
     ],
@@ -283,7 +286,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.15,
     "wd:longitude":5.38,
@@ -300,7 +303,6 @@
         "fct:id":"01f02df2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2759821,
         "gp:id":727211,
-        "qs:id":794157,
         "qs_pg:id":794157,
         "tgn:id":7006922,
         "wd:id":"Q992"
@@ -321,7 +323,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350378,
+    "wof:lastmodified":1566657894,
     "wof:name":"Amersfoort",
     "wof:parent_id":404473971,
     "wof:placetype":"locality",

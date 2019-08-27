@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.065553,
     "lbl:longitude":6.187665,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.063481,
     "mps:longitude":6.178453,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Steenderen"
     ],
@@ -78,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.066667,
     "wd:longitude":6.183333,
     "wd:wordcount":66,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2746794,
         "gp:id":733626,
-        "qs:id":1168119,
         "qs_pg:id":1168119,
         "tgn:id":1048135,
         "wd:id":"Q285907",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101808561,
-    "wof:lastmodified":1563350794,
+    "wof:lastmodified":1566658098,
     "wof:name":"Steenderen",
     "wof:parent_id":404474673,
     "wof:placetype":"locality",

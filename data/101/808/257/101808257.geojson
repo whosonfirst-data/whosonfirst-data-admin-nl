@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.602093,
     "lbl:longitude":5.223743,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.60111,
     "mps:longitude":5.228611,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Haaren"
     ],
@@ -116,7 +119,7 @@
     "name:swe_x_preferred":[
         "Haaren"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Haren"
     ],
     "name:urd_x_preferred":[
@@ -153,7 +156,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":174,
     "wof:belongsto":[
@@ -168,11 +171,13 @@
         "fct:id":"01f0d090-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2754842,
         "gp:id":729728,
-        "qs:id":1350954,
         "qs_pg:id":1053954,
         "tgn:id":1047811,
         "wd:id":"Q9840",
         "wk:page":"Haaren, North Brabant"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1350954
     },
     "wof:country":"NL",
     "wof:geomhash":"579f53724e87c2db916a6c528397efc2",
@@ -190,7 +195,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350827,
+    "wof:lastmodified":1566658117,
     "wof:name":"Haaren",
     "wof:parent_id":404474387,
     "wof:placetype":"locality",

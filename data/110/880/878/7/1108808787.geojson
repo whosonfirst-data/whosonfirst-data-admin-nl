@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.08691,
     "lbl:longitude":5.09822,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.08691,
     "mps:longitude":5.09822,
     "mz:hierarchy_label":1,
@@ -33,12 +34,12 @@
     "reversegeo:longitude":5.09822,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687039,
         102191581,
         85633337,
         101751827,
         136253051,
-        1108808675
+        1108808675,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1108808787,
-    "wof:lastmodified":1559595547,
+    "wof:lastmodified":1566657684,
     "wof:name":"Leidseweg en omgeving",
     "wof:parent_id":1108808675,
     "wof:placetype":"neighbourhood",

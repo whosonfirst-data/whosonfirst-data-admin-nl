@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.101563,
     "lbl:longitude":5.466956,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.101563,
     "mps:longitude":5.466956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Witmarsum"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":70,
     "wof:belongsto":[
         85687055,
@@ -98,7 +101,6 @@
     "wof:concordances":{
         "gn:id":2744303,
         "gp:id":734838,
-        "qs:id":187989,
         "qs_pg:id":187989,
         "tgn:id":7029723,
         "wd:id":"Q494324",
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101807449,
-    "wof:lastmodified":1563350454,
+    "wof:lastmodified":1566657918,
     "wof:name":"Witmarsum",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

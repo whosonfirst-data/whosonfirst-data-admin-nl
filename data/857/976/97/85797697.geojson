@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":50.838177,
     "lbl:longitude":5.712347,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.824149,
     "mps:longitude":5.704803,
     "mz:hierarchy_label":0,
@@ -47,9 +48,6 @@
         "Heugem"
     ],
     "name:nld_x_preferred":[
-        "Heugem"
-    ],
-    "name:unk_x_variant":[
         "Heugem"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -83,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1158818143,
@@ -96,7 +94,6 @@
     "wof:concordances":{
         "gn:id":2754156,
         "gp:id":730085,
-        "qs:id":1080762,
         "qs_pg:id":1080762,
         "wd:id":"Q723795"
     },
@@ -117,7 +114,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563349604,
+    "wof:lastmodified":1566657343,
     "wof:name":"Heugem",
     "wof:parent_id":1158818143,
     "wof:placetype":"neighbourhood",

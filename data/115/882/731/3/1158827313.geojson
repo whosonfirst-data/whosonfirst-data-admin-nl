@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.914073,
     "lbl:longitude":4.297436,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.914073,
     "mps:longitude":4.297436,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158829615,
         85633337,
         101751851,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158827313,
-    "wof:lastmodified":1559596835,
+    "wof:lastmodified":1566659991,
     "wof:name":"Buitengebied Zuidbuurt",
     "wof:parent_id":1158829615,
     "wof:placetype":"neighbourhood",

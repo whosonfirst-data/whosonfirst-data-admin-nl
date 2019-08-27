@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.093711,
     "lbl:longitude":6.079721,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.093711,
     "mps:longitude":6.079721,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473877,
         85633337,
         101807087,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962605,
-    "wof:lastmodified":1559595639,
+    "wof:lastmodified":1566661122,
     "wof:name":"Verspreide huizen Eerbeek",
     "wof:parent_id":101807087,
     "wof:placetype":"neighbourhood",

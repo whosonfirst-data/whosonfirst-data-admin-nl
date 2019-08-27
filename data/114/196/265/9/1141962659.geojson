@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.929988,
     "lbl:longitude":5.513923,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.929988,
     "mps:longitude":5.513923,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473879,
         85633337,
         1158783569,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962659,
-    "wof:lastmodified":1559596217,
+    "wof:lastmodified":1566661291,
     "wof:name":"Verspreide huizen Aalst Leutes polder Aalst",
     "wof:parent_id":1158783569,
     "wof:placetype":"neighbourhood",

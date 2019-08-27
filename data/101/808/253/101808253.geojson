@@ -22,11 +22,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.730316,
     "lbl:longitude":5.518614,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.721636,
     "mps:longitude":5.51608,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Heesch"
     ],
@@ -103,7 +106,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":97,
     "wof:belongsto":[
@@ -119,7 +122,6 @@
     "wof:concordances":{
         "gn:id":2754635,
         "gp:id":729848,
-        "qs:id":457781,
         "qs_pg:id":457781,
         "tgn:id":1047836,
         "wd:id":"Q993667",
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":101808253,
-    "wof:lastmodified":1563350927,
+    "wof:lastmodified":1566658178,
     "wof:name":"Heesch",
     "wof:parent_id":404474633,
     "wof:placetype":"locality",

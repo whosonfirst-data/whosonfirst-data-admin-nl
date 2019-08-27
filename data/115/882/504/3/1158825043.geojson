@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.854497,
     "lbl:longitude":4.545661,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.854497,
     "mps:longitude":4.545661,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831069,
         85633337,
         101754615,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158825043,
-    "wof:lastmodified":1559595575,
+    "wof:lastmodified":1566659990,
     "wof:name":"Noord 3",
     "wof:parent_id":1158831069,
     "wof:placetype":"neighbourhood",

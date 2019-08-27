@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.206175,
     "lbl:longitude":5.17737,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.206175,
     "mps:longitude":5.17737,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823061,
         85633337,
         101751905,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158819839,
-    "wof:lastmodified":1559596205,
+    "wof:lastmodified":1566659229,
     "wof:name":"'t Hoogt van 't Kruis",
     "wof:parent_id":1158823061,
     "wof:placetype":"neighbourhood",

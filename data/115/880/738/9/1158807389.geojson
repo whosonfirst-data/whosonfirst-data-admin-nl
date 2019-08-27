@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.146463,
     "lbl:longitude":5.906325,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.146463,
     "mps:longitude":5.906325,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474559,
         85633337,
         101839219,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807389,
-    "wof:lastmodified":1559595718,
+    "wof:lastmodified":1566658775,
     "wof:name":"Brachterbeek",
     "wof:parent_id":101839219,
     "wof:placetype":"neighbourhood",

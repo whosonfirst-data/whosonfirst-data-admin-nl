@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.697214,
     "lbl:longitude":5.21612,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.688816,
     "mps:longitude":5.210387,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Vlijmen"
     ],
@@ -80,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":136,
     "wof:belongsto":[
         85687035,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2745396,
         "gp:id":734319,
-        "qs:id":883518,
         "qs_pg:id":883518,
         "tgn:id":1048193,
         "wd:id":"Q1983269",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101839395,
-    "wof:lastmodified":1563351045,
+    "wof:lastmodified":1566658237,
     "wof:name":"Vlijmen",
     "wof:parent_id":404474395,
     "wof:placetype":"locality",

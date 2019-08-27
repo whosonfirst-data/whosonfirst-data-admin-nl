@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.273223,
     "lbl:longitude":6.045007,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.264687,
     "mps:longitude":6.045045,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Beesel"
     ],
@@ -131,9 +134,6 @@
     "name:tur_x_preferred":[
         "Beesel"
     ],
-    "name:unk_x_variant":[
-        "Besel"
-    ],
     "name:vie_x_preferred":[
         "Beesel"
     ],
@@ -168,7 +168,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.2669,
     "wd:longitude":6.0392,
@@ -185,7 +185,6 @@
         "fct:id":"01f0474c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2759286,
         "gp:id":727542,
-        "qs:id":902844,
         "qs_pg:id":902844,
         "tgn:id":7258317,
         "wd:id":"Q9805"
@@ -206,7 +205,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350652,
+    "wof:lastmodified":1566658028,
     "wof:name":"Beesel",
     "wof:parent_id":404474473,
     "wof:placetype":"locality",

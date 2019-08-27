@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.469516,
     "lbl:longitude":5.549089,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.461358,
     "mps:longitude":5.555074,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Nuenen"
     ],
@@ -138,7 +141,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.466667,
     "wd:longitude":5.55,
@@ -154,7 +157,6 @@
     "wof:concordances":{
         "gn:id":2749780,
         "gp:id":732184,
-        "qs:id":457943,
         "qs_pg:id":457943,
         "tgn:id":7006835,
         "wd:id":"Q153516",
@@ -173,7 +175,7 @@
         }
     ],
     "wof:id":101809739,
-    "wof:lastmodified":1563350580,
+    "wof:lastmodified":1566657990,
     "wof:name":"Nuenen",
     "wof:parent_id":404474405,
     "wof:placetype":"locality",

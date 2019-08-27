@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.581524,
     "lbl:longitude":5.603341,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.581524,
     "mps:longitude":5.603341,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474441,
         85633337,
         1158801625,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158799391,
-    "wof:lastmodified":1559597103,
+    "wof:lastmodified":1566659364,
     "wof:name":"Verspreide huizen Keldonk",
     "wof:parent_id":1158801625,
     "wof:placetype":"neighbourhood",

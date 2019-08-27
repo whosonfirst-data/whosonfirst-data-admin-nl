@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.626097,
     "lbl:longitude":4.94734,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.633723,
     "mps:longitude":4.957296,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "De Goorn"
     ],
@@ -53,7 +56,7 @@
     "name:por_x_preferred":[
         "De Goorn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Goorn"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -78,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.6303,
     "wd:longitude":4.9444,
     "wd:wordcount":111,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2757623,
         "gp:id":728334,
-        "qs:id":261914,
         "qs_pg:id":261914,
         "tgn:id":7263235,
         "wd:id":"Q2993272",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101837905,
-    "wof:lastmodified":1563350739,
+    "wof:lastmodified":1566658072,
     "wof:name":"De Goorn",
     "wof:parent_id":404474551,
     "wof:placetype":"locality",

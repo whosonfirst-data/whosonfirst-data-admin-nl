@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.169867,
     "lbl:longitude":6.710293,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.169867,
     "mps:longitude":6.710293,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473719,
         85633337,
         1158796473,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158792907,
-    "wof:lastmodified":1559596921,
+    "wof:lastmodified":1566659787,
     "wof:name":"Foxholsterbosch",
     "wof:parent_id":1158796473,
     "wof:placetype":"neighbourhood",

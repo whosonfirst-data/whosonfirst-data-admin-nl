@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
-    "geom:area_square_m":1034209.393477,
+    "geom:area_square_m":1034209.393478,
     "geom:bbox":"4.47558989249,52.0476266332,4.49287453719,52.0609569876",
     "geom:latitude":52.054212,
     "geom:longitude":4.484077,
@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.053799,
     "lbl:longitude":4.483984,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.054655,
     "mps:longitude":4.484077,
     "mz:hierarchy_label":0,
@@ -39,9 +40,6 @@
         "Driemanspolder"
     ],
     "name:nld_x_preferred":[
-        "Driemanspolder"
-    ],
-    "name:unk_x_variant":[
         "Driemanspolder"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -75,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101751835,
@@ -86,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2756587,
         "gp:id":728859,
-        "qs:id":1080750,
         "qs_pg:id":1080750,
         "wd:id":"Q1809110",
         "wk:page":"Driemanspolder RandstadRail station"
@@ -106,7 +103,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269548,
+    "wof:lastmodified":1566657350,
     "wof:name":"Driemanspolder",
     "wof:parent_id":101751835,
     "wof:placetype":"neighbourhood",

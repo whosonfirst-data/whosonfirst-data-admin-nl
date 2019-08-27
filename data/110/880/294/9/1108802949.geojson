@@ -24,6 +24,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.364735,
     "lbl:longitude":4.910568,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.364735,
     "mps:longitude":4.910568,
     "mz:hierarchy_label":1,
@@ -36,12 +37,12 @@
     "reversegeo:longitude":4.910568,
     "src:geom":"amsgis",
     "wof:belongsto":[
-        85687053,
         102191581,
         85633337,
         101751893,
         136253051,
-        1158844279
+        1158844279,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1108802949,
-    "wof:lastmodified":1559595410,
+    "wof:lastmodified":1566657614,
     "wof:name":"Weesperbuurt/Plantage",
     "wof:parent_id":1158844279,
     "wof:placetype":"neighbourhood",

@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.210997,
     "lbl:longitude":5.022256,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.215047,
     "mps:longitude":5.014522,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Loenen"
     ],
@@ -107,7 +110,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":144,
     "wof:belongsto":[
         85687039,
@@ -121,7 +124,6 @@
         "fct:id":"01f142dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2751523,
         "gp:id":731361,
-        "qs:id":1052918,
         "qs_pg:id":1052918,
         "tgn:id":7264779,
         "wd:id":"Q1020444",
@@ -143,7 +145,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350965,
+    "wof:lastmodified":1566658200,
     "wof:name":"Loenen",
     "wof:parent_id":1158787499,
     "wof:placetype":"locality",

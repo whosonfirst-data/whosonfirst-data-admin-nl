@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.446325,
     "lbl:longitude":5.588179,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.446325,
     "mps:longitude":5.588179,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474659,
         85633337,
         101808273,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158800413,
-    "wof:lastmodified":1559596028,
+    "wof:lastmodified":1566658802,
     "wof:name":"Verspreide huizen Mierlo",
     "wof:parent_id":101808273,
     "wof:placetype":"neighbourhood",

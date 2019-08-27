@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.013962,
     "lbl:longitude":4.255814,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.013911,
     "mps:longitude":4.261844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Kwintsheul"
     ],
@@ -81,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.0144,
     "wd:longitude":4.2539,
@@ -98,7 +101,6 @@
         "fct:id":"01f12a4a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2752130,
         "gp:id":731033,
-        "qs:id":1351294,
         "qs_pg:id":1351294,
         "tgn:id":7265257,
         "wd:id":"Q2508826",
@@ -120,7 +122,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350455,
+    "wof:lastmodified":1566657918,
     "wof:name":"Kwintsheul",
     "wof:parent_id":404474667,
     "wof:placetype":"locality",

@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.8856,
     "lbl:longitude":4.608194,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.893211,
     "mps:longitude":4.581754,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Bolnes"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687041,
         102191581,
@@ -87,7 +90,7 @@
         "fct:id":"01f6d1ac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2758686,
         "gp:id":727839,
-        "qs:id":6,
+        "qs_pg:id":6,
         "tgn:id":7257964,
         "wd:id":"Q2039640",
         "wk:page":"Bolnes"
@@ -108,7 +111,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350357,
+    "wof:lastmodified":1566657889,
     "wof:name":"Bolnes",
     "wof:parent_id":404474243,
     "wof:placetype":"locality",

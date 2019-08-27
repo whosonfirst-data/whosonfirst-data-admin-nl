@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.550436,
     "lbl:longitude":5.465832,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.550436,
     "mps:longitude":5.465832,
     "mz:hierarchy_label":1,
@@ -42,11 +43,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687049,
         102191581,
         85633337,
         101751873,
-        136253051,
-        85687049
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158787153,
-    "wof:lastmodified":1559596958,
+    "wof:lastmodified":1566660645,
     "wof:name":"Overstag, Houtribbos",
     "wof:parent_id":101751873,
     "wof:placetype":"neighbourhood",

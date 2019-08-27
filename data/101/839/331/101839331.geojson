@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.645902,
     "lbl:longitude":5.944349,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.645509,
     "mps:longitude":5.934873,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u0633\u0645\u064a\u0631"
     ],
@@ -142,9 +145,6 @@
     "name:swe_x_preferred":[
         "Boxmeer"
     ],
-    "name:unk_x_variant":[
-        "Boksmeer"
-    ],
     "name:vie_x_preferred":[
         "Boxmeer"
     ],
@@ -179,7 +179,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":137,
     "wof:belongsto":[
@@ -194,7 +194,6 @@
         "fct:id":"01f0611e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2758462,
         "gp:id":727942,
-        "qs:id":176426,
         "qs_pg:id":176426,
         "tgn:id":1047672,
         "wd:id":"Q9819"
@@ -215,7 +214,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351015,
+    "wof:lastmodified":1566658224,
     "wof:name":"Boxmeer",
     "wof:parent_id":404474359,
     "wof:placetype":"locality",

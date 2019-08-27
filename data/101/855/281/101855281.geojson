@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.273251,
     "lbl:longitude":5.028908,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.28025,
     "mps:longitude":5.030591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Nigtevecht"
     ],
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Nigtevecht"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nichtevecht"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -103,7 +106,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.2742,
     "wd:longitude":5.0278,
     "wd:wordcount":138,
@@ -118,7 +121,6 @@
     "wof:concordances":{
         "gn:id":2750106,
         "gp:id":732043,
-        "qs:id":1218706,
         "qs_pg:id":1218706,
         "tgn:id":7267950,
         "wd:id":"Q3117041",
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":101855281,
-    "wof:lastmodified":1563351093,
+    "wof:lastmodified":1566658255,
     "wof:name":"Nigtevecht",
     "wof:parent_id":1158787499,
     "wof:placetype":"locality",

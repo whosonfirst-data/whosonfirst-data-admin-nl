@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.643403,
     "lbl:longitude":4.755355,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.647771,
     "mps:longitude":4.75361,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Terheijden"
     ],
@@ -61,7 +64,7 @@
     "name:swe_x_preferred":[
         "Terheijden"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Terheide"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -86,7 +89,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":84,
     "wof:belongsto":[
         85687035,
@@ -99,7 +102,6 @@
     "wof:concordances":{
         "gn:id":2746456,
         "gp:id":733804,
-        "qs:id":1074822,
         "qs_pg:id":1074822,
         "tgn:id":7271505,
         "wd:id":"Q2488235",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101754591,
-    "wof:lastmodified":1563350271,
+    "wof:lastmodified":1566657847,
     "wof:name":"Terheijden",
     "wof:parent_id":404474631,
     "wof:placetype":"locality",

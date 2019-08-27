@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.521352,
     "lbl:longitude":4.976953,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.521352,
     "mps:longitude":4.976953,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823237,
         85633337,
         101751889,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158820315,
-    "wof:lastmodified":1559595897,
+    "wof:lastmodified":1566660095,
     "wof:name":"Molenkoog",
     "wof:parent_id":1158823237,
     "wof:placetype":"neighbourhood",

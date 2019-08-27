@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.37647,
     "lbl:longitude":5.937888,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.37647,
     "mps:longitude":5.937888,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473897,
         85633337,
         1158783531,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963247,
-    "wof:lastmodified":1559596805,
+    "wof:lastmodified":1566661158,
     "wof:name":"Verspreide huizen bosgebied Tongeren",
     "wof:parent_id":1158783531,
     "wof:placetype":"neighbourhood",

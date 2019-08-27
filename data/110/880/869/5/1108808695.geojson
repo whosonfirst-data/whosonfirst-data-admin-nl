@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.070538,
     "lbl:longitude":5.080275,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.070538,
     "mps:longitude":5.080275,
     "mz:hierarchy_label":1,
@@ -33,12 +34,12 @@
     "reversegeo:longitude":5.080275,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687039,
         102191581,
         85633337,
         101751827,
         136253051,
-        1108808661
+        1108808661,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1108808695,
-    "wof:lastmodified":1559596549,
+    "wof:lastmodified":1566657617,
     "wof:name":"Bedrijvengebied Papendorp",
     "wof:parent_id":1108808661,
     "wof:placetype":"neighbourhood",

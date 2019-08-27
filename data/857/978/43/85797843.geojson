@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.546509,
     "lbl:longitude":5.062027,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.5487,
     "mps:longitude":5.067823,
     "mz:hierarchy_label":0,
@@ -38,9 +39,6 @@
         "Korvel"
     ],
     "name:nld_x_preferred":[
-        "Korvel"
-    ],
-    "name:unk_x_variant":[
         "Korvel"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -74,21 +72,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801785,
         404474435,
         85633337,
         101751817,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2752389,
         "gp:id":730910,
-        "qs:id":1351267,
         "qs_pg:id":1351267
     },
     "wof:country":"NL",
@@ -109,7 +106,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595958,
+    "wof:lastmodified":1566657330,
     "wof:name":"Korvel",
     "wof:parent_id":1158801785,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.139389,
     "lbl:longitude":4.794627,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.139389,
     "mps:longitude":4.794627,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474217,
         85633337,
         101807051,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158826587,
-    "wof:lastmodified":1559595988,
+    "wof:lastmodified":1566660093,
     "wof:name":"Verspreide huizen en Nieuwkoop Plassengebied",
     "wof:parent_id":101807051,
     "wof:placetype":"neighbourhood",

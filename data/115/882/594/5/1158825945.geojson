@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.833659,
     "lbl:longitude":5.024537,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.833659,
     "mps:longitude":5.024537,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474173,
         85633337,
         101808515,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158825945,
-    "wof:lastmodified":1559596404,
+    "wof:lastmodified":1566659951,
     "wof:name":"Landelijk gebied Oost",
     "wof:parent_id":101808515,
     "wof:placetype":"neighbourhood",

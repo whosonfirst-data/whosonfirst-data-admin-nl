@@ -20,6 +20,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.091847,
     "lbl:longitude":4.268574,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.091319,
     "mps:longitude":4.268604,
     "mz:hierarchy_label":1,
@@ -43,16 +44,15 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687041,
         102191581,
         1108808089,
         85633337,
         101752763,
         136253051,
-        1108808041
+        1108808041,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1108938133,
-    "wof:lastmodified":1559595550,
+    "wof:lastmodified":1566657762,
     "wof:name":"Geuzenkwartier",
     "wof:parent_id":1108808089,
     "wof:placetype":"neighbourhood",

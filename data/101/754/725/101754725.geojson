@@ -18,11 +18,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.832155,
     "lbl:longitude":4.69264,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.833215,
     "mps:longitude":4.695915,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0628\u0646\u062f\u0631\u064a\u062e\u062a"
     ],
@@ -174,7 +177,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wd:latitude":51.833333,
     "wd:longitude":4.683333,
@@ -190,7 +193,6 @@
         "fct:id":"01f1b528-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2748729,
         "gp:id":732671,
-        "qs:id":795692,
         "qs_pg:id":795692,
         "tgn:id":1048041,
         "wd:id":"Q934511",
@@ -211,7 +213,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350254,
+    "wof:lastmodified":1566657841,
     "wof:name":"Papendrecht",
     "wof:parent_id":85687041,
     "wof:placetype":"locality",

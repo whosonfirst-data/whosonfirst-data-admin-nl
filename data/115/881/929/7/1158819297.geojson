@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.378152,
     "lbl:longitude":4.741727,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.378152,
     "mps:longitude":4.741727,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474065,
         85633337,
         101754847,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158819297,
-    "wof:lastmodified":1559595508,
+    "wof:lastmodified":1566659302,
     "wof:name":"Zwanenburg Zuidwest",
     "wof:parent_id":101754847,
     "wof:placetype":"neighbourhood",

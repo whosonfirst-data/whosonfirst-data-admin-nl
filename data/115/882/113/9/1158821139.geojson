@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.876167,
     "lbl:longitude":5.02041,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.876167,
     "mps:longitude":5.02041,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158818287,
         85633337,
         101808807,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158821139,
-    "wof:lastmodified":1559596206,
+    "wof:lastmodified":1566660447,
     "wof:name":"Verspreide huizen Wieringerwerf",
     "wof:parent_id":101808807,
     "wof:placetype":"neighbourhood",

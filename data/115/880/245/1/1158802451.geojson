@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.152571,
     "lbl:longitude":6.730495,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.152571,
     "mps:longitude":6.730495,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473829,
         85633337,
         101807203,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158802451,
-    "wof:lastmodified":1559595518,
+    "wof:lastmodified":1566658806,
     "wof:name":"Haaksbergen Kern-4",
     "wof:parent_id":101807203,
     "wof:placetype":"neighbourhood",

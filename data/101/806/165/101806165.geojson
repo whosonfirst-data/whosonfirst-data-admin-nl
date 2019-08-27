@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.005221,
     "lbl:longitude":6.067422,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.005221,
     "mps:longitude":6.067422,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Gorredijk"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":720,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
     "wof:concordances":{
         "gn:id":2755429,
         "gp:id":729464,
-        "qs:id":457764,
         "qs_pg:id":457764,
         "tgn:id":1047796,
         "wd:id":"Q2103434"
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101806165,
-    "wof:lastmodified":1563350990,
+    "wof:lastmodified":1566658211,
     "wof:name":"Gorredijk",
     "wof:parent_id":404473787,
     "wof:placetype":"locality",

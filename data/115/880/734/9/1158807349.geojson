@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.220593,
     "lbl:longitude":5.824614,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.220593,
     "mps:longitude":5.824614,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474557,
         85633337,
         101855219,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807349,
-    "wof:lastmodified":1559596788,
+    "wof:lastmodified":1566658954,
     "wof:name":"Kern Kelpen-Oler",
     "wof:parent_id":101855219,
     "wof:placetype":"neighbourhood",

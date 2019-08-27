@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.718901,
     "lbl:longitude":7.042727,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.701795,
     "mps:longitude":7.044384,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zwartemeer"
     ],
@@ -68,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         85687051,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2743544,
         "gp:id":735192,
-        "qs:id":1352827,
         "qs_pg:id":1352827,
         "tgn:id":1048286,
         "wd:id":"Q2114058"
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101837887,
-    "wof:lastmodified":1563350697,
+    "wof:lastmodified":1566658052,
     "wof:name":"Zwartemeer",
     "wof:parent_id":404473809,
     "wof:placetype":"locality",

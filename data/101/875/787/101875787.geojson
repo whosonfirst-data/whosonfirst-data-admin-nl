@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.112986,
     "lbl:longitude":5.25483,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.117047,
     "mps:longitude":5.260486,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Huis ter Heide"
     ],
@@ -65,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.1108,
     "wd:longitude":5.2564,
     "wd:wordcount":118,
@@ -81,7 +84,6 @@
         "fct:id":"01f102b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2753488,
         "gp:id":730422,
-        "qs:id":1168044,
         "qs_pg:id":1168044,
         "tgn:id":4005182,
         "wd:id":"Q130619",
@@ -103,7 +105,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350333,
+    "wof:lastmodified":1566657876,
     "wof:name":"Huis ter Heide",
     "wof:parent_id":404474019,
     "wof:placetype":"locality",
