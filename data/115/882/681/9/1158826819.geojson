@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.783592,
     "lbl:longitude":4.362427,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.783592,
     "mps:longitude":4.362427,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474235,
         85633337,
         101808527,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158826819,
-    "wof:lastmodified":1559595651,
+    "wof:lastmodified":1566660002,
     "wof:name":"Zuidzijde (gedeeltelijk)",
     "wof:parent_id":101808527,
     "wof:placetype":"neighbourhood",

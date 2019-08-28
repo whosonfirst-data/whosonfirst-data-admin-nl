@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.779122,
     "lbl:longitude":6.242758,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.773662,
     "mps:longitude":6.222739,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Havelte"
     ],
@@ -96,7 +99,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":166,
     "wof:belongsto":[
@@ -110,7 +113,6 @@
     "wof:concordances":{
         "gn:id":2754752,
         "gp:id":729772,
-        "qs:id":1350993,
         "qs_pg:id":1350993,
         "tgn:id":6002491,
         "wd:id":"Q1591522",
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101807293,
-    "wof:lastmodified":1563350479,
+    "wof:lastmodified":1566657933,
     "wof:name":"Havelte",
     "wof:parent_id":404474613,
     "wof:placetype":"locality",

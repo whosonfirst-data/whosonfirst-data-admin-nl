@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.188004,
     "lbl:longitude":5.38092,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.188004,
     "mps:longitude":5.38092,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404473971,
         85633337,
         101855289,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158787681,
-    "wof:lastmodified":1559596265,
+    "wof:lastmodified":1566660699,
     "wof:name":"Langenoord",
     "wof:parent_id":101855289,
     "wof:placetype":"neighbourhood",

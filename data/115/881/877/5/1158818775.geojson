@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.558486,
     "lbl:longitude":4.671871,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.558486,
     "mps:longitude":4.671871,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823285,
         404474053,
         85633337,
         101807335,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158818775,
-    "wof:lastmodified":1559595446,
+    "wof:lastmodified":1566659272,
     "wof:name":"Kooiweg",
     "wof:parent_id":1158823285,
     "wof:placetype":"neighbourhood",

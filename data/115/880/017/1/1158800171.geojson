@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.660507,
     "lbl:longitude":4.597301,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.660507,
     "mps:longitude":4.597301,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474623,
         85633337,
         101809653,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158800171,
-    "wof:lastmodified":1559595877,
+    "wof:lastmodified":1566659044,
     "wof:name":"Verspreide huizen ten westen van Zevenbergen",
     "wof:parent_id":101809653,
     "wof:placetype":"neighbourhood",

@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.276437,
     "lbl:longitude":6.69704,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.272472,
     "mps:longitude":6.697336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Ten Boer"
     ],
@@ -159,7 +162,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.283333,
     "wd:longitude":6.683333,
     "wd:wordcount":177,
@@ -175,7 +178,6 @@
         "fct:id":"01f205dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2746491,
         "gp:id":733774,
-        "qs:id":915244,
         "qs_pg:id":915244,
         "tgn:id":7271540,
         "wd:id":"Q849566"
@@ -196,7 +198,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350348,
+    "wof:lastmodified":1566657884,
     "wof:name":"Ten Boer",
     "wof:parent_id":404473709,
     "wof:placetype":"locality",

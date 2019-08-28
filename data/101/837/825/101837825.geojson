@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.883604,
     "lbl:longitude":5.593233,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.873438,
     "mps:longitude":5.58,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Puiflijk"
     ],
@@ -70,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8792,
     "wd:longitude":5.5903,
     "wd:wordcount":96,
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":2748421,
         "gp:id":732813,
-        "qs:id":1352129,
         "qs_pg:id":1352129,
         "tgn:id":4008979,
         "wd:id":"Q942490",
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101837825,
-    "wof:lastmodified":1563350755,
+    "wof:lastmodified":1566658079,
     "wof:name":"Puiflijk",
     "wof:parent_id":404473889,
     "wof:placetype":"locality",

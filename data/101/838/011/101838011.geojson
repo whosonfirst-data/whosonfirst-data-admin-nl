@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.08065,
     "lbl:longitude":6.96448,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.058772,
     "mps:longitude":6.960242,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Nieuwe Pekela"
     ],
@@ -102,7 +105,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.0786,
     "wd:longitude":6.9642,
     "wd:wordcount":114,
@@ -117,7 +120,6 @@
     "wof:concordances":{
         "gn:id":2750272,
         "gp:id":731967,
-        "qs:id":96595,
         "qs_pg:id":96595,
         "tgn:id":7006981,
         "wd:id":"Q2900922",
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101838011,
-    "wof:lastmodified":1563350572,
+    "wof:lastmodified":1566657986,
     "wof:name":"Nieuwe Pekela",
     "wof:parent_id":404474367,
     "wof:placetype":"locality",

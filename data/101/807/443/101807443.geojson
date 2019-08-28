@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.365141,
     "lbl:longitude":5.21719,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.365141,
     "mps:longitude":5.21719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "West-Terschelling"
     ],
@@ -59,7 +62,7 @@
     "name:pol_x_preferred":[
         "West-Terschelling"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Westerschelling"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":114,
     "wof:belongsto":[
@@ -97,7 +100,7 @@
     "wof:concordances":{
         "gn:id":2744608,
         "gp:id":28995337,
-        "qs:id":26119,
+        "qs_pg:id":26119,
         "tgn:id":1048231,
         "wd:id":"Q2785515",
         "wk:page":"West-Terschelling"
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101807443,
-    "wof:lastmodified":1563350523,
+    "wof:lastmodified":1566657958,
     "wof:name":"West-Terschelling",
     "wof:parent_id":404473795,
     "wof:placetype":"locality",

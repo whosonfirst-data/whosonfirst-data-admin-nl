@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.676344,
     "lbl:longitude":5.225996,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.676344,
     "mps:longitude":5.225996,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474155,
         85633337,
         101837941,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158820867,
-    "wof:lastmodified":1559596029,
+    "wof:lastmodified":1566660284,
     "wof:name":"De Buurt",
     "wof:parent_id":101837941,
     "wof:placetype":"neighbourhood",

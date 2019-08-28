@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.291176,
     "lbl:longitude":6.829742,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.291176,
     "mps:longitude":6.829742,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         1158804455,
         404473837,
         85633337,
         101751869,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158802795,
-    "wof:lastmodified":1559596963,
+    "wof:lastmodified":1566659014,
     "wof:name":"Middelhoek",
     "wof:parent_id":1158804455,
     "wof:placetype":"neighbourhood",

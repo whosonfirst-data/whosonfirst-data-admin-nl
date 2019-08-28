@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.859916,
     "lbl:longitude":6.404925,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.859916,
     "mps:longitude":6.404925,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474613,
         85633337,
         1158792161,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158791629,
-    "wof:lastmodified":1559596792,
+    "wof:lastmodified":1566659607,
     "wof:name":"Verspreide huizen Eemster",
     "wof:parent_id":1158792161,
     "wof:placetype":"neighbourhood",

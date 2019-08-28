@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.15477,
     "lbl:longitude":5.939124,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.156503,
     "mps:longitude":5.931107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Linne"
     ],
@@ -77,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.1542,
     "wd:longitude":5.9392,
     "wd:wordcount":154,
@@ -92,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2751566,
         "gp:id":731341,
-        "qs:id":888163,
         "qs_pg:id":888163,
         "tgn:id":1047918,
         "wd:id":"Q787154",
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101839217,
-    "wof:lastmodified":1563351028,
+    "wof:lastmodified":1566658229,
     "wof:name":"Linne",
     "wof:parent_id":404474559,
     "wof:placetype":"locality",

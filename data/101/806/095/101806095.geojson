@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.242464,
     "lbl:longitude":5.6517,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.242464,
     "mps:longitude":5.6517,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0644\u0643\u0648\u0645"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -79,7 +82,6 @@
     "wof:concordances":{
         "gn:id":2759057,
         "gp:id":727664,
-        "qs:id":1061399,
         "qs_pg:id":1061399,
         "tgn:id":1047653,
         "wd:id":"Q1107931",
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101806095,
-    "wof:lastmodified":1563350999,
+    "wof:lastmodified":1566658217,
     "wof:name":"Berlikum",
     "wof:parent_id":404473783,
     "wof:placetype":"locality",

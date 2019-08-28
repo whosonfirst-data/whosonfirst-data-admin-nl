@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.392981,
     "lbl:longitude":3.553876,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.389966,
     "mps:longitude":3.547489,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Breskens"
     ],
@@ -99,7 +102,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":350,
     "wof:belongsto":[
         102191581,
@@ -112,7 +115,6 @@
         "fct:id":"01f06416-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2758341,
         "gp:id":728000,
-        "qs:id":1143917,
         "qs_pg:id":1143917,
         "tgn:id":1047676,
         "wd:id":"Q641390",
@@ -133,7 +135,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350662,
+    "wof:lastmodified":1566658034,
     "wof:name":"Breskens",
     "wof:parent_id":404474629,
     "wof:placetype":"locality",

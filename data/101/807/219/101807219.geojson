@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.67831,
     "lbl:longitude":6.004331,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.66985,
     "mps:longitude":6.013517,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Sint Jansklooster"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687045,
@@ -76,7 +79,7 @@
     "wof:concordances":{
         "gn:id":2747262,
         "gp:id":733573,
-        "qs:id":1352353,
+        "qs_pg:id":1352353,
         "tgn:id":7270769,
         "wd:id":"Q1979634"
     },
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101807219,
-    "wof:lastmodified":1563350461,
+    "wof:lastmodified":1566657923,
     "wof:name":"Sint Jansklooster",
     "wof:parent_id":404474621,
     "wof:placetype":"locality",

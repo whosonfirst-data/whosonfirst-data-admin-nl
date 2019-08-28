@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.005477,
     "lbl:longitude":5.362139,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.005477,
     "mps:longitude":5.362139,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404474015,
         85633337,
         101807009,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158788507,
-    "wof:lastmodified":1559595649,
+    "wof:lastmodified":1566660565,
     "wof:name":"Verspreide huizen Langbroek",
     "wof:parent_id":101807009,
     "wof:placetype":"neighbourhood",

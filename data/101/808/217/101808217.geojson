@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.634795,
     "lbl:longitude":4.36899,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.626037,
     "mps:longitude":4.35221,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u0438\u043d\u0442\u0435\u043b\u043e\u0440\u0434"
     ],
@@ -72,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":120,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
         "fct:id":"01f08a7c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2756800,
         "gp:id":728734,
-        "qs:id":141363,
         "qs_pg:id":141363,
         "tgn:id":1047724,
         "wd:id":"Q2281208",
@@ -109,7 +111,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350821,
+    "wof:lastmodified":1566658114,
     "wof:name":"Dinteloord",
     "wof:parent_id":404474431,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.368237,
     "lbl:longitude":6.127518,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.368237,
     "mps:longitude":6.127518,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158818275,
         404474525,
         85633337,
         101839199,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158806831,
-    "wof:lastmodified":1559596582,
+    "wof:lastmodified":1566659053,
     "wof:name":"Vossener-West",
     "wof:parent_id":1158818275,
     "wof:placetype":"neighbourhood",

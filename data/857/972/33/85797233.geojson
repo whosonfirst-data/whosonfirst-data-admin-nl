@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000171,
-    "geom:area_square_m":1297280.561473,
+    "geom:area_square_m":1297280.561474,
     "geom:bbox":"4.46542350919,52.0617555516,4.49039244696,52.0716940456",
     "geom:latitude":52.06636,
     "geom:longitude":4.477798,
@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.066842,
     "lbl:longitude":4.477903,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.066653,
     "mps:longitude":4.478035,
     "mz:hierarchy_label":0,
@@ -41,7 +42,7 @@
     "name:nld_x_preferred":[
         "Buytenwegh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Buytenwegh de Leyens"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -75,7 +76,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101751835,
@@ -86,7 +87,6 @@
     "wof:concordances":{
         "gn:id":2758041,
         "gp:id":728161,
-        "qs:id":179536,
         "qs_pg:id":179536
     },
     "wof:country":"NL",
@@ -104,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269562,
+    "wof:lastmodified":1566657360,
     "wof:name":"Buytenwegh",
     "wof:parent_id":101751835,
     "wof:placetype":"neighbourhood",

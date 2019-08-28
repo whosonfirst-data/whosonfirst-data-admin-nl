@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.508267,
     "lbl:longitude":3.930182,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.508267,
     "mps:longitude":3.930182,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474303,
         85633337,
         101839433,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158784259,
-    "wof:lastmodified":1559595455,
+    "wof:lastmodified":1566660521,
     "wof:name":"Verspreide huizen in het Oosten",
     "wof:parent_id":101839433,
     "wof:placetype":"neighbourhood",

@@ -18,11 +18,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.329962,
     "lbl:longitude":5.537624,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.339022,
     "mps:longitude":5.453369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Zeewolde"
     ],
@@ -188,7 +191,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wd:wordcount":456,
     "wof:belongsto":[
@@ -201,7 +204,6 @@
         "fct:id":"01f260ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2743997,
         "gp:id":734991,
-        "qs:id":1037683,
         "qs_pg:id":1037683,
         "tgn:id":7274058,
         "wd:id":"Q184454"
@@ -220,7 +222,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350860,
+    "wof:lastmodified":1566658140,
     "wof:name":"Zeewolde",
     "wof:parent_id":85687049,
     "wof:placetype":"locality",

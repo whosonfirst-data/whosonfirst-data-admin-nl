@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.138759,
     "lbl:longitude":5.583104,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.141495,
     "mps:longitude":5.577462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Barneveld"
     ],
@@ -169,7 +172,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":484,
     "wof:belongsto":[
@@ -184,7 +187,6 @@
         "fct:id":"01f0430a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2759407,
         "gp:id":727489,
-        "qs:id":347621,
         "qs_pg:id":347621,
         "tgn:id":1047635,
         "wd:id":"Q164098"
@@ -205,7 +207,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350471,
+    "wof:lastmodified":1566657928,
     "wof:name":"Barneveld",
     "wof:parent_id":404473873,
     "wof:placetype":"locality",

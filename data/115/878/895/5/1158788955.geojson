@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.991238,
     "lbl:longitude":5.425578,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.991238,
     "mps:longitude":5.425578,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404474547,
         85633337,
         101808445,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158788955,
-    "wof:lastmodified":1559595670,
+    "wof:lastmodified":1566660560,
     "wof:name":"Verspreide huizen Lekdijk",
     "wof:parent_id":101808445,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.181442,
     "lbl:longitude":5.521928,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.181442,
     "mps:longitude":5.521928,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473873,
         85633337,
         101855377,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962405,
-    "wof:lastmodified":1559595627,
+    "wof:lastmodified":1566661241,
     "wof:name":"Buitengebied Zwartebroek",
     "wof:parent_id":101855377,
     "wof:placetype":"neighbourhood",

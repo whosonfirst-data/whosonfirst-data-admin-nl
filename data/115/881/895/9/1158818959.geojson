@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.374854,
     "lbl:longitude":4.625158,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.374854,
     "mps:longitude":4.625158,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823163,
         404474061,
         85633337,
         101751897,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158818959,
-    "wof:lastmodified":1559595463,
+    "wof:lastmodified":1566659215,
     "wof:name":"Koninginnebuurt",
     "wof:parent_id":1158823163,
     "wof:placetype":"neighbourhood",

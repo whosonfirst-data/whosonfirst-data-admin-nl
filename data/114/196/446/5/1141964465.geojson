@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.768098,
     "lbl:longitude":5.188543,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.768098,
     "mps:longitude":5.188543,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473955,
         85633337,
         1158783441,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964465,
-    "wof:lastmodified":1559596317,
+    "wof:lastmodified":1566661071,
     "wof:name":"Beneden-Delwijnen",
     "wof:parent_id":1158783441,
     "wof:placetype":"neighbourhood",

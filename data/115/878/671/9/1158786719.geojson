@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.403081,
     "lbl:longitude":5.321384,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.403081,
     "mps:longitude":5.321384,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         1158787351,
         85633337,
         1158787345,
-        136253051
+        136253051,
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158786719,
-    "wof:lastmodified":1559596860,
+    "wof:lastmodified":1566660728,
     "wof:name":"Stripheldenbuurt",
     "wof:parent_id":1158787351,
     "wof:placetype":"neighbourhood",

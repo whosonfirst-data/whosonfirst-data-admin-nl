@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.09284,
     "lbl:longitude":5.834515,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.09284,
     "mps:longitude":5.834515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Grou"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":271,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":2755052,
         "gp:id":729613,
-        "qs:id":1037764,
         "qs_pg:id":1037764,
         "tgn:id":1047807,
         "wd:id":"Q1547681",
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101806167,
-    "wof:lastmodified":1563350968,
+    "wof:lastmodified":1566658201,
     "wof:name":"Grouw",
     "wof:parent_id":404473775,
     "wof:placetype":"locality",

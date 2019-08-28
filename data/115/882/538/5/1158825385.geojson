@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.909438,
     "lbl:longitude":4.541868,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.909438,
     "mps:longitude":4.541868,
     "mz:hierarchy_label":1,
@@ -40,11 +41,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687041,
         102191581,
         85633337,
         101752769,
-        136253051,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1158825385,
-    "wof:lastmodified":1559595587,
+    "wof:lastmodified":1566660221,
     "wof:name":"AWZI Rivium",
     "wof:parent_id":101752769,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.475455,
     "lbl:longitude":4.015435,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.475455,
     "mps:longitude":4.015435,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474323,
         85633337,
         101808371,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158784501,
-    "wof:lastmodified":1559596058,
+    "wof:lastmodified":1566660809,
     "wof:name":"Verspreide huizen Hansweert",
     "wof:parent_id":101808371,
     "wof:placetype":"neighbourhood",

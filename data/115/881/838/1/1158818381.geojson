@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.632615,
     "lbl:longitude":4.766593,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.632615,
     "mps:longitude":4.766593,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474025,
         85633337,
         101751887,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158818381,
-    "wof:lastmodified":1559595961,
+    "wof:lastmodified":1566659287,
     "wof:name":"Oudorperpolder-Midden",
     "wof:parent_id":101751887,
     "wof:placetype":"neighbourhood",

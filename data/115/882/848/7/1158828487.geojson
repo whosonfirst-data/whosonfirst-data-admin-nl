@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.022575,
     "lbl:longitude":4.767051,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.022575,
     "mps:longitude":4.767051,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831331,
         1158824739,
         85633337,
         101754735,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158828487,
-    "wof:lastmodified":1559596674,
+    "wof:lastmodified":1566660260,
     "wof:name":"Twaalfmorgen",
     "wof:parent_id":1158831331,
     "wof:placetype":"neighbourhood",

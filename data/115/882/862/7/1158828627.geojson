@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.74264,
     "lbl:longitude":4.18751,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.74264,
     "mps:longitude":4.18751,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158824741,
         85633337,
         101837715,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158828627,
-    "wof:lastmodified":1559596738,
+    "wof:lastmodified":1566660344,
     "wof:name":"Middelharnis buitengebied",
     "wof:parent_id":101837715,
     "wof:placetype":"neighbourhood",

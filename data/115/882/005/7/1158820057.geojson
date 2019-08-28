@@ -14,13 +14,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000137,
-    "geom:area_square_m":1023332.136634,
+    "geom:area_square_m":1023332.136633,
     "geom:bbox":"5.06213943521,52.6731333869,5.08938644805,52.6843654801",
     "geom:latitude":52.678574,
     "geom:longitude":5.075797,
     "iso:country":"NL",
     "lbl:latitude":52.678844,
     "lbl:longitude":5.076722,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.678844,
     "mps:longitude":5.076722,
     "mz:hierarchy_label":1,
@@ -40,16 +41,16 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474083,
         85633337,
-        101754845
+        101754845,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"f719e66206cf7c5dede4de297a3d6c82",
+    "wof:geomhash":"b2847d884e6b3a0fbae8b2701f5e87b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1158820057,
-    "wof:lastmodified":1513464190,
+    "wof:lastmodified":1566660373,
     "wof:name":"Zevenhuis - Buurt 36 00",
     "wof:parent_id":101754845,
     "wof:placetype":"neighbourhood",
@@ -71,8 +72,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.062139435207977,
-    52.673133386889084,
+    5.06213943520798,
+    52.67313338688908,
     5.08938644805201,
     52.68436548011384
 ],

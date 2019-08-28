@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.983416,
     "lbl:longitude":5.629171,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.983416,
     "mps:longitude":5.629171,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473947,
         85633337,
         101837813,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964231,
-    "wof:lastmodified":1559595732,
+    "wof:lastmodified":1566661087,
     "wof:name":"Verspreide huizen Het Binnenveld",
     "wof:parent_id":101837813,
     "wof:placetype":"neighbourhood",

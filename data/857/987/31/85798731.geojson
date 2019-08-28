@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.584733,
     "lbl:longitude":4.784461,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.577431,
     "mps:longitude":4.781109,
     "mz:hierarchy_label":1,
@@ -73,9 +74,6 @@
     "name:rus_x_preferred":[
         "\u0417\u0430\u043d\u0434\u0431\u0435\u0440\u0433"
     ],
-    "name:unk_x_variant":[
-        "Zandberg"
-    ],
     "qs:gn_adm0_cc":"NL",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2758401,
@@ -107,7 +105,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":23,
     "wof:belongsto":[
         102191581,
@@ -122,7 +120,6 @@
     "wof:concordances":{
         "gn:id":2744093,
         "gp:id":734950,
-        "qs:id":1158358,
         "qs_pg:id":1158358
     },
     "wof:country":"NL",
@@ -143,7 +140,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1564234155,
+    "wof:lastmodified":1566657344,
     "wof:name":"Zandberg",
     "wof:parent_id":1158801663,
     "wof:placetype":"neighbourhood",

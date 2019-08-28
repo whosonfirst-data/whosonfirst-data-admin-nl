@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.071002,
     "lbl:longitude":4.245248,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.071002,
     "mps:longitude":4.245248,
     "mz:hierarchy_label":1,
@@ -33,13 +34,13 @@
     "reversegeo:longitude":4.245248,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687041,
         102191581,
         1108808079,
         85633337,
         101752763,
         136253051,
-        1108808039
+        1108808039,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108808189,
-    "wof:lastmodified":1559596283,
+    "wof:lastmodified":1566657575,
     "wof:name":"Bosjes van Pex",
     "wof:parent_id":1108808079,
     "wof:placetype":"neighbourhood",

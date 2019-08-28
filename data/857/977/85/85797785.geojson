@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.082137,
     "lbl:longitude":5.254881,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.077593,
     "mps:longitude":5.268373,
     "mz:hierarchy_label":0,
@@ -38,9 +39,6 @@
         "Kerckebosch"
     ],
     "name:nld_x_preferred":[
-        "Kerckebosch"
-    ],
-    "name:unk_x_variant":[
         "Kerckebosch"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -74,21 +72,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790353,
         404474019,
         85633337,
         101751823,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2752956,
         "gp:id":730670,
-        "qs:id":1158288,
         "qs_pg:id":1158288
     },
     "wof:country":"NL",
@@ -109,7 +106,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596006,
+    "wof:lastmodified":1566657315,
     "wof:name":"Kerckebosch",
     "wof:parent_id":1158790353,
     "wof:placetype":"neighbourhood",

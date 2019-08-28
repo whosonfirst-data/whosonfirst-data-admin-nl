@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.96948,
     "lbl:longitude":6.761918,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.96948,
     "mps:longitude":6.761918,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474593,
         85633337,
         101806055,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158791271,
-    "wof:lastmodified":1559595942,
+    "wof:lastmodified":1566659557,
     "wof:name":"Verspreide huizen Gasselte",
     "wof:parent_id":101806055,
     "wof:placetype":"neighbourhood",

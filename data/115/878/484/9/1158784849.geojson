@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.70509,
     "lbl:longitude":3.983116,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.70509,
     "mps:longitude":3.983116,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474591,
         85633337,
         1158786527,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158784849,
-    "wof:lastmodified":1559595527,
+    "wof:lastmodified":1566660531,
     "wof:name":"Verspreide huizen Dreischor",
     "wof:parent_id":1158786527,
     "wof:placetype":"neighbourhood",

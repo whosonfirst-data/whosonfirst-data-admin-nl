@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.347831,
     "lbl:longitude":6.095291,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.347831,
     "mps:longitude":6.095291,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158805873,
         85633337,
         101808139,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807809,
-    "wof:lastmodified":1559596850,
+    "wof:lastmodified":1566659140,
     "wof:name":"Verspreide huizen op Den Hert",
     "wof:parent_id":101808139,
     "wof:placetype":"neighbourhood",

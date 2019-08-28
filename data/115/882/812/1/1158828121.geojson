@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.999779,
     "lbl:longitude":4.156713,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.999779,
     "mps:longitude":4.156713,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474667,
         85633337,
         101808481,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158828121,
-    "wof:lastmodified":1559597143,
+    "wof:lastmodified":1566660273,
     "wof:name":"Zandevelt",
     "wof:parent_id":101808481,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.133377,
     "lbl:longitude":5.550441,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.133377,
     "mps:longitude":5.550441,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473873,
         85633337,
         101807053,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962315,
-    "wof:lastmodified":1559595628,
+    "wof:lastmodified":1566661267,
     "wof:name":"Buitengebied Barneveld",
     "wof:parent_id":101807053,
     "wof:placetype":"neighbourhood",

@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.190507,
     "lbl:longitude":5.918712,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.194257,
     "mps:longitude":5.91347,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Beegden"
     ],
@@ -75,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.1883,
     "wd:longitude":5.9208,
     "wd:wordcount":195,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":2759353,
         "gp:id":727512,
-        "qs:id":1225206,
         "qs_pg:id":1225206,
         "tgn:id":7258168,
         "wd:id":"Q631499",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101839193,
-    "wof:lastmodified":1563351017,
+    "wof:lastmodified":1566658225,
     "wof:name":"Beegden",
     "wof:parent_id":404474559,
     "wof:placetype":"locality",

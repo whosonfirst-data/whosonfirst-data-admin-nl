@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.296439,
     "lbl:longitude":5.949098,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.296439,
     "mps:longitude":5.949098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0646\u0633\u0648\u0645\u0627\u062e\u064a\u0633\u062a"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":49,
     "wof:belongsto":[
@@ -85,7 +88,6 @@
         "fct:id":"01f1cd10-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2748051,
         "gp:id":732996,
-        "qs:id":187847,
         "qs_pg:id":187847,
         "tgn:id":7007017,
         "wd:id":"Q1820452",
@@ -107,7 +109,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350547,
+    "wof:lastmodified":1566657972,
     "wof:name":"Rinsumageest",
     "wof:parent_id":404474681,
     "wof:placetype":"locality",

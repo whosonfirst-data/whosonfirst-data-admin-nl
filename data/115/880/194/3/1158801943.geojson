@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.352926,
     "lbl:longitude":6.622455,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.352926,
     "mps:longitude":6.622455,
     "mz:hierarchy_label":0,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         1158805823,
         404473819,
         85633337,
         101751863,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158801943,
-    "wof:lastmodified":1559596247,
+    "wof:lastmodified":1566658770,
     "wof:name":"Verspreide huizen wijk 14",
     "wof:parent_id":1158805823,
     "wof:placetype":"neighbourhood",

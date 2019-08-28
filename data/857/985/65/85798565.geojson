@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.72291,
     "lbl:longitude":6.468847,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.715488,
     "mps:longitude":6.470732,
     "mz:hierarchy_label":0,
@@ -43,11 +44,6 @@
         "Veenesluis"
     ],
     "name:nld_x_preferred":[
-        "Venesluis"
-    ],
-    "name:unk_x_variant":[
-        "Veenesluis",
-        "Venesluis",
         "Venesluis"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -82,20 +78,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687051,
         102191581,
         404473811,
         85633337,
         101837877,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2745772,
         "gp:id":734203,
-        "qs:id":1080805,
         "qs_pg:id":1080805
     },
     "wof:country":"NL",
@@ -115,7 +110,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596782,
+    "wof:lastmodified":1566657337,
     "wof:name":"Venesluis",
     "wof:parent_id":101837877,
     "wof:placetype":"neighbourhood",

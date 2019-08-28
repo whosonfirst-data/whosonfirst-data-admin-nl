@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.695523,
     "lbl:longitude":5.22476,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.695769,
     "mps:longitude":5.220048,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Grootebroek"
     ],
@@ -66,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":135,
     "wof:belongsto":[
         85687053,
@@ -80,7 +83,6 @@
         "fct:id":"01efefea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2755211,
         "gp:id":729601,
-        "qs:id":891844,
         "qs_pg:id":891844,
         "tgn:id":7261054,
         "wd:id":"Q429309",
@@ -102,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350721,
+    "wof:lastmodified":1566658064,
     "wof:name":"Grootebroek",
     "wof:parent_id":404474187,
     "wof:placetype":"locality",

@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.328461,
     "lbl:longitude":3.496079,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.325276,
     "mps:longitude":3.48678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Oostburg"
     ],
@@ -93,7 +96,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":333,
     "wof:belongsto":[
         85687037,
@@ -107,7 +110,6 @@
         "fct:id":"01f1989a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2749541,
         "gp:id":732316,
-        "qs:id":1120090,
         "qs_pg:id":1120090,
         "tgn:id":1048013,
         "wd:id":"Q1615032",
@@ -129,7 +131,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350823,
+    "wof:lastmodified":1566658116,
     "wof:name":"Oostburg",
     "wof:parent_id":404474629,
     "wof:placetype":"locality",

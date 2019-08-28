@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.493963,
     "lbl:longitude":5.492006,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.493963,
     "mps:longitude":5.492006,
     "mz:hierarchy_label":1,
@@ -42,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         1158787419,
         85633337,
         101751873,
-        136253051
+        136253051,
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158787199,
-    "wof:lastmodified":1559596980,
+    "wof:lastmodified":1566660844,
     "wof:name":"Wijkcentrum, Voorstraat",
     "wof:parent_id":1158787419,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.935917,
     "lbl:longitude":4.376682,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.935917,
     "mps:longitude":4.376682,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831033,
         85633337,
         101751845,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158827055,
-    "wof:lastmodified":1559595665,
+    "wof:lastmodified":1566660194,
     "wof:name":"Kethel-dorp",
     "wof:parent_id":1158831033,
     "wof:placetype":"neighbourhood",

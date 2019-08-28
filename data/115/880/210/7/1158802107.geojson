@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.44295,
     "lbl:longitude":6.342225,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.44295,
     "mps:longitude":6.342225,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473823,
         85633337,
         101807213,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158802107,
-    "wof:lastmodified":1559596225,
+    "wof:lastmodified":1566658819,
     "wof:name":"Lemelerveld kern",
     "wof:parent_id":101807213,
     "wof:placetype":"neighbourhood",

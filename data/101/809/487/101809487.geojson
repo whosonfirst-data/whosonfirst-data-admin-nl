@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.225683,
     "lbl:longitude":5.881866,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.228628,
     "mps:longitude":5.876961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Baexem"
     ],
@@ -49,7 +52,7 @@
     "name:nld_x_preferred":[
         "Baexem"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baaksem"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -74,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.2244,
     "wd:longitude":5.88,
     "wd:wordcount":115,
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2759522,
         "gp:id":727436,
-        "qs:id":176311,
         "qs_pg:id":176311,
         "tgn:id":7257458,
         "wd:id":"Q2274875",
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101809487,
-    "wof:lastmodified":1563350647,
+    "wof:lastmodified":1566658027,
     "wof:name":"Baexem",
     "wof:parent_id":404474557,
     "wof:placetype":"locality",

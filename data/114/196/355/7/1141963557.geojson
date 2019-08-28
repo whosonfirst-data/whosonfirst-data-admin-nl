@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.776058,
     "lbl:longitude":5.840937,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.776058,
     "mps:longitude":5.840937,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473913,
         85633337,
         1158783783,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963557,
-    "wof:lastmodified":1559596927,
+    "wof:lastmodified":1566661026,
     "wof:name":"Verspreide huizen Heumen",
     "wof:parent_id":1158783783,
     "wof:placetype":"neighbourhood",

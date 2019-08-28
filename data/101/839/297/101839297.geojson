@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.253295,
     "lbl:longitude":5.716366,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.255994,
     "mps:longitude":5.684692,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Weert"
     ],
@@ -144,9 +147,6 @@
     "name:tur_x_preferred":[
         "Weert"
     ],
-    "name:unk_x_variant":[
-        "Weerd"
-    ],
     "name:vie_x_preferred":[
         "Weert"
     ],
@@ -175,7 +175,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":311,
     "wof:belongsto":[
@@ -190,7 +190,6 @@
         "fct:id":"01f23dea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2744911,
         "gp:id":734564,
-        "qs:id":796299,
         "qs_pg:id":796299,
         "tgn:id":7006858,
         "wd:id":"Q9774"
@@ -211,7 +210,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351070,
+    "wof:lastmodified":1566658246,
     "wof:name":"Weert",
     "wof:parent_id":404474531,
     "wof:placetype":"locality",

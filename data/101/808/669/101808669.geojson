@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.850311,
     "lbl:longitude":5.431962,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.848012,
     "mps:longitude":5.436317,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Dreumel"
     ],
@@ -70,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8492,
     "wd:longitude":5.4325,
     "wd:wordcount":183,
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":2756626,
         "gp:id":728831,
-        "qs:id":1072787,
         "qs_pg:id":1072787,
         "tgn:id":7260741,
         "wd:id":"Q2784834",
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101808669,
-    "wof:lastmodified":1563350833,
+    "wof:lastmodified":1566658120,
     "wof:name":"Dreumel",
     "wof:parent_id":404474305,
     "wof:placetype":"locality",

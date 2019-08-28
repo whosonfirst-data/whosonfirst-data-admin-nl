@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.396534,
     "lbl:longitude":5.098583,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.396534,
     "mps:longitude":5.098583,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474579,
         85633337,
         101809721,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158799873,
-    "wof:lastmodified":1559597117,
+    "wof:lastmodified":1566659823,
     "wof:name":"Verspreide huizen Hooge Mierde",
     "wof:parent_id":101809721,
     "wof:placetype":"neighbourhood",

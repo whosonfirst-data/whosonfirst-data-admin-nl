@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.323186,
     "lbl:longitude":4.59336,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.322796,
     "mps:longitude":4.596356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Bennebroek"
     ],
@@ -129,7 +132,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.3214,
     "wd:longitude":4.5967,
@@ -146,7 +149,6 @@
         "fct:id":"01f049e0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2759199,
         "gp:id":727583,
-        "qs:id":176334,
         "qs_pg:id":176334,
         "tgn:id":7258788,
         "wd:id":"Q817840",
@@ -168,7 +170,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350766,
+    "wof:lastmodified":1566658084,
     "wof:name":"Bennebroek",
     "wof:parent_id":404474047,
     "wof:placetype":"locality",

@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.136353,
     "lbl:longitude":6.226268,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.136985,
     "mps:longitude":6.279122,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Warnsveld"
     ],
@@ -91,7 +94,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.15,
     "wd:longitude":6.233333,
@@ -107,7 +110,6 @@
     "wof:concordances":{
         "gn:id":2745003,
         "gp:id":734520,
-        "qs:id":1352670,
         "qs_pg:id":1352670,
         "tgn:id":1048221,
         "wd:id":"Q735546",
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101837819,
-    "wof:lastmodified":1563350700,
+    "wof:lastmodified":1566658053,
     "wof:name":"Warnsveld",
     "wof:parent_id":404473961,
     "wof:placetype":"locality",

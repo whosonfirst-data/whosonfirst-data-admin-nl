@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.994615,
     "lbl:longitude":5.189545,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.982034,
     "mps:longitude":5.196449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Schalkwijk"
     ],
@@ -75,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.9939,
     "wd:longitude":5.1872,
     "wd:wordcount":303,
@@ -91,7 +94,6 @@
         "fct:id":"01f1da26-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2747703,
         "gp:id":733204,
-        "qs:id":1352232,
         "qs_pg:id":1352232,
         "tgn:id":4010186,
         "wd:id":"Q2724869",
@@ -113,7 +115,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350932,
+    "wof:lastmodified":1566658180,
     "wof:name":"Schalkwijk",
     "wof:parent_id":404473987,
     "wof:placetype":"locality",

@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.709409,
     "lbl:longitude":5.752072,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.710457,
     "mps:longitude":5.757541,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Emmeloord"
     ],
@@ -124,7 +127,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.709722,
     "wd:longitude":5.750833,
@@ -140,7 +143,6 @@
     "wof:concordances":{
         "gn:id":2756139,
         "gp:id":729098,
-        "qs:id":457721,
         "qs_pg:id":457721,
         "tgn:id":7007037,
         "wd:id":"Q60705"
@@ -158,7 +160,7 @@
         }
     ],
     "wof:id":101807245,
-    "wof:lastmodified":1563350458,
+    "wof:lastmodified":1566657920,
     "wof:name":"Emmeloord",
     "wof:parent_id":404473843,
     "wof:placetype":"locality",

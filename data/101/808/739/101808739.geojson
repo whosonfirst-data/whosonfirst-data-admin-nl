@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.821554,
     "lbl:longitude":5.04427,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.837546,
     "mps:longitude":5.055611,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Vuren"
     ],
@@ -73,7 +76,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8244,
     "wd:longitude":5.0467,
     "wd:wordcount":205,
@@ -89,7 +92,6 @@
         "fct:id":"01f232e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2745143,
         "gp:id":734452,
-        "qs:id":315187,
         "qs_pg:id":315187,
         "tgn:id":7272888,
         "wd:id":"Q3112541",
@@ -111,7 +113,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350787,
+    "wof:lastmodified":1566658093,
     "wof:name":"Vuren",
     "wof:parent_id":404474339,
     "wof:placetype":"locality",

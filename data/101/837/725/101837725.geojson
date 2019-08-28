@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.789087,
     "lbl:longitude":4.473832,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.783699,
     "mps:longitude":4.47753,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Westmaas"
     ],
@@ -60,7 +63,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.7875,
     "wd:longitude":4.4731,
     "wd:wordcount":93,
@@ -76,7 +79,6 @@
         "fct:id":"01f2497a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2744631,
         "gp:id":734696,
-        "qs:id":347969,
         "qs_pg:id":347969,
         "tgn:id":7273406,
         "wd:id":"Q2726062",
@@ -98,7 +100,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350716,
+    "wof:lastmodified":1566658061,
     "wof:name":"Westmaas",
     "wof:parent_id":404474233,
     "wof:placetype":"locality",

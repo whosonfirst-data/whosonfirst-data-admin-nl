@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.786678,
     "lbl:longitude":5.356605,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.786678,
     "mps:longitude":5.356605,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473917,
         85633337,
         1158783773,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963673,
-    "wof:lastmodified":1559596949,
+    "wof:lastmodified":1566661198,
     "wof:name":"Verspreide huizen Alem",
     "wof:parent_id":1158783773,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.386526,
     "lbl:longitude":4.676338,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.386526,
     "mps:longitude":4.676338,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823187,
         404474061,
         85633337,
         101751897,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158819017,
-    "wof:lastmodified":1559595950,
+    "wof:lastmodified":1566659176,
     "wof:name":"Schoteroog en Veerpolder",
     "wof:parent_id":1158823187,
     "wof:placetype":"neighbourhood",

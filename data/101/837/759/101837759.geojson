@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.013324,
     "lbl:longitude":6.139564,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.013154,
     "mps:longitude":6.140292,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Doesburg"
     ],
@@ -166,7 +169,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.016667,
     "wd:longitude":6.133333,
@@ -183,7 +186,6 @@
         "fct:id":"01f08c16-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2756772,
         "gp:id":728748,
-        "qs:id":236917,
         "qs_pg:id":236917,
         "tgn:id":7006884,
         "wd:id":"Q165736",
@@ -205,7 +207,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350743,
+    "wof:lastmodified":1566658073,
     "wof:name":"Doesburg",
     "wof:parent_id":404473883,
     "wof:placetype":"locality",

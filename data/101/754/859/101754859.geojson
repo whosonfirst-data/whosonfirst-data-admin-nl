@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.455605,
     "lbl:longitude":4.657959,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":52.456303,
     "mps:longitude":4.646048,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":8.0,
     "name:ast_x_preferred":[
         "Velsen-Zuid"
     ],
@@ -75,9 +78,6 @@
     "name:swe_x_preferred":[
         "Velsen"
     ],
-    "name:unk_x_variant":[
-        "Velsen"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Velsen-Zuid"
     ],
@@ -100,7 +100,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.46,
     "wd:longitude":4.6503,
@@ -116,7 +116,6 @@
         "fct:id":"01f22594-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2745673,
         "gp:id":734188,
-        "qs:id":895780,
         "qs_pg:id":895780,
         "tgn:id":7007055,
         "wd:id":"Q3330170",
@@ -137,7 +136,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350244,
+    "wof:lastmodified":1566657837,
     "wof:name":"Velsen-Zuid",
     "wof:parent_id":404474123,
     "wof:placetype":"locality",

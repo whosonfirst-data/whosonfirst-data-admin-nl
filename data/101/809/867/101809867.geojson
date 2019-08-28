@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.927067,
     "lbl:longitude":5.713673,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.929925,
     "mps:longitude":5.727715,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Zetten"
     ],
@@ -70,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.9278,
     "wd:longitude":5.7125,
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":2743952,
         "gp:id":735029,
-        "qs:id":1250194,
         "qs_pg:id":1250194,
         "tgn:id":7274015,
         "wd:id":"Q2173020"
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101809867,
-    "wof:lastmodified":1563350605,
+    "wof:lastmodified":1566658003,
     "wof:name":"Zetten",
     "wof:parent_id":404474651,
     "wof:placetype":"locality",

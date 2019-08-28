@@ -19,8 +19,10 @@
     "geom:latitude":52.959075,
     "geom:longitude":5.939921,
     "iso:country":"NL",
+    "lbl:bbox":"5.934921,52.954075,5.944921,52.964075",
     "lbl:latitude":52.959075,
     "lbl:longitude":5.939921,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.954296,
     "mps:longitude":5.967389,
     "mz:hierarchy_label":0,
@@ -46,7 +48,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         404473771,
@@ -59,7 +61,6 @@
     "wof:concordances":{
         "gn:id":2754236,
         "gp:id":20064022,
-        "qs:id":1123051,
         "qs_pg:id":1123051,
         "tgn:id":7266598
     },
@@ -80,7 +81,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561768052,
+    "wof:lastmodified":1566657372,
     "wof:name":"Het Meer",
     "wof:parent_id":101837957,
     "wof:placetype":"neighbourhood",

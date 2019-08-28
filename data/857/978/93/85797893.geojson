@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.515703,
     "lbl:longitude":6.415805,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.52323,
     "mps:longitude":6.419921,
     "mz:hierarchy_label":0,
@@ -38,9 +39,6 @@
         "Laarakkers"
     ],
     "name:nld_x_preferred":[
-        "Laarakkers"
-    ],
-    "name:unk_x_variant":[
         "Laarakkers"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -74,20 +72,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473847,
         85633337,
         101807231,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2752077,
         "gp:id":731062,
-        "qs:id":285861,
         "qs_pg:id":285861
     },
     "wof:country":"NL",
@@ -107,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596044,
+    "wof:lastmodified":1566657330,
     "wof:name":"Laarakkers",
     "wof:parent_id":101807231,
     "wof:placetype":"neighbourhood",

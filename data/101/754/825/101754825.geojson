@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.456601,
     "lbl:longitude":4.801239,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.461794,
     "mps:longitude":4.799772,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Koog aan de Zaan"
     ],
@@ -38,7 +41,7 @@
     "name:nld_x_preferred":[
         "Koog aan de Zaan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koog"
     ],
     "name:vol_x_preferred":[
@@ -67,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.466667,
     "wd:longitude":4.8,
     "wd:wordcount":225,
@@ -82,7 +85,6 @@
     "wof:concordances":{
         "gn:id":2752476,
         "gp:id":730873,
-        "qs:id":1074765,
         "qs_pg:id":1074765,
         "wd:id":"Q2260299",
         "wk:page":"Koog aan de Zaan"
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101754825,
-    "wof:lastmodified":1563350288,
+    "wof:lastmodified":1566657853,
     "wof:name":"Koog aan de Zaan",
     "wof:parent_id":404474143,
     "wof:placetype":"locality",

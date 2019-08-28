@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.069376,
     "lbl:longitude":7.114028,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.069376,
     "mps:longitude":7.114028,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473705,
         85633337,
         101807525,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158792393,
-    "wof:lastmodified":1559596791,
+    "wof:lastmodified":1566659769,
     "wof:name":"Vriescheloo-Zuid",
     "wof:parent_id":101807525,
     "wof:placetype":"neighbourhood",

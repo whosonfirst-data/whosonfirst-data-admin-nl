@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.96816,
     "lbl:longitude":6.896183,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.96816,
     "mps:longitude":6.896183,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474595,
         85633337,
         1158792101,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158791363,
-    "wof:lastmodified":1559595489,
+    "wof:lastmodified":1566659620,
     "wof:name":"Verspreide huizen Drouwenermond",
     "wof:parent_id":1158792101,
     "wof:placetype":"neighbourhood",

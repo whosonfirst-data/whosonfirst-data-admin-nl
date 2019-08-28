@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.38694,
     "lbl:longitude":5.670528,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.38694,
     "mps:longitude":5.670528,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474425,
         85633337,
         101809767,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158798981,
-    "wof:lastmodified":1559597073,
+    "wof:lastmodified":1566659761,
     "wof:name":"Verspreide huizen Hoeven",
     "wof:parent_id":101809767,
     "wof:placetype":"neighbourhood",

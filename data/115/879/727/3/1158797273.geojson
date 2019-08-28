@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.447701,
     "lbl:longitude":5.310261,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.447701,
     "mps:longitude":5.310261,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474371,
         85633337,
         101809759,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158797273,
-    "wof:lastmodified":1559597000,
+    "wof:lastmodified":1566659869,
     "wof:name":"Verspreide huizen Wintelre",
     "wof:parent_id":101809759,
     "wof:placetype":"neighbourhood",

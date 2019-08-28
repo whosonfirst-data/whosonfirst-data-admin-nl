@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.863112,
     "lbl:longitude":4.24341,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.863112,
     "mps:longitude":4.24341,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158824747,
         85633337,
         101754643,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158828979,
-    "wof:lastmodified":1559597121,
+    "wof:lastmodified":1566660396,
     "wof:name":"Kern Heenvliet",
     "wof:parent_id":101754643,
     "wof:placetype":"neighbourhood",

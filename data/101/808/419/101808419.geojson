@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.570292,
     "lbl:longitude":3.549281,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.570068,
     "mps:longitude":3.556142,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0441\u0442\u043a\u0430\u043f\u0435\u043b\u0435"
     ],
@@ -85,7 +88,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":236,
     "wof:belongsto":[
         102191581,
@@ -98,7 +101,6 @@
         "fct:id":"01f19f3e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2749362,
         "gp:id":732404,
-        "qs:id":218349,
         "qs_pg:id":218349,
         "tgn:id":7268178,
         "wd:id":"Q1112099",
@@ -119,7 +121,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350898,
+    "wof:lastmodified":1566658164,
     "wof:name":"Oostkapelle",
     "wof:parent_id":404474333,
     "wof:placetype":"locality",

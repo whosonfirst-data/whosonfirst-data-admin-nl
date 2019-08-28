@@ -26,6 +26,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.347794,
     "lbl:longitude":4.905192,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.347705,
     "mps:longitude":4.904889,
     "mz:hierarchy_label":1,
@@ -49,15 +50,15 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158844397,
         85633337,
         101751893,
         136253051,
-        1158844283
+        1158844283,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108945491,
-    "wof:lastmodified":1559595996,
+    "wof:lastmodified":1566657744,
     "wof:name":"IJselbuurt",
     "wof:parent_id":1158844397,
     "wof:placetype":"neighbourhood",

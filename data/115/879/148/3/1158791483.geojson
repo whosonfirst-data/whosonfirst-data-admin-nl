@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.786748,
     "lbl:longitude":6.314867,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.786748,
     "mps:longitude":6.314867,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474601,
         85633337,
         1158792133,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158791483,
-    "wof:lastmodified":1559595504,
+    "wof:lastmodified":1566659830,
     "wof:name":"Verspreide huizen Ansen",
     "wof:parent_id":1158792133,
     "wof:placetype":"neighbourhood",

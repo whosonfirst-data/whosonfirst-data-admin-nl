@@ -18,11 +18,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.500821,
     "lbl:longitude":4.972014,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":52.500655,
     "mps:longitude":4.970349,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0645\u064a\u0631\u0627\u0646\u062f"
     ],
@@ -213,7 +216,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wd:wordcount":1156,
     "wof:belongsto":[
@@ -227,7 +230,6 @@
         "fct:id":"01f1be1a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2748413,
         "gp:id":732819,
-        "qs:id":1037720,
         "qs_pg:id":1037720,
         "tgn:id":7007053,
         "wd:id":"Q9954",
@@ -248,7 +250,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350371,
+    "wof:lastmodified":1566657892,
     "wof:name":"Purmerend",
     "wof:parent_id":85687053,
     "wof:placetype":"locality",

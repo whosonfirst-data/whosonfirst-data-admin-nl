@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.284211,
     "lbl:longitude":5.745545,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.303697,
     "mps:longitude":5.728347,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Nederweert"
     ],
@@ -159,7 +162,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.2828,
     "wd:longitude":5.7472,
@@ -176,7 +179,6 @@
         "fct:id":"01f16c30-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2750467,
         "gp:id":731869,
-        "qs:id":220722,
         "qs_pg:id":220722,
         "tgn:id":1047970,
         "wd:id":"Q9789"
@@ -197,7 +199,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351036,
+    "wof:lastmodified":1566658233,
     "wof:name":"Nederweert",
     "wof:parent_id":404474507,
     "wof:placetype":"locality",

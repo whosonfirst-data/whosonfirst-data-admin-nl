@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":50.853992,
     "lbl:longitude":5.871249,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.851678,
     "mps:longitude":5.871943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Schin op Geul"
     ],
@@ -54,9 +57,6 @@
     "name:spa_x_preferred":[
         "Schin op Geul"
     ],
-    "name:unk_x_variant":[
-        "Schin op Geule"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Schin op Geul"
     ],
@@ -82,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.85,
     "wd:longitude":5.883333,
@@ -99,7 +99,6 @@
         "fct:id":"01f1df44-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2747551,
         "gp:id":733280,
-        "qs:id":911002,
         "qs_pg:id":911002,
         "tgn:id":7271361,
         "wd:id":"Q73154",
@@ -121,7 +120,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350578,
+    "wof:lastmodified":1566657988,
     "wof:name":"Schin op Geul",
     "wof:parent_id":404474537,
     "wof:placetype":"locality",

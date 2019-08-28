@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.606437,
     "lbl:longitude":6.051804,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.607497,
     "mps:longitude":6.070633,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u062e\u0646"
     ],
@@ -77,9 +80,6 @@
     "name:swe_x_preferred":[
         "Bergen"
     ],
-    "name:unk_x_variant":[
-        "Bergen"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Nieuw Bergen"
     ],
@@ -103,7 +103,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.6031,
     "wd:longitude":6.0553,
     "wd:wordcount":83,
@@ -118,11 +118,13 @@
     "wof:concordances":{
         "gn:id":2759155,
         "gp:id":727609,
-        "qs:id":1164569,
-        "qs_pg:id":1250150,
+        "qs_pg:id":1164569,
         "tgn:id":7270295,
         "wd:id":"Q2549737",
         "wk:page":"Nieuw-Bergen"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1250150
     },
     "wof:country":"NL",
     "wof:geomhash":"53fd55a085ef9aa20fc09165e037d45a",
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":101808155,
-    "wof:lastmodified":1563350889,
+    "wof:lastmodified":1566658158,
     "wof:name":"Nieuw-Bergen",
     "wof:parent_id":404474475,
     "wof:placetype":"locality",

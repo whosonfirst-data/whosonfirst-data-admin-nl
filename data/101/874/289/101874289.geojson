@@ -10,13 +10,17 @@
     "geom:latitude":52.980488,
     "geom:longitude":6.217339,
     "iso:country":"NL",
+    "lbl:bbox":"6.197339,52.960488,6.237339,53.000488",
     "lbl:latitude":52.980488,
     "lbl:longitude":6.217339,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.980488,
     "mps:longitude":6.217339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Makkinga"
     ],
@@ -73,7 +77,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.9794,
     "wd:longitude":6.2172,
     "wd:wordcount":158,
@@ -88,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2751257,
         "gp:id":731516,
-        "qs:id":187694,
         "qs_pg:id":187694,
         "tgn:id":7265759,
         "wd:id":"Q2070434",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101874289,
-    "wof:lastmodified":1563350316,
+    "wof:lastmodified":1566657866,
     "wof:name":"Makkinga",
     "wof:parent_id":404473785,
     "wof:placetype":"locality",

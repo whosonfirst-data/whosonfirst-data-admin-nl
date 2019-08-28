@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.443447,
     "lbl:longitude":5.342373,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.446438,
     "mps:longitude":5.32903,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Wintelre"
     ],
@@ -65,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":52,
     "wof:belongsto":[
         85687035,
@@ -78,7 +81,6 @@
     "wof:concordances":{
         "gn:id":2744333,
         "gp:id":734817,
-        "qs:id":179035,
         "qs_pg:id":179035,
         "tgn:id":7273625,
         "wd:id":"Q550320",
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":101809759,
-    "wof:lastmodified":1563350635,
+    "wof:lastmodified":1566658019,
     "wof:name":"Wintelre",
     "wof:parent_id":404474371,
     "wof:placetype":"locality",

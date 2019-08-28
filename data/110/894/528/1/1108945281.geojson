@@ -24,6 +24,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.37263,
     "lbl:longitude":4.896576,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.372826,
     "mps:longitude":4.89694,
     "mz:hierarchy_label":1,
@@ -55,14 +56,14 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687053,
         102191581,
         85633337,
         101751893,
         136253051,
-        1158844279
+        1158844279,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108945281,
-    "wof:lastmodified":1559595930,
+    "wof:lastmodified":1566657733,
     "wof:name":"Oudezijde",
     "wof:parent_id":1158844279,
     "wof:placetype":"neighbourhood",

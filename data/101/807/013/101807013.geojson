@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.051996,
     "lbl:longitude":5.235377,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.046275,
     "mps:longitude":5.221091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Odijk"
     ],
@@ -81,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.0503,
     "wd:longitude":5.2333,
     "wd:wordcount":137,
@@ -97,7 +100,6 @@
         "fct:id":"01f18d14-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2749736,
         "gp:id":732204,
-        "qs:id":1144134,
         "qs_pg:id":1144134,
         "tgn:id":7269260,
         "wd:id":"Q2124349",
@@ -119,7 +121,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350460,
+    "wof:lastmodified":1566657922,
     "wof:name":"Odijk",
     "wof:parent_id":404473981,
     "wof:placetype":"locality",

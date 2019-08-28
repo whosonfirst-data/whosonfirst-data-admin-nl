@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.293991,
     "lbl:longitude":5.876627,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.293991,
     "mps:longitude":5.876627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062f\u0627\u0631\u062f"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":111,
     "wof:belongsto":[
@@ -85,7 +88,6 @@
         "fct:id":"01f0552a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2758895,
         "gp:id":727737,
-        "qs:id":910598,
         "qs_pg:id":910598,
         "tgn:id":7256945,
         "wd:id":"Q2049915",
@@ -107,7 +109,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350980,
+    "wof:lastmodified":1566658206,
     "wof:name":"Birdaard",
     "wof:parent_id":404474635,
     "wof:placetype":"locality",

@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.408684,
     "lbl:longitude":6.905552,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.40734,
     "mps:longitude":6.897457,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Ootmarsum"
     ],
@@ -105,7 +108,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":213,
     "wof:belongsto":[
@@ -118,7 +121,6 @@
     "wof:concordances":{
         "gn:id":2749317,
         "gp:id":732420,
-        "qs:id":901833,
         "qs_pg:id":901833,
         "tgn:id":1048021,
         "wd:id":"Q1615365",
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101807233,
-    "wof:lastmodified":1563350486,
+    "wof:lastmodified":1566657937,
     "wof:name":"Ootmarsum",
     "wof:parent_id":404474665,
     "wof:placetype":"locality",

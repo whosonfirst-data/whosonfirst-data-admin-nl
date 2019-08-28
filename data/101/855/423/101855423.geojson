@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.70734,
     "lbl:longitude":4.85137,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.700179,
     "mps:longitude":4.868248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "De Noord"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":128,
     "wof:belongsto":[
         85687053,
@@ -63,7 +66,7 @@
         "fct:id":"01ece7aa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2757189,
         "gp:id":728480,
-        "qs:id":4,
+        "qs_pg:id":4,
         "tgn:id":7261307,
         "wd:id":"Q1165829"
     },
@@ -83,7 +86,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351092,
+    "wof:lastmodified":1566658255,
     "wof:name":"De Noord",
     "wof:parent_id":404474075,
     "wof:placetype":"locality",

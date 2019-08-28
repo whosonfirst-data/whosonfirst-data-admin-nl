@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.689091,
     "lbl:longitude":4.742516,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.685747,
     "mps:longitude":4.743155,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Hooge en Lage Zwaluwe"
     ],
@@ -57,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":87,
     "wof:belongsto":[
         85687035,
@@ -70,7 +73,6 @@
     "wof:concordances":{
         "gn:id":2753700,
         "gp:id":730300,
-        "qs:id":1158281,
         "qs_pg:id":1158281,
         "tgn:id":7029625,
         "wd:id":"Q2144482"
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":101808255,
-    "wof:lastmodified":1563350936,
+    "wof:lastmodified":1566658182,
     "wof:name":"Hooge Zwaluwe",
     "wof:parent_id":404474631,
     "wof:placetype":"locality",

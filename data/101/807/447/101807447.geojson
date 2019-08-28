@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.150696,
     "lbl:longitude":5.805133,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.150696,
     "mps:longitude":5.805133,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Wirdum"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":53,
     "wof:belongsto":[
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":2744327,
         "gp:id":734827,
-        "qs:id":1225349,
         "qs_pg:id":1225349,
         "tgn:id":7273619,
         "wd:id":"Q2005492",
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101807447,
-    "wof:lastmodified":1563350449,
+    "wof:lastmodified":1566657916,
     "wof:name":"Wirdum",
     "wof:parent_id":404473775,
     "wof:placetype":"locality",

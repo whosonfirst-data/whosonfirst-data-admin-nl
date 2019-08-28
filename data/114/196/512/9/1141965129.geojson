@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.079349,
     "lbl:longitude":6.618626,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.079349,
     "mps:longitude":6.618626,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474671,
         85633337,
         1158783449,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141965129,
-    "wof:lastmodified":1559596395,
+    "wof:lastmodified":1566661342,
     "wof:name":"Verspreide huizen Hupsel-West",
     "wof:parent_id":1158783449,
     "wof:placetype":"neighbourhood",

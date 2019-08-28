@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":50.863831,
     "lbl:longitude":6.068013,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.872603,
     "mps:longitude":6.049814,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Kerkrade"
     ],
@@ -209,7 +212,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":780,
     "wof:belongsto":[
@@ -224,7 +227,6 @@
         "fct:id":"01f1174e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2752923,
         "gp:id":730688,
-        "qs:id":239835,
         "qs_pg:id":239835,
         "tgn:id":7007079,
         "wd:id":"Q9796"
@@ -245,7 +247,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351073,
+    "wof:lastmodified":1566658247,
     "wof:name":"Kerkrade",
     "wof:parent_id":404474489,
     "wof:placetype":"locality",

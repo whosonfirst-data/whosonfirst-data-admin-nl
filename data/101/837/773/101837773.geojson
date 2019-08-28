@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.469089,
     "lbl:longitude":6.017438,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.471663,
     "mps:longitude":6.025608,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hattemerbroek"
     ],
@@ -42,7 +45,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687043,
         102191581,
@@ -54,7 +57,6 @@
     "wof:concordances":{
         "gn:id":2754764,
         "gp:id":729766,
-        "qs:id":1350995,
         "qs_pg:id":1350995,
         "tgn:id":7266171
     },
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":101837773,
-    "wof:lastmodified":1559594600,
+    "wof:lastmodified":1566658087,
     "wof:name":"Hattemerbroek",
     "wof:parent_id":404473927,
     "wof:placetype":"locality",

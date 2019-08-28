@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.099582,
     "lbl:longitude":6.644787,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.101351,
     "mps:longitude":6.644562,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Eibergen"
     ],
@@ -79,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.1,
     "wd:longitude":6.65,
@@ -96,7 +99,6 @@
         "fct:id":"01f0a0b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2756295,
         "gp:id":729006,
-        "qs:id":1350762,
         "qs_pg:id":1350762,
         "tgn:id":1047754,
         "wd:id":"Q1025665",
@@ -118,7 +120,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350517,
+    "wof:lastmodified":1566657954,
     "wof:name":"Eibergen",
     "wof:parent_id":404474671,
     "wof:placetype":"locality",

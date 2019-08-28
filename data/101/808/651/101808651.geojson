@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.871946,
     "lbl:longitude":5.075571,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.868231,
     "mps:longitude":5.070768,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Heukelum"
     ],
@@ -50,9 +53,6 @@
     "name:por_x_preferred":[
         "Heukelum"
     ],
-    "name:unk_x_variant":[
-        "Heukelom"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Heukelum"
     ],
@@ -75,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8731,
     "wd:longitude":5.0767,
     "wd:wordcount":155,
@@ -91,7 +91,6 @@
         "fct:id":"01f0efbc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2754150,
         "gp:id":730088,
-        "qs:id":271100,
         "qs_pg:id":271100,
         "tgn:id":7266642,
         "wd:id":"Q2443843",
@@ -113,7 +112,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350831,
+    "wof:lastmodified":1566658119,
     "wof:name":"Heukelum",
     "wof:parent_id":404474339,
     "wof:placetype":"locality",

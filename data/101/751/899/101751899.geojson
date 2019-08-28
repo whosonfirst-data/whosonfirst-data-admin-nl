@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.307842,
     "lbl:longitude":4.669865,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":52.304933,
     "mps:longitude":4.685671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Hoofddorp"
     ],
@@ -117,9 +120,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0444\u0434\u0434\u043e\u0440\u043f"
     ],
-    "name:unk_x_variant":[
-        "Haarlemmermeer"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Hoofddorp"
     ],
@@ -145,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.3,
     "wd:longitude":4.666667,
@@ -161,7 +161,6 @@
         "fct:id":"01f0fa98-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2753801,
         "gp:id":730269,
-        "qs:id":239837,
         "qs_pg:id":239837,
         "tgn:id":7263959,
         "wd:id":"Q995911",
@@ -182,7 +181,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350427,
+    "wof:lastmodified":1566657905,
     "wof:name":"Hoofddorp",
     "wof:parent_id":404474065,
     "wof:placetype":"locality",

@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.749638,
     "lbl:longitude":5.221032,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.755516,
     "mps:longitude":5.220987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Ammerzoden"
     ],
@@ -70,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.75,
     "wd:longitude":5.22,
     "wd:wordcount":302,
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":2759813,
         "gp:id":727220,
-        "qs:id":314693,
         "qs_pg:id":314693,
         "tgn:id":4000658,
         "wd:id":"Q2073542",
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101808579,
-    "wof:lastmodified":1563350954,
+    "wof:lastmodified":1566658195,
     "wof:name":"Ammerzoden",
     "wof:parent_id":404473917,
     "wof:placetype":"locality",

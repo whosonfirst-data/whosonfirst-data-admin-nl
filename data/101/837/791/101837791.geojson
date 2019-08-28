@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.930476,
     "lbl:longitude":6.348595,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.935421,
     "mps:longitude":6.357604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Gaanderen"
     ],
@@ -78,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.9281,
     "wd:longitude":6.3447,
     "wd:wordcount":57,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2755794,
         "gp:id":729282,
-        "qs:id":178216,
         "qs_pg:id":178216,
         "tgn:id":1047778,
         "wd:id":"Q171272",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101837791,
-    "wof:lastmodified":1563350687,
+    "wof:lastmodified":1566658048,
     "wof:name":"Gaanderen",
     "wof:parent_id":404473885,
     "wof:placetype":"locality",

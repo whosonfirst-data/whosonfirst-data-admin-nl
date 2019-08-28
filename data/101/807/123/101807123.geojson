@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.377409,
     "lbl:longitude":5.785582,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.374666,
     "mps:longitude":5.782418,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Nunspeet"
     ],
@@ -136,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":266,
     "wof:belongsto":[
@@ -151,7 +154,6 @@
         "fct:id":"01f18be8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2749756,
         "gp:id":732195,
-        "qs:id":1351932,
         "qs_pg:id":1351932,
         "tgn:id":1047998,
         "wd:id":"Q931997"
@@ -172,7 +174,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350554,
+    "wof:lastmodified":1566657975,
     "wof:name":"Nunspeet",
     "wof:parent_id":404473963,
     "wof:placetype":"locality",

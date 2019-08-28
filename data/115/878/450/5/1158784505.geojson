@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.336772,
     "lbl:longitude":3.824531,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.336772,
     "mps:longitude":3.824531,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474329,
         85633337,
         101809831,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158784505,
-    "wof:lastmodified":1559595488,
+    "wof:lastmodified":1566660809,
     "wof:name":"Binnenstad-Java",
     "wof:parent_id":101809831,
     "wof:placetype":"neighbourhood",

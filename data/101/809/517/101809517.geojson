@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":50.967805,
     "lbl:longitude":5.907772,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.965858,
     "mps:longitude":5.904222,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Doenrade"
     ],
@@ -51,7 +54,7 @@
     "name:nld_x_preferred":[
         "Doenrade"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Groot Doenrade"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -76,7 +79,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.948889,
     "wd:longitude":5.908889,
@@ -92,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2756774,
         "gp:id":728747,
-        "qs:id":246803,
         "qs_pg:id":246803,
         "tgn:id":7260202,
         "wd:id":"Q1906425",
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101809517,
-    "wof:lastmodified":1563350610,
+    "wof:lastmodified":1566658005,
     "wof:name":"Doenrade",
     "wof:parent_id":404474513,
     "wof:placetype":"locality",

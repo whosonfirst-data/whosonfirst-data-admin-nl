@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.599811,
     "lbl:longitude":6.393128,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.61892,
     "mps:longitude":6.342919,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Balkbrug"
     ],
@@ -86,7 +89,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.6006,
     "wd:longitude":6.3911,
     "wd:wordcount":47,
@@ -101,7 +104,6 @@
     "wof:concordances":{
         "gn:id":2759470,
         "gp:id":727460,
-        "qs:id":1074702,
         "qs_pg:id":1074702,
         "tgn:id":1047633,
         "wd:id":"Q2566828",
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101807135,
-    "wof:lastmodified":1563350436,
+    "wof:lastmodified":1566657909,
     "wof:name":"Balkbrug",
     "wof:parent_id":404473831,
     "wof:placetype":"locality",

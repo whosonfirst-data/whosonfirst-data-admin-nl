@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.130986,
     "lbl:longitude":5.921121,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.130986,
     "mps:longitude":5.921121,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473867,
         85633337,
         101807079,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962079,
-    "wof:lastmodified":1559595608,
+    "wof:lastmodified":1566661279,
     "wof:name":"Bosgebied Hoenderloo",
     "wof:parent_id":101807079,
     "wof:placetype":"neighbourhood",

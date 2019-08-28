@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.142182,
     "lbl:longitude":6.201494,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.128417,
     "mps:longitude":6.207177,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Zutphen"
     ],
@@ -162,9 +165,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u044e\u0442\u0444\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Zutfen"
-    ],
     "name:urd_x_preferred":[
         "\u0632\u0648\u062a\u0641\u0646"
     ],
@@ -199,7 +199,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.1333,
     "wd:longitude":6.2,
@@ -216,7 +216,6 @@
         "fct:id":"01f26bc6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2743608,
         "gp:id":735160,
-        "qs:id":796495,
         "qs_pg:id":796495,
         "tgn:id":7006897,
         "wd:id":"Q109535",
@@ -238,7 +237,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350757,
+    "wof:lastmodified":1566658080,
     "wof:name":"Zutphen",
     "wof:parent_id":404473961,
     "wof:placetype":"locality",

@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.708278,
     "lbl:longitude":4.702544,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.70715,
     "mps:longitude":4.692716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Schoorl"
     ],
@@ -93,7 +96,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.7014,
     "wd:longitude":4.6944,
     "wd:wordcount":470,
@@ -109,7 +112,6 @@
         "fct:id":"01f1e246-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2747492,
         "gp:id":733310,
-        "qs:id":1168111,
         "qs_pg:id":1168111,
         "tgn:id":1048097,
         "wd:id":"Q1002717",
@@ -131,7 +133,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350431,
+    "wof:lastmodified":1566657907,
     "wof:name":"Schoorl",
     "wof:parent_id":404474041,
     "wof:placetype":"locality",

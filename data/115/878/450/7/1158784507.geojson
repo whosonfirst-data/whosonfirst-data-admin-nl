@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.448244,
     "lbl:longitude":4.075298,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.448244,
     "mps:longitude":4.075298,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474323,
         85633337,
         1158786515,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158784507,
-    "wof:lastmodified":1559595489,
+    "wof:lastmodified":1566660808,
     "wof:name":"Verspreide huizen Oostdijk",
     "wof:parent_id":1158786515,
     "wof:placetype":"neighbourhood",

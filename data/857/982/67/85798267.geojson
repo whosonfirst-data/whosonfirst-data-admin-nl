@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.097148,
     "lbl:longitude":5.896112,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.096849,
     "mps:longitude":5.891425,
     "mz:hierarchy_label":1,
@@ -101,10 +102,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435"
     ],
-    "name:unk_x_variant":[
-        "Pey",
-        "Pey"
-    ],
     "name:uzb_x_preferred":[
         "Pey"
     ],
@@ -153,7 +150,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":26,
     "wof:belongsto":[
         102191581,
@@ -184,7 +181,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561768041,
+    "wof:lastmodified":1566657338,
     "wof:name":"Peij",
     "wof:parent_id":101839305,
     "wof:placetype":"neighbourhood",

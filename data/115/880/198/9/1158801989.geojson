@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.33364,
     "lbl:longitude":6.630835,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.33364,
     "mps:longitude":6.630835,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         1158805813,
         404473819,
         85633337,
         101751863,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158801989,
-    "wof:lastmodified":1559595463,
+    "wof:lastmodified":1566658944,
     "wof:name":"Leemslagen-Zuid",
     "wof:parent_id":1158805813,
     "wof:placetype":"neighbourhood",

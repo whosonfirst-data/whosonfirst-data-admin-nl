@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.103233,
     "lbl:longitude":6.042191,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.103233,
     "mps:longitude":6.042191,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474581,
         85633337,
         101809605,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807449,
-    "wof:lastmodified":1559596820,
+    "wof:lastmodified":1566659108,
     "wof:name":"Varst",
     "wof:parent_id":101809605,
     "wof:placetype":"neighbourhood",

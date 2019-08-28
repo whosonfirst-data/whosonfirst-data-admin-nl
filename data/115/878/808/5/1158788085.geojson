@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.030278,
     "lbl:longitude":5.189485,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.030278,
     "mps:longitude":5.189485,
     "mz:hierarchy_label":0,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790321,
         404473987,
         85633337,
         101807003,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158788085,
-    "wof:lastmodified":1559595623,
+    "wof:lastmodified":1566660811,
     "wof:name":"Buitengebied Houten Oost",
     "wof:parent_id":1158790321,
     "wof:placetype":"neighbourhood",

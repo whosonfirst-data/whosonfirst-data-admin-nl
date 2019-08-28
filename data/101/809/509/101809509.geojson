@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.46179,
     "lbl:longitude":6.087482,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.462595,
     "mps:longitude":6.090296,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Melderslo"
     ],
@@ -74,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.4625,
     "wd:longitude":6.085556,
     "wd:wordcount":21,
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2750979,
         "gp:id":731623,
-        "qs:id":1080786,
         "qs_pg:id":1080786,
         "tgn:id":7269827,
         "wd:id":"Q1827878",
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101809509,
-    "wof:lastmodified":1563350632,
+    "wof:lastmodified":1566658017,
     "wof:name":"Melderslo",
     "wof:parent_id":404474541,
     "wof:placetype":"locality",

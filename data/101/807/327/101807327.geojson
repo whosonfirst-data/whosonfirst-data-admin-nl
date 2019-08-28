@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.56129,
     "lbl:longitude":4.732262,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.559568,
     "mps:longitude":4.732592,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Akersloot"
     ],
@@ -95,7 +98,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.5603,
     "wd:longitude":4.7283,
     "wd:wordcount":319,
@@ -111,7 +114,6 @@
         "fct:id":"01f0285c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2759931,
         "gp:id":727117,
-        "qs:id":1074689,
         "qs_pg:id":1074689,
         "tgn:id":1047602,
         "wd:id":"Q1055089"
@@ -132,7 +134,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350552,
+    "wof:lastmodified":1566657975,
     "wof:name":"Akersloot",
     "wof:parent_id":404474053,
     "wof:placetype":"locality",

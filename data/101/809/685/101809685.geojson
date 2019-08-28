@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.481267,
     "lbl:longitude":4.956253,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.488736,
     "mps:longitude":4.953694,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alphen"
     ],
@@ -49,7 +52,7 @@
     "name:nld_x_preferred":[
         "Alphen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alfen"
     ],
     "qs:a0":"Nederland",
@@ -71,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":193,
     "wof:belongsto":[
         85687035,
@@ -84,7 +87,6 @@
     "wof:concordances":{
         "gn:id":2759877,
         "gp:id":727184,
-        "qs:id":25193,
         "qs_pg:id":25193,
         "tgn:id":7258711,
         "wd:id":"Q2190389",
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101809685,
-    "wof:lastmodified":1563350641,
+    "wof:lastmodified":1566658022,
     "wof:name":"Alphen",
     "wof:parent_id":404474637,
     "wof:placetype":"locality",

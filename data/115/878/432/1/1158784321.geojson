@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.263193,
     "lbl:longitude":4.026971,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.263193,
     "mps:longitude":4.026971,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474307,
         85633337,
         101839439,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158784321,
-    "wof:lastmodified":1559596203,
+    "wof:lastmodified":1566660829,
     "wof:name":"Buitengebied Sint Jansteen",
     "wof:parent_id":101839439,
     "wof:placetype":"neighbourhood",

@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.646038,
     "lbl:longitude":4.598071,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.646296,
     "mps:longitude":4.598996,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Zevenbergen"
     ],
@@ -116,7 +119,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":271,
     "wof:belongsto":[
         85687035,
@@ -129,11 +132,13 @@
     "wof:concordances":{
         "gn:id":2743946,
         "gp:id":735033,
-        "qs:id":478948,
         "qs_pg:id":179941,
         "tgn:id":1048269,
         "wd:id":"Q76960",
         "wk:page":"Zevenbergen"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":478948
     },
     "wof:country":"NL",
     "wof:geomhash":"35e1dd1d7bc9f02230cd8ee2a06c64f0",
@@ -148,7 +153,7 @@
         }
     ],
     "wof:id":101809653,
-    "wof:lastmodified":1563350661,
+    "wof:lastmodified":1566658033,
     "wof:name":"Zevenbergen",
     "wof:parent_id":404474623,
     "wof:placetype":"locality",

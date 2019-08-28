@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.849189,
     "lbl:longitude":4.31532,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.849189,
     "mps:longitude":4.31532,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158824747,
         85633337,
         101751847,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158828843,
-    "wof:lastmodified":1559596734,
+    "wof:lastmodified":1566660254,
     "wof:name":"Vierambachten",
     "wof:parent_id":101751847,
     "wof:placetype":"neighbourhood",

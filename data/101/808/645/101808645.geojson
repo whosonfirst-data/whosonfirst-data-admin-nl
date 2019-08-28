@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.885215,
     "lbl:longitude":6.100549,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.88047,
     "mps:longitude":6.103069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Herwen"
     ],
@@ -72,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.883333,
     "wd:longitude":6.1,
     "wd:wordcount":71,
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":2754320,
         "gp:id":730023,
-        "qs:id":278778,
         "qs_pg:id":278778,
         "tgn:id":7266553,
         "wd:id":"Q2196103",
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":101808645,
-    "wof:lastmodified":1563350817,
+    "wof:lastmodified":1566658112,
     "wof:name":"Herwen",
     "wof:parent_id":404473863,
     "wof:placetype":"locality",

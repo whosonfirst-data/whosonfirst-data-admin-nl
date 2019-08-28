@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.377777,
     "lbl:longitude":6.45402,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.377777,
     "mps:longitude":6.45402,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404474575,
         85633337,
         101803729,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158793535,
-    "wof:lastmodified":1559596534,
+    "wof:lastmodified":1566659358,
     "wof:name":"Verspreide huizen Oude Land",
     "wof:parent_id":101803729,
     "wof:placetype":"neighbourhood",

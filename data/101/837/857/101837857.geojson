@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.614925,
     "lbl:longitude":6.185032,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.618897,
     "mps:longitude":6.153664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Rouveen"
     ],
@@ -75,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.6158,
     "wd:longitude":6.1808,
     "wd:wordcount":69,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":2747879,
         "gp:id":733124,
-        "qs:id":385557,
         "qs_pg:id":385557,
         "tgn:id":1048078,
         "wd:id":"Q2193137",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101837857,
-    "wof:lastmodified":1563350705,
+    "wof:lastmodified":1566658055,
     "wof:name":"Rouveen",
     "wof:parent_id":404473853,
     "wof:placetype":"locality",

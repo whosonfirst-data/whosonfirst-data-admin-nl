@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.394759,
     "lbl:longitude":5.825414,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.394759,
     "mps:longitude":5.825414,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474347,
         85633337,
         101809687,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158796753,
-    "wof:lastmodified":1559596492,
+    "wof:lastmodified":1566659402,
     "wof:name":"Verspreide huizen Leensel en Hutten",
     "wof:parent_id":101809687,
     "wof:placetype":"neighbourhood",

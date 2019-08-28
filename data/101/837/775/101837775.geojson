@@ -22,11 +22,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.986583,
     "lbl:longitude":5.754102,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.980799,
     "mps:longitude":5.757364,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Heelsum"
     ],
@@ -82,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.9822,
     "wd:longitude":5.7525,
@@ -98,7 +101,6 @@
     "wof:concordances":{
         "gn:id":2754703,
         "gp:id":729796,
-        "qs:id":318243,
         "qs_pg:id":318243,
         "tgn:id":7266023,
         "wd:id":"Q2059913",
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101837775,
-    "wof:lastmodified":1563350769,
+    "wof:lastmodified":1566658085,
     "wof:name":"Heelsum",
     "wof:parent_id":404473931,
     "wof:placetype":"locality",

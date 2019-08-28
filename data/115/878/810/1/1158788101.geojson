@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.995031,
     "lbl:longitude":5.18622,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.995031,
     "mps:longitude":5.18622,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404473987,
         85633337,
         101808457,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158788101,
-    "wof:lastmodified":1559596286,
+    "wof:lastmodified":1566660529,
     "wof:name":"Dorp Schalkwijk West",
     "wof:parent_id":101808457,
     "wof:placetype":"neighbourhood",

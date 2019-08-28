@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.460709,
     "lbl:longitude":6.159527,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.452876,
     "mps:longitude":6.139244,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Lottum"
     ],
@@ -74,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687033,
         102191581,
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":2751422,
         "gp:id":731413,
-        "qs:id":909578,
         "qs_pg:id":909578,
         "tgn:id":7265237,
         "wd:id":"Q1991570"
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101808143,
-    "wof:lastmodified":1563350863,
+    "wof:lastmodified":1566658141,
     "wof:name":"Lottum",
     "wof:parent_id":404474541,
     "wof:placetype":"locality",

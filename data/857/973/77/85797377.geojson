@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.497691,
     "lbl:longitude":6.146967,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.493275,
     "mps:longitude":6.130238,
     "mz:hierarchy_label":0,
@@ -41,9 +42,6 @@
         "Bedrijventerrein Marslanden-Zuid"
     ],
     "name:nld_x_variant":[
-        "De Marslanden"
-    ],
-    "name:unk_x_variant":[
         "De Marslanden"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -77,21 +75,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687045,
         102191581,
         1158805803,
         404473861,
         85633337,
         101751861,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2757305,
         "gp:id":728463,
-        "qs:id":285754,
         "qs_pg:id":285754
     },
     "wof:country":"NL",
@@ -112,7 +109,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596014,
+    "wof:lastmodified":1566657348,
     "wof:name":"Bedrijventerrein Marslanden-Zuid",
     "wof:parent_id":1158805803,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.916776,
     "lbl:longitude":4.45957,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.912039,
     "mps:longitude":4.460989,
     "mz:hierarchy_label":1,
@@ -37,9 +38,6 @@
         "Middelland"
     ],
     "name:nld_x_preferred":[
-        "Middelland"
-    ],
-    "name:unk_x_variant":[
         "Middelland"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -72,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":26,
     "wof:belongsto":[
         102191581,
@@ -104,7 +102,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563349662,
+    "wof:lastmodified":1566657376,
     "wof:name":"Middelland",
     "wof:parent_id":1108805753,
     "wof:placetype":"neighbourhood",

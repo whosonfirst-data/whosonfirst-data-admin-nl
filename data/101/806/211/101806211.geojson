@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.117834,
     "lbl:longitude":6.253685,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.125682,
     "mps:longitude":6.268763,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "De Wilp"
     ],
@@ -53,7 +56,7 @@
     "name:stq_x_preferred":[
         "De W\u00fclp"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wilp"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -78,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.1167,
     "wd:longitude":6.23333,
     "wd:wordcount":87,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2756932,
         "gp:id":728570,
-        "qs:id":314729,
         "qs_pg:id":314729,
         "tgn:id":7262179,
         "wd:id":"Q2545984",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101806211,
-    "wof:lastmodified":1563350971,
+    "wof:lastmodified":1566658202,
     "wof:name":"De Wilp",
     "wof:parent_id":404473727,
     "wof:placetype":"locality",

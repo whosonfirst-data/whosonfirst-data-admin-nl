@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.481791,
     "lbl:longitude":5.51788,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.481791,
     "mps:longitude":5.51788,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474405,
         85633337,
         1158801613,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158798365,
-    "wof:lastmodified":1559595769,
+    "wof:lastmodified":1566659744,
     "wof:name":"Verspreide huizen Nederwetten",
     "wof:parent_id":1158801613,
     "wof:placetype":"neighbourhood",

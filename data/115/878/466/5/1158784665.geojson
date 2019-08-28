@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.55359,
     "lbl:longitude":3.483228,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.55359,
     "mps:longitude":3.483228,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474333,
         85633337,
         101808367,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158784665,
-    "wof:lastmodified":1559595512,
+    "wof:lastmodified":1566660827,
     "wof:name":"Verspreide huizen Domburg",
     "wof:parent_id":101808367,
     "wof:placetype":"neighbourhood",

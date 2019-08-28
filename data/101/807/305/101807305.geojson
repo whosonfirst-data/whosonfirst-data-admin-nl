@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.90527,
     "lbl:longitude":6.39462,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.91784,
     "mps:longitude":6.404837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0425\u043e\u0433\u0435\u0440\u0441\u043c\u0438\u043b\u0434\u0435"
     ],
@@ -80,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":124,
     "wof:belongsto":[
         85687051,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2753724,
         "gp:id":730323,
-        "qs:id":245633,
         "qs_pg:id":245633,
         "tgn:id":7264225,
         "wd:id":"Q3140321",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101807305,
-    "wof:lastmodified":1563350516,
+    "wof:lastmodified":1566657954,
     "wof:name":"Hoogersmilde",
     "wof:parent_id":404474649,
     "wof:placetype":"locality",

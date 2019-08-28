@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.16985,
     "lbl:longitude":4.63475,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.174004,
     "mps:longitude":4.648521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Woubrugge"
     ],
@@ -75,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.1706,
     "wd:longitude":4.6347,
     "wd:wordcount":121,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":2744167,
         "gp:id":734904,
-        "qs:id":238301,
         "qs_pg:id":238301,
         "tgn:id":7274639,
         "wd:id":"Q1025067"
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101808465,
-    "wof:lastmodified":1563350846,
+    "wof:lastmodified":1566658129,
     "wof:name":"Woubrugge",
     "wof:parent_id":404474677,
     "wof:placetype":"locality",

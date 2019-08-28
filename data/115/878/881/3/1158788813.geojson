@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.089565,
     "lbl:longitude":4.982743,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.089565,
     "mps:longitude":4.982743,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404474285,
         85633337,
         1158790387,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158788813,
-    "wof:lastmodified":1559595661,
+    "wof:lastmodified":1566660549,
     "wof:name":"Buitengebied Harmelen",
     "wof:parent_id":1158790387,
     "wof:placetype":"neighbourhood",

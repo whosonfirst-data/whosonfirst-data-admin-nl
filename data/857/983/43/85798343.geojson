@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.557863,
     "lbl:longitude":5.094787,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.58245,
     "mps:longitude":5.099368,
     "mz:hierarchy_label":0,
@@ -39,10 +40,6 @@
         "Quirynstok"
     ],
     "name:nld_x_preferred":[
-        "Quirijnstok"
-    ],
-    "name:unk_x_variant":[
-        "Quirijnstok",
         "Quirijnstok"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -75,15 +72,15 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801791,
         404474435,
         85633337,
         101751817,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595919,
+    "wof:lastmodified":1566657318,
     "wof:name":"Quirijnstok",
     "wof:parent_id":1158801791,
     "wof:placetype":"neighbourhood",

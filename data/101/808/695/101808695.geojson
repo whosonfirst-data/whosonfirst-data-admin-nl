@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.040721,
     "lbl:longitude":6.621055,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.034257,
     "mps:longitude":6.642305,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Groenlo"
     ],
@@ -125,9 +128,6 @@
     "name:swe_x_preferred":[
         "Groenlo"
     ],
-    "name:unk_x_variant":[
-        "Grenlo"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Groenlo"
     ],
@@ -153,7 +153,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":548,
     "wof:belongsto":[
         85687043,
@@ -167,7 +167,6 @@
         "fct:id":"01f0cb4a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2755281,
         "gp:id":729536,
-        "qs:id":1350909,
         "qs_pg:id":1350909,
         "tgn:id":1047803,
         "wd:id":"Q72991",
@@ -189,7 +188,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350845,
+    "wof:lastmodified":1566658129,
     "wof:name":"Groenlo",
     "wof:parent_id":404474549,
     "wof:placetype":"locality",

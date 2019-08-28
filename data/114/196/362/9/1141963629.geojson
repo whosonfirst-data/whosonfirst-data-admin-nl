@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.123979,
     "lbl:longitude":6.472474,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.123979,
     "mps:longitude":6.472474,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473915,
         85633337,
         1158783721,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963629,
-    "wof:lastmodified":1559595701,
+    "wof:lastmodified":1566661010,
     "wof:name":"Verspreide huizen Boschheurne en Zwiepsche Broek",
     "wof:parent_id":1158783721,
     "wof:placetype":"neighbourhood",

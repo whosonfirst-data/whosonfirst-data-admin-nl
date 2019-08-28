@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.889451,
     "lbl:longitude":6.263566,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.889451,
     "mps:longitude":6.263566,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474689,
         85633337,
         1158783473,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141965375,
-    "wof:lastmodified":1559596370,
+    "wof:lastmodified":1566661177,
     "wof:name":"Verspreide huizen Mengelenberg en Lengel",
     "wof:parent_id":1158783473,
     "wof:placetype":"neighbourhood",

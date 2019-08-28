@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.882438,
     "lbl:longitude":5.111218,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.880383,
     "mps:longitude":5.10314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Asperen"
     ],
@@ -105,7 +108,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8814,
     "wd:longitude":5.1067,
     "wd:wordcount":285,
@@ -121,7 +124,6 @@
         "fct:id":"01f037b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2759643,
         "gp:id":727373,
-        "qs:id":1350385,
         "qs_pg:id":1350385,
         "tgn:id":7024729,
         "wd:id":"Q2162332",
@@ -143,7 +145,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350871,
+    "wof:lastmodified":1566658147,
     "wof:name":"Asperen",
     "wof:parent_id":404474339,
     "wof:placetype":"locality",

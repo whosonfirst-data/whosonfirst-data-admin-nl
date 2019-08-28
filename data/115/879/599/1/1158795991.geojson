@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.25785,
     "lbl:longitude":6.824256,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.25785,
     "mps:longitude":6.824256,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473735,
         85633337,
         1158796609,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158795991,
-    "wof:lastmodified":1559596538,
+    "wof:lastmodified":1566659622,
     "wof:name":"Verspreide huizen Hellum",
     "wof:parent_id":1158796609,
     "wof:placetype":"neighbourhood",

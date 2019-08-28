@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.711551,
     "lbl:longitude":6.859623,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.719014,
     "mps:longitude":6.866208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nieuw-Amsterdam"
     ],
@@ -74,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":400,
     "wof:belongsto":[
         85687051,
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":2750375,
         "gp:id":731925,
-        "qs:id":1080144,
         "qs_pg:id":1080144,
         "tgn:id":1047973,
         "wd:id":"Q743632",
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":101837881,
-    "wof:lastmodified":1563350702,
+    "wof:lastmodified":1566658054,
     "wof:name":"Nieuw-Amsterdam",
     "wof:parent_id":404473809,
     "wof:placetype":"locality",

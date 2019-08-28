@@ -22,11 +22,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.003725,
     "lbl:longitude":5.847884,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.013564,
     "mps:longitude":5.839153,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Limbricht"
     ],
@@ -85,7 +88,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.0117,
     "wd:longitude":5.8369,
@@ -101,7 +104,6 @@
     "wof:concordances":{
         "gn:id":2751599,
         "gp:id":731328,
-        "qs:id":1074766,
         "qs_pg:id":1074766,
         "tgn:id":4006393,
         "wd:id":"Q1834730",
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101839715,
-    "wof:lastmodified":1563351041,
+    "wof:lastmodified":1566658235,
     "wof:name":"Limbricht",
     "wof:parent_id":404474675,
     "wof:placetype":"locality",

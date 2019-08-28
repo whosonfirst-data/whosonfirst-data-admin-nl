@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.450816,
     "lbl:longitude":5.861284,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.450816,
     "mps:longitude":5.861284,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473895,
         85633337,
         101837785,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963167,
-    "wof:lastmodified":1559596916,
+    "wof:lastmodified":1566661323,
     "wof:name":"Achterweg",
     "wof:parent_id":101837785,
     "wof:placetype":"neighbourhood",

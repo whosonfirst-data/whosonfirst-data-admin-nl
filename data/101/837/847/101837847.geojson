@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.555488,
     "lbl:longitude":5.906569,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.579716,
     "mps:longitude":5.878613,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Kampen"
     ],
@@ -201,7 +204,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.555,
     "wd:longitude":5.919722,
@@ -218,7 +221,6 @@
         "fct:id":"01f1121c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2753106,
         "gp:id":730592,
-        "qs:id":795027,
         "qs_pg:id":795027,
         "tgn:id":7006948,
         "wd:id":"Q10014",
@@ -240,7 +242,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350751,
+    "wof:lastmodified":1566658077,
     "wof:name":"Kampen",
     "wof:parent_id":404473839,
     "wof:placetype":"locality",

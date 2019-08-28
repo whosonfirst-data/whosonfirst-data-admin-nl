@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.526154,
     "lbl:longitude":6.225389,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.526154,
     "mps:longitude":6.225389,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473823,
         85633337,
         101803703,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158802079,
-    "wof:lastmodified":1559595477,
+    "wof:lastmodified":1566659070,
     "wof:name":"Verspreide huizen Ankum",
     "wof:parent_id":101803703,
     "wof:placetype":"neighbourhood",

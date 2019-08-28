@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.823575,
     "lbl:longitude":4.260573,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.809374,
     "mps:longitude":4.243009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0632\u0648\u064a\u062f\u0644\u0627\u0646\u062f"
     ],
@@ -98,7 +101,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8219,
     "wd:longitude":4.2581,
     "wd:wordcount":136,
@@ -114,7 +117,6 @@
         "fct:id":"01f2686a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2743683,
         "gp:id":735133,
-        "qs:id":478959,
         "qs_pg:id":478959,
         "tgn:id":7274259,
         "wd:id":"Q3576262"
@@ -135,7 +137,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350877,
+    "wof:lastmodified":1566658151,
     "wof:name":"Zuidland",
     "wof:parent_id":1158824747,
     "wof:placetype":"locality",

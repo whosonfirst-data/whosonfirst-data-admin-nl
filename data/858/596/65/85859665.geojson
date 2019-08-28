@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.924892,
     "lbl:longitude":4.380535,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.928339,
     "mps:longitude":4.38509,
     "mz:hierarchy_label":1,
@@ -67,10 +68,6 @@
     "name:spa_x_preferred":[
         "Brijdorpe"
     ],
-    "name:unk_x_variant":[
-        "Bijdorp",
-        "Bijdorp"
-    ],
     "name:zea_x_preferred":[
         "Briepe"
     ],
@@ -108,7 +105,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":73,
     "wof:belongsto":[
         85687041,
@@ -121,7 +118,6 @@
     "wof:concordances":{
         "gn:id":2758318,
         "gp:id":20063910,
-        "qs:id":211016,
         "qs_pg:id":211016,
         "tgn:id":7262656,
         "wd:id":"Q614319",
@@ -143,7 +139,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563349665,
+    "wof:lastmodified":1566657379,
     "wof:name":"Bijdorp",
     "wof:parent_id":101751845,
     "wof:placetype":"neighbourhood",

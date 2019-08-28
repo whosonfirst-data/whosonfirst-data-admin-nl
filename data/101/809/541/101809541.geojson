@@ -21,18 +21,21 @@
     "iso:country":"NL",
     "lbl:latitude":51.014599,
     "lbl:longitude":5.819271,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.014735,
     "mps:longitude":5.816874,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Guttecoven"
     ],
     "name:nld_x_preferred":[
         "Guttecoven"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Guttekoven"
     ],
     "qs:a0":"Nederland",
@@ -54,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687033,
         102191581,
@@ -66,7 +69,6 @@
     "wof:concordances":{
         "gn:id":2755040,
         "gp:id":729617,
-        "qs:id":187544,
         "qs_pg:id":187544,
         "tgn:id":7261658
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101809541,
-    "wof:lastmodified":1559594692,
+    "wof:lastmodified":1566658039,
     "wof:name":"Guttecoven",
     "wof:parent_id":404474675,
     "wof:placetype":"locality",

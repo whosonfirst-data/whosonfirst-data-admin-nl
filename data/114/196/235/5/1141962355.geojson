@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.194513,
     "lbl:longitude":5.645136,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.194513,
     "mps:longitude":5.645136,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473873,
         85633337,
         101808555,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962355,
-    "wof:lastmodified":1559595625,
+    "wof:lastmodified":1566661111,
     "wof:name":"Buitengebied Voorthuizen",
     "wof:parent_id":101808555,
     "wof:placetype":"neighbourhood",

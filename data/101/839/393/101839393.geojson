@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.351001,
     "lbl:longitude":5.463902,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.349822,
     "mps:longitude":5.463381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Valkenswaard"
     ],
@@ -279,7 +282,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":297,
     "wof:belongsto":[
@@ -294,7 +297,6 @@
         "fct:id":"01f21d7e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2745860,
         "gp:id":734100,
-        "qs:id":178900,
         "qs_pg:id":178900,
         "tgn:id":1048173,
         "wd:id":"Q9873"
@@ -315,7 +317,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351051,
+    "wof:lastmodified":1566658239,
     "wof:name":"Valkenswaard",
     "wof:parent_id":404474439,
     "wof:placetype":"locality",

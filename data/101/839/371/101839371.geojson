@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.660249,
     "lbl:longitude":5.031046,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.654042,
     "mps:longitude":5.02588,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0446\u0445\u0435\u0443\u0432\u0435\u043b"
     ],
@@ -84,7 +87,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":388,
     "wof:belongsto":[
         85687035,
@@ -98,7 +101,6 @@
         "fct:id":"01f11118-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2753156,
         "gp:id":730568,
-        "qs:id":1351175,
         "qs_pg:id":1351175,
         "tgn:id":1047876,
         "wd:id":"Q2330283",
@@ -120,7 +122,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351042,
+    "wof:lastmodified":1566658236,
     "wof:name":"Kaatsheuvel",
     "wof:parent_id":404474401,
     "wof:placetype":"locality",

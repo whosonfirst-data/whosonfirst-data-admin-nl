@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.827725,
     "lbl:longitude":4.474097,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.82328,
     "mps:longitude":4.500116,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Heinenoord"
     ],
@@ -82,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.8264,
     "wd:longitude":4.4783,
@@ -99,7 +102,6 @@
         "fct:id":"01f0e580-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2754507,
         "gp:id":729934,
-        "qs:id":457796,
         "qs_pg:id":457796,
         "tgn:id":7266353,
         "wd:id":"Q847085",
@@ -121,7 +123,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350918,
+    "wof:lastmodified":1566658174,
     "wof:name":"Heinenoord",
     "wof:parent_id":404474233,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.359058,
     "lbl:longitude":6.128328,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.359058,
     "mps:longitude":6.128328,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474525,
         85633337,
         101839251,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158806841,
-    "wof:lastmodified":1559596453,
+    "wof:lastmodified":1566659051,
     "wof:name":"Kern Hout-Blerick",
     "wof:parent_id":101839251,
     "wof:placetype":"neighbourhood",

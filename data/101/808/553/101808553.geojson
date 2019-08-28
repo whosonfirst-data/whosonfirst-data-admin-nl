@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.170697,
     "lbl:longitude":6.140335,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.175632,
     "mps:longitude":6.16046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Voorst"
     ],
@@ -280,7 +283,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":318,
     "wof:belongsto":[
@@ -295,7 +298,6 @@
         "fct:id":"01f22f4e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2745297,
         "gp:id":734370,
-        "qs:id":141300,
         "qs_pg:id":141300,
         "tgn:id":7006896,
         "wd:id":"Q384772",
@@ -317,7 +319,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350896,
+    "wof:lastmodified":1566658163,
     "wof:name":"Voorst",
     "wof:parent_id":404473945,
     "wof:placetype":"locality",

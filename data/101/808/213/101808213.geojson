@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.578674,
     "lbl:longitude":4.582771,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.604546,
     "mps:longitude":4.580591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Hoeven"
     ],
@@ -89,7 +92,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1418,
     "wof:belongsto":[
         85687035,
@@ -102,11 +105,13 @@
     "wof:concordances":{
         "gn:id":2753984,
         "gp:id":730184,
-        "qs:id":360218,
         "qs_pg:id":217185,
         "tgn:id":7266855,
         "wd:id":"Q2183962",
         "wk:page":"Hoeven"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":360218
     },
     "wof:country":"NL",
     "wof:geomhash":"dc7d3044905cdd075ede0ff1c2392510",
@@ -121,7 +126,7 @@
         }
     ],
     "wof:id":101808213,
-    "wof:lastmodified":1563350920,
+    "wof:lastmodified":1566658175,
     "wof:name":"Hoeven",
     "wof:parent_id":404474565,
     "wof:placetype":"locality",

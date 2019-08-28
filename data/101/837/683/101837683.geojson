@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.865091,
     "lbl:longitude":4.991334,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.866932,
     "mps:longitude":5.005577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Arkel"
     ],
@@ -89,7 +92,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8639,
     "wd:longitude":4.9944,
     "wd:wordcount":222,
@@ -105,7 +108,6 @@
         "fct:id":"01f035e0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2759673,
         "gp:id":727343,
-        "qs:id":1167972,
         "qs_pg:id":1167972,
         "tgn:id":7256631,
         "wd:id":"Q1165364",
@@ -127,7 +129,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350755,
+    "wof:lastmodified":1566658080,
     "wof:name":"Arkel",
     "wof:parent_id":404474315,
     "wof:placetype":"locality",

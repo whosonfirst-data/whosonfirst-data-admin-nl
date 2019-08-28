@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.926805,
     "lbl:longitude":6.085006,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.926805,
     "mps:longitude":6.085006,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473957,
         85633337,
         101809869,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964495,
-    "wof:lastmodified":1559596327,
+    "wof:lastmodified":1566661048,
     "wof:name":"Schrijvershoek",
     "wof:parent_id":101809869,
     "wof:placetype":"neighbourhood",

@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.91591,
     "lbl:longitude":5.958171,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.911733,
     "mps:longitude":5.954074,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Angeren"
     ],
@@ -72,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.915556,
     "wd:longitude":5.958056,
     "wd:wordcount":280,
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":2759765,
         "gp:id":727299,
-        "qs:id":894660,
         "qs_pg:id":894660,
         "tgn:id":1047617,
         "wd:id":"Q538054",
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":101808583,
-    "wof:lastmodified":1563350957,
+    "wof:lastmodified":1566658197,
     "wof:name":"Angeren",
     "wof:parent_id":404474617,
     "wof:placetype":"locality",

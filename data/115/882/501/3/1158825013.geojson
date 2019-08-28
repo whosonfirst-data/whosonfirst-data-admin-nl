@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.110385,
     "lbl:longitude":4.573822,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.110385,
     "mps:longitude":4.573822,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474147,
         85633337,
         101807035,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158825013,
-    "wof:lastmodified":1559596905,
+    "wof:lastmodified":1566660199,
     "wof:name":"Buitengebied Hazerswoude-Dorp",
     "wof:parent_id":101807035,
     "wof:placetype":"neighbourhood",

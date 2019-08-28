@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.770512,
     "lbl:longitude":4.446933,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.772976,
     "mps:longitude":4.458724,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Klaaswaal"
     ],
@@ -77,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.7694,
     "wd:longitude":4.4453,
     "wd:wordcount":233,
@@ -93,7 +96,6 @@
         "fct:id":"01f119b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2752814,
         "gp:id":730739,
-        "qs:id":406723,
         "qs_pg:id":406723,
         "tgn:id":1047884,
         "wd:id":"Q1912125",
@@ -115,7 +117,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350591,
+    "wof:lastmodified":1566657996,
     "wof:name":"Klaaswaal",
     "wof:parent_id":404474259,
     "wof:placetype":"locality",

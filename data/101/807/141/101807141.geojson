@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.211211,
     "lbl:longitude":6.818479,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.202273,
     "mps:longitude":6.786852,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Boekelo"
     ],
@@ -56,7 +59,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0443\u043a\u0435\u043b\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boekeloo"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -81,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.2044,
     "wd:longitude":6.8019,
     "wd:wordcount":429,
@@ -96,7 +99,6 @@
     "wof:concordances":{
         "gn:id":2758755,
         "gp:id":727805,
-        "qs:id":1350529,
         "qs_pg:id":1350529,
         "tgn:id":1047664,
         "wd:id":"Q890236",
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":101807141,
-    "wof:lastmodified":1563350558,
+    "wof:lastmodified":1566657978,
     "wof:name":"Boekelo",
     "wof:parent_id":404473827,
     "wof:placetype":"locality",

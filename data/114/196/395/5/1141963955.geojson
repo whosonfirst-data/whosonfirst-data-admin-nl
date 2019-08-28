@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.254853,
     "lbl:longitude":5.513973,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.254853,
     "mps:longitude":5.513973,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473929,
         85633337,
         1158783745,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963955,
-    "wof:lastmodified":1559595712,
+    "wof:lastmodified":1566661178,
     "wof:name":"Verspreide huizen Nulde",
     "wof:parent_id":1158783745,
     "wof:placetype":"neighbourhood",

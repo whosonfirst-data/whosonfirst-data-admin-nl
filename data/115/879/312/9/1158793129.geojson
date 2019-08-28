@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.960789,
     "lbl:longitude":7.059596,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.960789,
     "mps:longitude":7.059596,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473731,
         85633337,
         101874325,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158793129,
-    "wof:lastmodified":1559597014,
+    "wof:lastmodified":1566659559,
     "wof:name":"Kopstukken",
     "wof:parent_id":101874325,
     "wof:placetype":"neighbourhood",

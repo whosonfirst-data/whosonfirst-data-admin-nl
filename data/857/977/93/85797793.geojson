@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.213471,
     "lbl:longitude":5.134727,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.216367,
     "mps:longitude":5.139551,
     "mz:hierarchy_label":0,
@@ -38,9 +39,6 @@
         "Kerkelanden"
     ],
     "name:nld_x_preferred":[
-        "Kerkelanden"
-    ],
-    "name:unk_x_variant":[
         "Kerkelanden"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -74,20 +72,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823059,
         85633337,
         101751905,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2752937,
         "gp:id":730682,
-        "qs:id":1294998,
         "qs_pg:id":1294998
     },
     "wof:country":"NL",
@@ -107,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596014,
+    "wof:lastmodified":1566657313,
     "wof:name":"Kerkelanden",
     "wof:parent_id":1158823059,
     "wof:placetype":"neighbourhood",

@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.234966,
     "lbl:longitude":7.037398,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.242264,
     "mps:longitude":7.03295,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Overdinkel"
     ],
@@ -68,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687045,
         102191581,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":2748849,
         "gp:id":732622,
-        "qs:id":1352077,
         "qs_pg:id":1352077,
         "tgn:id":1048038,
         "wd:id":"Q918721"
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101807185,
-    "wof:lastmodified":1563350567,
+    "wof:lastmodified":1566657984,
     "wof:name":"Overdinkel",
     "wof:parent_id":404473841,
     "wof:placetype":"locality",

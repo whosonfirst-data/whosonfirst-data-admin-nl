@@ -14,6 +14,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.248426,
     "lbl:longitude":6.814921,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.260351,
     "mps:longitude":6.81115,
     "mz:hierarchy_label":0,
@@ -32,9 +33,6 @@
         "Nyhofshoek"
     ],
     "name:nld_x_preferred":[
-        "Nijhofshoek"
-    ],
-    "name:unk_x_variant":[
         "Nijhofshoek"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -68,21 +66,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687045,
         102191581,
         1158804451,
         404473837,
         85633337,
         101751869,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2750070,
         "gp:id":732064,
-        "qs:id":1114760,
         "qs_pg:id":1114760
     },
     "wof:country":"NL",
@@ -103,7 +100,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596055,
+    "wof:lastmodified":1566657354,
     "wof:name":"Nijhofshoek",
     "wof:parent_id":1158804451,
     "wof:placetype":"neighbourhood",

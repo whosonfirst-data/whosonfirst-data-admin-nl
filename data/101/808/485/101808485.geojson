@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.872399,
     "lbl:longitude":4.783117,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.870119,
     "mps:longitude":4.767486,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Bleskensgraaf"
     ],
@@ -83,7 +86,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8719,
     "wd:longitude":4.7828,
     "wd:wordcount":289,
@@ -99,7 +102,6 @@
         "fct:id":"01f056f6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2758825,
         "gp:id":727776,
-        "qs:id":478386,
         "qs_pg:id":478386,
         "tgn:id":7257286,
         "wd:id":"Q2109338",
@@ -121,7 +123,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350809,
+    "wof:lastmodified":1566658108,
     "wof:name":"Bleskensgraaf",
     "wof:parent_id":1158824743,
     "wof:placetype":"locality",

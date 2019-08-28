@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.123314,
     "lbl:longitude":5.242699,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.121564,
     "mps:longitude":5.236939,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Bosch en Duin"
     ],
@@ -74,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.1158,
     "wd:longitude":5.2394,
     "wd:wordcount":119,
@@ -90,7 +93,6 @@
         "fct:id":"01f05ec6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2758579,
         "gp:id":727888,
-        "qs:id":1035885,
         "qs_pg:id":1035885,
         "tgn:id":4001712,
         "wd:id":"Q2911449",
@@ -112,7 +114,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350333,
+    "wof:lastmodified":1566657876,
     "wof:name":"Bosch en Duin",
     "wof:parent_id":404474019,
     "wof:placetype":"locality",

@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.741208,
     "lbl:longitude":5.745127,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.734369,
     "mps:longitude":5.744666,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Escharen"
     ],
@@ -82,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":84,
     "wof:belongsto":[
         85687035,
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":2756028,
         "gp:id":729172,
-        "qs:id":1168025,
         "qs_pg:id":1168025,
         "tgn:id":7260430,
         "wd:id":"Q2804519",
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101855245,
-    "wof:lastmodified":1563351089,
+    "wof:lastmodified":1566658254,
     "wof:name":"Escharen",
     "wof:parent_id":404474385,
     "wof:placetype":"locality",

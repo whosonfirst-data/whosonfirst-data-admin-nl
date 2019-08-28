@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.2345,
     "lbl:longitude":5.535996,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.2345,
     "mps:longitude":5.535996,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473929,
         85633337,
         1158783397,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963949,
-    "wof:lastmodified":1559596275,
+    "wof:lastmodified":1566661201,
     "wof:name":"Verspreide huizen Hell en Diermen",
     "wof:parent_id":1158783397,
     "wof:placetype":"neighbourhood",

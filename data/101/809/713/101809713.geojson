@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.464658,
     "lbl:longitude":5.143643,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.450573,
     "mps:longitude":5.12953,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Esbeek"
     ],
@@ -59,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         85687035,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":2756031,
         "gp:id":729170,
-        "qs:id":1264412,
         "qs_pg:id":1264412,
         "tgn:id":7260433,
         "wd:id":"Q2290831"
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":101809713,
-    "wof:lastmodified":1563350610,
+    "wof:lastmodified":1566658005,
     "wof:name":"Esbeek",
     "wof:parent_id":404474397,
     "wof:placetype":"locality",

@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.182579,
     "lbl:longitude":6.168605,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.182579,
     "mps:longitude":6.168605,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u062e\u0627\u0648\u0633\u062a\u0631\u0641\u064a\u0646"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":160,
     "wof:belongsto":[
@@ -82,7 +85,6 @@
     "wof:concordances":{
         "gn:id":2746558,
         "gp:id":733746,
-        "qs:id":448887,
         "qs_pg:id":448887,
         "tgn:id":1048140,
         "wd:id":"Q2662899",
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101807467,
-    "wof:lastmodified":1563350538,
+    "wof:lastmodified":1566657966,
     "wof:name":"Surhuisterveen",
     "wof:parent_id":404473757,
     "wof:placetype":"locality",

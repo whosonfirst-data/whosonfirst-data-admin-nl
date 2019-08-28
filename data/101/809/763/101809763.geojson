@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.352448,
     "lbl:longitude":5.386865,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.360588,
     "mps:longitude":5.392606,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Riethoven"
     ],
@@ -74,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":123,
     "wof:belongsto":[
         85687035,
@@ -88,7 +91,6 @@
         "fct:id":"01f1c928-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2748150,
         "gp:id":732947,
-        "qs:id":1352147,
         "qs_pg:id":1352147,
         "tgn:id":7267705,
         "wd:id":"Q595499",
@@ -110,7 +112,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350577,
+    "wof:lastmodified":1566657988,
     "wof:name":"Riethoven",
     "wof:parent_id":404474639,
     "wof:placetype":"locality",

@@ -24,6 +24,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.782052,
     "lbl:longitude":6.921834,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.778726,
     "mps:longitude":6.931164,
     "mz:hierarchy_label":0,
@@ -55,7 +56,7 @@
         "Elslo",
         "Elsloo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Angelsloo"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -90,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -103,7 +104,6 @@
     "wof:concordances":{
         "gn:id":2756168,
         "gp:id":727298,
-        "qs:id":1143874,
         "qs_pg:id":1143874,
         "tgn:id":7263412,
         "wd:id":"Q3413504"
@@ -124,7 +124,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561768037,
+    "wof:lastmodified":1566657323,
     "wof:name":"Angelslo",
     "wof:parent_id":101751881,
     "wof:placetype":"neighbourhood",

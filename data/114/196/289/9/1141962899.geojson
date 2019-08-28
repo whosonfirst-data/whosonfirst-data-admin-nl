@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.949251,
     "lbl:longitude":6.380413,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.949251,
     "mps:longitude":6.380413,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473885,
         85633337,
         101837791,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962899,
-    "wof:lastmodified":1559596931,
+    "wof:lastmodified":1566661058,
     "wof:name":"Buitengebied Pinnedijk",
     "wof:parent_id":101837791,
     "wof:placetype":"neighbourhood",

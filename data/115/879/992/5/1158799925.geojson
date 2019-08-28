@@ -14,13 +14,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00007,
-    "geom:area_square_m":541855.949459,
+    "geom:area_square_m":541855.949458,
     "geom:bbox":"4.44684629532,51.5109237734,4.45580882038,51.520259",
     "geom:latitude":51.515294,
     "geom:longitude":4.450978,
     "iso:country":"NL",
     "lbl:latitude":51.515281,
     "lbl:longitude":4.451038,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.515281,
     "mps:longitude":4.451038,
     "mz:hierarchy_label":1,
@@ -40,17 +41,17 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801765,
         404474587,
         85633337,
-        101751815
+        101751815,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"6906c23c204813d718f15e31afc28502",
+    "wof:geomhash":"0da74e66002fdf894a44d170ff5f8b27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158799925,
-    "wof:lastmodified":1513432788,
+    "wof:lastmodified":1566659612,
     "wof:name":"Minnebeek-Watermolen",
     "wof:parent_id":1158801765,
     "wof:placetype":"neighbourhood",
@@ -73,8 +74,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.446846295315821,
-    51.510923773421226,
+    4.44684629531582,
+    51.51092377342123,
     4.45580882038065,
     51.52025900001781
 ],

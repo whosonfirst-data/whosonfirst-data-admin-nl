@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.808133,
     "lbl:longitude":4.562415,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.802375,
     "mps:longitude":4.574174,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Puttershoek"
     ],
@@ -78,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8044,
     "wd:longitude":4.5681,
     "wd:wordcount":626,
@@ -94,7 +97,6 @@
         "fct:id":"01f1bf3c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2748389,
         "gp:id":732833,
-        "qs:id":239846,
         "qs_pg:id":239846,
         "tgn:id":7269423,
         "wd:id":"Q2677934",
@@ -116,7 +118,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350264,
+    "wof:lastmodified":1566657844,
     "wof:name":"Puttershoek",
     "wof:parent_id":404474233,
     "wof:placetype":"locality",

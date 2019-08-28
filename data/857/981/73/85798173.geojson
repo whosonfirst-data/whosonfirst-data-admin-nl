@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.267397,
     "lbl:longitude":5.190467,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.267397,
     "mps:longitude":5.190467,
     "mz:hierarchy_label":0,
@@ -41,9 +42,6 @@
         "Ooster Eng-Zuid"
     ],
     "name:nld_x_variant":[
-        "Oostereng"
-    ],
-    "name:unk_x_variant":[
         "Oostereng"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -77,21 +75,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823099,
         1158818281,
         85633337,
         101753097,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2749472,
         "gp:id":732354,
-        "qs:id":1080793,
         "qs_pg:id":1080793
     },
     "wof:country":"NL",
@@ -112,7 +109,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596032,
+    "wof:lastmodified":1566657356,
     "wof:name":"Ooster Eng-Zuid",
     "wof:parent_id":1158823099,
     "wof:placetype":"neighbourhood",

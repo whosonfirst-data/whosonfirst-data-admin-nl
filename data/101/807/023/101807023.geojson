@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.99221,
     "lbl:longitude":4.477005,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.999367,
     "mps:longitude":4.472224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Berkel en Rodenrijs"
     ],
@@ -97,7 +100,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":51.99,
     "wd:longitude":4.47,
@@ -114,7 +117,6 @@
         "fct:id":"01effdb4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2759089,
         "gp:id":727650,
-        "qs:id":1250152,
         "qs_pg:id":1250152,
         "wd:id":"Q820839"
     },
@@ -133,7 +135,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350450,
+    "wof:lastmodified":1566657917,
     "wof:name":"Berkel en Rodenrijs",
     "wof:parent_id":404474555,
     "wof:placetype":"locality",

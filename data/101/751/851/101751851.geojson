@@ -18,11 +18,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.924851,
     "lbl:longitude":4.356859,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":51.919443,
     "mps:longitude":4.332025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Vlaardingen"
     ],
@@ -219,7 +222,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wd:latitude":51.916667,
     "wd:longitude":4.35,
@@ -235,7 +238,6 @@
         "fct:id":"01f22af8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2745467,
         "gp:id":734289,
-        "qs:id":239845,
         "qs_pg:id":239845,
         "tgn:id":1048190,
         "wd:id":"Q210007"
@@ -255,7 +257,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350395,
+    "wof:lastmodified":1566657898,
     "wof:name":"Vlaardingen",
     "wof:parent_id":85687041,
     "wof:placetype":"locality",

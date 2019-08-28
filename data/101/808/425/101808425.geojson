@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.210646,
     "lbl:longitude":4.929101,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.222264,
     "mps:longitude":4.950123,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Vinkeveen"
     ],
@@ -69,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.2128,
     "wd:longitude":4.9272,
     "wd:wordcount":171,
@@ -85,7 +88,6 @@
         "fct:id":"01f22a94-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2745493,
         "gp:id":734279,
-        "qs:id":899643,
         "qs_pg:id":899643,
         "tgn:id":1048189,
         "wd:id":"Q2667464",
@@ -107,7 +109,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350812,
+    "wof:lastmodified":1566658110,
     "wof:name":"Vinkeveen",
     "wof:parent_id":404474341,
     "wof:placetype":"locality",

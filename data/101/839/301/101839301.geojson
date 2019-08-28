@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.162926,
     "lbl:longitude":5.880173,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.158311,
     "mps:longitude":5.877126,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Wessem"
     ],
@@ -72,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.1606,
     "wd:longitude":5.8792,
     "wd:wordcount":952,
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":2744815,
         "gp:id":734616,
-        "qs:id":218359,
         "qs_pg:id":218359,
         "tgn:id":7273205,
         "wd:id":"Q3120897",
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":101839301,
-    "wof:lastmodified":1563351017,
+    "wof:lastmodified":1566658225,
     "wof:name":"Wessem",
     "wof:parent_id":404474559,
     "wof:placetype":"locality",

@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.789498,
     "lbl:longitude":4.795196,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.788791,
     "mps:longitude":4.798682,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u062e\u0627\u062e\u0646"
     ],
@@ -177,7 +180,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1472,
     "wof:belongsto":[
@@ -192,7 +195,6 @@
         "fct:id":"01f1d954-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2747720,
         "gp:id":733198,
-        "qs:id":221765,
         "qs_pg:id":221765,
         "tgn:id":1048085,
         "wd:id":"Q9955"
@@ -213,7 +215,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350491,
+    "wof:lastmodified":1566657939,
     "wof:name":"Schagen",
     "wof:parent_id":404474113,
     "wof:placetype":"locality",

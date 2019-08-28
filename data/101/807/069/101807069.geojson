@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.448113,
     "lbl:longitude":5.954601,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.433744,
     "mps:longitude":5.963389,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "'t Loo"
     ],
@@ -29,7 +32,7 @@
     "name:nld_x_variant":[
         "t Loo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Loo"
     ],
     "qs:a0":"Nederland",
@@ -51,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687043,
         102191581,
@@ -63,9 +66,11 @@
     "wof:concordances":{
         "gn:id":2751482,
         "gp:id":726972,
-        "qs:id":1,
-        "qs_pg:id":239791,
+        "qs_pg:id":1,
         "tgn:id":7271809
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":239791
     },
     "wof:country":"NL",
     "wof:geomhash":"e7e3c3dbc48c51ca552737b8156225c1",
@@ -80,7 +85,7 @@
         }
     ],
     "wof:id":101807069,
-    "wof:lastmodified":1559594896,
+    "wof:lastmodified":1566657972,
     "wof:name":"'t Loo",
     "wof:parent_id":404473927,
     "wof:placetype":"locality",

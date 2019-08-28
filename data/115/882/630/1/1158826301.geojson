@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.891606,
     "lbl:longitude":5.102426,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.891606,
     "mps:longitude":5.102426,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474197,
         85633337,
         101808521,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158826301,
-    "wof:lastmodified":1559596573,
+    "wof:lastmodified":1566660348,
     "wof:name":"Leerdam-Oost",
     "wof:parent_id":101808521,
     "wof:placetype":"neighbourhood",

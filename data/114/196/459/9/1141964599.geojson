@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.118907,
     "lbl:longitude":6.258886,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.118907,
     "mps:longitude":6.258886,
     "mz:hierarchy_label":0,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158784059,
         404473961,
         85633337,
         101837807,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1141964599,
-    "wof:lastmodified":1559596352,
+    "wof:lastmodified":1566661303,
     "wof:name":"Vespreide huizen Leesten",
     "wof:parent_id":1158784059,
     "wof:placetype":"neighbourhood",

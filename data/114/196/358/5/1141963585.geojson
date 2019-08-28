@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.138719,
     "lbl:longitude":6.38568,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.138719,
     "mps:longitude":6.38568,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474673,
         85633337,
         1158783429,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963585,
-    "wof:lastmodified":1559597095,
+    "wof:lastmodified":1566661197,
     "wof:name":"Verspreide huizen Het Veen en Grote Veld",
     "wof:parent_id":1158783429,
     "wof:placetype":"neighbourhood",

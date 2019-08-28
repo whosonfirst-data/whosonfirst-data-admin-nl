@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.056054,
     "lbl:longitude":4.3182,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.056054,
     "mps:longitude":4.3182,
     "mz:hierarchy_label":1,
@@ -33,13 +34,13 @@
     "reversegeo:longitude":4.3182,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687041,
         102191581,
         1108808103,
         85633337,
         101752763,
         136253051,
-        1108808049
+        1108808049,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108808313,
-    "wof:lastmodified":1559596430,
+    "wof:lastmodified":1566657691,
     "wof:name":"Laakkwartier-West",
     "wof:parent_id":1108808103,
     "wof:placetype":"neighbourhood",

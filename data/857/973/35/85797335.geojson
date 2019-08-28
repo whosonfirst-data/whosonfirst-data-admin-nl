@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000646,
-    "geom:area_square_m":4888638.419791,
+    "geom:area_square_m":4888638.41979,
     "geom:bbox":"6.12354221551,52.2174383039,6.16867137878,52.2606913882",
     "geom:latitude":52.24208,
     "geom:longitude":6.148547,
@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.252543,
     "lbl:longitude":6.156927,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.235062,
     "mps:longitude":6.152641,
     "mz:hierarchy_label":0,
@@ -38,9 +39,6 @@
         "De Hoven"
     ],
     "name:nld_x_preferred":[
-        "De Hoven"
-    ],
-    "name:unk_x_variant":[
         "De Hoven"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -73,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         404473825,
@@ -85,7 +83,7 @@
     "wof:concordances":{
         "gn:id":2757488,
         "gp:id":728403,
-        "qs:id":1350651
+        "qs_pg:id":1350651
     },
     "wof:country":"NL",
     "wof:geomhash":"6d5e27072f21192474279922886a6f86",
@@ -103,7 +101,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269546,
+    "wof:lastmodified":1566657346,
     "wof:name":"De Hoven",
     "wof:parent_id":101751865,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.026234,
     "lbl:longitude":5.524803,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.026234,
     "mps:longitude":5.524803,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790335,
         85633337,
         101751829,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158788433,
-    "wof:lastmodified":1559595642,
+    "wof:lastmodified":1566660551,
     "wof:name":"Dichtersbuurt",
     "wof:parent_id":1158790335,
     "wof:placetype":"neighbourhood",

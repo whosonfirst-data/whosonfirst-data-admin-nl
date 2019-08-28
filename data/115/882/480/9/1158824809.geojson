@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.872518,
     "lbl:longitude":4.685625,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.872518,
     "mps:longitude":4.685625,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831051,
         404474145,
         85633337,
         101754613,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158824809,
-    "wof:lastmodified":1559596793,
+    "wof:lastmodified":1566660312,
     "wof:name":"Polder Kortland",
     "wof:parent_id":1158831051,
     "wof:placetype":"neighbourhood",

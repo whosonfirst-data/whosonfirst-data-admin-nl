@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.21732,
     "lbl:longitude":7.028238,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.21732,
     "mps:longitude":7.028238,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         1158792361,
         85633337,
         101807509,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158793655,
-    "wof:lastmodified":1559596381,
+    "wof:lastmodified":1566659343,
     "wof:name":"Verspreide huizen Oostwold",
     "wof:parent_id":101807509,
     "wof:placetype":"neighbourhood",

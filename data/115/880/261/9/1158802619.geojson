@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.656027,
     "lbl:longitude":6.572275,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.656027,
     "mps:longitude":6.572275,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473831,
         85633337,
         101846153,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158802619,
-    "wof:lastmodified":1559596885,
+    "wof:lastmodified":1566658847,
     "wof:name":"Verspreide huizen Schuinesloot",
     "wof:parent_id":101846153,
     "wof:placetype":"neighbourhood",

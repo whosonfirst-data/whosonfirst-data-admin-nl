@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.980027,
     "lbl:longitude":5.797327,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.974045,
     "mps:longitude":5.787487,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Doorwerth"
     ],
@@ -73,7 +76,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.9781,
     "wd:longitude":5.7953,
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2756673,
         "gp:id":728805,
-        "qs:id":176642,
         "qs_pg:id":176642,
         "tgn:id":4003352,
         "wd:id":"Q2188963",
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101808667,
-    "wof:lastmodified":1563350835,
+    "wof:lastmodified":1566658122,
     "wof:name":"Doorwerth",
     "wof:parent_id":404473931,
     "wof:placetype":"locality",

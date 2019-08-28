@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.956428,
     "lbl:longitude":5.582544,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.976342,
     "mps:longitude":5.5669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Rhenen"
     ],
@@ -129,9 +132,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u043d\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Renen"
-    ],
     "name:vol_x_preferred":[
         "Rhenen"
     ],
@@ -160,7 +160,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":519,
     "wof:belongsto":[
@@ -175,7 +175,6 @@
         "fct:id":"01f1c798-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2748185,
         "gp:id":732923,
-        "qs:id":458000,
         "qs_pg:id":458000,
         "tgn:id":7006915,
         "wd:id":"Q10040",
@@ -197,7 +196,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350602,
+    "wof:lastmodified":1566658002,
     "wof:name":"Rhenen",
     "wof:parent_id":404474003,
     "wof:placetype":"locality",

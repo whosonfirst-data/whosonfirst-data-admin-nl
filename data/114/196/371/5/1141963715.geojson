@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.809709,
     "lbl:longitude":5.295496,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.809709,
     "mps:longitude":5.295496,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473917,
         85633337,
         1158783385,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963715,
-    "wof:lastmodified":1559596264,
+    "wof:lastmodified":1566661162,
     "wof:name":"Verspreide huizen Hurwenen en Rossum",
     "wof:parent_id":1158783385,
     "wof:placetype":"neighbourhood",

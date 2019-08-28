@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.852989,
     "lbl:longitude":4.594299,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.855782,
     "mps:longitude":4.581238,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u064a\u0633\u0646\u0648\u0631\u062f"
     ],
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8506,
     "wd:longitude":4.5967,
     "wd:wordcount":171,
@@ -87,7 +90,7 @@
         "fct:id":"01f1cc16-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2748085,
         "gp:id":732975,
-        "qs:id":6,
+        "qs_pg:id":6,
         "tgn:id":7024601,
         "wd:id":"Q3432018",
         "wk:page":"Rijsoord"
@@ -108,7 +111,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350660,
+    "wof:lastmodified":1566658033,
     "wof:name":"Rijsoord",
     "wof:parent_id":404474243,
     "wof:placetype":"locality",

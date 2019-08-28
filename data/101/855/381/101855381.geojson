@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.46423,
     "lbl:longitude":5.894964,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":52.481313,
     "mps:longitude":5.887936,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Oosterwolde"
     ],
@@ -66,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.4644,
     "wd:longitude":5.8947,
@@ -82,7 +85,6 @@
     "wof:concordances":{
         "gn:id":2749392,
         "gp:id":732394,
-        "qs:id":908741,
         "qs_pg:id":908741,
         "tgn:id":7267994,
         "wd:id":"Q786463",
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101855381,
-    "wof:lastmodified":1563351117,
+    "wof:lastmodified":1566658270,
     "wof:name":"Oosterwolde",
     "wof:parent_id":404473927,
     "wof:placetype":"locality",

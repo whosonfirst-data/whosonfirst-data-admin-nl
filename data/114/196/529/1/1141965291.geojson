@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.766386,
     "lbl:longitude":5.973764,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.766386,
     "mps:longitude":5.973764,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783377,
         85633337,
         101855337,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141965291,
-    "wof:lastmodified":1559596549,
+    "wof:lastmodified":1566661168,
     "wof:name":"Buitengebied De Horst",
     "wof:parent_id":101855337,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.829288,
     "lbl:longitude":6.076575,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.828503,
     "mps:longitude":6.074996,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404474621,
         85633337,
         1158805707,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158803717,
-    "wof:lastmodified":1559597097,
+    "wof:lastmodified":1566658921,
     "wof:name":"Buitengebied Willemsoord",
     "wof:parent_id":1158805707,
     "wof:placetype":"neighbourhood",

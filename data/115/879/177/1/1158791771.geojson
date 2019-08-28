@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.10242,
     "lbl:longitude":6.578855,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.10242,
     "mps:longitude":6.578855,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474647,
         85633337,
         1158792197,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158791771,
-    "wof:lastmodified":1559596884,
+    "wof:lastmodified":1566659826,
     "wof:name":"Verspreide huizen Yde",
     "wof:parent_id":1158792197,
     "wof:placetype":"neighbourhood",

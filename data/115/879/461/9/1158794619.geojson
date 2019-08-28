@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.132406,
     "lbl:longitude":6.679065,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.132406,
     "mps:longitude":6.679065,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473717,
         85633337,
         1158796515,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158794619,
-    "wof:lastmodified":1559596394,
+    "wof:lastmodified":1566659781,
     "wof:name":"Verspreide huizen Noordlaren",
     "wof:parent_id":1158796515,
     "wof:placetype":"neighbourhood",

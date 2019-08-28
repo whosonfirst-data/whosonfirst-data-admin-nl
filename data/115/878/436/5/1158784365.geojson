@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.322366,
     "lbl:longitude":4.005674,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.322366,
     "mps:longitude":4.005674,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474307,
         85633337,
         101809817,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158784365,
-    "wof:lastmodified":1559596211,
+    "wof:lastmodified":1566660595,
     "wof:name":"Buitengebied Vogelwaarde",
     "wof:parent_id":101809817,
     "wof:placetype":"neighbourhood",

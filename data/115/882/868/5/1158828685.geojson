@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.751856,
     "lbl:longitude":4.148268,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.751856,
     "mps:longitude":4.148268,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158824741,
         85633337,
         101837731,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158828685,
-    "wof:lastmodified":1559596789,
+    "wof:lastmodified":1566660078,
     "wof:name":"Sommelsdijk vogelbuurt west",
     "wof:parent_id":101837731,
     "wof:placetype":"neighbourhood",

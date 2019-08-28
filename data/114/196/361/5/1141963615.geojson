@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.161184,
     "lbl:longitude":6.4578,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.161184,
     "mps:longitude":6.4578,
     "mz:hierarchy_label":0,
@@ -42,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473915,
         85633337,
         1158783657,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1141963615,
-    "wof:lastmodified":1559595701,
+    "wof:lastmodified":1566661176,
     "wof:name":"Verspreide huizen Nettelhorst, Langen en Zwiep",
     "wof:parent_id":1158783657,
     "wof:placetype":"neighbourhood",

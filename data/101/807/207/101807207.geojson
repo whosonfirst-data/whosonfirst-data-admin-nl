@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.331371,
     "lbl:longitude":6.28016,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.330244,
     "mps:longitude":6.279552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Heeten"
     ],
@@ -49,7 +52,7 @@
     "name:nld_x_preferred":[
         "Heeten"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Heten"
     ],
     "qs:a0":"Nederland",
@@ -71,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687045,
         102191581,
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":2754621,
         "gp:id":729856,
-        "qs:id":894669,
         "qs_pg:id":894669,
         "tgn:id":7266210,
         "wd:id":"Q1862448"
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101807207,
-    "wof:lastmodified":1563350539,
+    "wof:lastmodified":1566657967,
     "wof:name":"Heeten",
     "wof:parent_id":404473849,
     "wof:placetype":"locality",

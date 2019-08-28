@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.878035,
     "lbl:longitude":7.062058,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.894351,
     "mps:longitude":7.079295,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Ter Apel"
     ],
@@ -88,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.8756,
     "wd:longitude":7.0597,
     "wd:wordcount":362,
@@ -103,7 +106,6 @@
     "wof:concordances":{
         "gn:id":2746475,
         "gp:id":733782,
-        "qs:id":896990,
         "qs_pg:id":896990,
         "tgn:id":7007074,
         "wd:id":"Q475483",
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":101838031,
-    "wof:lastmodified":1563350571,
+    "wof:lastmodified":1566657986,
     "wof:name":"Ter Apel",
     "wof:parent_id":404473739,
     "wof:placetype":"locality",

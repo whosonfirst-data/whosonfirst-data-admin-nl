@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.003421,
     "lbl:longitude":6.57857,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.003421,
     "mps:longitude":6.57857,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         1158792269,
         404473805,
         85633337,
         101751879,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158790567,
-    "wof:lastmodified":1559595886,
+    "wof:lastmodified":1566659785,
     "wof:name":"Havenkanaal Noordzijde",
     "wof:parent_id":1158792269,
     "wof:placetype":"neighbourhood",

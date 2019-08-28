@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.054982,
     "lbl:longitude":5.59219,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.054982,
     "mps:longitude":5.59219,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473893,
         85633337,
         101807085,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963123,
-    "wof:lastmodified":1559595667,
+    "wof:lastmodified":1566661160,
     "wof:name":"Ederveen buitengebied",
     "wof:parent_id":101807085,
     "wof:placetype":"neighbourhood",

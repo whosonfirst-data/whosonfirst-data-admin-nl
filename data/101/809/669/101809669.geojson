@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.657122,
     "lbl:longitude":5.885928,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.66199,
     "mps:longitude":5.892143,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rijkevoort"
     ],
@@ -59,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687035,
         102191581,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":2748125,
         "gp:id":732960,
-        "qs:id":1286421,
         "qs_pg:id":1286421,
         "tgn:id":7267680,
         "wd:id":"Q3432009"
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101809669,
-    "wof:lastmodified":1563350600,
+    "wof:lastmodified":1566658001,
     "wof:name":"Rijkevoort",
     "wof:parent_id":404474359,
     "wof:placetype":"locality",

@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.41802,
     "lbl:longitude":4.682699,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.41274,
     "mps:longitude":4.676691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Spaarndam"
     ],
@@ -63,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.4138,
     "wd:longitude":4.69,
     "wd:wordcount":250,
@@ -79,7 +82,6 @@
         "fct:id":"01f1f060-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2746986,
         "gp:id":733501,
-        "qs:id":1074815,
         "qs_pg:id":1074815,
         "tgn:id":7271007,
         "wd:id":"Q833664",
@@ -101,7 +103,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350277,
+    "wof:lastmodified":1566657849,
     "wof:name":"Spaarndam",
     "wof:parent_id":404474061,
     "wof:placetype":"locality",

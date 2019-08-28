@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":50.815646,
     "lbl:longitude":5.763102,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.815646,
     "mps:longitude":5.763102,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158805871,
         85633337,
         1158818005,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158808217,
-    "wof:lastmodified":1559596901,
+    "wof:lastmodified":1566658819,
     "wof:name":"Verspreide huizen Eckelrade",
     "wof:parent_id":1158818005,
     "wof:placetype":"neighbourhood",

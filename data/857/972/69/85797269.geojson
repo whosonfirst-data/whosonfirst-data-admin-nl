@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.407772,
     "lbl:longitude":5.358582,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.413016,
     "mps:longitude":5.405713,
     "mz:hierarchy_label":1,
@@ -52,7 +53,7 @@
     "name:por_x_preferred":[
         "In Eker"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D' Ekker"
     ],
     "qs:gn_fcode":"PPLX",
@@ -84,21 +85,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":157,
     "wof:belongsto":[
-        85687035,
         102191581,
         404474443,
         85633337,
         101754579,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2757442,
         "gp:id":728243,
-        "qs:id":1250453,
         "qs_pg:id":1250453
     },
     "wof:country":"NL",
@@ -118,7 +118,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595994,
+    "wof:lastmodified":1566657360,
     "wof:name":"D'Ekker",
     "wof:parent_id":101754579,
     "wof:placetype":"neighbourhood",

@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.31295,
     "lbl:longitude":3.942821,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.536156,
     "mps:longitude":3.655242,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u0627\u0647"
     ],
@@ -134,7 +137,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Veer"
     ],
     "name:vls_x_preferred":[
@@ -174,7 +177,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":966,
     "wof:belongsto":[
         102191581,
@@ -206,7 +209,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351108,
+    "wof:lastmodified":1566658264,
     "wof:name":"Veere",
     "wof:parent_id":404474333,
     "wof:placetype":"locality",

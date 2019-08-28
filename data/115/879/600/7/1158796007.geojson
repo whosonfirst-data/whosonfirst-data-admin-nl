@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.255824,
     "lbl:longitude":6.66505,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.255824,
     "mps:longitude":6.66505,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473709,
         85633337,
         1158796621,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158796007,
-    "wof:lastmodified":1559596419,
+    "wof:lastmodified":1566659786,
     "wof:name":"Verspreide huizen Garmerwolde",
     "wof:parent_id":1158796621,
     "wof:placetype":"neighbourhood",

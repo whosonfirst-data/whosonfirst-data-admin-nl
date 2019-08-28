@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.453059,
     "lbl:longitude":5.855005,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.453059,
     "mps:longitude":5.855005,
     "mz:hierarchy_label":1,
@@ -46,12 +47,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473895,
         85633337,
         101837785,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1141963163,
-    "wof:lastmodified":1559596122,
+    "wof:lastmodified":1566661324,
     "wof:name":"De Vrijheid",
     "wof:parent_id":101837785,
     "wof:placetype":"neighbourhood",

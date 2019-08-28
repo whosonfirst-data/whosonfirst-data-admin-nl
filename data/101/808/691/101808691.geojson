@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.992753,
     "lbl:longitude":6.061656,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.995994,
     "mps:longitude":6.067209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Giesbeek"
     ],
@@ -72,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.9939,
     "wd:longitude":6.07,
     "wd:wordcount":42,
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":2755536,
         "gp:id":729406,
-        "qs:id":478444,
         "qs_pg:id":478444,
         "tgn:id":7262301,
         "wd:id":"Q171230"
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101808691,
-    "wof:lastmodified":1563350931,
+    "wof:lastmodified":1566658179,
     "wof:name":"Giesbeek",
     "wof:parent_id":404473957,
     "wof:placetype":"locality",

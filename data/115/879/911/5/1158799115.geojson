@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.56447,
     "lbl:longitude":5.104123,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.56447,
     "mps:longitude":5.104123,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801787,
         404474435,
         85633337,
         101751817,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158799115,
-    "wof:lastmodified":1559596704,
+    "wof:lastmodified":1566659803,
     "wof:name":"Industriestrook LovenseKanaaldijk",
     "wof:parent_id":1158801787,
     "wof:placetype":"neighbourhood",

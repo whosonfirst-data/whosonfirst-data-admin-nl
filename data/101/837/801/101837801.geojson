@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.14627,
     "lbl:longitude":6.186416,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.151331,
     "mps:longitude":6.157251,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Hoven"
     ],
@@ -215,9 +218,6 @@
     "name:swe_x_preferred":[
         "Hoven"
     ],
-    "name:unk_x_variant":[
-        "De Hoven"
-    ],
     "name:vec_x_preferred":[
         "Hoven"
     ],
@@ -257,7 +257,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":22,
     "wof:belongsto":[
         85687043,
@@ -270,7 +270,7 @@
     "wof:concordances":{
         "gn:id":2753532,
         "gp:id":662596,
-        "qs:id":1073347,
+        "qs_pg:id":1073347,
         "wd:id":"Q2616605"
     },
     "wof:country":"NL",
@@ -286,7 +286,7 @@
         }
     ],
     "wof:id":101837801,
-    "wof:lastmodified":1563350764,
+    "wof:lastmodified":1566658083,
     "wof:name":"Hoven",
     "wof:parent_id":404473961,
     "wof:placetype":"locality",

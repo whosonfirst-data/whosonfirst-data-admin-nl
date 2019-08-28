@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.429306,
     "lbl:longitude":3.821525,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.436863,
     "mps:longitude":3.819047,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Ovezande"
     ],
@@ -68,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":157,
     "wof:belongsto":[
         85687037,
@@ -82,7 +85,6 @@
         "fct:id":"01f1b30c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2748803,
         "gp:id":732646,
-        "qs:id":409021,
         "qs_pg:id":409021,
         "tgn:id":7267818,
         "wd:id":"Q2788492",
@@ -104,7 +106,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351092,
+    "wof:lastmodified":1566658255,
     "wof:name":"Ovezande",
     "wof:parent_id":404474299,
     "wof:placetype":"locality",

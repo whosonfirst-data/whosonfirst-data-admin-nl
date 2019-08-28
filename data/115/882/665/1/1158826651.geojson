@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.304239,
     "lbl:longitude":4.499662,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.304239,
     "mps:longitude":4.499662,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474221,
         85633337,
         101837699,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158826651,
-    "wof:lastmodified":1559595642,
+    "wof:lastmodified":1566660370,
     "wof:name":"Verspreide huizen Langeveld",
     "wof:parent_id":101837699,
     "wof:placetype":"neighbourhood",

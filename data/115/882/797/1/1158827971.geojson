@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.992743,
     "lbl:longitude":4.484013,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.992743,
     "mps:longitude":4.484013,
     "mz:hierarchy_label":1,
@@ -40,17 +41,17 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831295,
         404474555,
         85633337,
-        101807023
+        101807023,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"81dc72d6628a40ebb1cdeb6f567d58f1",
+    "wof:geomhash":"da1600bf43145f5d0143959e9bb366e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158827971,
-    "wof:lastmodified":1513588187,
+    "wof:lastmodified":1566659938,
     "wof:name":"Annie M.G. Schmidtpark Midden",
     "wof:parent_id":1158831295,
     "wof:placetype":"neighbourhood",
@@ -73,8 +74,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.478999387662372,
-    51.988894184863504,
+    4.47899938766237,
+    51.9888941848635,
     4.48901355140926,
     51.99644387462257
 ],

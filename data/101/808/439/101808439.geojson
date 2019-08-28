@@ -17,11 +17,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.075773,
     "lbl:longitude":5.536691,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.065097,
     "mps:longitude":5.536452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0646\u0633\u0641\u0627\u0648\u062f\u0647"
     ],
@@ -137,7 +140,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wd:wordcount":110,
     "wof:belongsto":[
@@ -151,7 +154,6 @@
         "fct:id":"01f1c45a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2748228,
         "gp:id":732900,
-        "qs:id":1074801,
         "qs_pg:id":1074801,
         "tgn:id":7267440,
         "wd:id":"Q10039"
@@ -171,7 +173,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350828,
+    "wof:lastmodified":1566658118,
     "wof:name":"Renswoude",
     "wof:parent_id":85687039,
     "wof:placetype":"locality",

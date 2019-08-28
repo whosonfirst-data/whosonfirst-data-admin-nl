@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.718753,
     "lbl:longitude":5.075783,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.711829,
     "mps:longitude":5.070617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Midwoud"
     ],
@@ -69,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":132,
     "wof:belongsto":[
         85687053,
@@ -82,7 +85,6 @@
     "wof:concordances":{
         "gn:id":2750829,
         "gp:id":731695,
-        "qs:id":895211,
         "qs_pg:id":895211,
         "tgn:id":7269861,
         "wd:id":"Q3312746",
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101846159,
-    "wof:lastmodified":1563350431,
+    "wof:lastmodified":1566657906,
     "wof:name":"Midwoud",
     "wof:parent_id":404474097,
     "wof:placetype":"locality",

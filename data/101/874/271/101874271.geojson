@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.044625,
     "lbl:longitude":6.573268,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.04885,
     "mps:longitude":6.581399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ubbena"
     ],
@@ -68,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":62,
     "wof:belongsto":[
         85687051,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2746013,
         "gp:id":734000,
-        "qs:id":187923,
         "qs_pg:id":187923,
         "tgn:id":7271960,
         "wd:id":"Q2228122",
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101874271,
-    "wof:lastmodified":1563350322,
+    "wof:lastmodified":1566657870,
     "wof:name":"Ubbena",
     "wof:parent_id":404473805,
     "wof:placetype":"locality",

@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.478961,
     "lbl:longitude":6.162034,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":53.478961,
     "mps:longitude":6.162034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u062e\u064a\u0631\u0645\u0648\u0646\u064a\u0643\u0648\u062e"
     ],
@@ -162,9 +165,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0445\u0456\u0440\u043c\u043e\u043d\u043d\u0456\u043a\u043e\u0433"
     ],
-    "name:unk_x_variant":[
-        "Oosterburen"
-    ],
     "name:vol_x_preferred":[
         "Schiermonnikoog"
     ],
@@ -193,7 +193,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1315,
     "wof:belongsto":[
@@ -208,7 +208,6 @@
         "fct:id":"01f1de4a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2747591,
         "gp:id":733266,
-        "qs:id":1352257,
         "qs_pg:id":1352257,
         "tgn:id":1048089,
         "wd:id":"Q208011"
@@ -229,7 +228,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350480,
+    "wof:lastmodified":1566657934,
     "wof:name":"Schiermonnikoog",
     "wof:parent_id":404473789,
     "wof:placetype":"locality",

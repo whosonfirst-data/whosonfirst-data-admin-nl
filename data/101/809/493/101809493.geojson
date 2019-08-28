@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.33579,
     "lbl:longitude":5.929503,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.334388,
     "mps:longitude":5.929287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Beringe"
     ],
@@ -44,7 +47,7 @@
     "name:nld_x_preferred":[
         "Beringe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beringen"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -69,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.3358,
     "wd:longitude":5.9469,
     "wd:wordcount":90,
@@ -84,7 +87,6 @@
     "wof:concordances":{
         "gn:id":2759097,
         "gp:id":727645,
-        "qs:id":187403,
         "qs_pg:id":187403,
         "tgn:id":7259921,
         "wd:id":"Q1878867",
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101809493,
-    "wof:lastmodified":1563350652,
+    "wof:lastmodified":1566658028,
     "wof:name":"Beringe",
     "wof:parent_id":1158805873,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.519374,
     "lbl:longitude":4.939965,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.519374,
     "mps:longitude":4.939965,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474039,
         85633337,
         101754841,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158818561,
-    "wof:lastmodified":1559595996,
+    "wof:lastmodified":1566659223,
     "wof:name":"Zuidoostbeemster Tuinhoek",
     "wof:parent_id":101754841,
     "wof:placetype":"neighbourhood",

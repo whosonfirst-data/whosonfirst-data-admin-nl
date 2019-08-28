@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.524503,
     "lbl:longitude":4.494307,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.524503,
     "mps:longitude":4.494307,
     "mz:hierarchy_label":1,
@@ -40,17 +41,17 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801767,
         404474587,
         85633337,
-        101751815
+        101751815,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"2266f3f532d6cc936a927700d5c927e1",
+    "wof:geomhash":"44bdd32e2a6ed84d04f7541884c04fd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158799945,
-    "wof:lastmodified":1513432789,
+    "wof:lastmodified":1566659636,
     "wof:name":"Kortendijk L",
     "wof:parent_id":1158801767,
     "wof:placetype":"neighbourhood",
@@ -73,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.489234316261666,
+    4.48923431626167,
     51.52045153195897,
     4.49972093336741,
     51.52904274339602

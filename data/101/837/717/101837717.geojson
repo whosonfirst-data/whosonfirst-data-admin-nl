@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.79633,
     "lbl:longitude":4.488164,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.801944,
     "mps:longitude":4.47768,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Mijnsheerenland"
     ],
@@ -78,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.7964,
     "wd:longitude":4.4831,
@@ -95,7 +98,6 @@
         "fct:id":"01f160a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2750810,
         "gp:id":731706,
-        "qs:id":1351669,
         "qs_pg:id":1351669,
         "tgn:id":7269842,
         "wd:id":"Q922981",
@@ -117,7 +119,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350773,
+    "wof:lastmodified":1566658087,
     "wof:name":"Mijnsheerenland",
     "wof:parent_id":404474233,
     "wof:placetype":"locality",

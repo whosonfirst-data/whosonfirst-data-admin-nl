@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.310011,
     "lbl:longitude":6.509452,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.301793,
     "mps:longitude":6.504885,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Rijssen"
     ],
@@ -82,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1151,
     "wof:belongsto":[
         85687045,
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":2748083,
         "gp:id":732976,
-        "qs:id":1144177,
         "qs_pg:id":1144177,
         "tgn:id":1048065,
         "wd:id":"Q494359",
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101808761,
-    "wof:lastmodified":1563350895,
+    "wof:lastmodified":1566658163,
     "wof:name":"Rijssen",
     "wof:parent_id":404474657,
     "wof:placetype":"locality",

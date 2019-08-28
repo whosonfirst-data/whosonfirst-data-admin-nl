@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.331296,
     "lbl:longitude":5.862617,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.331296,
     "mps:longitude":5.862617,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158805873,
         85633337,
         101809507,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807829,
-    "wof:lastmodified":1559595770,
+    "wof:lastmodified":1566658918,
     "wof:name":"Verspreide huizen Steenoven en Langstraat",
     "wof:parent_id":101809507,
     "wof:placetype":"neighbourhood",

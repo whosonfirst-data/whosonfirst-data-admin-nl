@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.23679,
     "lbl:longitude":5.956863,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.233586,
     "mps:longitude":5.941229,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Haelen"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "Haelen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Halen"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -105,7 +108,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":54,
     "wof:belongsto":[
@@ -119,7 +122,6 @@
     "wof:concordances":{
         "gn:id":2754975,
         "gp:id":729659,
-        "qs:id":282768,
         "qs_pg:id":282768,
         "tgn:id":7261936,
         "wd:id":"Q1567699",
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":101809543,
-    "wof:lastmodified":1563350613,
+    "wof:lastmodified":1566658006,
     "wof:name":"Haelen",
     "wof:parent_id":404474557,
     "wof:placetype":"locality",

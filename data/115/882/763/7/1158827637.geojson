@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.814187,
     "lbl:longitude":4.639913,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.814187,
     "mps:longitude":4.639913,
     "mz:hierarchy_label":1,
@@ -40,17 +41,17 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831143,
         404474291,
         85633337,
-        101754703
+        101754703,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"6c5f1c65267bb5c309d2cb06ab1d48db",
+    "wof:geomhash":"7c78336c86f3dabc65049a846e7eb35a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158827637,
-    "wof:lastmodified":1513588161,
+    "wof:lastmodified":1566659943,
     "wof:name":"Corridor-Oost",
     "wof:parent_id":1158831143,
     "wof:placetype":"neighbourhood",
@@ -73,7 +74,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.636258026803207,
+    4.63625802680321,
     51.81229684807703,
     4.64375356744753,
     51.81603276559002

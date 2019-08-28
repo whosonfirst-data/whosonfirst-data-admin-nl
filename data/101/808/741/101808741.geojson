@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.831068,
     "lbl:longitude":5.252978,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.840295,
     "mps:longitude":5.253554,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Waardenburg"
     ],
@@ -75,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8322,
     "wd:longitude":5.2558,
     "wd:wordcount":155,
@@ -91,7 +94,6 @@
         "fct:id":"01f233b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2745116,
         "gp:id":734462,
-        "qs:id":966499,
         "qs_pg:id":966499,
         "tgn:id":7273680,
         "wd:id":"Q2797402",
@@ -113,7 +115,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350873,
+    "wof:lastmodified":1566658147,
     "wof:name":"Waardenburg",
     "wof:parent_id":404473967,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.895733,
     "lbl:longitude":4.512513,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.897681,
     "mps:longitude":4.514821,
     "mz:hierarchy_label":1,
@@ -38,9 +39,6 @@
         "Hillesluis"
     ],
     "name:nld_x_preferred":[
-        "Hillesluis"
-    ],
-    "name:unk_x_variant":[
         "Hillesluis"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -73,7 +71,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":26,
     "wof:belongsto":[
         102191581,
@@ -86,7 +84,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20063970,
-        "qs:id":364418,
         "qs_pg:id":364418,
         "wd:id":"Q2658020"
     },
@@ -107,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563349670,
+    "wof:lastmodified":1566657383,
     "wof:name":"Hillesluis",
     "wof:parent_id":1108805747,
     "wof:placetype":"neighbourhood",

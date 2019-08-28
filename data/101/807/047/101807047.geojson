@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.044272,
     "lbl:longitude":4.579706,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.049643,
     "mps:longitude":4.588671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Moerkapelle"
     ],
@@ -74,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.0456,
     "wd:longitude":4.5753,
     "wd:wordcount":162,
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2750764,
         "gp:id":731730,
-        "qs:id":1168074,
         "qs_pg:id":1168074,
         "tgn:id":7269922,
         "wd:id":"Q2942986",
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101807047,
-    "wof:lastmodified":1563350466,
+    "wof:lastmodified":1566657925,
     "wof:name":"Moerkapelle",
     "wof:parent_id":1158824737,
     "wof:placetype":"locality",

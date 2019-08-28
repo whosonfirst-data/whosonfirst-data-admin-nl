@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.014539,
     "lbl:longitude":5.775784,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.014539,
     "mps:longitude":5.775784,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474521,
         85633337,
         101839197,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158806681,
-    "wof:lastmodified":1559596580,
+    "wof:lastmodified":1566658885,
     "wof:name":"Nattenhoven",
     "wof:parent_id":101839197,
     "wof:placetype":"neighbourhood",

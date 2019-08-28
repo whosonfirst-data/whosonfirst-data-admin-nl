@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":50.881733,
     "lbl:longitude":6.017311,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.881733,
     "mps:longitude":6.017311,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474467,
         85633337,
         101839719,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158805909,
-    "wof:lastmodified":1559596548,
+    "wof:lastmodified":1566658966,
     "wof:name":"Mijnbuurt",
     "wof:parent_id":101839719,
     "wof:placetype":"neighbourhood",

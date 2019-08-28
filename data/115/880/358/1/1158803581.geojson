@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.460296,
     "lbl:longitude":6.118081,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.460296,
     "mps:longitude":6.118081,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473861,
         85633337,
         1158805703,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158803581,
-    "wof:lastmodified":1559595586,
+    "wof:lastmodified":1566658983,
     "wof:name":"Harculo en Hoogzutmen",
     "wof:parent_id":1158805703,
     "wof:placetype":"neighbourhood",

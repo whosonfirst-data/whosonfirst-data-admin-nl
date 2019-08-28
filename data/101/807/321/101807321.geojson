@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.789803,
     "lbl:longitude":6.281167,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.798944,
     "mps:longitude":6.27033,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0423\u0444\u0435\u043b\u0442\u0435"
     ],
@@ -71,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":119,
     "wof:belongsto":[
         85687051,
@@ -84,7 +87,6 @@
     "wof:concordances":{
         "gn:id":2746000,
         "gp:id":734009,
-        "qs:id":270838,
         "qs_pg:id":270838,
         "tgn:id":7271947,
         "wd:id":"Q593294",
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101807321,
-    "wof:lastmodified":1563350561,
+    "wof:lastmodified":1566657980,
     "wof:name":"Uffelte",
     "wof:parent_id":404474613,
     "wof:placetype":"locality",

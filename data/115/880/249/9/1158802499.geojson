@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.137478,
     "lbl:longitude":6.808262,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.137478,
     "mps:longitude":6.808262,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473829,
         85633337,
         101856049,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158802499,
-    "wof:lastmodified":1559596785,
+    "wof:lastmodified":1566659036,
     "wof:name":"Verspreide huizen Buurse",
     "wof:parent_id":101856049,
     "wof:placetype":"neighbourhood",

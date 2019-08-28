@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.123221,
     "lbl:longitude":5.214914,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.123221,
     "mps:longitude":5.214914,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404473975,
         85633337,
         101837657,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158787879,
-    "wof:lastmodified":1559596296,
+    "wof:lastmodified":1566660853,
     "wof:name":"Bilthoven-Zuid",
     "wof:parent_id":101837657,
     "wof:placetype":"neighbourhood",

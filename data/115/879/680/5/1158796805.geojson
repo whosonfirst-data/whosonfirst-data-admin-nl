@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.485373,
     "lbl:longitude":4.298473,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.485373,
     "mps:longitude":4.298473,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801653,
         404474351,
         85633337,
         101839323,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158796805,
-    "wof:lastmodified":1559596498,
+    "wof:lastmodified":1566659442,
     "wof:name":"Warande-West",
     "wof:parent_id":1158801653,
     "wof:placetype":"neighbourhood",

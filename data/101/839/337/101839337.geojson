@@ -20,18 +20,21 @@
     "iso:country":"NL",
     "lbl:latitude":51.24933,
     "lbl:longitude":5.568259,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.251914,
     "mps:longitude":5.571092,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Budel-Schoot"
     ],
     "name:nld_x_preferred":[
         "Budel-Schoot"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Groot Schoot"
     ],
     "qs:a0":"Nederland",
@@ -53,7 +56,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687035,
         102191581,
@@ -65,7 +68,6 @@
     "wof:concordances":{
         "gn:id":2758163,
         "gp:id":728101,
-        "qs:id":278714,
         "qs_pg:id":278714,
         "tgn:id":7262596
     },
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":101839337,
-    "wof:lastmodified":1559594854,
+    "wof:lastmodified":1566658225,
     "wof:name":"Budel-Schoot",
     "wof:parent_id":404474619,
     "wof:placetype":"locality",

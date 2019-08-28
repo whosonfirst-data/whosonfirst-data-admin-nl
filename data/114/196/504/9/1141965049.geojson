@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.926318,
     "lbl:longitude":5.59325,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.926318,
     "mps:longitude":5.59325,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474655,
         85633337,
         101808721,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141965049,
-    "wof:lastmodified":1559596390,
+    "wof:lastmodified":1566661023,
     "wof:name":"Verspreide huizen poldergebied",
     "wof:parent_id":101808721,
     "wof:placetype":"neighbourhood",

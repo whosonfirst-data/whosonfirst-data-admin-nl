@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.585212,
     "lbl:longitude":5.144954,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.581171,
     "mps:longitude":5.135369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Berkel-Enschot"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":325,
     "wof:belongsto":[
         85687035,
@@ -101,7 +104,7 @@
     "wof:concordances":{
         "gn:id":2759090,
         "gp:id":730091,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2682795",
         "wk:page":"Berkel-Enschot"
     },
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101808167,
-    "wof:lastmodified":1563350801,
+    "wof:lastmodified":1566658103,
     "wof:name":"Berkel-Enschot",
     "wof:parent_id":404474435,
     "wof:placetype":"locality",

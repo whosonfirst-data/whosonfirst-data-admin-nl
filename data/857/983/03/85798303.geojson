@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.040193,
     "lbl:longitude":4.334259,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.040379,
     "mps:longitude":4.333959,
     "mz:hierarchy_label":0,
@@ -39,9 +40,6 @@
         "Plaspoelpolder"
     ],
     "name:nld_x_preferred":[
-        "Plaspoelpolder"
-    ],
-    "name:unk_x_variant":[
         "Plaspoelpolder"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -76,19 +74,18 @@
         "quattroshapes_pg",
         "mz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687041,
         102191581,
         85633337,
         101754743,
-        136253051,
-        85687041
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2748554,
         "gp:id":732756,
-        "qs:id":448344,
         "qs_pg:id":448344
     },
     "wof:country":"NL",
@@ -107,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595953,
+    "wof:lastmodified":1566657316,
     "wof:name":"Plaspoelpolder",
     "wof:parent_id":101754743,
     "wof:placetype":"neighbourhood",

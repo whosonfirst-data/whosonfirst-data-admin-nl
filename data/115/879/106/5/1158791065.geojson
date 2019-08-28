@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.731135,
     "lbl:longitude":6.567744,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.731135,
     "mps:longitude":6.567744,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404474649,
         85633337,
         1158792029,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158791065,
-    "wof:lastmodified":1559596087,
+    "wof:lastmodified":1566659650,
     "wof:name":"Nieuweroord kern",
     "wof:parent_id":1158792029,
     "wof:placetype":"neighbourhood",

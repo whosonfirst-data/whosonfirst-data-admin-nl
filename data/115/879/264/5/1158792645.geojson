@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.1856,
     "lbl:longitude":6.547835,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.1856,
     "mps:longitude":6.547835,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473713,
         85633337,
         101751909,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158792645,
-    "wof:lastmodified":1559595580,
+    "wof:lastmodified":1566659786,
     "wof:name":"Hoornse Park",
     "wof:parent_id":101751909,
     "wof:placetype":"neighbourhood",

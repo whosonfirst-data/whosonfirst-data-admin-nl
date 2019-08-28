@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.039152,
     "lbl:longitude":5.345599,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.039152,
     "mps:longitude":5.345599,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         404474547,
         85633337,
         101806997,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158788887,
-    "wof:lastmodified":1559596432,
+    "wof:lastmodified":1566660551,
     "wof:name":"Doorn-Centrum",
     "wof:parent_id":101806997,
     "wof:placetype":"neighbourhood",

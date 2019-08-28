@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.660644,
     "lbl:longitude":5.994758,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.660644,
     "mps:longitude":5.994758,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474483,
         85633337,
         101839249,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158806155,
-    "wof:lastmodified":1559596563,
+    "wof:lastmodified":1566659042,
     "wof:name":"Diekendaal-Nieuwerf",
     "wof:parent_id":101839249,
     "wof:placetype":"neighbourhood",

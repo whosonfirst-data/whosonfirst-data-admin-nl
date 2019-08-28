@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.288035,
     "lbl:longitude":6.833502,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.288035,
     "mps:longitude":6.833502,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         1158804455,
         404473837,
         85633337,
         101751869,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158802797,
-    "wof:lastmodified":1559596957,
+    "wof:lastmodified":1566659014,
     "wof:name":"Molendijkhoek",
     "wof:parent_id":1158804455,
     "wof:placetype":"neighbourhood",

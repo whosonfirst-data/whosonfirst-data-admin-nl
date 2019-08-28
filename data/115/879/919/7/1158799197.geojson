@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.597315,
     "lbl:longitude":5.148189,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.597315,
     "mps:longitude":5.148189,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474435,
         85633337,
         101808167,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158799197,
-    "wof:lastmodified":1559596742,
+    "wof:lastmodified":1566659841,
     "wof:name":"Verspreide huizen ten noorden van Berkel-Enschot",
     "wof:parent_id":101808167,
     "wof:placetype":"neighbourhood",

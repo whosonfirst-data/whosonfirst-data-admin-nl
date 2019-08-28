@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.39806,
     "lbl:longitude":7.009966,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.39806,
     "mps:longitude":7.009966,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404474665,
         85633337,
         101856055,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158804111,
-    "wof:lastmodified":1559595599,
+    "wof:lastmodified":1566659032,
     "wof:name":"Verspreide huizen Noord Deurningen",
     "wof:parent_id":101856055,
     "wof:placetype":"neighbourhood",

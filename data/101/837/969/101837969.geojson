@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.018016,
     "lbl:longitude":5.692146,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.018016,
     "mps:longitude":5.692146,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u043f\u0435\u043d\u0445\u0443\u0438\u0437\u0435\u043d"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":66,
     "wof:belongsto":[
@@ -75,7 +78,6 @@
     "wof:concordances":{
         "gn:id":2749284,
         "gp:id":732442,
-        "qs:id":1291568,
         "qs_pg:id":1291568,
         "tgn:id":1048024,
         "wd:id":"Q639019",
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101837969,
-    "wof:lastmodified":1563350738,
+    "wof:lastmodified":1566658071,
     "wof:name":"Oppenhuizen",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

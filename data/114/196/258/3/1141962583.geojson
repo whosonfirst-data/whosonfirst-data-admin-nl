@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.105154,
     "lbl:longitude":6.067377,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.105154,
     "mps:longitude":6.067377,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473877,
         85633337,
         101807087,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962583,
-    "wof:lastmodified":1559596785,
+    "wof:lastmodified":1566661127,
     "wof:name":"Eerbeek centrum",
     "wof:parent_id":101807087,
     "wof:placetype":"neighbourhood",

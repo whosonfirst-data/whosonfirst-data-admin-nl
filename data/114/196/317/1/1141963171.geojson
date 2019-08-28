@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.459868,
     "lbl:longitude":5.846949,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.459868,
     "mps:longitude":5.846949,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473895,
         85633337,
         101837785,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963171,
-    "wof:lastmodified":1559595669,
+    "wof:lastmodified":1566661333,
     "wof:name":"Verspreide huizen Elburg-Noord",
     "wof:parent_id":101837785,
     "wof:placetype":"neighbourhood",

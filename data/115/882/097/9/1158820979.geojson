@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.510947,
     "lbl:longitude":4.848597,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.510947,
     "mps:longitude":4.848597,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474461,
         85633337,
         1158822955,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158820979,
-    "wof:lastmodified":1559596780,
+    "wof:lastmodified":1566660106,
     "wof:name":"Jisp",
     "wof:parent_id":1158822955,
     "wof:placetype":"neighbourhood",

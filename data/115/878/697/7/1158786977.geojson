@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.527457,
     "lbl:longitude":5.791371,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.527457,
     "mps:longitude":5.791371,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         404473965,
         85633337,
         101803709,
-        136253051
+        136253051,
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158786977,
-    "wof:lastmodified":1559595578,
+    "wof:lastmodified":1566660789,
     "wof:name":"Buitengebied Dronten",
     "wof:parent_id":101803709,
     "wof:placetype":"neighbourhood",

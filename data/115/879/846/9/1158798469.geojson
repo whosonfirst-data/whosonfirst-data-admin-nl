@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.642953,
     "lbl:longitude":4.847886,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.642953,
     "mps:longitude":4.847886,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801731,
         404474413,
         85633337,
         101808317,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158798469,
-    "wof:lastmodified":1559595776,
+    "wof:lastmodified":1566659670,
     "wof:name":"Oud-West",
     "wof:parent_id":1158801731,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.189054,
     "lbl:longitude":6.355707,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.189054,
     "mps:longitude":6.355707,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473721,
         85633337,
         101837989,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158792977,
-    "wof:lastmodified":1559595593,
+    "wof:lastmodified":1566659789,
     "wof:name":"Buitengebied Tolbert",
     "wof:parent_id":101837989,
     "wof:placetype":"neighbourhood",

@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.46694,
     "lbl:longitude":5.801258,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.475123,
     "mps:longitude":5.805732,
     "mz:hierarchy_label":0,
@@ -38,9 +39,6 @@
         "Walsberg"
     ],
     "name:nld_x_preferred":[
-        "Walsberg"
-    ],
-    "name:unk_x_variant":[
         "Walsberg"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -74,20 +72,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474365,
         85633337,
         101808215,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2745063,
         "gp:id":734494,
-        "qs:id":1091121,
         "qs_pg:id":1091121
     },
     "wof:country":"NL",
@@ -107,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596153,
+    "wof:lastmodified":1566657364,
     "wof:name":"Walsberg",
     "wof:parent_id":101808215,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.107455,
     "lbl:longitude":4.285371,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.107455,
     "mps:longitude":4.285371,
     "mz:hierarchy_label":1,
@@ -33,13 +34,13 @@
     "reversegeo:longitude":4.285371,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687041,
         102191581,
         1108833207,
         85633337,
         101752763,
         136253051,
-        1108808041
+        1108808041,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108808169,
-    "wof:lastmodified":1559596298,
+    "wof:lastmodified":1566657579,
     "wof:name":"Rijslag",
     "wof:parent_id":1108833207,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.801923,
     "lbl:longitude":4.667376,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.801923,
     "mps:longitude":4.667376,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831089,
         85633337,
         101751841,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158825669,
-    "wof:lastmodified":1559596373,
+    "wof:lastmodified":1566659967,
     "wof:name":"Pr. Bernhardstraat en omgeving",
     "wof:parent_id":1158831089,
     "wof:placetype":"neighbourhood",

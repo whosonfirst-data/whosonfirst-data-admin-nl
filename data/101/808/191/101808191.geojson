@@ -22,11 +22,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.678914,
     "lbl:longitude":5.507634,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.676656,
     "mps:longitude":5.506436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u043e\u0441\u0431\u0440\u043e\u0435\u043a"
     ],
@@ -71,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":321,
     "wof:belongsto":[
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":2751449,
         "gp:id":731403,
-        "qs:id":246786,
         "qs_pg:id":246786,
         "tgn:id":7265048,
         "wd:id":"Q2416823",
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101808191,
-    "wof:lastmodified":1563350881,
+    "wof:lastmodified":1566658155,
     "wof:name":"Loosbroek",
     "wof:parent_id":404474633,
     "wof:placetype":"locality",

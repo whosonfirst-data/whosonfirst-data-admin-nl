@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.421069,
     "lbl:longitude":5.289591,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.426762,
     "mps:longitude":5.281619,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Vessem"
     ],
@@ -68,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
         85687035,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2745589,
         "gp:id":734231,
-        "qs:id":261455,
         "qs_pg:id":261455,
         "tgn:id":7272434,
         "wd:id":"Q1908841",
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101809749,
-    "wof:lastmodified":1563350613,
+    "wof:lastmodified":1566658007,
     "wof:name":"Vessem",
     "wof:parent_id":404474371,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.205678,
     "lbl:longitude":6.503056,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.205678,
     "mps:longitude":6.503056,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473713,
         85633337,
         101754893,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158792655,
-    "wof:lastmodified":1559597030,
+    "wof:lastmodified":1566659764,
     "wof:name":"Hoogkerk-Zuid",
     "wof:parent_id":101754893,
     "wof:placetype":"neighbourhood",

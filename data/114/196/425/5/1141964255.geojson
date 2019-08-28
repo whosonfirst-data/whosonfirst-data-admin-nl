@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.964227,
     "lbl:longitude":6.710499,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.964227,
     "mps:longitude":6.710499,
     "mz:hierarchy_label":1,
@@ -46,12 +47,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473951,
         85633337,
         101809855,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1141964255,
-    "wof:lastmodified":1559595726,
+    "wof:lastmodified":1566661054,
     "wof:name":"Zuidwest",
     "wof:parent_id":101809855,
     "wof:placetype":"neighbourhood",

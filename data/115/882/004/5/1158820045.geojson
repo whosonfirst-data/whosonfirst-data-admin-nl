@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.638108,
     "lbl:longitude":5.101208,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.638108,
     "mps:longitude":5.101208,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823351,
         404474083,
         85633337,
         101751883,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158820045,
-    "wof:lastmodified":1559595861,
+    "wof:lastmodified":1566660332,
     "wof:name":"Hoorn 80 - Buurt 34 02",
     "wof:parent_id":1158823351,
     "wof:placetype":"neighbourhood",

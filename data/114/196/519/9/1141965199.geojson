@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.99865,
     "lbl:longitude":6.380442,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.99865,
     "mps:longitude":6.380442,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474673,
         85633337,
         101809865,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141965199,
-    "wof:lastmodified":1559595808,
+    "wof:lastmodified":1566661156,
     "wof:name":"Verspreide huizen Zelhem",
     "wof:parent_id":101809865,
     "wof:placetype":"neighbourhood",

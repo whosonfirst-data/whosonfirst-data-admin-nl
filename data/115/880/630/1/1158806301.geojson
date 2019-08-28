@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":50.872381,
     "lbl:longitude":6.062996,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.872381,
     "mps:longitude":6.062996,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158818155,
         404474489,
         85633337,
         101839255,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158806301,
-    "wof:lastmodified":1559596543,
+    "wof:lastmodified":1566659075,
     "wof:name":"Erenstein",
     "wof:parent_id":1158818155,
     "wof:placetype":"neighbourhood",

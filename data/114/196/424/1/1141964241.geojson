@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.95529,
     "lbl:longitude":5.977119,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.95529,
     "mps:longitude":5.977119,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473949,
         85633337,
         101837821,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964241,
-    "wof:lastmodified":1559595732,
+    "wof:lastmodified":1566661086,
     "wof:name":"Westervoort-Broeklanden",
     "wof:parent_id":101837821,
     "wof:placetype":"neighbourhood",

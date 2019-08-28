@@ -18,11 +18,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.151064,
     "lbl:longitude":4.526196,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.155351,
     "mps:longitude":4.537715,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u064a\u062f\u0631\u062f\u0648\u0631\u0628"
     ],
@@ -172,7 +175,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wd:wordcount":327,
     "wof:belongsto":[
@@ -186,7 +189,6 @@
         "fct:id":"01f13594-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2751771,
         "gp:id":731221,
-        "qs:id":1037745,
         "qs_pg:id":1037745,
         "tgn:id":1047909,
         "wd:id":"Q1000817",
@@ -207,7 +209,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350289,
+    "wof:lastmodified":1566657854,
     "wof:name":"Leiderdorp",
     "wof:parent_id":85687041,
     "wof:placetype":"locality",

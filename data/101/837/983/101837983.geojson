@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.193041,
     "lbl:longitude":6.872762,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.202978,
     "mps:longitude":6.879034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Noordbroek"
     ],
@@ -80,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.1933,
     "wd:longitude":6.8742,
     "wd:wordcount":85,
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":2749989,
         "gp:id":732122,
-        "qs:id":270102,
         "qs_pg:id":270102,
         "tgn:id":7268396,
         "wd:id":"Q1924750",
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101837983,
-    "wof:lastmodified":1563350715,
+    "wof:lastmodified":1566658060,
     "wof:name":"Noordbroek",
     "wof:parent_id":404474691,
     "wof:placetype":"locality",

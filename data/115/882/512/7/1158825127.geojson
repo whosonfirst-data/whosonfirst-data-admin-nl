@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.867326,
     "lbl:longitude":4.505976,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.867326,
     "mps:longitude":4.505976,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831079,
         85633337,
         101754615,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158825127,
-    "wof:lastmodified":1559595579,
+    "wof:lastmodified":1566660455,
     "wof:name":"Vrijenburgbos",
     "wof:parent_id":1158831079,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.233267,
     "lbl:longitude":4.451069,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.233267,
     "mps:longitude":4.451069,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474221,
         85633337,
         101837701,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158826629,
-    "wof:lastmodified":1559596488,
+    "wof:lastmodified":1566660364,
     "wof:name":"Dorpskern",
     "wof:parent_id":101837701,
     "wof:placetype":"neighbourhood",

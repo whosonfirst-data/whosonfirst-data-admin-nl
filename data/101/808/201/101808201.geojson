@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.771311,
     "lbl:longitude":5.642287,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.769061,
     "mps:longitude":5.617806,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0425\u0435\u0440\u043f\u0435\u043d"
     ],
@@ -68,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":279,
     "wof:belongsto":[
         85687035,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2754339,
         "gp:id":730014,
-        "qs:id":1351042,
         "qs_pg:id":1351042,
         "tgn:id":7266444,
         "wd:id":"Q2765944",
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101808201,
-    "wof:lastmodified":1563350931,
+    "wof:lastmodified":1566658179,
     "wof:name":"Herpen",
     "wof:parent_id":404474415,
     "wof:placetype":"locality",

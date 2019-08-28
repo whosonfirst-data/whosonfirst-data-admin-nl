@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.455563,
     "lbl:longitude":5.69552,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.447135,
     "mps:longitude":5.667981,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Biddinghuizen"
     ],
@@ -79,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.4542,
     "wd:longitude":5.6942,
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":2758992,
         "gp:id":727698,
-        "qs:id":1037783,
         "qs_pg:id":1037783,
         "tgn:id":7256439,
         "wd:id":"Q599331",
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101807239,
-    "wof:lastmodified":1563350543,
+    "wof:lastmodified":1566657969,
     "wof:name":"Biddinghuizen",
     "wof:parent_id":404473965,
     "wof:placetype":"locality",

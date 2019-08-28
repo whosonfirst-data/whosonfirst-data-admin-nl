@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.224992,
     "lbl:longitude":6.977481,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.224992,
     "mps:longitude":6.977481,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473841,
         85633337,
         1158805653,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158802981,
-    "wof:lastmodified":1559595555,
+    "wof:lastmodified":1566659073,
     "wof:name":"Glane-beekhoek",
     "wof:parent_id":1158805653,
     "wof:placetype":"neighbourhood",

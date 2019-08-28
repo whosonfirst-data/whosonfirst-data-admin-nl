@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.273857,
     "lbl:longitude":6.978699,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.273857,
     "mps:longitude":6.978699,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473841,
         85633337,
         101807147,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158802979,
-    "wof:lastmodified":1559595553,
+    "wof:lastmodified":1566659096,
     "wof:name":"Verspreide huizen Losser",
     "wof:parent_id":101807147,
     "wof:placetype":"neighbourhood",

@@ -22,6 +22,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.911362,
     "lbl:longitude":4.544724,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.917694,
     "mps:longitude":4.536591,
     "mz:hierarchy_label":0,
@@ -35,9 +36,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":15,
     "name:nld_x_preferred":[
-        "Rivium"
-    ],
-    "name:unk_x_variant":[
         "Rivium"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -70,19 +68,18 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687041,
         102191581,
         85633337,
         101751843,
         136253051,
-        1108805741
+        1108805741,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20063981,
-        "qs:id":1087201,
         "qs_pg:id":1087201
     },
     "wof:country":"NL",
@@ -102,7 +99,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596007,
+    "wof:lastmodified":1566657373,
     "wof:name":"Rivium",
     "wof:parent_id":1108805741,
     "wof:placetype":"neighbourhood",

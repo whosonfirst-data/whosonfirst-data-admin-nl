@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.548818,
     "lbl:longitude":4.277727,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.553856,
     "mps:longitude":4.257334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Lepelstraat"
     ],
@@ -75,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.5483,
     "wd:longitude":4.2769,
@@ -92,7 +95,6 @@
         "fct:id":"01f138f0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2751709,
         "gp:id":731270,
-        "qs:id":971201,
         "qs_pg:id":971201,
         "tgn:id":7263976,
         "wd:id":"Q581785",
@@ -114,7 +116,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350945,
+    "wof:lastmodified":1566658188,
     "wof:name":"Lepelstraat",
     "wof:parent_id":404474351,
     "wof:placetype":"locality",

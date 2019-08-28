@@ -18,11 +18,14 @@
     "iso:country":"NL",
     "lbl:latitude":50.946427,
     "lbl:longitude":5.971893,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.944386,
     "mps:longitude":5.982489,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Brunssum"
     ],
@@ -143,9 +146,6 @@
     "name:tur_x_preferred":[
         "Brunssum"
     ],
-    "name:unk_x_variant":[
-        "Brunsum"
-    ],
     "name:vie_x_preferred":[
         "Brunssum"
     ],
@@ -183,7 +183,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wd:wordcount":540,
     "wof:belongsto":[
@@ -197,7 +197,6 @@
         "fct:id":"01f069a2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2758174,
         "gp:id":728094,
-        "qs:id":794378,
         "qs_pg:id":794378,
         "tgn:id":1047683,
         "wd:id":"Q9803"
@@ -217,7 +216,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351066,
+    "wof:lastmodified":1566658244,
     "wof:name":"Brunssum",
     "wof:parent_id":85687033,
     "wof:placetype":"locality",

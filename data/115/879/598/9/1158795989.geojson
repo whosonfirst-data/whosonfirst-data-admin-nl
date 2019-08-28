@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.262403,
     "lbl:longitude":6.893934,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.262403,
     "mps:longitude":6.893934,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473735,
         85633337,
         101838007,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158795989,
-    "wof:lastmodified":1559596397,
+    "wof:lastmodified":1566659660,
     "wof:name":"Verspreide huizen ten noorden van Siddeburen",
     "wof:parent_id":101838007,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.276368,
     "lbl:longitude":5.970821,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.276368,
     "mps:longitude":5.970821,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474557,
         85633337,
         101809565,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807331,
-    "wof:lastmodified":1559595712,
+    "wof:lastmodified":1566658956,
     "wof:name":"Verspreide huizen Neer",
     "wof:parent_id":101809565,
     "wof:placetype":"neighbourhood",

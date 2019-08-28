@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.380185,
     "lbl:longitude":6.482306,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.380185,
     "mps:longitude":6.482306,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473749,
         85633337,
         1158796579,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158793357,
-    "wof:lastmodified":1559596501,
+    "wof:lastmodified":1566659628,
     "wof:name":"Saaxumhuizen",
     "wof:parent_id":1158796579,
     "wof:placetype":"neighbourhood",

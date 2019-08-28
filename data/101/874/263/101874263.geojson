@@ -22,11 +22,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.215975,
     "lbl:longitude":4.650609,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.214344,
     "mps:longitude":4.64456,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Oude Wetering"
     ],
@@ -75,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687041,
@@ -88,11 +91,13 @@
     "wof:concordances":{
         "gn:id":2748968,
         "gp:id":732547,
-        "qs:id":5,
-        "qs_pg:id":962711,
+        "qs_pg:id":5,
         "tgn:id":7267210,
         "wd:id":"Q2265226",
         "wk:page":"Oude Wetering"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":962711
     },
     "wof:country":"NL",
     "wof:geomhash":"7a5d2922d0fcaedf069d7cdc8cd08d8a",
@@ -107,7 +112,7 @@
         }
     ],
     "wof:id":101874263,
-    "wof:lastmodified":1563350323,
+    "wof:lastmodified":1566657870,
     "wof:name":"Oude Wetering",
     "wof:parent_id":404474677,
     "wof:placetype":"locality",

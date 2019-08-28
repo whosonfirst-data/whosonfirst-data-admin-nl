@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.215841,
     "lbl:longitude":6.197696,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.215841,
     "mps:longitude":6.197696,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473915,
         85633337,
         101855355,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963645,
-    "wof:lastmodified":1559595702,
+    "wof:lastmodified":1566661030,
     "wof:name":"Verspreide huizen Epse",
     "wof:parent_id":101855355,
     "wof:placetype":"neighbourhood",

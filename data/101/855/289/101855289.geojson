@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.190063,
     "lbl:longitude":5.357211,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.193395,
     "mps:longitude":5.349978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Hoogland"
     ],
@@ -78,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.1872,
     "wd:longitude":5.3744,
@@ -95,7 +98,6 @@
         "fct:id":"01f0fdf4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2753686,
         "gp:id":730337,
-        "qs:id":1351128,
         "qs_pg:id":1351128,
         "tgn:id":7264403,
         "wd:id":"Q1851399"
@@ -116,7 +118,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351089,
+    "wof:lastmodified":1566658254,
     "wof:name":"Hoogland",
     "wof:parent_id":404473971,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.794089,
     "lbl:longitude":5.608759,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.794089,
     "mps:longitude":5.608759,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474415,
         85633337,
         1158801637,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158798749,
-    "wof:lastmodified":1559597123,
+    "wof:lastmodified":1566659424,
     "wof:name":"Verspreide huizen Deursen en Dennenburg",
     "wof:parent_id":1158801637,
     "wof:placetype":"neighbourhood",

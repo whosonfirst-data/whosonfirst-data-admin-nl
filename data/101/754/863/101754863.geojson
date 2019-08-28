@@ -18,11 +18,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.309675,
     "lbl:longitude":5.034763,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.305316,
     "mps:longitude":5.04361,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0633\u0628"
     ],
@@ -192,7 +195,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wd:latitude":52.3069,
     "wd:longitude":5.0417,
@@ -207,7 +210,6 @@
         "fct:id":"01f23e4e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2744904,
         "gp:id":734566,
-        "qs:id":796298,
         "qs_pg:id":796298,
         "tgn:id":1048226,
         "wd:id":"Q9974",
@@ -227,7 +229,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350300,
+    "wof:lastmodified":1566657858,
     "wof:name":"Weesp",
     "wof:parent_id":85687053,
     "wof:placetype":"locality",

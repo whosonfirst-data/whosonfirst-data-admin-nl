@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.838757,
     "lbl:longitude":5.991503,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.842429,
     "mps:longitude":5.989004,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Leuth"
     ],
@@ -50,7 +53,7 @@
     "name:sqi_x_preferred":[
         "Leuth"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Leut"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -75,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8383,
     "wd:longitude":5.9928,
     "wd:wordcount":269,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":2751682,
         "gp:id":731287,
-        "qs:id":973006,
         "qs_pg:id":973006,
         "tgn:id":7264165,
         "wd:id":"Q1528601",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101808625,
-    "wof:lastmodified":1563350903,
+    "wof:lastmodified":1566658167,
     "wof:name":"Leuth",
     "wof:parent_id":1158783377,
     "wof:placetype":"locality",

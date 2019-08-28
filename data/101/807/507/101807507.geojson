@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.035121,
     "lbl:longitude":7.040981,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.026871,
     "mps:longitude":7.046695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Onstwedde"
     ],
@@ -86,7 +89,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.0353,
     "wd:longitude":7.0411,
     "wd:wordcount":93,
@@ -101,7 +104,6 @@
     "wof:concordances":{
         "gn:id":2749577,
         "gp:id":732290,
-        "qs:id":1351973,
         "qs_pg:id":1351973,
         "tgn:id":1048010,
         "wd:id":"Q2382045",
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101807507,
-    "wof:lastmodified":1563350511,
+    "wof:lastmodified":1566657950,
     "wof:name":"Onstwedde",
     "wof:parent_id":404473731,
     "wof:placetype":"locality",

@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.034675,
     "lbl:longitude":5.662949,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":52.052055,
     "mps:longitude":5.675245,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":8.0,
     "name:cat_x_preferred":[
         "Ede"
     ],
@@ -95,7 +98,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687043,
@@ -109,7 +112,6 @@
         "fct:id":"01f09940-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2756429,
         "gp:id":728940,
-        "qs:id":794562,
         "qs_pg:id":794562,
         "tgn:id":1047745
     },
@@ -129,7 +131,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1564234605,
+    "wof:lastmodified":1566657905,
     "wof:name":"Ede",
     "wof:parent_id":404473893,
     "wof:placetype":"locality",

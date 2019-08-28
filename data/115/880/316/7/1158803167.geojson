@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.396177,
     "lbl:longitude":6.269026,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.396177,
     "mps:longitude":6.269026,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404473849,
         85633337,
         101808759,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158803167,
-    "wof:lastmodified":1559597049,
+    "wof:lastmodified":1566659121,
     "wof:name":"Drostenkamp en Tijenraan",
     "wof:parent_id":101808759,
     "wof:placetype":"neighbourhood",

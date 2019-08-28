@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.748876,
     "lbl:longitude":6.801202,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.748876,
     "mps:longitude":6.801202,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404473807,
         85633337,
         1158792009,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158790785,
-    "wof:lastmodified":1559596078,
+    "wof:lastmodified":1566659462,
     "wof:name":"Verspreide huizen Elm",
     "wof:parent_id":1158792009,
     "wof:placetype":"neighbourhood",

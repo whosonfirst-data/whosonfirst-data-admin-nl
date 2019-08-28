@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":50.896738,
     "lbl:longitude":5.968301,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.903706,
     "mps:longitude":5.984622,
     "mz:hierarchy_label":0,
@@ -38,9 +39,6 @@
         "Palemig"
     ],
     "name:nld_x_preferred":[
-        "Palemig"
-    ],
-    "name:unk_x_variant":[
         "Palemig"
     ],
     "qs:gn_fcode":"PPLX",
@@ -72,21 +70,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158818167,
         404474485,
         85633337,
         101839245,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2748763,
         "gp:id":732657,
-        "qs:id":1158310,
         "qs_pg:id":1158310
     },
     "wof:country":"NL",
@@ -107,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596022,
+    "wof:lastmodified":1566657339,
     "wof:name":"Palemig",
     "wof:parent_id":1158818167,
     "wof:placetype":"neighbourhood",

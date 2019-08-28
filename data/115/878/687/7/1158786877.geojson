@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.687731,
     "lbl:longitude":5.655895,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.687731,
     "mps:longitude":5.655895,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         404473843,
         85633337,
         101807243,
-        136253051
+        136253051,
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158786877,
-    "wof:lastmodified":1559595574,
+    "wof:lastmodified":1566660544,
     "wof:name":"Tollebeek-landelijk gebied",
     "wof:parent_id":101807243,
     "wof:placetype":"neighbourhood",

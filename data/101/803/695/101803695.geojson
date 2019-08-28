@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.010718,
     "lbl:longitude":4.584657,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.009728,
     "mps:longitude":4.57824,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zevenhuizen"
     ],
@@ -56,7 +59,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":129,
     "wof:belongsto":[
         85687041,
@@ -69,7 +72,6 @@
     "wof:concordances":{
         "gn:id":2743930,
         "gp:id":735047,
-        "qs:id":1074852,
         "qs_pg:id":1074852,
         "tgn:id":7274121,
         "wd:id":"Q407031"
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101803695,
-    "wof:lastmodified":1563350338,
+    "wof:lastmodified":1566657879,
     "wof:name":"Zevenhuizen",
     "wof:parent_id":1158824737,
     "wof:placetype":"locality",

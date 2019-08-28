@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.294184,
     "lbl:longitude":5.946427,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.294184,
     "mps:longitude":5.946427,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473897,
         85633337,
         101808551,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963231,
-    "wof:lastmodified":1559596125,
+    "wof:lastmodified":1566661159,
     "wof:name":"Verspreide huizen Vaassen",
     "wof:parent_id":101808551,
     "wof:placetype":"neighbourhood",

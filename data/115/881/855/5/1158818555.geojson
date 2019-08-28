@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.603557,
     "lbl:longitude":4.943824,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.603557,
     "mps:longitude":4.943824,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474039,
         85633337,
         1158822797,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158818555,
-    "wof:lastmodified":1559595949,
+    "wof:lastmodified":1566659296,
     "wof:name":"Verspreide huizen Noordbeemster",
     "wof:parent_id":1158822797,
     "wof:placetype":"neighbourhood",

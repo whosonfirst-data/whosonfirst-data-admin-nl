@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.880572,
     "lbl:longitude":5.706867,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.875217,
     "mps:longitude":5.698608,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Winssen"
     ],
@@ -41,7 +44,7 @@
     "name:por_x_preferred":[
         "Winssen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Winsen"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -66,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8833,
     "wd:longitude":5.7,
     "wd:wordcount":151,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2744339,
         "gp:id":734814,
-        "qs:id":895789,
         "qs_pg:id":895789,
         "tgn:id":4012307,
         "wd:id":"Q2639830",
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101809853,
-    "wof:lastmodified":1563350658,
+    "wof:lastmodified":1566658031,
     "wof:name":"Winssen",
     "wof:parent_id":404473875,
     "wof:placetype":"locality",

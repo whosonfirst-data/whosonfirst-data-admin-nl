@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.778773,
     "lbl:longitude":5.247255,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.778773,
     "mps:longitude":5.247255,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473955,
         85633337,
         101855335,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964477,
-    "wof:lastmodified":1559596344,
+    "wof:lastmodified":1566661034,
     "wof:name":"Verspreide huizen Kerkwijk en Bruchem",
     "wof:parent_id":101855335,
     "wof:placetype":"neighbourhood",

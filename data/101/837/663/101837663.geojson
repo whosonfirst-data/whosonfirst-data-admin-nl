@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.064525,
     "lbl:longitude":5.373067,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.064383,
     "mps:longitude":5.36161,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Maarn"
     ],
@@ -97,7 +100,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.0642,
     "wd:longitude":5.3731,
@@ -114,7 +117,6 @@
         "fct:id":"01f14b10-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2751320,
         "gp:id":731467,
-        "qs:id":457875,
         "qs_pg:id":457875,
         "tgn:id":7265607,
         "wd:id":"Q1616311",
@@ -136,7 +138,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350760,
+    "wof:lastmodified":1566658082,
     "wof:name":"Maarn",
     "wof:parent_id":404474547,
     "wof:placetype":"locality",

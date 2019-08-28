@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.117735,
     "lbl:longitude":5.784762,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.117735,
     "mps:longitude":5.784762,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u0435\u0434\u0443\u0437\u0443\u043c"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687055,
@@ -76,7 +79,7 @@
     "wof:concordances":{
         "gn:id":2747938,
         "gp:id":733050,
-        "qs:id":92430,
+        "qs_pg:id":92430,
         "tgn:id":1048074,
         "wd:id":"Q1998422",
         "wk:page":"Reduzum"
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101807461,
-    "wof:lastmodified":1563350546,
+    "wof:lastmodified":1566657971,
     "wof:name":"Reduzum",
     "wof:parent_id":404473775,
     "wof:placetype":"locality",

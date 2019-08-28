@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.48085,
     "lbl:longitude":4.65621,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.488251,
     "mps:longitude":4.61757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Klein-Zundert"
     ],
@@ -59,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1225,
     "wof:belongsto":[
         85687035,
@@ -73,7 +76,6 @@
         "fct:id":"01f11b54-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2752660,
         "gp:id":730790,
-        "qs:id":981187,
         "qs_pg:id":981187,
         "tgn:id":7265811,
         "wd:id":"Q2419879"
@@ -94,7 +96,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351079,
+    "wof:lastmodified":1566658249,
     "wof:name":"Klein-Zundert",
     "wof:parent_id":404474459,
     "wof:placetype":"locality",

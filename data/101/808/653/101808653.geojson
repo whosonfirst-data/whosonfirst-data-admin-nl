@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.892307,
     "lbl:longitude":5.670993,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.885036,
     "mps:longitude":5.668933,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Deest"
     ],
@@ -66,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.883333,
     "wd:longitude":5.666667,
     "wd:wordcount":117,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2757651,
         "gp:id":728596,
-        "qs:id":314730,
         "qs_pg:id":314730,
         "tgn:id":7263134,
         "wd:id":"Q2335535",
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101808653,
-    "wof:lastmodified":1563350933,
+    "wof:lastmodified":1566658180,
     "wof:name":"Deest",
     "wof:parent_id":404473889,
     "wof:placetype":"locality",

@@ -14,6 +14,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.219747,
     "lbl:longitude":6.912729,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.210003,
     "mps:longitude":6.912536,
     "mz:hierarchy_label":0,
@@ -33,9 +34,6 @@
         "Wooldrik"
     ],
     "name:nld_x_preferred":[
-        "Hogeland"
-    ],
-    "name:unk_x_variant":[
         "Hogeland"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -70,21 +68,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687045,
         102191581,
         1158805837,
         404473827,
         85633337,
         101751871,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2753942,
         "gp:id":730206,
-        "qs:id":1080764,
         "qs_pg:id":1080764
     },
     "wof:country":"NL",
@@ -105,7 +102,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595952,
+    "wof:lastmodified":1566657316,
     "wof:name":"Hogeland",
     "wof:parent_id":1158805837,
     "wof:placetype":"neighbourhood",

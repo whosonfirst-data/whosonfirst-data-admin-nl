@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.666621,
     "lbl:longitude":5.412346,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.664389,
     "mps:longitude":5.420528,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Middelrode"
     ],
@@ -50,7 +53,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687035,
         102191581,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":2750870,
         "gp:id":731675,
-        "qs:id":79234,
         "qs_pg:id":79234,
         "tgn:id":7269774
     },
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":101839375,
-    "wof:lastmodified":1559594937,
+    "wof:lastmodified":1566658250,
     "wof:name":"Middelrode",
     "wof:parent_id":404474421,
     "wof:placetype":"locality",

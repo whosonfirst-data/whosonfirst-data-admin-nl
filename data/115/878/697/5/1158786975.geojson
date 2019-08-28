@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.452631,
     "lbl:longitude":5.69053,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.452631,
     "mps:longitude":5.69053,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         404473965,
         85633337,
         101807239,
-        136253051
+        136253051,
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158786975,
-    "wof:lastmodified":1559596941,
+    "wof:lastmodified":1566660790,
     "wof:name":"Oud-Biddinghuizen",
     "wof:parent_id":101807239,
     "wof:placetype":"neighbourhood",

@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":50.920115,
     "lbl:longitude":5.931095,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.919359,
     "mps:longitude":5.928206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Hoensbroek"
     ],
@@ -84,7 +87,7 @@
     "name:swe_x_preferred":[
         "Hoensbroek"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hoensbrock"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -109,7 +112,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.916667,
     "wd:longitude":5.933333,
@@ -125,7 +128,6 @@
     "wof:concordances":{
         "gn:id":2753996,
         "gp:id":730176,
-        "qs:id":685135,
         "qs_pg:id":685135,
         "tgn:id":1047852,
         "wd:id":"Q783094",
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":101839229,
-    "wof:lastmodified":1563351020,
+    "wof:lastmodified":1566658226,
     "wof:name":"Hoensbroek",
     "wof:parent_id":404474485,
     "wof:placetype":"locality",

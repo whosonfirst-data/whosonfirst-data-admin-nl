@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.956658,
     "lbl:longitude":6.017394,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.956658,
     "mps:longitude":6.017394,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473891,
         85633337,
         101837765,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962981,
-    "wof:lastmodified":1559595659,
+    "wof:lastmodified":1566661283,
     "wof:name":"De Ploen",
     "wof:parent_id":101837765,
     "wof:placetype":"neighbourhood",

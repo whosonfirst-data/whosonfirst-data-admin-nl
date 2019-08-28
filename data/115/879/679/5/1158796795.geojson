@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.503803,
     "lbl:longitude":4.297765,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.503803,
     "mps:longitude":4.297765,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801657,
         404474351,
         85633337,
         101839323,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158796795,
-    "wof:lastmodified":1559596621,
+    "wof:lastmodified":1566659718,
     "wof:name":"Meilust Zuid",
     "wof:parent_id":1158801657,
     "wof:placetype":"neighbourhood",

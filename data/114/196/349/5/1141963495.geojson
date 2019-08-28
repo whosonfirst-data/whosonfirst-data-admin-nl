@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.469126,
     "lbl:longitude":6.042692,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.469126,
     "mps:longitude":6.042692,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473909,
         85633337,
         101837771,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963495,
-    "wof:lastmodified":1559597064,
+    "wof:lastmodified":1566661166,
     "wof:name":"Verspreide huizen Koeweg en Molecaten",
     "wof:parent_id":101837771,
     "wof:placetype":"neighbourhood",

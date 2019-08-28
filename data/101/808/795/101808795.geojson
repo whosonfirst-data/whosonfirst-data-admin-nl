@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.727478,
     "lbl:longitude":4.832547,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.729772,
     "mps:longitude":4.819119,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Waarland"
     ],
@@ -63,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.7258,
     "wd:longitude":4.8322,
     "wd:wordcount":112,
@@ -79,7 +82,6 @@
         "fct:id":"01f2344e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2745105,
         "gp:id":734466,
-        "qs:id":1219857,
         "qs_pg:id":1219857,
         "tgn:id":7273797,
         "wd:id":"Q2361617",
@@ -101,7 +103,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350897,
+    "wof:lastmodified":1566658163,
     "wof:name":"Waarland",
     "wof:parent_id":404474113,
     "wof:placetype":"locality",

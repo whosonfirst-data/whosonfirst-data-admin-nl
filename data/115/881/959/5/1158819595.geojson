@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.670729,
     "lbl:longitude":4.866255,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.670729,
     "mps:longitude":4.866255,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823309,
         404474075,
         85633337,
         101754815,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158819595,
-    "wof:lastmodified":1559596161,
+    "wof:lastmodified":1566659252,
     "wof:name":"De Draai Midden",
     "wof:parent_id":1158823309,
     "wof:placetype":"neighbourhood",

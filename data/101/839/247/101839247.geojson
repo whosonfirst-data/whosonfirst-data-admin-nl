@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":50.916905,
     "lbl:longitude":5.957691,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.918452,
     "mps:longitude":5.960764,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Heerlerheide"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687033,
         102191581,
@@ -79,7 +82,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2754649,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q966265",
         "wk:page":"Heerlerheide"
     },
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101839247,
-    "wof:lastmodified":1563351059,
+    "wof:lastmodified":1566658242,
     "wof:name":"Heerlerheide",
     "wof:parent_id":404474485,
     "wof:placetype":"locality",

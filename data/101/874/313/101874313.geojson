@@ -11,13 +11,17 @@
     "geom:longitude":6.075231,
     "gn:population":1111,
     "iso:country":"NL",
+    "lbl:bbox":"6.055231,52.836682,6.095231,52.876682",
     "lbl:latitude":52.856682,
     "lbl:longitude":6.075231,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.856682,
     "mps:longitude":6.075231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0435\u0433\u0435\u0440\u0434\u0430"
     ],
@@ -42,7 +46,7 @@
     "name:nld_x_preferred":[
         "Steggerda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Steggerden"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":59,
     "wof:belongsto":[
@@ -79,7 +83,6 @@
     "wof:concordances":{
         "gn:id":2746752,
         "gp:id":733647,
-        "qs:id":187904,
         "qs_pg:id":187904,
         "tgn:id":7272105,
         "wd:id":"Q2412113",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101874313,
-    "wof:lastmodified":1563350320,
+    "wof:lastmodified":1566657869,
     "wof:name":"Steggerda",
     "wof:parent_id":404473801,
     "wof:placetype":"locality",

@@ -18,11 +18,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.603654,
     "lbl:longitude":4.69934,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.600492,
     "mps:longitude":4.708577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0644\u0648"
     ],
@@ -149,9 +152,6 @@
     "name:tur_x_preferred":[
         "Heiloo"
     ],
-    "name:unk_x_variant":[
-        "Heilo"
-    ],
     "name:vie_x_preferred":[
         "Heiloo"
     ],
@@ -189,7 +189,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wd:wordcount":492,
     "wof:belongsto":[
@@ -203,7 +203,6 @@
         "fct:id":"01f0e51c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2754516,
         "gp:id":729929,
-        "qs:id":457807,
         "qs_pg:id":457807,
         "tgn:id":1047838,
         "wd:id":"Q9932"
@@ -223,7 +222,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350442,
+    "wof:lastmodified":1566657912,
     "wof:name":"Heiloo",
     "wof:parent_id":85687053,
     "wof:placetype":"locality",

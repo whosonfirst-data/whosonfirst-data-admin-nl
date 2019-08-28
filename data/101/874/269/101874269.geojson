@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.138836,
     "lbl:longitude":6.526656,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.140642,
     "mps:longitude":6.514206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Geesteren"
     ],
@@ -65,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.1389,
     "wd:longitude":6.5264,
     "wd:wordcount":149,
@@ -80,7 +83,6 @@
         "fct:id":"01f0bcd6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2755653,
         "gp:id":729344,
-        "qs:id":1168032,
         "qs_pg:id":1168032,
         "tgn:id":7261858,
         "wd:id":"Q171266",
@@ -101,7 +103,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350319,
+    "wof:lastmodified":1566657868,
     "wof:name":"Geesteren",
     "wof:parent_id":404474671,
     "wof:placetype":"locality",

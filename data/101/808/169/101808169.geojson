@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.603449,
     "lbl:longitude":5.673792,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.605808,
     "mps:longitude":5.676096,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u0644"
     ],
@@ -153,7 +156,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":591,
     "wof:belongsto":[
@@ -168,7 +171,6 @@
         "fct:id":"01f05930-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2758759,
         "gp:id":727804,
-        "qs:id":261448,
         "qs_pg:id":261448,
         "tgn:id":7257503,
         "wd:id":"Q9818"
@@ -189,7 +191,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350805,
+    "wof:lastmodified":1566658106,
     "wof:name":"Boekel",
     "wof:parent_id":404474357,
     "wof:placetype":"locality",

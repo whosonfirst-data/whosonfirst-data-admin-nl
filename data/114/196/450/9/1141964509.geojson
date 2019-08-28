@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.934295,
     "lbl:longitude":6.055336,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.934295,
     "mps:longitude":6.055336,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473957,
         85633337,
         101809869,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964509,
-    "wof:lastmodified":1559596331,
+    "wof:lastmodified":1566661295,
     "wof:name":"Methen",
     "wof:parent_id":101809869,
     "wof:placetype":"neighbourhood",

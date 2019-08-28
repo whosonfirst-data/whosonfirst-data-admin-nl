@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.333219,
     "lbl:longitude":5.400731,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.332266,
     "mps:longitude":5.404671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Westerhoven"
     ],
@@ -80,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":230,
     "wof:belongsto":[
         85687035,
@@ -94,7 +97,6 @@
         "fct:id":"01f2474a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2744731,
         "gp:id":734666,
-        "qs:id":1080872,
         "qs_pg:id":1080872,
         "tgn:id":7273249,
         "wd:id":"Q985873",
@@ -116,7 +118,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350632,
+    "wof:lastmodified":1566658017,
     "wof:name":"Westerhoven",
     "wof:parent_id":404474639,
     "wof:placetype":"locality",

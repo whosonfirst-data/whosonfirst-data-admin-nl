@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.845098,
     "lbl:longitude":5.286346,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.845098,
     "mps:longitude":5.286346,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473967,
         85633337,
         1158783575,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964665,
-    "wof:lastmodified":1559596333,
+    "wof:lastmodified":1566661305,
     "wof:name":"Verspreide huizen Neerijnen",
     "wof:parent_id":1158783575,
     "wof:placetype":"neighbourhood",

@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.588295,
     "lbl:longitude":6.094959,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.58522,
     "mps:longitude":6.104553,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0633\u0644\u062a"
     ],
@@ -97,7 +100,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":167,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":2754779,
         "gp:id":729758,
-        "qs:id":910732,
         "qs_pg:id":910732,
         "tgn:id":1047824,
         "wd:id":"Q81159",
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101807183,
-    "wof:lastmodified":1563350557,
+    "wof:lastmodified":1566657978,
     "wof:name":"Hasselt",
     "wof:parent_id":404474683,
     "wof:placetype":"locality",

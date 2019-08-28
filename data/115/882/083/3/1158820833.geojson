@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.490286,
     "lbl:longitude":4.740571,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.490286,
     "mps:longitude":4.740571,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474143,
         85633337,
         101754787,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158820833,
-    "wof:lastmodified":1559596053,
+    "wof:lastmodified":1566660024,
     "wof:name":"Parkrijk",
     "wof:parent_id":101754787,
     "wof:placetype":"neighbourhood",

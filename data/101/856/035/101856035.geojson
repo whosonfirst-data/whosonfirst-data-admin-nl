@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.986561,
     "lbl:longitude":6.61043,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.985614,
     "mps:longitude":6.621947,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Vragender"
     ],
@@ -63,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687043,
         102191581,
@@ -76,7 +79,6 @@
         "fct:id":"01f23084-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2745213,
         "gp:id":734413,
-        "qs:id":905819,
         "qs_pg:id":905819,
         "tgn:id":7272829,
         "wd:id":"Q2083199"
@@ -97,7 +99,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350352,
+    "wof:lastmodified":1566657887,
     "wof:name":"Vragender",
     "wof:parent_id":404474549,
     "wof:placetype":"locality",

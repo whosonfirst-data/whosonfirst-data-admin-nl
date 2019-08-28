@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.527053,
     "lbl:longitude":5.431723,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.527053,
     "mps:longitude":5.431723,
     "mz:hierarchy_label":1,
@@ -42,11 +43,11 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85687049,
         102191581,
         85633337,
         101751873,
-        136253051,
-        85687049
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158787145,
-    "wof:lastmodified":1559595584,
+    "wof:lastmodified":1566660632,
     "wof:name":"Houtribsluizen, Oostvaardersdiep",
     "wof:parent_id":101751873,
     "wof:placetype":"neighbourhood",

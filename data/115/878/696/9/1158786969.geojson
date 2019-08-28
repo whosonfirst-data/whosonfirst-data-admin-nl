@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.576919,
     "lbl:longitude":5.762304,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.576919,
     "mps:longitude":5.762304,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         404473965,
         85633337,
         101803709,
-        136253051
+        136253051,
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158786969,
-    "wof:lastmodified":1559597133,
+    "wof:lastmodified":1566660812,
     "wof:name":"Ketelhaven",
     "wof:parent_id":101803709,
     "wof:placetype":"neighbourhood",

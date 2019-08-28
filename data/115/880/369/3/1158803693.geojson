@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.783638,
     "lbl:longitude":6.140431,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.783638,
     "mps:longitude":6.140431,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404474621,
         85633337,
         101837861,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158803693,
-    "wof:lastmodified":1559595592,
+    "wof:lastmodified":1566658975,
     "wof:name":"De gagels",
     "wof:parent_id":101837861,
     "wof:placetype":"neighbourhood",

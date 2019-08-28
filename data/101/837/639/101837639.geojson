@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.778849,
     "lbl:longitude":5.110834,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.775233,
     "mps:longitude":5.093744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Veen"
     ],
@@ -259,7 +262,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.7769,
     "wd:longitude":5.1097,
     "wd:wordcount":87,
@@ -274,7 +277,7 @@
     "wof:concordances":{
         "gn:id":2745784,
         "gp:id":28995303,
-        "qs:id":964751,
+        "qs_pg:id":964751,
         "tgn:id":7273061,
         "wd:id":"Q3128465",
         "wk:page":"Veen, Netherlands"
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":101837639,
-    "wof:lastmodified":1563350761,
+    "wof:lastmodified":1566658082,
     "wof:name":"Veen",
     "wof:parent_id":404474345,
     "wof:placetype":"locality",

@@ -28,6 +28,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.373724,
     "lbl:longitude":4.879591,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.367279,
     "mps:longitude":4.889823,
     "mz:hierarchy_label":1,
@@ -91,9 +92,6 @@
     "name:spa_x_preferred":[
         "Jordaan"
     ],
-    "name:unk_x_variant":[
-        "De Jordaan"
-    ],
     "qs:gn_adm0_cc":"NL",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2759794,
@@ -126,7 +124,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":52.37917,
     "wd:longitude":4.88028,
     "wd:wordcount":614,
@@ -142,7 +140,6 @@
     "wof:concordances":{
         "gn:id":2753201,
         "gp:id":728410,
-        "qs:id":881134,
         "qs_pg:id":881134,
         "wd:id":"Q1401387",
         "wk:page":"Jordaan"
@@ -164,7 +161,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563349610,
+    "wof:lastmodified":1566657348,
     "wof:name":"De Jordaan",
     "wof:parent_id":1158844279,
     "wof:placetype":"neighbourhood",

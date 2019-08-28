@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.166262,
     "lbl:longitude":5.971439,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.166262,
     "mps:longitude":5.971439,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u0430\u0440\u0439\u043f"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":50,
     "wof:belongsto":[
@@ -88,7 +91,6 @@
         "fct:id":"01f0b876-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2755729,
         "gp:id":729301,
-        "qs:id":1231531,
         "qs_pg:id":1231531,
         "tgn:id":7261589,
         "wd:id":"Q2673950",
@@ -110,7 +112,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350433,
+    "wof:lastmodified":1566657908,
     "wof:name":"Garijp",
     "wof:parent_id":404474343,
     "wof:placetype":"locality",

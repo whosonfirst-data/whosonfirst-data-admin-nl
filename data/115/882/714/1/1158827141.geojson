@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.816235,
     "lbl:longitude":4.781073,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.816235,
     "mps:longitude":4.781073,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831125,
         85633337,
         101754745,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158827141,
-    "wof:lastmodified":1559596830,
+    "wof:lastmodified":1566660142,
     "wof:name":"Rivierdijk-West",
     "wof:parent_id":1158831125,
     "wof:placetype":"neighbourhood",

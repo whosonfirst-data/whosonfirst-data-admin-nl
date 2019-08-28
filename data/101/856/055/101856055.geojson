@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.396362,
     "lbl:longitude":7.027078,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.398655,
     "mps:longitude":7.016927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Noord Deurningen"
     ],
@@ -52,7 +55,7 @@
     "name:por_x_preferred":[
         "Noord Deurningen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Noord-Deurninge"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":110,
     "wof:belongsto":[
         85687045,
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101856055,
-    "wof:lastmodified":1563350350,
+    "wof:lastmodified":1566657885,
     "wof:name":"Noord Deurningen",
     "wof:parent_id":404474665,
     "wof:placetype":"locality",

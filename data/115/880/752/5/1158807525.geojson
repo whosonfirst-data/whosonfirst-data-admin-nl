@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.084379,
     "lbl:longitude":5.832111,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.084379,
     "mps:longitude":5.832111,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474627,
         85633337,
         101809615,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807525,
-    "wof:lastmodified":1559596823,
+    "wof:lastmodified":1566658729,
     "wof:name":"Buitengebied Oud-Roosteren",
     "wof:parent_id":101809615,
     "wof:placetype":"neighbourhood",

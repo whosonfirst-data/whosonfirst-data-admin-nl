@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.468895,
     "lbl:longitude":6.713679,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.460716,
     "mps:longitude":6.722511,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Langeveen"
     ],
@@ -58,7 +61,7 @@
     "name:por_x_preferred":[
         "Langeveen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Landeveen"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +88,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.4681,
     "wd:longitude":6.7167,
     "wd:wordcount":126,
@@ -100,7 +103,6 @@
     "wof:concordances":{
         "gn:id":2751911,
         "gp:id":731138,
-        "qs:id":490471,
         "qs_pg:id":490471,
         "tgn:id":7267049,
         "wd:id":"Q2188757",
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101856061,
-    "wof:lastmodified":1563350353,
+    "wof:lastmodified":1566657887,
     "wof:name":"Langeveen",
     "wof:parent_id":404473855,
     "wof:placetype":"locality",

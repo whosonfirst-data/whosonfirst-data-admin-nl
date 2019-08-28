@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.450254,
     "lbl:longitude":4.001196,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.450254,
     "mps:longitude":4.001196,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474323,
         85633337,
         101808371,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158784499,
-    "wof:lastmodified":1559596103,
+    "wof:lastmodified":1566660517,
     "wof:name":"Hansweert - Tramper",
     "wof:parent_id":101808371,
     "wof:placetype":"neighbourhood",

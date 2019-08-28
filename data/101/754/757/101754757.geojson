@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.993743,
     "lbl:longitude":5.977744,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.995017,
     "mps:longitude":5.988467,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Velp"
     ],
@@ -91,7 +94,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.9947,
     "wd:longitude":5.9758,
@@ -107,7 +110,6 @@
     "wof:concordances":{
         "gn:id":2745677,
         "gp:id":734184,
-        "qs:id":1352541,
         "qs_pg:id":1352541,
         "tgn:id":7006887,
         "wd:id":"Q2375289",
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101754757,
-    "wof:lastmodified":1563350271,
+    "wof:lastmodified":1566657846,
     "wof:name":"Velp",
     "wof:parent_id":404473933,
     "wof:placetype":"locality",

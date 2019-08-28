@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.901482,
     "lbl:longitude":6.921089,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.914489,
     "mps:longitude":6.942548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0641\u064a\u062f\u0647 \u0625\u0643\u0633\u0644\u0648\u0631\u0645\u0648\u0646\u062a"
     ],
@@ -64,7 +67,7 @@
     "name:por_x_preferred":[
         "Tweede Exlo\u00ebrmond"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "2e Exlo\u00ebrmond"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.9064,
     "wd:longitude":6.9283,
     "wd:wordcount":119,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":2746075,
         "gp:id":733978,
-        "qs:id":1235558,
+        "qs_pg:id":1235558,
         "tgn:id":1048155,
         "wd:id":"Q585186",
         "wk:page":"Tweede Exlo\u00ebrmond"
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101807295,
-    "wof:lastmodified":1563350472,
+    "wof:lastmodified":1566657929,
     "wof:name":"Tweede Exloermond",
     "wof:parent_id":404474595,
     "wof:placetype":"locality",

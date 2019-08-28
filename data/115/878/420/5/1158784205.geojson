@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.436176,
     "lbl:longitude":3.80348,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.436176,
     "mps:longitude":3.80348,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474299,
         85633337,
         101855275,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158784205,
-    "wof:lastmodified":1559596234,
+    "wof:lastmodified":1566660747,
     "wof:name":"Verspreide huizen Ovezande",
     "wof:parent_id":101855275,
     "wof:placetype":"neighbourhood",

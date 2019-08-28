@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":50.798136,
     "lbl:longitude":5.971366,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.798136,
     "mps:longitude":5.971366,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474523,
         85633337,
         101855211,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158806685,
-    "wof:lastmodified":1559596594,
+    "wof:lastmodified":1566658885,
     "wof:name":"Mamelis",
     "wof:parent_id":101855211,
     "wof:placetype":"neighbourhood",

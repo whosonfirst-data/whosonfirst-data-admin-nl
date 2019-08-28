@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.706747,
     "lbl:longitude":4.904738,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.706747,
     "mps:longitude":4.904738,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474379,
         85633337,
         101809659,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158797663,
-    "wof:lastmodified":1559597004,
+    "wof:lastmodified":1566659662,
     "wof:name":"Verspreide huizen Raamsdonk",
     "wof:parent_id":101809659,
     "wof:placetype":"neighbourhood",

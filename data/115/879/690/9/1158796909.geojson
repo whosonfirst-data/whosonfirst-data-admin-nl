@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.591579,
     "lbl:longitude":5.660829,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.591579,
     "mps:longitude":5.660829,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474357,
         85633337,
         101808169,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158796909,
-    "wof:lastmodified":1559596630,
+    "wof:lastmodified":1566659742,
     "wof:name":"Verspreide huizen Zandhoek en Peelstraat",
     "wof:parent_id":101808169,
     "wof:placetype":"neighbourhood",

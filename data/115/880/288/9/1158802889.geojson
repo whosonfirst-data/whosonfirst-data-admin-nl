@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.275132,
     "lbl:longitude":6.757454,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.275132,
     "mps:longitude":6.757454,
     "mz:hierarchy_label":0,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         1158805853,
         404473837,
         85633337,
         101751869,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158802889,
-    "wof:lastmodified":1559597008,
+    "wof:lastmodified":1566658824,
     "wof:name":"Verspreide huizen Woolde",
     "wof:parent_id":1158805853,
     "wof:placetype":"neighbourhood",

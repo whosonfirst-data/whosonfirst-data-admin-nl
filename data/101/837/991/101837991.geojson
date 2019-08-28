@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.315173,
     "lbl:longitude":6.956751,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.306586,
     "mps:longitude":6.967505,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Farmsum"
     ],
@@ -75,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.3167,
     "wd:longitude":6.93333,
     "wd:wordcount":96,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":2755929,
         "gp:id":729227,
-        "qs:id":1136747,
         "qs_pg:id":1136747,
         "tgn:id":7260799,
         "wd:id":"Q599733",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101837991,
-    "wof:lastmodified":1563350683,
+    "wof:lastmodified":1566658046,
     "wof:name":"Farmsum",
     "wof:parent_id":404473711,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.965337,
     "lbl:longitude":6.570262,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.965337,
     "mps:longitude":6.570262,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404473805,
         85633337,
         101751879,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158790645,
-    "wof:lastmodified":1559595429,
+    "wof:lastmodified":1566659513,
     "wof:name":"Verspreide huizen Anreep",
     "wof:parent_id":101751879,
     "wof:placetype":"neighbourhood",

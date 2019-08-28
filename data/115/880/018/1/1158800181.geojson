@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.643715,
     "lbl:longitude":4.649203,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.643715,
     "mps:longitude":4.649203,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474623,
         85633337,
         1158801531,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158800181,
-    "wof:lastmodified":1559595897,
+    "wof:lastmodified":1566659023,
     "wof:name":"Verspreide huizen Langeweg",
     "wof:parent_id":1158801531,
     "wof:placetype":"neighbourhood",

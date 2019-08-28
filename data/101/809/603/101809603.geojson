@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.489937,
     "lbl:longitude":5.897946,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.485262,
     "mps:longitude":5.8943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Ysselsteyn"
     ],
@@ -65,9 +68,6 @@
     "name:por_x_preferred":[
         "Ysselsteyn"
     ],
-    "name:unk_x_variant":[
-        "Ysselsteyn"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Ysselsteyn"
     ],
@@ -89,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.49,
     "wd:longitude":5.8958,
     "wd:wordcount":104,
@@ -104,7 +104,7 @@
     "wof:concordances":{
         "gn:id":2753353,
         "gp:id":730499,
-        "qs:id":906087,
+        "qs_pg:id":906087,
         "tgn:id":7265748,
         "wd:id":"Q2189849",
         "wk:page":"Ysselsteyn"
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":101809603,
-    "wof:lastmodified":1563350605,
+    "wof:lastmodified":1566658003,
     "wof:name":"Ysselsteyn",
     "wof:parent_id":404474527,
     "wof:placetype":"locality",

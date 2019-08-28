@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.044053,
     "lbl:longitude":5.089125,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.033961,
     "mps:longitude":5.084873,
     "mz:hierarchy_label":1,
@@ -65,9 +66,6 @@
     "name:spa_x_preferred":[
         "Jutphaas"
     ],
-    "name:unk_x_variant":[
-        "Jutphaas"
-    ],
     "qs:gn_adm0_cc":"NL",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2750325,
@@ -100,7 +98,7 @@
         "quattroshapes_pg",
         "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":90,
     "wof:belongsto":[
         102191581,
@@ -114,7 +112,6 @@
     "wof:concordances":{
         "gn:id":2753174,
         "gp:id":730560,
-        "qs:id":483797,
         "qs_pg:id":483797,
         "wd:id":"Q1921467",
         "wk:page":"Jutphaas"
@@ -136,7 +133,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563349567,
+    "wof:lastmodified":1566657312,
     "wof:name":"Jutphaas Wijkersloot",
     "wof:parent_id":1158790215,
     "wof:placetype":"neighbourhood",

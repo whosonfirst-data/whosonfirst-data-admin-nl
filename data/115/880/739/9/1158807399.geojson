@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.136614,
     "lbl:longitude":5.85869,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.136614,
     "mps:longitude":5.85869,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474559,
         85633337,
         101809619,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807399,
-    "wof:lastmodified":1559596791,
+    "wof:lastmodified":1566658739,
     "wof:name":"Eiland-Brandt",
     "wof:parent_id":101809619,
     "wof:placetype":"neighbourhood",

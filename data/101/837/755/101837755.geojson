@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.939756,
     "lbl:longitude":6.132425,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.940509,
     "mps:longitude":6.132643,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Didam"
     ],
@@ -78,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.933333,
     "wd:longitude":6.133333,
     "wd:wordcount":90,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2756896,
         "gp:id":728690,
-        "qs:id":1143949,
         "qs_pg:id":1143949,
         "tgn:id":1047718,
         "wd:id":"Q1210428",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101837755,
-    "wof:lastmodified":1563350681,
+    "wof:lastmodified":1566658044,
     "wof:name":"Didam",
     "wof:parent_id":404474689,
     "wof:placetype":"locality",

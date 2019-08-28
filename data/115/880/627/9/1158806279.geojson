@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":50.86511,
     "lbl:longitude":5.99542,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.86511,
     "mps:longitude":5.99542,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158818181,
         404474485,
         85633337,
         1158817931,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158806279,
-    "wof:lastmodified":1559596593,
+    "wof:lastmodified":1566658825,
     "wof:name":"Heerlerbaan-West",
     "wof:parent_id":1158818181,
     "wof:placetype":"neighbourhood",

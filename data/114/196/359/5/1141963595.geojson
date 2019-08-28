@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.146519,
     "lbl:longitude":6.450609,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.146519,
     "mps:longitude":6.450609,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473915,
         85633337,
         1158783657,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963595,
-    "wof:lastmodified":1559595704,
+    "wof:lastmodified":1566661179,
     "wof:name":"Zwiep",
     "wof:parent_id":1158783657,
     "wof:placetype":"neighbourhood",

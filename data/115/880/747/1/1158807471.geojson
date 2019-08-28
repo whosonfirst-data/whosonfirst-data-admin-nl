@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.156472,
     "lbl:longitude":6.153961,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.156472,
     "mps:longitude":6.153961,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474581,
         85633337,
         101809599,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807471,
-    "wof:lastmodified":1559595729,
+    "wof:lastmodified":1566658913,
     "wof:name":"MERU",
     "wof:parent_id":101809599,
     "wof:placetype":"neighbourhood",

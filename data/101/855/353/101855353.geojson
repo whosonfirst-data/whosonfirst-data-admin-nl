@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.972042,
     "lbl:longitude":6.465351,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.960003,
     "mps:longitude":6.485922,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Heelweg"
     ],
@@ -41,7 +44,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687043,
         102191581,
@@ -54,7 +57,6 @@
         "fct:id":"01eff026-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2754702,
         "gp:id":729797,
-        "qs:id":1164021,
         "qs_pg:id":1164021,
         "tgn:id":7266022
     },
@@ -74,7 +76,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559594325,
+    "wof:lastmodified":1566658251,
     "wof:name":"Heelweg",
     "wof:parent_id":404474543,
     "wof:placetype":"locality",

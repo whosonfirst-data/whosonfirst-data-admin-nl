@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.481795,
     "lbl:longitude":5.648928,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.481795,
     "mps:longitude":5.648928,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801691,
         404474389,
         85633337,
         101751805,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158797847,
-    "wof:lastmodified":1559595717,
+    "wof:lastmodified":1566659591,
     "wof:name":"Steenweg en omgeving",
     "wof:parent_id":1158801691,
     "wof:placetype":"neighbourhood",

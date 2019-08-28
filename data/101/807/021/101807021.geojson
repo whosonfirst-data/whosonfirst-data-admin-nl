@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.076039,
     "lbl:longitude":4.545754,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.068885,
     "mps:longitude":4.567403,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Benthuizen"
     ],
@@ -103,7 +106,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.0761,
     "wd:longitude":4.5447,
@@ -120,7 +123,6 @@
         "fct:id":"01f04b16-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2759178,
         "gp:id":727593,
-        "qs:id":141378,
         "qs_pg:id":141378,
         "tgn:id":7258767,
         "wd:id":"Q818270",
@@ -142,7 +144,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350535,
+    "wof:lastmodified":1566657965,
     "wof:name":"Benthuizen",
     "wof:parent_id":404474147,
     "wof:placetype":"locality",

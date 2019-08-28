@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.150243,
     "lbl:longitude":4.394666,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.149522,
     "mps:longitude":4.394799,
     "mz:hierarchy_label":0,
@@ -39,9 +40,6 @@
         "Oostdorp"
     ],
     "name:nld_x_preferred":[
-        "Oostdorp"
-    ],
-    "name:unk_x_variant":[
         "Oostdorp"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -75,20 +73,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831323,
         85633337,
         101754719,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2749533,
         "gp:id":732322,
-        "qs:id":1114761,
         "qs_pg:id":1114761
     },
     "wof:country":"NL",
@@ -108,7 +105,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596034,
+    "wof:lastmodified":1566657357,
     "wof:name":"Oostdorp",
     "wof:parent_id":1158831323,
     "wof:placetype":"neighbourhood",

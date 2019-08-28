@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.472654,
     "lbl:longitude":3.60199,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.472654,
     "mps:longitude":3.60199,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474335,
         85633337,
         101839443,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158784787,
-    "wof:lastmodified":1559596206,
+    "wof:lastmodified":1566660510,
     "wof:name":"Schoonenburg - Groot Abeele",
     "wof:parent_id":101839443,
     "wof:placetype":"neighbourhood",

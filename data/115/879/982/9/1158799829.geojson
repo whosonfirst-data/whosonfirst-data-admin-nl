@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.544157,
     "lbl:longitude":5.632333,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.544157,
     "mps:longitude":5.632333,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474569,
         85633337,
         101808161,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158799829,
-    "wof:lastmodified":1559596619,
+    "wof:lastmodified":1566659581,
     "wof:name":"Bedrijventerrein Bemmer",
     "wof:parent_id":101808161,
     "wof:placetype":"neighbourhood",

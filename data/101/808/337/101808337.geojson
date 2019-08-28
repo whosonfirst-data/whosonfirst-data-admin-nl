@@ -9,15 +9,18 @@
     "geom:bbox":"5.41767894238,51.6867512689,5.502217801,51.7289647206",
     "geom:latitude":51.708063,
     "geom:longitude":5.460694,
-    "geonames:id":"2745503,2750547",
+    "gn:id":"2745503,2750547",
     "iso:country":"NL",
     "lbl:latitude":51.705156,
     "lbl:longitude":5.461255,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.707747,
     "mps:longitude":5.460074,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vinkel"
     ],
@@ -55,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687035,
         102191581,
@@ -67,7 +70,6 @@
     "wof:concordances":{
         "gn:id":2745503,
         "gp:id":734271,
-        "qs:id":337065,
         "qs_pg:id":337065,
         "wd:id":"Q2182234"
     },
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":101808337,
-    "wof:lastmodified":1563350793,
+    "wof:lastmodified":1566658097,
     "wof:name":"Vinkel",
     "wof:parent_id":404474393,
     "wof:placetype":"locality",

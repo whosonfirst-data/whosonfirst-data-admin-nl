@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":50.797991,
     "lbl:longitude":5.887798,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.797991,
     "mps:longitude":5.887798,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474645,
         85633337,
         101810591,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158808223,
-    "wof:lastmodified":1559596889,
+    "wof:lastmodified":1566659055,
     "wof:name":"Verspreide huizen Gulpen",
     "wof:parent_id":101810591,
     "wof:placetype":"neighbourhood",

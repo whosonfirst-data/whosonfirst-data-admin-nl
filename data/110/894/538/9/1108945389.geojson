@@ -26,6 +26,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.361702,
     "lbl:longitude":4.874287,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.361825,
     "mps:longitude":4.875929,
     "mz:hierarchy_label":1,
@@ -49,15 +50,15 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158844367,
         85633337,
         101751893,
         136253051,
-        1158844285
+        1158844285,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108945389,
-    "wof:lastmodified":1559595891,
+    "wof:lastmodified":1566657740,
     "wof:name":"Vondelbuurt",
     "wof:parent_id":1158844367,
     "wof:placetype":"neighbourhood",

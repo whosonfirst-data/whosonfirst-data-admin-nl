@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.367372,
     "lbl:longitude":5.297673,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.373592,
     "mps:longitude":5.294685,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Duizel"
     ],
@@ -65,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":58,
     "wof:belongsto":[
         85687035,
@@ -78,7 +81,6 @@
     "wof:concordances":{
         "gn:id":2756500,
         "gp:id":728907,
-        "qs:id":886999,
         "qs_pg:id":886999,
         "tgn:id":7261174,
         "wd:id":"Q2437995",
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":101809709,
-    "wof:lastmodified":1563350583,
+    "wof:lastmodified":1566657992,
     "wof:name":"Duizel",
     "wof:parent_id":404474371,
     "wof:placetype":"locality",

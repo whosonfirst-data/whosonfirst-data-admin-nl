@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.690606,
     "lbl:longitude":5.296277,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.690606,
     "mps:longitude":5.296277,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801675,
         404474393,
         85633337,
         101751809,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158797945,
-    "wof:lastmodified":1559595740,
+    "wof:lastmodified":1566659620,
     "wof:name":"Het Zand",
     "wof:parent_id":1158801675,
     "wof:placetype":"neighbourhood",

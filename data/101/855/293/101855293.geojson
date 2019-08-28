@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.889516,
     "lbl:longitude":4.813564,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.888464,
     "mps:longitude":4.812334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Brandwijk"
     ],
@@ -85,7 +88,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.8886,
     "wd:longitude":4.8136,
     "wd:wordcount":115,
@@ -101,7 +104,6 @@
         "fct:id":"01f06286-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2758405,
         "gp:id":727969,
-        "qs:id":213249,
         "qs_pg:id":213249,
         "tgn:id":7262472,
         "wd:id":"Q2354134",
@@ -123,7 +125,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351096,
+    "wof:lastmodified":1566658257,
     "wof:name":"Brandwijk",
     "wof:parent_id":1158824743,
     "wof:placetype":"locality",

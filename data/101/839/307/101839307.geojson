@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":50.86651,
     "lbl:longitude":5.890363,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":50.861796,
     "mps:longitude":5.893547,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ransdaal"
     ],
@@ -44,7 +47,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687033,
@@ -57,7 +60,6 @@
     "wof:concordances":{
         "gn:id":2748328,
         "gp:id":732861,
-        "qs:id":315095,
         "qs_pg:id":315095,
         "tgn:id":7270596
     },
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101839307,
-    "wof:lastmodified":1559594787,
+    "wof:lastmodified":1566658223,
     "wof:name":"Ransdaal",
     "wof:parent_id":404474529,
     "wof:placetype":"locality",

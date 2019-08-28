@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.850651,
     "lbl:longitude":4.905266,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.850651,
     "mps:longitude":4.905266,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474315,
         85633337,
         101754649,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158827821,
-    "wof:lastmodified":1559596906,
+    "wof:lastmodified":1566660164,
     "wof:name":"Verspreide huizen polder Giessen en Nieuwkerk",
     "wof:parent_id":101754649,
     "wof:placetype":"neighbourhood",

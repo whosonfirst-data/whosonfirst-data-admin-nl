@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.911039,
     "lbl:longitude":5.26145,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.911039,
     "mps:longitude":5.26145,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473901,
         85633337,
         101837783,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141963337,
-    "wof:lastmodified":1559595679,
+    "wof:lastmodified":1566661203,
     "wof:name":"Verspreide huizen Tricht",
     "wof:parent_id":101837783,
     "wof:placetype":"neighbourhood",

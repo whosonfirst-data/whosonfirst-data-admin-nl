@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.701296,
     "lbl:longitude":5.321641,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.705644,
     "mps:longitude":5.307166,
     "mz:hierarchy_label":0,
@@ -44,9 +45,6 @@
         "Orthen"
     ],
     "name:por_x_preferred":[
-        "Orthen"
-    ],
-    "name:unk_x_variant":[
         "Orthen"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -80,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1158801683,
@@ -94,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2749248,
         "gp:id":732455,
-        "qs:id":1080794,
         "qs_pg:id":1080794,
         "wd:id":"Q1927937"
     },
@@ -116,7 +113,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561768042,
+    "wof:lastmodified":1566657338,
     "wof:name":"Orthen",
     "wof:parent_id":1158801683,
     "wof:placetype":"neighbourhood",

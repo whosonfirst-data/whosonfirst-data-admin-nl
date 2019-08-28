@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.016161,
     "lbl:longitude":4.435345,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.011448,
     "mps:longitude":4.42676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0646\u0627\u0643\u0631"
     ],
@@ -100,9 +103,6 @@
     "name:sqi_x_preferred":[
         "Pijnacker"
     ],
-    "name:unk_x_variant":[
-        "Pynakker"
-    ],
     "name:vol_x_preferred":[
         "Pijnacker"
     ],
@@ -131,7 +131,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.0183,
     "wd:longitude":4.4361,
@@ -148,7 +148,6 @@
         "fct:id":"01f1b992-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2748591,
         "gp:id":732740,
-        "qs:id":1352107,
         "qs_pg:id":1352107,
         "tgn:id":1048046,
         "wd:id":"Q968044",
@@ -170,7 +169,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350923,
+    "wof:lastmodified":1566658176,
     "wof:name":"Pijnacker",
     "wof:parent_id":404474687,
     "wof:placetype":"locality",

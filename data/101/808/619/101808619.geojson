@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.950742,
     "lbl:longitude":5.217727,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.942628,
     "mps:longitude":5.220046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Culemborg"
     ],
@@ -137,9 +140,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043b\u0435\u043c\u0431\u043e\u0440\u0433"
     ],
-    "name:unk_x_variant":[
-        "Kuilenburg"
-    ],
     "name:vie_x_preferred":[
         "Culemborg"
     ],
@@ -174,7 +174,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":434,
     "wof:belongsto":[
@@ -189,7 +189,6 @@
         "fct:id":"01f07492-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2757872,
         "gp:id":728237,
-        "qs:id":352095,
         "qs_pg:id":352095,
         "tgn:id":7006872,
         "wd:id":"Q816699",
@@ -211,7 +210,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350816,
+    "wof:lastmodified":1566658112,
     "wof:name":"Culemborg",
     "wof:parent_id":404473881,
     "wof:placetype":"locality",

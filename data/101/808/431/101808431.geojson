@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.024037,
     "lbl:longitude":5.243178,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.022723,
     "mps:longitude":5.242258,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Werkhoven"
     ],
@@ -84,7 +87,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.0239,
     "wd:longitude":5.2431,
     "wd:wordcount":188,
@@ -100,7 +103,6 @@
         "fct:id":"01f242ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2744825,
         "gp:id":734607,
-        "qs:id":406745,
         "qs_pg:id":406745,
         "tgn:id":4012140,
         "wd:id":"Q2541237",
@@ -122,7 +124,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350837,
+    "wof:lastmodified":1566658123,
     "wof:name":"Werkhoven",
     "wof:parent_id":404473981,
     "wof:placetype":"locality",

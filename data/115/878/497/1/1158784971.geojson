@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.340073,
     "lbl:longitude":3.395775,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.340073,
     "mps:longitude":3.395775,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474629,
         85633337,
         1158786553,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158784971,
-    "wof:lastmodified":1559595541,
+    "wof:lastmodified":1566660575,
     "wof:name":"Verspreide huizen Retranchement",
     "wof:parent_id":1158786553,
     "wof:placetype":"neighbourhood",

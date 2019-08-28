@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.026468,
     "lbl:longitude":4.174041,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.030506,
     "mps:longitude":4.185427,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Monster"
     ],
@@ -114,7 +117,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.033333,
     "wd:longitude":4.166667,
@@ -131,7 +134,6 @@
         "fct:id":"01f165f0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2750630,
         "gp:id":731785,
-        "qs:id":220723,
         "qs_pg:id":220723,
         "tgn:id":1047960,
         "wd:id":"Q969531",
@@ -153,7 +155,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350465,
+    "wof:lastmodified":1566657924,
     "wof:name":"Monster",
     "wof:parent_id":404474667,
     "wof:placetype":"locality",

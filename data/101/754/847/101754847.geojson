@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.377383,
     "lbl:longitude":4.748501,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.374407,
     "mps:longitude":4.734519,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Zwanenburg"
     ],
@@ -71,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":220,
     "wof:belongsto":[
         85687053,
@@ -84,7 +87,6 @@
     "wof:concordances":{
         "gn:id":2743574,
         "gp:id":735183,
-        "qs:id":889773,
         "qs_pg:id":889773,
         "tgn:id":1048285,
         "wd:id":"Q2855805"
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101754847,
-    "wof:lastmodified":1563350284,
+    "wof:lastmodified":1566657852,
     "wof:name":"Zwanenburg",
     "wof:parent_id":404474065,
     "wof:placetype":"locality",

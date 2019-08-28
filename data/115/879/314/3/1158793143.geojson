@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.209583,
     "lbl:longitude":6.782684,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.209583,
     "mps:longitude":6.782684,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473735,
         85633337,
         101838029,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158793143,
-    "wof:lastmodified":1559596276,
+    "wof:lastmodified":1566659590,
     "wof:name":"'s-Gravenschans en Ruiten",
     "wof:parent_id":101838029,
     "wof:placetype":"neighbourhood",

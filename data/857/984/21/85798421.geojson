@@ -24,6 +24,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.254714,
     "lbl:longitude":5.383225,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.253134,
     "mps:longitude":5.379047,
     "mz:hierarchy_label":1,
@@ -71,10 +72,6 @@
     "name:nld_x_variant":[
         "Bunschoten-Spakenburg"
     ],
-    "name:unk_x_variant":[
-        "Spakenburg",
-        "Spakenburg"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Spakenburg"
     ],
@@ -109,7 +106,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:latitude":52.2531,
     "wd:longitude":5.3783,
@@ -125,7 +122,6 @@
     "wof:concordances":{
         "gn:id":2746981,
         "gp:id":733503,
-        "qs:id":911024,
         "qs_pg:id":911024,
         "tgn:id":7006930,
         "wd:id":"Q385386",
@@ -147,7 +143,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563349577,
+    "wof:lastmodified":1566657321,
     "wof:name":"Spakenburg",
     "wof:parent_id":101806987,
     "wof:placetype":"neighbourhood",

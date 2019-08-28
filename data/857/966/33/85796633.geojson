@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12749787.272082,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.021383,50.758406,6.021383,50.758406",
     "geom:latitude":50.758406,
     "geom:longitude":6.021383,
     "gn:id":"",
     "iso:country":"NL",
+    "lbl:bbox":"6.016383,50.753406,6.026383,50.763406",
     "lbl:latitude":50.758406,
     "lbl:longitude":6.021383,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.754808,
     "mps:longitude":6.017795,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:deu_x_preferred":[
-        "Vaelserquartier"
-    ],
-    "name:unk_x_variant":[
         "Vaelserquartier"
     ],
     "qs:gn_adm0_cc":"DE",
@@ -58,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633111,
@@ -69,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":701989,
-        "qs:id":1299767
+        "qs_pg:id":1299767
     },
     "wof:country":"NL",
     "wof:geomhash":"012b85bc58f6217794e5b95bbc5a7e83",
@@ -88,7 +87,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531861814,
+    "wof:lastmodified":1566657344,
     "wof:name":"Vaelserquartier",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

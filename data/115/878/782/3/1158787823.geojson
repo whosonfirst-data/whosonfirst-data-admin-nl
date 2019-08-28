@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.210181,
     "lbl:longitude":5.400574,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.210181,
     "mps:longitude":5.400574,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790303,
         404473971,
         85633337,
         101751821,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158787823,
-    "wof:lastmodified":1559597020,
+    "wof:lastmodified":1566660643,
     "wof:name":"Vathorst-West",
     "wof:parent_id":1158790303,
     "wof:placetype":"neighbourhood",

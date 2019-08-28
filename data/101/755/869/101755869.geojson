@@ -17,15 +17,18 @@
     "geom:bbox":"4.33729220253,51.3543518929,4.43169167226,51.4081719208",
     "geom:latitude":51.373377,
     "geom:longitude":4.388176,
-    "geonames:id":"2788520,2748397",
+    "gn:id":"2788520,2748397",
     "iso:country":"NL",
     "lbl:latitude":51.360267,
     "lbl:longitude":4.396681,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.371209,
     "mps:longitude":4.388898,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Putte-Kapellen"
     ],
@@ -212,7 +215,7 @@
     "name:swe_x_preferred":[
         "Putte-Kapellen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Putten"
     ],
     "name:vec_x_preferred":[
@@ -255,7 +258,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687035,
         102191581,
@@ -267,10 +270,12 @@
     "wof:concordances":{
         "gn:id":2748397,
         "gp:id":732830,
-        "qs:id":217926,
-        "qs_pg:id":947659,
+        "qs_pg:id":217926,
         "wd:id":"Q2413102",
         "wk:page":"Putte, Kapellen"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":947659
     },
     "wof:country":"NL",
     "wof:geomhash":"75edf2713f308afc3ac10dd9d6c9645e",
@@ -285,7 +290,7 @@
         }
     ],
     "wof:id":101755869,
-    "wof:lastmodified":1563350222,
+    "wof:lastmodified":1566657827,
     "wof:name":"Putte",
     "wof:parent_id":404474455,
     "wof:placetype":"locality",

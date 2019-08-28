@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.054122,
     "lbl:longitude":5.269539,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.0534,
     "mps:longitude":5.278377,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Driebergen-Rijsenburg"
     ],
@@ -100,7 +103,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.0528,
     "wd:longitude":5.2803,
@@ -116,7 +119,6 @@
     "wof:concordances":{
         "gn:id":2756619,
         "gp:id":732973,
-        "qs:id":1037770,
         "qs_pg:id":1037770,
         "tgn:id":1047737,
         "wd:id":"Q1258901",
@@ -135,7 +137,7 @@
         }
     ],
     "wof:id":101806999,
-    "wof:lastmodified":1563350969,
+    "wof:lastmodified":1566658202,
     "wof:name":"Driebergen-Rijsenburg",
     "wof:parent_id":404474547,
     "wof:placetype":"locality",

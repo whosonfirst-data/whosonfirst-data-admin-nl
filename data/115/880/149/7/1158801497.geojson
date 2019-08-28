@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.375985,
     "lbl:longitude":5.433882,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.375985,
     "mps:longitude":5.433882,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474449,
         85633337,
         101809751,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158801497,
-    "wof:lastmodified":1559595583,
+    "wof:lastmodified":1566659158,
     "wof:name":"Verspreide huizen Waalre",
     "wof:parent_id":101809751,
     "wof:placetype":"neighbourhood",

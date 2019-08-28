@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.055165,
     "lbl:longitude":4.25181,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.054845,
     "mps:longitude":4.242304,
     "mz:hierarchy_label":1,
@@ -37,9 +38,6 @@
         "Houtwyk"
     ],
     "name:nld_x_preferred":[
-        "Houtwijk"
-    ],
-    "name:unk_x_variant":[
         "Houtwijk"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -73,21 +71,20 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687041,
         102191581,
         1108805971,
         85633337,
         101752763,
         136253051,
-        1108808039
+        1108808039,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2745957,
         "gp:id":20063884,
-        "qs:id":1115261,
         "qs_pg:id":1115261,
         "tgn:id":7272849
     },
@@ -109,7 +106,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595929,
+    "wof:lastmodified":1566657371,
     "wof:name":"Houtwijk",
     "wof:parent_id":1108805971,
     "wof:placetype":"neighbourhood",

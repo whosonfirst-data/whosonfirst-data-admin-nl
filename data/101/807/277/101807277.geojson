@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.700988,
     "lbl:longitude":6.755326,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.694382,
     "mps:longitude":6.766676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Dalen"
     ],
@@ -100,7 +103,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687051,
@@ -113,7 +116,6 @@
     "wof:concordances":{
         "gn:id":2757857,
         "gp:id":728251,
-        "qs:id":1350636,
         "qs_pg:id":1350636,
         "tgn:id":7262948,
         "wd:id":"Q1974246",
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":101807277,
-    "wof:lastmodified":1563350519,
+    "wof:lastmodified":1566657955,
     "wof:name":"Dalen",
     "wof:parent_id":404473807,
     "wof:placetype":"locality",

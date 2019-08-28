@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.07531,
     "lbl:longitude":4.539181,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.07531,
     "mps:longitude":4.539181,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474147,
         85633337,
         101807021,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158824955,
-    "wof:lastmodified":1559595572,
+    "wof:lastmodified":1566660372,
     "wof:name":"Benthuizen Dorp-West",
     "wof:parent_id":101807021,
     "wof:placetype":"neighbourhood",

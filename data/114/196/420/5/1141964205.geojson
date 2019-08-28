@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.212749,
     "lbl:longitude":6.130389,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.212749,
     "mps:longitude":6.130389,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473945,
         85633337,
         101808559,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964205,
-    "wof:lastmodified":1559597043,
+    "wof:lastmodified":1566661245,
     "wof:name":"Verspreide huizen Wilp en Posterenk",
     "wof:parent_id":101808559,
     "wof:placetype":"neighbourhood",

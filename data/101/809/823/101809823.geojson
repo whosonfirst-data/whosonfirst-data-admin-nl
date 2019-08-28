@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.417001,
     "lbl:longitude":4.18164,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.418965,
     "mps:longitude":4.238496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Rilland"
     ],
@@ -63,9 +66,6 @@
     "name:swe_x_preferred":[
         "Rilland"
     ],
-    "name:unk_x_variant":[
-        "Rilland-Bath"
-    ],
     "name:zea_x_preferred":[
         "Rilland"
     ],
@@ -91,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":118,
     "wof:belongsto":[
         85687037,
@@ -105,7 +105,6 @@
         "fct:id":"01f1ccde-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2748068,
         "gp:id":732989,
-        "qs:id":1352179,
         "qs_pg:id":1352179,
         "tgn:id":7267967,
         "wd:id":"Q1815745",
@@ -127,7 +126,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350639,
+    "wof:lastmodified":1566658021,
     "wof:name":"Rilland",
     "wof:parent_id":404474323,
     "wof:placetype":"locality",

@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.454357,
     "lbl:longitude":4.58498,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.45722,
     "mps:longitude":4.569266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Achtmaal"
     ],
@@ -61,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":143,
     "wof:belongsto":[
         85687035,
@@ -75,7 +78,6 @@
         "fct:id":"01f02622-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2759981,
         "gp:id":727097,
-        "qs:id":249812,
         "qs_pg:id":249812,
         "tgn:id":7258254,
         "wd:id":"Q2823165"
@@ -96,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351086,
+    "wof:lastmodified":1566658253,
     "wof:name":"Achtmaal",
     "wof:parent_id":404474459,
     "wof:placetype":"locality",

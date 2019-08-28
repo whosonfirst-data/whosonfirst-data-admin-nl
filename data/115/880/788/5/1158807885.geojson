@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":50.803397,
     "lbl:longitude":5.789645,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.803397,
     "mps:longitude":5.789645,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         1158805871,
         85633337,
         101810595,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158807885,
-    "wof:lastmodified":1559595782,
+    "wof:lastmodified":1566659111,
     "wof:name":"Verspreide huizen Sint Geertruid",
     "wof:parent_id":101810595,
     "wof:placetype":"neighbourhood",

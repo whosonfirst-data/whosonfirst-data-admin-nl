@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.344018,
     "lbl:longitude":5.615842,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.344018,
     "mps:longitude":5.615842,
     "mz:hierarchy_label":1,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158784033,
         404473907,
         85633337,
         101837769,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1141963381,
-    "wof:lastmodified":1559596913,
+    "wof:lastmodified":1566661003,
     "wof:name":"Kruithuis",
     "wof:parent_id":1158784033,
     "wof:placetype":"neighbourhood",

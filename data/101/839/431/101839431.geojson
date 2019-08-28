@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.287139,
     "lbl:longitude":4.053361,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.286898,
     "mps:longitude":4.039366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Hulst"
     ],
@@ -148,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":454,
     "wof:belongsto":[
@@ -163,7 +166,6 @@
         "fct:id":"01f10556-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2753439,
         "gp:id":730449,
-        "qs:id":1351158,
         "qs_pg:id":1351158,
         "tgn:id":1047867,
         "wd:id":"Q10073"
@@ -184,7 +186,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563351035,
+    "wof:lastmodified":1566658232,
     "wof:name":"Hulst",
     "wof:parent_id":404474307,
     "wof:placetype":"locality",

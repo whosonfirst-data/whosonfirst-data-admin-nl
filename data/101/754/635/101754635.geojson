@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.038195,
     "lbl:longitude":4.390525,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.041225,
     "mps:longitude":4.406751,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Nootdorp"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687041,
         102191581,
@@ -131,7 +134,7 @@
         "fct:id":"01f6d2b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2749800,
         "gp:id":732173,
-        "qs:id":6,
+        "qs_pg:id":6,
         "tgn:id":7269110,
         "wd:id":"Q1615172",
         "wk:page":"Nootdorp"
@@ -152,7 +155,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350251,
+    "wof:lastmodified":1566657840,
     "wof:name":"Nootdorp",
     "wof:parent_id":404474687,
     "wof:placetype":"locality",

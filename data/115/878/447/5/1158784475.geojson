@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.436581,
     "lbl:longitude":4.090946,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.436581,
     "mps:longitude":4.090946,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474323,
         85633337,
         101809813,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158784475,
-    "wof:lastmodified":1559595485,
+    "wof:lastmodified":1566660506,
     "wof:name":"Verspreide huizen Krabbendijke",
     "wof:parent_id":101809813,
     "wof:placetype":"neighbourhood",

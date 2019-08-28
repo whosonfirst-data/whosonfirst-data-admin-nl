@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.157876,
     "lbl:longitude":6.301379,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.163555,
     "mps:longitude":6.290721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Almen"
     ],
@@ -63,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.1575,
     "wd:longitude":6.3006,
@@ -79,7 +82,6 @@
     "wof:concordances":{
         "gn:id":2759884,
         "gp:id":727149,
-        "qs:id":910461,
         "qs_pg:id":910461,
         "tgn:id":7258718,
         "wd:id":"Q2547862",
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101855323,
-    "wof:lastmodified":1563351099,
+    "wof:lastmodified":1566658258,
     "wof:name":"Almen",
     "wof:parent_id":404473915,
     "wof:placetype":"locality",

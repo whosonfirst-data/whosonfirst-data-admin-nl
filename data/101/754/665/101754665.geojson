@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.869436,
     "lbl:longitude":4.644616,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":51.871302,
     "mps:longitude":4.640289,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Kinderdijk"
     ],
@@ -172,7 +175,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687041,
@@ -186,7 +189,6 @@
         "fct:id":"01f1191a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2752828,
         "gp:id":730730,
-        "qs:id":217438,
         "qs_pg:id":217438,
         "tgn:id":4005703,
         "wd:id":"Q740066",
@@ -208,7 +210,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350296,
+    "wof:lastmodified":1566657857,
     "wof:name":"Kinderdijk",
     "wof:parent_id":404474145,
     "wof:placetype":"locality",

@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.732084,
     "lbl:longitude":6.51415,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.724421,
     "mps:longitude":6.541319,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Noordscheschut"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687051,
         102191581,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":2749834,
         "gp:id":732158,
-        "qs:id":901576,
+        "qs_pg:id":901576,
         "tgn:id":7268929
     },
     "wof:country":"NL",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101837867,
-    "wof:lastmodified":1559595069,
+    "wof:lastmodified":1566658058,
     "wof:name":"Noordscheschut",
     "wof:parent_id":404473811,
     "wof:placetype":"locality",

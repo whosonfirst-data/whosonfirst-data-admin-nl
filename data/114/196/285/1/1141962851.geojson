@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.957494,
     "lbl:longitude":6.280685,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.957494,
     "mps:longitude":6.280685,
     "mz:hierarchy_label":1,
@@ -46,13 +47,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783317,
         404473885,
         85633337,
         101808663,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1141962851,
-    "wof:lastmodified":1559596896,
+    "wof:lastmodified":1566661249,
     "wof:name":"Zuid",
     "wof:parent_id":1158783317,
     "wof:placetype":"neighbourhood",

@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.855978,
     "lbl:longitude":6.988495,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.832171,
     "mps:longitude":6.958474,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Nieuw-Weerdinge"
     ],
@@ -74,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.8564,
     "wd:longitude":6.9881,
     "wd:wordcount":59,
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2750115,
         "gp:id":731950,
-        "qs:id":1036343,
         "qs_pg:id":1036343,
         "tgn:id":1047977,
         "wd:id":"Q1849651",
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101807281,
-    "wof:lastmodified":1563350467,
+    "wof:lastmodified":1566657926,
     "wof:name":"Nieuw-Weerdinge",
     "wof:parent_id":404473809,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.455189,
     "lbl:longitude":4.275808,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.455189,
     "mps:longitude":4.275808,
     "mz:hierarchy_label":0,
@@ -40,13 +41,13 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801659,
         404474351,
         85633337,
         101839323,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1158796835,
-    "wof:lastmodified":1559596516,
+    "wof:lastmodified":1566659724,
     "wof:name":"Buitengebied-West",
     "wof:parent_id":1158801659,
     "wof:placetype":"neighbourhood",

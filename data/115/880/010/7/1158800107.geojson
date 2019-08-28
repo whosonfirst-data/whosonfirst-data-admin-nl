@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.648514,
     "lbl:longitude":5.851447,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.648514,
     "mps:longitude":5.851447,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474615,
         85633337,
         101809635,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158800107,
-    "wof:lastmodified":1559595875,
+    "wof:lastmodified":1566659045,
     "wof:name":"Verspreide huizen Wanroij's Broek",
     "wof:parent_id":101809635,
     "wof:placetype":"neighbourhood",

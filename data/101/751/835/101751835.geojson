@@ -18,11 +18,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.053725,
     "lbl:longitude":4.491416,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":52.060299,
     "mps:longitude":4.495728,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Zoetermeer"
     ],
@@ -261,7 +264,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wd:latitude":52.061111,
     "wd:longitude":4.493333,
@@ -276,7 +279,6 @@
         "fct:id":"01f265cc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2743856,
         "gp:id":735077,
-        "qs:id":796450,
         "qs_pg:id":796450,
         "tgn:id":1048272,
         "wd:id":"Q26432",
@@ -296,7 +298,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350394,
+    "wof:lastmodified":1566657898,
     "wof:name":"Zoetermeer",
     "wof:parent_id":85687041,
     "wof:placetype":"locality",

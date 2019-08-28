@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.779937,
     "lbl:longitude":5.319968,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.779937,
     "mps:longitude":5.319968,
     "mz:hierarchy_label":0,
@@ -42,12 +43,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473917,
         85633337,
         1158783595,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1141963675,
-    "wof:lastmodified":1559596949,
+    "wof:lastmodified":1566661198,
     "wof:name":"Verspreide huizen Kerkdriel, Berm en Hoorzik",
     "wof:parent_id":1158783595,
     "wof:placetype":"neighbourhood",

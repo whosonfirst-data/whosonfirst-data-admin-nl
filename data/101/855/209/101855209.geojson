@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.219509,
     "lbl:longitude":5.681615,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.216659,
     "mps:longitude":5.659628,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Altweerterheide"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.216667,
     "wd:longitude":5.683333,
     "wd:wordcount":81,
@@ -87,7 +90,7 @@
     "wof:concordances":{
         "gn:id":2759854,
         "gp:id":727202,
-        "qs:id":2,
+        "qs_pg:id":2,
         "tgn:id":7258816,
         "wd:id":"Q1936955",
         "wk:page":"Altweerterheide"
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101855209,
-    "wof:lastmodified":1563351110,
+    "wof:lastmodified":1566658266,
     "wof:name":"Altweerterheide",
     "wof:parent_id":404474531,
     "wof:placetype":"locality",

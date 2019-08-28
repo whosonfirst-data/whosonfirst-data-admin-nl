@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.369523,
     "lbl:longitude":3.523726,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.369523,
     "mps:longitude":3.523726,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687037,
         102191581,
         404474629,
         85633337,
         101809805,
-        136253051
+        136253051,
+        85687037
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158785013,
-    "wof:lastmodified":1559596773,
+    "wof:lastmodified":1566660673,
     "wof:name":"Verspreide huizen Groede",
     "wof:parent_id":101809805,
     "wof:placetype":"neighbourhood",

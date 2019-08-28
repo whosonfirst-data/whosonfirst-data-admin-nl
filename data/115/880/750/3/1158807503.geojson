@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.079677,
     "lbl:longitude":5.856678,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.079677,
     "mps:longitude":5.856678,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474627,
         85633337,
         1158817975,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807503,
-    "wof:lastmodified":1559595733,
+    "wof:lastmodified":1566658995,
     "wof:name":"Verspreide huizen Dieteren",
     "wof:parent_id":1158817975,
     "wof:placetype":"neighbourhood",

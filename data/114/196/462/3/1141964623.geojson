@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.363103,
     "lbl:longitude":5.733135,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.363103,
     "mps:longitude":5.733135,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473963,
         85633337,
         101807111,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964623,
-    "wof:lastmodified":1559596311,
+    "wof:lastmodified":1566661145,
     "wof:name":"Hulshorst",
     "wof:parent_id":101807111,
     "wof:placetype":"neighbourhood",

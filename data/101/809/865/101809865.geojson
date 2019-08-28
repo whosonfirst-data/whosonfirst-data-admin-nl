@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.005148,
     "lbl:longitude":6.349196,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.005806,
     "mps:longitude":6.363975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Zelhem"
     ],
@@ -82,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.0,
     "wd:longitude":6.35,
@@ -98,7 +101,6 @@
     "wof:concordances":{
         "gn:id":2743963,
         "gp:id":735023,
-        "qs:id":891845,
         "qs_pg:id":891845,
         "tgn:id":7274026,
         "wd:id":"Q1616224"
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":101809865,
-    "wof:lastmodified":1563350657,
+    "wof:lastmodified":1566658031,
     "wof:name":"Zelhem",
     "wof:parent_id":404474673,
     "wof:placetype":"locality",

@@ -26,6 +26,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.349472,
     "lbl:longitude":4.926478,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.347318,
     "mps:longitude":4.926532,
     "mz:hierarchy_label":1,
@@ -49,15 +50,15 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687053,
         102191581,
         1108802305,
         85633337,
         101751893,
         136253051,
-        1158844281
+        1158844281,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108945563,
-    "wof:lastmodified":1559595941,
+    "wof:lastmodified":1566657728,
     "wof:name":"Frankendael",
     "wof:parent_id":1108802305,
     "wof:placetype":"neighbourhood",

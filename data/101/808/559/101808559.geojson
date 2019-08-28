@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.215444,
     "lbl:longitude":6.143158,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.211674,
     "mps:longitude":6.155095,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Wilp"
     ],
@@ -51,7 +54,7 @@
     "name:nld_x_preferred":[
         "Wilp"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Welp"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -76,7 +79,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.2186,
     "wd:longitude":6.1497,
@@ -92,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2744373,
         "gp:id":734791,
-        "qs:id":457874,
         "qs_pg:id":457874,
         "tgn:id":7273663,
         "wd:id":"Q2183764",
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101808559,
-    "wof:lastmodified":1563350792,
+    "wof:lastmodified":1566658097,
     "wof:name":"Wilp",
     "wof:parent_id":404473945,
     "wof:placetype":"locality",

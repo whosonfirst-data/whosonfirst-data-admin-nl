@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.103735,
     "lbl:longitude":6.310969,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.107521,
     "mps:longitude":6.308609,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Vorden"
     ],
@@ -93,7 +96,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.1,
     "wd:longitude":6.316667,
     "wd:wordcount":172,
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":2745258,
         "gp:id":734387,
-        "qs:id":219238,
         "qs_pg:id":219238,
         "tgn:id":1048204,
         "wd:id":"Q1615554",
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101808557,
-    "wof:lastmodified":1563350795,
+    "wof:lastmodified":1566658098,
     "wof:name":"Vorden",
     "wof:parent_id":404474673,
     "wof:placetype":"locality",

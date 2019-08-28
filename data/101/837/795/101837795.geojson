@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.876683,
     "lbl:longitude":6.377794,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.864229,
     "mps:longitude":6.371337,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Gendringen"
     ],
@@ -85,7 +88,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.866667,
     "wd:longitude":6.383333,
@@ -102,7 +105,6 @@
         "fct:id":"01f0bf4c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2755599,
         "gp:id":729373,
-        "qs:id":470880,
         "qs_pg:id":470880,
         "tgn:id":1047784,
         "wd:id":"Q171268",
@@ -124,7 +126,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350741,
+    "wof:lastmodified":1566658073,
     "wof:name":"Gendringen",
     "wof:parent_id":404474543,
     "wof:placetype":"locality",

@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.662786,
     "lbl:longitude":6.884373,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.667208,
     "mps:longitude":6.907341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Schoonebeek"
     ],
@@ -60,7 +63,7 @@
     "name:ron_x_preferred":[
         "Schoonebeek"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oud Schoonebeek"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -85,7 +88,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":91,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
     "wof:concordances":{
         "gn:id":2747515,
         "gp:id":733299,
-        "qs:id":478706,
         "qs_pg:id":478706,
         "tgn:id":1048095,
         "wd:id":"Q2006601",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101807311,
-    "wof:lastmodified":1563350553,
+    "wof:lastmodified":1566657975,
     "wof:name":"Schoonebeek",
     "wof:parent_id":404473809,
     "wof:placetype":"locality",

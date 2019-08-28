@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.149936,
     "lbl:longitude":5.667172,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.151973,
     "mps:longitude":5.677453,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Kootwijkerbroek"
     ],
@@ -68,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.1497,
     "wd:longitude":5.6686,
@@ -84,7 +87,6 @@
     "wof:concordances":{
         "gn:id":2752441,
         "gp:id":730883,
-        "qs:id":1037747,
         "qs_pg:id":1037747,
         "tgn:id":7264108,
         "wd:id":"Q3030486",
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101807115,
-    "wof:lastmodified":1563350552,
+    "wof:lastmodified":1566657975,
     "wof:name":"Kootwijkerbroek",
     "wof:parent_id":404473873,
     "wof:placetype":"locality",

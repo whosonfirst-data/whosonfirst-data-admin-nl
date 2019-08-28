@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.019465,
     "lbl:longitude":6.727464,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.019465,
     "mps:longitude":6.727464,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473951,
         85633337,
         101856031,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964273,
-    "wof:lastmodified":1559595727,
+    "wof:lastmodified":1566661251,
     "wof:name":"Verspreide huizen Meddo",
     "wof:parent_id":101856031,
     "wof:placetype":"neighbourhood",

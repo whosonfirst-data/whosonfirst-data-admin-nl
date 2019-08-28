@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.927572,
     "lbl:longitude":5.296379,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.927572,
     "mps:longitude":5.296379,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473879,
         85633337,
         1158783681,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962627,
-    "wof:lastmodified":1559596117,
+    "wof:lastmodified":1566661288,
     "wof:name":"Verspreide huizen Asch",
     "wof:parent_id":1158783681,
     "wof:placetype":"neighbourhood",

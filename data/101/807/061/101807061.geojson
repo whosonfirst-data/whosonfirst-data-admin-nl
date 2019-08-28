@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.116973,
     "lbl:longitude":6.522102,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.104398,
     "mps:longitude":6.513078,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Borculo"
     ],
@@ -69,9 +72,6 @@
     "name:spa_x_preferred":[
         "Borculo"
     ],
-    "name:unk_x_variant":[
-        "Borkulo"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Borculo"
     ],
@@ -94,7 +94,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":421,
     "wof:belongsto":[
@@ -109,7 +109,6 @@
         "fct:id":"01f05c96-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2758626,
         "gp:id":727866,
-        "qs:id":456333,
         "qs_pg:id":456333,
         "tgn:id":1047666,
         "wd:id":"Q1025685",
@@ -131,7 +130,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350540,
+    "wof:lastmodified":1566657968,
     "wof:name":"Borculo",
     "wof:parent_id":404474671,
     "wof:placetype":"locality",

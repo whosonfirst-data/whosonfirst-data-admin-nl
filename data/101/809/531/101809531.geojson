@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.360724,
     "lbl:longitude":5.941079,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.366948,
     "mps:longitude":5.935913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Grashoek"
     ],
@@ -54,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687033,
         102191581,
@@ -66,7 +69,6 @@
     "wof:concordances":{
         "gn:id":2755367,
         "gp:id":729496,
-        "qs:id":992611,
         "qs_pg:id":992611,
         "tgn:id":7260310,
         "wd:id":"Q2250325"
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":101809531,
-    "wof:lastmodified":1563350631,
+    "wof:lastmodified":1566658016,
     "wof:name":"Grashoek",
     "wof:parent_id":1158805873,
     "wof:placetype":"locality",

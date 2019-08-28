@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.829385,
     "lbl:longitude":5.928247,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.829005,
     "mps:longitude":5.931047,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Beek"
     ],
@@ -63,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687043,
         102191581,
@@ -75,7 +78,6 @@
     "wof:concordances":{
         "gn:id":2759345,
         "gp:id":727513,
-        "qs:id":1167969,
         "qs_pg:id":1167969,
         "tgn:id":7006871,
         "wd:id":"Q726635",
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101808593,
-    "wof:lastmodified":1563350783,
+    "wof:lastmodified":1566658091,
     "wof:name":"Beek",
     "wof:parent_id":1158783377,
     "wof:placetype":"locality",

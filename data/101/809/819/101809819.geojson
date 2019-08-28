@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.311763,
     "lbl:longitude":3.912346,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.33181,
     "mps:longitude":3.929314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Zaamslag"
     ],
@@ -76,7 +79,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1477,
     "wof:belongsto":[
@@ -91,7 +94,6 @@
         "fct:id":"01f25d16-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2744122,
         "gp:id":734925,
-        "qs:id":1037688,
         "qs_pg:id":1037688,
         "tgn:id":7274722,
         "wd:id":"Q741975"
@@ -112,7 +114,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350593,
+    "wof:lastmodified":1566657997,
     "wof:name":"Zaamslag",
     "wof:parent_id":404474329,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.012598,
     "lbl:longitude":4.581111,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.012598,
     "mps:longitude":4.581111,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158824737,
         85633337,
         101803695,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158828341,
-    "wof:lastmodified":1559596988,
+    "wof:lastmodified":1566660126,
     "wof:name":"Kern Zevenhuizen",
     "wof:parent_id":101803695,
     "wof:placetype":"neighbourhood",

@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.794682,
     "lbl:longitude":5.654792,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.795978,
     "mps:longitude":5.652712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ravenstein"
     ],
@@ -59,7 +62,7 @@
     "name:sqi_x_preferred":[
         "Ravenstein"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ravestein"
     ],
     "name:vie_x_preferred":[
@@ -90,7 +93,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.797022,
     "wd:longitude":5.651578,
     "wd:wordcount":196,
@@ -105,7 +108,6 @@
     "wof:concordances":{
         "gn:id":2748308,
         "gp:id":732871,
-        "qs:id":1168101,
         "qs_pg:id":1168101,
         "tgn:id":7270576,
         "wd:id":"Q589056",
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101809661,
-    "wof:lastmodified":1563350607,
+    "wof:lastmodified":1566658004,
     "wof:name":"Ravenstein",
     "wof:parent_id":404474415,
     "wof:placetype":"locality",

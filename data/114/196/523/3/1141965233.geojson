@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.055218,
     "lbl:longitude":6.221557,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.055218,
     "mps:longitude":6.221557,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474673,
         85633337,
         1158783629,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141965233,
-    "wof:lastmodified":1559596536,
+    "wof:lastmodified":1566661337,
     "wof:name":"Toldijk",
     "wof:parent_id":1158783629,
     "wof:placetype":"neighbourhood",

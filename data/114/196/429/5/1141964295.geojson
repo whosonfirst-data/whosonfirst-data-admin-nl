@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.812168,
     "lbl:longitude":5.691316,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.812168,
     "mps:longitude":5.691316,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473953,
         85633337,
         101754761,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964295,
-    "wof:lastmodified":1559596466,
+    "wof:lastmodified":1566661241,
     "wof:name":"Verspreide huizen Bankhoef",
     "wof:parent_id":101754761,
     "wof:placetype":"neighbourhood",

@@ -26,6 +26,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.330523,
     "lbl:longitude":4.887568,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.329894,
     "mps:longitude":4.887121,
     "mz:hierarchy_label":1,
@@ -49,15 +50,15 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687053,
         102191581,
         1108802301,
         85633337,
         101751893,
         136253051,
-        1158844283
+        1158844283,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108945479,
-    "wof:lastmodified":1559595948,
+    "wof:lastmodified":1566657745,
     "wof:name":"Buitenveldert-Oost",
     "wof:parent_id":1108802301,
     "wof:placetype":"neighbourhood",

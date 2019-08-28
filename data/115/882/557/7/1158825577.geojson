@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.008343,
     "lbl:longitude":4.375836,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.008343,
     "mps:longitude":4.375836,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158829617,
         85633337,
         101752765,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158825577,
-    "wof:lastmodified":1559596340,
+    "wof:lastmodified":1566659982,
     "wof:name":"Wippolder-Noord",
     "wof:parent_id":1158829617,
     "wof:placetype":"neighbourhood",

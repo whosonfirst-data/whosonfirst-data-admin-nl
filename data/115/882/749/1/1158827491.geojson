@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.121182,
     "lbl:longitude":4.400956,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.121182,
     "mps:longitude":4.400956,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831321,
         85633337,
         101754719,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158827491,
-    "wof:lastmodified":1559596846,
+    "wof:lastmodified":1566660161,
     "wof:name":"Verspreide huizen Eikenhorst",
     "wof:parent_id":1158831321,
     "wof:placetype":"neighbourhood",

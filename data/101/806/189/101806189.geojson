@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.300283,
     "lbl:longitude":6.597356,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.302718,
     "mps:longitude":6.604686,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Bedum"
     ],
@@ -196,7 +199,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":349,
     "wof:belongsto":[
@@ -211,7 +214,6 @@
         "fct:id":"01f044ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2759356,
         "gp:id":727511,
-        "qs:id":213375,
         "qs_pg:id":213375,
         "tgn:id":1047636,
         "wd:id":"Q461142"
@@ -232,7 +234,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350984,
+    "wof:lastmodified":1566658208,
     "wof:name":"Bedum",
     "wof:parent_id":404473703,
     "wof:placetype":"locality",

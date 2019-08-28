@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.261595,
     "lbl:longitude":6.308162,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.265098,
     "mps:longitude":6.304191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Grijpskerk"
     ],
@@ -73,7 +76,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.261944,
     "wd:longitude":6.306667,
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2755317,
         "gp:id":729517,
-        "qs:id":1037765,
         "qs_pg:id":1037765,
         "tgn:id":1047801,
         "wd:id":"Q2218565"
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101803731,
-    "wof:lastmodified":1563350337,
+    "wof:lastmodified":1566657878,
     "wof:name":"Grijpskerk",
     "wof:parent_id":404473753,
     "wof:placetype":"locality",

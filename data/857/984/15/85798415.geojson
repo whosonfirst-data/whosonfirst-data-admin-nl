@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.165836,
     "lbl:longitude":5.311096,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.161902,
     "mps:longitude":5.308512,
     "mz:hierarchy_label":0,
@@ -40,7 +41,7 @@
     "name:nld_x_preferred":[
         "Soest Zuid"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Soest-Zuid"
     ],
     "qs:gn_adm0_cc":"NL",
@@ -74,21 +75,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790367,
         404474005,
         85633337,
         101808443,
-        136253051
+        136253051,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2747026,
         "gp:id":733478,
-        "qs:id":1168113,
         "qs_pg:id":1168113
     },
     "wof:country":"NL",
@@ -109,7 +109,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596054,
+    "wof:lastmodified":1566657322,
     "wof:name":"Soest-Zuid",
     "wof:parent_id":1158790367,
     "wof:placetype":"neighbourhood",

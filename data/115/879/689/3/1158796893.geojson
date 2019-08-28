@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.602117,
     "lbl:longitude":5.699897,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.602117,
     "mps:longitude":5.699897,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474357,
         85633337,
         101808169,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158796893,
-    "wof:lastmodified":1559596514,
+    "wof:lastmodified":1566659439,
     "wof:name":"Verspreide huizen Arendnest-Zijp",
     "wof:parent_id":101808169,
     "wof:placetype":"neighbourhood",

@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.359454,
     "lbl:longitude":6.051051,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.361296,
     "mps:longitude":6.047149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Maasbree"
     ],
@@ -126,7 +129,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.35,
     "wd:longitude":6.05,
@@ -143,7 +146,6 @@
         "fct:id":"01f14c64-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2751301,
         "gp:id":731482,
-        "qs:id":685207,
         "qs_pg:id":685207,
         "tgn:id":7265675,
         "wd:id":"Q927936",
@@ -165,7 +167,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350623,
+    "wof:lastmodified":1566658013,
     "wof:name":"Maasbree",
     "wof:parent_id":1158805873,
     "wof:placetype":"locality",

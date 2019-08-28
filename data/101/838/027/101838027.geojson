@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.145512,
     "lbl:longitude":7.041408,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.144328,
     "mps:longitude":7.036231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Winschoten"
     ],
@@ -159,7 +162,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1160,
     "wof:belongsto":[
@@ -174,7 +177,6 @@
         "fct:id":"01f28584-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2744344,
         "gp:id":734808,
-        "qs:id":239856,
         "qs_pg:id":239856,
         "tgn:id":1048247,
         "wd:id":"Q73817",
@@ -196,7 +198,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350572,
+    "wof:lastmodified":1566657986,
     "wof:name":"Winschoten",
     "wof:parent_id":1158792361,
     "wof:placetype":"locality",

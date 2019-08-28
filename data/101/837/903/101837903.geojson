@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.694779,
     "lbl:longitude":5.245725,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.701587,
     "mps:longitude":5.245801,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Bovenkarspel"
     ],
@@ -89,7 +92,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.7,
     "wd:longitude":5.25,
     "wd:wordcount":127,
@@ -105,7 +108,6 @@
         "fct:id":"01efee8c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2758498,
         "gp:id":727929,
-        "qs:id":238294,
         "qs_pg:id":238294,
         "tgn:id":1047671,
         "wd:id":"Q674395",
@@ -127,7 +129,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350734,
+    "wof:lastmodified":1566658069,
     "wof:name":"Bovenkarspel",
     "wof:parent_id":404474187,
     "wof:placetype":"locality",

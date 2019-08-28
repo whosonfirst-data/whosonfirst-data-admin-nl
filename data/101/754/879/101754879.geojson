@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.65909,
     "lbl:longitude":4.786254,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.662883,
     "mps:longitude":4.786293,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Sint Pancras"
     ],
@@ -54,9 +57,6 @@
         "St Pancras",
         "St. Pankras"
     ],
-    "name:unk_x_variant":[
-        "Pankras"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Sint Pancras"
     ],
@@ -79,7 +79,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":121,
     "wof:belongsto":[
         85687053,
@@ -93,7 +93,6 @@
         "fct:id":"01f1f8ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2747225,
         "gp:id":733586,
-        "qs:id":1168118,
         "qs_pg:id":1168118,
         "tgn:id":1048108,
         "wd:id":"Q2282220",
@@ -115,7 +114,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350276,
+    "wof:lastmodified":1566657849,
     "wof:name":"Sint Pancras",
     "wof:parent_id":404474093,
     "wof:placetype":"locality",

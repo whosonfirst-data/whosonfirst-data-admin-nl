@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.807527,
     "lbl:longitude":6.155778,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.807527,
     "mps:longitude":6.155778,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404474621,
         85633337,
         1158805713,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158803711,
-    "wof:lastmodified":1559597096,
+    "wof:lastmodified":1566658921,
     "wof:name":"Buitengebied Steenwijk Oost",
     "wof:parent_id":1158805713,
     "wof:placetype":"neighbourhood",

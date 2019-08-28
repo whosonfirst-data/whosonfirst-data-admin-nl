@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.547427,
     "lbl:longitude":3.509384,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.541462,
     "mps:longitude":3.504376,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Aagtekerke"
     ],
@@ -90,7 +93,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":51.5464,
     "wd:longitude":3.5094,
@@ -108,7 +111,6 @@
         "fct:id":"01f01fa6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2760147,
         "gp:id":727005,
-        "qs:id":1250138,
         "qs_pg:id":1250138,
         "tgn:id":7257647,
         "wd:id":"Q300808",
@@ -130,7 +132,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350946,
+    "wof:lastmodified":1566658189,
     "wof:name":"Aagtekerke",
     "wof:parent_id":404474333,
     "wof:placetype":"locality",

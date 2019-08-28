@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.581654,
     "lbl:longitude":4.884198,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.560323,
     "mps:longitude":4.886546,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Molenschot"
     ],
@@ -57,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687035,
         102191581,
@@ -69,7 +72,6 @@
     "wof:concordances":{
         "gn:id":2750666,
         "gp:id":731771,
-        "qs:id":1014047,
         "qs_pg:id":1014047,
         "tgn:id":7270081,
         "wd:id":"Q2319075"
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101808283,
-    "wof:lastmodified":1563350899,
+    "wof:lastmodified":1566658164,
     "wof:name":"Molenschot",
     "wof:parent_id":404474381,
     "wof:placetype":"locality",

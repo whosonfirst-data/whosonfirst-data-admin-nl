@@ -24,6 +24,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.374276,
     "lbl:longitude":4.886494,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.373243,
     "mps:longitude":4.885813,
     "mz:hierarchy_label":1,
@@ -47,14 +48,14 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687053,
         102191581,
         85633337,
         101751893,
         136253051,
-        1158844279
+        1158844279,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1108945293,
-    "wof:lastmodified":1559595876,
+    "wof:lastmodified":1566657736,
     "wof:name":"Grachtengordel-West",
     "wof:parent_id":1158844279,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.100397,
     "lbl:longitude":5.998047,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.100397,
     "mps:longitude":5.998047,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473867,
         85633337,
         101807067,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962087,
-    "wof:lastmodified":1559595623,
+    "wof:lastmodified":1566661300,
     "wof:name":"Bosgebied Loenen",
     "wof:parent_id":101807067,
     "wof:placetype":"neighbourhood",

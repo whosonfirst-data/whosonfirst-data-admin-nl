@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.833461,
     "lbl:longitude":4.964224,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.842905,
     "mps:longitude":4.965213,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Gorinchem"
     ],
@@ -202,7 +205,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":803,
     "wof:belongsto":[
@@ -217,7 +220,6 @@
         "fct:id":"01f0c672-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2755434,
         "gp:id":729457,
-        "qs:id":794718,
         "qs_pg:id":794718,
         "tgn:id":1047795,
         "wd:id":"Q244327"
@@ -238,7 +240,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350961,
+    "wof:lastmodified":1566658198,
     "wof:name":"Gorinchem",
     "wof:parent_id":404474173,
     "wof:placetype":"locality",

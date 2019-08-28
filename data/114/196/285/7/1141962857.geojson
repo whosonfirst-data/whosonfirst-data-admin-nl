@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.977229,
     "lbl:longitude":6.258454,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.977229,
     "mps:longitude":6.258454,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473885,
         85633337,
         101808663,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141962857,
-    "wof:lastmodified":1559596214,
+    "wof:lastmodified":1566661248,
     "wof:name":"Buitengebied Keppelseweg",
     "wof:parent_id":101808663,
     "wof:placetype":"neighbourhood",

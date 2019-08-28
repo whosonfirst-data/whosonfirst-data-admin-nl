@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.779349,
     "lbl:longitude":6.092286,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.779349,
     "mps:longitude":6.092286,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404474621,
         85633337,
         101837861,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158803687,
-    "wof:lastmodified":1559596933,
+    "wof:lastmodified":1566658955,
     "wof:name":"Groot Verlaat",
     "wof:parent_id":101837861,
     "wof:placetype":"neighbourhood",

@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.725839,
     "lbl:longitude":5.959319,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.722371,
     "mps:longitude":5.977783,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Blokzijl"
     ],
@@ -102,7 +105,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.7264,
     "wd:longitude":5.9617,
@@ -118,7 +121,6 @@
     "wof:concordances":{
         "gn:id":2758777,
         "gp:id":727795,
-        "qs:id":910597,
         "qs_pg:id":910597,
         "tgn:id":1047661,
         "wd:id":"Q59605",
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":101807139,
-    "wof:lastmodified":1563350514,
+    "wof:lastmodified":1566657952,
     "wof:name":"Blokzijl",
     "wof:parent_id":404474621,
     "wof:placetype":"locality",

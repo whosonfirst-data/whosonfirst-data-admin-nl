@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.329256,
     "lbl:longitude":6.191399,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.329256,
     "mps:longitude":6.191399,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404474663,
         85633337,
         101855401,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158804039,
-    "wof:lastmodified":1559595598,
+    "wof:lastmodified":1566659100,
     "wof:name":"Buitengebied Wesepe",
     "wof:parent_id":101855401,
     "wof:placetype":"neighbourhood",

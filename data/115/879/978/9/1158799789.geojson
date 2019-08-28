@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.565286,
     "lbl:longitude":4.575451,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.565286,
     "mps:longitude":4.575451,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474565,
         85633337,
         101808213,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158799789,
-    "wof:lastmodified":1559596744,
+    "wof:lastmodified":1566659565,
     "wof:name":"Verspreide huizen ten zuiden van Hoeven",
     "wof:parent_id":101808213,
     "wof:placetype":"neighbourhood",

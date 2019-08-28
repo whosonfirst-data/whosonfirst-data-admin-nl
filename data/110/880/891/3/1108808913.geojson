@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.078138,
     "lbl:longitude":5.128436,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.078138,
     "mps:longitude":5.128436,
     "mz:hierarchy_label":1,
@@ -33,12 +34,12 @@
     "reversegeo:longitude":5.128436,
     "src:geom":"cbsnl",
     "wof:belongsto":[
-        85687039,
         102191581,
         85633337,
         101751827,
         136253051,
-        1108808669
+        1108808669,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1108808913,
-    "wof:lastmodified":1559596513,
+    "wof:lastmodified":1566657697,
     "wof:name":"Watervogelbuurt",
     "wof:parent_id":1108808669,
     "wof:placetype":"neighbourhood",

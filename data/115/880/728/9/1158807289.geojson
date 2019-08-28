@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.425759,
     "lbl:longitude":6.125349,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.425759,
     "mps:longitude":6.125349,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474541,
         85633337,
         101839243,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807289,
-    "wof:lastmodified":1559595708,
+    "wof:lastmodified":1566659131,
     "wof:name":"Verspreide huizen Grubbenvorst",
     "wof:parent_id":101839243,
     "wof:placetype":"neighbourhood",

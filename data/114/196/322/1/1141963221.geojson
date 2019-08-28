@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.288452,
     "lbl:longitude":5.961113,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.288452,
     "mps:longitude":5.961113,
     "mz:hierarchy_label":1,
@@ -46,12 +47,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473897,
         85633337,
         101808551,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1141963221,
-    "wof:lastmodified":1559596131,
+    "wof:lastmodified":1566661174,
     "wof:name":"Noord-West",
     "wof:parent_id":101808551,
     "wof:placetype":"neighbourhood",

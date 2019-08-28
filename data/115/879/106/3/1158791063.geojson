@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.683908,
     "lbl:longitude":6.622787,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.683908,
     "mps:longitude":6.622787,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404473811,
         85633337,
         1158792031,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158791063,
-    "wof:lastmodified":1559596087,
+    "wof:lastmodified":1566659650,
     "wof:name":"Verspreide huizen Nieuwlande",
     "wof:parent_id":1158792031,
     "wof:placetype":"neighbourhood",

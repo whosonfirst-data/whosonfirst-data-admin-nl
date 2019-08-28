@@ -14,6 +14,8 @@
     "iso:country":"NL",
     "lbl:latitude":52.37243,
     "lbl:longitude":4.89973,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":52.374395,
     "mps:longitude":4.881996,
     "mz:hierarchy_label":1,
@@ -833,7 +835,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wof:belongsto":[
         102191581,
@@ -851,7 +853,6 @@
         "gp:id":727232,
         "loc:id":"n78095634",
         "nyt:id":"N15719170213561677011",
-        "qs:id":794159,
         "qs_pg:id":794159,
         "tgn:id":7006952,
         "wd:id":"Q727",
@@ -872,7 +873,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350400,
+    "wof:lastmodified":1566657899,
     "wof:megacity":1,
     "wof:name":"Amsterdam",
     "wof:parent_id":85687053,

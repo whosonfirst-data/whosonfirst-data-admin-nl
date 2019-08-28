@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.851545,
     "lbl:longitude":7.044209,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.851545,
     "mps:longitude":7.044209,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404473809,
         85633337,
         1158792023,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158790831,
-    "wof:lastmodified":1559595440,
+    "wof:lastmodified":1566659428,
     "wof:name":"Verspreide huizen Roswinkel",
     "wof:parent_id":1158792023,
     "wof:placetype":"neighbourhood",

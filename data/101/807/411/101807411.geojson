@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.275314,
     "lbl:longitude":5.657602,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.275314,
     "mps:longitude":5.657602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sint Annaparochie"
     ],
@@ -48,7 +51,7 @@
     "name:nld_x_variant":[
         "Annaparochie"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "St. Annaparochie"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":145,
     "wof:belongsto":[
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":2747297,
         "gp:id":733560,
-        "qs:id":895781,
+        "qs_pg:id":895781,
         "tgn:id":1048103,
         "wd:id":"Q2840555",
         "wk:page":"Sint Annaparochie"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101807411,
-    "wof:lastmodified":1563350527,
+    "wof:lastmodified":1566657960,
     "wof:name":"Sint Annaparochie",
     "wof:parent_id":404473763,
     "wof:placetype":"locality",

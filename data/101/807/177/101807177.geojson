@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.384764,
     "lbl:longitude":6.717851,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.385481,
     "mps:longitude":6.717656,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Harbrinkhoek"
     ],
@@ -58,7 +61,7 @@
     "name:por_x_preferred":[
         "Harbrinkhoek"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Harbrinkhoef"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -83,7 +86,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.3853,
     "wd:longitude":6.7175,
     "wd:wordcount":124,
@@ -98,7 +101,6 @@
     "wof:concordances":{
         "gn:id":2754866,
         "gp:id":729712,
-        "qs:id":314806,
         "qs_pg:id":314806,
         "tgn:id":7262385,
         "wd:id":"Q2115358",
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101807177,
-    "wof:lastmodified":1563350555,
+    "wof:lastmodified":1566657977,
     "wof:name":"Harbrinkhoek",
     "wof:parent_id":404473855,
     "wof:placetype":"locality",

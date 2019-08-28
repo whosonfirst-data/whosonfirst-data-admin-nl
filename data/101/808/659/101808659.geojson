@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.864526,
     "lbl:longitude":6.485256,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.868033,
     "mps:longitude":6.486816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Dinxperlo"
     ],
@@ -56,7 +59,7 @@
     "name:sqi_x_preferred":[
         "Dinxperlo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dingsperloo"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -81,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.866667,
     "wd:longitude":6.483333,
     "wd:wordcount":324,
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":2756793,
         "gp:id":728737,
-        "qs:id":314750,
         "qs_pg:id":314750,
         "tgn:id":1047725,
         "wd:id":"Q1226753",
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101808659,
-    "wof:lastmodified":1563350843,
+    "wof:lastmodified":1566658128,
     "wof:name":"Dinxperlo",
     "wof:parent_id":404473865,
     "wof:placetype":"locality",

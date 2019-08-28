@@ -18,11 +18,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.256454,
     "lbl:longitude":4.557053,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.255263,
     "mps:longitude":4.546283,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Lisse"
     ],
@@ -189,7 +192,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"cbsnl",
     "wd:latitude":52.25,
     "wd:longitude":4.55,
@@ -206,7 +209,6 @@
         "fct:id":"01f1414c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2751547,
         "gp:id":731349,
-        "qs:id":900974,
         "qs_pg:id":900974,
         "tgn:id":1047919,
         "wd:id":"Q332730"
@@ -226,7 +228,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350709,
+    "wof:lastmodified":1566658057,
     "wof:name":"Lisse",
     "wof:parent_id":85687041,
     "wof:placetype":"locality",

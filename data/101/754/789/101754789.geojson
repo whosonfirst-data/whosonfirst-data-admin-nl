@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.338757,
     "lbl:longitude":4.782266,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.336303,
     "mps:longitude":4.775325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Badhoevedorp"
     ],
@@ -95,7 +98,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.3381,
     "wd:longitude":4.7803,
     "wd:wordcount":144,
@@ -110,7 +113,6 @@
     "wof:concordances":{
         "gn:id":2759524,
         "gp:id":727435,
-        "qs:id":1074699,
         "qs_pg:id":1074699,
         "tgn:id":1047630,
         "wd:id":"Q568337",
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101754789,
-    "wof:lastmodified":1563350309,
+    "wof:lastmodified":1566657861,
     "wof:name":"Badhoevedorp",
     "wof:parent_id":404474065,
     "wof:placetype":"locality",

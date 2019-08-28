@@ -26,6 +26,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.371372,
     "lbl:longitude":4.860926,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.37098,
     "mps:longitude":4.860753,
     "mz:hierarchy_label":1,
@@ -49,15 +50,15 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158844389,
         85633337,
         101751893,
         136253051,
-        1158844285
+        1158844285,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108945419,
-    "wof:lastmodified":1559595924,
+    "wof:lastmodified":1566657746,
     "wof:name":"De Krommert",
     "wof:parent_id":1158844389,
     "wof:placetype":"neighbourhood",

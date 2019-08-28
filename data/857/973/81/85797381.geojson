@@ -23,6 +23,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.211895,
     "lbl:longitude":5.996566,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.218785,
     "mps:longitude":5.991601,
     "mz:hierarchy_label":0,
@@ -42,9 +43,6 @@
     ],
     "name:nld_x_variant":[
         "De Melm"
-    ],
-    "name:unk_x_variant":[
-        "De Mheen"
     ],
     "qs:gn_adm0_cc":"NL",
     "qs:gn_fcode":"PPLX",
@@ -77,21 +75,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783947,
         404473867,
         85633337,
         101751853,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2757290,
         "gp:id":728472,
-        "qs:id":247110,
         "qs_pg:id":247110
     },
     "wof:country":"NL",
@@ -112,7 +109,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559596016,
+    "wof:lastmodified":1566657347,
     "wof:name":"De Mheen",
     "wof:parent_id":1158783947,
     "wof:placetype":"neighbourhood",

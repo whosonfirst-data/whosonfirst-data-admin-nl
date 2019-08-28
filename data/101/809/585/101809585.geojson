@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.027584,
     "lbl:longitude":5.780206,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.025823,
     "mps:longitude":5.78197,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Obbicht"
     ],
@@ -66,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687033,
         102191581,
@@ -78,7 +81,6 @@
     "wof:concordances":{
         "gn:id":2749748,
         "gp:id":732199,
-        "qs:id":187764,
         "qs_pg:id":187764,
         "tgn:id":7269272,
         "wd:id":"Q2333547"
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101809585,
-    "wof:lastmodified":1563350667,
+    "wof:lastmodified":1566658037,
     "wof:name":"Obbicht",
     "wof:parent_id":404474675,
     "wof:placetype":"locality",

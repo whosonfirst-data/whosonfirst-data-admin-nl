@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.976392,
     "lbl:longitude":4.240653,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.975156,
     "mps:longitude":4.255803,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "De Lier"
     ],
@@ -68,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435-\u041b\u0456\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lier"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -94,7 +97,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.9828,
     "wd:longitude":4.2481,
@@ -111,7 +114,6 @@
         "fct:id":"01f07b72-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2757336,
         "gp:id":728452,
-        "qs:id":457676,
         "qs_pg:id":457676,
         "tgn:id":1047706,
         "wd:id":"Q1616247",
@@ -133,7 +135,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350522,
+    "wof:lastmodified":1566657957,
     "wof:name":"De Lier",
     "wof:parent_id":404474667,
     "wof:placetype":"locality",

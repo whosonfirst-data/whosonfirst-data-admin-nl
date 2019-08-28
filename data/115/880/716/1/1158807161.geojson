@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":50.881108,
     "lbl:longitude":5.804438,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.881108,
     "mps:longitude":5.804438,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474537,
         85633337,
         101809547,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807161,
-    "wof:lastmodified":1559596382,
+    "wof:lastmodified":1566659154,
     "wof:name":"Houthemerveld",
     "wof:parent_id":101809547,
     "wof:placetype":"neighbourhood",

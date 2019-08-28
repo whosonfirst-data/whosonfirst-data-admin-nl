@@ -26,6 +26,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.349367,
     "lbl:longitude":5.007388,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.350201,
     "mps:longitude":5.009372,
     "mz:hierarchy_label":1,
@@ -52,15 +53,15 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158844321,
         85633337,
         101751893,
         136253051,
-        1158844281
+        1158844281,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108945519,
-    "wof:lastmodified":1559595955,
+    "wof:lastmodified":1566657727,
     "wof:name":"IJburg Zuid",
     "wof:parent_id":1158844321,
     "wof:placetype":"neighbourhood",

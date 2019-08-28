@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.914889,
     "lbl:longitude":5.534385,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.914889,
     "mps:longitude":5.534385,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404474655,
         85633337,
         101855359,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141965075,
-    "wof:lastmodified":1559596382,
+    "wof:lastmodified":1566661195,
     "wof:name":"Verspreide huizen IJzendoorn",
     "wof:parent_id":101855359,
     "wof:placetype":"neighbourhood",

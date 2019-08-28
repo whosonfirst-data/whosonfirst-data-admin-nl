@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.588559,
     "lbl:longitude":4.525657,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.587678,
     "mps:longitude":4.519038,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Oudenbosch"
     ],
@@ -95,7 +98,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.5892,
     "wd:longitude":4.5239,
     "wd:wordcount":127,
@@ -110,7 +113,6 @@
     "wof:concordances":{
         "gn:id":2749053,
         "gp:id":732570,
-        "qs:id":1074796,
         "qs_pg:id":1074796,
         "tgn:id":1048035,
         "wd:id":"Q2701706",
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101808323,
-    "wof:lastmodified":1563350857,
+    "wof:lastmodified":1566658138,
     "wof:name":"Oudenbosch",
     "wof:parent_id":404474565,
     "wof:placetype":"locality",

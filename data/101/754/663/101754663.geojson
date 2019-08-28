@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.202718,
     "lbl:longitude":4.403348,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.190222,
     "mps:longitude":4.401052,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Katwijk aan Zee"
     ],
@@ -66,7 +69,7 @@
     "name:tur_x_preferred":[
         "Katwijk aan Zee"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Katwyk Aan Zee"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -91,7 +94,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1503,
     "wof:belongsto":[
@@ -106,7 +109,6 @@
         "fct:id":"01f114ec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2753010,
         "gp:id":730639,
-        "qs:id":1351200,
         "qs_pg:id":1351200,
         "tgn:id":7006814,
         "wd:id":"Q2921491",
@@ -128,7 +130,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350292,
+    "wof:lastmodified":1566657855,
     "wof:name":"Katwijk aan Zee",
     "wof:parent_id":404474191,
     "wof:placetype":"locality",

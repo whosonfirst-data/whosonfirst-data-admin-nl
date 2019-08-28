@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.104283,
     "lbl:longitude":4.648626,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.104283,
     "mps:longitude":4.648626,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         404474147,
         85633337,
         101751837,
-        136253051
+        136253051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158824949,
-    "wof:lastmodified":1559596265,
+    "wof:lastmodified":1566660332,
     "wof:name":"Rietveldsepad",
     "wof:parent_id":101751837,
     "wof:placetype":"neighbourhood",

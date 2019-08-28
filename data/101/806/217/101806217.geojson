@@ -20,11 +20,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.195831,
     "lbl:longitude":7.083106,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.217207,
     "mps:longitude":7.108206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Finsterwolde"
     ],
@@ -77,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.1981,
     "wd:longitude":7.0836,
     "wd:wordcount":249,
@@ -92,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2755905,
         "gp:id":729240,
-        "qs:id":1168026,
         "qs_pg:id":1168026,
         "tgn:id":1047776,
         "wd:id":"Q3072672",
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101806217,
-    "wof:lastmodified":1563350973,
+    "wof:lastmodified":1566658203,
     "wof:name":"Finsterwolde",
     "wof:parent_id":1158792361,
     "wof:placetype":"locality",

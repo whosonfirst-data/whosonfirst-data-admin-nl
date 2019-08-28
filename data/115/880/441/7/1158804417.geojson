@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.761333,
     "lbl:longitude":6.108368,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.761333,
     "mps:longitude":6.108368,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687045,
         102191581,
         404474621,
         85633337,
         1158805709,
-        136253051
+        136253051,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158804417,
-    "wof:lastmodified":1559596283,
+    "wof:lastmodified":1566658821,
     "wof:name":"Verspreide huizen Zuidveen",
     "wof:parent_id":1158805709,
     "wof:placetype":"neighbourhood",

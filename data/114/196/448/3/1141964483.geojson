@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.750667,
     "lbl:longitude":5.161185,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.750667,
     "mps:longitude":5.161185,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473955,
         85633337,
         1158783781,
-        136253051
+        136253051,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1141964483,
-    "wof:lastmodified":1559596311,
+    "wof:lastmodified":1566661066,
     "wof:name":"Verspreide huizen Nederhemert",
     "wof:parent_id":1158783781,
     "wof:placetype":"neighbourhood",

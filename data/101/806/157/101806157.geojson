@@ -13,11 +13,14 @@
     "iso:country":"NL",
     "lbl:latitude":53.233564,
     "lbl:longitude":6.09097,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.233564,
     "mps:longitude":6.09097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0641\u0627\u064a\u0632\u0644"
     ],
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":54,
     "wof:belongsto":[
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":2746052,
         "gp:id":733991,
-        "qs:id":348249,
         "qs_pg:id":348249,
         "tgn:id":7271999,
         "wd:id":"Q3027960",
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101806157,
-    "wof:lastmodified":1563350964,
+    "wof:lastmodified":1566658199,
     "wof:name":"Twijzel",
     "wof:parent_id":404473757,
     "wof:placetype":"locality",

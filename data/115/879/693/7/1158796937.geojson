@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.659311,
     "lbl:longitude":5.93761,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.659311,
     "mps:longitude":5.93761,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474359,
         85633337,
         101839331,
-        136253051
+        136253051,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158796937,
-    "wof:lastmodified":1559596541,
+    "wof:lastmodified":1566659497,
     "wof:name":"Maasbroeksche Blokken",
     "wof:parent_id":101839331,
     "wof:placetype":"neighbourhood",

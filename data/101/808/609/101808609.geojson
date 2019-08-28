@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.830151,
     "lbl:longitude":5.086994,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.815883,
     "mps:longitude":5.084279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Brakel"
     ],
@@ -66,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.816667,
     "wd:longitude":5.083333,
     "wd:wordcount":135,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2758426,
         "gp:id":727957,
-        "qs:id":1350554,
         "qs_pg:id":1350554,
         "tgn:id":7258950,
         "wd:id":"Q2916660",
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101808609,
-    "wof:lastmodified":1563350938,
+    "wof:lastmodified":1566658183,
     "wof:name":"Brakel",
     "wof:parent_id":404473955,
     "wof:placetype":"locality",

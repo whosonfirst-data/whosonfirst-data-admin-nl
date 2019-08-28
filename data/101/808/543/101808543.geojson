@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.910528,
     "lbl:longitude":4.093567,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.914345,
     "mps:longitude":4.117092,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Oostvoorne"
     ],
@@ -78,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.9119,
     "wd:longitude":4.1008,
     "wd:wordcount":253,
@@ -94,7 +97,6 @@
         "fct:id":"01f1a038-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2749330,
         "gp:id":732412,
-        "qs:id":901832,
         "qs_pg:id":901832,
         "tgn:id":1048020,
         "wd:id":"Q2738927",
@@ -116,7 +118,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350859,
+    "wof:lastmodified":1566658139,
     "wof:name":"Oostvoorne",
     "wof:parent_id":404474267,
     "wof:placetype":"locality",

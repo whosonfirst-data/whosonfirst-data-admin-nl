@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.337574,
     "lbl:longitude":6.413209,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.337574,
     "mps:longitude":6.413209,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404474575,
         85633337,
         1158796587,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158795065,
-    "wof:lastmodified":1559596370,
+    "wof:lastmodified":1566659610,
     "wof:name":"Verspreide huizen Warfhuizen",
     "wof:parent_id":1158796587,
     "wof:placetype":"neighbourhood",

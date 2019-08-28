@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":51.525644,
     "lbl:longitude":6.006465,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.531258,
     "mps:longitude":6.022503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Oostrum"
     ],
@@ -66,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         85687033,
@@ -79,7 +82,6 @@
     "wof:concordances":{
         "gn:id":2749344,
         "gp:id":732409,
-        "qs:id":1074790,
         "qs_pg:id":1074790,
         "tgn:id":7268290
     },
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101839281,
-    "wof:lastmodified":1564234643,
+    "wof:lastmodified":1566658231,
     "wof:name":"Oostrum",
     "wof:parent_id":404474527,
     "wof:placetype":"locality",

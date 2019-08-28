@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.107182,
     "lbl:longitude":6.864528,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.107182,
     "mps:longitude":6.864528,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473737,
         85633337,
         101838023,
-        136253051
+        136253051,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158793203,
-    "wof:lastmodified":1559596332,
+    "wof:lastmodified":1566659804,
     "wof:name":"Veendam-Centrum",
     "wof:parent_id":101838023,
     "wof:placetype":"neighbourhood",

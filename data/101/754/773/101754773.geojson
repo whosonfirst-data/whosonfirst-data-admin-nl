@@ -12,11 +12,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.250139,
     "lbl:longitude":6.913098,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.263554,
     "mps:longitude":6.90266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Lonneker"
     ],
@@ -72,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":52.2506,
     "wd:longitude":6.9119,
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2751489,
         "gp:id":731380,
-        "qs:id":914996,
         "qs_pg:id":914996,
         "tgn:id":7264873,
         "wd:id":"Q2490294",
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101754773,
-    "wof:lastmodified":1563350307,
+    "wof:lastmodified":1566657860,
     "wof:name":"Lonneker",
     "wof:parent_id":404473827,
     "wof:placetype":"locality",

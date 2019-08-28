@@ -21,11 +21,14 @@
     "iso:country":"NL",
     "lbl:latitude":52.262129,
     "lbl:longitude":7.00608,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.2625,
     "mps:longitude":6.997263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0633\u0631"
     ],
@@ -153,7 +156,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":278,
     "wof:belongsto":[
@@ -168,7 +171,6 @@
         "fct:id":"01f147a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2751424,
         "gp:id":731412,
-        "qs:id":220724,
         "qs_pg:id":220724,
         "tgn:id":1047925,
         "wd:id":"Q10015"
@@ -189,7 +191,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563350562,
+    "wof:lastmodified":1566657981,
     "wof:name":"Losser",
     "wof:parent_id":404473841,
     "wof:placetype":"locality",

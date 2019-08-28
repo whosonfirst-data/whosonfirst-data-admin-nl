@@ -12,6 +12,7 @@
     "iso:country":"NL",
     "lbl:latitude":53.017223,
     "lbl:longitude":4.725264,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.017223,
     "mps:longitude":4.725264,
     "mz:hierarchy_label":0,
@@ -31,12 +32,12 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474115,
         85633337,
         1158822923,
-        136253051
+        136253051,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1158822565,
-    "wof:lastmodified":1559596815,
+    "wof:lastmodified":1566660118,
     "wof:name":"Verspreide huizen Den Hoorn",
     "wof:parent_id":1158822923,
     "wof:placetype":"neighbourhood",

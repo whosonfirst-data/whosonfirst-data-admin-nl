@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.658685,
     "lbl:longitude":6.699224,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.658685,
     "mps:longitude":6.699224,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687051,
         102191581,
         404473807,
         85633337,
         1158791965,
-        136253051
+        136253051,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158790693,
-    "wof:lastmodified":1559595431,
+    "wof:lastmodified":1566659788,
     "wof:name":"Verspreide huizen Steenwijksmoer",
     "wof:parent_id":1158791965,
     "wof:placetype":"neighbourhood",

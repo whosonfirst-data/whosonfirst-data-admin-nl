@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":52.036186,
     "lbl:longitude":4.266335,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.036549,
     "mps:longitude":4.267384,
     "mz:hierarchy_label":1,
@@ -40,9 +41,6 @@
         "Dreven en Gaarden"
     ],
     "name:nld_x_variant":[
-        "Vrederust"
-    ],
-    "name:unk_x_variant":[
         "Vrederust"
     ],
     "qs:gn_id":0,
@@ -75,21 +73,19 @@
         "quattroshapes_pg",
         "mz"
     ],
-    "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687041,
         102191581,
         1108808029,
         85633337,
         101752763,
         136253051,
-        1108808051
+        1108808051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20063891,
-        "qs:id":331692,
         "qs_pg:id":331692
     },
     "wof:country":"NL",
@@ -110,7 +106,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1559595874,
+    "wof:lastmodified":1566657371,
     "wof:name":"Dreven en Gaarden",
     "wof:parent_id":1108808029,
     "wof:placetype":"neighbourhood",

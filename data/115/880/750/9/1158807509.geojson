@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.060512,
     "lbl:longitude":5.804884,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.060512,
     "mps:longitude":5.804884,
     "mz:hierarchy_label":1,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474627,
         85633337,
         101809615,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807509,
-    "wof:lastmodified":1559596822,
+    "wof:lastmodified":1566658993,
     "wof:name":"Illikhoven en Visserweert",
     "wof:parent_id":101809615,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     "iso:country":"NL",
     "lbl:latitude":51.464126,
     "lbl:longitude":6.00836,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.464126,
     "mps:longitude":6.00836,
     "mz:hierarchy_label":0,
@@ -40,12 +41,12 @@
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474541,
         85633337,
         101837633,
-        136253051
+        136253051,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1158807221,
-    "wof:lastmodified":1559596750,
+    "wof:lastmodified":1566658893,
     "wof:name":"Verspreide huizen Meterik",
     "wof:parent_id":101837633,
     "wof:placetype":"neighbourhood",
