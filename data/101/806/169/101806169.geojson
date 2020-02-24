@@ -68,6 +68,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -91,6 +92,10 @@
         "wk:page":"Hallum"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"18863959ba2703b7631416ec3526d955",
     "wof:hierarchy":[
         {
@@ -106,7 +111,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566658202,
+    "wof:lastmodified":1582362734,
     "wof:name":"Hallum",
     "wof:parent_id":404474635,
     "wof:placetype":"locality",

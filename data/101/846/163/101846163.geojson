@@ -74,6 +74,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -97,6 +98,10 @@
         "wk:page":"Garyp"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bf08bb89612bbf2b9625f22848c0da7d",
     "wof:hierarchy":[
         {
@@ -112,7 +117,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566657908,
+    "wof:lastmodified":1582362639,
     "wof:name":"Garijp",
     "wof:parent_id":404474343,
     "wof:placetype":"locality",

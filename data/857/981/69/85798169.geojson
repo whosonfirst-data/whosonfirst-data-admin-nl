@@ -75,12 +75,12 @@
     "wd:longitude":4.635,
     "wd:wordcount":111,
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831057,
         404474145,
         85633337,
-        101754665
+        101754665,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +92,10 @@
         "wk:page":"Oostendam"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"397a97a939ae7521c885dd9e4c644cd7",
     "wof:hierarchy":[
         {
@@ -108,7 +112,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861928,
+    "wof:lastmodified":1582362576,
     "wof:name":"Oostendam",
     "wof:parent_id":1158831057,
     "wof:placetype":"neighbourhood",

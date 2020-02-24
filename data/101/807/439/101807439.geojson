@@ -88,6 +88,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -110,6 +111,10 @@
         "wk:page":"Feanw\u00e2lden"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a3c42bedb4c4e53c9db93cd8fa5913ca",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566657927,
+    "wof:lastmodified":1582362645,
     "wof:name":"Veenwouden",
     "wof:parent_id":404474681,
     "wof:placetype":"locality",

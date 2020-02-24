@@ -70,11 +70,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":667,
     "wof:belongsto":[
-        85687043,
         102191581,
         404473885,
         85633337,
-        101808663
+        101808663,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,6 +85,10 @@
         "wd:id":"Q396560"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"62aad9ab7e1ca039cf7e515165031a0a",
     "wof:hierarchy":[
         {
@@ -100,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861882,
+    "wof:lastmodified":1582362574,
     "wof:name":"De Hoop",
     "wof:parent_id":101808663,
     "wof:placetype":"neighbourhood",

@@ -73,11 +73,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474659,
         85633337,
-        101808273
+        101808273,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,6 +87,10 @@
         "qs_pg:id":405527
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6df36fc43fcc70e2aeabf7bc2819da12",
     "wof:hierarchy":[
         {
@@ -102,7 +106,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861905,
+    "wof:lastmodified":1582362569,
     "wof:name":"Kievit",
     "wof:parent_id":101808273,
     "wof:placetype":"neighbourhood",

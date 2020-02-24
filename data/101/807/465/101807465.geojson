@@ -75,6 +75,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -97,6 +98,10 @@
         "wk:page":"Stiens"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"95e5d9607eb38b7f2effcf3442962224",
     "wof:hierarchy":[
         {
@@ -109,7 +114,7 @@
         }
     ],
     "wof:id":101807465,
-    "wof:lastmodified":1566657937,
+    "wof:lastmodified":1582362648,
     "wof:name":"Stiens",
     "wof:parent_id":404473777,
     "wof:placetype":"locality",

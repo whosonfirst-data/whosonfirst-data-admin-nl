@@ -85,7 +85,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":169,
@@ -106,6 +107,10 @@
         "wk:page":"Beetsterzwaag"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"70694d96c47cc53ee47d91557689194a",
     "wof:hierarchy":[
         {
@@ -118,7 +123,7 @@
         }
     ],
     "wof:id":101806093,
-    "wof:lastmodified":1566658218,
+    "wof:lastmodified":1582362738,
     "wof:name":"Beetsterzwaag",
     "wof:parent_id":404473787,
     "wof:placetype":"locality",

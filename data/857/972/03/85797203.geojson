@@ -71,12 +71,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687045,
         102191581,
         1158805851,
         404473827,
         85633337,
-        101751871
+        101751871,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,6 +86,10 @@
         "qs_pg:id":1139417
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"421dcfdb72f84af1fb07d4021d221c12",
     "wof:hierarchy":[
         {
@@ -102,7 +106,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861873,
+    "wof:lastmodified":1582362578,
     "wof:name":"Bruggemors",
     "wof:parent_id":1158805851,
     "wof:placetype":"neighbourhood",

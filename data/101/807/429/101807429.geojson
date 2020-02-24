@@ -74,6 +74,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -98,6 +99,10 @@
         "wk:page":"Opeinde"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f9d52f07c6f5545462c999adca53cdc5",
     "wof:hierarchy":[
         {
@@ -110,7 +115,7 @@
         }
     ],
     "wof:id":101807429,
-    "wof:lastmodified":1566657961,
+    "wof:lastmodified":1582362655,
     "wof:name":"Opeinde",
     "wof:parent_id":404473791,
     "wof:placetype":"locality",

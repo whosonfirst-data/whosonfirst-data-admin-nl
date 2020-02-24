@@ -68,6 +68,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -90,6 +91,10 @@
         "wk:page":"Heeg"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"005aa56b569162a8626412cf75ed4ba3",
     "wof:hierarchy":[
         {
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":101806151,
-    "wof:lastmodified":1566658202,
+    "wof:lastmodified":1582362734,
     "wof:name":"Heeg",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

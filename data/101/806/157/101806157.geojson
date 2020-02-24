@@ -60,6 +60,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -82,6 +83,10 @@
         "wk:page":"Twijzel"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"330cb64d0878c1ed4b1ebced1e20f487",
     "wof:hierarchy":[
         {
@@ -94,7 +99,7 @@
         }
     ],
     "wof:id":101806157,
-    "wof:lastmodified":1566658199,
+    "wof:lastmodified":1582362734,
     "wof:name":"Twijzel",
     "wof:parent_id":404473757,
     "wof:placetype":"locality",

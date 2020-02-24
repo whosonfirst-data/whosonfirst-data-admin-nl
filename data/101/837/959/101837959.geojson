@@ -65,6 +65,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -87,6 +88,10 @@
         "wk:page":"Twijzelerheide"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0974a2307321dc11a227737317869e83",
     "wof:hierarchy":[
         {
@@ -99,7 +104,7 @@
         }
     ],
     "wof:id":101837959,
-    "wof:lastmodified":1566658069,
+    "wof:lastmodified":1582362688,
     "wof:name":"Twijzelerheide",
     "wof:parent_id":404473757,
     "wof:placetype":"locality",

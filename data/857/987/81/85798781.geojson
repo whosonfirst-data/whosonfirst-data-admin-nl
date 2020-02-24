@@ -64,12 +64,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783949,
         404473867,
         85633337,
-        101751853
+        101751853,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,6 +79,10 @@
         "qs_pg:id":179943
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ff4e6cbb95c5e98c0f065f7b1fe09f67",
     "wof:hierarchy":[
         {
@@ -95,7 +99,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861962,
+    "wof:lastmodified":1582362573,
     "wof:name":"Zuiderpark",
     "wof:parent_id":1158783949,
     "wof:placetype":"neighbourhood",

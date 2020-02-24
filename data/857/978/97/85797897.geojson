@@ -74,11 +74,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474379,
         85633337,
-        101839411
+        101839411,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,6 +88,10 @@
         "qs_pg:id":978921
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f592a69c633f76c2a9bdc9581726b4c3",
     "wof:hierarchy":[
         {
@@ -103,7 +107,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861911,
+    "wof:lastmodified":1582362569,
     "wof:name":"Strien",
     "wof:parent_id":101839411,
     "wof:placetype":"neighbourhood",

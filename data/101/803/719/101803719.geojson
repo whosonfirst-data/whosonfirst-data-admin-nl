@@ -68,7 +68,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -91,6 +92,10 @@
         "wk:page":"Oentsjerk"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"1c9b74c5885eba65e26e317fe25c0794",
     "wof:hierarchy":[
         {
@@ -106,7 +111,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566657883,
+    "wof:lastmodified":1582362629,
     "wof:name":"Oentsjerk",
     "wof:parent_id":404474343,
     "wof:placetype":"locality",

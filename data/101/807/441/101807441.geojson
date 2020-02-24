@@ -68,6 +68,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -90,6 +91,10 @@
         "wk:page":"Wergea"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"24e1ccd6a420c730a071b300481a0487",
     "wof:hierarchy":[
         {
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":101807441,
-    "wof:lastmodified":1566657923,
+    "wof:lastmodified":1582362644,
     "wof:name":"Warga",
     "wof:parent_id":404473775,
     "wof:placetype":"locality",

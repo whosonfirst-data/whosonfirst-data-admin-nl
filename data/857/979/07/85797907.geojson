@@ -63,12 +63,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801765,
         404474587,
         85633337,
-        101751815
+        101751815,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +78,10 @@
         "qs_pg:id":179696
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7a838a9ea6d732fd365d04e6a1c275c5",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861911,
+    "wof:lastmodified":1582362568,
     "wof:name":"Langdonk",
     "wof:parent_id":1158801765,
     "wof:placetype":"neighbourhood",

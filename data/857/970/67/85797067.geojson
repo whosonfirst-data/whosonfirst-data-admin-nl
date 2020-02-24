@@ -63,12 +63,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687045,
         102191581,
         1158805797,
         404473861,
         85633337,
-        101751861
+        101751861,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +78,10 @@
         "qs_pg:id":555347
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b50ac4470a47ed611c838e681f77a78c",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861865,
+    "wof:lastmodified":1582362567,
     "wof:name":"Assendorp",
     "wof:parent_id":1158805797,
     "wof:placetype":"neighbourhood",

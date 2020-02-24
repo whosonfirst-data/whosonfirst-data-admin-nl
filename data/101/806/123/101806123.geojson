@@ -87,7 +87,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -112,6 +113,10 @@
         "wk:page":"Noardburgum"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"3906e188c742916ad57d143328a1890e",
     "wof:hierarchy":[
         {
@@ -127,7 +132,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566658219,
+    "wof:lastmodified":1582362739,
     "wof:name":"Noardburgum",
     "wof:parent_id":404474343,
     "wof:placetype":"locality",

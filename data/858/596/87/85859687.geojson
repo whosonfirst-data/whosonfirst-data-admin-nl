@@ -63,12 +63,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831239,
         404474685,
         85633337,
-        101754679
+        101754679,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,6 +77,10 @@
         "qs_pg:id":1064703
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1a7d70b91cb57c691bd0cab69339e95d",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531870393,
+    "wof:lastmodified":1582362582,
     "wof:name":"Voorburgse Weg",
     "wof:parent_id":1158831239,
     "wof:placetype":"neighbourhood",

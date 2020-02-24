@@ -70,6 +70,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -91,6 +92,10 @@
         "wk:page":"Ureterp"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e9225094f3d005bfc035a2b6de17ece2",
     "wof:hierarchy":[
         {
@@ -103,7 +108,7 @@
         }
     ],
     "wof:id":101807437,
-    "wof:lastmodified":1566657927,
+    "wof:lastmodified":1582362645,
     "wof:name":"Ureterp",
     "wof:parent_id":404473787,
     "wof:placetype":"locality",

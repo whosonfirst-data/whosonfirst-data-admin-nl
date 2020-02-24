@@ -62,6 +62,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -83,6 +84,10 @@
         "wd:id":"Q1025084"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2b1c95d45d1d739fdaa3742b12c87d66",
     "wof:hierarchy":[
         {
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":101807457,
-    "wof:lastmodified":1566657970,
+    "wof:lastmodified":1582362657,
     "wof:name":"Woudsend",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

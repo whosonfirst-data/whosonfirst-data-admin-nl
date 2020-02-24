@@ -62,7 +62,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -83,6 +84,10 @@
         "wk:page":"Surhuizum"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"0ea2d3da956579ce41616e88f643eac1",
     "wof:hierarchy":[
         {
@@ -94,7 +99,7 @@
         }
     ],
     "wof:id":101807471,
-    "wof:lastmodified":1566657918,
+    "wof:lastmodified":1582362643,
     "wof:name":"Surhuizum",
     "wof:parent_id":404473757,
     "wof:placetype":"locality",

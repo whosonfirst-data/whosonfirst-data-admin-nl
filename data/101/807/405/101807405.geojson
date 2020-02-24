@@ -77,6 +77,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -102,6 +103,10 @@
         "qs_pg:id":992899
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"23dac535841b7ca900eab82b786aa6f2",
     "wof:hierarchy":[
         {
@@ -114,7 +119,7 @@
         }
     ],
     "wof:id":101807405,
-    "wof:lastmodified":1566657968,
+    "wof:lastmodified":1582362657,
     "wof:name":"Nes",
     "wof:parent_id":404473759,
     "wof:placetype":"locality",

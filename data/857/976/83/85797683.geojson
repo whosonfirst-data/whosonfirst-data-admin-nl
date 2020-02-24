@@ -63,12 +63,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823009,
         1158818281,
         85633337,
-        101753097
+        101753097,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +78,10 @@
         "qs_pg:id":1083131
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"4838709dd95e3b077759856e327a085f",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861897,
+    "wof:lastmodified":1582362573,
     "wof:name":"Het Spiegel",
     "wof:parent_id":1158823009,
     "wof:placetype":"neighbourhood",

@@ -89,7 +89,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -111,6 +112,10 @@
         "wk:page":"Aldeboarn"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"7e9606d867b72268902bdc62ae9ff3fb",
     "wof:hierarchy":[
         {
@@ -123,7 +128,7 @@
         }
     ],
     "wof:id":101807423,
-    "wof:lastmodified":1566657925,
+    "wof:lastmodified":1582362645,
     "wof:name":"Oldeboorn",
     "wof:parent_id":404473771,
     "wof:placetype":"locality",

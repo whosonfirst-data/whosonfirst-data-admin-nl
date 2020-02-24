@@ -148,7 +148,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -170,6 +171,10 @@
         "wk:page":"Dokkum"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"ac02792da53e2313529a779f35289e95",
     "wof:hierarchy":[
         {
@@ -182,7 +187,7 @@
         }
     ],
     "wof:id":101806131,
-    "wof:lastmodified":1566658211,
+    "wof:lastmodified":1582362737,
     "wof:name":"Dokkum",
     "wof:parent_id":404473755,
     "wof:placetype":"locality",

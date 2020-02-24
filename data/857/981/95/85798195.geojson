@@ -99,11 +99,11 @@
     "src:population":"geonames",
     "wd:wordcount":30,
     "wof:belongsto":[
-        85687035,
         102191581,
         404474411,
         85633337,
-        101808311
+        101808311,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,6 +114,10 @@
         "wd:id":"Q14851869"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"628c52a90500368f3533788ec108b9e2",
     "wof:hierarchy":[
         {
@@ -129,7 +133,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861930,
+    "wof:lastmodified":1582362576,
     "wof:name":"Oosterwijk",
     "wof:parent_id":101808311,
     "wof:placetype":"neighbourhood",

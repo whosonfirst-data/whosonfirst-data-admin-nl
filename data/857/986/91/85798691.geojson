@@ -63,12 +63,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687045,
         102191581,
         1158805787,
         404473861,
         85633337,
-        101751861
+        101751861,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +78,10 @@
         "qs_pg:id":1139548
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"367b4f3505f3c90625a965afbc921d54",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861956,
+    "wof:lastmodified":1582362579,
     "wof:name":"Wipstrik",
     "wof:parent_id":1158805787,
     "wof:placetype":"neighbourhood",

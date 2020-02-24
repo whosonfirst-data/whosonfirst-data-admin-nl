@@ -118,7 +118,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -141,6 +142,10 @@
         "wk:page":"Lemmer"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"87126d9839465842bbca97d9508f803d",
     "wof:hierarchy":[
         {
@@ -153,7 +158,7 @@
         }
     ],
     "wof:id":101807477,
-    "wof:lastmodified":1566657921,
+    "wof:lastmodified":1582362644,
     "wof:name":"Lemmer",
     "wof:parent_id":1141960737,
     "wof:placetype":"locality",

@@ -71,7 +71,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -93,6 +94,10 @@
         "wk:page":"Ternaard"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"4ecb948ccf6b80a400675197976ab3dc",
     "wof:hierarchy":[
         {
@@ -105,7 +110,7 @@
         }
     ],
     "wof:id":101807473,
-    "wof:lastmodified":1566657964,
+    "wof:lastmodified":1582362656,
     "wof:name":"Ternaard",
     "wof:parent_id":404473755,
     "wof:placetype":"locality",

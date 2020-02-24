@@ -64,11 +64,11 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85687041,
         102191581,
         85633337,
         101751843,
-        1158831763
+        1158831763,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,6 +80,10 @@
         "wk:page":"Westpunt (Rotterdam)"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"402e181048c5d6a60d28ee33c472a8b4",
     "wof:hierarchy":[
         {
@@ -95,7 +99,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861955,
+    "wof:lastmodified":1582362579,
     "wof:name":"Westpunt",
     "wof:parent_id":1158831763,
     "wof:placetype":"neighbourhood",

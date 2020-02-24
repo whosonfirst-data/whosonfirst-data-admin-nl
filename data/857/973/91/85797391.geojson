@@ -63,11 +63,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474079,
         85633337,
-        101806071
+        101806071,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,6 +77,10 @@
         "qs_pg:id":901724
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bc88a9ff607f6392659185db09ce54f4",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861885,
+    "wof:lastmodified":1582362574,
     "wof:name":"De Schooten",
     "wof:parent_id":101806071,
     "wof:placetype":"neighbourhood",

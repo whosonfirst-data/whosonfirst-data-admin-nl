@@ -66,12 +66,12 @@
     "wd:longitude":6.6247,
     "wd:wordcount":687,
     "wof:belongsto":[
-        85687059,
         102191581,
         1158796099,
         404473713,
         85633337,
-        1158796475
+        1158796475,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,6 +83,10 @@
         "wk:page":"Lewenborg"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"23e8aaba4d9799eaaf2d82107f110c22",
     "wof:hierarchy":[
         {
@@ -99,7 +103,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861912,
+    "wof:lastmodified":1582362568,
     "wof:name":"Lewenborg",
     "wof:parent_id":1158796099,
     "wof:placetype":"neighbourhood",

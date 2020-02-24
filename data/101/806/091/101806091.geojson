@@ -124,7 +124,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -149,6 +150,10 @@
         "wk:page":"Balk, Netherlands"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"1daee17457d682f960dfaee5bfe0ae62",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566658204,
+    "wof:lastmodified":1582362735,
     "wof:name":"Balk",
     "wof:parent_id":1141960737,
     "wof:placetype":"locality",

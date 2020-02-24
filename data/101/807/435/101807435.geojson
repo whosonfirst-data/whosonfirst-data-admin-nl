@@ -79,7 +79,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -101,6 +102,10 @@
         "wk:page":"Oudehaske"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"3b67257037814fab84408caa956820cf",
     "wof:hierarchy":[
         {
@@ -113,7 +118,7 @@
         }
     ],
     "wof:id":101807435,
-    "wof:lastmodified":1566657972,
+    "wof:lastmodified":1582362658,
     "wof:name":"Oudehaske",
     "wof:parent_id":1141960737,
     "wof:placetype":"locality",

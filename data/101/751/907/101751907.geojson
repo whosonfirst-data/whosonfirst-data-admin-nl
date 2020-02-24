@@ -445,7 +445,8 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -468,6 +469,10 @@
         "wd:id":"Q25390"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"374f0b4dae24e9027823d2559356766c",
     "wof:hierarchy":[
         {
@@ -482,7 +487,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566657890,
+    "wof:lastmodified":1582362631,
     "wof:name":"Leeuwarden",
     "wof:parent_id":404473775,
     "wof:placetype":"locality",

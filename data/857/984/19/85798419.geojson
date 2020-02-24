@@ -63,11 +63,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687039,
         102191581,
         404473971,
         85633337,
-        101855289
+        101855289,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,6 +77,10 @@
         "qs_pg:id":239203
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"09fde00b5ae8018a8ec77c10f266c257",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861942,
+    "wof:lastmodified":1582362566,
     "wof:name":"Soesterkwartier",
     "wof:parent_id":101855289,
     "wof:placetype":"neighbourhood",

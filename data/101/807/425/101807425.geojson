@@ -87,7 +87,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":62,
@@ -108,6 +109,10 @@
         "wk:page":"Oosterwolde, Friesland"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b0c568b2990055be2a00087c1235b7f5",
     "wof:hierarchy":[
         {
@@ -120,7 +125,7 @@
         }
     ],
     "wof:id":101807425,
-    "wof:lastmodified":1566657919,
+    "wof:lastmodified":1582362643,
     "wof:name":"Oosterwolde",
     "wof:parent_id":404473785,
     "wof:placetype":"locality",

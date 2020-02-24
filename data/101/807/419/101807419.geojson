@@ -77,7 +77,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -99,6 +100,10 @@
         "wk:page":"Nieuwehorne"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"2386490b42488385d3f0a1d15117d246",
     "wof:hierarchy":[
         {
@@ -111,7 +116,7 @@
         }
     ],
     "wof:id":101807419,
-    "wof:lastmodified":1566657954,
+    "wof:lastmodified":1582362653,
     "wof:name":"Nieuwehorne",
     "wof:parent_id":404473771,
     "wof:placetype":"locality",

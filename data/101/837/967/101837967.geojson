@@ -74,7 +74,8 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -94,6 +95,10 @@
         "wd:id":"Q1907265"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f1216f327f23dda5f8a3e7452b7ad201",
     "wof:hierarchy":[
         {
@@ -109,7 +114,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566658071,
+    "wof:lastmodified":1582362689,
     "wof:name":"Zwaagwesteinde",
     "wof:parent_id":404474681,
     "wof:placetype":"locality",

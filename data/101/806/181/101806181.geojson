@@ -80,7 +80,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -103,6 +104,10 @@
         "wk:page":"Jubbega"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"2cf7af8906baf111c9cf4f9bb86dbd2c",
     "wof:hierarchy":[
         {
@@ -115,7 +120,7 @@
         }
     ],
     "wof:id":101806181,
-    "wof:lastmodified":1566658209,
+    "wof:lastmodified":1582362736,
     "wof:name":"Jubbega",
     "wof:parent_id":404473771,
     "wof:placetype":"locality",

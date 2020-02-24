@@ -67,12 +67,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":22,
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783973,
         404473871,
         85633337,
-        101751857
+        101751857,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,6 +82,10 @@
         "qs_pg:id":555346
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"00ea7a7d01958b42fd7ef81a8c38c3ff",
     "wof:hierarchy":[
         {
@@ -98,7 +102,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861864,
+    "wof:lastmodified":1582362567,
     "wof:name":"Alteveer",
     "wof:parent_id":1158783973,
     "wof:placetype":"neighbourhood",

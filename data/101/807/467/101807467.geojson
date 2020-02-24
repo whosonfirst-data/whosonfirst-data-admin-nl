@@ -69,6 +69,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -91,6 +92,10 @@
         "wk:page":"Surhuisterveen"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ac13b6edcacfe0223c7f40665ec91137",
     "wof:hierarchy":[
         {
@@ -103,7 +108,7 @@
         }
     ],
     "wof:id":101807467,
-    "wof:lastmodified":1566657966,
+    "wof:lastmodified":1582362656,
     "wof:name":"Surhuisterveen",
     "wof:parent_id":404473757,
     "wof:placetype":"locality",

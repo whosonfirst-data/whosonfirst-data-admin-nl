@@ -64,12 +64,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":94,
     "wof:belongsto":[
-        85687043,
         102191581,
         1158784001,
         404473893,
         85633337,
-        101751855
+        101751855,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,6 +80,10 @@
         "wd:id":"Q2677854"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"d37219b65a1cdfef698a81bd29d31a15",
     "wof:hierarchy":[
         {
@@ -96,7 +100,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861951,
+    "wof:lastmodified":1582362571,
     "wof:name":"Veldhuizen",
     "wof:parent_id":1158784001,
     "wof:placetype":"neighbourhood",

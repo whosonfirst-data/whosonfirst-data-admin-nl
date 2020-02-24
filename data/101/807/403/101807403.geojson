@@ -59,7 +59,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -81,6 +82,10 @@
         "wk:page":"Minnertsga"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"65d0d6162cef7d8737c1a9fba486dff9",
     "wof:hierarchy":[
         {
@@ -93,7 +98,7 @@
         }
     ],
     "wof:id":101807403,
-    "wof:lastmodified":1566657974,
+    "wof:lastmodified":1582362658,
     "wof:name":"Minnertsga",
     "wof:parent_id":404473763,
     "wof:placetype":"locality",

@@ -69,6 +69,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -91,6 +92,10 @@
         "wk:page":"Hollum"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"45ba5305ebaf34f81156ee8a1120d5cd",
     "wof:hierarchy":[
         {
@@ -103,7 +108,7 @@
         }
     ],
     "wof:id":101806125,
-    "wof:lastmodified":1566658221,
+    "wof:lastmodified":1582362739,
     "wof:name":"Hollum",
     "wof:parent_id":404473759,
     "wof:placetype":"locality",
