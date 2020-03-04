@@ -65,11 +65,11 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474513,
         85633337,
-        101839191
+        101839191,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,6 +79,10 @@
         "qs_pg:id":205812
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"47797a7df29a878499d209351ae8194e",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861917,
+    "wof:lastmodified":1582362568,
     "wof:name":"Mariarade",
     "wof:parent_id":101839191,
     "wof:placetype":"neighbourhood",

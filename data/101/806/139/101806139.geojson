@@ -65,7 +65,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -87,6 +88,10 @@
         "wk:page":"Drogeham"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"d69b7277aabb1ddd83baf7eb869e7651",
     "wof:hierarchy":[
         {
@@ -99,7 +104,7 @@
         }
     ],
     "wof:id":101806139,
-    "wof:lastmodified":1566658213,
+    "wof:lastmodified":1582362737,
     "wof:name":"Drogeham",
     "wof:parent_id":404473757,
     "wof:placetype":"locality",

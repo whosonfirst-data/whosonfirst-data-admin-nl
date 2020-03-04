@@ -59,6 +59,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -82,6 +83,10 @@
         "wk:page":"Marrum"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4ab8a2ebba84620927439cb758bdb833",
     "wof:hierarchy":[
         {
@@ -97,7 +102,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566658208,
+    "wof:lastmodified":1582362736,
     "wof:name":"Marrum",
     "wof:parent_id":404474635,
     "wof:placetype":"locality",

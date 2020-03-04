@@ -66,12 +66,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783319,
         404473867,
         85633337,
-        101751853
+        101751853,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,6 +81,10 @@
         "qs_pg:id":285752
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ee7a5287d7e0380a07c20865801a8d6c",
     "wof:hierarchy":[
         {
@@ -97,7 +101,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861884,
+    "wof:lastmodified":1582362574,
     "wof:name":"De Maten",
     "wof:parent_id":1158783319,
     "wof:placetype":"neighbourhood",

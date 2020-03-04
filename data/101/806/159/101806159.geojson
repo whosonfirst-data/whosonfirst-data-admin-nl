@@ -68,7 +68,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -89,6 +90,10 @@
         "wk:page":"Tzum"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"71bfb3d03d98aa75379ad62c4f0feb42",
     "wof:hierarchy":[
         {
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":101806159,
-    "wof:lastmodified":1566658199,
+    "wof:lastmodified":1582362734,
     "wof:name":"Tzum",
     "wof:parent_id":404473767,
     "wof:placetype":"locality",

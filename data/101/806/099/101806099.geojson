@@ -154,7 +154,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -175,6 +176,10 @@
         "wd:id":"Q329582"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"51c1c299da2a9502e982d4a71354b8cf",
     "wof:hierarchy":[
         {
@@ -190,7 +195,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566658205,
+    "wof:lastmodified":1582362736,
     "wof:name":"Bolsward",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

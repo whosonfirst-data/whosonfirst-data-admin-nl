@@ -63,12 +63,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687039,
         102191581,
         1158790269,
         404473971,
         85633337,
-        101751821
+        101751821,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +78,10 @@
         "qs_pg:id":555367
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"91db22a935565c3ea8ddc9914627273c",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861865,
+    "wof:lastmodified":1582362567,
     "wof:name":"Berghkwartier",
     "wof:parent_id":1158790269,
     "wof:placetype":"neighbourhood",

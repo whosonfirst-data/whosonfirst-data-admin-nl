@@ -84,6 +84,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -106,6 +107,10 @@
         "wk:page":"Buitenpost"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6782567115e644510ed297e50e5dcb83",
     "wof:hierarchy":[
         {
@@ -118,7 +123,7 @@
         }
     ],
     "wof:id":101803715,
-    "wof:lastmodified":1566657879,
+    "wof:lastmodified":1582362628,
     "wof:name":"Buitenpost",
     "wof:parent_id":404473757,
     "wof:placetype":"locality",

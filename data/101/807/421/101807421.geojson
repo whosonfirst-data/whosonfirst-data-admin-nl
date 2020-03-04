@@ -76,6 +76,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -97,6 +98,10 @@
         "wk:page":"Oldeberkoop"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6ebea132c6193a5ec15c7ada912bbbfa",
     "wof:hierarchy":[
         {
@@ -109,7 +114,7 @@
         }
     ],
     "wof:id":101807421,
-    "wof:lastmodified":1566657955,
+    "wof:lastmodified":1582362653,
     "wof:name":"Oldeberkoop",
     "wof:parent_id":404473785,
     "wof:placetype":"locality",

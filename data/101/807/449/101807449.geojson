@@ -86,6 +86,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -107,6 +108,10 @@
         "wk:page":"Witmarsum, Netherlands"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5917b430e3e734ca1d7cbf744b793f64",
     "wof:hierarchy":[
         {
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":101807449,
-    "wof:lastmodified":1566657918,
+    "wof:lastmodified":1582362643,
     "wof:name":"Witmarsum",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

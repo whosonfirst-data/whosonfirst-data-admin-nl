@@ -64,12 +64,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":144,
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783315,
         404473885,
         85633337,
-        101808663
+        101808663,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,6 +80,10 @@
         "wd:id":"Q2720207"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6803bcefcc7506b39e984a8afd4d747e",
     "wof:hierarchy":[
         {
@@ -96,7 +100,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861933,
+    "wof:lastmodified":1582362572,
     "wof:name":"Overstegen",
     "wof:parent_id":1158783315,
     "wof:placetype":"neighbourhood",

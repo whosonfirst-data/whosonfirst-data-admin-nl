@@ -63,12 +63,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158783325,
         404473871,
         85633337,
-        101751857
+        101751857,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +78,10 @@
         "qs_pg:id":242697
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1101ef7ebd072b48732c31484c62a54",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861937,
+    "wof:lastmodified":1582362565,
     "wof:name":"Presikhaaf",
     "wof:parent_id":1158783325,
     "wof:placetype":"neighbourhood",

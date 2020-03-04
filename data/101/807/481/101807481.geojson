@@ -79,6 +79,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -101,6 +102,10 @@
         "wk:page":"Echtenerbrug"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ff65536bc53447ff6deeb8dae3c012ed",
     "wof:hierarchy":[
         {
@@ -112,7 +117,7 @@
         }
     ],
     "wof:id":101807481,
-    "wof:lastmodified":1566657958,
+    "wof:lastmodified":1582362654,
     "wof:name":"Echternerbrug",
     "wof:parent_id":404473781,
     "wof:placetype":"locality",

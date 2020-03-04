@@ -74,6 +74,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -96,6 +97,10 @@
         "wd:id":"Q3112153"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba304d7115fcb10b73501f7864c4d579",
     "wof:hierarchy":[
         {
@@ -111,7 +116,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566657936,
+    "wof:lastmodified":1582362648,
     "wof:name":"Wommels",
     "wof:parent_id":404473817,
     "wof:placetype":"locality",

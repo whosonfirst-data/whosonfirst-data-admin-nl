@@ -63,11 +63,11 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
-        85687035,
         102191581,
         404474443,
         85633337,
-        101754579
+        101754579,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,6 +77,10 @@
         "qs_pg:id":1144098
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"53506bc97ab00fc17f8ed06be9890a61",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861921,
+    "wof:lastmodified":1582362576,
     "wof:name":"Mereveldhoven",
     "wof:parent_id":101754579,
     "wof:placetype":"neighbourhood",

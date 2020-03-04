@@ -65,6 +65,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -87,6 +88,10 @@
         "wk:page":"Scharnegoutum"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f64986252f984e33ffeb0b962cc05dc3",
     "wof:hierarchy":[
         {
@@ -99,7 +104,7 @@
         }
     ],
     "wof:id":101837965,
-    "wof:lastmodified":1566658045,
+    "wof:lastmodified":1582362680,
     "wof:name":"Scharnegoutum",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

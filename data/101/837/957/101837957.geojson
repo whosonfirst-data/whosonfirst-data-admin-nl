@@ -229,7 +229,8 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -251,6 +252,10 @@
         "wd:id":"Q574558"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"7c9dc8b49b11deda47e5097b78c73203",
     "wof:hierarchy":[
         {
@@ -266,7 +271,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566658068,
+    "wof:lastmodified":1582362687,
     "wof:name":"Heerenveen",
     "wof:parent_id":404473771,
     "wof:placetype":"locality",

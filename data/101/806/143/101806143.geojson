@@ -85,7 +85,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -108,6 +109,10 @@
         "wk:page":"Hurdegaryp"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"04c047427925564ffff7e58fec00f019",
     "wof:hierarchy":[
         {
@@ -123,7 +128,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566658209,
+    "wof:lastmodified":1582362736,
     "wof:name":"Hardegarijp",
     "wof:parent_id":404474343,
     "wof:placetype":"locality",

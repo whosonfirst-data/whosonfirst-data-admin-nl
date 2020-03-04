@@ -120,11 +120,11 @@
     "src:lbl:centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687041,
         102191581,
         1158829573,
         85633337,
-        101752769,
-        85687041
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -136,6 +136,10 @@
         "wk:page":"Capelle aan den IJssel"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"0ac9cee18aa5d3a8cdec989fb184fb35",
     "wof:hierarchy":[
         {
@@ -151,7 +155,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861875,
+    "wof:lastmodified":1582362578,
     "wof:name":"Capelle",
     "wof:parent_id":1158829573,
     "wof:placetype":"neighbourhood",

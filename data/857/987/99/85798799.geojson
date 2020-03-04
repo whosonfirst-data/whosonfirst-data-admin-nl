@@ -66,12 +66,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687043,
         102191581,
         1158784061,
         404473961,
         85633337,
-        101837807
+        101837807,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,6 +81,10 @@
         "qs_pg:id":1114772
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"381ff340055869963238fc2f19beadf9",
     "wof:hierarchy":[
         {
@@ -97,7 +101,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861962,
+    "wof:lastmodified":1582362573,
     "wof:name":"Zuidwijken",
     "wof:parent_id":1158784061,
     "wof:placetype":"neighbourhood",

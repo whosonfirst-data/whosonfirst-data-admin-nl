@@ -130,11 +130,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":365,
     "wof:belongsto":[
-        85687041,
         102191581,
         85633337,
         101751843,
-        1108805755
+        1108805755,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -144,6 +144,10 @@
         "wd:id":"Q1362309"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"4061533cf6077251248fb1752aa734d2",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531870396,
+    "wof:lastmodified":1582362581,
     "wof:name":"Nieuwe Maas",
     "wof:parent_id":1108805755,
     "wof:placetype":"neighbourhood",

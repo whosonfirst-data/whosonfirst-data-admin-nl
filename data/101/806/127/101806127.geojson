@@ -85,6 +85,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -106,6 +107,10 @@
         "wk:page":"Makkum, S\u00fadwest-Frysl\u00e2n"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a5dc126806c2d2adef83ea256571fb84",
     "wof:hierarchy":[
         {
@@ -118,7 +123,7 @@
         }
     ],
     "wof:id":101806127,
-    "wof:lastmodified":1566658208,
+    "wof:lastmodified":1582362736,
     "wof:name":"Makkum",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

@@ -59,7 +59,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -81,6 +82,10 @@
         "wk:page":"Wirdum, Friesland"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"bbae236441b9677562131fea66474886",
     "wof:hierarchy":[
         {
@@ -93,7 +98,7 @@
         }
     ],
     "wof:id":101807447,
-    "wof:lastmodified":1566657916,
+    "wof:lastmodified":1582362642,
     "wof:name":"Wirdum",
     "wof:parent_id":404473775,
     "wof:placetype":"locality",

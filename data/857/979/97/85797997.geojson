@@ -63,12 +63,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823145,
         404474043,
         85633337,
-        101754793
+        101754793,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +78,10 @@
         "qs_pg:id":179728
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5f8f0bd85f8a369ae8bbb9d75158a6d8",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861918,
+    "wof:lastmodified":1582362568,
     "wof:name":"Meerestein",
     "wof:parent_id":1158823145,
     "wof:placetype":"neighbourhood",

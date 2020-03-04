@@ -61,12 +61,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687053,
         102191581,
         1158823007,
         404474083,
         85633337,
-        101751883
+        101751883,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,6 +76,10 @@
         "qs_pg:id":1080760
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"00f0af3907a2c214b302ce910bc102fc",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861892,
+    "wof:lastmodified":1582362573,
     "wof:name":"Groote Waal",
     "wof:parent_id":1158823007,
     "wof:placetype":"neighbourhood",

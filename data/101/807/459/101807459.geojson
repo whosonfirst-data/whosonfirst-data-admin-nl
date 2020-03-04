@@ -71,6 +71,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -94,6 +95,10 @@
         "wk:page":"Rinsumageast"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f0b56343bcf79f16f9ab9e56462104e5",
     "wof:hierarchy":[
         {
@@ -109,7 +114,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566657972,
+    "wof:lastmodified":1582362658,
     "wof:name":"Rinsumageest",
     "wof:parent_id":404474681,
     "wof:placetype":"locality",

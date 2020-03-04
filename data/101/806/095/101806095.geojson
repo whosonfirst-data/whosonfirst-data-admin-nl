@@ -66,6 +66,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -88,6 +89,10 @@
         "wk:page":"Berlikum"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7189d0c3fb73cfaf17b566ad4f8073f9",
     "wof:hierarchy":[
         {
@@ -100,7 +105,7 @@
         }
     ],
     "wof:id":101806095,
-    "wof:lastmodified":1566658217,
+    "wof:lastmodified":1582362738,
     "wof:name":"Berlikum",
     "wof:parent_id":404473783,
     "wof:placetype":"locality",

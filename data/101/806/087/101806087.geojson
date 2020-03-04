@@ -68,6 +68,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -90,6 +91,10 @@
         "wk:page":"Arum, Friesland"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dc8e5da07608149ed00496e11fae007e",
     "wof:hierarchy":[
         {
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":101806087,
-    "wof:lastmodified":1566658213,
+    "wof:lastmodified":1582362737,
     "wof:name":"Arum",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

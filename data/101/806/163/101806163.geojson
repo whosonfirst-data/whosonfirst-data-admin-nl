@@ -152,6 +152,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -175,6 +176,10 @@
         "wk:page":"Franeker"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"983ec036b57906f1208dc5bc10635c6f",
     "wof:hierarchy":[
         {
@@ -187,7 +192,7 @@
         }
     ],
     "wof:id":101806163,
-    "wof:lastmodified":1566658212,
+    "wof:lastmodified":1582362737,
     "wof:name":"Franeker",
     "wof:parent_id":404473767,
     "wof:placetype":"locality",

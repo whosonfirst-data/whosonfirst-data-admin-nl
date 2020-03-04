@@ -77,7 +77,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -99,6 +100,10 @@
         "wk:page":"Jirnsum"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b9934d2bc7bb4dc634a240c261c1845f",
     "wof:hierarchy":[
         {
@@ -111,7 +116,7 @@
         }
     ],
     "wof:id":101806177,
-    "wof:lastmodified":1566658219,
+    "wof:lastmodified":1582362739,
     "wof:name":"Irnsum",
     "wof:parent_id":404473775,
     "wof:placetype":"locality",

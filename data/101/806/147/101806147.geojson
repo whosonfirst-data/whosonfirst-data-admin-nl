@@ -187,6 +187,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -210,6 +211,10 @@
         "wk:page":"Harlingen, Netherlands"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"995cd5b8c476a649dfa3009ede8e1010",
     "wof:hierarchy":[
         {
@@ -225,7 +230,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566658221,
+    "wof:lastmodified":1582362739,
     "wof:name":"Harlingen",
     "wof:parent_id":404473769,
     "wof:placetype":"locality",

@@ -80,6 +80,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -102,6 +103,10 @@
         "wk:page":"Rottevalle"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"afb2e662b76aac0dc9b46a6f02bb0631",
     "wof:hierarchy":[
         {
@@ -114,7 +119,7 @@
         }
     ],
     "wof:id":101807463,
-    "wof:lastmodified":1566657929,
+    "wof:lastmodified":1582362646,
     "wof:name":"Rottevalle",
     "wof:parent_id":404473791,
     "wof:placetype":"locality",

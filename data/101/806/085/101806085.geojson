@@ -83,6 +83,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -104,6 +105,10 @@
         "wk:page":"Appelscha"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0f845b471b1e6145cb3b414ff4a0260a",
     "wof:hierarchy":[
         {
@@ -116,7 +121,7 @@
         }
     ],
     "wof:id":101806085,
-    "wof:lastmodified":1566658204,
+    "wof:lastmodified":1582362735,
     "wof:name":"Appelscha",
     "wof:parent_id":404473785,
     "wof:placetype":"locality",

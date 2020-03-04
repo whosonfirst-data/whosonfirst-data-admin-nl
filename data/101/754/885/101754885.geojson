@@ -73,6 +73,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -96,6 +97,10 @@
         "wk:page":"Tytsjerk"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a2b45de252d23a69020a23bcab71fb79",
     "wof:hierarchy":[
         {
@@ -111,7 +116,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566657852,
+    "wof:lastmodified":1582362620,
     "wof:name":"Tytsjerk",
     "wof:parent_id":404473775,
     "wof:placetype":"locality",

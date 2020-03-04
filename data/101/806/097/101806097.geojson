@@ -71,7 +71,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -94,6 +95,10 @@
         "wk:page":"Burdaard"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"fe4ff96887e283e4daffe24f37f26520",
     "wof:hierarchy":[
         {
@@ -109,7 +114,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566658206,
+    "wof:lastmodified":1582362736,
     "wof:name":"Birdaard",
     "wof:parent_id":404474635,
     "wof:placetype":"locality",

@@ -59,6 +59,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -81,6 +82,10 @@
         "wk:page":"Deinum"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"805b83fef737b651c80745eef8a9e008",
     "wof:hierarchy":[
         {
@@ -93,7 +98,7 @@
         }
     ],
     "wof:id":101806129,
-    "wof:lastmodified":1566658208,
+    "wof:lastmodified":1582362736,
     "wof:name":"Deinum",
     "wof:parent_id":404473783,
     "wof:placetype":"locality",

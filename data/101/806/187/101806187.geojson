@@ -71,6 +71,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -93,6 +94,10 @@
         "wk:page":"Koudum"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1627cc5726864a79fe43b91c67fdf2df",
     "wof:hierarchy":[
         {
@@ -105,7 +110,7 @@
         }
     ],
     "wof:id":101806187,
-    "wof:lastmodified":1566658207,
+    "wof:lastmodified":1582362736,
     "wof:name":"Koudum",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

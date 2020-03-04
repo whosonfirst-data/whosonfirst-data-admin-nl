@@ -64,11 +64,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687059,
         102191581,
         404473717,
         85633337,
-        101754889
+        101754889,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +78,10 @@
         "qs_pg:id":1080804
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca6db7dbf8f8475b2f43cc6d6ca70ad8",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861949,
+    "wof:lastmodified":1582362571,
     "wof:name":"Tuindorp-Onnen",
     "wof:parent_id":101754889,
     "wof:placetype":"neighbourhood",

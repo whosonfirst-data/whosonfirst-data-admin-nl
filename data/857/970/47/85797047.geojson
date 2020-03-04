@@ -63,11 +63,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473953,
         85633337,
-        101754761
+        101754761,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,6 +77,10 @@
         "qs_pg:id":1083128
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d93e27db3954ea3c9f0d2f591f1a5ec1",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861863,
+    "wof:lastmodified":1582362568,
     "wof:name":"Achterlo",
     "wof:parent_id":101754761,
     "wof:placetype":"neighbourhood",

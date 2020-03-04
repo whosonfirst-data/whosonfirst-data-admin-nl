@@ -187,7 +187,8 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -212,6 +213,10 @@
         "wk:page":"Sneek"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"7b096d8ab90ae17b099e80b62d745ea9",
     "wof:hierarchy":[
         {
@@ -227,7 +232,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566658065,
+    "wof:lastmodified":1582362687,
     "wof:name":"Sneek",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",

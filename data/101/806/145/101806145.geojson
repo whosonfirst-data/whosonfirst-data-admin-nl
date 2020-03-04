@@ -98,7 +98,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -120,6 +121,10 @@
         "wk:page":"Harkema"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"946e15b668eda63c7807921aba720667",
     "wof:hierarchy":[
         {
@@ -132,7 +137,7 @@
         }
     ],
     "wof:id":101806145,
-    "wof:lastmodified":1566658208,
+    "wof:lastmodified":1582362736,
     "wof:name":"Harkema",
     "wof:parent_id":404473757,
     "wof:placetype":"locality",

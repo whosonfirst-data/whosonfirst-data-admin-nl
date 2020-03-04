@@ -63,11 +63,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687043,
         102191581,
         404473897,
         85633337,
-        1158783757
+        1158783757,
+        85687043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,6 +77,10 @@
         "qs_pg:id":1114696
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"fc4d931e90ed887b9eac1592cb971da5",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861874,
+    "wof:lastmodified":1582362578,
     "wof:name":"Burgerenk",
     "wof:parent_id":1158783757,
     "wof:placetype":"neighbourhood",

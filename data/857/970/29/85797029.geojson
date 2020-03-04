@@ -64,12 +64,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687045,
         102191581,
         1158805865,
         404473837,
         85633337,
-        101751869
+        101751869,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,6 +79,10 @@
         "qs_pg:id":1114657
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1d2ea2ecfa0686295f214967b46f9af9",
     "wof:hierarchy":[
         {
@@ -95,7 +99,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861861,
+    "wof:lastmodified":1582362567,
     "wof:name":"'t Genseler",
     "wof:parent_id":1158805865,
     "wof:placetype":"neighbourhood",

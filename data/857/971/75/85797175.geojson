@@ -64,12 +64,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687041,
         102191581,
         1158831193,
         1158824747,
         85633337,
-        101751847
+        101751847,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,6 +79,10 @@
         "qs_pg:id":1114687
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"132ee0d37ec4643975adb10b6f5087cb",
     "wof:hierarchy":[
         {
@@ -95,7 +99,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861872,
+    "wof:lastmodified":1582362570,
     "wof:name":"Braband",
     "wof:parent_id":1158831193,
     "wof:placetype":"neighbourhood",

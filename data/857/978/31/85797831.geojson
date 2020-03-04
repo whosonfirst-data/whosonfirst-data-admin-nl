@@ -66,12 +66,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687051,
         102191581,
         1158792233,
         404473813,
         85633337,
-        101807279
+        101807279,
+        85687051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,6 +81,10 @@
         "qs_pg:id":179678
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"8281c3602afb6deda4c378f86482f4df",
     "wof:hierarchy":[
         {
@@ -97,7 +101,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861906,
+    "wof:lastmodified":1582362569,
     "wof:name":"Koedijkslanden",
     "wof:parent_id":1158792233,
     "wof:placetype":"neighbourhood",

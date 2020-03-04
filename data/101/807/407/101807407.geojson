@@ -191,7 +191,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -213,6 +214,10 @@
         "wd:id":"Q208011"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"25269a065a0ac3839e5043d30a0fe478",
     "wof:hierarchy":[
         {
@@ -228,7 +233,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566657934,
+    "wof:lastmodified":1582362647,
     "wof:name":"Schiermonnikoog",
     "wof:parent_id":404473789,
     "wof:placetype":"locality",

@@ -68,12 +68,12 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
-        85687059,
         102191581,
         1158796111,
         404473713,
         85633337,
-        101751909
+        101751909,
+        85687059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,6 +84,10 @@
         "wd:id":"Q12012987"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a744db330c52bd602c7069d7c2ba6150",
     "wof:hierarchy":[
         {
@@ -100,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861907,
+    "wof:lastmodified":1582362569,
     "wof:name":"Korrewegwijk",
     "wof:parent_id":1158796111,
     "wof:placetype":"neighbourhood",

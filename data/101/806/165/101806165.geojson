@@ -86,6 +86,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -107,6 +108,10 @@
         "wd:id":"Q2103434"
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c38d37786868c0bb82e62c9310bc2e86",
     "wof:hierarchy":[
         {
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":101806165,
-    "wof:lastmodified":1566658211,
+    "wof:lastmodified":1582362737,
     "wof:name":"Gorredijk",
     "wof:parent_id":404473787,
     "wof:placetype":"locality",

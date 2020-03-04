@@ -81,11 +81,11 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
-        85687053,
         102191581,
         404474119,
         85633337,
-        101807399
+        101807399,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +95,10 @@
         "qs_pg:id":900972
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"862643c35281f4314a60e7e19242bc90",
     "wof:hierarchy":[
         {
@@ -110,7 +114,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861953,
+    "wof:lastmodified":1582362571,
     "wof:name":"Vithoorn",
     "wof:parent_id":101807399,
     "wof:placetype":"neighbourhood",

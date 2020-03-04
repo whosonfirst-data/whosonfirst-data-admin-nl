@@ -63,12 +63,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687035,
         102191581,
         1158801481,
         404474363,
         85633337,
-        101751811
+        101751811,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +78,10 @@
         "qs_pg:id":1273397
     },
     "wof:country":"NL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7fd52d53f5b8f83ff5e2f098434865d3",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861893,
+    "wof:lastmodified":1582362573,
     "wof:name":"Haagse Beemden",
     "wof:parent_id":1158801481,
     "wof:placetype":"neighbourhood",
