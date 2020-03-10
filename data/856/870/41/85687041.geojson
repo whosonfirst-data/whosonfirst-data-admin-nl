@@ -477,10 +477,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            3966,
-            3906
-        ],
+        "digitalenvoy:region_code":3966,
         "fips:code":"NL11",
         "gn:id":2743698,
         "gp:id":2346383,
@@ -488,6 +485,11 @@
         "iso:id":"NL-ZH",
         "unlc:id":"NL-ZH",
         "wd:id":"Q694"
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:region_code":[
+            3906
+        ]
     },
     "wof:country":"NL",
     "wof:geomhash":"ebe8cf679e37a1015fc724126cf877ef",
@@ -507,7 +509,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1583538426,
+    "wof:lastmodified":1583882905,
     "wof:name":"Zuid-Holland",
     "wof:parent_id":85633337,
     "wof:placetype":"region",
