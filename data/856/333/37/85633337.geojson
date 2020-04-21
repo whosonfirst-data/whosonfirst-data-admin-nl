@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.456195,
-    "geom:area_square_m":41238968198.054207,
+    "geom:area_square_m":41238965973.081795,
     "geom:bbox":"3.30944,50.750667,7.230902,53.565815",
     "geom:latitude":52.317332,
     "geom:longitude":5.530858,
@@ -60,6 +60,9 @@
     "name:arg_x_preferred":[
         "Pa\u00edses Baixos"
     ],
+    "name:ary_x_preferred":[
+        "\u0647\u0648\u0644\u0627\u0646\u062f\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0646\u064a\u062f\u064a\u0631\u0644\u0627\u0646\u062f"
     ],
@@ -89,6 +92,9 @@
     ],
     "name:bam_x_preferred":[
         "Peyiba"
+    ],
+    "name:ban_x_preferred":[
+        "Belanda"
     ],
     "name:bar_x_preferred":[
         "Holland"
@@ -212,6 +218,12 @@
         "Nederlandene",
         "Holland"
     ],
+    "name:deu_at_x_preferred":[
+        "Niederlande"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Niederlande"
+    ],
     "name:deu_x_colloquial":[
         "Koenigreich der Niederlande",
         "Konigreich der Niederlande"
@@ -245,6 +257,12 @@
     ],
     "name:eml_x_preferred":[
         "Ul\u00e0nda"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Netherlands"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Netherlands"
     ],
     "name:eng_x_preferred":[
         "Netherlands"
@@ -501,11 +519,15 @@
     "name:kbp_x_preferred":[
         "Peyibaa"
     ],
+    "name:kea_x_preferred":[
+        "Olanda"
+    ],
     "name:khm_x_preferred":[
         "\u1794\u17d2\u179a\u1791\u17c1\u179f\u17a0\u17bc\u17a1\u1784\u17cb"
     ],
     "name:khm_x_variant":[
-        "\u17a0\u17bc\u179b\u17d2\u179b\u1784\u17cb"
+        "\u17a0\u17bc\u179b\u17d2\u179b\u1784\u17cb",
+        "\u17a0\u17bb\u179b\u17d2\u179b\u1784\u17cb"
     ],
     "name:kik_x_preferred":[
         "Netharandi"
@@ -822,6 +844,9 @@
         "Niderlandy",
         "Holandia"
     ],
+    "name:por_br_x_preferred":[
+        "Pa\u00edses Baixos"
+    ],
     "name:por_x_colloquial":[
         "Paises Baixos",
         "Holanda"
@@ -914,6 +939,9 @@
     "name:sme_x_variant":[
         "Holl\u00e1nda"
     ],
+    "name:smn_x_preferred":[
+        "Vu\u00e1l\u00e1d\u00e2hen\u00e2meh"
+    ],
     "name:smo_x_preferred":[
         "Netalani"
     ],
@@ -952,6 +980,12 @@
     ],
     "name:srn_x_preferred":[
         "Bakrakondre"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0425\u043e\u043b\u0430\u043d\u0434\u0438\u0458\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Holandija"
     ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u043b\u0430\u043d\u0434\u0438\u0458\u0430"
@@ -1305,7 +1339,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1583797403,
+    "wof:lastmodified":1587429055,
     "wof:name":"Netherlands",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
