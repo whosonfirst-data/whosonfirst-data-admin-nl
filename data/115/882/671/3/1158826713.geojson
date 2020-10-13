@@ -14,8 +14,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000075,
-    "geom:area_square_m":571811.265444,
-    "geom:bbox":"4.4136968536,51.8107463721,4.42805363657,51.818851064",
+    "geom:area_square_m":571802.880366,
+    "geom:bbox":"4.413697,51.810746,4.428054,51.818851",
     "geom:latitude":51.814436,
     "geom:longitude":4.420885,
     "iso:country":"NL",
@@ -31,28 +31,26 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "name:eng_x_preferred":[
-        "Bedrijventerrein Langeweg",
-        "Rembrandtstraat"
+        "Bedrijventerrein Langeweg, Rembrandtstraat"
     ],
     "name:nld_x_preferred":[
-        "Bedrijventerrein Langeweg",
-        "Rembrandtstraat"
+        "Bedrijventerrein Langeweg, Rembrandtstraat"
     ],
     "reversegeo:latitude":51.814538,
     "reversegeo:longitude":4.420885,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687041,
         102191581,
         85633337,
+        136253051,
         101754705,
-        136253051
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"c15cccff613dec4c5d812ed711ed9a31",
+    "wof:geomhash":"384abb526f6ea712ba5abc8fbb8d4872",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +62,7 @@
         }
     ],
     "wof:id":1158826713,
-    "wof:lastmodified":1566660267,
+    "wof:lastmodified":1602623831,
     "wof:name":"Bedrijventerrein Langeweg, Rembrandtstraat",
     "wof:parent_id":101754705,
     "wof:placetype":"neighbourhood",
@@ -74,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.41369685360124,
-    51.81074637211491,
-    4.42805363657331,
-    51.81885106395125
+    4.413697,
+    51.810746,
+    4.428054,
+    51.818851
 ],
-  "geometry": {"coordinates":[[[[4.41572987790882,51.81885106395125],[4.42777271823354,51.81552002675315],[4.4275893693906,51.81475980772401],[4.42803571992508,51.81368197951169],[4.42805363657331,51.81303688886016],[4.42782396622739,51.81232404601253],[4.42757631923276,51.81165768230976],[4.42780939007316,51.81074637211491],[4.41369685360124,51.81258859842178],[4.41417501556592,51.8142403464657],[4.41429383831189,51.81435734449935],[4.41572987790882,51.81885106395125]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[4.41573,51.818851],[4.427773,51.81552],[4.427589,51.81476],[4.428036,51.813682],[4.428054,51.813037],[4.427824,51.812324],[4.427576,51.811658],[4.427809,51.810746],[4.413697,51.812589],[4.414175,51.81424],[4.414294,51.814357],[4.41573,51.818851]]]],"type":"MultiPolygon"}
 }

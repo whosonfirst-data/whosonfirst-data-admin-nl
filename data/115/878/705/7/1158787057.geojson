@@ -14,8 +14,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000024,
-    "geom:area_square_m":184041.049836,
-    "geom:bbox":"5.47869515727,52.527551227,5.48647989844,52.5313389201",
+    "geom:area_square_m":184033.052087,
+    "geom:bbox":"5.478695,52.527551,5.48648,52.531339",
     "geom:latitude":52.529375,
     "geom:longitude":5.482517,
     "iso:country":"NL",
@@ -31,28 +31,26 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "name:eng_x_preferred":[
-        "Sportveld Beginweg",
-        "Overijsselsehout"
+        "Sportveld Beginweg, Overijsselsehout"
     ],
     "name:nld_x_preferred":[
-        "Sportveld Beginweg",
-        "Overijsselsehout"
+        "Sportveld Beginweg, Overijsselsehout"
     ],
     "reversegeo:latitude":52.529402,
     "reversegeo:longitude":5.482517,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687049,
         102191581,
         85633337,
+        136253051,
         101751873,
-        136253051
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NL",
-    "wof:geomhash":"0717d0c40aac5c66ff8e4615b93324a0",
+    "wof:geomhash":"2d6405cb35abae3953613bf2a0878a26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +62,7 @@
         }
     ],
     "wof:id":1158787057,
-    "wof:lastmodified":1566660662,
+    "wof:lastmodified":1602623829,
     "wof:name":"Sportveld Beginweg, Overijsselsehout",
     "wof:parent_id":101751873,
     "wof:placetype":"neighbourhood",
@@ -74,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.4786951572738,
-    52.52755122704826,
-    5.4864798984427,
-    52.53133892006475
+    5.478695,
+    52.527551,
+    5.48648,
+    52.531339
 ],
-  "geometry": {"coordinates":[[[[5.4864798984427,52.53081805331083],[5.48634106672743,52.53007663032843],[5.48619845941493,52.5293676557617],[5.48616367785108,52.52908909766322],[5.48615043424892,52.52889383862959],[5.48614986716305,52.52864129162464],[5.4861621459292,52.52840695635148],[5.48624197113417,52.52783409717838],[5.48572965316484,52.52781369687697],[5.4786951572738,52.52755122704826],[5.47942852391023,52.53133892006475],[5.4864798984427,52.53081805331083]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[5.48648,52.530818],[5.486341,52.530077],[5.486198,52.529368],[5.486164,52.529089],[5.48615,52.528894],[5.48615,52.528641],[5.486162,52.528407],[5.486242,52.527834],[5.48573,52.527814],[5.478695,52.527551],[5.479429,52.531339],[5.48648,52.530818]]]],"type":"MultiPolygon"}
 }
