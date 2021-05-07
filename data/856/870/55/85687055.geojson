@@ -22,6 +22,12 @@
     "label:eng_x_preferred_shortcode":[
         "FR"
     ],
+    "label:nld_x_preferred_longname":[
+        "Provincie Friesland"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "provincie"
+    ],
     "lbl:latitude":53.154635,
     "lbl:longitude":5.692145,
     "lbl:min_zoom":8.0,
@@ -424,8 +430,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2012-01-01",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"3,359",
     "statoids:area_mi":"1,297",
     "statoids:as_of_date":"2012-01-01",
@@ -475,12 +481,12 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1607462697,
+    "wof:lastmodified":1620425232,
     "wof:name":"Friesland",
     "wof:parent_id":85633337,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":647214,
+    "wof:population":649957,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:shortcode":"FR",

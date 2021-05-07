@@ -14,13 +14,19 @@
     "geom:longitude":5.184977,
     "iso:country":"NL",
     "label:eng_x_preferred_longname":[
-        "Noord-Brabant Province"
+        "North Brabant Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "NB"
+    ],
+    "label:nld_x_preferred_longname":[
+        "Provincie Noord-Brabant"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "provincie"
     ],
     "lbl:latitude":51.515505,
     "lbl:longitude":5.353093,
@@ -90,9 +96,6 @@
         "Brab\u00e0nt Setentriun\u00e0\u0142"
     ],
     "name:eng_x_preferred":[
-        "Noord-Brabant"
-    ],
-    "name:eng_x_variant":[
         "North Brabant"
     ],
     "name:epo_x_preferred":[
@@ -424,8 +427,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2012-01-01",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"4,943",
     "statoids:area_mi":"1,908",
     "statoids:as_of_date":"2012-01-01",
@@ -477,12 +480,12 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1607462696,
-    "wof:name":"Noord-Brabant",
+    "wof:lastmodified":1620425241,
+    "wof:name":"North Brabant",
     "wof:parent_id":85633337,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":2463686,
+    "wof:population":2562955,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:shortcode":"NB",

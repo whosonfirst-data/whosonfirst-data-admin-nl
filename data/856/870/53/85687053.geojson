@@ -14,13 +14,19 @@
     "geom:longitude":4.911635,
     "iso:country":"NL",
     "label:eng_x_preferred_longname":[
-        "Noord-Holland Province"
+        "North Holland Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "NH"
+    ],
+    "label:nld_x_preferred_longname":[
+        "Provincie Noord-Holland"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "provincie"
     ],
     "lbl:latitude":52.827683,
     "lbl:longitude":4.955985,
@@ -93,9 +99,6 @@
         "Ul\u00e0nda Setentriun\u00e0la"
     ],
     "name:eng_x_preferred":[
-        "Noord-Holland"
-    ],
-    "name:eng_x_variant":[
         "North Holland"
     ],
     "name:epo_x_preferred":[
@@ -421,8 +424,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2012-01-01",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"2,663",
     "statoids:area_mi":"1,028",
     "statoids:as_of_date":"2012-01-01",
@@ -473,12 +476,12 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1607462697,
-    "wof:name":"Noord-Holland",
+    "wof:lastmodified":1620425243,
+    "wof:name":"North Holland",
     "wof:parent_id":85633337,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":2709822,
+    "wof:population":2879527,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:shortcode":"NH",

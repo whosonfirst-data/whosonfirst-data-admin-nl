@@ -14,13 +14,19 @@
     "geom:longitude":4.462575,
     "iso:country":"NL",
     "label:eng_x_preferred_longname":[
-        "Zuid-Holland Province"
+        "South Holland Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "ZH"
+    ],
+    "label:nld_x_preferred_longname":[
+        "Provincie Zuid-Holland"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "provincie"
     ],
     "lbl:latitude":51.946443,
     "lbl:longitude":4.509113,
@@ -99,9 +105,6 @@
         "Ul\u00e0nda Meriudiun\u00e0la"
     ],
     "name:eng_x_preferred":[
-        "Zuid-Holland"
-    ],
-    "name:eng_x_variant":[
         "South Holland"
     ],
     "name:epo_x_preferred":[
@@ -454,8 +457,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2012-01-01",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"2,877",
     "statoids:area_mi":"1,111",
     "statoids:as_of_date":"2012-01-01",
@@ -512,12 +515,12 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1607462696,
-    "wof:name":"Zuid-Holland",
+    "wof:lastmodified":1620425250,
+    "wof:name":"South Holland",
     "wof:parent_id":85633337,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":3552407,
+    "wof:population":3708696,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:shortcode":"ZH",

@@ -22,6 +22,12 @@
     "label:eng_x_preferred_shortcode":[
         "DR"
     ],
+    "label:nld_x_preferred_longname":[
+        "Provincie Drenthe"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "provincie"
+    ],
     "lbl:latitude":52.887876,
     "lbl:longitude":6.657571,
     "lbl:min_zoom":8.0,
@@ -414,8 +420,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2012-01-01",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"2,655",
     "statoids:area_mi":"1,025",
     "statoids:as_of_date":"2012-01-01",
@@ -466,12 +472,12 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1607462697,
+    "wof:lastmodified":1620425229,
     "wof:name":"Drenthe",
     "wof:parent_id":85633337,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":490807,
+    "wof:population":493682,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:shortcode":"DR",

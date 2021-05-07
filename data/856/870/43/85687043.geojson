@@ -22,6 +22,12 @@
     "label:eng_x_preferred_shortcode":[
         "GE"
     ],
+    "label:nld_x_preferred_longname":[
+        "Provincie Gelderland"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "provincie"
+    ],
     "lbl:latitude":52.107152,
     "lbl:longitude":5.875753,
     "lbl:min_zoom":8.0,
@@ -423,8 +429,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2012-01-01",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"5,015",
     "statoids:area_mi":"1,936",
     "statoids:as_of_date":"2012-01-01",
@@ -476,12 +482,12 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1607462696,
+    "wof:lastmodified":1620425235,
     "wof:name":"Gelderland",
     "wof:parent_id":85633337,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":2010745,
+    "wof:population":2085952,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:shortcode":"GE",
