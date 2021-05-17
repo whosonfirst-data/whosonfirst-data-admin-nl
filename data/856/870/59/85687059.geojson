@@ -22,6 +22,12 @@
     "label:eng_x_preferred_shortcode":[
         "GR"
     ],
+    "label:nld_x_preferred_longname":[
+        "Provincie Groningen"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "provincie"
+    ],
     "lbl:latitude":53.307841,
     "lbl:longitude":6.715733,
     "lbl:min_zoom":8.0,
@@ -402,8 +408,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2012-01-01",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"2,346",
     "statoids:area_mi":"906",
     "statoids:as_of_date":"2012-01-01",
@@ -454,12 +460,12 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1607462698,
+    "wof:lastmodified":1620425237,
     "wof:name":"Groningen",
     "wof:parent_id":85633337,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":580875,
+    "wof:population":585866,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:shortcode":"GR",

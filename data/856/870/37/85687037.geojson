@@ -22,6 +22,12 @@
     "label:eng_x_preferred_shortcode":[
         "ZL"
     ],
+    "label:nld_x_preferred_longname":[
+        "Provincie Zeeland"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "provincie"
+    ],
     "lbl:latitude":51.491688,
     "lbl:longitude":3.815516,
     "lbl:min_zoom":8.0,
@@ -390,8 +396,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2012-01-01",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"1,793",
     "statoids:area_mi":"692",
     "statoids:as_of_date":"2012-01-01",
@@ -443,12 +449,12 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1607462696,
+    "wof:lastmodified":1620425246,
     "wof:name":"Zeeland",
     "wof:parent_id":85633337,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":381407,
+    "wof:population":383488,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:shortcode":"ZL",

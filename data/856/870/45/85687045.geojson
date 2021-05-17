@@ -22,6 +22,12 @@
     "label:eng_x_preferred_shortcode":[
         "OV"
     ],
+    "label:nld_x_preferred_longname":[
+        "Provincie Overijssel"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "provincie"
+    ],
     "lbl:latitude":52.429944,
     "lbl:longitude":6.396928,
     "lbl:min_zoom":8.0,
@@ -416,8 +422,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2012-01-01",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"3,340",
     "statoids:area_mi":"1,289",
     "statoids:as_of_date":"2012-01-01",
@@ -469,12 +475,12 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1607462697,
+    "wof:lastmodified":1620425245,
     "wof:name":"Overijssel",
     "wof:parent_id":85633337,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":1137668,
+    "wof:population":1162406,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:shortcode":"OV",
