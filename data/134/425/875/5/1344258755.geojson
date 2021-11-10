@@ -196,6 +196,9 @@
         "\u041c\u0456\u0434\u0434\u0435\u043b\u0431\u0443\u0440\u0433"
     ],
     "name:urd_x_preferred":[
+        "\u0645\u0688\u0644\u0628\u0631\u06af"
+    ],
+    "name:urd_x_variant":[
         "\u0645\u0688\u0644\u0628\u0631\u062e"
     ],
     "name:vie_x_preferred":[
@@ -216,6 +219,12 @@
     "name:zea_x_preferred":[
         "Middelburg"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u7c73\u5fb7\u5c14\u5821"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7c73\u5fb7\u723e\u5821"
+    ],
     "name:zho_x_preferred":[
         "\u7c73\u5fb7\u5c14\u5821"
     ],
@@ -232,7 +241,7 @@
         "gn:id":6621557
     },
     "wof:country":"NL",
-    "wof:geomhash":"f675a98e41d58904e601690c3ec475d8",
+    "wof:geomhash":"a5e37ccc298b446e96d1a56a719a28d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -244,7 +253,7 @@
         }
     ],
     "wof:id":1344258755,
-    "wof:lastmodified":1566657269,
+    "wof:lastmodified":1636503455,
     "wof:name":"Middelburg",
     "wof:parent_id":404473945,
     "wof:placetype":"locality",
@@ -255,9 +264,9 @@
 },
   "bbox": [
     6.12891,
-    52.19159000000001,
+    52.19159,
     6.12891,
-    52.19159000000001
+    52.19159
 ],
-  "geometry": {"coordinates":[6.12891,52.19159000000001],"type":"Point"}
+  "geometry": {"coordinates":[6.12891,52.19159],"type":"Point"}
 }

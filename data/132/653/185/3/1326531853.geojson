@@ -30,6 +30,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05db\u05d6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f6z\u00e9p"
+    ],
+    "name:vie_x_preferred":[
+        "Centre"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85687043,
@@ -43,7 +58,7 @@
         "gn:id":7870526
     },
     "wof:country":"NL",
-    "wof:geomhash":"ed084938a2a65dfb94f668947aa85e83",
+    "wof:geomhash":"4489b5e28bc783cdfa2325976cfc6cd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1326531853,
-    "wof:lastmodified":1566657253,
+    "wof:lastmodified":1636503455,
     "wof:name":"Centre",
     "wof:parent_id":404473871,
     "wof:placetype":"locality",
@@ -66,9 +81,9 @@
 },
   "bbox": [
     5.90773,
-    51.98139000000001,
+    51.98139,
     5.90773,
-    51.98139000000001
+    51.98139
 ],
-  "geometry": {"coordinates":[5.90773,51.98139000000001],"type":"Point"}
+  "geometry": {"coordinates":[5.90773,51.98139],"type":"Point"}
 }
