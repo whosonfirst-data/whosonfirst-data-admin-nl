@@ -15,7 +15,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000011,
     "geom:area_square_m":80425.846651,
-    "geom:bbox":"5.38418862485,52.1522962478,5.3928437785,52.154336397",
+    "geom:bbox":"5.38418862484867,52.15229624782661,5.39284377849923,52.15433639704531",
     "geom:latitude":52.153315,
     "geom:longitude":5.388475,
     "iso:country":"NL",
@@ -31,9 +31,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "name:eng_x_preferred":[
+        "Grote Haag"
+    ],
+    "name:eng_x_variant":[
         "Gote Haag"
     ],
     "name:nld_x_preferred":[
+        "Grote Haag"
+    ],
+    "name:nld_x_variant":[
         "Gote Haag"
     ],
     "reversegeo:latitude":52.153113,
@@ -42,11 +48,11 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1158790263,
-        404473971,
         85633337,
-        101751821,
         136253051,
+        404473971,
+        101751821,
+        1158790263,
         85687039
     ],
     "wof:breaches":[],
@@ -66,8 +72,8 @@
         }
     ],
     "wof:id":1158787501,
-    "wof:lastmodified":1566660696,
-    "wof:name":"Gote Haag",
+    "wof:lastmodified":1662680129,
+    "wof:name":"Grote Haag",
     "wof:parent_id":1158790263,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-nl",
