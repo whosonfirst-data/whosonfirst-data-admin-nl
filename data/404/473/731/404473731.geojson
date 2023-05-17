@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stadskanaal",
+    "eurostat:nuts_2021_id":"GM0037",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL11",
+    "eurostat:nuts_2021_level_3":"NL111",
+    "eurostat:nuts_2021_level_lau":"GM0037",
+    "eurostat:population":31688,
+    "eurostat:population_year":2020,
     "geom:area":0.016053,
-    "geom:area_square_m":119454809.641811,
+    "geom:area_square_m":119454809.641812,
     "geom:bbox":"6.8612874471,52.9190370112,7.10007719452,53.0737016994",
     "geom:latitude":53.002171,
     "geom:longitude":7.010322,
@@ -150,7 +162,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"120",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Stadskanaal",
@@ -169,13 +182,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0037",
+        "eurostat:nuts_2021_id":"GM0037",
         "hasc:id":"NL.GR.ST"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"880c2b62db8357151a5ff410dac18b7c",
+    "wof:geomhash":"5d78b46e70fd7a2b969776934c156e83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,12 +201,12 @@
         }
     ],
     "wof:id":404473731,
-    "wof:lastmodified":1582362767,
+    "wof:lastmodified":1684354006,
     "wof:name":"Stadskanaal",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":32621,
+    "wof:population":31688,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

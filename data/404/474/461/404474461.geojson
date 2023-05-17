@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0880",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wormerland",
+    "eurostat:nuts_2021_id":"GM0880",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL32",
+    "eurostat:nuts_2021_level_3":"NL325",
+    "eurostat:nuts_2021_level_lau":"GM0880",
+    "eurostat:population":16299,
+    "eurostat:population_year":2020,
     "geom:area":0.005979,
-    "geom:area_square_m":45006115.037209,
+    "geom:area_square_m":45006115.03721,
     "geom:bbox":"4.7886928206,52.4684441617,4.9347242151,52.5426893077",
     "geom:latitude":52.502,
     "geom:longitude":4.855124,
@@ -147,7 +159,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"45",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Wormer",
@@ -166,13 +179,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0880",
+        "eurostat:nuts_2021_id":"GM0880",
         "hasc:id":"NL.NH.WO"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8fbe8387e4b7626a6a46f669eb3d12bf",
+    "wof:geomhash":"7908af7cc61735b94ac5bcebe2596c67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,12 +198,12 @@
         }
     ],
     "wof:id":404474461,
-    "wof:lastmodified":1582362848,
+    "wof:lastmodified":1684354042,
     "wof:name":"Wormerland",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":15664,
+    "wof:population":16299,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

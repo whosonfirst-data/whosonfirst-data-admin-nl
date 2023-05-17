@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0197",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aalten",
+    "eurostat:nuts_2021_id":"GM0197",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL225",
+    "eurostat:nuts_2021_level_lau":"GM0197",
+    "eurostat:population":27117,
+    "eurostat:population_year":2020,
     "geom:area":0.01268,
-    "geom:area_square_m":96697899.267812,
+    "geom:area_square_m":96697899.267806,
     "geom:bbox":"6.46433503657,51.8538230205,6.66873338899,51.9743683564",
     "geom:latitude":51.921747,
     "geom:longitude":6.560611,
@@ -153,7 +165,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"83",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Aalten",
@@ -172,13 +185,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0197",
+        "eurostat:nuts_2021_id":"GM0197",
         "hasc:id":"NL.GE.AA"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b7ec0625a6cfbd7a7e71f9af4cdbb92b",
+    "wof:geomhash":"e9c93281bc52048c1ee557f04792ee47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,12 +204,12 @@
         }
     ],
     "wof:id":404473865,
-    "wof:lastmodified":1582362782,
+    "wof:lastmodified":1684354014,
     "wof:name":"Aalten",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":26912,
+    "wof:population":27117,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

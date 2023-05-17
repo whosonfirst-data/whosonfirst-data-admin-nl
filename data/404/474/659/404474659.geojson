@@ -9,6 +9,18 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1771",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Geldrop-Mierlo",
+    "eurostat:nuts_2021_id":"GM1771",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL414",
+    "eurostat:nuts_2021_level_lau":"GM1771",
+    "eurostat:population":39733,
+    "eurostat:population_year":2020,
     "geom:area":0.004057,
     "geom:area_square_m":31275902.994951,
     "geom:bbox":"5.52516682125,51.4031363569,5.65650927212,51.4605090184",
@@ -129,7 +141,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -137,12 +150,15 @@
         85687035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1771",
+        "eurostat:nuts_2021_id":"GM1771"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5058d015da6d9b97d232f4af97861806",
+    "wof:geomhash":"e417ea0a1eaec491f0c066511e23e7d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,11 +169,11 @@
         }
     ],
     "wof:id":404474659,
-    "wof:lastmodified":1582362820,
+    "wof:lastmodified":1684354055,
     "wof:name":"Geldrop-Mierlo",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
-    "wof:population":38893,
+    "wof:population":39733,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

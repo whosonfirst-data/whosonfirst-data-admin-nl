@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0279",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scherpenzeel",
+    "eurostat:nuts_2021_id":"GM0279",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL221",
+    "eurostat:nuts_2021_level_lau":"GM0279",
+    "eurostat:population":9880,
+    "eurostat:population_year":2020,
     "geom:area":0.001812,
-    "geom:area_square_m":13764816.519887,
+    "geom:area_square_m":13764816.519888,
     "geom:bbox":"5.459243,52.069619,5.53916,52.111097",
     "geom:latitude":52.089324,
     "geom:longitude":5.500493,
@@ -54,7 +66,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"14",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Scherpenzeel",
@@ -73,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0279",
+        "eurostat:nuts_2021_id":"GM0279",
         "hasc:id":"NL.GE.SC"
     },
     "wof:coterminous":[
@@ -82,7 +97,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aceb0c99a04fcb57afdde0b401ac5854",
+    "wof:geomhash":"b38af4b2eb2b1f9a3ecae3fecefd0218",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,12 +108,12 @@
         }
     ],
     "wof:id":404473937,
-    "wof:lastmodified":1607993807,
+    "wof:lastmodified":1684354018,
     "wof:name":"Scherpenzeel",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":9529,
+    "wof:population":9880,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

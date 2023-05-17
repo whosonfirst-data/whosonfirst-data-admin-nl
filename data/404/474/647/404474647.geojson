@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1730",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tynaarlo",
+    "eurostat:nuts_2021_id":"GM1730",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL13",
+    "eurostat:nuts_2021_level_3":"NL131",
+    "eurostat:nuts_2021_level_lau":"GM1730",
+    "eurostat:population":33879,
+    "eurostat:population_year":2020,
     "geom:area":0.019812,
-    "geom:area_square_m":147098765.298603,
+    "geom:area_square_m":147098765.298594,
     "geom:bbox":"6.48029955482,53.0257731354,6.77650937642,53.1983081499",
     "geom:latitude":53.097111,
     "geom:longitude":6.604353,
@@ -147,7 +159,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"145",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Zuidlaren, Vries, Tynaarlo",
@@ -166,13 +179,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM1730",
+        "eurostat:nuts_2021_id":"GM1730",
         "hasc:id":"NL.DR.TY"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9039a796cfbd3f830e506af25dc77bf4",
+    "wof:geomhash":"c71d623ef3d344da80f7e6ec7fc33f78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,12 +198,12 @@
         }
     ],
     "wof:id":404474647,
-    "wof:lastmodified":1582362840,
+    "wof:lastmodified":1684354054,
     "wof:name":"Tynaarlo",
     "wof:parent_id":85687051,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":32804,
+    "wof:population":33879,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

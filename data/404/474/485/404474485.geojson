@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0917",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Heerlen",
+    "eurostat:nuts_2021_id":"GM0917",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL42",
+    "eurostat:nuts_2021_level_3":"NL423",
+    "eurostat:nuts_2021_level_lau":"GM0917",
+    "eurostat:population":87057,
+    "eurostat:population_year":2020,
     "geom:area":0.005816,
-    "geom:area_square_m":45365701.45996,
+    "geom:area_square_m":45365701.459958,
     "geom:bbox":"5.89540921842,50.818403174,6.02637934748,50.9366122168",
     "geom:latitude":50.893336,
     "geom:longitude":5.969414,
@@ -189,7 +201,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"46",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Heerlen",
@@ -208,13 +221,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0917",
+        "eurostat:nuts_2021_id":"GM0917",
         "hasc:id":"NL.LI.HR"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7abbf7a417e6a364c22bceccc5013c09",
+    "wof:geomhash":"e66c9bff9fe86829b27c225588e6d4d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -225,12 +240,12 @@
         }
     ],
     "wof:id":404474485,
-    "wof:lastmodified":1582362805,
+    "wof:lastmodified":1684354043,
     "wof:name":"Heerlen",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":87406,
+    "wof:population":87057,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

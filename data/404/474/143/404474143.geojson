@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0479",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zaanstad",
+    "eurostat:nuts_2021_id":"GM0479",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL32",
+    "eurostat:nuts_2021_level_3":"NL325",
+    "eurostat:nuts_2021_level_lau":"GM0479",
+    "eurostat:population":156711,
+    "eurostat:population_year":2020,
     "geom:area":0.011007,
-    "geom:area_square_m":82924263.263674,
+    "geom:area_square_m":82924263.263678,
     "geom:bbox":"4.67484802122,52.4166621676,4.86280501684,52.5212536379",
     "geom:latitude":52.462913,
     "geom:longitude":4.773002,
@@ -192,7 +204,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"82",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Zaandijk",
@@ -211,13 +224,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0479",
+        "eurostat:nuts_2021_id":"GM0479",
         "hasc:id":"NL.NH.ZS"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"01625b7a73ea8b286dd1b9ee28f82d9e",
+    "wof:geomhash":"669ad129388526e16b0dad4dcd030e79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -228,12 +243,12 @@
         }
     ],
     "wof:id":404474143,
-    "wof:lastmodified":1582362825,
+    "wof:lastmodified":1684354025,
     "wof:name":"Zaanstad",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":152466,
+    "wof:population":156711,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

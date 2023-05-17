@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0168",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Losser",
+    "eurostat:nuts_2021_id":"GM0168",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL21",
+    "eurostat:nuts_2021_level_3":"NL213",
+    "eurostat:nuts_2021_level_lau":"GM0168",
+    "eurostat:population":22685,
+    "eurostat:population_year":2020,
     "geom:area":0.013125,
-    "geom:area_square_m":99241104.213731,
+    "geom:area_square_m":99241104.213734,
     "geom:bbox":"6.93432492191,52.2207369863,7.07276327864,52.3798595541",
     "geom:latitude":52.302845,
     "geom:longitude":7.002751,
@@ -129,7 +141,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"100",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Losser",
@@ -148,13 +161,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0168",
+        "eurostat:nuts_2021_id":"GM0168",
         "hasc:id":"NL.OV.LO"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"50870a4308428adad2fc88857a7ac477",
+    "wof:geomhash":"9e188f1b1e8e2e5999ddc06ff79454d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,12 +180,12 @@
         }
     ],
     "wof:id":404473841,
-    "wof:lastmodified":1582362778,
+    "wof:lastmodified":1684354012,
     "wof:name":"Losser",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":22444,
+    "wof:population":22685,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

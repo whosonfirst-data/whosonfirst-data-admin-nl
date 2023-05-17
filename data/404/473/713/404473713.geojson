@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Groningen",
+    "eurostat:nuts_2021_id":"GM0014",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL11",
+    "eurostat:nuts_2021_level_3":"NL113",
+    "eurostat:nuts_2021_level_lau":"GM0014",
+    "eurostat:population":232922,
+    "eurostat:population_year":2020,
     "geom:area":0.011271,
-    "geom:area_square_m":83438114.2305,
+    "geom:area_square_m":83438130.068053,
     "geom:bbox":"6.462746,53.17861,6.666873,53.264947",
     "geom:latitude":53.222234,
     "geom:longitude":6.563382,
@@ -300,7 +312,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"83",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Groningen",
@@ -319,13 +332,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0014",
+        "eurostat:nuts_2021_id":"GM0014",
         "hasc:id":"NL.GR.GR"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"508acbc4813fc80324dd8192d62890ea",
+    "wof:geomhash":"d9fe2990046e7ca2abf3475364996735",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -336,12 +351,12 @@
         }
     ],
     "wof:id":404473713,
-    "wof:lastmodified":1642551800,
+    "wof:lastmodified":1684354005,
     "wof:name":"Groningen",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":200952,
+    "wof:population":232922,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

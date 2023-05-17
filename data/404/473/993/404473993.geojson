@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0331",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lopik",
+    "eurostat:nuts_2021_id":"GM0331",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL31",
+    "eurostat:nuts_2021_level_3":"NL310",
+    "eurostat:nuts_2021_level_lau":"GM0331",
+    "eurostat:population":14471,
+    "eurostat:population_year":2020,
     "geom:area":0.010334,
-    "geom:area_square_m":78693902.394412,
+    "geom:area_square_m":78693902.394415,
     "geom:bbox":"4.83410167362,51.9380306755,5.06263811633,52.0256270688",
     "geom:latitude":51.985353,
     "geom:longitude":4.945542,
@@ -114,7 +126,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"79",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Lopik",
@@ -133,13 +146,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0331",
+        "eurostat:nuts_2021_id":"GM0331",
         "hasc:id":"NL.UT.LP"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f91bbe24c750a9856d672b507fc02879",
+    "wof:geomhash":"f5c4cc4d524f34d79442f0e2ba01f1ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,12 +165,12 @@
         }
     ],
     "wof:id":404473993,
-    "wof:lastmodified":1582362776,
+    "wof:lastmodified":1684354021,
     "wof:name":"Lopik",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":14156,
+    "wof:population":14471,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

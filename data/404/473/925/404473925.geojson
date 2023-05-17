@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0268",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nijmegen",
+    "eurostat:nuts_2021_id":"GM0268",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL226",
+    "eurostat:nuts_2021_level_lau":"GM0268",
+    "eurostat:population":177698,
+    "eurostat:population_year":2020,
     "geom:area":0.007512,
-    "geom:area_square_m":57392559.793583,
+    "geom:area_square_m":57392559.793584,
     "geom:bbox":"5.75762055701,51.7905891078,5.90834689682,51.8946209233",
     "geom:latitude":51.838507,
     "geom:longitude":5.836773,
@@ -264,7 +276,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"72",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Nijmegen",
@@ -283,13 +296,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0268",
+        "eurostat:nuts_2021_id":"GM0268",
         "hasc:id":"NL.GE.NM"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"58fafaf656c2e92b0dc691065cbce63d",
+    "wof:geomhash":"e9b331288a19c47adaf75472c3ee3184",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -300,12 +315,12 @@
         }
     ],
     "wof:id":404473925,
-    "wof:lastmodified":1582362774,
+    "wof:lastmodified":1684354017,
     "wof:name":"Nijmegen",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":172064,
+    "wof:population":177698,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

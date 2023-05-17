@@ -10,8 +10,20 @@
     "cbsnl:gm_code":"GM0088",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schiermonnikoog",
+    "eurostat:nuts_2021_id":"GM0088",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL12",
+    "eurostat:nuts_2021_level_3":"NL124",
+    "eurostat:nuts_2021_level_lau":"GM0088",
+    "eurostat:population":947,
+    "eurostat:population_year":2020,
     "geom:area":0.005066,
-    "geom:area_square_m":37269790.623428,
+    "geom:area_square_m":37269790.6228,
     "geom:bbox":"6.057944,53.460122,6.391841,53.515713",
     "geom:latitude":53.491495,
     "geom:longitude":6.226593,
@@ -168,7 +180,8 @@
         "quattroshapes",
         "mz"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"195",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Schiermonnikoog",
@@ -187,6 +200,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0088",
+        "eurostat:nuts_2021_id":"GM0088",
         "hasc:id":"NL.FR.SC"
     },
     "wof:coterminous":[
@@ -197,7 +212,7 @@
         "quattroshapes",
         "mz"
     ],
-    "wof:geomhash":"c3f9fc9ced99ad35f22a0367a44b067b",
+    "wof:geomhash":"924a2ee50e08af7fd8c6d47504d31d34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -208,12 +223,12 @@
         }
     ],
     "wof:id":404473789,
-    "wof:lastmodified":1617129935,
+    "wof:lastmodified":1684354007,
     "wof:name":"Schiermonnikoog",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":919,
+    "wof:population":947,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

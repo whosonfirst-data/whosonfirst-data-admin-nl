@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0285",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Voorst",
+    "eurostat:nuts_2021_id":"GM0285",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL221",
+    "eurostat:nuts_2021_level_lau":"GM0285",
+    "eurostat:population":24546,
+    "eurostat:population_year":2020,
     "geom:area":0.016636,
-    "geom:area_square_m":126003553.830201,
+    "geom:area_square_m":126003553.830202,
     "geom:bbox":"6.02480058996,52.1439380745,6.19436972772,52.3309072859",
     "geom:latitude":52.225605,
     "geom:longitude":6.099081,
@@ -129,7 +141,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"127",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Twello",
@@ -148,13 +161,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0285",
+        "eurostat:nuts_2021_id":"GM0285",
         "hasc:id":"NL.GE.VS"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"14c635ca861f41c3b8bce66bb55be0be",
+    "wof:geomhash":"b0ac9587f7f2cc48a504aedd62427e41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,12 +180,12 @@
         }
     ],
     "wof:id":404473945,
-    "wof:lastmodified":1582362787,
+    "wof:lastmodified":1684354018,
     "wof:name":"Voorst",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":23984,
+    "wof:population":24546,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

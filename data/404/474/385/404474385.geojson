@@ -9,6 +9,18 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0786",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grave",
+    "eurostat:nuts_2021_id":"GM0786",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL413",
+    "eurostat:nuts_2021_level_lau":"GM0786",
+    "eurostat:population":12437,
+    "eurostat:population_year":2020,
     "geom:area":0.003648,
     "geom:area_square_m":27932851.002711,
     "geom:bbox":"5.69085817079,51.7179787217,5.79974892421,51.7750338625",
@@ -225,7 +237,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"28",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Grave",
@@ -244,13 +257,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0786",
+        "eurostat:nuts_2021_id":"GM0786",
         "hasc:id":"NL.NB.GV"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8eaa589651b63563c43a9bca6e93b018",
+    "wof:geomhash":"a959ba98d5381fdf8b434e517ae79b0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -261,12 +276,12 @@
         }
     ],
     "wof:id":404474385,
-    "wof:lastmodified":1582362825,
+    "wof:lastmodified":1684354039,
     "wof:name":"Grave",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":12643,
+    "wof:population":12437,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

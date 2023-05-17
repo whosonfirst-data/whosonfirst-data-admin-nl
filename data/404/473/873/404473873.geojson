@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barneveld",
+    "eurostat:nuts_2021_id":"GM0203",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL221",
+    "eurostat:nuts_2021_level_lau":"GM0203",
+    "eurostat:population":59077,
+    "eurostat:population_year":2020,
     "geom:area":0.023209,
-    "geom:area_square_m":176016652.23469,
+    "geom:area_square_m":176016652.234677,
     "geom:bbox":"5.47243330432,52.1004823006,5.81193233011,52.2425030609",
     "geom:latitude":52.168285,
     "geom:longitude":5.641902,
@@ -75,7 +87,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"177",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Barneveld",
@@ -94,13 +107,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0203",
+        "eurostat:nuts_2021_id":"GM0203",
         "hasc:id":"NL.GE.BA"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3d628983900dcf564402c1c85ff5cb78",
+    "wof:geomhash":"576e2cac4a83cb227ac1f4bc101b236f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,12 +126,12 @@
         }
     ],
     "wof:id":404473873,
-    "wof:lastmodified":1582362768,
+    "wof:lastmodified":1684354014,
     "wof:name":"Barneveld",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":55441,
+    "wof:population":59077,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

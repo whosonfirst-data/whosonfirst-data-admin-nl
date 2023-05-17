@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0744",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baarle-Nassau",
+    "eurostat:nuts_2021_id":"GM0744",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL412",
+    "eurostat:nuts_2021_level_lau":"GM0744",
+    "eurostat:population":6860,
+    "eurostat:population_year":2020,
     "geom:area":0.009862,
-    "geom:area_square_m":76013426.231474,
+    "geom:area_square_m":76013426.23148,
     "geom:bbox":"4.76656969056,51.3936869824,5.01099635796,51.4809295699",
     "geom:latitude":51.439012,
     "geom:longitude":4.893151,
@@ -168,7 +180,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"76",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Baarle-Nassau",
@@ -187,13 +200,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0744",
+        "eurostat:nuts_2021_id":"GM0744",
         "hasc:id":"NL.NB.BN"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"397179b428421327ff1f06f154c516fb",
+    "wof:geomhash":"02f3000c7ca75a3bbc3aa9dc5c43549c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,12 +219,12 @@
         }
     ],
     "wof:id":404474349,
-    "wof:lastmodified":1582362826,
+    "wof:lastmodified":1684354038,
     "wof:name":"Baarle-Nassau",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":6611,
+    "wof:population":6860,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

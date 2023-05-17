@@ -9,6 +9,18 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0866",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Waalre",
+    "eurostat:nuts_2021_id":"GM0866",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL414",
+    "eurostat:nuts_2021_level_lau":"GM0866",
+    "eurostat:population":17454,
+    "eurostat:population_year":2020,
     "geom:area":0.002927,
     "geom:area_square_m":22583468.201295,
     "geom:bbox":"5.41743922671,51.3660131057,5.51641760279,51.4053496444",
@@ -120,7 +132,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"22",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Waalre",
@@ -139,13 +152,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0866",
+        "eurostat:nuts_2021_id":"GM0866",
         "hasc:id":"NL.NB.WR"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"abcb43f15f11ed39558792461cb28406",
+    "wof:geomhash":"ee0ae09be501fc08051ac0637efbe851",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,12 +171,12 @@
         }
     ],
     "wof:id":404474449,
-    "wof:lastmodified":1582362805,
+    "wof:lastmodified":1684354042,
     "wof:name":"Waalre",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":17023,
+    "wof:population":17454,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

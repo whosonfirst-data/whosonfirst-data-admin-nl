@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1681",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borger-Odoorn",
+    "eurostat:nuts_2021_id":"GM1681",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL13",
+    "eurostat:nuts_2021_level_3":"NL132",
+    "eurostat:nuts_2021_level_lau":"GM1681",
+    "eurostat:population":25558,
+    "eurostat:population_year":2020,
     "geom:area":0.037113,
-    "geom:area_square_m":276776835.382378,
+    "geom:area_square_m":276776835.382388,
     "geom:bbox":"6.72417519229,52.8046339459,7.04557101213,52.9933525457",
     "geom:latitude":52.905896,
     "geom:longitude":6.871991,
@@ -138,7 +150,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"278",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Exloo",
@@ -157,13 +170,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM1681",
+        "eurostat:nuts_2021_id":"GM1681",
         "hasc:id":"NL.DR.BO"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ea4f427022cb4bc5706b7cc5afe274c1",
+    "wof:geomhash":"3733d8380cc4e682dbc375f3ce063410",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,12 +189,12 @@
         }
     ],
     "wof:id":404474595,
-    "wof:lastmodified":1582362803,
+    "wof:lastmodified":1684354049,
     "wof:name":"Borger-Odoorn",
     "wof:parent_id":85687051,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":25371,
+    "wof:population":25558,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

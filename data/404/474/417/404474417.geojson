@@ -9,6 +9,18 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0840",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rucphen",
+    "eurostat:nuts_2021_id":"GM0840",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL411",
+    "eurostat:nuts_2021_level_lau":"GM0840",
+    "eurostat:population":22873,
+    "eurostat:population_year":2020,
     "geom:area":0.00835,
     "geom:area_square_m":64243801.387487,
     "geom:bbox":"4.48538055667,51.4733125944,4.64011007564,51.568561892",
@@ -120,7 +132,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"64",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Rucphen",
@@ -139,13 +152,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0840",
+        "eurostat:nuts_2021_id":"GM0840",
         "hasc:id":"NL.NB.RU"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"590b312e3c1f31a2dfda8f5e9393d766",
+    "wof:geomhash":"5eedccc96b82d30fc2a48f8818051329",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,12 +171,12 @@
         }
     ],
     "wof:id":404474417,
-    "wof:lastmodified":1582362839,
+    "wof:lastmodified":1684354040,
     "wof:name":"Rucphen",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":22276,
+    "wof:population":22873,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

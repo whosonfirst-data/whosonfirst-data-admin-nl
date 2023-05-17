@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arnhem",
+    "eurostat:nuts_2021_id":"GM0202",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL226",
+    "eurostat:nuts_2021_level_lau":"GM0202",
+    "eurostat:population":161368,
+    "eurostat:population_year":2020,
     "geom:area":0.013291,
-    "geom:area_square_m":101176136.239157,
+    "geom:area_square_m":101176136.239159,
     "geom:bbox":"5.80296055955,51.9334641973,5.99034003942,52.0778905302",
     "geom:latitude":52.001156,
     "geom:longitude":5.892592,
@@ -297,7 +309,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"102",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Arnhem",
@@ -316,13 +329,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0202",
+        "eurostat:nuts_2021_id":"GM0202",
         "hasc:id":"NL.GE.AR"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7c0031f6fb862dbf2bd741d79ba938d8",
+    "wof:geomhash":"5f277b127078493cfdf3437e53729e55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -333,12 +348,12 @@
         }
     ],
     "wof:id":404473871,
-    "wof:lastmodified":1582362780,
+    "wof:lastmodified":1684354014,
     "wof:name":"Arnhem",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":153818,
+    "wof:population":161368,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1942",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gooise Meren",
+    "eurostat:nuts_2021_id":"GM1942",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL32",
+    "eurostat:nuts_2021_level_3":"NL327",
+    "eurostat:nuts_2021_level_lau":"GM1942",
+    "eurostat:population":58041,
+    "eurostat:population_year":2020,
     "geom:area":0.005976,
-    "geom:area_square_m":45184410.449995,
+    "geom:area_square_m":45184410.449996,
     "geom:bbox":"5.0127938537,52.2557957996,5.23035666468,52.3654671683",
     "geom:latitude":52.301412,
     "geom:longitude":5.134572,
@@ -84,7 +96,8 @@
         "mz"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -92,12 +105,15 @@
         85687053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1942",
+        "eurostat:nuts_2021_id":"GM1942"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz"
     ],
-    "wof:geomhash":"21526485a71eda9ec04855654c73d7f1",
+    "wof:geomhash":"0bda7303005335f0964dd3e717006bc2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1158818281,
-    "wof:lastmodified":1582362894,
+    "wof:lastmodified":1684354061,
     "wof:name":"Gooise Meren",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",
-    "wof:population":56696,
+    "wof:population":58041,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

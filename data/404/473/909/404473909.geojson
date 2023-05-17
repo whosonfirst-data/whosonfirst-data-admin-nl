@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0244",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hattem",
+    "eurostat:nuts_2021_id":"GM0244",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL221",
+    "eurostat:nuts_2021_level_lau":"GM0244",
+    "eurostat:population":12213,
+    "eurostat:population_year":2020,
     "geom:area":0.003195,
-    "geom:area_square_m":24065307.814814,
+    "geom:area_square_m":24065307.814813,
     "geom:bbox":"6.000788,52.443766,6.103546,52.509606",
     "geom:latitude":52.474784,
     "geom:longitude":6.053255,
@@ -141,7 +153,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"24",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Hattem",
@@ -160,6 +173,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0244",
+        "eurostat:nuts_2021_id":"GM0244",
         "hasc:id":"NL.GE.HT"
     },
     "wof:coterminous":[
@@ -169,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0baaabbae8e9849c6b27283428ea8a0e",
+    "wof:geomhash":"a35f5a467d30fd40bc7ea74d06f717b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,12 +195,12 @@
         }
     ],
     "wof:id":404473909,
-    "wof:lastmodified":1607993824,
+    "wof:lastmodified":1684354016,
     "wof:name":"Hattem",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":11890,
+    "wof:population":12213,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

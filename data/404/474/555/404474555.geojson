@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1621",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lansingerland",
+    "eurostat:nuts_2021_id":"GM1621",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL33",
+    "eurostat:nuts_2021_level_3":"NL33C",
+    "eurostat:nuts_2021_level_lau":"GM1621",
+    "eurostat:population":62396,
+    "eurostat:population_year":2020,
     "geom:area":0.007379,
-    "geom:area_square_m":56168012.082508,
+    "geom:area_square_m":56168012.082514,
     "geom:bbox":"4.4242215258,51.9602862854,4.5652014369,52.0617411632",
     "geom:latitude":52.004023,
     "geom:longitude":4.506135,
@@ -126,7 +138,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -134,12 +147,15 @@
         85687041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1621",
+        "eurostat:nuts_2021_id":"GM1621"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"35556aed2f8a82c5e3084bd26d9b8e4e",
+    "wof:geomhash":"69a8d7684a0d585218698dc5f42a176f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,11 +166,11 @@
         }
     ],
     "wof:id":404474555,
-    "wof:lastmodified":1582362829,
+    "wof:lastmodified":1684354045,
     "wof:name":"Lansingerland",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",
-    "wof:population":59035,
+    "wof:population":62396,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

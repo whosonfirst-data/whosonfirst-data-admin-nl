@@ -9,6 +9,18 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0383",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castricum",
+    "eurostat:nuts_2021_id":"GM0383",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL32",
+    "eurostat:nuts_2021_level_3":"NL323",
+    "eurostat:nuts_2021_level_lau":"GM0383",
+    "eurostat:population":35988,
+    "eurostat:population_year":2020,
     "geom:area":0.007298,
     "geom:area_square_m":54863274.081788,
     "geom:bbox":"4.59885171826,52.5267275558,4.78162284541,52.5925847243",
@@ -152,7 +164,8 @@
         "quattroshapes",
         "mz"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"31",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Castricum",
@@ -171,6 +184,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0383",
+        "eurostat:nuts_2021_id":"GM0383",
         "hasc:id":"NL.NH.CA"
     },
     "wof:country":"NL",
@@ -178,7 +193,7 @@
         "mz",
         "quattroshapes"
     ],
-    "wof:geomhash":"6516782947a5adfa0d9b2593d1e54581",
+    "wof:geomhash":"4e45e84899536c4f4456f041bf13f9ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,12 +204,12 @@
         }
     ],
     "wof:id":404474053,
-    "wof:lastmodified":1582362813,
+    "wof:lastmodified":1684354022,
     "wof:name":"Castricum",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":34604,
+    "wof:population":35988,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

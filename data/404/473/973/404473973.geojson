@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0308",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baarn",
+    "eurostat:nuts_2021_id":"GM0308",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL31",
+    "eurostat:nuts_2021_level_3":"NL310",
+    "eurostat:nuts_2021_level_lau":"GM0308",
+    "eurostat:population":24873,
+    "eurostat:population_year":2020,
     "geom:area":0.00434,
-    "geom:area_square_m":32885946.536335,
+    "geom:area_square_m":32885946.536332,
     "geom:bbox":"5.21207556445,52.1653795769,5.33580879148,52.2328288296",
     "geom:latitude":52.203834,
     "geom:longitude":5.264153,
@@ -141,7 +153,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"33",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Baarn",
@@ -160,13 +173,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0308",
+        "eurostat:nuts_2021_id":"GM0308",
         "hasc:id":"NL.UT.BA"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3455c061a4bde92c72602a4d6bcc5b55",
+    "wof:geomhash":"67804a358515a55c6f2eb93dc675f152",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,12 +192,12 @@
         }
     ],
     "wof:id":404473973,
-    "wof:lastmodified":1582362786,
+    "wof:lastmodified":1684354020,
     "wof:name":"Baarn",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":24521,
+    "wof:population":24873,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

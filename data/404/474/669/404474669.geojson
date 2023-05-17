@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1842",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Midden-Delfland",
+    "eurostat:nuts_2021_id":"GM1842",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL33",
+    "eurostat:nuts_2021_level_3":"NL333",
+    "eurostat:nuts_2021_level_lau":"GM1842",
+    "eurostat:population":19344,
+    "eurostat:population_year":2020,
     "geom:area":0.006457,
-    "geom:area_square_m":49197929.586718,
+    "geom:area_square_m":49197929.586719,
     "geom:bbox":"4.23358322248,51.9212363198,4.40303793661,52.0199216824",
     "geom:latitude":51.96476,
     "geom:longitude":4.306153,
@@ -126,7 +138,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -134,12 +147,15 @@
         85687041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1842",
+        "eurostat:nuts_2021_id":"GM1842"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"86618c5015fd7e4baf23033ecda8238b",
+    "wof:geomhash":"98c4cf5f230a34402a43301d1ef7ce63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,11 +166,11 @@
         }
     ],
     "wof:id":404474669,
-    "wof:lastmodified":1582362815,
+    "wof:lastmodified":1684354056,
     "wof:name":"Midden-Delfland",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",
-    "wof:population":18873,
+    "wof:population":19344,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

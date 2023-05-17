@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1884",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kaag en Braassem",
+    "eurostat:nuts_2021_id":"GM1884",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL33",
+    "eurostat:nuts_2021_level_3":"NL337",
+    "eurostat:nuts_2021_level_lau":"GM1884",
+    "eurostat:population":27300,
+    "eurostat:population_year":2020,
     "geom:area":0.009495,
-    "geom:area_square_m":71973949.420182,
+    "geom:area_square_m":71973949.420183,
     "geom:bbox":"4.53814764129,52.1522483173,4.72970316822,52.2338433635",
     "geom:latitude":52.19258,
     "geom:longitude":4.629212,
@@ -114,7 +126,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -122,12 +135,15 @@
         85687041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1884",
+        "eurostat:nuts_2021_id":"GM1884"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"632682248eccbc79221f656e6eedb1bc",
+    "wof:geomhash":"6b486ae1e9d798530c5992507e4547ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,11 +154,11 @@
         }
     ],
     "wof:id":404474677,
-    "wof:lastmodified":1582362843,
+    "wof:lastmodified":1684354057,
     "wof:name":"Kaag en Braassem",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",
-    "wof:population":26108,
+    "wof:population":27300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0785",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Goirle",
+    "eurostat:nuts_2021_id":"GM0785",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL412",
+    "eurostat:nuts_2021_level_lau":"GM0785",
+    "eurostat:population":23906,
+    "eurostat:population_year":2020,
     "geom:area":0.005484,
-    "geom:area_square_m":42201706.244816,
+    "geom:area_square_m":42201706.244817,
     "geom:bbox":"4.96257274686,51.4711081497,5.10506070646,51.5401328655",
     "geom:latitude":51.511751,
     "geom:longitude":5.031697,
@@ -135,7 +147,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"42",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Goirle",
@@ -154,13 +167,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0785",
+        "eurostat:nuts_2021_id":"GM0785",
         "hasc:id":"NL.NB.GO"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"783daeea125c3120f4b8d6deffc625cc",
+    "wof:geomhash":"771bcdda3d117e79b58f613dbeaa64af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,12 +186,12 @@
         }
     ],
     "wof:id":404474383,
-    "wof:lastmodified":1582362821,
+    "wof:lastmodified":1684354039,
     "wof:name":"Goirle",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":23111,
+    "wof:population":23906,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

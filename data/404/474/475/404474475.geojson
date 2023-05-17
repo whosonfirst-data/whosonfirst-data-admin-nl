@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0893",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bergen (L.)",
+    "eurostat:nuts_2021_id":"GM0893",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL42",
+    "eurostat:nuts_2021_level_3":"NL421",
+    "eurostat:nuts_2021_level_lau":"GM0893",
+    "eurostat:population":13085,
+    "eurostat:population_year":2020,
     "geom:area":0.014073,
-    "geom:area_square_m":108106549.573298,
+    "geom:area_square_m":108106549.573299,
     "geom:bbox":"5.97660693832,51.5030816566,6.21336126417,51.6761652026",
     "geom:latitude":51.591942,
     "geom:longitude":6.089304,
@@ -45,7 +57,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -53,12 +66,15 @@
         85687033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM0893",
+        "eurostat:nuts_2021_id":"GM0893"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"31ce5aac767b4560d0bf933a559d4a0d",
+    "wof:geomhash":"5fd0d8a98a3118048f7e906d8f527523",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,11 +85,11 @@
         }
     ],
     "wof:id":404474475,
-    "wof:lastmodified":1582362840,
+    "wof:lastmodified":1684354042,
     "wof:name":"Bergen (L.)",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",
-    "wof:population":13090,
+    "wof:population":13085,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

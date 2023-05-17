@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0431",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oostzaan",
+    "eurostat:nuts_2021_id":"GM0431",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL32",
+    "eurostat:nuts_2021_level_3":"NL329",
+    "eurostat:nuts_2021_level_lau":"GM0431",
+    "eurostat:population":9733,
+    "eurostat:population_year":2020,
     "geom:area":0.002125,
-    "geom:area_square_m":16015592.664344,
+    "geom:area_square_m":16015592.664342,
     "geom:bbox":"4.842951,52.424461,4.90647,52.479826",
     "geom:latitude":52.451967,
     "geom:longitude":4.87611,
@@ -153,7 +165,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"17",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Oostzaan",
@@ -172,6 +185,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0431",
+        "eurostat:nuts_2021_id":"GM0431",
         "hasc:id":"NL.NH.OO"
     },
     "wof:coterminous":[
@@ -181,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bbe336a028b952e2686f9c4eae1f966e",
+    "wof:geomhash":"10f9f83b22f3c7343de0a8148c2cf5b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,12 +207,12 @@
         }
     ],
     "wof:id":404474105,
-    "wof:lastmodified":1607993793,
+    "wof:lastmodified":1684354023,
     "wof:name":"Oostzaan",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":9504,
+    "wof:population":9733,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

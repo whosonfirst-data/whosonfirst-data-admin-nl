@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Emmen",
+    "eurostat:nuts_2021_id":"GM0114",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL13",
+    "eurostat:nuts_2021_level_3":"NL132",
+    "eurostat:nuts_2021_level_lau":"GM0114",
+    "eurostat:population":107055,
+    "eurostat:population_year":2020,
     "geom:area":0.04608,
-    "geom:area_square_m":344887866.426113,
+    "geom:area_square_m":344887866.426111,
     "geom:bbox":"6.8263607757,52.6327057411,7.0927396662,52.8730120264",
     "geom:latitude":52.749718,
     "geom:longitude":6.961985,
@@ -102,7 +114,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"346",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Emmen",
@@ -121,13 +134,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0114",
+        "eurostat:nuts_2021_id":"GM0114",
         "hasc:id":"NL.DR.EM"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b4a91b36bd12bb66b32df6f6935d2807",
+    "wof:geomhash":"ad53b0bbeb4c68df0a623a67a61c8485",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,12 +153,12 @@
         }
     ],
     "wof:id":404473809,
-    "wof:lastmodified":1582362781,
+    "wof:lastmodified":1684354010,
     "wof:name":"Emmen",
     "wof:parent_id":85687051,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":107584,
+    "wof:population":107055,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

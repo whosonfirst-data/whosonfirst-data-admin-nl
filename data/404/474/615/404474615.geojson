@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sint Anthonis",
+    "eurostat:nuts_2021_id":"GM1702",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL413",
+    "eurostat:nuts_2021_level_lau":"GM1702",
+    "eurostat:population":11672,
+    "eurostat:population_year":2020,
     "geom:area":0.012947,
-    "geom:area_square_m":99401183.219162,
+    "geom:area_square_m":99401183.21916,
     "geom:bbox":"5.74767610183,51.5626441949,5.94979959673,51.6799702985",
     "geom:latitude":51.617317,
     "geom:longitude":5.841993,
@@ -117,7 +129,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"99",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Sint Anthonis",
@@ -136,13 +149,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM1702",
+        "eurostat:nuts_2021_id":"GM1702",
         "hasc:id":"NL.NB.SA"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c2504ab2b2aec0d4a727b3aebe59106c",
+    "wof:geomhash":"77ae90d04ed1ea37489b1c31a08f9131",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,12 +168,12 @@
         }
     ],
     "wof:id":404474615,
-    "wof:lastmodified":1582362843,
+    "wof:lastmodified":1684354052,
     "wof:name":"Sint Anthonis",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":11594,
+    "wof:population":11672,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

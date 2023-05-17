@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0177",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Raalte",
+    "eurostat:nuts_2021_id":"GM0177",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL21",
+    "eurostat:nuts_2021_level_3":"NL212",
+    "eurostat:nuts_2021_level_lau":"GM0177",
+    "eurostat:population":37709,
+    "eurostat:population_year":2020,
     "geom:area":0.022745,
-    "geom:area_square_m":171646368.875367,
+    "geom:area_square_m":171646368.875369,
     "geom:bbox":"6.14414574779,52.3005215162,6.40516950146,52.4743883537",
     "geom:latitude":52.387858,
     "geom:longitude":6.279019,
@@ -123,7 +135,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"173",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Raalte",
@@ -142,13 +155,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0177",
+        "eurostat:nuts_2021_id":"GM0177",
         "hasc:id":"NL.OV.RA"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"20647f305dcc11a2ae34a5336fe842fc",
+    "wof:geomhash":"b81e91dd95aa3c72f829040481854542",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,12 +174,12 @@
         }
     ],
     "wof:id":404473849,
-    "wof:lastmodified":1582362779,
+    "wof:lastmodified":1684354013,
     "wof:name":"Raalte",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":36700,
+    "wof:population":37709,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

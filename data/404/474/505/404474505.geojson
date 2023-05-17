@@ -9,6 +9,18 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0944",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mook en Middelaar",
+    "eurostat:nuts_2021_id":"GM0944",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL42",
+    "eurostat:nuts_2021_level_3":"NL421",
+    "eurostat:nuts_2021_level_lau":"GM0944",
+    "eurostat:population":7847,
+    "eurostat:population_year":2020,
     "geom:area":0.002448,
     "geom:area_square_m":18743176.592477,
     "geom:bbox":"5.86446884251,51.7176714992,5.93829860596,51.7786272918",
@@ -132,7 +144,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"19",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Mook",
@@ -151,13 +164,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0944",
+        "eurostat:nuts_2021_id":"GM0944",
         "hasc:id":"NL.LI.MM"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7fcbd8db7ef1ec0a45176157fb8ea687",
+    "wof:geomhash":"372f0fe688b98292107c10ae8e538f40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,12 +183,12 @@
         }
     ],
     "wof:id":404474505,
-    "wof:lastmodified":1582362803,
+    "wof:lastmodified":1684354043,
     "wof:name":"Mook en Middelaar",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":7755,
+    "wof:population":7847,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

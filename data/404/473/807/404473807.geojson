@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coevorden",
+    "eurostat:nuts_2021_id":"GM0109",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL13",
+    "eurostat:nuts_2021_level_3":"NL132",
+    "eurostat:nuts_2021_level_lau":"GM0109",
+    "eurostat:population":35296,
+    "eurostat:population_year":2020,
     "geom:area":0.039875,
-    "geom:area_square_m":298515544.336617,
+    "geom:area_square_m":298515544.336604,
     "geom:bbox":"6.57642850871,52.6267604299,6.86187521537,52.8786912885",
     "geom:latitude":52.740308,
     "geom:longitude":6.735915,
@@ -153,7 +165,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"300",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Coevorden",
@@ -172,13 +185,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0109",
+        "eurostat:nuts_2021_id":"GM0109",
         "hasc:id":"NL.DR.CO"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d48222b2f4100843412e16244056a6a0",
+    "wof:geomhash":"65f2532942defdd653ed66f939f16f67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,12 +204,12 @@
         }
     ],
     "wof:id":404473807,
-    "wof:lastmodified":1582362781,
+    "wof:lastmodified":1684354009,
     "wof:name":"Coevorden",
     "wof:parent_id":85687051,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":35381,
+    "wof:population":35296,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

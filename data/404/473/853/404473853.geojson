@@ -9,6 +9,18 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0180",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Staphorst",
+    "eurostat:nuts_2021_id":"GM0180",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL21",
+    "eurostat:nuts_2021_level_3":"NL211",
+    "eurostat:nuts_2021_level_lau":"GM0180",
+    "eurostat:population":17144,
+    "eurostat:population_year":2020,
     "geom:area":0.018013,
     "geom:area_square_m":135176237.767245,
     "geom:bbox":"6.09591665966,52.5812462933,6.32929012252,52.6921833231",
@@ -132,7 +144,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"136",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Staphorst",
@@ -151,13 +164,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0180",
+        "eurostat:nuts_2021_id":"GM0180",
         "hasc:id":"NL.OV.SH"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a103266c0bc223d8d62f0dc537f99f44",
+    "wof:geomhash":"6c05368faadffa01585de507287cde2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,12 +183,12 @@
         }
     ],
     "wof:id":404473853,
-    "wof:lastmodified":1582362782,
+    "wof:lastmodified":1684354013,
     "wof:name":"Staphorst",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":16544,
+    "wof:population":17144,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

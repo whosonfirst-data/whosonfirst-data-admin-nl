@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1669",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roerdalen",
+    "eurostat:nuts_2021_id":"GM1669",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL42",
+    "eurostat:nuts_2021_level_3":"NL422",
+    "eurostat:nuts_2021_level_lau":"GM1669",
+    "eurostat:population":20572,
+    "eurostat:population_year":2020,
     "geom:area":0.011405,
-    "geom:area_square_m":88467565.324333,
+    "geom:area_square_m":88467565.32433,
     "geom:bbox":"5.91374859589,51.096531423,6.18072425346,51.1944141208",
     "geom:latitude":51.145687,
     "geom:longitude":6.041118,
@@ -129,7 +141,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"44",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Herkenbosch",
@@ -148,13 +161,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM1669",
+        "eurostat:nuts_2021_id":"GM1669",
         "hasc:id":"NL.LI.RD"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"810465033b47bcd9c73d3144f208d25a",
+    "wof:geomhash":"b4114a658a2f2f95e6545627b2335519",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,12 +180,12 @@
         }
     ],
     "wof:id":404474581,
-    "wof:lastmodified":1582362822,
+    "wof:lastmodified":1684354046,
     "wof:name":"Roerdalen",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":20686,
+    "wof:population":20572,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1525",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Teylingen",
+    "eurostat:nuts_2021_id":"GM1525",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL33",
+    "eurostat:nuts_2021_level_3":"NL337",
+    "eurostat:nuts_2021_level_lau":"GM1525",
+    "eurostat:population":37426,
+    "eurostat:population_year":2020,
     "geom:area":0.004404,
-    "geom:area_square_m":33363414.396825,
+    "geom:area_square_m":33363414.396826,
     "geom:bbox":"4.45564858137,52.1796946303,4.5617047204,52.2550674272",
     "geom:latitude":52.214002,
     "geom:longitude":4.511898,
@@ -120,7 +132,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -128,12 +141,15 @@
         85687041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1525",
+        "eurostat:nuts_2021_id":"GM1525"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a624b082ea105be100ab781cf456a08c",
+    "wof:geomhash":"65439f8063549b8fdafa360725b56b38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,11 +160,11 @@
         }
     ],
     "wof:id":404474545,
-    "wof:lastmodified":1582362827,
+    "wof:lastmodified":1684354045,
     "wof:name":"Teylingen",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",
-    "wof:population":36013,
+    "wof:population":37426,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

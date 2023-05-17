@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0847",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Someren",
+    "eurostat:nuts_2021_id":"GM0847",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL414",
+    "eurostat:nuts_2021_level_lau":"GM0847",
+    "eurostat:population":19376,
+    "eurostat:population_year":2020,
     "geom:area":0.010522,
-    "geom:area_square_m":81211046.042527,
+    "geom:area_square_m":81211046.042531,
     "geom:bbox":"5.6378548566,51.3150940132,5.77044861307,51.4578098939",
     "geom:latitude":51.378752,
     "geom:longitude":5.691404,
@@ -120,7 +132,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"82",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Someren",
@@ -139,13 +152,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0847",
+        "eurostat:nuts_2021_id":"GM0847",
         "hasc:id":"NL.NB.SR"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e4c2bca076e83d7e7211cfbb24489bfd",
+    "wof:geomhash":"cf48b0c65dff7a1df3b0f7c69ba5e271",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,12 +171,12 @@
         }
     ],
     "wof:id":404474425,
-    "wof:lastmodified":1582362806,
+    "wof:lastmodified":1684354040,
     "wof:name":"Someren",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":18914,
+    "wof:population":19376,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

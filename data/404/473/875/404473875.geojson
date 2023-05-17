@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beuningen",
+    "eurostat:nuts_2021_id":"GM0209",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL226",
+    "eurostat:nuts_2021_level_lau":"GM0209",
+    "eurostat:population":25891,
+    "eurostat:population_year":2020,
     "geom:area":0.006145,
-    "geom:area_square_m":46921030.676998,
+    "geom:area_square_m":46921030.676997,
     "geom:bbox":"5.66784716989,51.8322718582,5.82569533077,51.895672653",
     "geom:latitude":51.862813,
     "geom:longitude":5.74027,
@@ -132,7 +144,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"48",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Beuningen",
@@ -151,13 +164,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0209",
+        "eurostat:nuts_2021_id":"GM0209",
         "hasc:id":"NL.GE.BE"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dee480cb75a4d9c2b07844a2a75a2d10",
+    "wof:geomhash":"21c40ecd99cc8e420bbfee11a8ef41f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,12 +183,12 @@
         }
     ],
     "wof:id":404473875,
-    "wof:lastmodified":1582362769,
+    "wof:lastmodified":1684354014,
     "wof:name":"Beuningen",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":25289,
+    "wof:population":25891,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

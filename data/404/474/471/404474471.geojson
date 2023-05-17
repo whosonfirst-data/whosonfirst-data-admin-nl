@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0888",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beek",
+    "eurostat:nuts_2021_id":"GM0888",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL42",
+    "eurostat:nuts_2021_level_3":"NL423",
+    "eurostat:nuts_2021_level_lau":"GM0888",
+    "eurostat:population":15868,
+    "eurostat:population_year":2020,
     "geom:area":0.002689,
-    "geom:area_square_m":20958211.591961,
+    "geom:area_square_m":20958211.591959,
     "geom:bbox":"5.75476595773,50.8985549649,5.85692966074,50.9551432619",
     "geom:latitude":50.930877,
     "geom:longitude":5.809108,
@@ -63,7 +75,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"22",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Beek",
@@ -82,13 +95,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0888",
+        "eurostat:nuts_2021_id":"GM0888",
         "hasc:id":"NL.LI.BK"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"af2d2c112e6704fc1c066b84005bed48",
+    "wof:geomhash":"e89c7270445765dfdbc2e886e6411977",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,12 +114,12 @@
         }
     ],
     "wof:id":404474471,
-    "wof:lastmodified":1582362805,
+    "wof:lastmodified":1684354042,
     "wof:name":"Beek",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":16068,
+    "wof:population":15868,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

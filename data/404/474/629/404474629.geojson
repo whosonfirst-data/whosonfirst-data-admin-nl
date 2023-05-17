@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1714",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sluis",
+    "eurostat:nuts_2021_id":"GM1714",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL34",
+    "eurostat:nuts_2021_level_3":"NL341",
+    "eurostat:nuts_2021_level_lau":"GM1714",
+    "eurostat:population":23217,
+    "eurostat:population_year":2020,
     "geom:area":0.036468,
-    "geom:area_square_m":281768813.650375,
+    "geom:area_square_m":281768813.650377,
     "geom:bbox":"3.35837818949,51.2414925173,3.71240870876,51.4090256477",
     "geom:latitude":51.328523,
     "geom:longitude":3.515262,
@@ -164,7 +176,8 @@
         "quattroshapes",
         "mz"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -172,13 +185,16 @@
         85687037
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1714",
+        "eurostat:nuts_2021_id":"GM1714"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
         "quattroshapes"
     ],
-    "wof:geomhash":"7e7a808e20a90689e1c0720ca4baa718",
+    "wof:geomhash":"5aabce7b37693fd6835a2c66134b5134",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,11 +205,11 @@
         }
     ],
     "wof:id":404474629,
-    "wof:lastmodified":1582362810,
+    "wof:lastmodified":1684354053,
     "wof:name":"Sluis",
     "wof:parent_id":85687037,
     "wof:placetype":"localadmin",
-    "wof:population":23639,
+    "wof:population":23217,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

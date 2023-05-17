@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0200",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Apeldoorn",
+    "eurostat:nuts_2021_id":"GM0200",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL221",
+    "eurostat:nuts_2021_level_lau":"GM0200",
+    "eurostat:population":163829,
+    "eurostat:population_year":2020,
     "geom:area":0.044839,
-    "geom:area_square_m":339899225.32048,
+    "geom:area_square_m":339899225.320472,
     "geom:bbox":"5.72638886711,52.073338551,6.07848411705,52.2856694103",
     "geom:latitude":52.189885,
     "geom:longitude":5.921845,
@@ -231,7 +243,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"341",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Apeldoorn",
@@ -250,13 +263,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0200",
+        "eurostat:nuts_2021_id":"GM0200",
         "hasc:id":"NL.GE.AP"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8615364d16e139fe3f22fa02241c7a43",
+    "wof:geomhash":"b63487c43653b52b7ccc330936849c1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -267,12 +282,12 @@
         }
     ],
     "wof:id":404473867,
-    "wof:lastmodified":1582362771,
+    "wof:lastmodified":1684354014,
     "wof:name":"Apeldoorn",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":159025,
+    "wof:population":163829,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

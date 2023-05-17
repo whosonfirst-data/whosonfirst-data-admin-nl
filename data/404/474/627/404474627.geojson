@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1711",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Echt-Susteren",
+    "eurostat:nuts_2021_id":"GM1711",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL42",
+    "eurostat:nuts_2021_level_3":"NL422",
+    "eurostat:nuts_2021_level_lau":"GM1711",
+    "eurostat:population":31618,
+    "eurostat:population_year":2020,
     "geom:area":0.013421,
-    "geom:area_square_m":104244797.530631,
+    "geom:area_square_m":104244797.530634,
     "geom:bbox":"5.79510706449,51.0283383651,6.03649065874,51.1359621337",
     "geom:latitude":51.08504,
     "geom:longitude":5.908211,
@@ -132,7 +144,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -140,12 +153,15 @@
         85687033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1711",
+        "eurostat:nuts_2021_id":"GM1711"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"555499888014f16ac200df2ff129452e",
+    "wof:geomhash":"37b1f886b4e5d4c0f96f7d880d039f6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,11 +172,11 @@
         }
     ],
     "wof:id":404474627,
-    "wof:lastmodified":1582362809,
+    "wof:lastmodified":1684354053,
     "wof:name":"Echt-Susteren",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",
-    "wof:population":31943,
+    "wof:population":31618,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

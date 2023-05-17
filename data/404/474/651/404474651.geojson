@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1734",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Overbetuwe",
+    "eurostat:nuts_2021_id":"GM1734",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL226",
+    "eurostat:nuts_2021_level_lau":"GM1734",
+    "eurostat:population":47909,
+    "eurostat:population_year":2020,
     "geom:area":0.015037,
-    "geom:area_square_m":114670198.735632,
+    "geom:area_square_m":114670198.735634,
     "geom:bbox":"5.64632270405,51.8702653833,5.89803437632,51.9736486705",
     "geom:latitude":51.924302,
     "geom:longitude":5.778318,
@@ -126,7 +138,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"115",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Elst",
@@ -145,13 +158,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM1734",
+        "eurostat:nuts_2021_id":"GM1734",
         "hasc:id":"NL.GE.OV"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4f40243f052a22f4abbbe3aa3ab0a4b2",
+    "wof:geomhash":"ae7256929ced4f1d4763584472f1d77a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,12 +177,12 @@
         }
     ],
     "wof:id":404474651,
-    "wof:lastmodified":1582362813,
+    "wof:lastmodified":1684354055,
     "wof:name":"Overbetuwe",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":47002,
+    "wof:population":47909,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

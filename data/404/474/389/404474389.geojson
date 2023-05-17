@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0794",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Helmond",
+    "eurostat:nuts_2021_id":"GM0794",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL414",
+    "eurostat:nuts_2021_level_lau":"GM0794",
+    "eurostat:population":92432,
+    "eurostat:population_year":2020,
     "geom:area":0.007084,
-    "geom:area_square_m":54558022.097831,
+    "geom:area_square_m":54558022.097832,
     "geom:bbox":"5.57015603881,51.4380299792,5.73609360805,51.5092173399",
     "geom:latitude":51.47615,
     "geom:longitude":5.656963,
@@ -192,7 +204,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"55",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Helmond",
@@ -211,13 +224,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0794",
+        "eurostat:nuts_2021_id":"GM0794",
         "hasc:id":"NL.NB.HM"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7b53030c8bfcb22aa69d6142e5d0da41",
+    "wof:geomhash":"1ead06e67729bc3e2c8862b343423219",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -228,12 +243,12 @@
         }
     ],
     "wof:id":404474389,
-    "wof:lastmodified":1582362852,
+    "wof:lastmodified":1684354039,
     "wof:name":"Helmond",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":90127,
+    "wof:population":92432,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1930",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nissewaard",
+    "eurostat:nuts_2021_id":"GM1930",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL33",
+    "eurostat:nuts_2021_level_3":"NL33C",
+    "eurostat:nuts_2021_level_lau":"GM1930",
+    "eurostat:population":85237,
+    "eurostat:population_year":2020,
     "geom:area":0.011748,
-    "geom:area_square_m":89769748.765144,
+    "geom:area_square_m":89769748.765147,
     "geom:bbox":"4.15451281141,51.7851746109,4.43248233628,51.8729859113",
     "geom:latitude":51.832147,
     "geom:longitude":4.274949,
@@ -83,7 +95,8 @@
     "src:geom_alt":[
         "mz"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -91,12 +104,15 @@
         85687041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1930",
+        "eurostat:nuts_2021_id":"GM1930"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz"
     ],
-    "wof:geomhash":"ac38e3d248e5ebc18196c2a7ad6351bb",
+    "wof:geomhash":"74c08aba4e306ae63ca30925837fdc28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,11 +123,11 @@
         }
     ],
     "wof:id":1158824747,
-    "wof:lastmodified":1582362921,
+    "wof:lastmodified":1684354067,
     "wof:name":"Nissewaard",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",
-    "wof:population":85293,
+    "wof:population":85237,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

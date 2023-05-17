@@ -9,6 +9,18 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0482",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alblasserdam",
+    "eurostat:nuts_2021_id":"GM0482",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL33",
+    "eurostat:nuts_2021_level_3":"NL33A",
+    "eurostat:nuts_2021_level_lau":"GM0482",
+    "eurostat:population":20165,
+    "eurostat:population_year":2020,
     "geom:area":0.001313,
     "geom:area_square_m":10023778.309764,
     "geom:bbox":"4.626391,51.83865,4.70024,51.881212",
@@ -153,7 +165,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"10",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Alblasserdam",
@@ -172,6 +185,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0482",
+        "eurostat:nuts_2021_id":"GM0482",
         "hasc:id":"NL.ZH.AS"
     },
     "wof:coterminous":[
@@ -181,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f3e15e94d373906ae300ca93da782de9",
+    "wof:geomhash":"70953067ac0051fa69a85ac4a8001a41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,13 +207,13 @@
         }
     ],
     "wof:id":404474145,
-    "wof:lastmodified":1617130117,
+    "wof:lastmodified":1684354025,
     "wof:name":"Alblasserdam",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":19955,
-    "wof:population_rank":6,
+    "wof:population":20165,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

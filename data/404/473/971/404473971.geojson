@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amersfoort",
+    "eurostat:nuts_2021_id":"GM0307",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL31",
+    "eurostat:nuts_2021_level_3":"NL310",
+    "eurostat:nuts_2021_level_lau":"GM0307",
+    "eurostat:population":157279,
+    "eurostat:population_year":2020,
     "geom:area":0.008391,
-    "geom:area_square_m":63628548.073629,
+    "geom:area_square_m":63628548.073631,
     "geom:bbox":"5.30645863623,52.1083843871,5.48432966425,52.2191538477",
     "geom:latitude":52.173656,
     "geom:longitude":5.384698,
@@ -243,7 +255,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"64",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Amersfoort",
@@ -262,13 +275,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0307",
+        "eurostat:nuts_2021_id":"GM0307",
         "hasc:id":"NL.UT.AF"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4e312adbe95dedece7e45c1ffcfb5570",
+    "wof:geomhash":"0f34ec1a912b55b117e998a83bc14867",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -279,12 +294,12 @@
         }
     ],
     "wof:id":404473971,
-    "wof:lastmodified":1582362773,
+    "wof:lastmodified":1684354020,
     "wof:name":"Amersfoort",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":153602,
+    "wof:population":157279,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

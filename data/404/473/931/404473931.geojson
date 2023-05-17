@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0274",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Renkum",
+    "eurostat:nuts_2021_id":"GM0274",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL226",
+    "eurostat:nuts_2021_level_lau":"GM0274",
+    "eurostat:population":31404,
+    "eurostat:population_year":2020,
     "geom:area":0.006181,
-    "geom:area_square_m":47062867.894148,
+    "geom:area_square_m":47062867.894147,
     "geom:bbox":"5.71360821824,51.9589907864,5.87086024696,52.0240705829",
     "geom:latitude":51.989618,
     "geom:longitude":5.784843,
@@ -132,7 +144,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"47",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Oosterbeek",
@@ -151,13 +164,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0274",
+        "eurostat:nuts_2021_id":"GM0274",
         "hasc:id":"NL.GE.RE"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"815e88ca35031f93f2f2b4fd7141a2b8",
+    "wof:geomhash":"3643d29de8fb77b386c6fa7d180c5294",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,12 +183,12 @@
         }
     ],
     "wof:id":404473931,
-    "wof:lastmodified":1582362762,
+    "wof:lastmodified":1684354018,
     "wof:name":"Renkum",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":31254,
+    "wof:population":31404,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

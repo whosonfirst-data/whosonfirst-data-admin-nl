@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0879",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zundert",
+    "eurostat:nuts_2021_id":"GM0879",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL411",
+    "eurostat:nuts_2021_level_lau":"GM0879",
+    "eurostat:population":21821,
+    "eurostat:population_year":2020,
     "geom:area":0.015683,
-    "geom:area_square_m":120773153.33852,
+    "geom:area_square_m":120773153.338518,
     "geom:bbox":"4.52989646466,51.4220144468,4.74405974504,51.5497985422",
     "geom:latitude":51.479807,
     "geom:longitude":4.642659,
@@ -159,7 +171,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"120",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Zundert",
@@ -178,13 +191,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0879",
+        "eurostat:nuts_2021_id":"GM0879",
         "hasc:id":"NL.NB.ZU"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b5e3b52ffbe407d32b517c425a091ae1",
+    "wof:geomhash":"bf02eac51c79bb389616624c3613e7d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,12 +210,12 @@
         }
     ],
     "wof:id":404474459,
-    "wof:lastmodified":1582362848,
+    "wof:lastmodified":1684354042,
     "wof:name":"Zundert",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":21488,
+    "wof:population":21821,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

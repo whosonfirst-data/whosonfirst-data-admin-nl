@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0796",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"'s-Hertogenbosch",
+    "eurostat:nuts_2021_id":"GM0796",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL413",
+    "eurostat:nuts_2021_level_lau":"GM0796",
+    "eurostat:population":155113,
+    "eurostat:population_year":2020,
     "geom:area":0.015358,
-    "geom:area_square_m":117654262.326222,
+    "geom:area_square_m":117654262.326225,
     "geom:bbox":"5.20649417377,51.6639966413,5.49965606925,51.765030278",
     "geom:latitude":51.716721,
     "geom:longitude":5.35179,
@@ -261,7 +273,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -269,12 +282,15 @@
         85687035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM0796",
+        "eurostat:nuts_2021_id":"GM0796"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"672bdf74593533a7a82848b7fd5e7299",
+    "wof:geomhash":"c699f3ebafc0f26a72fce35fc68e1d95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -285,11 +301,11 @@
         }
     ],
     "wof:id":404474393,
-    "wof:lastmodified":1582362832,
+    "wof:lastmodified":1684354039,
     "wof:name":"'s-Hertogenbosch",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
-    "wof:population":151608,
+    "wof:population":155113,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

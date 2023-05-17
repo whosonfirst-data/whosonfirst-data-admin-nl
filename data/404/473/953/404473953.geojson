@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0296",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wijchen",
+    "eurostat:nuts_2021_id":"GM0296",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL226",
+    "eurostat:nuts_2021_level_lau":"GM0296",
+    "eurostat:population":41124,
+    "eurostat:population_year":2020,
     "geom:area":0.009068,
-    "geom:area_square_m":69314722.300473,
+    "geom:area_square_m":69314722.300476,
     "geom:bbox":"5.59797661608,51.7728510481,5.800948665,51.867449439",
     "geom:latitude":51.816736,
     "geom:longitude":5.70189,
@@ -141,7 +153,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"70",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Wijchen",
@@ -160,13 +173,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0296",
+        "eurostat:nuts_2021_id":"GM0296",
         "hasc:id":"NL.GE.WC"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"14756558f599f88d9c6554bb2a1a83c4",
+    "wof:geomhash":"d286fb0de3dce550267ed013748bc9d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,12 +192,12 @@
         }
     ],
     "wof:id":404473953,
-    "wof:lastmodified":1582362764,
+    "wof:lastmodified":1684354018,
     "wof:name":"Wijchen",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":40814,
+    "wof:population":41124,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

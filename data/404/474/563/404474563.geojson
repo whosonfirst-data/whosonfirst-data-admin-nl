@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1652",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gemert-Bakel",
+    "eurostat:nuts_2021_id":"GM1652",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL414",
+    "eurostat:nuts_2021_level_lau":"GM1652",
+    "eurostat:population":30725,
+    "eurostat:population_year":2020,
     "geom:area":0.01598,
-    "geom:area_square_m":122899948.601741,
+    "geom:area_square_m":122899948.601743,
     "geom:bbox":"5.65135725161,51.4840838508,5.85257370321,51.598208377",
     "geom:latitude":51.540755,
     "geom:longitude":5.754279,
@@ -132,7 +144,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"124",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Gemert",
@@ -151,13 +164,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM1652",
+        "eurostat:nuts_2021_id":"GM1652",
         "hasc:id":"NL.NB.GB"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d8ecc80c38058e1bc2824366ffa51284",
+    "wof:geomhash":"f7f1d6e5120d2cd4b894178bddb49343",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,12 +183,12 @@
         }
     ],
     "wof:id":404474563,
-    "wof:lastmodified":1582362831,
+    "wof:lastmodified":1684354046,
     "wof:name":"Gemert-Bakel",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":29647,
+    "wof:population":30725,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

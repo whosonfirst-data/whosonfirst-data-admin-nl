@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1685",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Landerd",
+    "eurostat:nuts_2021_id":"GM1685",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL413",
+    "eurostat:nuts_2021_level_lau":"GM1685",
+    "eurostat:population":15730,
+    "eurostat:population_year":2020,
     "geom:area":0.009197,
-    "geom:area_square_m":70454389.543813,
+    "geom:area_square_m":70454389.543812,
     "geom:bbox":"5.57627081855,51.6500617264,5.74254633281,51.7680458906",
     "geom:latitude":51.716658,
     "geom:longitude":5.658943,
@@ -123,7 +135,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"71",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Zeeland",
@@ -142,13 +155,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM1685",
+        "eurostat:nuts_2021_id":"GM1685",
         "hasc:id":"NL.NB.LN"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cfe378e9c8dd879deabff8673919bfff",
+    "wof:geomhash":"66211ea4051bbbdb1891aa365d5a7af3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,12 +174,12 @@
         }
     ],
     "wof:id":404474599,
-    "wof:lastmodified":1582362830,
+    "wof:lastmodified":1684354049,
     "wof:name":"Landerd",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":15303,
+    "wof:population":15730,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

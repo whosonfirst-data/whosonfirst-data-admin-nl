@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0225",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Druten",
+    "eurostat:nuts_2021_id":"GM0225",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL226",
+    "eurostat:nuts_2021_level_lau":"GM0225",
+    "eurostat:population":18918,
+    "eurostat:population_year":2020,
     "geom:area":0.005542,
-    "geom:area_square_m":42305331.184553,
+    "geom:area_square_m":42305331.184552,
     "geom:bbox":"5.53098133771,51.8362738451,5.68501378168,51.9018035576",
     "geom:latitude":51.875013,
     "geom:longitude":5.612148,
@@ -126,7 +138,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"43",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Druten",
@@ -145,13 +158,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0225",
+        "eurostat:nuts_2021_id":"GM0225",
         "hasc:id":"NL.GE.DR"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"05281312f2ac2561e0ac01390de1c376",
+    "wof:geomhash":"71701987340e4f4dfd3540fe6f09b2c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,12 +177,12 @@
         }
     ],
     "wof:id":404473889,
-    "wof:lastmodified":1582362768,
+    "wof:lastmodified":1684354015,
     "wof:name":"Druten",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":18407,
+    "wof:population":18918,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0798",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hilvarenbeek",
+    "eurostat:nuts_2021_id":"GM0798",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL412",
+    "eurostat:nuts_2021_level_lau":"GM0798",
+    "eurostat:population":15514,
+    "eurostat:population_year":2020,
     "geom:area":0.012487,
-    "geom:area_square_m":96164793.951002,
+    "geom:area_square_m":96164793.951006,
     "geom:bbox":"5.04879177665,51.4282402188,5.25124980529,51.5459189746",
     "geom:latitude":51.479531,
     "geom:longitude":5.145455,
@@ -120,7 +132,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"97",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Hilvarenbeek",
@@ -139,13 +152,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0798",
+        "eurostat:nuts_2021_id":"GM0798",
         "hasc:id":"NL.NB.HI"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4b8eca2e99c62ea78de937fd44c30d9d",
+    "wof:geomhash":"6b69c793acfad60784c4e967b79efe4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,12 +171,12 @@
         }
     ],
     "wof:id":404474397,
-    "wof:lastmodified":1582362804,
+    "wof:lastmodified":1684354040,
     "wof:name":"Hilvarenbeek",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":15164,
+    "wof:population":15514,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

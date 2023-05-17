@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0226",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Duiven",
+    "eurostat:nuts_2021_id":"GM0226",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL226",
+    "eurostat:nuts_2021_level_lau":"GM0226",
+    "eurostat:population":25124,
+    "eurostat:population_year":2020,
     "geom:area":0.0046,
-    "geom:area_square_m":35060708.63434,
+    "geom:area_square_m":35060708.634342,
     "geom:bbox":"5.96577546741,51.9123339588,6.06885248731,51.9818593159",
     "geom:latitude":51.946553,
     "geom:longitude":6.018177,
@@ -132,7 +144,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"35",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Duiven",
@@ -151,13 +164,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0226",
+        "eurostat:nuts_2021_id":"GM0226",
         "hasc:id":"NL.GE.DU"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"83bb9b8a5d1e3f402c2fdb3fefaf378f",
+    "wof:geomhash":"361439f752319e03c57846d76474166a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,12 +183,12 @@
         }
     ],
     "wof:id":404473891,
-    "wof:lastmodified":1582362782,
+    "wof:lastmodified":1684354015,
     "wof:name":"Duiven",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":25433,
+    "wof:population":25124,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

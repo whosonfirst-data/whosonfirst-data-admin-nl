@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0988",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Weert",
+    "eurostat:nuts_2021_id":"GM0988",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL42",
+    "eurostat:nuts_2021_level_3":"NL422",
+    "eurostat:nuts_2021_level_lau":"GM0988",
+    "eurostat:population":50107,
+    "eurostat:population_year":2020,
     "geom:area":0.013582,
-    "geom:area_square_m":105160372.138443,
+    "geom:area_square_m":105160372.138449,
     "geom:bbox":"5.56604527416,51.1804206939,5.79177000564,51.29057549",
     "geom:latitude":51.23361,
     "geom:longitude":5.691695,
@@ -147,7 +159,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"105",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Weert, Stramproy",
@@ -166,13 +179,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0988",
+        "eurostat:nuts_2021_id":"GM0988",
         "hasc:id":"NL.LI.WE"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"00e3d8d41b9e25932654aba8c5cba868",
+    "wof:geomhash":"57a96a718bfbd4bba87fe516b9ab7511",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,13 +198,13 @@
         }
     ],
     "wof:id":404474531,
-    "wof:lastmodified":1582362832,
+    "wof:lastmodified":1684354044,
     "wof:name":"Weert",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":49100,
-    "wof:population_rank":7,
+    "wof:population":50107,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

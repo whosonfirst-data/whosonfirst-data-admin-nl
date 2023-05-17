@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0150",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Deventer",
+    "eurostat:nuts_2021_id":"GM0150",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL21",
+    "eurostat:nuts_2021_level_3":"NL212",
+    "eurostat:nuts_2021_level_lau":"GM0150",
+    "eurostat:population":100718,
+    "eurostat:population_year":2020,
     "geom:area":0.017687,
-    "geom:area_square_m":133837665.300116,
+    "geom:area_square_m":133837665.300107,
     "geom:bbox":"6.10132037903,52.2174383039,6.38191174518,52.3211218548",
     "geom:latitude":52.26823,
     "geom:longitude":6.235794,
@@ -219,7 +231,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"105",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Deventer",
@@ -238,13 +251,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0150",
+        "eurostat:nuts_2021_id":"GM0150",
         "hasc:id":"NL.OV.DV"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e0323778f4403245fc293315d70b9f76",
+    "wof:geomhash":"5a857bc3ffcaa6ad9c3be27f1d6e177e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -255,13 +270,13 @@
         }
     ],
     "wof:id":404473825,
-    "wof:lastmodified":1582362780,
+    "wof:lastmodified":1684354010,
     "wof:name":"Deventer",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":98869,
-    "wof:population_rank":8,
+    "wof:population":100718,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

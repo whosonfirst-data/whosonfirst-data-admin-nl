@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0373",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bergen (NH.)",
+    "eurostat:nuts_2021_id":"GM0373",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL32",
+    "eurostat:nuts_2021_level_3":"NL328",
+    "eurostat:nuts_2021_level_lau":"GM0373",
+    "eurostat:population":29844,
+    "eurostat:population_year":2020,
     "geom:area":0.013015,
-    "geom:area_square_m":97606481.038953,
+    "geom:area_square_m":97606481.038958,
     "geom:bbox":"4.60991819602,52.5736999261,4.75246469609,52.7563287013",
     "geom:latitude":52.662816,
     "geom:longitude":4.670624,
@@ -47,7 +59,8 @@
         "quattroshapes",
         "mz"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -55,13 +68,16 @@
         85687053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM0373",
+        "eurostat:nuts_2021_id":"GM0373"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
         "quattroshapes"
     ],
-    "wof:geomhash":"7ce60a028b0533a97d52fce8e4d163f2",
+    "wof:geomhash":"d3ed4c626890544779f0504c856bf9f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +88,11 @@
         }
     ],
     "wof:id":404474041,
-    "wof:lastmodified":1582362806,
+    "wof:lastmodified":1684354022,
     "wof:name":"Bergen (NH.)",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",
-    "wof:population":29943,
+    "wof:population":29844,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

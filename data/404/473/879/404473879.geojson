@@ -9,6 +9,18 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0214",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buren",
+    "eurostat:nuts_2021_id":"GM0214",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL224",
+    "eurostat:nuts_2021_level_lau":"GM0214",
+    "eurostat:population":26742,
+    "eurostat:population_year":2020,
     "geom:area":0.018681,
     "geom:area_square_m":142408690.494892,
     "geom:bbox":"5.24192155967,51.8733949856,5.58661658753,51.9859476329",
@@ -135,7 +147,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"150",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Lienden",
@@ -154,13 +167,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0214",
+        "eurostat:nuts_2021_id":"GM0214",
         "hasc:id":"NL.GE.BU"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8f4fc43b4d0a6ff96ec2603000904d41",
+    "wof:geomhash":"6b8ee3bd2cce2a552a65edc187cfc331",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,12 +186,12 @@
         }
     ],
     "wof:id":404473879,
-    "wof:lastmodified":1582362779,
+    "wof:lastmodified":1684354015,
     "wof:name":"Buren",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":26202,
+    "wof:population":26742,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

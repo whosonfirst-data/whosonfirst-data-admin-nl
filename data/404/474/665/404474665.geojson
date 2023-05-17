@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1774",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dinkelland",
+    "eurostat:nuts_2021_id":"GM1774",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL21",
+    "eurostat:nuts_2021_level_3":"NL213",
+    "eurostat:nuts_2021_level_lau":"GM1774",
+    "eurostat:population":26470,
+    "eurostat:population_year":2020,
     "geom:area":0.023334,
-    "geom:area_square_m":176151054.619034,
+    "geom:area_square_m":176151054.619041,
     "geom:bbox":"6.75903535322,52.2729617675,7.07220470816,52.4697667946",
     "geom:latitude":52.373027,
     "geom:longitude":6.914216,
@@ -135,7 +147,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -143,12 +156,15 @@
         85687045
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1774",
+        "eurostat:nuts_2021_id":"GM1774"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bf9bedfe44d600aa9d0a1820bd6c30bc",
+    "wof:geomhash":"a96f52e1c7714f026b53d08a5eb1f911",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,11 +175,11 @@
         }
     ],
     "wof:id":404474665,
-    "wof:lastmodified":1582362847,
+    "wof:lastmodified":1684354055,
     "wof:name":"Dinkelland",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",
-    "wof:population":26120,
+    "wof:population":26470,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -10,8 +10,20 @@
     "cbsnl:gm_code":"GM0080",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leeuwarden",
+    "eurostat:nuts_2021_id":"GM0080",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL12",
+    "eurostat:nuts_2021_level_3":"NL124",
+    "eurostat:nuts_2021_level_lau":"GM0080",
+    "eurostat:population":124058,
+    "eurostat:population_year":2020,
     "geom:area":0.022865,
-    "geom:area_square_m":169546324.031541,
+    "geom:area_square_m":169546324.03154,
     "geom:bbox":"5.72976882005,53.0458492348,5.94965660726,53.2433329864",
     "geom:latitude":53.153771,
     "geom:longitude":5.826308,
@@ -290,7 +302,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"84",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Leeuwarden",
@@ -309,13 +322,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0080",
+        "eurostat:nuts_2021_id":"GM0080",
         "hasc:id":"NL.FR.LW"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c53f513f40c1722473ccc83d35d12524",
+    "wof:geomhash":"dcd5aa77de8dffa43255c6aa62cd04ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -326,12 +341,12 @@
         }
     ],
     "wof:id":404473775,
-    "wof:lastmodified":1582362785,
+    "wof:lastmodified":1684354007,
     "wof:name":"Leeuwarden",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":107897,
+    "wof:population":124058,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

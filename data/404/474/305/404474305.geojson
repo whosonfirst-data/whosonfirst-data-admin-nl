@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0668",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"West Maas en Waal",
+    "eurostat:nuts_2021_id":"GM0668",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL224",
+    "eurostat:nuts_2021_level_lau":"GM0668",
+    "eurostat:population":19320,
+    "eurostat:population_year":2020,
     "geom:area":0.011116,
-    "geom:area_square_m":84904236.035758,
+    "geom:area_square_m":84904236.035757,
     "geom:bbox":"5.40063321633,51.8095359744,5.60985752993,51.8947533669",
     "geom:latitude":51.851629,
     "geom:longitude":5.496599,
@@ -117,7 +129,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"86",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Beneden-Leeuwen",
@@ -136,13 +149,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0668",
+        "eurostat:nuts_2021_id":"GM0668",
         "hasc:id":"NL.GE.WM"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1451268610ef0605f6b1469d7f8f947d",
+    "wof:geomhash":"f8db7d91f7a1cf28140261daeebcbb8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,12 +168,12 @@
         }
     ],
     "wof:id":404474305,
-    "wof:lastmodified":1582362838,
+    "wof:lastmodified":1684354029,
     "wof:name":"West Maas en Waal",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":18693,
+    "wof:population":19320,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

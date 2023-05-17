@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0228",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ede",
+    "eurostat:nuts_2021_id":"GM0228",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL221",
+    "eurostat:nuts_2021_level_lau":"GM0228",
+    "eurostat:population":117166,
+    "eurostat:population_year":2020,
     "geom:area":0.041773,
-    "geom:area_square_m":317466307.608463,
+    "geom:area_square_m":317466307.608456,
     "geom:bbox":"5.54674477845,51.9909514568,5.95146574281,52.1522284704",
     "geom:latitude":52.076423,
     "geom:longitude":5.728037,
@@ -78,7 +90,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"321",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Ede",
@@ -97,13 +110,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0228",
+        "eurostat:nuts_2021_id":"GM0228",
         "hasc:id":"NL.GE.ED"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d04472ed6d811c25a6c2a156487585e8",
+    "wof:geomhash":"fa401061b4fb23816ce353a1c103c879",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,12 +129,12 @@
         }
     ],
     "wof:id":404473893,
-    "wof:lastmodified":1582362770,
+    "wof:lastmodified":1684354015,
     "wof:name":"Ede",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":112427,
+    "wof:population":117166,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

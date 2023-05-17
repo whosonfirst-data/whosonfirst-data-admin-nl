@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0392",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Haarlem",
+    "eurostat:nuts_2021_id":"GM0392",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL32",
+    "eurostat:nuts_2021_level_3":"NL324",
+    "eurostat:nuts_2021_level_lau":"GM0392",
+    "eurostat:population":162961,
+    "eurostat:population_year":2020,
     "geom:area":0.004236,
-    "geom:area_square_m":31971813.865445,
+    "geom:area_square_m":31971813.865444,
     "geom:bbox":"4.599516,52.338906,4.686921,52.42857",
     "geom:latitude":52.383416,
     "geom:longitude":4.647533,
@@ -285,7 +297,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"32",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Haarlem",
@@ -304,6 +317,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0392",
+        "eurostat:nuts_2021_id":"GM0392",
         "hasc:id":"NL.NH.HA"
     },
     "wof:coterminous":[
@@ -313,7 +328,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a221a4e44ce16705588d92ac6d650299",
+    "wof:geomhash":"70d6fa11fbb3d066ff9bcdf189575b7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -324,12 +339,12 @@
         }
     ],
     "wof:id":404474061,
-    "wof:lastmodified":1617131280,
+    "wof:lastmodified":1684354023,
     "wof:name":"Haarlem",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":158140,
+    "wof:population":162961,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

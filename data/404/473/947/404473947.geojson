@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0289",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wageningen",
+    "eurostat:nuts_2021_id":"GM0289",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL221",
+    "eurostat:nuts_2021_level_lau":"GM0289",
+    "eurostat:population":39673,
+    "eurostat:population_year":2020,
     "geom:area":0.004233,
-    "geom:area_square_m":32243367.279212,
+    "geom:area_square_m":32243367.279211,
     "geom:bbox":"5.605824,51.936405,5.724363,52.000708",
     "geom:latitude":51.973477,
     "geom:longitude":5.663516,
@@ -153,7 +165,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"32",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Wageningen",
@@ -172,6 +185,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0289",
+        "eurostat:nuts_2021_id":"GM0289",
         "hasc:id":"NL.GE.WG"
     },
     "wof:coterminous":[
@@ -181,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a3e61436d918c57409ab949ff126a83f",
+    "wof:geomhash":"b886f7554e2921ccd8103e8b302d92e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,12 +207,12 @@
         }
     ],
     "wof:id":404473947,
-    "wof:lastmodified":1607993826,
+    "wof:lastmodified":1684354018,
     "wof:name":"Wageningen",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":37837,
+    "wof:population":39673,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

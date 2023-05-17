@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0352",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wijk bij Duurstede",
+    "eurostat:nuts_2021_id":"GM0352",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL31",
+    "eurostat:nuts_2021_level_3":"NL310",
+    "eurostat:nuts_2021_level_lau":"GM0352",
+    "eurostat:population":23910,
+    "eurostat:population_year":2020,
     "geom:area":0.006596,
-    "geom:area_square_m":50222582.742692,
+    "geom:area_square_m":50222582.742688,
     "geom:bbox":"5.24235510699,51.9549191699,5.41527726454,52.0270014723",
     "geom:latitude":51.989201,
     "geom:longitude":5.325256,
@@ -123,7 +135,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"50",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Wijk bij Duurstede",
@@ -142,13 +155,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0352",
+        "eurostat:nuts_2021_id":"GM0352",
         "hasc:id":"NL.UT.WD"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9269252d63a08c89ca589dbe4e49ddcc",
+    "wof:geomhash":"38e7c45763b10d98ff46f1adb896e5ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,12 +174,12 @@
         }
     ],
     "wof:id":404474015,
-    "wof:lastmodified":1582362805,
+    "wof:lastmodified":1684354021,
     "wof:name":"Wijk bij Duurstede",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":23384,
+    "wof:population":23910,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

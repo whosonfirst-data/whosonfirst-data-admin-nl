@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0856",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Uden",
+    "eurostat:nuts_2021_id":"GM0856",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL413",
+    "eurostat:nuts_2021_level_lau":"GM0856",
+    "eurostat:population":42122,
+    "eurostat:population_year":2020,
     "geom:area":0.008772,
-    "geom:area_square_m":67291326.631855,
+    "geom:area_square_m":67291326.631854,
     "geom:bbox":"5.56196639246,51.6224963766,5.75047824257,51.7035265278",
     "geom:latitude":51.655487,
     "geom:longitude":5.651829,
@@ -123,7 +135,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"68",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Uden",
@@ -142,13 +155,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0856",
+        "eurostat:nuts_2021_id":"GM0856",
         "hasc:id":"NL.NB.UD"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d4103aa00d553e55cd3f28631a94cfcb",
+    "wof:geomhash":"171d3576d80fb1119e1a23c8be16d421",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,12 +174,12 @@
         }
     ],
     "wof:id":404474437,
-    "wof:lastmodified":1582362812,
+    "wof:lastmodified":1684354041,
     "wof:name":"Uden",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":41247,
+    "wof:population":42122,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

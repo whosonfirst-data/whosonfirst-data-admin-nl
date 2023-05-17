@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"2011-01-01",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eijsden-Margraten",
+    "eurostat:nuts_2021_id":"GM1903",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL42",
+    "eurostat:nuts_2021_level_3":"NL423",
+    "eurostat:nuts_2021_level_lau":"GM1903",
+    "eurostat:population":25753,
+    "eurostat:population_year":2020,
     "geom:area":0.007373,
-    "geom:area_square_m":57612795.87261,
+    "geom:area_square_m":57612795.872608,
     "geom:bbox":"5.73602201986,50.7557593116,5.8640154178,50.8557336443",
     "geom:latitude":50.806911,
     "geom:longitude":5.79377,
@@ -24,15 +36,20 @@
     "qs:source":"NLD Kadaster",
     "qs:type":"Gemeenten",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
         85687033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1903",
+        "eurostat:nuts_2021_id":"GM1903"
+    },
     "wof:country":"NL",
-    "wof:geomhash":"120658ab4c42f472de58072e04a20379",
+    "wof:geomhash":"e6359d4d330cf51dff217b2a59d6f516",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -42,10 +59,12 @@
         }
     ],
     "wof:id":404474497,
-    "wof:lastmodified":1513401738,
+    "wof:lastmodified":1684354043,
     "wof:name":"Margraten",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",
+    "wof:population":25753,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

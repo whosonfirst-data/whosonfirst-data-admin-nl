@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1724",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bergeijk",
+    "eurostat:nuts_2021_id":"GM1724",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL414",
+    "eurostat:nuts_2021_level_lau":"GM1724",
+    "eurostat:population":18638,
+    "eurostat:population_year":2020,
     "geom:area":0.013118,
-    "geom:area_square_m":101392526.00543,
+    "geom:area_square_m":101392526.005434,
     "geom:bbox":"5.225971943,51.2613531487,5.43392267391,51.3839050091",
     "geom:latitude":51.310149,
     "geom:longitude":5.340042,
@@ -117,7 +129,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"103",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Bergeijk",
@@ -136,13 +149,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM1724",
+        "eurostat:nuts_2021_id":"GM1724",
         "hasc:id":"NL.NB.BG"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0b85979dbad8c4d5019b5fd739e1d4b4",
+    "wof:geomhash":"688163b0269e3b779b8d11e606d18e36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,12 +168,12 @@
         }
     ],
     "wof:id":404474639,
-    "wof:lastmodified":1582362845,
+    "wof:lastmodified":1684354054,
     "wof:name":"Bergeijk",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":18253,
+    "wof:population":18638,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

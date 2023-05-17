@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Loppersum",
+    "eurostat:nuts_2021_id":"GM0024",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL11",
+    "eurostat:nuts_2021_level_3":"NL112",
+    "eurostat:nuts_2021_level_lau":"GM0024",
+    "eurostat:population":9533,
+    "eurostat:population_year":2020,
     "geom:area":0.015105,
-    "geom:area_square_m":111517562.03398,
+    "geom:area_square_m":111517562.033989,
     "geom:bbox":"6.59256346668,53.283086595,6.83892707626,53.4108646744",
     "geom:latitude":53.340695,
     "geom:longitude":6.728138,
@@ -45,7 +57,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"112",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Loppersum",
@@ -64,13 +77,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0024",
+        "eurostat:nuts_2021_id":"GM0024",
         "hasc:id":"NL.GR.LO"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cc3d28cf090948e2ed916f4810b97406",
+    "wof:geomhash":"4919a7c500a8ee2b9f23c26d5d86e2e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,13 +96,13 @@
         }
     ],
     "wof:id":404473723,
-    "wof:lastmodified":1582362774,
+    "wof:lastmodified":1684354006,
     "wof:name":"Loppersum",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":10042,
-    "wof:population_rank":6,
+    "wof:population":9533,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

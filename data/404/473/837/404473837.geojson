@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0164",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hengelo",
+    "eurostat:nuts_2021_id":"GM0164",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL21",
+    "eurostat:nuts_2021_level_3":"NL213",
+    "eurostat:nuts_2021_level_lau":"GM0164",
+    "eurostat:population":81147,
+    "eurostat:population_year":2020,
     "geom:area":0.008138,
-    "geom:area_square_m":61597677.009709,
+    "geom:area_square_m":61597677.009705,
     "geom:bbox":"6.70203913745,52.1910648983,6.85252734286,52.31358608",
     "geom:latitude":52.254918,
     "geom:longitude":6.778223,
@@ -183,7 +195,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"64",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Hengelo",
@@ -202,13 +215,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0164",
+        "eurostat:nuts_2021_id":"GM0164",
         "hasc:id":"NL.OV.HN"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f8b5f1b1c264387903631d54d999c358",
+    "wof:geomhash":"981f0d6964861acce0bdc0fc806cf11f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -219,12 +234,12 @@
         }
     ],
     "wof:id":404473837,
-    "wof:lastmodified":1582362782,
+    "wof:lastmodified":1684354011,
     "wof:name":"Hengelo",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":81075,
+    "wof:population":81147,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

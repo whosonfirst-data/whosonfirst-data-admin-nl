@@ -9,6 +9,18 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0946",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nederweert",
+    "eurostat:nuts_2021_id":"GM0946",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL42",
+    "eurostat:nuts_2021_level_3":"NL422",
+    "eurostat:nuts_2021_level_lau":"GM0946",
+    "eurostat:population":17022,
+    "eurostat:population_year":2020,
     "geom:area":0.013117,
     "geom:area_square_m":101419940.857331,
     "geom:bbox":"5.64399670898,51.2369247417,5.87782337043,51.3468770637",
@@ -132,7 +144,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"102",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Nederweert",
@@ -151,13 +164,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0946",
+        "eurostat:nuts_2021_id":"GM0946",
         "hasc:id":"NL.LI.NE"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e721200d4506405cf3e16c9edecd2158",
+    "wof:geomhash":"d295556d0ce356bd89569a1fdbd67bf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,12 +183,12 @@
         }
     ],
     "wof:id":404474507,
-    "wof:lastmodified":1582362832,
+    "wof:lastmodified":1684354043,
     "wof:name":"Nederweert",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":16793,
+    "wof:population":17022,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

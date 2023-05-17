@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0855",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tilburg",
+    "eurostat:nuts_2021_id":"GM0855",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL412",
+    "eurostat:nuts_2021_level_lau":"GM0855",
+    "eurostat:population":219800,
+    "eurostat:population_year":2020,
     "geom:area":0.015452,
-    "geom:area_square_m":118731065.514601,
+    "geom:area_square_m":118731065.514594,
     "geom:bbox":"4.94784595146,51.5295015118,5.17953901998,51.6405901428",
     "geom:latitude":51.57963,
     "geom:longitude":5.06853,
@@ -255,7 +267,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"119",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Tilburg",
@@ -274,13 +287,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0855",
+        "eurostat:nuts_2021_id":"GM0855",
         "hasc:id":"NL.NB.TI"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"de8d153c3db622457252ddbb56a140ba",
+    "wof:geomhash":"61da13d52bf5d3393af04bc63863308a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -291,12 +306,12 @@
         }
     ],
     "wof:id":404474435,
-    "wof:lastmodified":1582362848,
+    "wof:lastmodified":1684354041,
     "wof:name":"Tilburg",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":212941,
+    "wof:population":219800,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

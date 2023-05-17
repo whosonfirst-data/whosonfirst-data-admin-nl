@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0183",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tubbergen",
+    "eurostat:nuts_2021_id":"GM0183",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL21",
+    "eurostat:nuts_2021_level_3":"NL213",
+    "eurostat:nuts_2021_level_lau":"GM0183",
+    "eurostat:population":21279,
+    "eurostat:population_year":2020,
     "geom:area":0.019473,
-    "geom:area_square_m":146879688.682874,
+    "geom:area_square_m":146879688.682865,
     "geom:bbox":"6.66967171605,52.3296653475,6.94922399442,52.4781315501",
     "geom:latitude":52.410593,
     "geom:longitude":6.776674,
@@ -129,7 +141,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"147",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Tubbergen",
@@ -148,13 +161,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0183",
+        "eurostat:nuts_2021_id":"GM0183",
         "hasc:id":"NL.OV.TU"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"74a4229aac31201e75cd13b921bb8a39",
+    "wof:geomhash":"b5fcd2eba591231ed12bcd95132c79d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,12 +180,12 @@
         }
     ],
     "wof:id":404473855,
-    "wof:lastmodified":1582362784,
+    "wof:lastmodified":1684354013,
     "wof:name":"Tubbergen",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":21120,
+    "wof:population":21279,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

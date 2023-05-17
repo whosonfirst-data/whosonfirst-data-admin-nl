@@ -9,6 +9,18 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1586",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oost Gelre",
+    "eurostat:nuts_2021_id":"GM1586",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL225",
+    "eurostat:nuts_2021_level_lau":"GM1586",
+    "eurostat:population":29623,
+    "eurostat:population_year":2020,
     "geom:area":0.014415,
     "geom:area_square_m":109710983.592493,
     "geom:bbox":"6.45918682034,51.9625470129,6.68798117715,52.0680403163",
@@ -108,7 +120,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -116,12 +129,15 @@
         85687043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1586",
+        "eurostat:nuts_2021_id":"GM1586"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"312d06125cb9093d199cd638061b2545",
+    "wof:geomhash":"d6d926e2b8e2734072d6b489b75c7616",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,11 +148,11 @@
         }
     ],
     "wof:id":404474549,
-    "wof:lastmodified":1582362850,
+    "wof:lastmodified":1684354045,
     "wof:name":"Oost Gelre",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
-    "wof:population":29537,
+    "wof:population":29623,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1659",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laarbeek",
+    "eurostat:nuts_2021_id":"GM1659",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL414",
+    "eurostat:nuts_2021_level_lau":"GM1659",
+    "eurostat:population":22530,
+    "eurostat:population_year":2020,
     "geom:area":0.007276,
-    "geom:area_square_m":55966606.695391,
+    "geom:area_square_m":55966606.695393,
     "geom:bbox":"5.53308305045,51.4948831616,5.68600501208,51.5696785235",
     "geom:latitude":51.530923,
     "geom:longitude":5.611767,
@@ -123,7 +135,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"56",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Beek en Donk",
@@ -142,13 +155,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM1659",
+        "eurostat:nuts_2021_id":"GM1659",
         "hasc:id":"NL.NB.LB"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e5d5cbc4c4d223ce596ad676ade18bb9",
+    "wof:geomhash":"fa67e2e11dcbb8d9b3006a05a867ef2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,12 +174,12 @@
         }
     ],
     "wof:id":404474569,
-    "wof:lastmodified":1582362798,
+    "wof:lastmodified":1684354046,
     "wof:name":"Laarbeek",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":21965,
+    "wof:population":22530,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

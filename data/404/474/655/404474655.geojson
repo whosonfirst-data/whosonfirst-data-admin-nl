@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1740",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Neder-Betuwe",
+    "eurostat:nuts_2021_id":"GM1740",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL224",
+    "eurostat:nuts_2021_level_lau":"GM1740",
+    "eurostat:population":24342,
+    "eurostat:population_year":2020,
     "geom:area":0.008813,
-    "geom:area_square_m":67218957.668332,
+    "geom:area_square_m":67218957.668333,
     "geom:bbox":"5.45337649535,51.8890089478,5.71102153402,51.9540093278",
     "geom:latitude":51.91587,
     "geom:longitude":5.586876,
@@ -123,7 +135,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -131,12 +144,15 @@
         85687043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1740",
+        "eurostat:nuts_2021_id":"GM1740"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a3a15d3e791ff865d1c9b677a063ec6d",
+    "wof:geomhash":"7670b08bac65e9ac897b9a84ac8744a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,11 +163,11 @@
         }
     ],
     "wof:id":404474655,
-    "wof:lastmodified":1582362844,
+    "wof:lastmodified":1684354055,
     "wof:name":"Neder-Betuwe",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
-    "wof:population":23049,
+    "wof:population":24342,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
