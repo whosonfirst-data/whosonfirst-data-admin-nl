@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0736",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"De Ronde Venen",
+    "eurostat:nuts_2021_id":"GM0736",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL31",
+    "eurostat:nuts_2021_level_3":"NL310",
+    "eurostat:nuts_2021_level_lau":"GM0736",
+    "eurostat:population":44457,
+    "eurostat:population_year":2020,
     "geom:area":0.015388,
-    "geom:area_square_m":116550897.471373,
+    "geom:area_square_m":116550897.471362,
     "geom:bbox":"4.79441904489,52.1614608117,5.02192616614,52.3036770356",
     "geom:latitude":52.226344,
     "geom:longitude":4.917328,
@@ -123,7 +135,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"85",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Mijdrecht",
@@ -142,13 +155,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0736",
+        "eurostat:nuts_2021_id":"GM0736",
         "hasc:id":"NL.UT.DV"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d86417137c4acbd974b396b943728ae4",
+    "wof:geomhash":"52820e7fcd08161c697e0afbb12c4d8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,12 +174,12 @@
         }
     ],
     "wof:id":404474341,
-    "wof:lastmodified":1582362821,
+    "wof:lastmodified":1684354037,
     "wof:name":"De Ronde Venen",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":42576,
+    "wof:population":44457,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

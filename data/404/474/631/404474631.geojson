@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1719",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Drimmelen",
+    "eurostat:nuts_2021_id":"GM1719",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL411",
+    "eurostat:nuts_2021_level_lau":"GM1719",
+    "eurostat:population":27274,
+    "eurostat:population_year":2020,
     "geom:area":0.015528,
-    "geom:area_square_m":118999626.122432,
+    "geom:area_square_m":118999626.12243,
     "geom:bbox":"4.64513658576,51.6288625627,4.85312617029,51.7665683035",
     "geom:latitude":51.700162,
     "geom:longitude":4.75877,
@@ -123,7 +135,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"119",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Made",
@@ -142,13 +155,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM1719",
+        "eurostat:nuts_2021_id":"GM1719",
         "hasc:id":"NL.NB.DR"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"acb143838e81859308958b55e795ea4b",
+    "wof:geomhash":"08e7b9a56acd959e85518ceca05ee79e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,12 +174,12 @@
         }
     ],
     "wof:id":404474631,
-    "wof:lastmodified":1582362849,
+    "wof:lastmodified":1684354053,
     "wof:name":"Drimmelen",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":26815,
+    "wof:population":27274,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

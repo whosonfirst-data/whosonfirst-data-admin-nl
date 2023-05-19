@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"De Bilt",
+    "eurostat:nuts_2021_id":"GM0310",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL31",
+    "eurostat:nuts_2021_level_3":"NL310",
+    "eurostat:nuts_2021_level_lau":"GM0310",
+    "eurostat:population":43124,
+    "eurostat:population_year":2020,
     "geom:area":0.008814,
-    "geom:area_square_m":66886988.884681,
+    "geom:area_square_m":66886988.884683,
     "geom:bbox":"5.09488971522,52.0848955902,5.23093038657,52.2042734256",
     "geom:latitude":52.141741,
     "geom:longitude":5.174306,
@@ -132,7 +144,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"67",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Bilthoven",
@@ -151,13 +164,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0310",
+        "eurostat:nuts_2021_id":"GM0310",
         "hasc:id":"NL.UT.DB"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"83b2de08aedb635d80ad56356e7cbcdc",
+    "wof:geomhash":"890a34efddeb408326d6687fc791cf45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,12 +183,12 @@
         }
     ],
     "wof:id":404473975,
-    "wof:lastmodified":1582362790,
+    "wof:lastmodified":1684354020,
     "wof:name":"De Bilt",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":42375,
+    "wof:population":43124,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0193",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zwolle",
+    "eurostat:nuts_2021_id":"GM0193",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL21",
+    "eurostat:nuts_2021_level_3":"NL211",
+    "eurostat:nuts_2021_level_lau":"GM0193",
+    "eurostat:population":128831,
+    "eurostat:population_year":2020,
     "geom:area":0.015804,
-    "geom:area_square_m":118914657.919083,
+    "geom:area_square_m":118914657.919084,
     "geom:bbox":"6.003619,52.440531,6.210811,52.58794",
     "geom:latitude":52.5187,
     "geom:longitude":6.118366,
@@ -270,7 +282,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"101",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Zwolle",
@@ -289,6 +302,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0193",
+        "eurostat:nuts_2021_id":"GM0193",
         "hasc:id":"NL.OV.ZL"
     },
     "wof:coterminous":[
@@ -298,7 +313,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9fe37b7b9607a27ed499c2717782076f",
+    "wof:geomhash":"51acd68f05004f5ff17041f8925401f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,12 +324,12 @@
         }
     ],
     "wof:id":404473861,
-    "wof:lastmodified":1617130033,
+    "wof:lastmodified":1684354014,
     "wof:name":"Zwolle",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":124896,
+    "wof:population":128831,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

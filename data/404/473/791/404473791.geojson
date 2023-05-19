@@ -10,8 +10,20 @@
     "cbsnl:gm_code":"GM0090",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Smallingerland",
+    "eurostat:nuts_2021_id":"GM0090",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL12",
+    "eurostat:nuts_2021_level_3":"NL126",
+    "eurostat:nuts_2021_level_lau":"GM0090",
+    "eurostat:population":56154,
+    "eurostat:population_year":2020,
     "geom:area":0.016932,
-    "geom:area_square_m":125668926.391307,
+    "geom:area_square_m":125668926.391311,
     "geom:bbox":"5.87031258958,53.070785272,6.18571669582,53.1595045133",
     "geom:latitude":53.113412,
     "geom:longitude":6.038961,
@@ -158,7 +170,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"126",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Drachten",
@@ -177,13 +190,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0090",
+        "eurostat:nuts_2021_id":"GM0090",
         "hasc:id":"NL.FR.SM"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9a73a52b2acfec018d1903c3f647346b",
+    "wof:geomhash":"8f686dabb7fc5e8155e274e8820dc900",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,12 +209,12 @@
         }
     ],
     "wof:id":404473791,
-    "wof:lastmodified":1582362766,
+    "wof:lastmodified":1684354008,
     "wof:name":"Smallingerland",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":55439,
+    "wof:population":56154,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

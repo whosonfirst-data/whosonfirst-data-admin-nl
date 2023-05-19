@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0275",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rheden",
+    "eurostat:nuts_2021_id":"GM0275",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL226",
+    "eurostat:nuts_2021_level_lau":"GM0275",
+    "eurostat:population":43736,
+    "eurostat:population_year":2020,
     "geom:area":0.011048,
-    "geom:area_square_m":84041839.221892,
+    "geom:area_square_m":84041839.221897,
     "geom:bbox":"5.95152632207,51.9744060919,6.1374692314,52.0882470439",
     "geom:latitude":52.033546,
     "geom:longitude":6.051269,
@@ -135,7 +147,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"84",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"De Steeg",
@@ -154,13 +167,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0275",
+        "eurostat:nuts_2021_id":"GM0275",
         "hasc:id":"NL.GE.RH"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f6af532649abbd6bcbf713be4a3fe7e5",
+    "wof:geomhash":"072a5786509a61e89faa48f065d8f437",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,12 +186,12 @@
         }
     ],
     "wof:id":404473933,
-    "wof:lastmodified":1582362778,
+    "wof:lastmodified":1684354018,
     "wof:name":"Rheden",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":43824,
+    "wof:population":43736,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

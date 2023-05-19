@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0762",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Deurne",
+    "eurostat:nuts_2021_id":"GM0762",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL414",
+    "eurostat:nuts_2021_level_lau":"GM0762",
+    "eurostat:population":32474,
+    "eurostat:population_year":2020,
     "geom:area":0.0153,
-    "geom:area_square_m":117934603.86714,
+    "geom:area_square_m":117934603.867143,
     "geom:bbox":"5.71718643869,51.3525349661,5.93128751658,51.504144425",
     "geom:latitude":51.436238,
     "geom:longitude":5.826932,
@@ -66,7 +78,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"119",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Deurne",
@@ -85,13 +98,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0762",
+        "eurostat:nuts_2021_id":"GM0762",
         "hasc:id":"NL.NB.DE"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"55bd93b36fcc9d5dd09f8137c7a28589",
+    "wof:geomhash":"b5a28421a7a9144e8605de8ce3694e27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,12 +117,12 @@
         }
     ],
     "wof:id":404474365,
-    "wof:lastmodified":1582362802,
+    "wof:lastmodified":1684354039,
     "wof:name":"Deurne",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":31878,
+    "wof:population":32474,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

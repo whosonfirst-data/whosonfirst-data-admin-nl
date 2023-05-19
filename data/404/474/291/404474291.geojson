@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0642",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zwijndrecht",
+    "eurostat:nuts_2021_id":"GM0642",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL33",
+    "eurostat:nuts_2021_level_3":"NL33A",
+    "eurostat:nuts_2021_level_lau":"GM0642",
+    "eurostat:population":44741,
+    "eurostat:population_year":2020,
     "geom:area":0.002969,
-    "geom:area_square_m":22692558.708163,
+    "geom:area_square_m":22692558.708165,
     "geom:bbox":"4.55360870086,51.8007599793,4.67170869012,51.847116775",
     "geom:latitude":51.821843,
     "geom:longitude":4.605798,
@@ -96,7 +108,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"16",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Zwijndrecht",
@@ -115,13 +128,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0642",
+        "eurostat:nuts_2021_id":"GM0642",
         "hasc:id":"NL.ZH.ZW"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"87e1be38b87518bec0c2641df85a3f6d",
+    "wof:geomhash":"9d67611f5ce2bacf909afcfb5a068380",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,12 +147,12 @@
         }
     ],
     "wof:id":404474291,
-    "wof:lastmodified":1582362846,
+    "wof:lastmodified":1684354027,
     "wof:name":"Zwijndrecht",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":44454,
+    "wof:population":44741,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

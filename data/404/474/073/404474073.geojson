@@ -9,6 +9,18 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0397",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Heemstede",
+    "eurostat:nuts_2021_id":"GM0397",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL32",
+    "eurostat:nuts_2021_level_3":"NL324",
+    "eurostat:nuts_2021_level_lau":"GM0397",
+    "eurostat:population":27239,
+    "eurostat:population_year":2020,
     "geom:area":0.001272,
     "geom:area_square_m":9608370.260854,
     "geom:bbox":"4.590186,52.322205,4.641034,52.363405",
@@ -156,7 +168,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"10",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Heemstede",
@@ -175,6 +188,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0397",
+        "eurostat:nuts_2021_id":"GM0397",
         "hasc:id":"NL.NH.HE"
     },
     "wof:coterminous":[
@@ -184,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"29c26809eb0f68e3bd70bbb533ec730e",
+    "wof:geomhash":"8b53cff34e9ea67daff054c83328cb86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,12 +210,12 @@
         }
     ],
     "wof:id":404474073,
-    "wof:lastmodified":1617131205,
+    "wof:lastmodified":1684354023,
     "wof:name":"Heemstede",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":26766,
+    "wof:population":27239,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0437",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ouder-Amstel",
+    "eurostat:nuts_2021_id":"GM0437",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL32",
+    "eurostat:nuts_2021_level_3":"NL329",
+    "eurostat:nuts_2021_level_lau":"GM0437",
+    "eurostat:population":14029,
+    "eurostat:population_year":2020,
     "geom:area":0.003396,
-    "geom:area_square_m":25687506.424686,
+    "geom:area_square_m":25687506.424689,
     "geom:bbox":"4.87012126681,52.2507426342,4.95524052511,52.3386382475",
     "geom:latitude":52.289386,
     "geom:longitude":4.913526,
@@ -150,7 +162,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"26",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Ouderkerk aan de Amstel",
@@ -169,13 +182,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0437",
+        "eurostat:nuts_2021_id":"GM0437",
         "hasc:id":"NL.NH.OA"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a678d3a9205b97355f164bcc39df5eac",
+    "wof:geomhash":"00c4162aa79c2c4a3a4cccc8031f3233",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,12 +201,12 @@
         }
     ],
     "wof:id":404474109,
-    "wof:lastmodified":1582362830,
+    "wof:lastmodified":1684354024,
     "wof:name":"Ouder-Amstel",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":13411,
+    "wof:population":14029,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0158",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Haaksbergen",
+    "eurostat:nuts_2021_id":"GM0158",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL21",
+    "eurostat:nuts_2021_level_3":"NL213",
+    "eurostat:nuts_2021_level_lau":"GM0158",
+    "eurostat:population":24309,
+    "eurostat:population_year":2020,
     "geom:area":0.013855,
-    "geom:area_square_m":105105065.802628,
+    "geom:area_square_m":105105065.802627,
     "geom:bbox":"6.62434734584,52.1180694899,6.88975026077,52.2063314326",
     "geom:latitude":52.155499,
     "geom:longitude":6.755841,
@@ -135,7 +147,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"106",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Haaksbergen",
@@ -154,13 +167,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0158",
+        "eurostat:nuts_2021_id":"GM0158",
         "hasc:id":"NL.OV.HK"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9eaf7bed9c6c6194189dbc6ba9b3b17f",
+    "wof:geomhash":"5689d96f8dae4729a771d91558819042",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,12 +186,12 @@
         }
     ],
     "wof:id":404473829,
-    "wof:lastmodified":1582362767,
+    "wof:lastmodified":1684354011,
     "wof:name":"Haaksbergen",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":24332,
+    "wof:population":24309,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0294",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Winterswijk",
+    "eurostat:nuts_2021_id":"GM0294",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL225",
+    "eurostat:nuts_2021_level_lau":"GM0294",
+    "eurostat:population":28865,
+    "eurostat:population_year":2020,
     "geom:area":0.018155,
-    "geom:area_square_m":138304341.678677,
+    "geom:area_square_m":138304341.678687,
     "geom:bbox":"6.62907127196,51.8960633366,6.83280161801,52.0400647091",
     "geom:latitude":51.969869,
     "geom:longitude":6.725866,
@@ -135,7 +147,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"138",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Winterswijk",
@@ -154,13 +167,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0294",
+        "eurostat:nuts_2021_id":"GM0294",
         "hasc:id":"NL.GE.WW"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9f1fd92ed72b6039a294c6418b7282c0",
+    "wof:geomhash":"ddec8fc5531a4fc8cba936f72d7b4a0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,12 +186,12 @@
         }
     ],
     "wof:id":404473951,
-    "wof:lastmodified":1582362776,
+    "wof:lastmodified":1684354018,
     "wof:name":"Winterswijk",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":28939,
+    "wof:population":28865,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

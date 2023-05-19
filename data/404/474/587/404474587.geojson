@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1674",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roosendaal",
+    "eurostat:nuts_2021_id":"GM1674",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL411",
+    "eurostat:nuts_2021_level_lau":"GM1674",
+    "eurostat:population":77226,
+    "eurostat:population_year":2020,
     "geom:area":0.013876,
-    "geom:area_square_m":106778450.126874,
+    "geom:area_square_m":106778450.126876,
     "geom:bbox":"4.30680889965,51.4514872626,4.5231915623,51.5692348231",
     "geom:latitude":51.513198,
     "geom:longitude":4.424518,
@@ -165,7 +177,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"107",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Roosendaal",
@@ -184,13 +197,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM1674",
+        "eurostat:nuts_2021_id":"GM1674",
         "hasc:id":"NL.NB.RO"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"951ff9a0eff156eb753f8315a38a6aa0",
+    "wof:geomhash":"c8f6dc930b44f292d0e2d571fda0410c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,12 +216,12 @@
         }
     ],
     "wof:id":404474587,
-    "wof:lastmodified":1582362827,
+    "wof:lastmodified":1684354046,
     "wof:name":"Roosendaal",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":76960,
+    "wof:population":77226,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

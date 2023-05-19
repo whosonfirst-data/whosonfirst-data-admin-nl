@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0613",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albrandswaard",
+    "eurostat:nuts_2021_id":"GM0613",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL33",
+    "eurostat:nuts_2021_level_3":"NL33C",
+    "eurostat:nuts_2021_level_lau":"GM0613",
+    "eurostat:population":25589,
+    "eurostat:population_year":2020,
     "geom:area":0.003099,
-    "geom:area_square_m":23669580.073808,
+    "geom:area_square_m":23669580.073807,
     "geom:bbox":"4.3832286714,51.8316454132,4.49222711491,51.8731981966",
     "geom:latitude":51.852041,
     "geom:longitude":4.43571,
@@ -141,7 +153,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"24",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Rhoon",
@@ -160,13 +173,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0613",
+        "eurostat:nuts_2021_id":"GM0613",
         "hasc:id":"NL.ZH.AW"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"93bf9ca62ea41b878544b04105a25539",
+    "wof:geomhash":"833114ff77e38e3f70fa33186386fa25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,12 +192,12 @@
         }
     ],
     "wof:id":404474263,
-    "wof:lastmodified":1582362848,
+    "wof:lastmodified":1684354027,
     "wof:name":"Albrandswaard",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":24985,
+    "wof:population":25589,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1700",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Twenterand",
+    "eurostat:nuts_2021_id":"GM1700",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL21",
+    "eurostat:nuts_2021_level_3":"NL213",
+    "eurostat:nuts_2021_level_lau":"GM1700",
+    "eurostat:population":33743,
+    "eurostat:population_year":2020,
     "geom:area":0.014294,
-    "geom:area_square_m":107724622.195918,
+    "geom:area_square_m":107724622.195932,
     "geom:bbox":"6.44745006558,52.3836277628,6.71770668631,52.4949807334",
     "geom:latitude":52.447886,
     "geom:longitude":6.598059,
@@ -126,7 +138,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -134,12 +147,15 @@
         85687045
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1700",
+        "eurostat:nuts_2021_id":"GM1700"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"081f16c56e3e04f9760c9e6911201670",
+    "wof:geomhash":"b18e88028d693b339018f92f70002218",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,11 +166,11 @@
         }
     ],
     "wof:id":404474611,
-    "wof:lastmodified":1582362810,
+    "wof:lastmodified":1684354051,
     "wof:name":"Twenterand",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",
-    "wof:population":33846,
+    "wof:population":33743,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

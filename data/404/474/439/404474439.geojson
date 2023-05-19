@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0858",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valkenswaard",
+    "eurostat:nuts_2021_id":"GM0858",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL414",
+    "eurostat:nuts_2021_level_lau":"GM0858",
+    "eurostat:population":31200,
+    "eurostat:population_year":2020,
     "geom:area":0.007286,
-    "geom:area_square_m":56301282.246435,
+    "geom:area_square_m":56301282.246434,
     "geom:bbox":"5.38780362706,51.2622857301,5.52718053507,51.3783355139",
     "geom:latitude":51.323767,
     "geom:longitude":5.449247,
@@ -126,7 +138,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"57",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Valkenswaard",
@@ -145,13 +158,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0858",
+        "eurostat:nuts_2021_id":"GM0858",
         "hasc:id":"NL.NB.VA"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4985dd91b65ba060fa45c11cff2a2383",
+    "wof:geomhash":"47e3fc88d4cf9e674140b63c14527b59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,12 +177,12 @@
         }
     ],
     "wof:id":404474439,
-    "wof:lastmodified":1582362812,
+    "wof:lastmodified":1684354041,
     "wof:name":"Valkenswaard",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":30262,
+    "wof:population":31200,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

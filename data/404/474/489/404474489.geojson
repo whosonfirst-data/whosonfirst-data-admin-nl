@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0928",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kerkrade",
+    "eurostat:nuts_2021_id":"GM0928",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL42",
+    "eurostat:nuts_2021_level_3":"NL423",
+    "eurostat:nuts_2021_level_lau":"GM0928",
+    "eurostat:population":45744,
+    "eurostat:population_year":2020,
     "geom:area":0.002829,
-    "geom:area_square_m":22072777.729748,
+    "geom:area_square_m":22072777.729749,
     "geom:bbox":"6.000568,50.843676,6.088102,50.90577",
     "geom:latitude":50.871829,
     "geom:longitude":6.050979,
@@ -165,7 +177,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"22",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Kerkrade",
@@ -184,6 +197,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0928",
+        "eurostat:nuts_2021_id":"GM0928",
         "hasc:id":"NL.LI.KR"
     },
     "wof:coterminous":[
@@ -193,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cdc4d27f52b4e8d45172b718c6fc237a",
+    "wof:geomhash":"d07c5fe97e9f7c7894b46644b43d01aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,12 +219,12 @@
         }
     ],
     "wof:id":404474489,
-    "wof:lastmodified":1617131272,
+    "wof:lastmodified":1684354043,
     "wof:name":"Kerkrade",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":46023,
+    "wof:population":45744,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

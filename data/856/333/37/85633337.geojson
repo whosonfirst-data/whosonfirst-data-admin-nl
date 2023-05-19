@@ -4,8 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:level_code":"0",
+    "eurostat:name_latin":"Nederland",
+    "eurostat:name_local":"Nederland",
+    "eurostat:nuts_2021_id":"NL",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:population":17590672,
+    "eurostat:population_year":2022,
     "geom:area":5.456195,
-    "geom:area_square_m":41238965973.081795,
+    "geom:area_square_m":41238965973.08181,
     "geom:bbox":"3.30944,50.750667,7.230902,53.565815",
     "geom:latitude":52.317332,
     "geom:longitude":5.530858,
@@ -1329,7 +1337,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:dial":"31",
     "statoids:ds":"NL",
     "statoids:fifa":"NED",
@@ -1357,6 +1366,7 @@
     "wof:concordances":{
         "dbp:id":"Netherlands",
         "digitalenvoy:country_code":528,
+        "eurostat:nuts_2021_id":"NL",
         "fb:id":"en.netherlands",
         "fifa:id":"NED",
         "fips:code":"NL",
@@ -1388,7 +1398,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"83a33fa813d29c44a07e4d57ad13b3c0",
+    "wof:geomhash":"0129914430688576d1057170f896e971",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1404,11 +1414,11 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1617827635,
+    "wof:lastmodified":1684351330,
     "wof:name":"Netherlands",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":16645000,
+    "wof:population":17590672,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:shortcode":"NL",

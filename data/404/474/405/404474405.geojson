@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0820",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nuenen, Gerwen en Nederwetten",
+    "eurostat:nuts_2021_id":"GM0820",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL414",
+    "eurostat:nuts_2021_level_lau":"GM0820",
+    "eurostat:population":23379,
+    "eurostat:population_year":2020,
     "geom:area":0.004392,
-    "geom:area_square_m":33823016.383543,
+    "geom:area_square_m":33823016.383545,
     "geom:bbox":"5.505409,51.433912,5.605232,51.538076",
     "geom:latitude":51.47861,
     "geom:longitude":5.549461,
@@ -48,7 +60,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"34",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Nuenen",
@@ -67,13 +80,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0820",
+        "eurostat:nuts_2021_id":"GM0820",
         "hasc:id":"NL.NB.NG"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a5908cd7ab624f3108e4acf48e1a6064",
+    "wof:geomhash":"583b36a7e2391055ce47c16d18fe9438",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,12 +99,12 @@
         }
     ],
     "wof:id":404474405,
-    "wof:lastmodified":1617131437,
+    "wof:lastmodified":1684354040,
     "wof:name":"Nuenen, Gerwen en Nederwetten",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":22763,
+    "wof:population":23379,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

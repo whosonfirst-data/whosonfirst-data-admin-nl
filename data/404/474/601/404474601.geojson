@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1690",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"De Wolden",
+    "eurostat:nuts_2021_id":"GM1690",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL13",
+    "eurostat:nuts_2021_level_3":"NL133",
+    "eurostat:nuts_2021_level_lau":"GM1690",
+    "eurostat:population":24327,
+    "eurostat:population_year":2020,
     "geom:area":0.030092,
-    "geom:area_square_m":225472543.862577,
+    "geom:area_square_m":225472543.862592,
     "geom:bbox":"6.21631980777,52.6121955131,6.53055581607,52.7989789761",
     "geom:latitude":52.701694,
     "geom:longitude":6.373419,
@@ -141,7 +153,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"299",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Zuidwolde, Ruinen",
@@ -160,13 +173,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM1690",
+        "eurostat:nuts_2021_id":"GM1690",
         "hasc:id":"NL.DR.DW"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e7a99e4536972a47589aa4407cf0ff1f",
+    "wof:geomhash":"ef05fb3793d51a5d1e1246682fff84be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,12 +192,12 @@
         }
     ],
     "wof:id":404474601,
-    "wof:lastmodified":1582362846,
+    "wof:lastmodified":1684354049,
     "wof:name":"De Wolden",
     "wof:parent_id":85687051,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":23722,
+    "wof:population":24327,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -10,8 +10,20 @@
     "cbsnl:gm_code":"GM1900",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1900",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00fadwest-Frysl\u00e2n",
+    "eurostat:nuts_2021_id":"GM1900",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL12",
+    "eurostat:nuts_2021_level_3":"NL125",
+    "eurostat:nuts_2021_level_lau":"GM1900",
+    "eurostat:population":89987,
+    "eurostat:population_year":2020,
     "geom:area":0.067677,
-    "geom:area_square_m":503456312.58768,
+    "geom:area_square_m":503456312.587673,
     "geom:bbox":"5.16588307248,52.8481349197,5.78822925736,53.1538140346",
     "geom:latitude":53.014137,
     "geom:longitude":5.537312,
@@ -36,7 +48,8 @@
     "src:geom_alt":[
         "mz"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -44,12 +57,15 @@
         85687055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1900",
+        "eurostat:nuts_2021_id":"GM1900"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz"
     ],
-    "wof:geomhash":"70c397719ef6572b8ff27040bb5fde78",
+    "wof:geomhash":"bbb7ecc4e7c312594206ab3354360331",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,11 +76,11 @@
         }
     ],
     "wof:id":1141960735,
-    "wof:lastmodified":1582362956,
+    "wof:lastmodified":1684354057,
     "wof:name":"Sudwest-Fryslan",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",
-    "wof:population":84048,
+    "wof:population":89987,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

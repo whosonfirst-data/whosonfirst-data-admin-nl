@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0766",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dongen",
+    "eurostat:nuts_2021_id":"GM0766",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL412",
+    "eurostat:nuts_2021_level_lau":"GM0766",
+    "eurostat:population":26226,
+    "eurostat:population_year":2020,
     "geom:area":0.003861,
-    "geom:area_square_m":29633684.108689,
+    "geom:area_square_m":29633684.108691,
     "geom:bbox":"4.90427921127,51.6070930547,5.00449659592,51.6789179991",
     "geom:latitude":51.635888,
     "geom:longitude":4.955446,
@@ -123,7 +135,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"30",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Dongen",
@@ -142,13 +155,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0766",
+        "eurostat:nuts_2021_id":"GM0766",
         "hasc:id":"NL.NB.DO"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5914623b2a5fb3bcf4822eaf81669f2f",
+    "wof:geomhash":"b60d3b5124334e5f69116f06bec2ef59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,12 +174,12 @@
         }
     ],
     "wof:id":404474369,
-    "wof:lastmodified":1582362832,
+    "wof:lastmodified":1684354039,
     "wof:name":"Dongen",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":25413,
+    "wof:population":26226,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

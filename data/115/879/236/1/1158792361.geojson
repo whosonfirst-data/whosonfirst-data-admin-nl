@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1895",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oldambt",
+    "eurostat:nuts_2021_id":"GM1895",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL11",
+    "eurostat:nuts_2021_level_3":"NL111",
+    "eurostat:nuts_2021_level_lau":"GM1895",
+    "eurostat:population":38213,
+    "eurostat:population_year":2020,
     "geom:area":0.032334,
-    "geom:area_square_m":239526142.345574,
+    "geom:area_square_m":239526142.345588,
     "geom:bbox":"6.90330008404,53.1108310601,7.22749837393,53.3305889201",
     "geom:latitude":53.195104,
     "geom:longitude":7.05573,
@@ -45,7 +57,8 @@
         "cbsnl"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -53,12 +66,15 @@
         85687059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1895",
+        "eurostat:nuts_2021_id":"GM1895"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "cbsnl"
     ],
-    "wof:geomhash":"b56397c9315e822c0ef7bc2ba2421e36",
+    "wof:geomhash":"6e4ee7a246d086f1f8d3abde871b8d12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,11 +85,11 @@
         }
     ],
     "wof:id":1158792361,
-    "wof:lastmodified":1582362907,
+    "wof:lastmodified":1684354060,
     "wof:name":"Oldambt",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",
-    "wof:population":38228,
+    "wof:population":38213,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

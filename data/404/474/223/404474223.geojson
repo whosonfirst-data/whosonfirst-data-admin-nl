@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0575",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Noordwijk",
+    "eurostat:nuts_2021_id":"GM0575",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL33",
+    "eurostat:nuts_2021_level_3":"NL337",
+    "eurostat:nuts_2021_level_lau":"GM0575",
+    "eurostat:population":43528,
+    "eurostat:population_year":2020,
     "geom:area":0.003084,
-    "geom:area_square_m":23333679.20998,
+    "geom:area_square_m":23333679.209977,
     "geom:bbox":"4.45268194455,52.2324497067,4.56370743306,52.3150010992",
     "geom:latitude":52.271465,
     "geom:longitude":4.505973,
@@ -129,7 +141,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"23",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Noordwijkerhout",
@@ -148,13 +161,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0575",
+        "eurostat:nuts_2021_id":"GM0575",
         "hasc:id":"NL.ZH.NH"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"98436dc17a3b7bbedac744616ea3716c",
+    "wof:geomhash":"ec9575230e46a534fee55b58a4a0107a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,13 +180,13 @@
         }
     ],
     "wof:id":404474223,
-    "wof:lastmodified":1582362840,
+    "wof:lastmodified":1684354026,
     "wof:name":"Noordwijkerhout",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":16140,
-    "wof:population_rank":6,
+    "wof:population":43528,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

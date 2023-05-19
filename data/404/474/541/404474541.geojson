@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1507",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Horst aan de Maas",
+    "eurostat:nuts_2021_id":"GM1507",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL42",
+    "eurostat:nuts_2021_level_3":"NL421",
+    "eurostat:nuts_2021_level_lau":"GM1507",
+    "eurostat:population":42433,
+    "eurostat:population_year":2020,
     "geom:area":0.024813,
-    "geom:area_square_m":191231180.180605,
+    "geom:area_square_m":191231180.180599,
     "geom:bbox":"5.87496589361,51.3780498899,6.17897963498,51.5247773458",
     "geom:latitude":51.444866,
     "geom:longitude":6.041694,
@@ -54,7 +66,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"130",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Horst",
@@ -73,13 +86,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM1507",
+        "eurostat:nuts_2021_id":"GM1507",
         "hasc:id":"NL.LI.HM"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9443abe2fbcbbb73f51ff498ec107fc2",
+    "wof:geomhash":"b540d8ad8d84655bcc76752c6ce4bcd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,12 +105,12 @@
         }
     ],
     "wof:id":404474541,
-    "wof:lastmodified":1582362854,
+    "wof:lastmodified":1684354044,
     "wof:name":"Horst aan de Maas",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":41675,
+    "wof:population":42433,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

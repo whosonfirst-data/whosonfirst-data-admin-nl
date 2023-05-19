@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0797",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Heusden",
+    "eurostat:nuts_2021_id":"GM0797",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL413",
+    "eurostat:nuts_2021_level_lau":"GM0797",
+    "eurostat:population":44699,
+    "eurostat:population_year":2020,
     "geom:area":0.010559,
-    "geom:area_square_m":80930056.851958,
+    "geom:area_square_m":80930056.85195,
     "geom:bbox":"5.08176024175,51.6353604306,5.25161194557,51.7430917451",
     "geom:latitude":51.696771,
     "geom:longitude":5.160201,
@@ -132,7 +144,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"79",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Vlijmen, Drunen",
@@ -151,13 +164,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0797",
+        "eurostat:nuts_2021_id":"GM0797",
         "hasc:id":"NL.NB.HS"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ffcd529f4b0d92f31cb5f735cd491692",
+    "wof:geomhash":"ffc91d8ed8a23ccdf7a54bb556b5e439",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,12 +183,12 @@
         }
     ],
     "wof:id":404474395,
-    "wof:lastmodified":1582362828,
+    "wof:lastmodified":1684354040,
     "wof:name":"Heusden",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":43274,
+    "wof:population":44699,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

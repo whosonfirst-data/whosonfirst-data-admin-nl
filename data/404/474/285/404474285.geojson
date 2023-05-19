@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0632",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Woerden",
+    "eurostat:nuts_2021_id":"GM0632",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL31",
+    "eurostat:nuts_2021_level_3":"NL310",
+    "eurostat:nuts_2021_level_lau":"GM0632",
+    "eurostat:population":52294,
+    "eurostat:population_year":2020,
     "geom:area":0.012191,
-    "geom:area_square_m":92585281.974759,
+    "geom:area_square_m":92585281.974764,
     "geom:bbox":"4.79204272305,52.0649499869,5.00501126085,52.1620507773",
     "geom:latitude":52.106941,
     "geom:longitude":4.898887,
@@ -135,7 +147,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"93",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Woerden",
@@ -154,13 +167,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0632",
+        "eurostat:nuts_2021_id":"GM0632",
         "hasc:id":"NL.UT.WR"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"63c207db51b46a7926c3278d84503193",
+    "wof:geomhash":"892bbd331ad7470825e4922f608fbb92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,12 +186,12 @@
         }
     ],
     "wof:id":404474285,
-    "wof:lastmodified":1582362842,
+    "wof:lastmodified":1684354027,
     "wof:name":"Woerden",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":51161,
+    "wof:population":52294,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

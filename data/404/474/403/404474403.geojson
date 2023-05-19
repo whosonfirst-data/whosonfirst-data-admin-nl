@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0815",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mill en Sint Hubert",
+    "eurostat:nuts_2021_id":"GM0815",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL413",
+    "eurostat:nuts_2021_level_lau":"GM0815",
+    "eurostat:population":10941,
+    "eurostat:population_year":2020,
     "geom:area":0.006912,
-    "geom:area_square_m":52984401.235998,
+    "geom:area_square_m":52984401.236001,
     "geom:bbox":"5.69996020379,51.6326679803,5.84280501602,51.7264150757",
     "geom:latitude":51.685845,
     "geom:longitude":5.768041,
@@ -117,7 +129,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"51",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Mill",
@@ -136,13 +149,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0815",
+        "eurostat:nuts_2021_id":"GM0815",
         "hasc:id":"NL.NB.MS"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"24dd447a92c2be7cdfd5e2786d9385ea",
+    "wof:geomhash":"dec0ad298a0d982b8876807ab229b1c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,12 +168,12 @@
         }
     ],
     "wof:id":404474403,
-    "wof:lastmodified":1582362849,
+    "wof:lastmodified":1684354040,
     "wof:name":"Mill en Sint Hubert",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":10801,
+    "wof:population":10941,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

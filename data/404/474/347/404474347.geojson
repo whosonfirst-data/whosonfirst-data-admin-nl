@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0743",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Asten",
+    "eurostat:nuts_2021_id":"GM0743",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL414",
+    "eurostat:nuts_2021_level_lau":"GM0743",
+    "eurostat:population":16734,
+    "eurostat:population_year":2020,
     "geom:area":0.009212,
-    "geom:area_square_m":71085578.519778,
+    "geom:area_square_m":71085578.519781,
     "geom:bbox":"5.69398345246,51.333804589,5.8703595653,51.4400669014",
     "geom:latitude":51.386415,
     "geom:longitude":5.779206,
@@ -72,7 +84,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"70",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Asten",
@@ -91,13 +104,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0743",
+        "eurostat:nuts_2021_id":"GM0743",
         "hasc:id":"NL.NB.AS"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1a50897a4c7395118d775f11f86f15e4",
+    "wof:geomhash":"7bb60a7add42afdf1553d288052d791a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,12 +123,12 @@
         }
     ],
     "wof:id":404474347,
-    "wof:lastmodified":1582362826,
+    "wof:lastmodified":1684354038,
     "wof:name":"Asten",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":16580,
+    "wof:population":16734,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

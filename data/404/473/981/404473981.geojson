@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0312",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bunnik",
+    "eurostat:nuts_2021_id":"GM0312",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL31",
+    "eurostat:nuts_2021_level_3":"NL310",
+    "eurostat:nuts_2021_level_lau":"GM0312",
+    "eurostat:population":15191,
+    "eurostat:population_year":2020,
     "geom:area":0.004922,
-    "geom:area_square_m":37433520.846484,
+    "geom:area_square_m":37433520.846483,
     "geom:bbox":"5.15303062587,51.9977420629,5.28015323261,52.0805626858",
     "geom:latitude":52.040921,
     "geom:longitude":5.216923,
@@ -123,7 +135,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"38",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Odijk",
@@ -142,13 +155,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0312",
+        "eurostat:nuts_2021_id":"GM0312",
         "hasc:id":"NL.UT.BK"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"79907f3c314ac3df84038d1e97cef735",
+    "wof:geomhash":"b5f3ede3dce0e9c5b05fbe6c45d6400c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,12 +174,12 @@
         }
     ],
     "wof:id":404473981,
-    "wof:lastmodified":1582362790,
+    "wof:lastmodified":1684354020,
     "wof:name":"Bunnik",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":14773,
+    "wof:population":15191,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

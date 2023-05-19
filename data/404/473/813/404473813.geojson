@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meppel",
+    "eurostat:nuts_2021_id":"GM0119",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL13",
+    "eurostat:nuts_2021_level_3":"NL133",
+    "eurostat:nuts_2021_level_lau":"GM0119",
+    "eurostat:population":33902,
+    "eurostat:population_year":2020,
     "geom:area":0.007584,
-    "geom:area_square_m":56808551.482507,
+    "geom:area_square_m":56808551.482502,
     "geom:bbox":"6.12006366016,52.6679877431,6.28670016218,52.7730542554",
     "geom:latitude":52.715938,
     "geom:longitude":6.193813,
@@ -153,7 +165,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"58",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Meppel",
@@ -172,13 +185,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0119",
+        "eurostat:nuts_2021_id":"GM0119",
         "hasc:id":"NL.DR.ME"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fb9b3d7419917035eb1d256d7385ce15",
+    "wof:geomhash":"fc052ce28e8d5c3e3af082316dce62be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,12 +204,12 @@
         }
     ],
     "wof:id":404473813,
-    "wof:lastmodified":1582362780,
+    "wof:lastmodified":1684354010,
     "wof:name":"Meppel",
     "wof:parent_id":85687051,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":32794,
+    "wof:population":33902,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

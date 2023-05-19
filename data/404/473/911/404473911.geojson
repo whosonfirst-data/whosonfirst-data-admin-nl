@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0246",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Heerde",
+    "eurostat:nuts_2021_id":"GM0246",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL221",
+    "eurostat:nuts_2021_level_lau":"GM0246",
+    "eurostat:population":18587,
+    "eurostat:population_year":2020,
     "geom:area":0.010621,
-    "geom:area_square_m":80121104.694917,
+    "geom:area_square_m":80121104.694913,
     "geom:bbox":"5.95100480395,52.3565124387,6.13055287279,52.4548064404",
     "geom:latitude":52.406062,
     "geom:longitude":6.050334,
@@ -135,7 +147,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"80",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Heerde",
@@ -154,13 +167,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0246",
+        "eurostat:nuts_2021_id":"GM0246",
         "hasc:id":"NL.GE.HR"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3c0cb56d8d2f20429e50b400a4867765",
+    "wof:geomhash":"3f6589ffd902b35a67e3fdf8d0d92834",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,12 +186,12 @@
         }
     ],
     "wof:id":404473911,
-    "wof:lastmodified":1582362785,
+    "wof:lastmodified":1684354016,
     "wof:name":"Heerde",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":18556,
+    "wof:population":18587,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

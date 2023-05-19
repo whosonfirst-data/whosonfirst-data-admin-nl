@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0222",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Doetinchem",
+    "eurostat:nuts_2021_id":"GM0222",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL225",
+    "eurostat:nuts_2021_level_lau":"GM0222",
+    "eurostat:population":58009,
+    "eurostat:population_year":2020,
     "geom:area":0.010416,
-    "geom:area_square_m":79365587.365817,
+    "geom:area_square_m":79365587.365816,
     "geom:bbox":"6.14468833499,51.9227820235,6.41608186643,51.9942607111",
     "geom:latitude":51.960772,
     "geom:longitude":6.286692,
@@ -171,7 +183,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"53",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Doetinchem",
@@ -190,13 +203,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0222",
+        "eurostat:nuts_2021_id":"GM0222",
         "hasc:id":"NL.GE.DT"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1be4d16cb9fde7ebe00256a14f0f1cac",
+    "wof:geomhash":"74e6a1f7536bafc7371b5984bff36b28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -207,12 +222,12 @@
         }
     ],
     "wof:id":404473885,
-    "wof:lastmodified":1582362780,
+    "wof:lastmodified":1684354015,
     "wof:name":"Doetinchem",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":56827,
+    "wof:population":58009,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

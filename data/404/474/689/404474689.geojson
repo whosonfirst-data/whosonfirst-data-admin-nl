@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1955",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montferland",
+    "eurostat:nuts_2021_id":"GM1955",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL225",
+    "eurostat:nuts_2021_level_lau":"GM1955",
+    "eurostat:population":36009,
+    "eurostat:population_year":2020,
     "geom:area":0.013931,
-    "geom:area_square_m":106250623.259949,
+    "geom:area_square_m":106250623.259944,
     "geom:bbox":"6.08951443831,51.8676262042,6.33227917154,51.9805186968",
     "geom:latitude":51.916893,
     "geom:longitude":6.213732,
@@ -120,7 +132,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -128,12 +141,15 @@
         85687043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1955",
+        "eurostat:nuts_2021_id":"GM1955"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"84803568be4a3ef7507273720f094033",
+    "wof:geomhash":"9d2c99e6fd04592db34fe6a30561b114",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,11 +160,11 @@
         }
     ],
     "wof:id":404474689,
-    "wof:lastmodified":1582362808,
+    "wof:lastmodified":1684354057,
     "wof:name":"Montferland",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
-    "wof:population":35173,
+    "wof:population":36009,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1721",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bernheze",
+    "eurostat:nuts_2021_id":"GM1721",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL413",
+    "eurostat:nuts_2021_level_lau":"GM1721",
+    "eurostat:population":31247,
+    "eurostat:population_year":2020,
     "geom:area":0.011751,
-    "geom:area_square_m":90083935.827151,
+    "geom:area_square_m":90083935.827153,
     "geom:bbox":"5.42338980128,51.6266859785,5.60060556157,51.7406068024",
     "geom:latitude":51.684694,
     "geom:longitude":5.520681,
@@ -135,7 +147,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"90",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Heesch",
@@ -154,13 +167,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM1721",
+        "eurostat:nuts_2021_id":"GM1721",
         "hasc:id":"NL.NB.BH"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e662588a85d6c73f39bdcfa3612873fb",
+    "wof:geomhash":"6ea711ac3d1d27d54c28d34ce2786c17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,12 +186,12 @@
         }
     ],
     "wof:id":404474633,
-    "wof:lastmodified":1582362811,
+    "wof:lastmodified":1684354054,
     "wof:name":"Bernheze",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":29880,
+    "wof:population":31247,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

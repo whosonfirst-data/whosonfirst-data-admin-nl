@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0216",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Culemborg",
+    "eurostat:nuts_2021_id":"GM0216",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL224",
+    "eurostat:nuts_2021_level_lau":"GM0216",
+    "eurostat:population":28956,
+    "eurostat:population_year":2020,
     "geom:area":0.004071,
-    "geom:area_square_m":31031760.461693,
+    "geom:area_square_m":31031760.46169,
     "geom:bbox":"5.142433,51.91963,5.270374,51.97894",
     "geom:latitude":51.945779,
     "geom:longitude":5.210388,
@@ -135,7 +147,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"31",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Culemborg",
@@ -154,6 +167,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0216",
+        "eurostat:nuts_2021_id":"GM0216",
         "hasc:id":"NL.GE.CU"
     },
     "wof:coterminous":[
@@ -163,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8f82b0b3c1b8bf87262553fc1f754f56",
+    "wof:geomhash":"2a799d35a5c54f452b4ce687b1ef1ab5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,12 +189,12 @@
         }
     ],
     "wof:id":404473881,
-    "wof:lastmodified":1617130652,
+    "wof:lastmodified":1684354015,
     "wof:name":"Culemborg",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":27644,
+    "wof:population":28956,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

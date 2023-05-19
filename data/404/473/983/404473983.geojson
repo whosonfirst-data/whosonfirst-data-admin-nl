@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0313",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bunschoten",
+    "eurostat:nuts_2021_id":"GM0313",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL31",
+    "eurostat:nuts_2021_level_3":"NL310",
+    "eurostat:nuts_2021_level_lau":"GM0313",
+    "eurostat:population":21867,
+    "eurostat:population_year":2020,
     "geom:area":0.004052,
-    "geom:area_square_m":30681951.963296,
+    "geom:area_square_m":30681951.963299,
     "geom:bbox":"5.31045635275,52.2055277074,5.40350200047,52.2740133099",
     "geom:latitude":52.238682,
     "geom:longitude":5.35797,
@@ -120,7 +132,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"36",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Bunschoten",
@@ -139,13 +152,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0313",
+        "eurostat:nuts_2021_id":"GM0313",
         "hasc:id":"NL.UT.BS"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"574317201f77496ebbb620eaffbe982d",
+    "wof:geomhash":"3940eaaecb91ebe9fc731cfc2cd5e7a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,12 +171,12 @@
         }
     ],
     "wof:id":404473983,
-    "wof:lastmodified":1582362771,
+    "wof:lastmodified":1684354020,
     "wof:name":"Bunschoten",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":20823,
+    "wof:population":21867,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

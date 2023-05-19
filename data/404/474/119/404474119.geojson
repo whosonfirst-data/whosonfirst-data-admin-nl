@@ -9,6 +9,18 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0451",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Uithoorn",
+    "eurostat:nuts_2021_id":"GM0451",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL32",
+    "eurostat:nuts_2021_level_3":"NL329",
+    "eurostat:nuts_2021_level_lau":"GM0451",
+    "eurostat:population":29466,
+    "eurostat:population_year":2020,
     "geom:area":0.002555,
     "geom:area_square_m":19347745.388936,
     "geom:bbox":"4.72365517922,52.2065164202,4.85218720716,52.2610155817",
@@ -147,7 +159,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"19",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Uithoorn",
@@ -166,13 +179,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0451",
+        "eurostat:nuts_2021_id":"GM0451",
         "hasc:id":"NL.NH.UH"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"55bb02455fa449c5c53c9fc30ba107f2",
+    "wof:geomhash":"00adf16819b47f305c2faa68f7c18757",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,12 +198,12 @@
         }
     ],
     "wof:id":404474119,
-    "wof:lastmodified":1582362827,
+    "wof:lastmodified":1684354025,
     "wof:name":"Uithoorn",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":29181,
+    "wof:population":29466,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

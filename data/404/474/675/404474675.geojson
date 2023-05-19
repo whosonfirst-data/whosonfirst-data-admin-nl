@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1883",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sittard-Geleen",
+    "eurostat:nuts_2021_id":"GM1883",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL42",
+    "eurostat:nuts_2021_level_3":"NL423",
+    "eurostat:nuts_2021_level_lau":"GM1883",
+    "eurostat:population":92422,
+    "eurostat:population_year":2020,
     "geom:area":0.01032,
-    "geom:area_square_m":80295700.916132,
+    "geom:area_square_m":80295700.916133,
     "geom:bbox":"5.75800232381,50.9463983336,5.9055174169,51.0726098621",
     "geom:latitude":51.004872,
     "geom:longitude":5.828193,
@@ -162,7 +174,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"80",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Sittard, Geleen, Born",
@@ -181,13 +194,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM1883",
+        "eurostat:nuts_2021_id":"GM1883",
         "hasc:id":"NL.LI.SG"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"749b146dbf17016d4ed61dd114d5dd98",
+    "wof:geomhash":"4328b7acdc5664c2ac8ac086b6b79020",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -198,12 +213,12 @@
         }
     ],
     "wof:id":404474675,
-    "wof:lastmodified":1582362804,
+    "wof:lastmodified":1684354056,
     "wof:name":"Sittard-Geleen",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":93555,
+    "wof:population":92422,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

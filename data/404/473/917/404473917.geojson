@@ -9,6 +9,18 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0263",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maasdriel",
+    "eurostat:nuts_2021_id":"GM0263",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL224",
+    "eurostat:nuts_2021_level_lau":"GM0263",
+    "eurostat:population":25034,
+    "eurostat:population_year":2020,
     "geom:area":0.009828,
     "geom:area_square_m":75192710.198183,
     "geom:bbox":"5.17367236008,51.7335807066,5.41622292862,51.8376587708",
@@ -132,7 +144,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"75",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Kerkdriel",
@@ -151,13 +164,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0263",
+        "eurostat:nuts_2021_id":"GM0263",
         "hasc:id":"NL.GE.MA"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"01de64fdc98d0c538cb9337a0216d664",
+    "wof:geomhash":"b65feaf3870b9199165939d1d50e1a52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,12 +183,12 @@
         }
     ],
     "wof:id":404473917,
-    "wof:lastmodified":1582362789,
+    "wof:lastmodified":1684354017,
     "wof:name":"Maasdriel",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":24084,
+    "wof:population":25034,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1708",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Steenwijkerland",
+    "eurostat:nuts_2021_id":"GM1708",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL21",
+    "eurostat:nuts_2021_level_3":"NL211",
+    "eurostat:nuts_2021_level_lau":"GM1708",
+    "eurostat:population":44139,
+    "eurostat:population_year":2020,
     "geom:area":0.042805,
-    "geom:area_square_m":320334265.502443,
+    "geom:area_square_m":320334265.502434,
     "geom:bbox":"5.79517703465,52.6413632744,6.2017307426,52.8542149431",
     "geom:latitude":52.755581,
     "geom:longitude":6.029977,
@@ -134,7 +146,8 @@
         "quattroshapes",
         "mz"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -142,13 +155,16 @@
         85687045
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1708",
+        "eurostat:nuts_2021_id":"GM1708"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
         "quattroshapes"
     ],
-    "wof:geomhash":"53539cefde5306ce445b28398e8f4994",
+    "wof:geomhash":"3f3cfaebae934a2155cf0bcbb520ff21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,11 +175,11 @@
         }
     ],
     "wof:id":404474621,
-    "wof:lastmodified":1582362806,
+    "wof:lastmodified":1684354052,
     "wof:name":"Steenwijkerland",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",
-    "wof:population":43333,
+    "wof:population":44139,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

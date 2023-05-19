@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lingewaard",
+    "eurostat:nuts_2021_id":"GM1705",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL226",
+    "eurostat:nuts_2021_level_lau":"GM1705",
+    "eurostat:population":46606,
+    "eurostat:population_year":2020,
     "geom:area":0.00903,
-    "geom:area_square_m":68893735.280383,
+    "geom:area_square_m":68893735.280379,
     "geom:bbox":"5.85687424573,51.8544492972,6.04628469421,51.9604156609",
     "geom:latitude":51.901537,
     "geom:longitude":5.942223,
@@ -123,7 +135,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -131,12 +144,15 @@
         85687043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1705",
+        "eurostat:nuts_2021_id":"GM1705"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ccb5c7a8104b0373434da87604c3dc53",
+    "wof:geomhash":"19d9a08fca7f0f93778dd3e4d9b43513",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,11 +163,11 @@
         }
     ],
     "wof:id":404474617,
-    "wof:lastmodified":1582362806,
+    "wof:lastmodified":1684354052,
     "wof:name":"Lingewaard",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
-    "wof:population":45950,
+    "wof:population":46606,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0262",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lochem",
+    "eurostat:nuts_2021_id":"GM0262",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL225",
+    "eurostat:nuts_2021_level_lau":"GM0262",
+    "eurostat:population":33730,
+    "eurostat:population_year":2020,
     "geom:area":0.028375,
-    "geom:area_square_m":215145022.390215,
+    "geom:area_square_m":215145022.390208,
     "geom:bbox":"6.15607870792,52.0969079885,6.4943728289,52.2461128061",
     "geom:latitude":52.179476,
     "geom:longitude":6.346806,
@@ -123,7 +135,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"129",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Lochem",
@@ -142,13 +155,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0262",
+        "eurostat:nuts_2021_id":"GM0262",
         "hasc:id":"NL.GE.LO"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9596d4f4e9834791664ec9c0d838d7e7",
+    "wof:geomhash":"d5f38a514262e1faf7e5cd48f6ee23d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,12 +174,12 @@
         }
     ],
     "wof:id":404473915,
-    "wof:lastmodified":1582362772,
+    "wof:lastmodified":1684354017,
     "wof:name":"Lochem",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":33333,
+    "wof:population":33730,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

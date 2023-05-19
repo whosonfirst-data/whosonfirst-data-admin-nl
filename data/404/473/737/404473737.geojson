@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Veendam",
+    "eurostat:nuts_2021_id":"GM0047",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL11",
+    "eurostat:nuts_2021_level_3":"NL111",
+    "eurostat:nuts_2021_level_lau":"GM0047",
+    "eurostat:population":27387,
+    "eurostat:population_year":2020,
     "geom:area":0.010551,
-    "geom:area_square_m":78356350.893493,
+    "geom:area_square_m":78356350.893485,
     "geom:bbox":"6.80167395345,53.0324064784,6.96191382847,53.1288397304",
     "geom:latitude":53.08899,
     "geom:longitude":6.880092,
@@ -150,7 +162,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"79",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Veendam",
@@ -169,13 +182,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0047",
+        "eurostat:nuts_2021_id":"GM0047",
         "hasc:id":"NL.GR.VE"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"013ab9169550ed388465a93c80175381",
+    "wof:geomhash":"b4c01756beadb5c2a65b6406be72b2af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,12 +201,12 @@
         }
     ],
     "wof:id":404473737,
-    "wof:lastmodified":1582362765,
+    "wof:lastmodified":1684354006,
     "wof:name":"Veendam",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":27467,
+    "wof:population":27387,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

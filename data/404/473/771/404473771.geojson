@@ -10,8 +10,20 @@
     "cbsnl:gm_code":"GM0074",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Heerenveen",
+    "eurostat:nuts_2021_id":"GM0074",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL12",
+    "eurostat:nuts_2021_level_3":"NL126",
+    "eurostat:nuts_2021_level_lau":"GM0074",
+    "eurostat:population":50494,
+    "eurostat:population_year":2020,
     "geom:area":0.026522,
-    "geom:area_square_m":197382819.789123,
+    "geom:area_square_m":197382819.789117,
     "geom:bbox":"5.79550788025,52.9117404401,6.20542364028,53.0852079096",
     "geom:latitude":52.995987,
     "geom:longitude":5.977911,
@@ -191,7 +203,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"140",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Heerenveen",
@@ -210,13 +223,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0074",
+        "eurostat:nuts_2021_id":"GM0074",
         "hasc:id":"NL.FR.HE"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"80519ee8effd2fb9afea050bc419f39f",
+    "wof:geomhash":"01de927fe9021da89fb5be34fa0efa4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -227,12 +242,12 @@
         }
     ],
     "wof:id":404473771,
-    "wof:lastmodified":1582362772,
+    "wof:lastmodified":1684354007,
     "wof:name":"Heerenveen",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":50290,
+    "wof:population":50494,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

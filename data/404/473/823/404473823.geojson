@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0148",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dalfsen",
+    "eurostat:nuts_2021_id":"GM0148",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL21",
+    "eurostat:nuts_2021_level_3":"NL211",
+    "eurostat:nuts_2021_level_lau":"GM0148",
+    "eurostat:population":28585,
+    "eurostat:population_year":2020,
     "geom:area":0.022045,
-    "geom:area_square_m":165888948.703117,
+    "geom:area_square_m":165888948.703124,
     "geom:bbox":"6.16249545879,52.4244406728,6.38415004791,52.5991710744",
     "geom:latitude":52.514761,
     "geom:longitude":6.276648,
@@ -138,7 +150,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"179",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Dalfsen",
@@ -157,13 +170,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0148",
+        "eurostat:nuts_2021_id":"GM0148",
         "hasc:id":"NL.OV.DA"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"34610bfbdb9e4349c26aaffdc344951b",
+    "wof:geomhash":"0a184cf262c22b8de22e3c6c1a8638fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,12 +189,12 @@
         }
     ],
     "wof:id":404473823,
-    "wof:lastmodified":1582362779,
+    "wof:lastmodified":1684354010,
     "wof:name":"Dalfsen",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":27916,
+    "wof:population":28585,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

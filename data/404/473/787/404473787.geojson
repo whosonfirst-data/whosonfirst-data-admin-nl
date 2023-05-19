@@ -10,8 +10,20 @@
     "cbsnl:gm_code":"GM0086",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Opsterland",
+    "eurostat:nuts_2021_id":"GM0086",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL12",
+    "eurostat:nuts_2021_level_3":"NL126",
+    "eurostat:nuts_2021_level_lau":"GM0086",
+    "eurostat:population":29742,
+    "eurostat:population_year":2020,
     "geom:area":0.030503,
-    "geom:area_square_m":226734550.716237,
+    "geom:area_square_m":226734550.716226,
     "geom:bbox":"5.9275805095,52.9643636395,6.33205534889,53.1292134403",
     "geom:latitude":53.049142,
     "geom:longitude":6.112848,
@@ -143,7 +155,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"228",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Beetsterzwaag",
@@ -162,13 +175,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0086",
+        "eurostat:nuts_2021_id":"GM0086",
         "hasc:id":"NL.FR.OP"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"15ba97c447c3e1388fb2dd0a2e7489b4",
+    "wof:geomhash":"67e0c57e1a679ceb55608cb86f5226ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,12 +194,12 @@
         }
     ],
     "wof:id":404473787,
-    "wof:lastmodified":1582362788,
+    "wof:lastmodified":1684354007,
     "wof:name":"Opsterland",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":29830,
+    "wof:population":29742,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

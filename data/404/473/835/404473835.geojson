@@ -9,6 +9,18 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0163",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hellendoorn",
+    "eurostat:nuts_2021_id":"GM0163",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL21",
+    "eurostat:nuts_2021_level_3":"NL213",
+    "eurostat:nuts_2021_level_lau":"GM0163",
+    "eurostat:population":35923,
+    "eurostat:population_year":2020,
     "geom:area":0.018348,
     "geom:area_square_m":138471150.712751,
     "geom:bbox":"6.33350186574,52.3182187844,6.59814759368,52.4617024641",
@@ -132,7 +144,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"139",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Nijverdal",
@@ -151,13 +164,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0163",
+        "eurostat:nuts_2021_id":"GM0163",
         "hasc:id":"NL.OV.HL"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b95c6848384927b8f9e8ee8118322ea6",
+    "wof:geomhash":"8ce26b62c3c0e74a9562cced2b37e213",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,12 +183,12 @@
         }
     ],
     "wof:id":404473835,
-    "wof:lastmodified":1582362770,
+    "wof:lastmodified":1684354011,
     "wof:name":"Hellendoorn",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":35651,
+    "wof:population":35923,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

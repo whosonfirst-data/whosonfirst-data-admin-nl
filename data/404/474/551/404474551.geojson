@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1598",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Koggenland",
+    "eurostat:nuts_2021_id":"GM1598",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL32",
+    "eurostat:nuts_2021_level_3":"NL321",
+    "eurostat:nuts_2021_level_lau":"GM1598",
+    "eurostat:population":22752,
+    "eurostat:population_year":2020,
     "geom:area":0.01106,
-    "geom:area_square_m":82978246.930626,
+    "geom:area_square_m":82978246.930627,
     "geom:bbox":"4.86270034293,52.595285343,5.0390429026,52.6999117869",
     "geom:latitude":52.644692,
     "geom:longitude":4.94815,
@@ -140,7 +152,8 @@
         "quattroshapes",
         "mz"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -148,13 +161,16 @@
         85687053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1598",
+        "eurostat:nuts_2021_id":"GM1598"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes",
         "mz"
     ],
-    "wof:geomhash":"22dff1b2d89ec190d48ee540a246603c",
+    "wof:geomhash":"cade3ca4a29d6f822f8f145260ff43c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,11 +181,11 @@
         }
     ],
     "wof:id":404474551,
-    "wof:lastmodified":1582362798,
+    "wof:lastmodified":1684354045,
     "wof:name":"Koggenland",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",
-    "wof:population":22471,
+    "wof:population":22752,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

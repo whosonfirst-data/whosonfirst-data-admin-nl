@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0638",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zoeterwoude",
+    "eurostat:nuts_2021_id":"GM0638",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL33",
+    "eurostat:nuts_2021_level_3":"NL337",
+    "eurostat:nuts_2021_level_lau":"GM0638",
+    "eurostat:population":8611,
+    "eurostat:population_year":2020,
     "geom:area":0.002881,
-    "geom:area_square_m":21877509.902153,
+    "geom:area_square_m":21877509.902152,
     "geom:bbox":"4.47082578688,52.0805107322,4.55073304865,52.1473978675",
     "geom:latitude":52.114806,
     "geom:longitude":4.513834,
@@ -123,7 +135,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"22",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Zoeterwoude",
@@ -142,13 +155,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0638",
+        "eurostat:nuts_2021_id":"GM0638",
         "hasc:id":"NL.ZH.ZD"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2e7650c27be5dd3a21f0076d4eff60e8",
+    "wof:geomhash":"4a48853d378543b05d95fa26a69f3dac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,12 +174,12 @@
         }
     ],
     "wof:id":404474289,
-    "wof:lastmodified":1582362807,
+    "wof:lastmodified":1684354027,
     "wof:name":"Zoeterwoude",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":8119,
+    "wof:population":8611,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

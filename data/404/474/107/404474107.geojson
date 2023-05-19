@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0432",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Opmeer",
+    "eurostat:nuts_2021_id":"GM0432",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL32",
+    "eurostat:nuts_2021_level_3":"NL321",
+    "eurostat:nuts_2021_level_lau":"GM0432",
+    "eurostat:population":11837,
+    "eurostat:population_year":2020,
     "geom:area":0.005578,
-    "geom:area_square_m":41783289.137654,
+    "geom:area_square_m":41783289.137655,
     "geom:bbox":"4.89866940934,52.6717654751,5.01116355864,52.7552963331",
     "geom:latitude":52.715288,
     "geom:longitude":4.95348,
@@ -147,7 +159,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"42",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Opmeer",
@@ -166,13 +179,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0432",
+        "eurostat:nuts_2021_id":"GM0432",
         "hasc:id":"NL.NH.OP"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"169c3b869d776eb43ecb581baa7224f1",
+    "wof:geomhash":"185395c80db24a61758081d95b5198ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,12 +198,12 @@
         }
     ],
     "wof:id":404474107,
-    "wof:lastmodified":1582362830,
+    "wof:lastmodified":1684354023,
     "wof:name":"Opmeer",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":11336,
+    "wof:population":11837,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

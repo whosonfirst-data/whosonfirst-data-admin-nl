@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0938",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meerssen",
+    "eurostat:nuts_2021_id":"GM0938",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL42",
+    "eurostat:nuts_2021_level_3":"NL423",
+    "eurostat:nuts_2021_level_lau":"GM0938",
+    "eurostat:population":18832,
+    "eurostat:population_year":2020,
     "geom:area":0.003539,
-    "geom:area_square_m":27596142.532113,
+    "geom:area_square_m":27596142.532114,
     "geom:bbox":"5.71247610476,50.8659724427,5.80348112524,50.9434110217",
     "geom:latitude":50.901349,
     "geom:longitude":5.756415,
@@ -141,7 +153,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"27",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Meerssen",
@@ -160,13 +173,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0938",
+        "eurostat:nuts_2021_id":"GM0938",
         "hasc:id":"NL.LI.MS"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7dd95e3232d2c1ac7c302bc19b64688e",
+    "wof:geomhash":"8ebd939ea2d43654b7970ad0b01d0e84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,12 +192,12 @@
         }
     ],
     "wof:id":404474501,
-    "wof:lastmodified":1582362828,
+    "wof:lastmodified":1684354043,
     "wof:name":"Meerssen",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":19040,
+    "wof:population":18832,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

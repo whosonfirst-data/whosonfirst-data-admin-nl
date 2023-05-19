@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0293",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Westervoort",
+    "eurostat:nuts_2021_id":"GM0293",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL226",
+    "eurostat:nuts_2021_level_lau":"GM0293",
+    "eurostat:population":14973,
+    "eurostat:population_year":2020,
     "geom:area":0.001025,
-    "geom:area_square_m":7810691.969546,
+    "geom:area_square_m":7810691.969547,
     "geom:bbox":"5.949249,51.938675,6.003188,51.98065",
     "geom:latitude":51.95752,
     "geom:longitude":5.970719,
@@ -129,7 +141,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"8",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Westervoort",
@@ -148,6 +161,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0293",
+        "eurostat:nuts_2021_id":"GM0293",
         "hasc:id":"NL.GE.WV"
     },
     "wof:coterminous":[
@@ -157,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1e13010c52462c7970b8a136e6d8fe79",
+    "wof:geomhash":"682eba236d3e37c0c87034a2cfe6490e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,12 +183,12 @@
         }
     ],
     "wof:id":404473949,
-    "wof:lastmodified":1617131231,
+    "wof:lastmodified":1684354018,
     "wof:name":"Westervoort",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":15001,
+    "wof:population":14973,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

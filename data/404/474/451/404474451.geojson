@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0867",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Waalwijk",
+    "eurostat:nuts_2021_id":"GM0867",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL412",
+    "eurostat:nuts_2021_level_lau":"GM0867",
+    "eurostat:population":48620,
+    "eurostat:population_year":2020,
     "geom:area":0.008794,
-    "geom:area_square_m":67404884.524442,
+    "geom:area_square_m":67404884.524444,
     "geom:bbox":"4.91799115253,51.6515318845,5.11150612818,51.7230618924",
     "geom:latitude":51.692314,
     "geom:longitude":5.01182,
@@ -141,7 +153,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"68",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Waalwijk",
@@ -160,13 +173,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0867",
+        "eurostat:nuts_2021_id":"GM0867",
         "hasc:id":"NL.NB.WW"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bc8f8979525ae653b45283e2a027c49d",
+    "wof:geomhash":"33ab54591ad1af63c5ac5af317db91ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,12 +192,12 @@
         }
     ],
     "wof:id":404474451,
-    "wof:lastmodified":1582362844,
+    "wof:lastmodified":1684354042,
     "wof:name":"Waalwijk",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":47021,
+    "wof:population":48620,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

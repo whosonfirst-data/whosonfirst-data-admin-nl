@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1640",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leudal",
+    "eurostat:nuts_2021_id":"GM1640",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL42",
+    "eurostat:nuts_2021_level_3":"NL422",
+    "eurostat:nuts_2021_level_lau":"GM1640",
+    "eurostat:population":35896,
+    "eurostat:population_year":2020,
     "geom:area":0.021226,
-    "geom:area_square_m":164316962.736872,
+    "geom:area_square_m":164316962.736868,
     "geom:bbox":"5.74561954765,51.1513038611,6.01101462457,51.316577694",
     "geom:latitude":51.239455,
     "geom:longitude":5.884875,
@@ -123,7 +135,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -131,12 +144,15 @@
         85687033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1640",
+        "eurostat:nuts_2021_id":"GM1640"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a0717c4af7d80ef192a506c59244b599",
+    "wof:geomhash":"629d4ada86e41bfcd1ee8fb5e43a5ef6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,11 +163,11 @@
         }
     ],
     "wof:id":404474557,
-    "wof:lastmodified":1582362804,
+    "wof:lastmodified":1684354045,
     "wof:name":"Leudal",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",
-    "wof:population":36140,
+    "wof:population":35896,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

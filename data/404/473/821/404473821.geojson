@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0147",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borne",
+    "eurostat:nuts_2021_id":"GM0147",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL21",
+    "eurostat:nuts_2021_level_3":"NL213",
+    "eurostat:nuts_2021_level_lau":"GM0147",
+    "eurostat:population":23313,
+    "eurostat:population_year":2020,
     "geom:area":0.003448,
-    "geom:area_square_m":26065734.533345,
+    "geom:area_square_m":26065734.533347,
     "geom:bbox":"6.68948131113,52.2831134796,6.80213560384,52.341207536",
     "geom:latitude":52.312332,
     "geom:longitude":6.74356,
@@ -96,7 +108,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"26",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Borne",
@@ -115,13 +128,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0147",
+        "eurostat:nuts_2021_id":"GM0147",
         "hasc:id":"NL.OV.BO"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e0b2572b0fa367f76e6fa55d4db0d901",
+    "wof:geomhash":"b8629aa73b13554a677e3490c0ddae75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,12 +147,12 @@
         }
     ],
     "wof:id":404473821,
-    "wof:lastmodified":1582362768,
+    "wof:lastmodified":1684354010,
     "wof:name":"Borne",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":22343,
+    "wof:population":23313,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

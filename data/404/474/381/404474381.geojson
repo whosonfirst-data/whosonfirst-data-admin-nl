@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0784",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gilze en Rijen",
+    "eurostat:nuts_2021_id":"GM0784",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL412",
+    "eurostat:nuts_2021_level_lau":"GM0784",
+    "eurostat:population":26438,
+    "eurostat:population_year":2020,
     "geom:area":0.008511,
-    "geom:area_square_m":65430674.798496,
+    "geom:area_square_m":65430674.798492,
     "geom:bbox":"4.82908466474,51.5100812848,4.97956514816,51.6162945296",
     "geom:latitude":51.559596,
     "geom:longitude":4.918582,
@@ -123,7 +135,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"66",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Rijen",
@@ -142,13 +155,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0784",
+        "eurostat:nuts_2021_id":"GM0784",
         "hasc:id":"NL.NB.GR"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c8748c277309cdb9726b1f4151a5c40c",
+    "wof:geomhash":"7f5ecd6e2d530891a761400008cc9173",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,12 +174,12 @@
         }
     ],
     "wof:id":404474381,
-    "wof:lastmodified":1582362855,
+    "wof:lastmodified":1684354039,
     "wof:name":"Gilze en Rijen",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":26152,
+    "wof:population":26438,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

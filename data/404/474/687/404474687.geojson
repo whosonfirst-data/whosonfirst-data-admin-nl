@@ -9,6 +9,18 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1926",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pijnacker-Nootdorp",
+    "eurostat:nuts_2021_id":"GM1926",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL33",
+    "eurostat:nuts_2021_level_3":"NL332",
+    "eurostat:nuts_2021_level_lau":"GM1926",
+    "eurostat:population":55329,
+    "eurostat:population_year":2020,
     "geom:area":0.005056,
     "geom:area_square_m":38475051.469714,
     "geom:bbox":"4.37264043132,51.968198606,4.47679025456,52.0540539007",
@@ -123,7 +135,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -131,12 +144,15 @@
         85687041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1926",
+        "eurostat:nuts_2021_id":"GM1926"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"94d3f55fae3c15b22c2187d09ede16be",
+    "wof:geomhash":"75cbec2f23ed984bc80040463c1ab4b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,11 +163,11 @@
         }
     ],
     "wof:id":404474687,
-    "wof:lastmodified":1582362809,
+    "wof:lastmodified":1684354057,
     "wof:name":"Pijnacker-Nootdorp",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",
-    "wof:population":51894,
+    "wof:population":55329,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

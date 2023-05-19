@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0321",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Houten",
+    "eurostat:nuts_2021_id":"GM0321",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL31",
+    "eurostat:nuts_2021_level_3":"NL310",
+    "eurostat:nuts_2021_level_lau":"GM0321",
+    "eurostat:population":50146,
+    "eurostat:population_year":2020,
     "geom:area":0.007721,
-    "geom:area_square_m":58772957.116262,
+    "geom:area_square_m":58772957.116263,
     "geom:bbox":"5.11956321019,51.9594324829,5.27144659803,52.0567572961",
     "geom:latitude":52.004102,
     "geom:longitude":5.181698,
@@ -129,7 +141,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"59",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Houten",
@@ -148,13 +161,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0321",
+        "eurostat:nuts_2021_id":"GM0321",
         "hasc:id":"NL.UT.HO"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fcbe691f3522ebf7511d99f069f472e2",
+    "wof:geomhash":"b01eaf5ae3bab5b4f09ff2643cc8c688",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,13 +180,13 @@
         }
     ],
     "wof:id":404473987,
-    "wof:lastmodified":1582362786,
+    "wof:lastmodified":1684354021,
     "wof:name":"Houten",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":48765,
-    "wof:population_rank":7,
+    "wof:population":50146,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

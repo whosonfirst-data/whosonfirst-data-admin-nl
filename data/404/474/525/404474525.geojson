@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0983",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Venlo",
+    "eurostat:nuts_2021_id":"GM0983",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL42",
+    "eurostat:nuts_2021_level_3":"NL421",
+    "eurostat:nuts_2021_level_lau":"GM0983",
+    "eurostat:population":101797,
+    "eurostat:population_year":2020,
     "geom:area":0.016658,
-    "geom:area_square_m":128529181.730381,
+    "geom:area_square_m":128529181.730377,
     "geom:bbox":"6.07178065348,51.2770610196,6.22676926929,51.5078176713",
     "geom:latitude":51.391008,
     "geom:longitude":6.159152,
@@ -207,7 +219,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"83",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Venlo",
@@ -226,13 +239,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0983",
+        "eurostat:nuts_2021_id":"GM0983",
         "hasc:id":"NL.LI.VL"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"619863068d0282e0d02a4157e5492334",
+    "wof:geomhash":"6f1802bef5bf15a595e90c0cb8582398",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -243,12 +258,12 @@
         }
     ],
     "wof:id":404474525,
-    "wof:lastmodified":1582362853,
+    "wof:lastmodified":1684354043,
     "wof:name":"Venlo",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":100371,
+    "wof:population":101797,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

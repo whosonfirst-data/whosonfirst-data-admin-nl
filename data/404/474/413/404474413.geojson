@@ -9,6 +9,18 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0826",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oosterhout",
+    "eurostat:nuts_2021_id":"GM0826",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL411",
+    "eurostat:nuts_2021_level_lau":"GM0826",
+    "eurostat:population":55990,
+    "eurostat:population_year":2020,
     "geom:area":0.00949,
     "geom:area_square_m":72825759.941883,
     "geom:bbox":"4.78107132187,51.5784419019,4.93441030362,51.6860174532",
@@ -144,7 +156,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"71",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Oosterhout",
@@ -163,13 +176,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0826",
+        "eurostat:nuts_2021_id":"GM0826",
         "hasc:id":"NL.NB.OO"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fb8985e25b7b8e43cbed9346aba71b6d",
+    "wof:geomhash":"f8f1aa1c7d0b8138fae285c8db96ec2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,12 +195,12 @@
         }
     ],
     "wof:id":404474413,
-    "wof:lastmodified":1582362807,
+    "wof:lastmodified":1684354040,
     "wof:name":"Oosterhout",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":54018,
+    "wof:population":55990,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

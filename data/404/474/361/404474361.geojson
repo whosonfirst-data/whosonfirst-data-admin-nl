@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0757",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boxtel",
+    "eurostat:nuts_2021_id":"GM0757",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL413",
+    "eurostat:nuts_2021_level_lau":"GM0757",
+    "eurostat:population":30803,
+    "eurostat:population_year":2020,
     "geom:area":0.008409,
-    "geom:area_square_m":64615813.247927,
+    "geom:area_square_m":64615813.247928,
     "geom:bbox":"5.24617765773,51.5434886354,5.40520130344,51.6346339355",
     "geom:latitude":51.578256,
     "geom:longitude":5.326575,
@@ -132,7 +144,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"65",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Boxtel",
@@ -151,13 +164,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0757",
+        "eurostat:nuts_2021_id":"GM0757",
         "hasc:id":"NL.NB.BT"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f99c3ab3c1b7a4b433db70425df299e1",
+    "wof:geomhash":"d6628fa061ba04ba9293be1c0d9277cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,12 +183,12 @@
         }
     ],
     "wof:id":404474361,
-    "wof:lastmodified":1582362828,
+    "wof:lastmodified":1684354038,
     "wof:name":"Boxtel",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":30406,
+    "wof:population":30803,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

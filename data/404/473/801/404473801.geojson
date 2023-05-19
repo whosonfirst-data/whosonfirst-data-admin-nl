@@ -10,8 +10,20 @@
     "cbsnl:gm_code":"GM0098",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Weststellingwerf",
+    "eurostat:nuts_2021_id":"GM0098",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL12",
+    "eurostat:nuts_2021_level_3":"NL126",
+    "eurostat:nuts_2021_level_lau":"GM0098",
+    "eurostat:population":25916,
+    "eurostat:population_year":2020,
     "geom:area":0.030491,
-    "geom:area_square_m":227556181.255782,
+    "geom:area_square_m":227556181.255775,
     "geom:bbox":"5.81810888711,52.8007184101,6.24725868975,52.9430136543",
     "geom:latitude":52.875741,
     "geom:longitude":6.017774,
@@ -146,7 +158,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"228",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Wolvega",
@@ -165,13 +178,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0098",
+        "eurostat:nuts_2021_id":"GM0098",
         "hasc:id":"NL.FR.WE"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8f22ed4577532b96d03794877bf09a4f",
+    "wof:geomhash":"182960386aa2f4265725916fb54dfb99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,12 +197,12 @@
         }
     ],
     "wof:id":404473801,
-    "wof:lastmodified":1582362784,
+    "wof:lastmodified":1684354009,
     "wof:name":"Weststellingwerf",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":25520,
+    "wof:population":25916,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

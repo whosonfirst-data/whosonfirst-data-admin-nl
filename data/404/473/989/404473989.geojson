@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0327",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leusden",
+    "eurostat:nuts_2021_id":"GM0327",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL31",
+    "eurostat:nuts_2021_level_3":"NL310",
+    "eurostat:nuts_2021_level_lau":"GM0327",
+    "eurostat:population":30399,
+    "eurostat:population_year":2020,
     "geom:area":0.007729,
-    "geom:area_square_m":58679583.724058,
+    "geom:area_square_m":58679583.72406,
     "geom:bbox":"5.31091980144,52.0893335335,5.51407939034,52.1615200898",
     "geom:latitude":52.12222,
     "geom:longitude":5.416462,
@@ -126,7 +138,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"62",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Leusden",
@@ -145,13 +158,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0327",
+        "eurostat:nuts_2021_id":"GM0327",
         "hasc:id":"NL.UT.LD"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7f986db7176888bb0025d35c60572f22",
+    "wof:geomhash":"661f8fe1688678c9b42dc52b70ad954d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,12 +177,12 @@
         }
     ],
     "wof:id":404473989,
-    "wof:lastmodified":1582362787,
+    "wof:lastmodified":1684354021,
     "wof:name":"Leusden",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":29309,
+    "wof:population":30399,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

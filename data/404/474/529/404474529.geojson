@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0986",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Voerendaal",
+    "eurostat:nuts_2021_id":"GM0986",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL42",
+    "eurostat:nuts_2021_level_3":"NL423",
+    "eurostat:nuts_2021_level_lau":"GM0986",
+    "eurostat:population":12471,
+    "eurostat:population_year":2020,
     "geom:area":0.004025,
-    "geom:area_square_m":31407425.044485,
+    "geom:area_square_m":31407425.044483,
     "geom:bbox":"5.86149066187,50.8396597222,5.96936233286,50.904844288",
     "geom:latitude":50.869367,
     "geom:longitude":5.916493,
@@ -123,7 +135,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"31",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Voerendaal",
@@ -142,13 +155,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0986",
+        "eurostat:nuts_2021_id":"GM0986",
         "hasc:id":"NL.LI.VO"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"278a25937c4dc3f0edccc249390824b8",
+    "wof:geomhash":"2a6182b782b166ac35aa791447c57b56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,12 +174,12 @@
         }
     ],
     "wof:id":404474529,
-    "wof:lastmodified":1582362826,
+    "wof:lastmodified":1684354044,
     "wof:name":"Voerendaal",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":12482,
+    "wof:population":12471,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

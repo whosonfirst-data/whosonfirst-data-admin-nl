@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0153",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Enschede",
+    "eurostat:nuts_2021_id":"GM0153",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL21",
+    "eurostat:nuts_2021_level_3":"NL213",
+    "eurostat:nuts_2021_level_lau":"GM0153",
+    "eurostat:population":159734,
+    "eurostat:population_year":2020,
     "geom:area":0.01877,
-    "geom:area_square_m":142185318.215321,
+    "geom:area_square_m":142185318.215324,
     "geom:bbox":"6.75589271093,52.1612059178,6.98110005341,52.2855057477",
     "geom:latitude":52.220814,
     "geom:longitude":6.877809,
@@ -252,7 +264,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"141",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Enschede",
@@ -271,13 +284,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0153",
+        "eurostat:nuts_2021_id":"GM0153",
         "hasc:id":"NL.OV.EN"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6d2d84d96def0ce14263516f574af816",
+    "wof:geomhash":"72b153ca3452c97fd3e12fd87fd72fd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -288,12 +303,12 @@
         }
     ],
     "wof:id":404473827,
-    "wof:lastmodified":1582362767,
+    "wof:lastmodified":1684354011,
     "wof:name":"Enschede",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":158351,
+    "wof:population":159734,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

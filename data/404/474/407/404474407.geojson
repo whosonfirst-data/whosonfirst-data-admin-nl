@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0823",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oirschot",
+    "eurostat:nuts_2021_id":"GM0823",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL414",
+    "eurostat:nuts_2021_level_lau":"GM0823",
+    "eurostat:population":18723,
+    "eurostat:population_year":2020,
     "geom:area":0.013311,
-    "geom:area_square_m":102479854.358503,
+    "geom:area_square_m":102479854.3585,
     "geom:bbox":"5.19102487936,51.4250827921,5.39118688863,51.552820794",
     "geom:latitude":51.492625,
     "geom:longitude":5.289802,
@@ -132,7 +144,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"102",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Oirschot",
@@ -151,13 +164,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0823",
+        "eurostat:nuts_2021_id":"GM0823",
         "hasc:id":"NL.NB.OR"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b76277c96e2439a3500de5c22d222364",
+    "wof:geomhash":"bd42723492f99eb36ab93318ebef4915",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,12 +183,12 @@
         }
     ],
     "wof:id":404474407,
-    "wof:lastmodified":1582362819,
+    "wof:lastmodified":1684354040,
     "wof:name":"Oirschot",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":18199,
+    "wof:population":18723,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

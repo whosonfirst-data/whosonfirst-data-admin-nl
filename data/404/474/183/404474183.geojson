@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0530",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hellevoetsluis",
+    "eurostat:nuts_2021_id":"GM0530",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL33",
+    "eurostat:nuts_2021_level_3":"NL33C",
+    "eurostat:nuts_2021_level_lau":"GM0530",
+    "eurostat:population":40158,
+    "eurostat:population_year":2020,
     "geom:area":0.004209,
-    "geom:area_square_m":32149634.395927,
+    "geom:area_square_m":32149634.395918,
     "geom:bbox":"4.048596,51.819233,4.198257,51.881603",
     "geom:latitude":51.846507,
     "geom:longitude":4.137437,
@@ -137,7 +149,8 @@
         "quattroshapes",
         "mz"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"46",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Hellevoetsluis",
@@ -156,6 +169,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0530",
+        "eurostat:nuts_2021_id":"GM0530",
         "hasc:id":"NL.ZH.HV"
     },
     "wof:coterminous":[
@@ -166,7 +181,7 @@
         "mz",
         "quattroshapes"
     ],
-    "wof:geomhash":"650d40eb69824f9d842e8a798bbc5fd0",
+    "wof:geomhash":"2d0e313298bc72846541752bc1097e54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,12 +192,12 @@
         }
     ],
     "wof:id":404474183,
-    "wof:lastmodified":1617130355,
+    "wof:lastmodified":1684354026,
     "wof:name":"Hellevoetsluis",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":38634,
+    "wof:population":40158,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

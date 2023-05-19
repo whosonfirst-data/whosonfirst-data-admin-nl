@@ -9,6 +9,18 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0755",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boekel",
+    "eurostat:nuts_2021_id":"GM0755",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL41",
+    "eurostat:nuts_2021_level_3":"NL413",
+    "eurostat:nuts_2021_level_lau":"GM0755",
+    "eurostat:population":10784,
+    "eurostat:population_year":2020,
     "geom:area":0.004479,
     "geom:area_square_m":34393278.454449,
     "geom:bbox":"5.62656849898,51.5823601967,5.75861458756,51.6290609599",
@@ -123,7 +135,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"34",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Boekel",
@@ -142,13 +155,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0755",
+        "eurostat:nuts_2021_id":"GM0755",
         "hasc:id":"NL.NB.BO"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e14e83dc8a5acf9d85ede35c4b130e26",
+    "wof:geomhash":"bbf5eeb069699716cc8e4e7707f90389",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,12 +174,12 @@
         }
     ],
     "wof:id":404474357,
-    "wof:lastmodified":1582362828,
+    "wof:lastmodified":1684354038,
     "wof:name":"Boekel",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":10254,
+    "wof:population":10784,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

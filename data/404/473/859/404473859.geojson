@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0189",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wierden",
+    "eurostat:nuts_2021_id":"GM0189",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL21",
+    "eurostat:nuts_2021_level_3":"NL213",
+    "eurostat:nuts_2021_level_lau":"GM0189",
+    "eurostat:population":24440,
+    "eurostat:population_year":2020,
     "geom:area":0.01258,
-    "geom:area_square_m":95029847.31342,
+    "geom:area_square_m":95029847.313418,
     "geom:bbox":"6.4681894889,52.2691161757,6.63178233127,52.4175134981",
     "geom:latitude":52.344465,
     "geom:longitude":6.560614,
@@ -132,7 +144,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"97",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Wierden",
@@ -151,13 +164,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0189",
+        "eurostat:nuts_2021_id":"GM0189",
         "hasc:id":"NL.OV.WI"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7fae577a58fb6588207139425a5900b1",
+    "wof:geomhash":"55d4378a7f350d649f6c4007698c9d00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,12 +183,12 @@
         }
     ],
     "wof:id":404473859,
-    "wof:lastmodified":1582362769,
+    "wof:lastmodified":1684354014,
     "wof:name":"Wierden",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":23952,
+    "wof:population":24440,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

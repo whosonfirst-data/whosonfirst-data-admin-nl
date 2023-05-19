@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hoogeveen",
+    "eurostat:nuts_2021_id":"GM0118",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL13",
+    "eurostat:nuts_2021_level_3":"NL133",
+    "eurostat:nuts_2021_level_lau":"GM0118",
+    "eurostat:population":55697,
+    "eurostat:population_year":2020,
     "geom:area":0.017191,
-    "geom:area_square_m":128748039.56424,
+    "geom:area_square_m":128748039.564235,
     "geom:bbox":"6.40359884578,52.6545073117,6.63241252657,52.8005564955",
     "geom:latitude":52.723104,
     "geom:longitude":6.513553,
@@ -168,7 +180,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"129",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Hoogeveen",
@@ -187,13 +200,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0118",
+        "eurostat:nuts_2021_id":"GM0118",
         "hasc:id":"NL.DR.HO"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1415aae14c91ea3c9015bfc576319c95",
+    "wof:geomhash":"7f1ee06214062bf11541f8e269321ba2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,12 +219,12 @@
         }
     ],
     "wof:id":404473811,
-    "wof:lastmodified":1582362768,
+    "wof:lastmodified":1684354010,
     "wof:name":"Hoogeveen",
     "wof:parent_id":85687051,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":55240,
+    "wof:population":55697,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

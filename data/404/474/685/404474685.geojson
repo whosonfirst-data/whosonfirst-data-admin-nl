@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1916",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leidschendam-Voorburg",
+    "eurostat:nuts_2021_id":"GM1916",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL33",
+    "eurostat:nuts_2021_level_3":"NL332",
+    "eurostat:nuts_2021_level_lau":"GM1916",
+    "eurostat:population":76553,
+    "eurostat:population_year":2020,
     "geom:area":0.004671,
-    "geom:area_square_m":35487383.212973,
+    "geom:area_square_m":35487383.212972,
     "geom:bbox":"4.3352131916,52.0562547118,4.49301807384,52.1289798941",
     "geom:latitude":52.090328,
     "geom:longitude":4.422307,
@@ -135,7 +147,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -143,12 +156,15 @@
         85687041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1916",
+        "eurostat:nuts_2021_id":"GM1916"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b57eadf66365a1201431a27b00481a52",
+    "wof:geomhash":"9f730aad997789f8cfb51936f6eeff8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,11 +175,11 @@
         }
     ],
     "wof:id":404474685,
-    "wof:lastmodified":1582362839,
+    "wof:lastmodified":1684354057,
     "wof:name":"Leidschendam-Voorburg",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",
-    "wof:population":74223,
+    "wof:population":76553,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

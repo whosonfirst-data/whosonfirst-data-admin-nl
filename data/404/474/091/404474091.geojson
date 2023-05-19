@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0415",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Landsmeer",
+    "eurostat:nuts_2021_id":"GM0415",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL32",
+    "eurostat:nuts_2021_level_3":"NL329",
+    "eurostat:nuts_2021_level_lau":"GM0415",
+    "eurostat:population":11492,
+    "eurostat:population_year":2020,
     "geom:area":0.003504,
-    "geom:area_square_m":26405435.401496,
+    "geom:area_square_m":26405435.401497,
     "geom:bbox":"4.89303482842,52.4116075815,4.95087938724,52.4904344771",
     "geom:latitude":52.450591,
     "geom:longitude":4.924555,
@@ -153,7 +165,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"26",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Landsmeer",
@@ -172,13 +185,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0415",
+        "eurostat:nuts_2021_id":"GM0415",
         "hasc:id":"NL.NH.LM"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"64f3d2c3ab0ad22eb33097db94417179",
+    "wof:geomhash":"ea4fb37e34c9d9456ec3955af83b73b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,12 +204,12 @@
         }
     ],
     "wof:id":404474091,
-    "wof:lastmodified":1582362811,
+    "wof:lastmodified":1684354023,
     "wof:name":"Landsmeer",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":10977,
+    "wof:population":11492,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

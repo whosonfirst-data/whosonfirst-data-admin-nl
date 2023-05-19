@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0370",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beemster",
+    "eurostat:nuts_2021_id":"GM0370",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL32",
+    "eurostat:nuts_2021_level_3":"NL329",
+    "eurostat:nuts_2021_level_lau":"GM0370",
+    "eurostat:population":10025,
+    "eurostat:population_year":2020,
     "geom:area":0.00955,
-    "geom:area_square_m":71796197.769013,
+    "geom:area_square_m":71796197.769019,
     "geom:bbox":"4.83391038558,52.5108070372,4.99716809687,52.6141075238",
     "geom:latitude":52.557702,
     "geom:longitude":4.916892,
@@ -171,7 +183,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"72",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Middenbeemster",
@@ -190,13 +203,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0370",
+        "eurostat:nuts_2021_id":"GM0370",
         "hasc:id":"NL.NH.BM"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"21a11fdace3891f0fc406df920602a1c",
+    "wof:geomhash":"9a198a75d2564c038fd58158bb2bc5e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -207,13 +222,13 @@
         }
     ],
     "wof:id":404474039,
-    "wof:lastmodified":1582362821,
+    "wof:lastmodified":1684354022,
     "wof:name":"Beemster",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":8958,
-    "wof:population_rank":5,
+    "wof:population":10025,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1696",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wijdemeren",
+    "eurostat:nuts_2021_id":"GM1696",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL3",
+    "eurostat:nuts_2021_level_2":"NL32",
+    "eurostat:nuts_2021_level_3":"NL327",
+    "eurostat:nuts_2021_level_lau":"GM1696",
+    "eurostat:population":24360,
+    "eurostat:population_year":2020,
     "geom:area":0.010045,
-    "geom:area_square_m":76081299.408037,
+    "geom:area_square_m":76081299.408031,
     "geom:bbox":"5.0212929608,52.1659289883,5.14576918277,52.2852154807",
     "geom:latitude":52.226196,
     "geom:longitude":5.08484,
@@ -141,7 +153,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633337,
@@ -149,12 +162,15 @@
         85687053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"NL_GM1696",
+        "eurostat:nuts_2021_id":"GM1696"
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"703793bd012d92f05cb2bb97a2abfba6",
+    "wof:geomhash":"0ca8f727a7ed1ce05189df9b4541667b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,11 +181,11 @@
         }
     ],
     "wof:id":404474605,
-    "wof:lastmodified":1582362813,
+    "wof:lastmodified":1684354051,
     "wof:name":"Wijdemeren",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",
-    "wof:population":23275,
+    "wof:population":24360,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

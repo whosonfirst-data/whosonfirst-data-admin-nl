@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1731",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Midden-Drenthe",
+    "eurostat:nuts_2021_id":"GM1731",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL1",
+    "eurostat:nuts_2021_level_2":"NL13",
+    "eurostat:nuts_2021_level_3":"NL131",
+    "eurostat:nuts_2021_level_lau":"GM1731",
+    "eurostat:population":33182,
+    "eurostat:population_year":2020,
     "geom:area":0.046154,
-    "geom:area_square_m":344509199.861599,
+    "geom:area_square_m":344509199.861589,
     "geom:bbox":"6.35955674225,52.73568986,6.72862869973,53.0054052798",
     "geom:latitude":52.867405,
     "geom:longitude":6.542666,
@@ -138,7 +150,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"349",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Beilen, Smilde, Westerbork",
@@ -157,13 +170,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM1731",
+        "eurostat:nuts_2021_id":"GM1731",
         "hasc:id":"NL.DR.MD"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6cb137ae3dd49d0f80d547764a54a4b7",
+    "wof:geomhash":"c34aa5ba9ed9f5fe64d11a356847f771",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,12 +189,12 @@
         }
     ],
     "wof:id":404474649,
-    "wof:lastmodified":1582362839,
+    "wof:lastmodified":1684354054,
     "wof:name":"Midden-Drenthe",
     "wof:parent_id":85687051,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":33450,
+    "wof:population":33182,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

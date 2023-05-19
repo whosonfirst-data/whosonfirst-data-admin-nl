@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM1729",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gulpen-Wittem",
+    "eurostat:nuts_2021_id":"GM1729",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL4",
+    "eurostat:nuts_2021_level_2":"NL42",
+    "eurostat:nuts_2021_level_3":"NL423",
+    "eurostat:nuts_2021_level_lau":"GM1729",
+    "eurostat:population":14176,
+    "eurostat:population_year":2020,
     "geom:area":0.009353,
-    "geom:area_square_m":73095149.541274,
+    "geom:area_square_m":73095149.541267,
     "geom:bbox":"5.81940955362,50.7503674928,5.98351816727,50.8488894036",
     "geom:latitude":50.80235,
     "geom:longitude":5.900152,
@@ -132,7 +144,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"73",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Gulpen",
@@ -151,13 +164,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM1729",
+        "eurostat:nuts_2021_id":"GM1729",
         "hasc:id":"NL.LI.GW"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4516a9459363ba5afeb6a6a2c7ed5f83",
+    "wof:geomhash":"00af9095c8c085d7e69d22422b6d74cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,12 +183,12 @@
         }
     ],
     "wof:id":404474645,
-    "wof:lastmodified":1582362807,
+    "wof:lastmodified":1684354054,
     "wof:name":"Gulpen-Wittem",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":14508,
+    "wof:population":14176,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

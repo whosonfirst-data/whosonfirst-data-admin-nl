@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0297",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zaltbommel",
+    "eurostat:nuts_2021_id":"GM0297",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL224",
+    "eurostat:nuts_2021_level_lau":"GM0297",
+    "eurostat:population":28901,
+    "eurostat:population_year":2020,
     "geom:area":0.011601,
-    "geom:area_square_m":88724766.172112,
+    "geom:area_square_m":88724766.172111,
     "geom:bbox":"5.00036390801,51.7376071426,5.28843667264,51.8268512922",
     "geom:latitude":51.79228,
     "geom:longitude":5.158429,
@@ -135,7 +147,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"90",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Zaltbommel",
@@ -154,13 +167,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0297",
+        "eurostat:nuts_2021_id":"GM0297",
         "hasc:id":"NL.GE.ZA"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b9468c4130080d711f7968f2091820ce",
+    "wof:geomhash":"b5bea01389b7e1693594b1d786197506",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,12 +186,12 @@
         }
     ],
     "wof:id":404473955,
-    "wof:lastmodified":1582362767,
+    "wof:lastmodified":1684354018,
     "wof:name":"Zaltbommel",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":27543,
+    "wof:population":28901,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

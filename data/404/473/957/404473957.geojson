@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0299",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zevenaar",
+    "eurostat:nuts_2021_id":"GM0299",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL22",
+    "eurostat:nuts_2021_level_3":"NL226",
+    "eurostat:nuts_2021_level_lau":"GM0299",
+    "eurostat:population":43740,
+    "eurostat:population_year":2020,
     "geom:area":0.007584,
-    "geom:area_square_m":57787590.641957,
+    "geom:area_square_m":57787590.641951,
     "geom:bbox":"6.00173284684,51.8924834679,6.16791304282,52.0150244506",
     "geom:latitude":51.959582,
     "geom:longitude":6.085255,
@@ -135,7 +147,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"28",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Zevenaar",
@@ -154,13 +167,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0299",
+        "eurostat:nuts_2021_id":"GM0299",
         "hasc:id":"NL.GE.ZV"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e7196377355b9586e099bb8685f9d398",
+    "wof:geomhash":"1d0d8c77c22260ba1cd6ddfeca539943",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,12 +186,12 @@
         }
     ],
     "wof:id":404473957,
-    "wof:lastmodified":1582362775,
+    "wof:lastmodified":1684354019,
     "wof:name":"Zevenaar",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":32269,
+    "wof:population":43740,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],

@@ -9,8 +9,20 @@
     "cbsnl:WATER":"NEE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NL",
+    "eurostat:gisco_id":"NL_GM0141",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almelo",
+    "eurostat:nuts_2021_id":"GM0141",
+    "eurostat:nuts_2021_level_0":"NL",
+    "eurostat:nuts_2021_level_1":"NL2",
+    "eurostat:nuts_2021_level_2":"NL21",
+    "eurostat:nuts_2021_level_3":"NL213",
+    "eurostat:nuts_2021_level_lau":"GM0141",
+    "eurostat:population":73080,
+    "eurostat:population_year":2020,
     "geom:area":0.009154,
-    "geom:area_square_m":69144408.606067,
+    "geom:area_square_m":69144408.606061,
     "geom:bbox":"6.59770479907,52.2899739476,6.72116795103,52.399122747",
     "geom:latitude":52.347902,
     "geom:longitude":6.658197,
@@ -180,7 +192,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:population":"cbsnl",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"69",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Almelo",
@@ -199,13 +212,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"NL_GM0141",
+        "eurostat:nuts_2021_id":"GM0141",
         "hasc:id":"NL.OV.AL"
     },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4720603f8481c78a7c08e592f36bcda1",
+    "wof:geomhash":"02060b39a68da84feca15e2e2bbf6ac6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -216,12 +231,12 @@
         }
     ],
     "wof:id":404473819,
-    "wof:lastmodified":1582362769,
+    "wof:lastmodified":1684354010,
     "wof:name":"Almelo",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"municipality",
-    "wof:population":72425,
+    "wof:population":73080,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
