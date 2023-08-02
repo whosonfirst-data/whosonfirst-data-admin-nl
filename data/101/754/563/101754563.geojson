@@ -77,6 +77,9 @@
     "name:fra_x_preferred":[
         "Best"
     ],
+    "name:gle_x_preferred":[
+        "Best"
+    ],
     "name:glg_x_preferred":[
         "Best"
     ],
@@ -107,6 +110,9 @@
     "name:kor_x_preferred":[
         "\ubca0\uc2a4\ud2b8"
     ],
+    "name:kur_x_preferred":[
+        "Best"
+    ],
     "name:lat_x_preferred":[
         "Bestus"
     ],
@@ -126,6 +132,9 @@
         "Best"
     ],
     "name:nld_x_preferred":[
+        "Best"
+    ],
+    "name:nob_x_preferred":[
         "Best"
     ],
     "name:nor_x_preferred":[
@@ -164,10 +173,19 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0441\u0442"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0633\u0679"
+    ],
+    "name:vec_x_preferred":[
+        "Best"
+    ],
     "name:vol_x_preferred":[
         "Best"
     ],
     "name:war_x_preferred":[
+        "Best"
+    ],
+    "name:zea_x_preferred":[
         "Best"
     ],
     "name:zho_x_preferred":[
@@ -199,11 +217,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687035,
         102191581,
-        85633337,
-        136253051,
         404474353,
-        85687035
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -237,7 +255,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1607993793,
+    "wof:lastmodified":1690848597,
     "wof:name":"Best",
     "wof:parent_id":404474353,
     "wof:placetype":"locality",
