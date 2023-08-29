@@ -24,6 +24,9 @@
     "name:afr_x_preferred":[
         "Utrecht"
     ],
+    "name:aka_x_preferred":[
+        "Utrecht"
+    ],
     "name:amh_x_preferred":[
         "\u12a2\u12cd\u1275\u1228\u1215\u1275"
     ],
@@ -33,17 +36,26 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u062a\u0631\u062e\u062a"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u064f\u062a\u0631\u0650\u062e\u062a"
+    ],
     "name:arc_x_preferred":[
         "\u0710\u0718\u071b\u072a\u071d\u071f\u071b"
     ],
     "name:arg_x_preferred":[
         "Utrecht"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u062a\u0631\u064a\u062e\u062a"
+    ],
     "name:ast_x_preferred":[
         "Utrecht"
     ],
     "name:aze_x_preferred":[
         "Utrext"
+    ],
+    "name:ban_x_preferred":[
+        "Utrecht"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0423\u0442\u0440\u044d\u0445\u0442"
@@ -53,6 +65,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0989\u09a4\u09cd\u09b0\u09c7\u0995\u09cd\u09a4"
+    ],
+    "name:ben_x_variant":[
+        "\u0987\u0989\u099f\u09cd\u09b0\u09c7\u0996\u09cd\u099f"
     ],
     "name:bre_x_preferred":[
         "Utrecht"
@@ -68,6 +83,9 @@
     ],
     "name:ces_x_preferred":[
         "Utrecht"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u0648\u062a\u0631\u06ce\u062e\u062a"
     ],
     "name:cym_x_preferred":[
         "Utrecht"
@@ -116,6 +134,9 @@
     ],
     "name:frp_x_preferred":[
         "Utr\u00e8ct"
+    ],
+    "name:frr_x_preferred":[
+        "Utrecht"
     ],
     "name:fry_x_preferred":[
         "Utert"
@@ -192,6 +213,9 @@
     "name:kor_x_preferred":[
         "\uc704\ud2b8\ub808\ud750\ud2b8"
     ],
+    "name:kur_x_preferred":[
+        "Utrecht"
+    ],
     "name:lat_x_historical":[
         "Traiectum ad Rhenum"
     ],
@@ -210,11 +234,17 @@
     "name:lit_x_preferred":[
         "Utrechtas"
     ],
+    "name:lld_x_preferred":[
+        "Utrecht"
+    ],
     "name:ltz_x_preferred":[
         "Utrecht"
     ],
     "name:mar_x_preferred":[
         "\u0909\u091f\u094d\u0930\u0947\u0916\u094d\u0924"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0423\u0442\u0440\u044d\u0445\u0442"
     ],
     "name:mkd_x_preferred":[
         "\u0423\u0442\u0440\u0435\u0445\u0442"
@@ -249,10 +279,16 @@
     "name:oci_x_preferred":[
         "Utrecht"
     ],
+    "name:oss_x_preferred":[
+        "\u0423\u0442\u0440\u0435\u0445\u0442"
+    ],
     "name:pap_x_preferred":[
         "Utrecht"
     ],
     "name:pcd_x_preferred":[
+        "Utrecht"
+    ],
+    "name:pms_x_preferred":[
         "Utrecht"
     ],
     "name:pnb_x_preferred":[
@@ -330,6 +366,9 @@
     "name:tel_x_preferred":[
         "\u0c05\u0c1f\u0c4d\u0c30\u0c46\u0c15\u0c4d\u0c1f\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0423\u0442\u0440\u0435\u0445\u0442"
+    ],
     "name:tgl_x_preferred":[
         "Utrecht"
     ],
@@ -348,6 +387,9 @@
     "name:uzb_x_preferred":[
         "Utrext"
     ],
+    "name:vec_x_preferred":[
+        "Utrecht"
+    ],
     "name:vep_x_preferred":[
         "Utreht"
     ],
@@ -362,6 +404,9 @@
     ],
     "name:war_x_preferred":[
         "Utrecht"
+    ],
+    "name:wln_x_preferred":[
+        "Utraik"
     ],
     "name:wuu_x_preferred":[
         "\u4e8e\u8131\u83b1\u8d6b\u8131"
@@ -531,7 +576,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1617129985,
+    "wof:lastmodified":1690848638,
     "wof:name":"Utrecht",
     "wof:parent_id":85687039,
     "wof:placetype":"locality",

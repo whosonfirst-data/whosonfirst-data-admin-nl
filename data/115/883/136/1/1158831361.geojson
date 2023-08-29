@@ -15,9 +15,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000016,
     "geom:area_square_m":118495.206269,
-    "geom:bbox":"4.16403134179,52.0274480158,4.17266570047,52.032539308",
+    "geom:bbox":"4.164031,52.027448,4.172666,52.032539",
     "geom:latitude":52.030006,
-    "geom:longitude":4.168354,
+    "geom:longitude":4.168353,
     "iso:country":"NL",
     "lbl:latitude":52.030048,
     "lbl:longitude":4.168354,
@@ -30,6 +30,9 @@
     "mz:is_funky":0,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
+        "Ter Heijde"
+    ],
+    "name:cat_x_preferred":[
         "Ter Heijde"
     ],
     "name:ceb_x_preferred":[
@@ -53,6 +56,9 @@
     "name:nld_x_preferred":[
         "Ter Heijde"
     ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u5c14\u00b7\u6d77\u5fb7"
+    ],
     "reversegeo:latitude":52.030048,
     "reversegeo:longitude":4.168354,
     "src:geom":"cbsnl",
@@ -69,7 +75,7 @@
         "wd:id":"Q2684898"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d7a8a561a4505a27cf81cd8d800643e0",
+    "wof:geomhash":"b7f5f7d12633ae2a224a59403c49908c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1158831361,
-    "wof:lastmodified":1566659919,
+    "wof:lastmodified":1690849082,
     "wof:name":"Ter Heijde",
     "wof:parent_id":404474667,
     "wof:placetype":"locality",
@@ -94,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.1640313417871,
-    52.02744801583508,
-    4.172665700466,
-    52.03253930803162
+    4.164031,
+    52.027448,
+    4.172666,
+    52.032539
 ],
-  "geometry": {"coordinates":[[[[4.16806872674209,52.02872388983739],[4.16571295860657,52.02744801583508],[4.1640313417871,52.02852460164618],[4.17047649277226,52.03253930803162],[4.172665700466,52.03121324639752],[4.16806872674209,52.02872388983739]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[4.168069,52.028724],[4.165713,52.027448],[4.164031,52.028525],[4.170476,52.032539],[4.172666,52.031213],[4.168069,52.028724]]]],"type":"MultiPolygon"}
 }

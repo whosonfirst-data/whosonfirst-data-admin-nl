@@ -56,11 +56,17 @@
     "name:arg_x_preferred":[
         "Brabant Septentrional"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0648\u0631\u062f-\u0628\u0631\u0627\u0628\u0627\u0646\u062a"
+    ],
     "name:ast_x_preferred":[
         "Brabant Septentrional"
     ],
     "name:aze_x_preferred":[
         "\u015eimali Brabant"
+    ],
+    "name:ban_x_preferred":[
+        "Brabant Kal\u00e9r"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b \u0411\u0440\u0430\u0431\u0430\u043d\u0442"
@@ -71,17 +77,26 @@
     "name:bre_x_preferred":[
         "Noord-Brabant"
     ],
+    "name:bre_x_variant":[
+        "Brabant an Norzh"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u0435\u043d \u0411\u0440\u0430\u0431\u0430\u043d\u0442"
     ],
     "name:cat_x_preferred":[
         "Brabant Septentrional"
     ],
+    "name:cat_x_variant":[
+        "Brabant del Nord"
+    ],
     "name:ceb_x_preferred":[
         "Provincie Noord-Brabant"
     ],
     "name:ces_x_preferred":[
         "Severn\u00ed Brabantsko"
+    ],
+    "name:cos_x_preferred":[
+        "Brabante Settentriunale"
     ],
     "name:cym_x_preferred":[
         "Noord-Brabant"
@@ -110,6 +125,9 @@
     ],
     "name:epo_x_preferred":[
         "Norda Brabanto"
+    ],
+    "name:epo_x_variant":[
+        "Nord-Brabanto"
     ],
     "name:est_x_preferred":[
         "P\u00f5hja-Brabandi provints"
@@ -207,6 +225,9 @@
     "name:kor_x_variant":[
         "\ub178\ub974\ud2b8\ube0c\ub77c\ubc18\ud2b8\uc8fc"
     ],
+    "name:kur_x_preferred":[
+        "Brabanta Bakur"
+    ],
     "name:lat_x_preferred":[
         "Brabantia Septentrionalis"
     ],
@@ -221,6 +242,9 @@
     ],
     "name:lit_x_preferred":[
         "\u0160iaur\u0117s Brabantas"
+    ],
+    "name:lld_x_preferred":[
+        "Brabant dl Nord"
     ],
     "name:ltz_x_preferred":[
         "Prov\u00ebnz Nordbrabant"
@@ -261,6 +285,9 @@
     "name:oci_x_preferred":[
         "Brabant Septentrionau"
     ],
+    "name:oci_x_variant":[
+        "Brabant Septentrional"
+    ],
     "name:oss_x_preferred":[
         "\u0426\u00e6\u0433\u0430\u0442 \u0411\u0440\u0430\u0431\u0430\u043d\u0442"
     ],
@@ -272,6 +299,9 @@
     ],
     "name:por_x_preferred":[
         "Brabante do Norte"
+    ],
+    "name:pus_x_preferred":[
+        "\u0634\u0645\u0627\u0644\u064a \u0628\u0631\u0627\u0628\u0627\u0646\u067c"
     ],
     "name:que_x_preferred":[
         "Noord-Brabant pruwinsya"
@@ -338,6 +368,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0634\u0645\u0627\u0644\u06cc \u0628\u0631\u0627\u0628\u0627\u0646\u0679"
+    ],
+    "name:vec_x_preferred":[
+        "Brabante Setentriona\u0142e"
     ],
     "name:vie_x_preferred":[
         "Noord-Brabant"
@@ -474,7 +507,7 @@
         "wd:id":"Q1101"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f34f57eb851e066a2a431434d6c49c17",
+    "wof:geomhash":"919696aaf2958e26e61badb53e7edf6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -491,7 +524,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1684351457,
+    "wof:lastmodified":1690848543,
     "wof:name":"North Brabant",
     "wof:parent_id":85633337,
     "wof:placetype":"region",

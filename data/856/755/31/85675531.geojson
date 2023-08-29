@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001619,
     "geom:area_square_m":19098508.794849,
-    "geom:bbox":"-62.9971410803,17.464571174,-62.9450645098,17.5256208354",
+    "geom:bbox":"-62.997141,17.464571,-62.945065,17.525621",
     "geom:latitude":17.489196,
     "geom:longitude":-62.974113,
     "gn:population":2886,
@@ -38,6 +38,9 @@
     "name:arg_x_preferred":[
         "Isla de Sant Eustaquio"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0646\u062a \u0627\u0648\u0633\u062a\u0627\u062a\u064a\u0648\u0633"
+    ],
     "name:aze_x_preferred":[
         "Sint-Estatius"
     ],
@@ -57,6 +60,9 @@
         "\u0421\u0432\u0435\u0442\u0438 \u0415\u0432\u0441\u0442\u0430\u0442\u0438\u0443\u0441"
     ],
     "name:cat_x_preferred":[
+        "Sint Eustatius"
+    ],
+    "name:cdo_x_preferred":[
         "Sint Eustatius"
     ],
     "name:ceb_x_preferred":[
@@ -116,6 +122,12 @@
     "name:gag_x_preferred":[
         "Sint Eustatius"
     ],
+    "name:gcr_x_preferred":[
+        "Sint Eustatius"
+    ],
+    "name:gle_x_preferred":[
+        "Sint Eustatius"
+    ],
     "name:glg_x_preferred":[
         "San Eustaquio"
     ],
@@ -146,6 +158,9 @@
     "name:hye_x_preferred":[
         "\u054d\u056b\u0576\u057f \u0537\u057e\u057d\u057f\u0561\u057f\u056b\u0578\u0582\u057d"
     ],
+    "name:ido_x_preferred":[
+        "Sint Eustatius"
+    ],
     "name:ind_x_preferred":[
         "Sint Eustatius"
     ],
@@ -170,8 +185,14 @@
     "name:kor_x_variant":[
         "\uc2e0\ud2b8\uc678\uc2a4\ud0c0\ud2f0\uc704\uc2a4\uc12c"
     ],
+    "name:lat_x_preferred":[
+        "Statia"
+    ],
     "name:lav_x_preferred":[
         "Sint\u0113statiusa"
+    ],
+    "name:lfn_x_preferred":[
+        "San Eustatius"
     ],
     "name:lim_x_preferred":[
         "Sint Eustatius"
@@ -243,6 +264,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd2\u0db1\u0dca\u0da7\u0dca \u0d89\u0dba\u0dd4\u0dc3\u0dca\u0da7\u0dda\u0da7\u0dd2\u0dba\u0dc3\u0dca"
+    ],
+    "name:slv_x_preferred":[
+        "Sveti Evstahij"
     ],
     "name:spa_x_preferred":[
         "San Eustaquio"
@@ -398,7 +422,7 @@
         "wk:page":"Sint Eustatius"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5d9076ebac93f1da4d24485325ab64e2",
+    "wof:geomhash":"aab41cd3e0062b83a21aa8f21fc383d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -416,7 +440,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1566657366,
+    "wof:lastmodified":1690848542,
     "wof:name":"St. Eustatius",
     "wof:parent_id":136251281,
     "wof:placetype":"region",
@@ -430,10 +454,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -62.99714108029656,
-    17.46457117402053,
-    -62.94506450981925,
-    17.52562083543324
+    -62.997141,
+    17.464571,
+    -62.945065,
+    17.525621
 ],
-  "geometry": {"coordinates":[[[-62.99714108029656,17.52562083543324],[-62.98379698294434,17.51768294421254],[-62.97725385388219,17.50413683844437],[-62.96525672871502,17.49891596370082],[-62.94506450981925,17.48538443144639],[-62.94890357084307,17.47237460310549],[-62.95872313786248,17.46457117402053],[-62.98108552157953,17.46772373126521],[-62.99469967365098,17.49213288022827],[-62.99714108029656,17.52562083543324]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-62.997141,17.525621],[-62.983797,17.517683],[-62.977254,17.504137],[-62.965257,17.498916],[-62.945065,17.485384],[-62.948904,17.472375],[-62.958723,17.464571],[-62.981086,17.467724],[-62.9947,17.492133],[-62.997141,17.525621]]],"type":"Polygon"}
 }

@@ -65,6 +65,9 @@
     "name:aze_x_preferred":[
         "\u015eimali Hollandiya"
     ],
+    "name:ban_x_preferred":[
+        "Holland Kal\u00e9r"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u0430\u044f \u0413\u0430\u043b\u0430\u043d\u0434\u044b\u044f"
     ],
@@ -80,11 +83,20 @@
     "name:cat_x_preferred":[
         "Holanda Septentrional"
     ],
+    "name:cat_x_variant":[
+        "Holanda del Nord"
+    ],
     "name:ceb_x_preferred":[
         "Provincie Noord-Holland"
     ],
     "name:ces_x_preferred":[
         "Severn\u00ed Holandsko"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0628\u0627\u06a9\u0648\u0648\u0631\u06cc \u06be\u06c6\u06b5\u06d5\u0646\u062f"
+    ],
+    "name:cos_x_preferred":[
+        "Olanda Settentriunale"
     ],
     "name:cym_x_preferred":[
         "Noord-Holland"
@@ -113,6 +125,9 @@
     ],
     "name:epo_x_preferred":[
         "Norda Holando"
+    ],
+    "name:epo_x_variant":[
+        "Nord-Holando"
     ],
     "name:est_x_preferred":[
         "P\u00f5hja-Holland"
@@ -201,6 +216,9 @@
     "name:kor_x_variant":[
         "\ub178\ub974\ud2b8\ud640\ub780\ud2b8\uc8fc"
     ],
+    "name:kur_x_preferred":[
+        "Holenda Bakur"
+    ],
     "name:lat_x_preferred":[
         "Hollandia Septentrionalis"
     ],
@@ -215,6 +233,9 @@
     ],
     "name:lit_x_preferred":[
         "\u0160iaur\u0117s Olandija"
+    ],
+    "name:lld_x_preferred":[
+        "Olanda dl Nord"
     ],
     "name:ltz_x_preferred":[
         "Prov\u00ebnz Nordholland"
@@ -236,6 +257,9 @@
     ],
     "name:nan_x_preferred":[
         "Pak H\u00f4-l\u00e2n"
+    ],
+    "name:nan_x_variant":[
+        "Pak-Holland S\u00e9ng"
     ],
     "name:nds_x_preferred":[
         "Noord-Holland"
@@ -267,6 +291,9 @@
     "name:por_x_preferred":[
         "Holanda do Norte"
     ],
+    "name:pus_x_preferred":[
+        "\u0634\u0645\u0627\u0644\u064a \u0647\u0627\u0644\u0646\u0689"
+    ],
     "name:que_x_preferred":[
         "Noord-Holland pruwinsya"
     ],
@@ -287,6 +314,15 @@
     ],
     "name:slv_x_preferred":[
         "Severna Holandija"
+    ],
+    "name:sme_x_preferred":[
+        "Davvi-Holl\u00e1nda"
+    ],
+    "name:smn_x_preferred":[
+        "Tave-Holland"
+    ],
+    "name:sms_x_preferred":[
+        "T\u00e2\u02b9vv-Hollantt"
     ],
     "name:sna_x_preferred":[
         "North Holland"
@@ -315,6 +351,9 @@
     "name:swe_x_preferred":[
         "Noord-Holland"
     ],
+    "name:swe_x_variant":[
+        "Nordholland"
+    ],
     "name:tam_x_preferred":[
         "\u0bb5\u0b9f \u0bb9\u0bbe\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1"
     ],
@@ -339,6 +378,9 @@
     "name:urd_x_preferred":[
         "\u0634\u0645\u0627\u0644\u06cc \u06c1\u0648\u0644\u0627\u0646\u062a"
     ],
+    "name:vec_x_preferred":[
+        "O\u0142anda Setentriona\u0142e"
+    ],
     "name:vie_x_preferred":[
         "Noord-Holland"
     ],
@@ -350,6 +392,9 @@
     ],
     "name:war_x_preferred":[
         "Noord-Holland"
+    ],
+    "name:wln_x_preferred":[
+        "Province d' Holande Bijhrece"
     ],
     "name:wuu_x_preferred":[
         "\u5317\u8377\u5170\u7701"
@@ -470,7 +515,7 @@
         "wd:id":"Q701"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2043236a72a9ef3c5f23d5c6f55c9781",
+    "wof:geomhash":"febd2bc5cd9b6edda13f56482b0d9407",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -487,7 +532,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1684351457,
+    "wof:lastmodified":1690848545,
     "wof:name":"North Holland",
     "wof:parent_id":85633337,
     "wof:placetype":"region",

@@ -53,6 +53,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0631\u0627\u064a\u0632\u0644\u0627\u0646\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0641\u0631\u064a\u0632\u0644\u064e\u0646\u062f"
+    ],
     "name:arg_x_preferred":[
         "Frisia"
     ],
@@ -60,6 +63,15 @@
         "\u0641\u0631\u0627\u064a\u0632\u0644\u0627\u0646\u062f"
     ],
     "name:ast_x_preferred":[
+        "Friesland"
+    ],
+    "name:ast_x_variant":[
+        "Frysl\u00e2n"
+    ],
+    "name:aze_x_preferred":[
+        "Frislandiya"
+    ],
+    "name:ban_x_preferred":[
         "Friesland"
     ],
     "name:bel_x_preferred":[
@@ -101,11 +113,17 @@
     "name:ell_x_preferred":[
         "\u03a6\u03c1\u03af\u03c3\u03bb\u03b1\u03bd\u03c4"
     ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a6\u03c1\u03af\u03c3\u03bb\u03b1\u03bd\u03c4"
+    ],
     "name:eml_x_preferred":[
         "Fr\u00ec\u015bia"
     ],
     "name:eng_x_preferred":[
         "Friesland"
+    ],
+    "name:eng_x_variant":[
+        "Frysl\u00e2n"
     ],
     "name:epo_x_preferred":[
         "Frislando"
@@ -118,6 +136,9 @@
     ],
     "name:fao_x_preferred":[
         "Friesland"
+    ],
+    "name:fao_x_variant":[
+        "Frysl\u00e2n"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u06cc\u0633\u0644\u0627\u0646\u062f"
@@ -143,11 +164,17 @@
     "name:gle_x_preferred":[
         "Friesland"
     ],
+    "name:gle_x_variant":[
+        "An Fhreaslainn"
+    ],
     "name:glg_x_preferred":[
         "Frisia"
     ],
     "name:glv_x_preferred":[
         "Yn Reeshlann"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf46\ud800\udf42\ud800\udf34\ud800\udf39\ud800\udf43\ud800\udf30\ud800\udf3b\ud800\udf30\ud800\udf3d\ud800\udf33"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0acd\u0ab0\u0abe\u0a88\u0ab8\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
@@ -179,6 +206,9 @@
     "name:ind_x_preferred":[
         "Friesland"
     ],
+    "name:ind_x_variant":[
+        "Frysl\u00e2n"
+    ],
     "name:isl_x_preferred":[
         "Fr\u00edsland"
     ],
@@ -187,6 +217,9 @@
     ],
     "name:jav_x_preferred":[
         "Friesland"
+    ],
+    "name:jav_x_variant":[
+        "Frysl\u00e2n"
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30ea\u30fc\u30b9\u30e9\u30f3\u30c8\u5dde"
@@ -205,6 +238,12 @@
     ],
     "name:ksh_x_preferred":[
         "Friesland"
+    ],
+    "name:ksh_x_variant":[
+        "Frysl\u00e2n"
+    ],
+    "name:kur_x_preferred":[
+        "Fr\u00eezya"
     ],
     "name:lat_x_preferred":[
         "Frisia"
@@ -239,8 +278,14 @@
     "name:msa_x_preferred":[
         "Friesland"
     ],
+    "name:msa_x_variant":[
+        "Frysl\u00e2n"
+    ],
     "name:nan_x_preferred":[
         "Friesland S\u00e9ng"
+    ],
+    "name:nan_x_variant":[
+        "Frysl\u00e2n S\u00e9ng"
     ],
     "name:nds_x_preferred":[
         "Frysl\u00e2n"
@@ -253,7 +298,8 @@
     ],
     "name:nld_x_variant":[
         "Provincie Frysl\u00e2n",
-        "Provincie Friesland"
+        "Provincie Friesland",
+        "Frysl\u00e2n"
     ],
     "name:nob_x_preferred":[
         "Friesland"
@@ -282,6 +328,9 @@
     "name:que_x_preferred":[
         "Friesland pruwinsya"
     ],
+    "name:que_x_variant":[
+        "Frysl\u00e2n pruwinsya"
+    ],
     "name:ron_x_preferred":[
         "Provincia Frizia"
     ],
@@ -303,14 +352,26 @@
     "name:slk_x_preferred":[
         "Fr\u00edzsko"
     ],
+    "name:slv_x_preferred":[
+        "Frizija"
+    ],
     "name:som_x_preferred":[
         "Friesland"
+    ],
+    "name:som_x_variant":[
+        "Frysl\u00e2n"
     ],
     "name:spa_x_preferred":[
         "Frisia"
     ],
     "name:sqi_x_preferred":[
         "Friesland"
+    ],
+    "name:sqi_x_variant":[
+        "Frysl\u00e2n"
+    ],
+    "name:srd_x_preferred":[
+        "Fritza"
     ],
     "name:srp_x_preferred":[
         "\u0424\u0440\u0438\u0437\u0438\u0458\u0430"
@@ -320,6 +381,9 @@
     ],
     "name:swa_x_preferred":[
         "Friesland"
+    ],
+    "name:swa_x_variant":[
+        "Frysl\u00e2n"
     ],
     "name:swe_x_preferred":[
         "Friesland"
@@ -345,8 +409,14 @@
     "name:urd_x_preferred":[
         "\u0641\u0631\u06cc\u0633\u0644\u0627\u0646\u062a"
     ],
+    "name:vec_x_preferred":[
+        "Fr\u00ecxia"
+    ],
     "name:vie_x_preferred":[
         "Friesland"
+    ],
+    "name:vie_x_variant":[
+        "Frysl\u00e2n"
     ],
     "name:vls_x_preferred":[
         "Friesland"
@@ -354,8 +424,14 @@
     "name:vol_x_preferred":[
         "Friesland"
     ],
+    "name:vol_x_variant":[
+        "Frysl\u00e2n"
+    ],
     "name:war_x_preferred":[
         "Friesland"
+    ],
+    "name:war_x_variant":[
+        "Frysl\u00e2n"
     ],
     "name:wuu_x_preferred":[
         "\u5f17\u91cc\u65af\u5170\u7701"
@@ -475,7 +551,7 @@
         "wd:id":"Q770"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2257b48de4f0435eb25a9f2ed4d308a2",
+    "wof:geomhash":"cb3493e137d1cd25b7d8ab6408b8a633",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -492,7 +568,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1684351457,
+    "wof:lastmodified":1690848546,
     "wof:name":"Friesland",
     "wof:parent_id":85633337,
     "wof:placetype":"region",
