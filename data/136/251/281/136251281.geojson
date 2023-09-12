@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026734,
-    "geom:area_square_m":322213545.673029,
+    "geom:area_square_m":322213545.672945,
     "geom:bbox":"-68.419556,12.028722,-62.942944,17.648556",
     "geom:latitude":12.804576,
     "geom:longitude":-67.689735,
@@ -14,6 +14,9 @@
     "iso:parent":"NL",
     "itu:country_code":[
         "599"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "public bodies"
     ],
     "label:eng_x_preferred_shortcode":[
         "NL"
@@ -270,6 +273,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"wd",
+    "src:population_year":"2022",
     "statoids:dial":"599",
     "statoids:ds":"NA",
     "statoids:fifa":"ANT",
@@ -307,7 +312,7 @@
     ],
     "wof:country":"NL",
     "wof:country_alpha3":"BES",
-    "wof:geomhash":"e9d4afe0c74d27588fe2e5da9367f7b7",
+    "wof:geomhash":"71d01b2b58c576c8519f7bf6d79b227b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -316,13 +321,15 @@
         }
     ],
     "wof:id":136251281,
-    "wof:lastmodified":1636503457,
+    "wof:lastmodified":1694493031,
     "wof:name":"Caribbean Netherlands",
     "wof:parent_id":136253051,
     "wof:placetype":"dependency",
     "wof:placetype_alt":[
         "region"
     ],
+    "wof:population":27726,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:shortcode":"NL",
     "wof:superseded_by":[],
