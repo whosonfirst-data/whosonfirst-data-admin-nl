@@ -510,18 +510,24 @@
         101751857
     ],
     "wof:concordances":{
+        "cbsnl:code":"25",
         "digitalenvoy:region_code":10947,
         "eurostat:nuts_2021_id":"NL22",
         "fips:code":"NL03",
         "gn:id":2755634,
         "gp:id":2346375,
         "hasc:id":"NL.GE",
+        "iso:code":"NL-GE",
         "iso:id":"NL-GE",
         "unlc:id":"NL-GE",
         "wd:id":"Q775"
     },
+    "wof:concordances_official":"cbsnl:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NL",
-    "wof:geomhash":"08e35dfac829869223ea030d65175452",
+    "wof:geomhash":"d15a107154861bda801d8626b4fc5579",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -538,7 +544,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1690848544,
+    "wof:lastmodified":1695885171,
     "wof:name":"Gelderland",
     "wof:parent_id":85633337,
     "wof:placetype":"region",

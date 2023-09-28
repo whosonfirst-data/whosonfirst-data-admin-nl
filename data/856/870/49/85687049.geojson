@@ -495,18 +495,24 @@
         101751873
     ],
     "wof:concordances":{
+        "cbsnl:code":"24",
         "digitalenvoy:region_code":10944,
         "eurostat:nuts_2021_id":"NL23",
         "fips:code":"NL16",
         "gn:id":3319179,
         "gp:id":2346384,
         "hasc:id":"NL.FL",
+        "iso:code":"NL-FL",
         "iso:id":"NL-FL",
         "unlc:id":"NL-FL",
         "wd:id":"Q707"
     },
+    "wof:concordances_official":"cbsnl:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NL",
-    "wof:geomhash":"c228121ed77bf625b4f2db9c3f68beb7",
+    "wof:geomhash":"a6b322e8b1dfc78545db4fd27e6ad317",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -523,7 +529,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1690848547,
+    "wof:lastmodified":1695885171,
     "wof:name":"Flevoland",
     "wof:parent_id":85633337,
     "wof:placetype":"region",

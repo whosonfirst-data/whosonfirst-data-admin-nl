@@ -553,12 +553,14 @@
         101752763
     ],
     "wof:concordances":{
+        "cbsnl:code":"28",
         "digitalenvoy:region_code":3966,
         "eurostat:nuts_2021_id":"NL33",
         "fips:code":"NL11",
         "gn:id":2743698,
         "gp:id":2346383,
         "hasc:id":"NL.ZH",
+        "iso:code":"NL-ZH",
         "iso:id":"NL-ZH",
         "unlc:id":"NL-ZH",
         "wd:id":"Q694"
@@ -568,8 +570,12 @@
             3906
         ]
     },
+    "wof:concordances_official":"cbsnl:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NL",
-    "wof:geomhash":"ebe8cf679e37a1015fc724126cf877ef",
+    "wof:geomhash":"2dfabf9be0433846f383169a5d3ae725",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -586,7 +592,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1690848546,
+    "wof:lastmodified":1695885171,
     "wof:name":"South Holland",
     "wof:parent_id":85633337,
     "wof:placetype":"region",

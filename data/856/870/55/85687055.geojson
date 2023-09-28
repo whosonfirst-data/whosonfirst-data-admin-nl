@@ -541,17 +541,23 @@
         101751907
     ],
     "wof:concordances":{
+        "cbsnl:code":"21",
         "digitalenvoy:region_code":10981,
         "eurostat:nuts_2021_id":"NL12",
         "fips:code":"NL02",
         "gn:id":2755812,
         "gp:id":2346374,
         "hasc:id":"NL.FR",
+        "iso:code":"NL-FR",
         "iso:id":"NL-FR",
         "wd:id":"Q770"
     },
+    "wof:concordances_official":"cbsnl:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NL",
-    "wof:geomhash":"cb3493e137d1cd25b7d8ab6408b8a633",
+    "wof:geomhash":"2257b48de4f0435eb25a9f2ed4d308a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -568,7 +574,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1690848546,
+    "wof:lastmodified":1695885171,
     "wof:name":"Friesland",
     "wof:parent_id":85633337,
     "wof:placetype":"region",

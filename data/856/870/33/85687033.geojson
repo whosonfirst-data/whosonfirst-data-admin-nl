@@ -501,18 +501,24 @@
         101751803
     ],
     "wof:concordances":{
+        "cbsnl:code":"31",
         "digitalenvoy:region_code":10973,
         "eurostat:nuts_2021_id":"NL42",
         "fips:code":"NL05",
         "gn:id":2751596,
         "gp:id":2346377,
         "hasc:id":"NL.LI",
+        "iso:code":"NL-LI",
         "iso:id":"NL-LI",
         "unlc:id":"NL-LI",
         "wd:id":"Q1161"
     },
+    "wof:concordances_official":"cbsnl:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NL",
-    "wof:geomhash":"74ad312510c5e9ede16c27b54e3c1950",
+    "wof:geomhash":"0100a278ca3e96aa9448b0cea5e439ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -529,7 +535,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1690848544,
+    "wof:lastmodified":1695885171,
     "wof:name":"Limburg",
     "wof:parent_id":85633337,
     "wof:placetype":"region",

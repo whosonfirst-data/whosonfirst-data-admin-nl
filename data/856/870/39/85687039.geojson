@@ -522,18 +522,24 @@
         101751827
     ],
     "wof:concordances":{
+        "cbsnl:code":"26",
         "digitalenvoy:region_code":10945,
         "eurostat:nuts_2021_id":"NL31",
         "fips:code":"NL09",
         "gn:id":2745909,
         "gp:id":2346381,
         "hasc:id":"NL.UT",
+        "iso:code":"NL-UT",
         "iso:id":"NL-UT",
         "unlc:id":"NL-UT",
         "wd:id":"Q776"
     },
+    "wof:concordances_official":"cbsnl:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NL",
-    "wof:geomhash":"57441820528b572eda5e77d262deea38",
+    "wof:geomhash":"7584aa5a209ef5a7332804c1b6181260",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -550,7 +556,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1690848546,
+    "wof:lastmodified":1695885171,
     "wof:name":"Utrecht",
     "wof:parent_id":85633337,
     "wof:placetype":"region",

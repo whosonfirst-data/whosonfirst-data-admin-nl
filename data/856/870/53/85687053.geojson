@@ -505,17 +505,23 @@
         101751897
     ],
     "wof:concordances":{
+        "cbsnl:code":"27",
         "eurostat:nuts_2021_id":"NL32",
         "fips:code":"NL07",
         "gn:id":2749879,
         "gp:id":2346379,
         "hasc:id":"NL.NH",
+        "iso:code":"NL-NH",
         "iso:id":"NL-NH",
         "unlc:id":"NL-NH",
         "wd:id":"Q701"
     },
+    "wof:concordances_official":"cbsnl:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NL",
-    "wof:geomhash":"febd2bc5cd9b6edda13f56482b0d9407",
+    "wof:geomhash":"2043236a72a9ef3c5f23d5c6f55c9781",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -532,7 +538,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1690848545,
+    "wof:lastmodified":1695885171,
     "wof:name":"North Holland",
     "wof:parent_id":85633337,
     "wof:placetype":"region",

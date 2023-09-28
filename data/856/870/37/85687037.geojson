@@ -471,18 +471,24 @@
         101839435
     ],
     "wof:concordances":{
+        "cbsnl:code":"29",
         "digitalenvoy:region_code":12619,
         "eurostat:nuts_2021_id":"NL34",
         "fips:code":"NL10",
         "gn:id":2744011,
         "gp:id":2346382,
         "hasc:id":"NL.ZE",
+        "iso:code":"NL-ZE",
         "iso:id":"NL-ZE",
         "unlc:id":"NL-ZE",
         "wd:id":"Q705"
     },
+    "wof:concordances_official":"cbsnl:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NL",
-    "wof:geomhash":"a2432ca3be9c21da7e62d704ac0569a9",
+    "wof:geomhash":"71ab093284d6494de9922e5af98e02c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -499,7 +505,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1690848545,
+    "wof:lastmodified":1695885171,
     "wof:name":"Zeeland",
     "wof:parent_id":85633337,
     "wof:placetype":"region",
