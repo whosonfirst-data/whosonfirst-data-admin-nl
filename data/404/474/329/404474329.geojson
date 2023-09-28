@@ -27,6 +27,15 @@
     "geom:latitude":51.28791,
     "geom:longitude":3.845922,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.273325,
     "lbl:longitude":3.858141,
     "lbl:max_zoom":14.0,
@@ -214,10 +223,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0715",
         "eg:gisco_id":"NL_GM0715",
         "eurostat:nuts_2021_id":"GM0715",
         "hasc:id":"NL.ZE.TE"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
@@ -234,7 +245,7 @@
         }
     ],
     "wof:id":404474329,
-    "wof:lastmodified":1684354032,
+    "wof:lastmodified":1695878802,
     "wof:name":"Terneuzen",
     "wof:parent_id":85687037,
     "wof:placetype":"localadmin",

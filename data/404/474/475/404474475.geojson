@@ -27,6 +27,15 @@
     "geom:latitude":51.591942,
     "geom:longitude":6.089304,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.617378,
     "lbl:longitude":6.058856,
     "lbl:max_zoom":15.0,
@@ -67,9 +76,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0893",
         "eg:gisco_id":"NL_GM0893",
         "eurostat:nuts_2021_id":"GM0893"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -85,7 +96,7 @@
         }
     ],
     "wof:id":404474475,
-    "wof:lastmodified":1684354042,
+    "wof:lastmodified":1695878812,
     "wof:name":"Bergen (L.)",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

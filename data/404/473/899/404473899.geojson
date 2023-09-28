@@ -27,6 +27,15 @@
     "geom:latitude":52.287698,
     "geom:longitude":5.668227,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.276483,
     "lbl:longitude":5.702062,
     "lbl:max_zoom":14.0,
@@ -181,10 +190,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0233",
         "eg:gisco_id":"NL_GM0233",
         "eurostat:nuts_2021_id":"GM0233",
         "hasc:id":"NL.GE.ER"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
@@ -201,7 +212,7 @@
         }
     ],
     "wof:id":404473899,
-    "wof:lastmodified":1684354016,
+    "wof:lastmodified":1695878782,
     "wof:name":"Ermelo",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

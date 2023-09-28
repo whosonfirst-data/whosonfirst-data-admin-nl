@@ -27,6 +27,15 @@
     "geom:latitude":52.243228,
     "geom:longitude":5.584305,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.242132,
     "lbl:longitude":5.584439,
     "lbl:max_zoom":14.0,
@@ -160,10 +169,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0273",
         "eg:gisco_id":"NL_GM0273",
         "eurostat:nuts_2021_id":"GM0273",
         "hasc:id":"NL.GE.PU"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
@@ -180,7 +191,7 @@
         }
     ],
     "wof:id":404473929,
-    "wof:lastmodified":1684354017,
+    "wof:lastmodified":1695878783,
     "wof:name":"Putten",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

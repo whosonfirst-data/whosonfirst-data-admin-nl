@@ -27,6 +27,15 @@
     "geom:latitude":52.101976,
     "geom:longitude":5.255182,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.097983,
     "lbl:longitude":5.25422,
     "lbl:max_zoom":14.0,
@@ -194,10 +203,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0355",
         "eg:gisco_id":"NL_GM0355",
         "eurostat:nuts_2021_id":"GM0355",
         "hasc:id":"NL.UT.ZE"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -213,7 +224,7 @@
         }
     ],
     "wof:id":404474019,
-    "wof:lastmodified":1684354021,
+    "wof:lastmodified":1695878789,
     "wof:name":"Zeist",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",

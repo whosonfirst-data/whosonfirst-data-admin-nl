@@ -27,6 +27,15 @@
     "geom:latitude":52.755581,
     "geom:longitude":6.029977,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.734428,
     "lbl:longitude":6.043726,
     "lbl:max_zoom":14.0,
@@ -156,9 +165,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1708",
         "eg:gisco_id":"NL_GM1708",
         "eurostat:nuts_2021_id":"GM1708"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
@@ -175,7 +186,7 @@
         }
     ],
     "wof:id":404474621,
-    "wof:lastmodified":1684354052,
+    "wof:lastmodified":1695878822,
     "wof:name":"Steenwijkerland",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "geom:latitude":52.867405,
     "geom:longitude":6.542666,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.848408,
     "lbl:longitude":6.555104,
     "lbl:max_zoom":14.0,
@@ -170,10 +179,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1731",
         "eg:gisco_id":"NL_GM1731",
         "eurostat:nuts_2021_id":"GM1731",
         "hasc:id":"NL.DR.MD"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -189,7 +200,7 @@
         }
     ],
     "wof:id":404474649,
-    "wof:lastmodified":1684354054,
+    "wof:lastmodified":1695878825,
     "wof:name":"Midden-Drenthe",
     "wof:parent_id":85687051,
     "wof:placetype":"localadmin",

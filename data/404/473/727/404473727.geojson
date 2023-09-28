@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008715,
-    "geom:area_square_m":64627747.526064,
+    "geom:area_square_m":64627747.526065,
     "geom:bbox":"6.17567757664,53.0984433385,6.34695791481,53.2042089878",
     "geom:latitude":53.149428,
     "geom:longitude":6.276465,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.14538,
     "lbl:longitude":6.269606,
     "lbl:max_zoom":15.0,
@@ -157,13 +166,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0025",
         "hasc:id":"NL.GR.MA"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"29c1483177da43e6e624c7dcfa191c62",
+    "wof:geomhash":"7ce377201357b744012453f6c882f9e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,7 +185,7 @@
         }
     ],
     "wof:id":404473727,
-    "wof:lastmodified":1582362791,
+    "wof:lastmodified":1695878762,
     "wof:name":"Marum",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",

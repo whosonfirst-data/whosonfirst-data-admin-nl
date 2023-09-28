@@ -27,6 +27,15 @@
     "geom:latitude":51.161582,
     "geom:longitude":5.882405,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.163086,
     "lbl:longitude":5.881577,
     "lbl:max_zoom":14.0,
@@ -145,9 +154,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1641",
         "eg:gisco_id":"NL_GM1641",
         "eurostat:nuts_2021_id":"GM1641"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -163,7 +174,7 @@
         }
     ],
     "wof:id":404474559,
-    "wof:lastmodified":1684354046,
+    "wof:lastmodified":1695878816,
     "wof:name":"Maasgouw",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "geom:latitude":51.501372,
     "geom:longitude":4.887325,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.507304,
     "lbl:longitude":4.863253,
     "lbl:max_zoom":15.0,
@@ -173,10 +182,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1723",
         "eg:gisco_id":"NL_GM1723",
         "eurostat:nuts_2021_id":"GM1723",
         "hasc:id":"NL.NB.AC"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -192,7 +203,7 @@
         }
     ],
     "wof:id":404474637,
-    "wof:lastmodified":1684354054,
+    "wof:lastmodified":1695878824,
     "wof:name":"Alphen-Chaam",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

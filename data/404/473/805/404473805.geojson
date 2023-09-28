@@ -27,6 +27,15 @@
     "geom:latitude":53.001288,
     "geom:longitude":6.552483,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.996601,
     "lbl:longitude":6.551479,
     "lbl:max_zoom":14.0,
@@ -272,10 +281,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0106",
         "eg:gisco_id":"NL_GM0106",
         "eurostat:nuts_2021_id":"GM0106",
         "hasc:id":"NL.DR.AS"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -291,7 +302,7 @@
         }
     ],
     "wof:id":404473805,
-    "wof:lastmodified":1684354009,
+    "wof:lastmodified":1695878774,
     "wof:name":"Assen",
     "wof:parent_id":85687051,
     "wof:placetype":"localadmin",

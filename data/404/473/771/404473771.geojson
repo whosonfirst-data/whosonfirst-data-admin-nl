@@ -28,6 +28,15 @@
     "geom:latitude":52.995987,
     "geom:longitude":5.977911,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.942719,
     "lbl:longitude":6.045416,
     "lbl:max_zoom":14.0,
@@ -223,10 +232,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0074",
         "eg:gisco_id":"NL_GM0074",
         "eurostat:nuts_2021_id":"GM0074",
         "hasc:id":"NL.FR.HE"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -242,7 +253,7 @@
         }
     ],
     "wof:id":404473771,
-    "wof:lastmodified":1684354007,
+    "wof:lastmodified":1695878771,
     "wof:name":"Heerenveen",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",

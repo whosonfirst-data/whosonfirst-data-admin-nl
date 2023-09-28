@@ -27,6 +27,15 @@
     "geom:latitude":51.411895,
     "geom:longitude":5.383252,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.407343,
     "lbl:longitude":5.39657,
     "lbl:max_zoom":14.0,
@@ -173,10 +182,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0861",
         "eg:gisco_id":"NL_GM0861",
         "eurostat:nuts_2021_id":"GM0861",
         "hasc:id":"NL.NB.VH"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -192,7 +203,7 @@
         }
     ],
     "wof:id":404474443,
-    "wof:lastmodified":1684354042,
+    "wof:lastmodified":1695878812,
     "wof:name":"Veldhoven",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

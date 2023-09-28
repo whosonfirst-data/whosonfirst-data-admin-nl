@@ -28,6 +28,15 @@
     "geom:latitude":53.491495,
     "geom:longitude":6.226593,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.490635,
     "lbl:longitude":6.221215,
     "lbl:max_zoom":17.0,
@@ -200,10 +209,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0088",
         "eg:gisco_id":"NL_GM0088",
         "eurostat:nuts_2021_id":"GM0088",
         "hasc:id":"NL.FR.SC"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:coterminous":[
         101807407
     ],
@@ -223,7 +234,7 @@
         }
     ],
     "wof:id":404473789,
-    "wof:lastmodified":1684354007,
+    "wof:lastmodified":1695878772,
     "wof:name":"Schiermonnikoog",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",

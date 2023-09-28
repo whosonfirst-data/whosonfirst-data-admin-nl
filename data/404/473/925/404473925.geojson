@@ -27,6 +27,15 @@
     "geom:latitude":51.838507,
     "geom:longitude":5.836773,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.84124,
     "lbl:longitude":5.850173,
     "lbl:max_zoom":14.0,
@@ -296,10 +305,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0268",
         "eg:gisco_id":"NL_GM0268",
         "eurostat:nuts_2021_id":"GM0268",
         "hasc:id":"NL.GE.NM"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -315,7 +326,7 @@
         }
     ],
     "wof:id":404473925,
-    "wof:lastmodified":1684354017,
+    "wof:lastmodified":1695878783,
     "wof:name":"Nijmegen",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

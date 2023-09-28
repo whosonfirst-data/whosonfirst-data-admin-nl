@@ -27,6 +27,15 @@
     "geom:latitude":51.716658,
     "geom:longitude":5.658943,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.716119,
     "lbl:longitude":5.659035,
     "lbl:max_zoom":15.0,
@@ -155,10 +164,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1685",
         "eg:gisco_id":"NL_GM1685",
         "eurostat:nuts_2021_id":"GM1685",
         "hasc:id":"NL.NB.LN"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -174,7 +185,7 @@
         }
     ],
     "wof:id":404474599,
-    "wof:lastmodified":1684354049,
+    "wof:lastmodified":1695878819,
     "wof:name":"Landerd",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "geom:latitude":52.042546,
     "geom:longitude":5.967898,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.037701,
     "lbl:longitude":5.96091,
     "lbl:max_zoom":16.0,
@@ -152,10 +161,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0277",
         "eg:gisco_id":"NL_GM0277",
         "eurostat:nuts_2021_id":"GM0277",
         "hasc:id":"NL.GE.RO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:coterminous":[
         101754767
     ],
@@ -174,7 +185,7 @@
         }
     ],
     "wof:id":404473935,
-    "wof:lastmodified":1684354018,
+    "wof:lastmodified":1695878784,
     "wof:name":"Rozendaal",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

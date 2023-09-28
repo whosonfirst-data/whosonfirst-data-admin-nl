@@ -27,6 +27,15 @@
     "geom:latitude":50.860711,
     "geom:longitude":5.823866,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":50.862614,
     "lbl:longitude":5.819371,
     "lbl:max_zoom":15.0,
@@ -86,10 +95,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0994",
         "eg:gisco_id":"NL_GM0994",
         "eurostat:nuts_2021_id":"GM0994",
         "hasc:id":"NL.LI.VG"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -105,7 +116,7 @@
         }
     ],
     "wof:id":404474537,
-    "wof:lastmodified":1684354044,
+    "wof:lastmodified":1695878814,
     "wof:name":"Valkenburg aan de Geul",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

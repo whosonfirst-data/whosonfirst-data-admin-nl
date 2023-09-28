@@ -27,6 +27,15 @@
     "geom:latitude":52.663939,
     "geom:longitude":5.164986,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.664355,
     "lbl:longitude":5.164813,
     "lbl:max_zoom":15.0,
@@ -181,10 +190,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0498",
         "eg:gisco_id":"NL_GM0498",
         "eurostat:nuts_2021_id":"GM0498",
         "hasc:id":"NL.NH.DR"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes",
@@ -201,7 +212,7 @@
         }
     ],
     "wof:id":404474155,
-    "wof:lastmodified":1684354025,
+    "wof:lastmodified":1695878794,
     "wof:name":"Drechterland",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",

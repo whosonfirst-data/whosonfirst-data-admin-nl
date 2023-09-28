@@ -27,6 +27,15 @@
     "geom:latitude":51.852041,
     "geom:longitude":4.43571,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.852315,
     "lbl:longitude":4.435805,
     "lbl:max_zoom":14.0,
@@ -173,10 +182,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0613",
         "eg:gisco_id":"NL_GM0613",
         "eurostat:nuts_2021_id":"GM0613",
         "hasc:id":"NL.ZH.AW"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -192,7 +203,7 @@
         }
     ],
     "wof:id":404474263,
-    "wof:lastmodified":1684354027,
+    "wof:lastmodified":1695878795,
     "wof:name":"Albrandswaard",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",

@@ -15,6 +15,15 @@
     "geom:latitude":51.881353,
     "geom:longitude":6.08517,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.886939,
     "lbl:longitude":6.07622,
     "lbl:max_zoom":15.0,
@@ -142,13 +151,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0196",
         "hasc:id":"NL.GE.RI"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"af0dc03dba066e65c7ac169833f389dc",
+    "wof:geomhash":"954d2dfb7651042b30daaa54bebb1a0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,7 +170,7 @@
         }
     ],
     "wof:id":404473863,
-    "wof:lastmodified":1582362784,
+    "wof:lastmodified":1695878761,
     "wof:name":"Rijnwaarden",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

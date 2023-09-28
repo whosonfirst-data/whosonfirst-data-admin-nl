@@ -27,6 +27,15 @@
     "geom:latitude":51.640572,
     "geom:longitude":5.04754,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.636637,
     "lbl:longitude":5.030818,
     "lbl:max_zoom":14.0,
@@ -158,10 +167,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0809",
         "eg:gisco_id":"NL_GM0809",
         "eurostat:nuts_2021_id":"GM0809",
         "hasc:id":"NL.NB.LZ"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -177,7 +188,7 @@
         }
     ],
     "wof:id":404474401,
-    "wof:lastmodified":1684354040,
+    "wof:lastmodified":1695878810,
     "wof:name":"Loon op Zand",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

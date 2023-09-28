@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006159,
-    "geom:area_square_m":45538957.237982,
+    "geom:area_square_m":45538957.23798,
     "geom:bbox":"6.62584721946,53.2350556221,6.77252679288,53.3129637289",
     "geom:latitude":53.278843,
     "geom:longitude":6.691451,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.275566,
     "lbl:longitude":6.66843,
     "lbl:max_zoom":15.0,
@@ -154,13 +163,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0009",
         "hasc:id":"NL.GR.TB"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ac4d327a82b8c24d5266dc0a3daec8ee",
+    "wof:geomhash":"817e52802a1d42a0d343bcbf33eccefb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,7 +182,7 @@
         }
     ],
     "wof:id":404473709,
-    "wof:lastmodified":1582362766,
+    "wof:lastmodified":1695878758,
     "wof:name":"Ten Boer",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",

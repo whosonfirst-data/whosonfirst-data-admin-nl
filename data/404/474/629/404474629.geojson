@@ -27,6 +27,15 @@
     "geom:latitude":51.328523,
     "geom:longitude":3.515262,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.347637,
     "lbl:longitude":3.518567,
     "lbl:max_zoom":14.0,
@@ -186,9 +195,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1714",
         "eg:gisco_id":"NL_GM1714",
         "eurostat:nuts_2021_id":"GM1714"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
@@ -205,7 +216,7 @@
         }
     ],
     "wof:id":404474629,
-    "wof:lastmodified":1684354053,
+    "wof:lastmodified":1695878823,
     "wof:name":"Sluis",
     "wof:parent_id":85687037,
     "wof:placetype":"localadmin",

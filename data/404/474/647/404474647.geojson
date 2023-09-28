@@ -27,6 +27,15 @@
     "geom:latitude":53.097111,
     "geom:longitude":6.604353,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.101965,
     "lbl:longitude":6.58963,
     "lbl:max_zoom":14.0,
@@ -179,10 +188,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1730",
         "eg:gisco_id":"NL_GM1730",
         "eurostat:nuts_2021_id":"GM1730",
         "hasc:id":"NL.DR.TY"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -198,7 +209,7 @@
         }
     ],
     "wof:id":404474647,
-    "wof:lastmodified":1684354054,
+    "wof:lastmodified":1695878825,
     "wof:name":"Tynaarlo",
     "wof:parent_id":85687051,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "geom:latitude":52.17697,
     "geom:longitude":5.012587,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.175906,
     "lbl:longitude":4.996732,
     "lbl:max_zoom":14.0,
@@ -126,9 +135,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1904",
         "eg:gisco_id":"NL_GM1904",
         "eurostat:nuts_2021_id":"GM1904"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geomhash":"a62379ba67c5b3b4cf1b569c70bf199f",
     "wof:hierarchy":[
@@ -141,7 +152,7 @@
         }
     ],
     "wof:id":1158787499,
-    "wof:lastmodified":1684354060,
+    "wof:lastmodified":1695878831,
     "wof:name":"Stichtse Vecht",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",

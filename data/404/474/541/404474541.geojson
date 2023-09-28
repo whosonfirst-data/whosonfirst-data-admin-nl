@@ -27,6 +27,15 @@
     "geom:latitude":51.444866,
     "geom:longitude":6.041694,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.457228,
     "lbl:longitude":6.053081,
     "lbl:max_zoom":14.0,
@@ -86,10 +95,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1507",
         "eg:gisco_id":"NL_GM1507",
         "eurostat:nuts_2021_id":"GM1507",
         "hasc:id":"NL.LI.HM"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -105,7 +116,7 @@
         }
     ],
     "wof:id":404474541,
-    "wof:lastmodified":1684354044,
+    "wof:lastmodified":1695878814,
     "wof:name":"Horst aan de Maas",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

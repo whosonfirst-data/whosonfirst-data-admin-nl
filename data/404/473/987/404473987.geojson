@@ -27,6 +27,15 @@
     "geom:latitude":52.004102,
     "geom:longitude":5.181698,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.004042,
     "lbl:longitude":5.17402,
     "lbl:max_zoom":14.0,
@@ -161,10 +170,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0321",
         "eg:gisco_id":"NL_GM0321",
         "eurostat:nuts_2021_id":"GM0321",
         "hasc:id":"NL.UT.HO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -180,7 +191,7 @@
         }
     ],
     "wof:id":404473987,
-    "wof:lastmodified":1684354021,
+    "wof:lastmodified":1695878788,
     "wof:name":"Houten",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",

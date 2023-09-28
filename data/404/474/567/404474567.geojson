@@ -27,6 +27,15 @@
     "geom:latitude":51.360874,
     "geom:longitude":5.567263,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.365007,
     "lbl:longitude":5.568426,
     "lbl:max_zoom":15.0,
@@ -158,10 +167,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1658",
         "eg:gisco_id":"NL_GM1658",
         "eurostat:nuts_2021_id":"GM1658",
         "hasc:id":"NL.NB.HL"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -177,7 +188,7 @@
         }
     ],
     "wof:id":404474567,
-    "wof:lastmodified":1684354046,
+    "wof:lastmodified":1695878816,
     "wof:name":"Heeze-Leende",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

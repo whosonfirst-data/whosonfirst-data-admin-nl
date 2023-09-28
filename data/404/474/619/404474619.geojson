@@ -27,6 +27,15 @@
     "geom:latitude":51.286294,
     "geom:longitude":5.596195,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.286584,
     "lbl:longitude":5.58873,
     "lbl:max_zoom":14.0,
@@ -161,10 +170,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1706",
         "eg:gisco_id":"NL_GM1706",
         "eurostat:nuts_2021_id":"GM1706",
         "hasc:id":"NL.NB.CR"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -180,7 +191,7 @@
         }
     ],
     "wof:id":404474619,
-    "wof:lastmodified":1684354052,
+    "wof:lastmodified":1695878822,
     "wof:name":"Cranendonck",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

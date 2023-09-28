@@ -27,6 +27,15 @@
     "geom:latitude":51.336297,
     "geom:longitude":5.994846,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.329039,
     "lbl:longitude":6.006921,
     "lbl:max_zoom":14.0,
@@ -120,9 +129,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1894",
         "eg:gisco_id":"NL_GM1894",
         "eurostat:nuts_2021_id":"GM1894"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geomhash":"ceb2a00a802a9d5a434fe0b7f029f01c",
     "wof:hierarchy":[
@@ -135,7 +146,7 @@
         }
     ],
     "wof:id":1158805873,
-    "wof:lastmodified":1684354061,
+    "wof:lastmodified":1695878832,
     "wof:name":"Peel en Maas",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

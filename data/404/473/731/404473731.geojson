@@ -27,6 +27,15 @@
     "geom:latitude":53.002171,
     "geom:longitude":7.010322,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.002812,
     "lbl:longitude":7.018319,
     "lbl:max_zoom":14.0,
@@ -182,10 +191,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0037",
         "eg:gisco_id":"NL_GM0037",
         "eurostat:nuts_2021_id":"GM0037",
         "hasc:id":"NL.GR.ST"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -201,7 +212,7 @@
         }
     ],
     "wof:id":404473731,
-    "wof:lastmodified":1684354006,
+    "wof:lastmodified":1695878770,
     "wof:name":"Stadskanaal",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",

@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006921,
-    "geom:area_square_m":52984141.530073,
+    "geom:area_square_m":52984141.530072,
     "geom:bbox":"4.98863692158,51.7108133747,5.1427138174,51.7876475857",
     "geom:latitude":51.745818,
     "geom:longitude":5.065145,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.739601,
     "lbl:longitude":5.051406,
     "lbl:max_zoom":15.0,
@@ -169,13 +178,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0738",
         "hasc:id":"NL.NB.AA"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7e9d8dd8ff02d6a2810ffd4e5280632f",
+    "wof:geomhash":"503df25688fa0de709bb5cfcf95c4916",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,7 +197,7 @@
         }
     ],
     "wof:id":404474345,
-    "wof:lastmodified":1582362853,
+    "wof:lastmodified":1695878769,
     "wof:name":"Aalburg",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

@@ -28,6 +28,15 @@
     "geom:latitude":53.21668,
     "geom:longitude":6.143136,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.216895,
     "lbl:longitude":6.134173,
     "lbl:max_zoom":14.0,
@@ -178,10 +187,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0059",
         "eg:gisco_id":"NL_GM0059",
         "eurostat:nuts_2021_id":"GM0059",
         "hasc:id":"NL.FR.AC"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -197,7 +208,7 @@
         }
     ],
     "wof:id":404473757,
-    "wof:lastmodified":1684354006,
+    "wof:lastmodified":1695878771,
     "wof:name":"Achtkarspelen",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",

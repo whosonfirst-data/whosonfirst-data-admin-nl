@@ -27,6 +27,15 @@
     "geom:latitude":51.540755,
     "geom:longitude":5.754279,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.540512,
     "lbl:longitude":5.754367,
     "lbl:max_zoom":14.0,
@@ -164,10 +173,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1652",
         "eg:gisco_id":"NL_GM1652",
         "eurostat:nuts_2021_id":"GM1652",
         "hasc:id":"NL.NB.GB"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -183,7 +194,7 @@
         }
     ],
     "wof:id":404474563,
-    "wof:lastmodified":1684354046,
+    "wof:lastmodified":1695878816,
     "wof:name":"Gemert-Bakel",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

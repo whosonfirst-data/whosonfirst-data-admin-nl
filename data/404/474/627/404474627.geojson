@@ -27,6 +27,15 @@
     "geom:latitude":51.08504,
     "geom:longitude":5.908211,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.092999,
     "lbl:longitude":5.886465,
     "lbl:max_zoom":14.0,
@@ -154,9 +163,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1711",
         "eg:gisco_id":"NL_GM1711",
         "eurostat:nuts_2021_id":"GM1711"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -172,7 +183,7 @@
         }
     ],
     "wof:id":404474627,
-    "wof:lastmodified":1684354053,
+    "wof:lastmodified":1695878823,
     "wof:name":"Echt-Susteren",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

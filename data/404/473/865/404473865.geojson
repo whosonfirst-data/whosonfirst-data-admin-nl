@@ -27,6 +27,15 @@
     "geom:latitude":51.921747,
     "geom:longitude":6.560611,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.928147,
     "lbl:longitude":6.559185,
     "lbl:max_zoom":14.0,
@@ -185,10 +194,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0197",
         "eg:gisco_id":"NL_GM0197",
         "eurostat:nuts_2021_id":"GM0197",
         "hasc:id":"NL.GE.AA"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -204,7 +215,7 @@
         }
     ],
     "wof:id":404473865,
-    "wof:lastmodified":1684354014,
+    "wof:lastmodified":1695878779,
     "wof:name":"Aalten",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

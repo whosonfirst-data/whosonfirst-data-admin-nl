@@ -27,6 +27,15 @@
     "geom:latitude":52.715938,
     "geom:longitude":6.193813,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.713014,
     "lbl:longitude":6.178807,
     "lbl:max_zoom":14.0,
@@ -185,10 +194,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0119",
         "eg:gisco_id":"NL_GM0119",
         "eurostat:nuts_2021_id":"GM0119",
         "hasc:id":"NL.DR.ME"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -204,7 +215,7 @@
         }
     ],
     "wof:id":404473813,
-    "wof:lastmodified":1684354010,
+    "wof:lastmodified":1695878775,
     "wof:name":"Meppel",
     "wof:parent_id":85687051,
     "wof:placetype":"localadmin",

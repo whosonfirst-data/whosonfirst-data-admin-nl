@@ -27,6 +27,15 @@
     "geom:latitude":52.289386,
     "geom:longitude":4.913526,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.276379,
     "lbl:longitude":4.903594,
     "lbl:max_zoom":15.0,
@@ -182,10 +191,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0437",
         "eg:gisco_id":"NL_GM0437",
         "eurostat:nuts_2021_id":"GM0437",
         "hasc:id":"NL.NH.OA"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -201,7 +212,7 @@
         }
     ],
     "wof:id":404474109,
-    "wof:lastmodified":1684354024,
+    "wof:lastmodified":1695878791,
     "wof:name":"Ouder-Amstel",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",

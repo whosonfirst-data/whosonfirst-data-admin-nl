@@ -27,6 +27,15 @@
     "geom:latitude":50.906431,
     "geom:longitude":6.03299,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":50.907584,
     "lbl:longitude":6.024601,
     "lbl:max_zoom":14.0,
@@ -167,10 +176,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0882",
         "eg:gisco_id":"NL_GM0882",
         "eurostat:nuts_2021_id":"GM0882",
         "hasc:id":"NL.LI.LA"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -186,7 +197,7 @@
         }
     ],
     "wof:id":404474467,
-    "wof:lastmodified":1684354042,
+    "wof:lastmodified":1695878812,
     "wof:name":"Landgraaf",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

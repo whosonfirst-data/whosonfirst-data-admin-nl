@@ -27,6 +27,15 @@
     "geom:latitude":51.321742,
     "geom:longitude":4.066263,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.306419,
     "lbl:longitude":4.044171,
     "lbl:max_zoom":14.0,
@@ -169,10 +178,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0677",
         "eg:gisco_id":"NL_GM0677",
         "eurostat:nuts_2021_id":"GM0677",
         "hasc:id":"NL.ZE.HU"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes",
@@ -189,7 +200,7 @@
         }
     ],
     "wof:id":404474307,
-    "wof:lastmodified":1684354029,
+    "wof:lastmodified":1695878798,
     "wof:name":"Hulst",
     "wof:parent_id":85687037,
     "wof:placetype":"localadmin",

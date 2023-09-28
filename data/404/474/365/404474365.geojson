@@ -27,6 +27,15 @@
     "geom:latitude":51.436238,
     "geom:longitude":5.826932,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.450264,
     "lbl:longitude":5.81976,
     "lbl:max_zoom":14.0,
@@ -98,10 +107,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0762",
         "eg:gisco_id":"NL_GM0762",
         "eurostat:nuts_2021_id":"GM0762",
         "hasc:id":"NL.NB.DE"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -117,7 +128,7 @@
         }
     ],
     "wof:id":404474365,
-    "wof:lastmodified":1684354039,
+    "wof:lastmodified":1695878808,
     "wof:name":"Deurne",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

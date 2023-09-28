@@ -27,6 +27,15 @@
     "geom:latitude":51.985353,
     "geom:longitude":4.945542,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.989684,
     "lbl:longitude":4.956886,
     "lbl:max_zoom":15.0,
@@ -146,10 +155,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0331",
         "eg:gisco_id":"NL_GM0331",
         "eurostat:nuts_2021_id":"GM0331",
         "hasc:id":"NL.UT.LP"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -165,7 +176,7 @@
         }
     ],
     "wof:id":404473993,
-    "wof:lastmodified":1684354021,
+    "wof:lastmodified":1695878788,
     "wof:name":"Lopik",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",

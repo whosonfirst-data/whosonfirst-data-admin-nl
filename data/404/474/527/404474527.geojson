@@ -27,6 +27,15 @@
     "geom:latitude":51.515363,
     "geom:longitude":5.9629,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.509288,
     "lbl:longitude":5.947672,
     "lbl:max_zoom":14.0,
@@ -164,10 +173,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0984",
         "eg:gisco_id":"NL_GM0984",
         "eurostat:nuts_2021_id":"GM0984",
         "hasc:id":"NL.LI.VR"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -183,7 +194,7 @@
         }
     ],
     "wof:id":404474527,
-    "wof:lastmodified":1684354044,
+    "wof:lastmodified":1695878814,
     "wof:name":"Venray",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "geom:latitude":51.572904,
     "geom:longitude":4.132684,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.562772,
     "lbl:longitude":4.14494,
     "lbl:max_zoom":14.0,
@@ -175,10 +184,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0716",
         "eg:gisco_id":"NL_GM0716",
         "eurostat:nuts_2021_id":"GM0716",
         "hasc:id":"NL.ZE.TH"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes",
@@ -195,7 +206,7 @@
         }
     ],
     "wof:id":404474331,
-    "wof:lastmodified":1684354033,
+    "wof:lastmodified":1695878802,
     "wof:name":"Tholen",
     "wof:parent_id":85687037,
     "wof:placetype":"localadmin",

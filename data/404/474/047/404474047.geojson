@@ -27,6 +27,15 @@
     "geom:latitude":52.381829,
     "geom:longitude":4.585965,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.413964,
     "lbl:longitude":4.582823,
     "lbl:max_zoom":14.0,
@@ -184,10 +193,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0377",
         "eg:gisco_id":"NL_GM0377",
         "eurostat:nuts_2021_id":"GM0377",
         "hasc:id":"NL.NH.BL"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes",
@@ -204,7 +215,7 @@
         }
     ],
     "wof:id":404474047,
-    "wof:lastmodified":1684354022,
+    "wof:lastmodified":1695878790,
     "wof:name":"Bloemendaal",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",

@@ -11,11 +11,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009419,
-    "geom:area_square_m":69748922.511194,
+    "geom:area_square_m":69748922.511195,
     "geom:bbox":"5.60055670937,53.1660790019,5.74710720238,53.2557620507",
     "geom:latitude":53.209413,
     "geom:longitude":5.674057,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.209145,
     "lbl:longitude":5.660706,
     "lbl:max_zoom":15.0,
@@ -151,12 +160,15 @@
         85687055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "cbsnl:code":"GM1908"
+    },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d6d7a10f0d4067f7382d498d839cb589",
+    "wof:geomhash":"8d33683e616b4cfb1ba4480f7ac45b92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,7 +179,7 @@
         }
     ],
     "wof:id":404473783,
-    "wof:lastmodified":1582362774,
+    "wof:lastmodified":1695878760,
     "wof:name":"Menameradiel",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",

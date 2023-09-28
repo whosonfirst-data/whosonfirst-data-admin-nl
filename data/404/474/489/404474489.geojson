@@ -27,6 +27,15 @@
     "geom:latitude":50.871829,
     "geom:longitude":6.050979,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":50.876098,
     "lbl:longitude":6.058211,
     "lbl:max_zoom":14.0,
@@ -197,10 +206,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0928",
         "eg:gisco_id":"NL_GM0928",
         "eurostat:nuts_2021_id":"GM0928",
         "hasc:id":"NL.LI.KR"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:coterminous":[
         101839255
     ],
@@ -219,7 +230,7 @@
         }
     ],
     "wof:id":404474489,
-    "wof:lastmodified":1684354043,
+    "wof:lastmodified":1695878813,
     "wof:name":"Kerkrade",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

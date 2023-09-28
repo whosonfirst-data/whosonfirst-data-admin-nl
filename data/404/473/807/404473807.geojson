@@ -27,6 +27,15 @@
     "geom:latitude":52.740308,
     "geom:longitude":6.735915,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.734121,
     "lbl:longitude":6.736078,
     "lbl:max_zoom":14.0,
@@ -185,10 +194,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0109",
         "eg:gisco_id":"NL_GM0109",
         "eurostat:nuts_2021_id":"GM0109",
         "hasc:id":"NL.DR.CO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -204,7 +215,7 @@
         }
     ],
     "wof:id":404473807,
-    "wof:lastmodified":1684354009,
+    "wof:lastmodified":1695878775,
     "wof:name":"Coevorden",
     "wof:parent_id":85687051,
     "wof:placetype":"localadmin",

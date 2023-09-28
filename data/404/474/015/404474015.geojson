@@ -27,6 +27,15 @@
     "geom:latitude":51.989201,
     "geom:longitude":5.325256,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.989356,
     "lbl:longitude":5.323833,
     "lbl:max_zoom":14.0,
@@ -155,10 +164,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0352",
         "eg:gisco_id":"NL_GM0352",
         "eurostat:nuts_2021_id":"GM0352",
         "hasc:id":"NL.UT.WD"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -174,7 +185,7 @@
         }
     ],
     "wof:id":404474015,
-    "wof:lastmodified":1684354021,
+    "wof:lastmodified":1695878789,
     "wof:name":"Wijk bij Duurstede",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",

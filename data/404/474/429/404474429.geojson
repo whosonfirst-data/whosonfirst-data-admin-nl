@@ -27,6 +27,15 @@
     "geom:latitude":51.516375,
     "geom:longitude":5.482462,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.518518,
     "lbl:longitude":5.472185,
     "lbl:max_zoom":15.0,
@@ -152,10 +161,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0848",
         "eg:gisco_id":"NL_GM0848",
         "eurostat:nuts_2021_id":"GM0848",
         "hasc:id":"NL.NB.SB"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -171,7 +182,7 @@
         }
     ],
     "wof:id":404474429,
-    "wof:lastmodified":1684354041,
+    "wof:lastmodified":1695878811,
     "wof:name":"Son en Breugel",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "geom:latitude":51.522678,
     "geom:longitude":4.558573,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.522254,
     "lbl:longitude":4.550997,
     "lbl:max_zoom":14.0,
@@ -152,10 +161,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0840",
         "eg:gisco_id":"NL_GM0840",
         "eurostat:nuts_2021_id":"GM0840",
         "hasc:id":"NL.NB.RU"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -171,7 +182,7 @@
         }
     ],
     "wof:id":404474417,
-    "wof:lastmodified":1684354040,
+    "wof:lastmodified":1695878810,
     "wof:name":"Rucphen",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

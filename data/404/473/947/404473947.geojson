@@ -27,6 +27,15 @@
     "geom:latitude":51.973477,
     "geom:longitude":5.663516,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.97374,
     "lbl:longitude":5.662625,
     "lbl:max_zoom":14.0,
@@ -185,10 +194,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0289",
         "eg:gisco_id":"NL_GM0289",
         "eurostat:nuts_2021_id":"GM0289",
         "hasc:id":"NL.GE.WG"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:coterminous":[
         101837813
     ],
@@ -207,7 +218,7 @@
         }
     ],
     "wof:id":404473947,
-    "wof:lastmodified":1684354018,
+    "wof:lastmodified":1695878785,
     "wof:name":"Wageningen",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

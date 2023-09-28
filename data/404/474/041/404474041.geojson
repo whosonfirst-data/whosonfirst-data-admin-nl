@@ -27,6 +27,15 @@
     "geom:latitude":52.662816,
     "geom:longitude":4.670624,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.668974,
     "lbl:longitude":4.675277,
     "lbl:max_zoom":14.0,
@@ -69,9 +78,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0373",
         "eg:gisco_id":"NL_GM0373",
         "eurostat:nuts_2021_id":"GM0373"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
@@ -88,7 +99,7 @@
         }
     ],
     "wof:id":404474041,
-    "wof:lastmodified":1684354022,
+    "wof:lastmodified":1695878789,
     "wof:name":"Bergen (NH.)",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",

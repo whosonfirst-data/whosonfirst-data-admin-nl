@@ -27,6 +27,15 @@
     "geom:latitude":51.460212,
     "geom:longitude":3.619333,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.459208,
     "lbl:longitude":3.618506,
     "lbl:max_zoom":14.0,
@@ -223,10 +232,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0718",
         "eg:gisco_id":"NL_GM0718",
         "eurostat:nuts_2021_id":"GM0718",
         "hasc:id":"NL.ZE.VL"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
@@ -243,7 +254,7 @@
         }
     ],
     "wof:id":404474335,
-    "wof:lastmodified":1684354037,
+    "wof:lastmodified":1695878806,
     "wof:name":"Vlissingen",
     "wof:parent_id":85687037,
     "wof:placetype":"localadmin",

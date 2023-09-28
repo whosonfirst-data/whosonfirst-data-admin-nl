@@ -27,6 +27,15 @@
     "geom:latitude":52.514761,
     "geom:longitude":6.276648,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.527123,
     "lbl:longitude":6.265831,
     "lbl:max_zoom":14.0,
@@ -170,10 +179,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0148",
         "eg:gisco_id":"NL_GM0148",
         "eurostat:nuts_2021_id":"GM0148",
         "hasc:id":"NL.OV.DA"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -189,7 +200,7 @@
         }
     ],
     "wof:id":404473823,
-    "wof:lastmodified":1684354010,
+    "wof:lastmodified":1695878776,
     "wof:name":"Dalfsen",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",

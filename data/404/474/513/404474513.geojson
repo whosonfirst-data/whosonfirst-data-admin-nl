@@ -15,6 +15,15 @@
     "geom:latitude":50.950449,
     "geom:longitude":5.887633,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":50.953156,
     "lbl:longitude":5.896767,
     "lbl:max_zoom":15.0,
@@ -139,13 +148,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0962",
         "hasc:id":"NL.LI.SC"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8367fe87d4fa42cddea7912f56697ae0",
+    "wof:geomhash":"9f2c3d3d62c12e6b00477f667ef70aab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,7 +167,7 @@
         }
     ],
     "wof:id":404474513,
-    "wof:lastmodified":1582362853,
+    "wof:lastmodified":1695878769,
     "wof:name":"Schinnen",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

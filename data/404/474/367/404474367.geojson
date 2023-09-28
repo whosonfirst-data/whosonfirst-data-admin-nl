@@ -27,6 +27,15 @@
     "geom:latitude":53.0706,
     "geom:longitude":6.972969,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.072874,
     "lbl:longitude":6.97197,
     "lbl:max_zoom":15.0,
@@ -170,10 +179,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0765",
         "eg:gisco_id":"NL_GM0765",
         "eurostat:nuts_2021_id":"GM0765",
         "hasc:id":"NL.GR.PE"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -189,7 +200,7 @@
         }
     ],
     "wof:id":404474367,
-    "wof:lastmodified":1684354039,
+    "wof:lastmodified":1695878808,
     "wof:name":"Pekela",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",

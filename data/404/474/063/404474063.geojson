@@ -15,6 +15,15 @@
     "geom:latitude":52.402968,
     "geom:longitude":4.712453,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.404533,
     "lbl:longitude":4.708248,
     "lbl:max_zoom":15.0,
@@ -163,13 +172,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0393",
         "hasc:id":"NL.NH.HS"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4f586f31b8ec13ce694db45e41c0b78a",
+    "wof:geomhash":"b837a627af3a5b044e4a4a387c069416",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +191,7 @@
         }
     ],
     "wof:id":404474063,
-    "wof:lastmodified":1582362819,
+    "wof:lastmodified":1695878766,
     "wof:name":"Haarlemmerliede en Spaarnwoude",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",

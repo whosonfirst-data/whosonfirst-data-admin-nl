@@ -27,6 +27,15 @@
     "geom:latitude":52.017538,
     "geom:longitude":4.421955,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.018289,
     "lbl:longitude":4.425159,
     "lbl:max_zoom":14.0,
@@ -145,9 +154,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1926",
         "eg:gisco_id":"NL_GM1926",
         "eurostat:nuts_2021_id":"GM1926"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -163,7 +174,7 @@
         }
     ],
     "wof:id":404474687,
-    "wof:lastmodified":1684354057,
+    "wof:lastmodified":1695878828,
     "wof:name":"Pijnacker-Nootdorp",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",

@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013827,
-    "geom:area_square_m":102104115.122959,
+    "geom:area_square_m":102104115.122963,
     "geom:bbox":"6.42057425553,53.256436184,6.57620272969,53.4263454963",
     "geom:latitude":53.32967,
     "geom:longitude":6.507669,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.320525,
     "lbl:longitude":6.519428,
     "lbl:max_zoom":15.0,
@@ -160,13 +169,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0053",
         "hasc:id":"NL.GR.WM"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d81743e8b49fed8082cc3bc11dc732c8",
+    "wof:geomhash":"34c86feaa80ff6de16502298522d57ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +188,7 @@
         }
     ],
     "wof:id":404473749,
-    "wof:lastmodified":1582362773,
+    "wof:lastmodified":1695878759,
     "wof:name":"Winsum",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",

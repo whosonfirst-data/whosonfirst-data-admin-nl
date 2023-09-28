@@ -27,6 +27,15 @@
     "geom:latitude":52.373027,
     "geom:longitude":6.914216,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.382075,
     "lbl:longitude":6.914158,
     "lbl:max_zoom":14.0,
@@ -157,9 +166,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1774",
         "eg:gisco_id":"NL_GM1774",
         "eurostat:nuts_2021_id":"GM1774"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -175,7 +186,7 @@
         }
     ],
     "wof:id":404474665,
-    "wof:lastmodified":1684354055,
+    "wof:lastmodified":1695878826,
     "wof:name":"Dinkelland",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",

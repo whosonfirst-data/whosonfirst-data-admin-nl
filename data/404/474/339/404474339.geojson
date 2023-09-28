@@ -15,6 +15,15 @@
     "geom:latitude":51.847587,
     "geom:longitude":5.089311,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.852594,
     "lbl:longitude":5.087722,
     "lbl:max_zoom":15.0,
@@ -139,13 +148,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0733",
         "hasc:id":"NL.GE.LW"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5a3b788155358783a11df3ca00a76a32",
+    "wof:geomhash":"32a265a5d8dff20a0f1c9de486401770",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,7 +167,7 @@
         }
     ],
     "wof:id":404474339,
-    "wof:lastmodified":1582362804,
+    "wof:lastmodified":1695878763,
     "wof:name":"Lingewaal",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

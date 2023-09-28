@@ -27,6 +27,15 @@
     "geom:latitude":51.57963,
     "geom:longitude":5.06853,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.573371,
     "lbl:longitude":5.070415,
     "lbl:max_zoom":13.0,
@@ -287,10 +296,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0855",
         "eg:gisco_id":"NL_GM0855",
         "eurostat:nuts_2021_id":"GM0855",
         "hasc:id":"NL.NB.TI"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -306,7 +317,7 @@
         }
     ],
     "wof:id":404474435,
-    "wof:lastmodified":1684354041,
+    "wof:lastmodified":1695878811,
     "wof:name":"Tilburg",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

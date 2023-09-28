@@ -27,6 +27,15 @@
     "geom:latitude":52.189885,
     "geom:longitude":5.921845,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.186794,
     "lbl:longitude":5.936102,
     "lbl:max_zoom":14.0,
@@ -263,10 +272,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0200",
         "eg:gisco_id":"NL_GM0200",
         "eurostat:nuts_2021_id":"GM0200",
         "hasc:id":"NL.GE.AP"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -282,7 +293,7 @@
         }
     ],
     "wof:id":404473867,
-    "wof:lastmodified":1684354014,
+    "wof:lastmodified":1695878779,
     "wof:name":"Apeldoorn",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

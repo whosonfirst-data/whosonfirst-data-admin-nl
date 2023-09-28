@@ -27,6 +27,15 @@
     "geom:latitude":52.723104,
     "geom:longitude":6.513553,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.718478,
     "lbl:longitude":6.521351,
     "lbl:max_zoom":14.0,
@@ -200,10 +209,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0118",
         "eg:gisco_id":"NL_GM0118",
         "eurostat:nuts_2021_id":"GM0118",
         "hasc:id":"NL.DR.HO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -219,7 +230,7 @@
         }
     ],
     "wof:id":404473811,
-    "wof:lastmodified":1684354010,
+    "wof:lastmodified":1695878775,
     "wof:name":"Hoogeveen",
     "wof:parent_id":85687051,
     "wof:placetype":"localadmin",

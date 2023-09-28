@@ -27,6 +27,15 @@
     "geom:latitude":51.998892,
     "geom:longitude":4.607058,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.991975,
     "lbl:longitude":4.619999,
     "lbl:max_zoom":14.0,
@@ -116,9 +125,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1892",
         "eg:gisco_id":"NL_GM1892",
         "eurostat:nuts_2021_id":"GM1892"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geomhash":"f094997ac1ba076d3a602c8b0eb4da81",
     "wof:hierarchy":[
@@ -131,7 +142,7 @@
         }
     ],
     "wof:id":1158824737,
-    "wof:lastmodified":1684354062,
+    "wof:lastmodified":1695878834,
     "wof:name":"Zuidplas",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",

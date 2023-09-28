@@ -27,6 +27,15 @@
     "geom:latitude":52.001156,
     "geom:longitude":5.892592,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.006896,
     "lbl:longitude":5.901558,
     "lbl:max_zoom":14.0,
@@ -329,10 +338,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0202",
         "eg:gisco_id":"NL_GM0202",
         "eurostat:nuts_2021_id":"GM0202",
         "hasc:id":"NL.GE.AR"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -348,7 +359,7 @@
         }
     ],
     "wof:id":404473871,
-    "wof:lastmodified":1684354014,
+    "wof:lastmodified":1695878780,
     "wof:name":"Arnhem",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

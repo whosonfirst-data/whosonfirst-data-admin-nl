@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022805,
-    "geom:area_square_m":169860713.853899,
+    "geom:area_square_m":169860713.853902,
     "geom:bbox":"7.01479927569,52.8381961358,7.21744535682,53.0614422303",
     "geom:latitude":52.959454,
     "geom:longitude":7.119607,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.96484,
     "lbl:longitude":7.12627,
     "lbl:max_zoom":15.0,
@@ -160,13 +169,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0048",
         "hasc:id":"NL.GR.VL"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0ad581721fd63113cb39f74ea088df8b",
+    "wof:geomhash":"ffc96482893b3357a8d2a4dfb9642380",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +188,7 @@
         }
     ],
     "wof:id":404473739,
-    "wof:lastmodified":1582362764,
+    "wof:lastmodified":1695878758,
     "wof:name":"Vlagtwedde",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",

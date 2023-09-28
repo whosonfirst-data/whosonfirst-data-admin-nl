@@ -27,6 +27,15 @@
     "geom:latitude":50.80108,
     "geom:longitude":5.774039,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":50.81573,
     "lbl:longitude":5.780229,
     "lbl:max_zoom":14.0,
@@ -108,9 +117,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1903",
         "eg:gisco_id":"NL_GM1903",
         "eurostat:nuts_2021_id":"GM1903"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geomhash":"f3b08eaf57642a025e2683a17c6d6f66",
     "wof:hierarchy":[
@@ -123,7 +134,7 @@
         }
     ],
     "wof:id":1158805871,
-    "wof:lastmodified":1684354060,
+    "wof:lastmodified":1695878832,
     "wof:name":"Eijsden-Margraten",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

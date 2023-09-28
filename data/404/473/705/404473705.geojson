@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014766,
-    "geom:area_square_m":109632343.194481,
+    "geom:area_square_m":109632343.194479,
     "geom:bbox":"7.01544587002,53.0389694917,7.20424323889,53.1607736702",
     "geom:latitude":53.098607,
     "geom:longitude":7.121181,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.097267,
     "lbl:longitude":7.138292,
     "lbl:max_zoom":15.0,
@@ -160,13 +169,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0007",
         "hasc:id":"NL.GR.BL"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9f861618f246dc107ec063c4c28a9a19",
+    "wof:geomhash":"84493d6015e6b3c15381dd234627620b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +188,7 @@
         }
     ],
     "wof:id":404473705,
-    "wof:lastmodified":1582362775,
+    "wof:lastmodified":1695878760,
     "wof:name":"Bellingwedde",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",

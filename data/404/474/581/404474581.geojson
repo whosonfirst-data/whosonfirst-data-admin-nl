@@ -27,6 +27,15 @@
     "geom:latitude":51.145687,
     "geom:longitude":6.041118,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.135735,
     "lbl:longitude":6.039342,
     "lbl:max_zoom":14.0,
@@ -161,10 +170,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1669",
         "eg:gisco_id":"NL_GM1669",
         "eurostat:nuts_2021_id":"GM1669",
         "hasc:id":"NL.LI.RD"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -180,7 +191,7 @@
         }
     ],
     "wof:id":404474581,
-    "wof:lastmodified":1684354046,
+    "wof:lastmodified":1695878816,
     "wof:name":"Roerdalen",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016787,
-    "geom:area_square_m":125724804.13796,
+    "geom:area_square_m":125724804.13797,
     "geom:bbox":"4.97188814401,52.6644029635,5.27200590176,52.7746714807",
     "geom:latitude":52.720778,
     "geom:longitude":5.099208,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.713772,
     "lbl:longitude":5.051953,
     "lbl:max_zoom":14.0,
@@ -168,14 +177,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0420",
         "hasc:id":"NL.NH.ME"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
         "quattroshapes"
     ],
-    "wof:geomhash":"36520caa181f7229eb66ea164eae0098",
+    "wof:geomhash":"c54d4e1d2b713328c5506f72043d91af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,7 +197,7 @@
         }
     ],
     "wof:id":404474097,
-    "wof:lastmodified":1582362819,
+    "wof:lastmodified":1695878766,
     "wof:name":"Medemblik",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",

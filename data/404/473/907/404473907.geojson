@@ -27,6 +27,15 @@
     "geom:latitude":52.339469,
     "geom:longitude":5.655253,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.339118,
     "lbl:longitude":5.667837,
     "lbl:max_zoom":14.0,
@@ -187,10 +196,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0243",
         "eg:gisco_id":"NL_GM0243",
         "eurostat:nuts_2021_id":"GM0243",
         "hasc:id":"NL.GE.HW"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
@@ -207,7 +218,7 @@
         }
     ],
     "wof:id":404473907,
-    "wof:lastmodified":1684354016,
+    "wof:lastmodified":1695878782,
     "wof:name":"Harderwijk",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

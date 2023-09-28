@@ -28,6 +28,15 @@
     "geom:latitude":53.175388,
     "geom:longitude":5.451748,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.175289,
     "lbl:longitude":5.45544,
     "lbl:max_zoom":15.0,
@@ -131,10 +140,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0072",
         "eg:gisco_id":"NL_GM0072",
         "eurostat:nuts_2021_id":"GM0072",
         "hasc:id":"NL.FR.HA"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes",
@@ -151,7 +162,7 @@
         }
     ],
     "wof:id":404473769,
-    "wof:lastmodified":1684354006,
+    "wof:lastmodified":1695878771,
     "wof:name":"Harlingen",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",

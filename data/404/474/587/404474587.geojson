@@ -27,6 +27,15 @@
     "geom:latitude":51.513198,
     "geom:longitude":4.424518,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.507037,
     "lbl:longitude":4.422919,
     "lbl:max_zoom":14.0,
@@ -197,10 +206,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1674",
         "eg:gisco_id":"NL_GM1674",
         "eurostat:nuts_2021_id":"GM1674",
         "hasc:id":"NL.NB.RO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -216,7 +227,7 @@
         }
     ],
     "wof:id":404474587,
-    "wof:lastmodified":1684354046,
+    "wof:lastmodified":1695878816,
     "wof:name":"Roosendaal",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

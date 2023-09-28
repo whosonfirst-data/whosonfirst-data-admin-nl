@@ -27,6 +27,15 @@
     "geom:latitude":52.556983,
     "geom:longitude":4.68301,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.558521,
     "lbl:longitude":4.672248,
     "lbl:max_zoom":14.0,
@@ -184,10 +193,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0383",
         "eg:gisco_id":"NL_GM0383",
         "eurostat:nuts_2021_id":"GM0383",
         "hasc:id":"NL.NH.CA"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
@@ -204,7 +215,7 @@
         }
     ],
     "wof:id":404474053,
-    "wof:lastmodified":1684354022,
+    "wof:lastmodified":1695878790,
     "wof:name":"Castricum",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",

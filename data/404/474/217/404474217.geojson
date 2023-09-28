@@ -27,6 +27,15 @@
     "geom:latitude":52.170791,
     "geom:longitude":4.779458,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.17201,
     "lbl:longitude":4.779376,
     "lbl:max_zoom":14.0,
@@ -158,10 +167,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0569",
         "eg:gisco_id":"NL_GM0569",
         "eurostat:nuts_2021_id":"GM0569",
         "hasc:id":"NL.ZH.NK"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -177,7 +188,7 @@
         }
     ],
     "wof:id":404474217,
-    "wof:lastmodified":1684354026,
+    "wof:lastmodified":1695878794,
     "wof:name":"Nieuwkoop",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",

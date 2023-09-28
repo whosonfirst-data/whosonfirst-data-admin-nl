@@ -27,6 +27,15 @@
     "geom:latitude":51.890808,
     "geom:longitude":4.801552,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.883455,
     "lbl:longitude":4.799103,
     "lbl:max_zoom":14.0,
@@ -110,9 +119,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1927",
         "eg:gisco_id":"NL_GM1978",
         "eurostat:nuts_2021_id":"GM1978"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geomhash":"a0feb3ab7ac34f883702c45dd7ca6764",
     "wof:hierarchy":[
@@ -125,7 +136,7 @@
         }
     ],
     "wof:id":1158824743,
-    "wof:lastmodified":1684354067,
+    "wof:lastmodified":1695878838,
     "wof:name":"Molenwaard",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "geom:latitude":53.07828,
     "geom:longitude":4.804973,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.080495,
     "lbl:longitude":4.811186,
     "lbl:max_zoom":15.0,
@@ -238,10 +247,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0448",
         "eg:gisco_id":"NL_GM0448",
         "eurostat:nuts_2021_id":"GM0448",
         "hasc:id":"NL.NH.TE"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
@@ -258,7 +269,7 @@
         }
     ],
     "wof:id":404474115,
-    "wof:lastmodified":1684354024,
+    "wof:lastmodified":1695878792,
     "wof:name":"Texel",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",

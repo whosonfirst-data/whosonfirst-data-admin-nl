@@ -11,11 +11,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014019,
-    "geom:area_square_m":103850316.009605,
+    "geom:area_square_m":103850316.009614,
     "geom:bbox":"5.43693154385,53.1295236515,5.62083383978,53.265916162",
     "geom:latitude":53.19628,
     "geom:longitude":5.536258,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.201052,
     "lbl:longitude":5.542453,
     "lbl:max_zoom":14.0,
@@ -169,14 +178,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0070",
         "hasc:id":"NL.FR.FR"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
         "quattroshapes"
     ],
-    "wof:geomhash":"4e313d649035a975ed4b74eb8ffbbe02",
+    "wof:geomhash":"8789d35280956b499f9dbcc37e50faf6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,7 +198,7 @@
         }
     ],
     "wof:id":404473767,
-    "wof:lastmodified":1582362775,
+    "wof:lastmodified":1695878760,
     "wof:name":"Franekeradeel",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",

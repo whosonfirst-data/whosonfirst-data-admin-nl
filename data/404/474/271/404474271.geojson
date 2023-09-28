@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005544,
-    "geom:area_square_m":42236537.027053,
+    "geom:area_square_m":42236537.027054,
     "geom:bbox":"5.04040220498,51.9333213949,5.18022665658,52.0030351286",
     "geom:latitude":51.969408,
     "geom:longitude":5.111424,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.971571,
     "lbl:longitude":5.112678,
     "lbl:max_zoom":15.0,
@@ -145,13 +154,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0620",
         "hasc:id":"NL.ZH.VI"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"888038472f188a907ee50299ae5aa071",
+    "wof:geomhash":"617828410953ac9620bcc04da86c586e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,7 +173,7 @@
         }
     ],
     "wof:id":404474271,
-    "wof:lastmodified":1582362842,
+    "wof:lastmodified":1695878769,
     "wof:name":"Vianen",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "geom:latitude":51.378273,
     "geom:longitude":5.14774,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.386168,
     "lbl:longitude":5.146581,
     "lbl:max_zoom":15.0,
@@ -152,10 +161,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1667",
         "eg:gisco_id":"NL_GM1667",
         "eurostat:nuts_2021_id":"GM1667",
         "hasc:id":"NL.NB.RD"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -171,7 +182,7 @@
         }
     ],
     "wof:id":404474579,
-    "wof:lastmodified":1684354046,
+    "wof:lastmodified":1695878816,
     "wof:name":"Reusel-De Mierden",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

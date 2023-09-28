@@ -27,6 +27,15 @@
     "geom:latitude":52.557702,
     "geom:longitude":4.916892,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.557155,
     "lbl:longitude":4.918156,
     "lbl:max_zoom":15.0,
@@ -203,10 +212,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0370",
         "eg:gisco_id":"NL_GM0370",
         "eurostat:nuts_2021_id":"GM0370",
         "hasc:id":"NL.NH.BM"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -222,7 +233,7 @@
         }
     ],
     "wof:id":404474039,
-    "wof:lastmodified":1684354022,
+    "wof:lastmodified":1695878789,
     "wof:name":"Beemster",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",

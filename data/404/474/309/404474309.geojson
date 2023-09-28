@@ -27,6 +27,15 @@
     "geom:latitude":51.484775,
     "geom:longitude":3.967578,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.484844,
     "lbl:longitude":3.973064,
     "lbl:max_zoom":15.0,
@@ -139,10 +148,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0678",
         "eg:gisco_id":"NL_GM0678",
         "eurostat:nuts_2021_id":"GM0678",
         "hasc:id":"NL.ZE.KA"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes",
@@ -159,7 +170,7 @@
         }
     ],
     "wof:id":404474309,
-    "wof:lastmodified":1684354031,
+    "wof:lastmodified":1695878800,
     "wof:name":"Kapelle",
     "wof:parent_id":85687037,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "geom:latitude":52.155499,
     "geom:longitude":6.755841,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.157678,
     "lbl:longitude":6.745103,
     "lbl:max_zoom":14.0,
@@ -167,10 +176,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0158",
         "eg:gisco_id":"NL_GM0158",
         "eurostat:nuts_2021_id":"GM0158",
         "hasc:id":"NL.OV.HK"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -186,7 +197,7 @@
         }
     ],
     "wof:id":404473829,
-    "wof:lastmodified":1684354011,
+    "wof:lastmodified":1695878776,
     "wof:name":"Haaksbergen",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",

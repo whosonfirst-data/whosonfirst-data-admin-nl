@@ -27,6 +27,15 @@
     "geom:latitude":52.226344,
     "geom:longitude":4.917328,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.207003,
     "lbl:longitude":4.896312,
     "lbl:max_zoom":14.0,
@@ -155,10 +164,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0736",
         "eg:gisco_id":"NL_GM0736",
         "eurostat:nuts_2021_id":"GM0736",
         "hasc:id":"NL.UT.DV"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -174,7 +185,7 @@
         }
     ],
     "wof:id":404474341,
-    "wof:lastmodified":1684354037,
+    "wof:lastmodified":1695878807,
     "wof:name":"De Ronde Venen",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",

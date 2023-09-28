@@ -27,6 +27,15 @@
     "geom:latitude":51.372307,
     "geom:longitude":5.238734,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.373811,
     "lbl:longitude":5.237785,
     "lbl:max_zoom":15.0,
@@ -158,10 +167,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1728",
         "eg:gisco_id":"NL_GM1728",
         "eurostat:nuts_2021_id":"GM1728",
         "hasc:id":"NL.NB.BL"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -177,7 +188,7 @@
         }
     ],
     "wof:id":404474641,
-    "wof:lastmodified":1684354054,
+    "wof:lastmodified":1695878825,
     "wof:name":"Bladel",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "geom:latitude":52.089324,
     "geom:longitude":5.500493,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.091513,
     "lbl:longitude":5.500879,
     "lbl:max_zoom":15.0,
@@ -86,10 +95,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0279",
         "eg:gisco_id":"NL_GM0279",
         "eurostat:nuts_2021_id":"GM0279",
         "hasc:id":"NL.GE.SC"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:coterminous":[
         101807121
     ],
@@ -108,7 +119,7 @@
         }
     ],
     "wof:id":404473937,
-    "wof:lastmodified":1684354018,
+    "wof:lastmodified":1695878784,
     "wof:name":"Scherpenzeel",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

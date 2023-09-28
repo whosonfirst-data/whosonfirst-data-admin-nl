@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010383,
-    "geom:area_square_m":79444016.428425,
+    "geom:area_square_m":79444016.428415,
     "geom:bbox":"4.22755732447,51.7097633631,4.41416758179,51.8240791605",
     "geom:latitude":51.77383,
     "geom:longitude":4.329611,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.781159,
     "lbl:longitude":4.341751,
     "lbl:max_zoom":15.0,
@@ -147,14 +156,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0588",
         "hasc:id":"NL.ZH.KO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
         "quattroshapes"
     ],
-    "wof:geomhash":"708b8967e0fbc2fcd4984b03e698bf33",
+    "wof:geomhash":"e50d1b9d59544b8aecf41391b712ad27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,7 +176,7 @@
         }
     ],
     "wof:id":404474235,
-    "wof:lastmodified":1582362814,
+    "wof:lastmodified":1695878764,
     "wof:name":"Korendijk",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",

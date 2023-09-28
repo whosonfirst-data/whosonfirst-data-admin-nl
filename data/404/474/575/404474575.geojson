@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023329,
-    "geom:area_square_m":172089684.294043,
+    "geom:area_square_m":172089684.294041,
     "geom:bbox":"6.17866672652,53.3138361304,6.54774653892,53.4329658393",
     "geom:latitude":53.374821,
     "geom:longitude":6.362349,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.368333,
     "lbl:longitude":6.378026,
     "lbl:max_zoom":15.0,
@@ -162,14 +171,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1663",
         "hasc:id":"NL.GR.DM"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
         "quattroshapes"
     ],
-    "wof:geomhash":"26a670ead05f1975d2a2b4225565bb53",
+    "wof:geomhash":"c9f41b6d2a5b632fb490aa28a7e6db04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +191,7 @@
         }
     ],
     "wof:id":404474575,
-    "wof:lastmodified":1582362823,
+    "wof:lastmodified":1695878767,
     "wof:name":"De Marne",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",

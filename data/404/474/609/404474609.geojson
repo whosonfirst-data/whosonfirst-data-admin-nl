@@ -27,6 +27,15 @@
     "geom:latitude":53.095683,
     "geom:longitude":6.440337,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.081167,
     "lbl:longitude":6.42892,
     "lbl:max_zoom":14.0,
@@ -176,10 +185,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1699",
         "eg:gisco_id":"NL_GM1699",
         "eurostat:nuts_2021_id":"GM1699",
         "hasc:id":"NL.DR.NO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -195,7 +206,7 @@
         }
     ],
     "wof:id":404474609,
-    "wof:lastmodified":1684354051,
+    "wof:lastmodified":1695878821,
     "wof:name":"Noordenveld",
     "wof:parent_id":85687051,
     "wof:placetype":"localadmin",

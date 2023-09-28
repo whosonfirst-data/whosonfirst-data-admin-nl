@@ -28,6 +28,15 @@
     "geom:latitude":53.398151,
     "geom:longitude":5.330173,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.39904,
     "lbl:longitude":5.334577,
     "lbl:max_zoom":15.0,
@@ -209,10 +218,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0093",
         "eg:gisco_id":"NL_GM0093",
         "eurostat:nuts_2021_id":"GM0093",
         "hasc:id":"NL.FR.TE"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes",
@@ -229,7 +240,7 @@
         }
     ],
     "wof:id":404473795,
-    "wof:lastmodified":1684354008,
+    "wof:lastmodified":1695878773,
     "wof:name":"Terschelling",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",

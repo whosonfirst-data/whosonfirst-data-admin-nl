@@ -27,6 +27,15 @@
     "geom:latitude":52.338978,
     "geom:longitude":5.786579,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.340445,
     "lbl:longitude":5.798493,
     "lbl:max_zoom":14.0,
@@ -154,10 +163,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0302",
         "eg:gisco_id":"NL_GM0302",
         "eurostat:nuts_2021_id":"GM0302",
         "hasc:id":"NL.GE.NU"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes",
@@ -174,7 +185,7 @@
         }
     ],
     "wof:id":404473963,
-    "wof:lastmodified":1684354019,
+    "wof:lastmodified":1695878786,
     "wof:name":"Nunspeet",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

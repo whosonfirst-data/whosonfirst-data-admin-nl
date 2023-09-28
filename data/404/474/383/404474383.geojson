@@ -27,6 +27,15 @@
     "geom:latitude":51.511751,
     "geom:longitude":5.031697,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.508273,
     "lbl:longitude":5.018858,
     "lbl:max_zoom":14.0,
@@ -167,10 +176,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0785",
         "eg:gisco_id":"NL_GM0785",
         "eurostat:nuts_2021_id":"GM0785",
         "hasc:id":"NL.NB.GO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -186,7 +197,7 @@
         }
     ],
     "wof:id":404474383,
-    "wof:lastmodified":1684354039,
+    "wof:lastmodified":1695878809,
     "wof:name":"Goirle",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

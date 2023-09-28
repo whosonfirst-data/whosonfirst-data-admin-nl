@@ -27,6 +27,15 @@
     "geom:latitude":52.136343,
     "geom:longitude":6.233945,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.130775,
     "lbl:longitude":6.224161,
     "lbl:max_zoom":14.0,
@@ -197,10 +206,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0301",
         "eg:gisco_id":"NL_GM0301",
         "eurostat:nuts_2021_id":"GM0301",
         "hasc:id":"NL.GE.ZU"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -216,7 +227,7 @@
         }
     ],
     "wof:id":404473961,
-    "wof:lastmodified":1684354019,
+    "wof:lastmodified":1695878786,
     "wof:name":"Zutphen",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

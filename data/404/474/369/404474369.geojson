@@ -27,6 +27,15 @@
     "geom:latitude":51.635888,
     "geom:longitude":4.955446,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.635534,
     "lbl:longitude":4.946227,
     "lbl:max_zoom":14.0,
@@ -155,10 +164,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0766",
         "eg:gisco_id":"NL_GM0766",
         "eurostat:nuts_2021_id":"GM0766",
         "hasc:id":"NL.NB.DO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -174,7 +185,7 @@
         }
     ],
     "wof:id":404474369,
-    "wof:lastmodified":1684354039,
+    "wof:lastmodified":1695878808,
     "wof:name":"Dongen",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010239,
-    "geom:area_square_m":78641310.019623,
+    "geom:area_square_m":78641310.019622,
     "geom:bbox":"5.48517771981,51.553237967,5.65655581397,51.6514342507",
     "geom:latitude":51.599921,
     "geom:longitude":5.574139,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.604175,
     "lbl:longitude":5.565559,
     "lbl:max_zoom":14.0,
@@ -73,13 +82,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0860",
         "hasc:id":"NL.NB.VG"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"820d6481a764203f6cab0449cbdc8b8b",
+    "wof:geomhash":"36619e0bee7f3fa2c68a29be65b05300",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +101,7 @@
         }
     ],
     "wof:id":404474441,
-    "wof:lastmodified":1582362808,
+    "wof:lastmodified":1695878763,
     "wof:name":"Veghel",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

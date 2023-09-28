@@ -28,6 +28,15 @@
     "geom:latitude":52.91651,
     "geom:longitude":5.723508,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.922829,
     "lbl:longitude":5.783157,
     "lbl:max_zoom":14.0,
@@ -124,9 +133,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1940",
         "eg:gisco_id":"NL_GM1940",
         "eurostat:nuts_2021_id":"GM1940"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz"
@@ -142,7 +153,7 @@
         }
     ],
     "wof:id":1141960737,
-    "wof:lastmodified":1684354059,
+    "wof:lastmodified":1695878830,
     "wof:name":"De Fryske Marren",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",

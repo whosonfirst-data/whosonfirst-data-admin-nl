@@ -27,6 +27,15 @@
     "geom:latitude":51.479807,
     "geom:longitude":4.642659,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.474812,
     "lbl:longitude":4.640795,
     "lbl:max_zoom":14.0,
@@ -191,10 +200,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0879",
         "eg:gisco_id":"NL_GM0879",
         "eurostat:nuts_2021_id":"GM0879",
         "hasc:id":"NL.NB.ZU"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -210,7 +221,7 @@
         }
     ],
     "wof:id":404474459,
-    "wof:lastmodified":1684354042,
+    "wof:lastmodified":1695878812,
     "wof:name":"Zundert",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

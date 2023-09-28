@@ -11,11 +11,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012524,
-    "geom:area_square_m":92589826.859297,
+    "geom:area_square_m":92589826.859296,
     "geom:bbox":"5.5380388503,53.2254671096,5.74930109927,53.3348639397",
     "geom:latitude":53.279645,
     "geom:longitude":5.650398,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.285088,
     "lbl:longitude":5.6607,
     "lbl:max_zoom":15.0,
@@ -146,13 +155,16 @@
         85687055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "cbsnl:code":"GM0063"
+    },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes",
         "mz"
     ],
-    "wof:geomhash":"e604972d48fb58962aa40d89574747bf",
+    "wof:geomhash":"1e00a724ab6e9be9d3dc951ed837acb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,7 +175,7 @@
         }
     ],
     "wof:id":404473763,
-    "wof:lastmodified":1582362762,
+    "wof:lastmodified":1695878757,
     "wof:name":"het Bildt",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",

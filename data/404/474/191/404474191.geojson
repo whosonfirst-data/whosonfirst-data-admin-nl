@@ -27,6 +27,15 @@
     "geom:latitude":52.189685,
     "geom:longitude":4.422672,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.193421,
     "lbl:longitude":4.418434,
     "lbl:max_zoom":14.0,
@@ -199,10 +208,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0537",
         "eg:gisco_id":"NL_GM0537",
         "eurostat:nuts_2021_id":"GM0537",
         "hasc:id":"NL.ZH.KA"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
@@ -219,7 +230,7 @@
         }
     ],
     "wof:id":404474191,
-    "wof:lastmodified":1684354026,
+    "wof:lastmodified":1695878794,
     "wof:name":"Katwijk",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",

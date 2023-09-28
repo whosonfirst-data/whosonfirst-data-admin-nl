@@ -27,6 +27,15 @@
     "geom:latitude":52.226196,
     "geom:longitude":5.08484,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.213186,
     "lbl:longitude":5.085912,
     "lbl:max_zoom":14.0,
@@ -163,9 +172,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1696",
         "eg:gisco_id":"NL_GM1696",
         "eurostat:nuts_2021_id":"GM1696"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -181,7 +192,7 @@
         }
     ],
     "wof:id":404474605,
-    "wof:lastmodified":1684354051,
+    "wof:lastmodified":1695878821,
     "wof:name":"Wijdemeren",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",

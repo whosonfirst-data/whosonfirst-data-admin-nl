@@ -27,6 +27,15 @@
     "geom:latitude":52.585642,
     "geom:longitude":6.574075,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.59339,
     "lbl:longitude":6.609176,
     "lbl:max_zoom":14.0,
@@ -158,10 +167,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0160",
         "eg:gisco_id":"NL_GM0160",
         "eurostat:nuts_2021_id":"GM0160",
         "hasc:id":"NL.OV.HD"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -177,7 +188,7 @@
         }
     ],
     "wof:id":404473831,
-    "wof:lastmodified":1684354011,
+    "wof:lastmodified":1695878776,
     "wof:name":"Hardenberg",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",

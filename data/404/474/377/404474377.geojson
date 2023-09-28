@@ -27,6 +27,15 @@
     "geom:latitude":51.578328,
     "geom:longitude":4.644959,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.580398,
     "lbl:longitude":4.640782,
     "lbl:max_zoom":14.0,
@@ -176,10 +185,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0777",
         "eg:gisco_id":"NL_GM0777",
         "eurostat:nuts_2021_id":"GM0777",
         "hasc:id":"NL.NB.EL"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:coterminous":[
         101839355
     ],
@@ -198,7 +209,7 @@
         }
     ],
     "wof:id":404474377,
-    "wof:lastmodified":1684354039,
+    "wof:lastmodified":1695878809,
     "wof:name":"Etten-Leur",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

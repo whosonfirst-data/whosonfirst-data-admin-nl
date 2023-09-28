@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007145,
-    "geom:area_square_m":54702585.078833,
+    "geom:area_square_m":54702585.078838,
     "geom:bbox":"4.3843524082,51.7005266662,4.53497484747,51.7883310445",
     "geom:latitude":51.743818,
     "geom:longitude":4.455153,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.750099,
     "lbl:longitude":4.45016,
     "lbl:max_zoom":15.0,
@@ -150,14 +159,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0611",
         "hasc:id":"NL.ZH.CR"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
         "quattroshapes"
     ],
-    "wof:geomhash":"c22830256f4722290462df6683992735",
+    "wof:geomhash":"d7040fb816dda79c32f87fc84a2d3817",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,7 +179,7 @@
         }
     ],
     "wof:id":404474259,
-    "wof:lastmodified":1582362812,
+    "wof:lastmodified":1695878764,
     "wof:name":"Cromstrijen",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",

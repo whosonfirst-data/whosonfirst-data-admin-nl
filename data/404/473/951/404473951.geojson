@@ -27,6 +27,15 @@
     "geom:latitude":51.969869,
     "geom:longitude":6.725866,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.972383,
     "lbl:longitude":6.723861,
     "lbl:max_zoom":14.0,
@@ -167,10 +176,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0294",
         "eg:gisco_id":"NL_GM0294",
         "eurostat:nuts_2021_id":"GM0294",
         "hasc:id":"NL.GE.WW"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -186,7 +197,7 @@
         }
     ],
     "wof:id":404473951,
-    "wof:lastmodified":1684354018,
+    "wof:lastmodified":1695878785,
     "wof:name":"Winterswijk",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

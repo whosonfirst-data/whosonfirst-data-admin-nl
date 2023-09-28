@@ -15,6 +15,15 @@
     "geom:latitude":50.969931,
     "geom:longitude":5.966471,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":50.969231,
     "lbl:longitude":5.948228,
     "lbl:max_zoom":15.0,
@@ -136,13 +145,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0881",
         "hasc:id":"NL.LI.ON"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f20ce6f781a610f7919e6c948b831e0a",
+    "wof:geomhash":"a8737a92acd960b1e9be38bff40a5249",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,7 +164,7 @@
         }
     ],
     "wof:id":404474465,
-    "wof:lastmodified":1582362820,
+    "wof:lastmodified":1695878767,
     "wof:name":"Onderbanken",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "geom:latitude":52.108975,
     "geom:longitude":6.118512,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.109833,
     "lbl:longitude":6.12701,
     "lbl:max_zoom":14.0,
@@ -167,10 +176,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0213",
         "eg:gisco_id":"NL_GM0213",
         "eurostat:nuts_2021_id":"GM0213",
         "hasc:id":"NL.GE.BR"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -186,7 +197,7 @@
         }
     ],
     "wof:id":404473877,
-    "wof:lastmodified":1684354014,
+    "wof:lastmodified":1695878780,
     "wof:name":"Brummen",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

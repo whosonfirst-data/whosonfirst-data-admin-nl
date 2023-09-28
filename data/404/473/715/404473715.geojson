@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011799,
-    "geom:area_square_m":87377523.957331,
+    "geom:area_square_m":87377523.957332,
     "geom:bbox":"6.17523487069,53.1350763768,6.40621212695,53.2559538942",
     "geom:latitude":53.208643,
     "geom:longitude":6.273222,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.216303,
     "lbl:longitude":6.2619,
     "lbl:max_zoom":15.0,
@@ -166,13 +175,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0015",
         "hasc:id":"NL.GR.GT"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0a850990e1ef6225efb845a69a0b36ab",
+    "wof:geomhash":"fc78a5add0cdf24d015325df961761ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,7 +194,7 @@
         }
     ],
     "wof:id":404473715,
-    "wof:lastmodified":1582362773,
+    "wof:lastmodified":1695878759,
     "wof:name":"Grootegast",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",

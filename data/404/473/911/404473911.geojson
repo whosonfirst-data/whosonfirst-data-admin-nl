@@ -27,6 +27,15 @@
     "geom:latitude":52.406062,
     "geom:longitude":6.050334,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.404571,
     "lbl:longitude":6.052134,
     "lbl:max_zoom":15.0,
@@ -167,10 +176,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0246",
         "eg:gisco_id":"NL_GM0246",
         "eurostat:nuts_2021_id":"GM0246",
         "hasc:id":"NL.GE.HR"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -186,7 +197,7 @@
         }
     ],
     "wof:id":404473911,
-    "wof:lastmodified":1684354016,
+    "wof:lastmodified":1695878782,
     "wof:name":"Heerde",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

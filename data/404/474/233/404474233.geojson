@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009846,
-    "geom:area_square_m":75301437.576944,
+    "geom:area_square_m":75301437.576943,
     "geom:bbox":"4.42369728591,51.7282562875,4.63163330954,51.8355495469",
     "geom:latitude":51.795036,
     "geom:longitude":4.5352,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.805538,
     "lbl:longitude":4.536764,
     "lbl:max_zoom":14.0,
@@ -148,13 +157,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0585",
         "hasc:id":"NL.ZH.BI"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8d614e322182421a60997b7980565663",
+    "wof:geomhash":"30fac048af8665a69ddaf930ba89fd61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,7 +176,7 @@
         }
     ],
     "wof:id":404474233,
-    "wof:lastmodified":1582362820,
+    "wof:lastmodified":1695878766,
     "wof:name":"Binnenmaas",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",
