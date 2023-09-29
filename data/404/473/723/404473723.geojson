@@ -27,6 +27,15 @@
     "geom:latitude":53.340695,
     "geom:longitude":6.728138,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.353082,
     "lbl:longitude":6.760394,
     "lbl:max_zoom":15.0,
@@ -77,10 +86,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0024",
         "eg:gisco_id":"NL_GM0024",
         "eurostat:nuts_2021_id":"GM0024",
         "hasc:id":"NL.GR.LO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":404473723,
-    "wof:lastmodified":1684354006,
+    "wof:lastmodified":1695878770,
     "wof:name":"Loppersum",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",

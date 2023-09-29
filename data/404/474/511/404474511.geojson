@@ -27,6 +27,15 @@
     "geom:latitude":51.201196,
     "geom:longitude":6.011493,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.201159,
     "lbl:longitude":6.017325,
     "lbl:max_zoom":14.0,
@@ -185,10 +194,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0957",
         "eg:gisco_id":"NL_GM0957",
         "eurostat:nuts_2021_id":"GM0957",
         "hasc:id":"NL.LI.RM"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -204,7 +215,7 @@
         }
     ],
     "wof:id":404474511,
-    "wof:lastmodified":1684354043,
+    "wof:lastmodified":1695878813,
     "wof:name":"Roermond",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

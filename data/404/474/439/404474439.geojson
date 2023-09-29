@@ -27,6 +27,15 @@
     "geom:latitude":51.323767,
     "geom:longitude":5.449247,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.310448,
     "lbl:longitude":5.455957,
     "lbl:max_zoom":14.0,
@@ -158,10 +167,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0858",
         "eg:gisco_id":"NL_GM0858",
         "eurostat:nuts_2021_id":"GM0858",
         "hasc:id":"NL.NB.VA"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -177,7 +188,7 @@
         }
     ],
     "wof:id":404474439,
-    "wof:lastmodified":1684354041,
+    "wof:lastmodified":1695878812,
     "wof:name":"Valkenswaard",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

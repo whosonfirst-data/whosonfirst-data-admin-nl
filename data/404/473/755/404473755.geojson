@@ -11,11 +11,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022891,
-    "geom:area_square_m":168922347.763564,
+    "geom:area_square_m":168922347.763556,
     "geom:bbox":"5.84806110006,53.3006351546,6.19147087704,53.4754310032",
     "geom:latitude":53.360369,
     "geom:longitude":6.034331,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.36436,
     "lbl:longitude":6.033888,
     "lbl:max_zoom":14.0,
@@ -163,14 +172,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0058",
         "hasc:id":"NL.FR.DO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes",
         "mz"
     ],
-    "wof:geomhash":"c769509fdfdae81da14df3952eb97718",
+    "wof:geomhash":"9e88331222773c7d203bfe5877b5691b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,7 +192,7 @@
         }
     ],
     "wof:id":404473755,
-    "wof:lastmodified":1582362763,
+    "wof:lastmodified":1695878757,
     "wof:name":"Dongeradeel",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",

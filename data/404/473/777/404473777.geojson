@@ -11,11 +11,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005583,
-    "geom:area_square_m":41292324.490978,
+    "geom:area_square_m":41292324.49098,
     "geom:bbox":"5.72012102054,53.2240015215,5.83864916664,53.2947209966",
     "geom:latitude":53.260787,
     "geom:longitude":5.779277,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.255179,
     "lbl:longitude":5.792304,
     "lbl:max_zoom":15.0,
@@ -156,13 +165,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0081",
         "hasc:id":"NL.FR.LD"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dd631e28adc54ba293db6c0d72f52f70",
+    "wof:geomhash":"9c388f6629757262c50a82b06e99907f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,7 +184,7 @@
         }
     ],
     "wof:id":404473777,
-    "wof:lastmodified":1582362774,
+    "wof:lastmodified":1695878759,
     "wof:name":"Leeuwarderadeel",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",

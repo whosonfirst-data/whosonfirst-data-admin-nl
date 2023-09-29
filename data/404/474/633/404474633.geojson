@@ -27,6 +27,15 @@
     "geom:latitude":51.684694,
     "geom:longitude":5.520681,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.673192,
     "lbl:longitude":5.519421,
     "lbl:max_zoom":14.0,
@@ -167,10 +176,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1721",
         "eg:gisco_id":"NL_GM1721",
         "eurostat:nuts_2021_id":"GM1721",
         "hasc:id":"NL.NB.BH"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -186,7 +197,7 @@
         }
     ],
     "wof:id":404474633,
-    "wof:lastmodified":1684354054,
+    "wof:lastmodified":1695878824,
     "wof:name":"Bernheze",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "geom:latitude":52.325519,
     "geom:longitude":5.954985,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.335135,
     "lbl:longitude":5.942549,
     "lbl:max_zoom":14.0,
@@ -77,10 +86,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0232",
         "eg:gisco_id":"NL_GM0232",
         "eurostat:nuts_2021_id":"GM0232",
         "hasc:id":"NL.GE.EP"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":404473897,
-    "wof:lastmodified":1684354016,
+    "wof:lastmodified":1695878782,
     "wof:name":"Epe",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

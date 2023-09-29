@@ -27,6 +27,15 @@
     "geom:latitude":52.36681,
     "geom:longitude":6.153362,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.348083,
     "lbl:longitude":6.15154,
     "lbl:max_zoom":15.0,
@@ -148,9 +157,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1773",
         "eg:gisco_id":"NL_GM1773",
         "eurostat:nuts_2021_id":"GM1773"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -166,7 +177,7 @@
         }
     ],
     "wof:id":404474663,
-    "wof:lastmodified":1684354055,
+    "wof:lastmodified":1695878826,
     "wof:name":"Olst-Wijhe",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",

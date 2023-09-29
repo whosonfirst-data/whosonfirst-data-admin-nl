@@ -27,6 +27,15 @@
     "geom:latitude":52.633507,
     "geom:longitude":6.207084,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.634963,
     "lbl:longitude":6.209167,
     "lbl:max_zoom":15.0,
@@ -164,10 +173,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0180",
         "eg:gisco_id":"NL_GM0180",
         "eurostat:nuts_2021_id":"GM0180",
         "hasc:id":"NL.OV.SH"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -183,7 +194,7 @@
         }
     ],
     "wof:id":404473853,
-    "wof:lastmodified":1684354013,
+    "wof:lastmodified":1695878779,
     "wof:name":"Staphorst",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",

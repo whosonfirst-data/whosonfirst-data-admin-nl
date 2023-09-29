@@ -27,6 +27,15 @@
     "geom:latitude":51.816736,
     "geom:longitude":5.70189,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.806979,
     "lbl:longitude":5.71869,
     "lbl:max_zoom":14.0,
@@ -173,10 +182,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0296",
         "eg:gisco_id":"NL_GM0296",
         "eurostat:nuts_2021_id":"GM0296",
         "hasc:id":"NL.GE.WC"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -192,7 +203,7 @@
         }
     ],
     "wof:id":404473953,
-    "wof:lastmodified":1684354018,
+    "wof:lastmodified":1695878785,
     "wof:name":"Wijchen",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

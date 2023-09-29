@@ -27,6 +27,15 @@
     "geom:latitude":52.411992,
     "geom:longitude":5.849976,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.413988,
     "lbl:longitude":5.851125,
     "lbl:max_zoom":14.0,
@@ -163,10 +172,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0230",
         "eg:gisco_id":"NL_GM0230",
         "eurostat:nuts_2021_id":"GM0230",
         "hasc:id":"NL.GE.EL"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes",
@@ -183,7 +194,7 @@
         }
     ],
     "wof:id":404473895,
-    "wof:lastmodified":1684354016,
+    "wof:lastmodified":1695878781,
     "wof:name":"Elburg",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

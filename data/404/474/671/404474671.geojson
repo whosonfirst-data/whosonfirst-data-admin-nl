@@ -27,6 +27,15 @@
     "geom:latitude":52.100878,
     "geom:longitude":6.570828,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.111691,
     "lbl:longitude":6.558421,
     "lbl:max_zoom":14.0,
@@ -154,9 +163,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1859",
         "eg:gisco_id":"NL_GM1859",
         "eurostat:nuts_2021_id":"GM1859"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -172,7 +183,7 @@
         }
     ],
     "wof:id":404474671,
-    "wof:lastmodified":1684354056,
+    "wof:lastmodified":1695878827,
     "wof:name":"Berkelland",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

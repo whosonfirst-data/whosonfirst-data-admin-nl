@@ -27,6 +27,15 @@
     "geom:latitude":52.602426,
     "geom:longitude":6.064358,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.608899,
     "lbl:longitude":6.058047,
     "lbl:max_zoom":14.0,
@@ -163,10 +172,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1896",
         "eg:gisco_id":"NL_GM1896",
         "eurostat:nuts_2021_id":"GM1896",
         "hasc:id":"NL.OV.ZW"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes",
@@ -183,7 +194,7 @@
         }
     ],
     "wof:id":404474683,
-    "wof:lastmodified":1684354057,
+    "wof:lastmodified":1695878828,
     "wof:name":"Zwartewaterland",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",

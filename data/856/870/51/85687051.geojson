@@ -476,18 +476,24 @@
         101751879
     ],
     "wof:concordances":{
+        "cbsnl:code":"22",
         "digitalenvoy:region_code":10949,
         "eurostat:nuts_2021_id":"NL13",
         "fips:code":"NL01",
         "gn:id":2756631,
         "gp:id":2346373,
         "hasc:id":"NL.DR",
+        "iso:code":"NL-DR",
         "iso:id":"NL-DR",
         "unlc:id":"NL-DR",
         "wd:id":"Q772"
     },
+    "wof:concordances_official":"cbsnl:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NL",
-    "wof:geomhash":"aa665006eb0187b3a94d3cbd4c5557f1",
+    "wof:geomhash":"694c31ea6307bad0103d7269e4c4daae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -504,7 +510,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1690848543,
+    "wof:lastmodified":1695885171,
     "wof:name":"Drenthe",
     "wof:parent_id":85633337,
     "wof:placetype":"region",

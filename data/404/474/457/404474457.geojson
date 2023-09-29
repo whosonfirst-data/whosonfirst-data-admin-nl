@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006735,
-    "geom:area_square_m":51519475.215172,
+    "geom:area_square_m":51519475.215171,
     "geom:bbox":"4.9316692403,51.7509573032,5.08662103055,51.8236543637",
     "geom:latitude":51.782573,
     "geom:longitude":4.994771,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.786462,
     "lbl:longitude":4.988624,
     "lbl:max_zoom":15.0,
@@ -148,13 +157,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0874",
         "hasc:id":"NL.NB.WO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1c0aa91f15f4e0182ecc1afb20c889b2",
+    "wof:geomhash":"14fb43e861777a0cfc236911b55f5489",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,7 +176,7 @@
         }
     ],
     "wof:id":404474457,
-    "wof:lastmodified":1582362847,
+    "wof:lastmodified":1695878769,
     "wof:name":"Woudrichem",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

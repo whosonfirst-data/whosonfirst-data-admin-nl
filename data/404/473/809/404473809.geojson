@@ -27,6 +27,15 @@
     "geom:latitude":52.749718,
     "geom:longitude":6.961985,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.7455,
     "lbl:longitude":6.964652,
     "lbl:max_zoom":14.0,
@@ -134,10 +143,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0114",
         "eg:gisco_id":"NL_GM0114",
         "eurostat:nuts_2021_id":"GM0114",
         "hasc:id":"NL.DR.EM"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -153,7 +164,7 @@
         }
     ],
     "wof:id":404473809,
-    "wof:lastmodified":1684354010,
+    "wof:lastmodified":1695878775,
     "wof:name":"Emmen",
     "wof:parent_id":85687051,
     "wof:placetype":"localadmin",

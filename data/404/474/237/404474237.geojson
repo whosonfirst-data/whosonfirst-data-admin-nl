@@ -27,6 +27,15 @@
     "geom:latitude":52.027458,
     "geom:longitude":4.864242,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.029811,
     "lbl:longitude":4.873837,
     "lbl:max_zoom":15.0,
@@ -158,10 +167,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0589",
         "eg:gisco_id":"NL_GM0589",
         "eurostat:nuts_2021_id":"GM0589",
         "hasc:id":"NL.UT.OU"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -177,7 +188,7 @@
         }
     ],
     "wof:id":404474237,
-    "wof:lastmodified":1684354027,
+    "wof:lastmodified":1695878795,
     "wof:name":"Oudewater",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",

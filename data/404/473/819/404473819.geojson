@@ -27,6 +27,15 @@
     "geom:latitude":52.347902,
     "geom:longitude":6.658197,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.348125,
     "lbl:longitude":6.656985,
     "lbl:max_zoom":14.0,
@@ -212,10 +221,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0141",
         "eg:gisco_id":"NL_GM0141",
         "eurostat:nuts_2021_id":"GM0141",
         "hasc:id":"NL.OV.AL"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -231,7 +242,7 @@
         }
     ],
     "wof:id":404473819,
-    "wof:lastmodified":1684354010,
+    "wof:lastmodified":1695878775,
     "wof:name":"Almelo",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",

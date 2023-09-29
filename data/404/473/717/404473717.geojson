@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006814,
-    "geom:area_square_m":50523881.552385,
+    "geom:area_square_m":50523881.552384,
     "geom:bbox":"6.54837759441,53.1061987288,6.69536692885,53.19659159",
     "geom:latitude":53.154548,
     "geom:longitude":6.631058,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.154681,
     "lbl:longitude":6.636848,
     "lbl:max_zoom":15.0,
@@ -97,13 +106,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0017",
         "hasc:id":"NL.GR.HA"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"114a984d5c62363ed9b5385c2e45d8a8",
+    "wof:geomhash":"0b97cea8f98362c4bc8dbfb44fd8feb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +125,7 @@
         }
     ],
     "wof:id":404473717,
-    "wof:lastmodified":1582362787,
+    "wof:lastmodified":1695878761,
     "wof:name":"Haren",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",

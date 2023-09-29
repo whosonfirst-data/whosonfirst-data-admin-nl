@@ -27,6 +27,15 @@
     "geom:latitude":51.396522,
     "geom:longitude":5.314615,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.359829,
     "lbl:longitude":5.309492,
     "lbl:max_zoom":15.0,
@@ -158,10 +167,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0770",
         "eg:gisco_id":"NL_GM0770",
         "eurostat:nuts_2021_id":"GM0770",
         "hasc:id":"NL.NB.EE"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -177,7 +188,7 @@
         }
     ],
     "wof:id":404474371,
-    "wof:lastmodified":1684354039,
+    "wof:lastmodified":1695878809,
     "wof:name":"Eersel",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

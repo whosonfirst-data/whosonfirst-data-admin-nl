@@ -27,6 +27,15 @@
     "geom:latitude":52.19258,
     "geom:longitude":4.629212,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.188195,
     "lbl:longitude":4.628997,
     "lbl:max_zoom":14.0,
@@ -136,9 +145,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1884",
         "eg:gisco_id":"NL_GM1884",
         "eurostat:nuts_2021_id":"GM1884"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -154,7 +165,7 @@
         }
     ],
     "wof:id":404474677,
-    "wof:lastmodified":1684354057,
+    "wof:lastmodified":1695878828,
     "wof:name":"Kaag en Braassem",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "geom:latitude":51.747698,
     "geom:longitude":4.123821,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.746792,
     "lbl:longitude":4.125539,
     "lbl:max_zoom":14.0,
@@ -123,9 +132,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1924",
         "eg:gisco_id":"NL_GM1924",
         "eurostat:nuts_2021_id":"GM1924"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz"
@@ -141,7 +152,7 @@
         }
     ],
     "wof:id":1158824741,
-    "wof:lastmodified":1684354063,
+    "wof:lastmodified":1695878834,
     "wof:name":"Goeree-Overflakkee",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",

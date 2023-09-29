@@ -496,18 +496,24 @@
         101751809
     ],
     "wof:concordances":{
+        "cbsnl:code":"30",
         "digitalenvoy:region_code":10951,
         "eurostat:nuts_2021_id":"NL41",
         "fips:code":"NL06",
         "gn:id":2749990,
         "gp:id":2346378,
         "hasc:id":"NL.NB",
+        "iso:code":"NL-NB",
         "iso:id":"NL-NB",
         "unlc:id":"NL-NB",
         "wd:id":"Q1101"
     },
+    "wof:concordances_official":"cbsnl:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NL",
-    "wof:geomhash":"919696aaf2958e26e61badb53e7edf6e",
+    "wof:geomhash":"f34f57eb851e066a2a431434d6c49c17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -524,7 +530,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1690848543,
+    "wof:lastmodified":1695885171,
     "wof:name":"North Brabant",
     "wof:parent_id":85633337,
     "wof:placetype":"region",

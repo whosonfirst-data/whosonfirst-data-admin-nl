@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004731,
-    "geom:area_square_m":35796772.779724,
+    "geom:area_square_m":35796772.77972,
     "geom:bbox":"4.40546408224,52.2073555838,4.54337082268,52.3282278471",
     "geom:latitude":52.268622,
     "geom:longitude":4.470801,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.303909,
     "lbl:longitude":4.500034,
     "lbl:max_zoom":14.0,
@@ -171,14 +180,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0575",
         "hasc:id":"NL.ZH.NW"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes",
         "mz"
     ],
-    "wof:geomhash":"490b2a601f0f619f506f5e6ce4b50f31",
+    "wof:geomhash":"554f63ab6d0fb199623b3a1876c67f91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,7 +200,7 @@
         }
     ],
     "wof:id":404474221,
-    "wof:lastmodified":1582362807,
+    "wof:lastmodified":1695878763,
     "wof:name":"Noordwijk",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",

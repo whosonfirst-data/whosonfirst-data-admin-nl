@@ -27,6 +27,15 @@
     "geom:latitude":52.474784,
     "geom:longitude":6.053255,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.469055,
     "lbl:longitude":6.056641,
     "lbl:max_zoom":15.0,
@@ -173,10 +182,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0244",
         "eg:gisco_id":"NL_GM0244",
         "eurostat:nuts_2021_id":"GM0244",
         "hasc:id":"NL.GE.HT"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:coterminous":[
         101837771
     ],
@@ -195,7 +206,7 @@
         }
     ],
     "wof:id":404473909,
-    "wof:lastmodified":1684354016,
+    "wof:lastmodified":1695878782,
     "wof:name":"Hattem",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

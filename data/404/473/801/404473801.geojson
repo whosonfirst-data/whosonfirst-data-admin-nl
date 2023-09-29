@@ -28,6 +28,15 @@
     "geom:latitude":52.875741,
     "geom:longitude":6.017774,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.874862,
     "lbl:longitude":6.01451,
     "lbl:max_zoom":14.0,
@@ -178,10 +187,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0098",
         "eg:gisco_id":"NL_GM0098",
         "eurostat:nuts_2021_id":"GM0098",
         "hasc:id":"NL.FR.WE"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -197,7 +208,7 @@
         }
     ],
     "wof:id":404473801,
-    "wof:lastmodified":1684354009,
+    "wof:lastmodified":1695878774,
     "wof:name":"Weststellingwerf",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "geom:latitude":51.875013,
     "geom:longitude":5.612148,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.875082,
     "lbl:longitude":5.612561,
     "lbl:max_zoom":15.0,
@@ -158,10 +167,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0225",
         "eg:gisco_id":"NL_GM0225",
         "eurostat:nuts_2021_id":"GM0225",
         "hasc:id":"NL.GE.DR"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -177,7 +188,7 @@
         }
     ],
     "wof:id":404473889,
-    "wof:lastmodified":1684354015,
+    "wof:lastmodified":1695878781,
     "wof:name":"Druten",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

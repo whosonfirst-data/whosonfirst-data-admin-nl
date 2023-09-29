@@ -27,6 +27,15 @@
     "geom:latitude":51.781549,
     "geom:longitude":5.526405,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.786707,
     "lbl:longitude":5.577937,
     "lbl:max_zoom":14.0,
@@ -206,10 +215,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0828",
         "eg:gisco_id":"NL_GM0828",
         "eurostat:nuts_2021_id":"GM0828",
         "hasc:id":"NL.NB.OS"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -225,7 +236,7 @@
         }
     ],
     "wof:id":404474415,
-    "wof:lastmodified":1684354040,
+    "wof:lastmodified":1695878810,
     "wof:name":"Oss",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

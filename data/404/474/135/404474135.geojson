@@ -27,6 +27,15 @@
     "geom:latitude":52.357998,
     "geom:longitude":4.543578,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.357973,
     "lbl:longitude":4.54329,
     "lbl:max_zoom":15.0,
@@ -196,10 +205,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0473",
         "eg:gisco_id":"NL_GM0473",
         "eurostat:nuts_2021_id":"GM0473",
         "hasc:id":"NL.NH.ZD"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:coterminous":[
         101808813
     ],
@@ -219,7 +230,7 @@
         }
     ],
     "wof:id":404474135,
-    "wof:lastmodified":1684354025,
+    "wof:lastmodified":1695878793,
     "wof:name":"Zandvoort",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",

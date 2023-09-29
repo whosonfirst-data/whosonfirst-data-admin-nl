@@ -28,6 +28,15 @@
     "geom:latitude":53.153771,
     "geom:longitude":5.826308,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.189818,
     "lbl:longitude":5.797428,
     "lbl:max_zoom":14.0,
@@ -322,10 +331,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0080",
         "eg:gisco_id":"NL_GM0080",
         "eurostat:nuts_2021_id":"GM0080",
         "hasc:id":"NL.FR.LW"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -341,7 +352,7 @@
         }
     ],
     "wof:id":404473775,
-    "wof:lastmodified":1684354007,
+    "wof:lastmodified":1695878771,
     "wof:name":"Leeuwarden",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",

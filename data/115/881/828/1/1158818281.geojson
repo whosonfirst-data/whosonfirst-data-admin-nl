@@ -27,6 +27,15 @@
     "geom:latitude":52.301412,
     "geom:longitude":5.134572,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.30338,
     "lbl:longitude":5.125751,
     "lbl:max_zoom":14.0,
@@ -106,9 +115,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1942",
         "eg:gisco_id":"NL_GM1942",
         "eurostat:nuts_2021_id":"GM1942"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz"
@@ -124,7 +135,7 @@
         }
     ],
     "wof:id":1158818281,
-    "wof:lastmodified":1684354061,
+    "wof:lastmodified":1695878832,
     "wof:name":"Gooise Meren",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",

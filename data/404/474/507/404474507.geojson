@@ -27,6 +27,15 @@
     "geom:latitude":51.294358,
     "geom:longitude":5.773316,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.293197,
     "lbl:longitude":5.774965,
     "lbl:max_zoom":15.0,
@@ -164,10 +173,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0946",
         "eg:gisco_id":"NL_GM0946",
         "eurostat:nuts_2021_id":"GM0946",
         "hasc:id":"NL.LI.NE"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -183,7 +194,7 @@
         }
     ],
     "wof:id":404474507,
-    "wof:lastmodified":1684354043,
+    "wof:lastmodified":1695878813,
     "wof:name":"Nederweert",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

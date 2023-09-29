@@ -27,6 +27,15 @@
     "geom:latitude":51.868797,
     "geom:longitude":4.596107,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.869784,
     "lbl:longitude":4.592785,
     "lbl:max_zoom":14.0,
@@ -176,10 +185,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0597",
         "eg:gisco_id":"NL_GM0597",
         "eurostat:nuts_2021_id":"GM0597",
         "hasc:id":"NL.ZH.RK"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -195,7 +206,7 @@
         }
     ],
     "wof:id":404474243,
-    "wof:lastmodified":1684354027,
+    "wof:lastmodified":1695878795,
     "wof:name":"Ridderkerk",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",

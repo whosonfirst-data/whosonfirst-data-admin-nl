@@ -27,6 +27,15 @@
     "geom:latitude":51.479531,
     "geom:longitude":5.145455,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.476977,
     "lbl:longitude":5.138711,
     "lbl:max_zoom":15.0,
@@ -152,10 +161,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0798",
         "eg:gisco_id":"NL_GM0798",
         "eurostat:nuts_2021_id":"GM0798",
         "hasc:id":"NL.NB.HI"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -171,7 +182,7 @@
         }
     ],
     "wof:id":404474397,
-    "wof:lastmodified":1684354040,
+    "wof:lastmodified":1695878810,
     "wof:name":"Hilvarenbeek",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

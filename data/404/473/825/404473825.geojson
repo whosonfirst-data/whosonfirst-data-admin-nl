@@ -27,6 +27,15 @@
     "geom:latitude":52.26823,
     "geom:longitude":6.235794,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.271407,
     "lbl:longitude":6.235755,
     "lbl:max_zoom":14.0,
@@ -251,10 +260,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0150",
         "eg:gisco_id":"NL_GM0150",
         "eurostat:nuts_2021_id":"GM0150",
         "hasc:id":"NL.OV.DV"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -270,7 +281,7 @@
         }
     ],
     "wof:id":404473825,
-    "wof:lastmodified":1684354010,
+    "wof:lastmodified":1695878776,
     "wof:name":"Deventer",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",

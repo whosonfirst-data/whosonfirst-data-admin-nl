@@ -27,6 +27,15 @@
     "geom:latitude":52.70098,
     "geom:longitude":5.225218,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.701514,
     "lbl:longitude":5.225311,
     "lbl:max_zoom":14.0,
@@ -178,10 +187,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0532",
         "eg:gisco_id":"NL_GM0532",
         "eurostat:nuts_2021_id":"GM0532",
         "hasc:id":"NL.NH.SB"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
@@ -198,7 +209,7 @@
         }
     ],
     "wof:id":404474187,
-    "wof:lastmodified":1684354026,
+    "wof:lastmodified":1695878794,
     "wof:name":"Stede Broec",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",

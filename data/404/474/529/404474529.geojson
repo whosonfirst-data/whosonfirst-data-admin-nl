@@ -27,6 +27,15 @@
     "geom:latitude":50.869367,
     "geom:longitude":5.916493,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":50.873186,
     "lbl:longitude":5.917407,
     "lbl:max_zoom":15.0,
@@ -155,10 +164,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0986",
         "eg:gisco_id":"NL_GM0986",
         "eurostat:nuts_2021_id":"GM0986",
         "hasc:id":"NL.LI.VO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -174,7 +185,7 @@
         }
     ],
     "wof:id":404474529,
-    "wof:lastmodified":1684354044,
+    "wof:lastmodified":1695878814,
     "wof:name":"Voerendaal",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

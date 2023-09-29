@@ -459,18 +459,24 @@
         101751909
     ],
     "wof:concordances":{
+        "cbsnl:code":"20",
         "digitalenvoy:region_code":10950,
         "eurostat:nuts_2021_id":"NL11",
         "fips:code":"NL04",
         "gn:id":2755249,
         "gp:id":2346376,
         "hasc:id":"NL.GR",
+        "iso:code":"NL-GR",
         "iso:id":"NL-GR",
         "unlc:id":"NL-GR",
         "wd:id":"Q752"
     },
+    "wof:concordances_official":"cbsnl:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NL",
-    "wof:geomhash":"a8926e8e0bda2f65584f2c35a4ff6832",
+    "wof:geomhash":"4649f4404455cbd47fa30f0ef3d6b7ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -487,7 +493,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1690848542,
+    "wof:lastmodified":1695885171,
     "wof:name":"Groningen",
     "wof:parent_id":85633337,
     "wof:placetype":"region",

@@ -27,6 +27,15 @@
     "geom:latitude":52.156198,
     "geom:longitude":5.296289,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.155029,
     "lbl:longitude":5.297305,
     "lbl:max_zoom":14.0,
@@ -122,10 +131,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0342",
         "eg:gisco_id":"NL_GM0342",
         "eurostat:nuts_2021_id":"GM0342",
         "hasc:id":"NL.UT.SO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:coterminous":[
         101808443
     ],
@@ -144,7 +155,7 @@
         }
     ],
     "wof:id":404474005,
-    "wof:lastmodified":1684354021,
+    "wof:lastmodified":1695878789,
     "wof:name":"Soest",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",

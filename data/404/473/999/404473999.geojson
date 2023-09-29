@@ -27,6 +27,15 @@
     "geom:latitude":52.047711,
     "geom:longitude":4.944045,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.045551,
     "lbl:longitude":4.945138,
     "lbl:max_zoom":15.0,
@@ -149,10 +158,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0335",
         "eg:gisco_id":"NL_GM0335",
         "eurostat:nuts_2021_id":"GM0335",
         "hasc:id":"NL.UT.MO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -168,7 +179,7 @@
         }
     ],
     "wof:id":404473999,
-    "wof:lastmodified":1684354021,
+    "wof:lastmodified":1695878788,
     "wof:name":"Montfoort",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",

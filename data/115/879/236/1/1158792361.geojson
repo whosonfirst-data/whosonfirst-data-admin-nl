@@ -27,6 +27,15 @@
     "geom:latitude":53.195104,
     "geom:longitude":7.05573,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.187472,
     "lbl:longitude":7.01542,
     "lbl:max_zoom":14.0,
@@ -67,9 +76,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1895",
         "eg:gisco_id":"NL_GM1895",
         "eurostat:nuts_2021_id":"GM1895"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "cbsnl"
@@ -85,7 +96,7 @@
         }
     ],
     "wof:id":1158792361,
-    "wof:lastmodified":1684354060,
+    "wof:lastmodified":1695878831,
     "wof:name":"Oldambt",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",

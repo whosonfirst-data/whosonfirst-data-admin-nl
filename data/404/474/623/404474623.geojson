@@ -27,6 +27,15 @@
     "geom:latitude":51.658802,
     "geom:longitude":4.541923,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.651244,
     "lbl:longitude":4.531039,
     "lbl:max_zoom":14.0,
@@ -166,10 +175,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1709",
         "eg:gisco_id":"NL_GM1709",
         "eurostat:nuts_2021_id":"GM1709",
         "hasc:id":"NL.NB.MO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes",
@@ -186,7 +197,7 @@
         }
     ],
     "wof:id":404474623,
-    "wof:lastmodified":1684354052,
+    "wof:lastmodified":1695878823,
     "wof:name":"Moerdijk",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

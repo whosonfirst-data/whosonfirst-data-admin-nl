@@ -27,6 +27,15 @@
     "geom:latitude":52.090328,
     "geom:longitude":4.422307,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.08375,
     "lbl:longitude":4.423592,
     "lbl:max_zoom":14.0,
@@ -157,9 +166,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1916",
         "eg:gisco_id":"NL_GM1916",
         "eurostat:nuts_2021_id":"GM1916"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -175,7 +186,7 @@
         }
     ],
     "wof:id":404474685,
-    "wof:lastmodified":1684354057,
+    "wof:lastmodified":1695878828,
     "wof:name":"Leidschendam-Voorburg",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "geom:latitude":52.993024,
     "geom:longitude":6.72733,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.017231,
     "lbl:longitude":6.740073,
     "lbl:max_zoom":14.0,
@@ -185,10 +194,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1680",
         "eg:gisco_id":"NL_GM1680",
         "eurostat:nuts_2021_id":"GM1680",
         "hasc:id":"NL.DR.AH"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -204,7 +215,7 @@
         }
     ],
     "wof:id":404474593,
-    "wof:lastmodified":1684354049,
+    "wof:lastmodified":1695878819,
     "wof:name":"Aa en Hunze",
     "wof:parent_id":85687051,
     "wof:placetype":"localadmin",

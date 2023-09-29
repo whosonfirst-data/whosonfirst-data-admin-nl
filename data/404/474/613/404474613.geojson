@@ -27,6 +27,15 @@
     "geom:latitude":52.838204,
     "geom:longitude":6.295535,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.852281,
     "lbl:longitude":6.277958,
     "lbl:max_zoom":15.0,
@@ -179,10 +188,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1701",
         "eg:gisco_id":"NL_GM1701",
         "eurostat:nuts_2021_id":"GM1701",
         "hasc:id":"NL.DR.WE"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -198,7 +209,7 @@
         }
     ],
     "wof:id":404474613,
-    "wof:lastmodified":1684354051,
+    "wof:lastmodified":1695878822,
     "wof:name":"Westerveld",
     "wof:parent_id":85687051,
     "wof:placetype":"localadmin",

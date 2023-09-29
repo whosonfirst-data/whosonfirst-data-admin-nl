@@ -27,6 +27,15 @@
     "geom:latitude":52.173656,
     "geom:longitude":5.384698,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.169219,
     "lbl:longitude":5.384786,
     "lbl:max_zoom":14.0,
@@ -275,10 +284,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0307",
         "eg:gisco_id":"NL_GM0307",
         "eurostat:nuts_2021_id":"GM0307",
         "hasc:id":"NL.UT.AF"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -294,7 +305,7 @@
         }
     ],
     "wof:id":404473971,
-    "wof:lastmodified":1684354020,
+    "wof:lastmodified":1695878787,
     "wof:name":"Amersfoort",
     "wof:parent_id":85687039,
     "wof:placetype":"localadmin",

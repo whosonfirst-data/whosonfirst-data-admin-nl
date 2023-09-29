@@ -27,6 +27,15 @@
     "geom:latitude":51.952394,
     "geom:longitude":4.737227,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.954208,
     "lbl:longitude":4.73493,
     "lbl:max_zoom":14.0,
@@ -107,9 +116,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1931",
         "eg:gisco_id":"NL_GM1931",
         "eurostat:nuts_2021_id":"GM1931"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geomhash":"1e3ffa1aded0323710e32575a7488dba",
     "wof:hierarchy":[
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1158824749,
-    "wof:lastmodified":1684354067,
+    "wof:lastmodified":1695878839,
     "wof:name":"Krimpenerwaard",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",

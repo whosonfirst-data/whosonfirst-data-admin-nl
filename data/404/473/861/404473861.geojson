@@ -27,6 +27,15 @@
     "geom:latitude":52.5187,
     "geom:longitude":6.118366,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.508699,
     "lbl:longitude":6.125301,
     "lbl:max_zoom":14.0,
@@ -302,10 +311,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0193",
         "eg:gisco_id":"NL_GM0193",
         "eurostat:nuts_2021_id":"GM0193",
         "hasc:id":"NL.OV.ZL"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:coterminous":[
         101751861
     ],
@@ -324,7 +335,7 @@
         }
     ],
     "wof:id":404473861,
-    "wof:lastmodified":1684354014,
+    "wof:lastmodified":1695878779,
     "wof:name":"Zwolle",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",

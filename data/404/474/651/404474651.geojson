@@ -27,6 +27,15 @@
     "geom:latitude":51.924302,
     "geom:longitude":5.778318,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.919022,
     "lbl:longitude":5.77807,
     "lbl:max_zoom":14.0,
@@ -158,10 +167,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1734",
         "eg:gisco_id":"NL_GM1734",
         "eurostat:nuts_2021_id":"GM1734",
         "hasc:id":"NL.GE.OV"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -177,7 +188,7 @@
         }
     ],
     "wof:id":404474651,
-    "wof:lastmodified":1684354055,
+    "wof:lastmodified":1695878825,
     "wof:name":"Overbetuwe",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

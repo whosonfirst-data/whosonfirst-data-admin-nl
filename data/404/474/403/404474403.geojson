@@ -27,6 +27,15 @@
     "geom:latitude":51.685845,
     "geom:longitude":5.768041,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.681935,
     "lbl:longitude":5.768101,
     "lbl:max_zoom":15.0,
@@ -149,10 +158,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0815",
         "eg:gisco_id":"NL_GM0815",
         "eurostat:nuts_2021_id":"GM0815",
         "hasc:id":"NL.NB.MS"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -168,7 +179,7 @@
         }
     ],
     "wof:id":404474403,
-    "wof:lastmodified":1684354040,
+    "wof:lastmodified":1695878810,
     "wof:name":"Mill en Sint Hubert",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

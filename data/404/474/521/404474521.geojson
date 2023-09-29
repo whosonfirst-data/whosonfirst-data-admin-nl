@@ -27,6 +27,15 @@
     "geom:latitude":50.969001,
     "geom:longitude":5.763669,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":50.972736,
     "lbl:longitude":5.766063,
     "lbl:max_zoom":14.0,
@@ -168,12 +177,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0971",
         "eg:gisco_id":"NL_GM0971",
         "eurostat:nuts_2021_id":"GM0971",
         "gp:id":12684458,
         "hasc:id":"NL.LI.ST",
         "qs_pg:id":1084122
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes",
@@ -190,7 +201,7 @@
         }
     ],
     "wof:id":404474521,
-    "wof:lastmodified":1684354043,
+    "wof:lastmodified":1695878813,
     "wof:name":"Stein",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

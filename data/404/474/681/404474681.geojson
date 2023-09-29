@@ -28,6 +28,15 @@
     "geom:latitude":53.280049,
     "geom:longitude":5.984528,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.269706,
     "lbl:longitude":5.984417,
     "lbl:max_zoom":15.0,
@@ -165,9 +174,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1891",
         "eg:gisco_id":"NL_GM1891",
         "eurostat:nuts_2021_id":"GM1891"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -183,7 +194,7 @@
         }
     ],
     "wof:id":404474681,
-    "wof:lastmodified":1684354057,
+    "wof:lastmodified":1695878828,
     "wof:name":"Dantumadiel",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "geom:latitude":51.697144,
     "geom:longitude":4.881581,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.697032,
     "lbl:longitude":4.881326,
     "lbl:max_zoom":14.0,
@@ -161,10 +170,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0779",
         "eg:gisco_id":"NL_GM0779",
         "eurostat:nuts_2021_id":"GM0779",
         "hasc:id":"NL.NB.GE"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -180,7 +191,7 @@
         }
     ],
     "wof:id":404474379,
-    "wof:lastmodified":1684354039,
+    "wof:lastmodified":1695878809,
     "wof:name":"Geertruidenberg",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

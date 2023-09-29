@@ -16,6 +16,15 @@
     "geom:latitude":53.125272,
     "geom:longitude":5.655227,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.119212,
     "lbl:longitude":5.645347,
     "lbl:max_zoom":15.0,
@@ -156,13 +165,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0140",
         "hasc:id":"NL.FR.LI"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9a3a3781d50dc418e8e1b1e7ac31b9e7",
+    "wof:geomhash":"e775961467117d7e82110a1455707928",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,7 +184,7 @@
         }
     ],
     "wof:id":404473817,
-    "wof:lastmodified":1582362768,
+    "wof:lastmodified":1695878759,
     "wof:name":"Littenseradiel",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",

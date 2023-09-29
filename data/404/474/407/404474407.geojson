@@ -27,6 +27,15 @@
     "geom:latitude":51.492625,
     "geom:longitude":5.289802,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.500975,
     "lbl:longitude":5.296784,
     "lbl:max_zoom":15.0,
@@ -164,10 +173,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0823",
         "eg:gisco_id":"NL_GM0823",
         "eurostat:nuts_2021_id":"GM0823",
         "hasc:id":"NL.NB.OR"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -183,7 +194,7 @@
         }
     ],
     "wof:id":404474407,
-    "wof:lastmodified":1684354040,
+    "wof:lastmodified":1695878810,
     "wof:name":"Oirschot",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

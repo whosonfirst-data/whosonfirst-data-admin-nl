@@ -27,6 +27,15 @@
     "geom:latitude":52.502,
     "geom:longitude":4.855124,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.49746,
     "lbl:longitude":4.856467,
     "lbl:max_zoom":15.0,
@@ -179,10 +188,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0880",
         "eg:gisco_id":"NL_GM0880",
         "eurostat:nuts_2021_id":"GM0880",
         "hasc:id":"NL.NH.WO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -198,7 +209,7 @@
         }
     ],
     "wof:id":404474461,
-    "wof:lastmodified":1684354042,
+    "wof:lastmodified":1695878812,
     "wof:name":"Wormerland",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "geom:latitude":51.606673,
     "geom:longitude":5.693725,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.605586,
     "lbl:longitude":5.693842,
     "lbl:max_zoom":15.0,
@@ -155,10 +164,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0755",
         "eg:gisco_id":"NL_GM0755",
         "eurostat:nuts_2021_id":"GM0755",
         "hasc:id":"NL.NB.BO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -174,7 +185,7 @@
         }
     ],
     "wof:id":404474357,
-    "wof:lastmodified":1684354038,
+    "wof:lastmodified":1695878808,
     "wof:name":"Boekel",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

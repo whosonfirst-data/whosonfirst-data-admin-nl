@@ -27,6 +27,15 @@
     "geom:latitude":51.439012,
     "geom:longitude":4.893151,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.446912,
     "lbl:longitude":4.873987,
     "lbl:max_zoom":15.0,
@@ -200,10 +209,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0744",
         "eg:gisco_id":"NL_GM0744",
         "eurostat:nuts_2021_id":"GM0744",
         "hasc:id":"NL.NB.BN"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -219,7 +230,7 @@
         }
     ],
     "wof:id":404474349,
-    "wof:lastmodified":1684354038,
+    "wof:lastmodified":1695878808,
     "wof:name":"Baarle-Nassau",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "geom:latitude":51.559596,
     "geom:longitude":4.918582,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.557277,
     "lbl:longitude":4.913399,
     "lbl:max_zoom":14.0,
@@ -155,10 +164,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0784",
         "eg:gisco_id":"NL_GM0784",
         "eurostat:nuts_2021_id":"GM0784",
         "hasc:id":"NL.NB.GR"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -174,7 +185,7 @@
         }
     ],
     "wof:id":404474381,
-    "wof:lastmodified":1684354039,
+    "wof:lastmodified":1695878809,
     "wof:name":"Gilze en Rijen",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

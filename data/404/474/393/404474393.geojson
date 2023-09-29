@@ -27,6 +27,15 @@
     "geom:latitude":51.716721,
     "geom:longitude":5.35179,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.709383,
     "lbl:longitude":5.322958,
     "lbl:max_zoom":14.0,
@@ -283,9 +292,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0796",
         "eg:gisco_id":"NL_GM0796",
         "eurostat:nuts_2021_id":"GM0796"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -301,7 +312,7 @@
         }
     ],
     "wof:id":404474393,
-    "wof:lastmodified":1684354039,
+    "wof:lastmodified":1695878809,
     "wof:name":"'s-Hertogenbosch",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

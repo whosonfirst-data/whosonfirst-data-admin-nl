@@ -27,6 +27,15 @@
     "geom:latitude":52.451967,
     "geom:longitude":4.87611,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.450416,
     "lbl:longitude":4.872927,
     "lbl:max_zoom":15.0,
@@ -185,10 +194,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0431",
         "eg:gisco_id":"NL_GM0431",
         "eurostat:nuts_2021_id":"GM0431",
         "hasc:id":"NL.NH.OO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:coterminous":[
         101754851
     ],
@@ -207,7 +218,7 @@
         }
     ],
     "wof:id":404474105,
-    "wof:lastmodified":1684354023,
+    "wof:lastmodified":1695878791,
     "wof:name":"Oostzaan",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",

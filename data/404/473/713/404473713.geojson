@@ -27,6 +27,15 @@
     "geom:latitude":53.222234,
     "geom:longitude":6.563382,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.223054,
     "lbl:longitude":6.561683,
     "lbl:max_zoom":13.0,
@@ -332,10 +341,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0014",
         "eg:gisco_id":"NL_GM0014",
         "eurostat:nuts_2021_id":"GM0014",
         "hasc:id":"NL.GR.GR"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -351,7 +362,7 @@
         }
     ],
     "wof:id":404473713,
-    "wof:lastmodified":1684354005,
+    "wof:lastmodified":1695878770,
     "wof:name":"Groningen",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",

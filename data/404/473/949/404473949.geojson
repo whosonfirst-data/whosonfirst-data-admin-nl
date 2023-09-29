@@ -27,6 +27,15 @@
     "geom:latitude":51.95752,
     "geom:longitude":5.970719,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.957042,
     "lbl:longitude":5.970754,
     "lbl:max_zoom":15.0,
@@ -161,10 +170,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0293",
         "eg:gisco_id":"NL_GM0293",
         "eurostat:nuts_2021_id":"GM0293",
         "hasc:id":"NL.GE.WV"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:coterminous":[
         101837821
     ],
@@ -183,7 +194,7 @@
         }
     ],
     "wof:id":404473949,
-    "wof:lastmodified":1684354018,
+    "wof:lastmodified":1695878785,
     "wof:name":"Westervoort",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

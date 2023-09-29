@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009802,
-    "geom:area_square_m":72690976.626375,
+    "geom:area_square_m":72690976.62637,
     "geom:bbox":"6.63946807033,53.0709715834,6.82699902681,53.2020203418",
     "geom:latitude":53.147345,
     "geom:longitude":6.746794,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.143944,
     "lbl:longitude":6.738873,
     "lbl:max_zoom":14.0,
@@ -163,13 +172,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0018",
         "hasc:id":"NL.GR.HS"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f1d6ef9d93b83981480977c1904f0abb",
+    "wof:geomhash":"36ff253bf0d3165c7136f9266fd1563e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +191,7 @@
         }
     ],
     "wof:id":404473719,
-    "wof:lastmodified":1582362786,
+    "wof:lastmodified":1695878761,
     "wof:name":"Hoogezand-Sappemeer",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",

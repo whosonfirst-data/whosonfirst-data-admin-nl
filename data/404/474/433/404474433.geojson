@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007382,
-    "geom:area_square_m":55624770.979871,
+    "geom:area_square_m":55624770.97987,
     "geom:bbox":"4.94686554607,52.4151292726,5.13936547634,52.4947327665",
     "geom:latitude":52.452282,
     "geom:longitude":5.01463,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.454471,
     "lbl:longitude":5.004918,
     "lbl:max_zoom":15.0,
@@ -168,14 +177,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0852",
         "hasc:id":"NL.NH.WA"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
         "quattroshapes"
     ],
-    "wof:geomhash":"da926dc4cd574c370047dfa60bfd3d59",
+    "wof:geomhash":"e2492f56d4a7521e86bf5da468199aa3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,7 +197,7 @@
         }
     ],
     "wof:id":404474433,
-    "wof:lastmodified":1582362846,
+    "wof:lastmodified":1695878769,
     "wof:name":"Waterland",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",

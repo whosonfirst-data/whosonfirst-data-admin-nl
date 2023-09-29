@@ -27,6 +27,15 @@
     "geom:latitude":51.699286,
     "geom:longitude":5.987098,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.700683,
     "lbl:longitude":5.992423,
     "lbl:max_zoom":15.0,
@@ -176,10 +185,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0907",
         "eg:gisco_id":"NL_GM0907",
         "eurostat:nuts_2021_id":"GM0907",
         "hasc:id":"NL.LI.GE"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -195,7 +206,7 @@
         }
     ],
     "wof:id":404474483,
-    "wof:lastmodified":1684354042,
+    "wof:lastmodified":1695878813,
     "wof:name":"Gennep",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

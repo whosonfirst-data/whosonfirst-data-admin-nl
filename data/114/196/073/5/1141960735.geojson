@@ -28,6 +28,15 @@
     "geom:latitude":53.014137,
     "geom:longitude":5.537312,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.018652,
     "lbl:longitude":5.533441,
     "lbl:max_zoom":14.0,
@@ -58,9 +67,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1900",
         "eg:gisco_id":"NL_GM1900",
         "eurostat:nuts_2021_id":"GM1900"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz"
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1141960735,
-    "wof:lastmodified":1684354057,
+    "wof:lastmodified":1695878829,
     "wof:name":"Sudwest-Fryslan",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",

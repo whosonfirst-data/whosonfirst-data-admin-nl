@@ -27,6 +27,15 @@
     "geom:latitude":51.687372,
     "geom:longitude":3.900453,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.684341,
     "lbl:longitude":3.937258,
     "lbl:max_zoom":14.0,
@@ -187,10 +196,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1676",
         "eg:gisco_id":"NL_GM1676",
         "eurostat:nuts_2021_id":"GM1676",
         "hasc:id":"NL.ZE.SD"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
@@ -207,7 +218,7 @@
         }
     ],
     "wof:id":404474591,
-    "wof:lastmodified":1684354047,
+    "wof:lastmodified":1695878817,
     "wof:name":"Schouwen-Duiveland",
     "wof:parent_id":85687037,
     "wof:placetype":"localadmin",

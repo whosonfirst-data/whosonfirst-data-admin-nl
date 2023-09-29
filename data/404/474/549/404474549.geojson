@@ -27,6 +27,15 @@
     "geom:latitude":52.009687,
     "geom:longitude":6.575589,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.005363,
     "lbl:longitude":6.61214,
     "lbl:max_zoom":14.0,
@@ -130,9 +139,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1586",
         "eg:gisco_id":"NL_GM1586",
         "eurostat:nuts_2021_id":"GM1586"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -148,7 +159,7 @@
         }
     ],
     "wof:id":404474549,
-    "wof:lastmodified":1684354045,
+    "wof:lastmodified":1695878815,
     "wof:name":"Oost Gelre",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

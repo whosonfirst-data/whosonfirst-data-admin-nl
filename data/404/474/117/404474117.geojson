@@ -27,6 +27,15 @@
     "geom:latitude":52.52343,
     "geom:longitude":4.728609,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.52301,
     "lbl:longitude":4.727952,
     "lbl:max_zoom":15.0,
@@ -179,10 +188,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0450",
         "eg:gisco_id":"NL_GM0450",
         "eurostat:nuts_2021_id":"GM0450",
         "hasc:id":"NL.NH.UG"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:coterminous":[
         101754853
     ],
@@ -201,7 +212,7 @@
         }
     ],
     "wof:id":404474117,
-    "wof:lastmodified":1684354025,
+    "wof:lastmodified":1695878793,
     "wof:name":"Uitgeest",
     "wof:parent_id":85687053,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "geom:latitude":52.712514,
     "geom:longitude":5.767525,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.715961,
     "lbl:longitude":5.753741,
     "lbl:max_zoom":14.0,
@@ -202,10 +211,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0171",
         "eg:gisco_id":"NL_GM0171",
         "eurostat:nuts_2021_id":"GM0171",
         "hasc:id":"NL.FL.NO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
@@ -222,7 +233,7 @@
         }
     ],
     "wof:id":404473843,
-    "wof:lastmodified":1684354012,
+    "wof:lastmodified":1695878778,
     "wof:name":"Noordoostpolder",
     "wof:parent_id":85687049,
     "wof:placetype":"localadmin",

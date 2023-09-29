@@ -27,6 +27,15 @@
     "geom:latitude":50.893336,
     "geom:longitude":5.969414,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":50.895562,
     "lbl:longitude":5.96996,
     "lbl:max_zoom":14.0,
@@ -221,10 +230,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0917",
         "eg:gisco_id":"NL_GM0917",
         "eurostat:nuts_2021_id":"GM0917",
         "hasc:id":"NL.LI.HR"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -240,7 +251,7 @@
         }
     ],
     "wof:id":404474485,
-    "wof:lastmodified":1684354043,
+    "wof:lastmodified":1695878813,
     "wof:name":"Heerlen",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

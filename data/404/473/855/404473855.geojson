@@ -27,6 +27,15 @@
     "geom:latitude":52.410593,
     "geom:longitude":6.776674,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.409614,
     "lbl:longitude":6.75528,
     "lbl:max_zoom":14.0,
@@ -161,10 +170,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0183",
         "eg:gisco_id":"NL_GM0183",
         "eurostat:nuts_2021_id":"GM0183",
         "hasc:id":"NL.OV.TU"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -180,7 +191,7 @@
         }
     ],
     "wof:id":404473855,
-    "wof:lastmodified":1684354013,
+    "wof:lastmodified":1695878779,
     "wof:name":"Tubbergen",
     "wof:parent_id":85687045,
     "wof:placetype":"localadmin",

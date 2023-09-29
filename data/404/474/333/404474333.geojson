@@ -27,6 +27,15 @@
     "geom:latitude":51.537833,
     "geom:longitude":3.556991,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.536618,
     "lbl:longitude":3.541967,
     "lbl:max_zoom":14.0,
@@ -172,10 +181,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0717",
         "eg:gisco_id":"NL_GM0717",
         "eurostat:nuts_2021_id":"GM0717",
         "hasc:id":"NL.ZE.VE"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "mz",
@@ -192,7 +203,7 @@
         }
     ],
     "wof:id":404474333,
-    "wof:lastmodified":1684354036,
+    "wof:lastmodified":1695878805,
     "wof:name":"Veere",
     "wof:parent_id":85687037,
     "wof:placetype":"localadmin",

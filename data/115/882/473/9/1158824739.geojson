@@ -27,6 +27,15 @@
     "geom:latitude":52.065419,
     "geom:longitude":4.766097,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.06324,
     "lbl:longitude":4.767706,
     "lbl:max_zoom":14.0,
@@ -113,9 +122,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1901",
         "eg:gisco_id":"NL_GM1901",
         "eurostat:nuts_2021_id":"GM1901"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geomhash":"bd09dbd3234ca3975ec4e18c18180568",
     "wof:hierarchy":[
@@ -128,7 +139,7 @@
         }
     ],
     "wof:id":1158824739,
-    "wof:lastmodified":1684354062,
+    "wof:lastmodified":1695878834,
     "wof:name":"Bodegraven-Reeuwijk",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",

@@ -15,6 +15,15 @@
     "geom:latitude":51.622101,
     "geom:longitude":5.436507,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.622134,
     "lbl:longitude":5.436232,
     "lbl:max_zoom":14.0,
@@ -139,13 +148,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0844",
         "hasc:id":"NL.NB.SC"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0f72098c1cec858efefb124e6a733a47",
+    "wof:geomhash":"4f0002a0b5cfa3b2a49251f20eff70b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,7 +167,7 @@
         }
     ],
     "wof:id":404474419,
-    "wof:lastmodified":1582362838,
+    "wof:lastmodified":1695878768,
     "wof:name":"Schijndel",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

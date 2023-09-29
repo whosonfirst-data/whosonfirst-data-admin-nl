@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009998,
-    "geom:area_square_m":76226608.957026,
+    "geom:area_square_m":76226608.957031,
     "geom:bbox":"4.92630129213,51.8731191916,5.10144586573,51.9782155362",
     "geom:latitude":51.932366,
     "geom:longitude":5.013354,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.933715,
     "lbl:longitude":5.013272,
     "lbl:max_zoom":15.0,
@@ -145,13 +154,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0707",
         "hasc:id":"NL.ZH.ZE"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ff093a7432f5b0f6d3654331c698177a",
+    "wof:geomhash":"38e1e9d0213327d8b90203ae6aeeb533",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,7 +173,7 @@
         }
     ],
     "wof:id":404474325,
-    "wof:lastmodified":1582362827,
+    "wof:lastmodified":1695878768,
     "wof:name":"Zederik",
     "wof:parent_id":85687041,
     "wof:placetype":"localadmin",

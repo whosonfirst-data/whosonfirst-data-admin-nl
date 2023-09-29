@@ -27,6 +27,15 @@
     "geom:latitude":51.885084,
     "geom:longitude":5.406879,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.876076,
     "lbl:longitude":5.399865,
     "lbl:max_zoom":14.0,
@@ -173,10 +182,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0281",
         "eg:gisco_id":"NL_GM0281",
         "eurostat:nuts_2021_id":"GM0281",
         "hasc:id":"NL.GE.TI"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -192,7 +203,7 @@
         }
     ],
     "wof:id":404473939,
-    "wof:lastmodified":1684354018,
+    "wof:lastmodified":1695878784,
     "wof:name":"Tiel",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

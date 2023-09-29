@@ -27,6 +27,15 @@
     "geom:latitude":51.239455,
     "geom:longitude":5.884875,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.261013,
     "lbl:longitude":5.904777,
     "lbl:max_zoom":14.0,
@@ -145,9 +154,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM1640",
         "eg:gisco_id":"NL_GM1640",
         "eurostat:nuts_2021_id":"GM1640"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -163,7 +174,7 @@
         }
     ],
     "wof:id":404474557,
-    "wof:lastmodified":1684354045,
+    "wof:lastmodified":1695878815,
     "wof:name":"Leudal",
     "wof:parent_id":85687033,
     "wof:placetype":"localadmin",

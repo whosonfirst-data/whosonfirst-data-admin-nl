@@ -28,6 +28,15 @@
     "geom:latitude":52.982381,
     "geom:longitude":6.282998,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":52.988699,
     "lbl:longitude":6.29481,
     "lbl:max_zoom":14.0,
@@ -178,10 +187,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0085",
         "eg:gisco_id":"NL_GM0085",
         "eurostat:nuts_2021_id":"GM0085",
         "hasc:id":"NL.FR.OO"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -197,7 +208,7 @@
         }
     ],
     "wof:id":404473785,
-    "wof:lastmodified":1684354007,
+    "wof:lastmodified":1695878772,
     "wof:name":"Ooststellingwerf",
     "wof:parent_id":85687055,
     "wof:placetype":"localadmin",

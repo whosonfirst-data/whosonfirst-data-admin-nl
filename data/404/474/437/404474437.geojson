@@ -27,6 +27,15 @@
     "geom:latitude":51.655487,
     "geom:longitude":5.651829,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.660172,
     "lbl:longitude":5.62693,
     "lbl:max_zoom":14.0,
@@ -155,10 +164,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0856",
         "eg:gisco_id":"NL_GM0856",
         "eurostat:nuts_2021_id":"GM0856",
         "hasc:id":"NL.NB.UD"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -174,7 +185,7 @@
         }
     ],
     "wof:id":404474437,
-    "wof:lastmodified":1684354041,
+    "wof:lastmodified":1695878811,
     "wof:name":"Uden",
     "wof:parent_id":85687035,
     "wof:placetype":"localadmin",

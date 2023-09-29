@@ -27,6 +27,15 @@
     "geom:latitude":51.960772,
     "geom:longitude":6.286692,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":51.966224,
     "lbl:longitude":6.2961,
     "lbl:max_zoom":14.0,
@@ -203,10 +212,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0222",
         "eg:gisco_id":"NL_GM0222",
         "eurostat:nuts_2021_id":"GM0222",
         "hasc:id":"NL.GE.DT"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -222,7 +233,7 @@
         }
     ],
     "wof:id":404473885,
-    "wof:lastmodified":1684354015,
+    "wof:lastmodified":1695878781,
     "wof:name":"Doetinchem",
     "wof:parent_id":85687043,
     "wof:placetype":"localadmin",

@@ -10,11 +10,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008636,
-    "geom:area_square_m":64022848.955509,
+    "geom:area_square_m":64022848.955519,
     "geom:bbox":"6.28822892374,53.0871349199,6.46707694525,53.2247323438",
     "geom:latitude":53.163345,
     "geom:longitude":6.369254,
     "iso:country":"NL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeenten"
+    ],
     "lbl:latitude":53.18392,
     "lbl:longitude":6.375445,
     "lbl:max_zoom":15.0,
@@ -280,13 +289,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "cbsnl:code":"GM0022",
         "hasc:id":"NL.GR.LE"
     },
+    "wof:concordances_official":"cbsnl:code",
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8476ba8e9725b0fb8511c81fabfe5db5",
+    "wof:geomhash":"0172d00da94a68aa60143090d4dada55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -297,7 +308,7 @@
         }
     ],
     "wof:id":404473721,
-    "wof:lastmodified":1582362786,
+    "wof:lastmodified":1695878761,
     "wof:name":"Leek",
     "wof:parent_id":85687059,
     "wof:placetype":"localadmin",
