@@ -9,7 +9,23 @@
     "geom:bbox":"5.696501,51.772851,5.734067,51.796984",
     "geom:latitude":51.784998,
     "geom:longitude":5.71602,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"296.0",
+    "gn:asciiname":"Balgoij",
+    "gn:cc2":"NL",
+    "gn:country_code":"NL",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2759480,
+    "gn:latitude":51.78,
+    "gn:longitude":5.71389,
+    "gn:modification_date":"2017-10-17",
+    "gn:name":"Balgoy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Amsterdam",
     "iso:country":"NL",
+    "lbl:bbox":"5.69389,51.76,5.73389,51.8",
     "lbl:latitude":51.779617,
     "lbl:longitude":5.713395,
     "lbl:max_zoom":18.0,
@@ -81,7 +97,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "wd:id":"Q976427"
+        "gn:id":2759480,
+        "wd:id":"Q976427",
+        "wk:page":"Balgoij"
     },
     "wof:country":"NL",
     "wof:geomhash":"ac2d3dedb44c1e7fbdc5563506843ace",
@@ -96,13 +114,15 @@
         }
     ],
     "wof:id":1158783691,
-    "wof:lastmodified":1690849141,
+    "wof:lastmodified":1706240541,
     "wof:name":"Balgoij",
     "wof:parent_id":404473953,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360086807
+    ],
     "wof:tags":[]
 },
   "bbox": [

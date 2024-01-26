@@ -9,7 +9,23 @@
     "geom:bbox":"5.683144,53.03977,5.7224,53.066839",
     "geom:latitude":53.05232,
     "geom:longitude":5.70243,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1900.0",
+    "gn:asciiname":"Goenga",
+    "gn:cc2":"NL",
+    "gn:country_code":"NL",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2755482,
+    "gn:latitude":53.05483,
+    "gn:longitude":5.69281,
+    "gn:modification_date":"2017-10-17",
+    "gn:name":"Go\u00ebnga",
+    "gn:population":165,
+    "gn:timezone":"Europe/Amsterdam",
     "iso:country":"NL",
+    "lbl:bbox":"5.67281,53.03483,5.71281,53.07483",
     "lbl:latitude":53.054356,
     "lbl:longitude":5.693092,
     "lbl:max_zoom":18.0,
@@ -60,9 +76,13 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0435\u043d\u0433\u0430"
     ],
+    "name:und_x_variant":[
+        "Goinga"
+    ],
     "reversegeo:latitude":53.050059,
     "reversegeo:longitude":5.702721,
     "src:geom":"mz",
+    "src:population":"geonames",
     "wof:belongsto":[
         85687055,
         102191581,
@@ -72,7 +92,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "wd:id":"Q659939"
+        "gn:id":2755482,
+        "wd:id":"Q659939",
+        "wk:page":"Go%C3%ABnga"
     },
     "wof:country":"NL",
     "wof:geomhash":"effddd0d999e4d56c363bbb84bfbf98b",
@@ -87,13 +109,17 @@
         }
     ],
     "wof:id":1141960233,
-    "wof:lastmodified":1690849165,
+    "wof:lastmodified":1706240541,
     "wof:name":"Goenga",
     "wof:parent_id":1141960735,
     "wof:placetype":"locality",
+    "wof:population":165,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310218185
+    ],
     "wof:tags":[]
 },
   "bbox": [

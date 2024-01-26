@@ -18,8 +18,22 @@
     "geom:bbox":"4.771713,52.66702,4.827281,52.687916",
     "geom:latitude":52.677889,
     "geom:longitude":4.804134,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"416.0",
+    "gn:asciiname":"Broek op Langedijk",
+    "gn:country_code":"NL",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2758245,
+    "gn:latitude":52.67417,
+    "gn:longitude":4.80556,
+    "gn:modification_date":"2017-10-17",
+    "gn:name":"Broek op Langedijk",
     "gn:population":25548,
+    "gn:timezone":"Europe/Amsterdam",
     "iso:country":"NL",
+    "lbl:bbox":"4.78556,52.65417,4.82556,52.69417",
     "lbl:latitude":52.675563,
     "lbl:longitude":4.801243,
     "lbl:max_zoom":14.0,
@@ -111,6 +125,9 @@
     "name:swe_x_preferred":[
         "Langedijk"
     ],
+    "name:und_x_variant":[
+        "Broek op Langendijk"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Broek op Langedijk"
     ],
@@ -156,7 +173,15 @@
         "wk:page":"Broek op Langedijk"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1079279
+        "gn:id":[
+            2758245
+        ],
+        "qs_pg:id":[
+            1079279
+        ],
+        "wk:page":[
+            "Broek_op_Langedijk"
+        ]
     },
     "wof:country":"NL",
     "wof:geom_alt":[
@@ -178,7 +203,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1690848577,
+    "wof:lastmodified":1706240540,
     "wof:name":"Broek op Langedijk",
     "wof:parent_id":404474093,
     "wof:placetype":"locality",
@@ -189,7 +214,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260000741
+    ],
     "wof:tags":[]
 },
   "bbox": [

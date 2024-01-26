@@ -18,7 +18,23 @@
     "geom:bbox":"4.76657,51.408987,4.849754,51.432719",
     "geom:latitude":51.420033,
     "geom:longitude":4.79925,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"744.0",
+    "gn:asciiname":"Castelre",
+    "gn:cc2":"NL",
+    "gn:country_code":"NL",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2757996,
+    "gn:latitude":51.42417,
+    "gn:longitude":4.78333,
+    "gn:modification_date":"2017-10-17",
+    "gn:name":"Castelr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Amsterdam",
     "iso:country":"NL",
+    "lbl:bbox":"4.76333,51.40417,4.80333,51.44417",
     "lbl:latitude":51.419637,
     "lbl:longitude":4.798626,
     "lbl:max_zoom":18.0,
@@ -59,6 +75,10 @@
     "name:por_x_preferred":[
         "Castelr\u00e9"
     ],
+    "name:und_x_variant":[
+        "Kastelree",
+        "Castelre"
+    ],
     "reversegeo:latitude":51.419639,
     "reversegeo:longitude":4.798621,
     "src:geom":"cbsnl",
@@ -72,7 +92,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "wd:id":"Q2257701"
+        "gn:id":2757996,
+        "wd:id":"Q2257701",
+        "wk:page":"Castelr%C3%A9"
     },
     "wof:country":"NL",
     "wof:geomhash":"04aa86366ef9922af7b41359c40b1d03",
@@ -87,7 +109,7 @@
         }
     ],
     "wof:id":1158796777,
-    "wof:lastmodified":1690849059,
+    "wof:lastmodified":1706240542,
     "wof:name":"Castelre",
     "wof:parent_id":404474349,
     "wof:placetype":"locality",
@@ -96,7 +118,9 @@
     ],
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209637501
+    ],
     "wof:tags":[]
 },
   "bbox": [

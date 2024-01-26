@@ -18,7 +18,23 @@
     "geom:bbox":"6.937244,53.21732,6.952997,53.229212",
     "geom:latitude":53.223441,
     "geom:longitude":6.946049,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1895",
+    "gn:asciiname":"'t Waar",
+    "gn:cc2":"NL",
+    "gn:country_code":"NL",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2746083,
+    "gn:latitude":53.22583,
+    "gn:longitude":6.95139,
+    "gn:modification_date":"2017-10-17",
+    "gn:name":"t Waar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Amsterdam",
     "iso:country":"NL",
+    "lbl:bbox":"6.93139,53.20583,6.97139,53.24583",
     "lbl:latitude":53.223456,
     "lbl:longitude":6.946036,
     "lbl:max_zoom":18.0,
@@ -71,6 +87,10 @@
     "name:ukr_x_preferred":[
         "'\u0442 \u0412\u0430\u0430\u0440"
     ],
+    "name:und_x_variant":[
+        "Waar",
+        "Het Waar"
+    ],
     "reversegeo:latitude":53.223456,
     "reversegeo:longitude":6.946036,
     "src:geom":"cbsnl",
@@ -84,7 +104,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "wd:id":"Q1963575"
+        "gn:id":2746083,
+        "wd:id":"Q1963575",
+        "wk:page":"%27t_Waar"
     },
     "wof:country":"NL",
     "wof:geomhash":"494ddf0517a77be5c220bd5afa384957",
@@ -99,7 +121,7 @@
         }
     ],
     "wof:id":1158796603,
-    "wof:lastmodified":1690849041,
+    "wof:lastmodified":1706240542,
     "wof:name":"'t Waar",
     "wof:parent_id":1158792361,
     "wof:placetype":"locality",
@@ -108,7 +130,9 @@
     ],
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309712613
+    ],
     "wof:tags":[]
 },
   "bbox": [

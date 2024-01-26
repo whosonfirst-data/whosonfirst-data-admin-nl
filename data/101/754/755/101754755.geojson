@@ -9,8 +9,22 @@
     "geom:bbox":"5.807655,51.969506,5.87086,52.00102",
     "geom:latitude":51.98544,
     "geom:longitude":5.839647,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0274",
+    "gn:asciiname":"Oosterbeek",
+    "gn:country_code":"NL",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2749503,
+    "gn:latitude":51.98583,
+    "gn:longitude":5.84583,
+    "gn:modification_date":"2017-10-17",
+    "gn:name":"Oosterbeek",
     "gn:population":11138,
+    "gn:timezone":"Europe/Amsterdam",
     "iso:country":"NL",
+    "lbl:bbox":"5.82583,51.96583,5.86583,52.00583",
     "lbl:latitude":51.986212,
     "lbl:longitude":5.844778,
     "lbl:max_zoom":15.0,
@@ -155,7 +169,15 @@
         "wk:page":"Oosterbeek"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1037732
+        "gn:id":[
+            2749503
+        ],
+        "qs_pg:id":[
+            1037732
+        ],
+        "wk:page":[
+            "Oosterbeek"
+        ]
     },
     "wof:country":"NL",
     "wof:geom_alt":[
@@ -174,7 +196,7 @@
         }
     ],
     "wof:id":101754755,
-    "wof:lastmodified":1690848577,
+    "wof:lastmodified":1706240540,
     "wof:name":"Oosterbeek",
     "wof:parent_id":404473931,
     "wof:placetype":"locality",
@@ -182,7 +204,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344168681
+    ],
     "wof:tags":[]
 },
   "bbox": [
