@@ -17,7 +17,22 @@
     "geom:bbox":"6.031457,51.580046,6.121487,51.635033",
     "geom:latitude":51.608027,
     "geom:longitude":6.071313,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0893",
+    "gn:asciiname":"Nieuw-Bergen",
+    "gn:country_code":"NL",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2750366,
+    "gn:latitude":51.60333,
+    "gn:longitude":6.05417,
+    "gn:modification_date":"2017-10-17",
+    "gn:name":"Nieuw-Bergen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Amsterdam",
     "iso:country":"NL",
+    "lbl:bbox":"6.03417,51.58333,6.07417,51.62333",
     "lbl:latitude":51.606437,
     "lbl:longitude":6.051804,
     "lbl:max_zoom":18.0,
@@ -96,6 +111,9 @@
     "name:swe_x_preferred":[
         "Bergen"
     ],
+    "name:und_x_variant":[
+        "Bergen L"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Nieuw Bergen"
     ],
@@ -140,7 +158,15 @@
         "wk:page":"Nieuw-Bergen"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1250150
+        "gn:id":[
+            2750366
+        ],
+        "qs_pg:id":[
+            1250150
+        ],
+        "wk:page":[
+            "Nieuw-Bergen"
+        ]
     },
     "wof:country":"NL",
     "wof:geom_alt":[
@@ -159,13 +185,15 @@
         }
     ],
     "wof:id":101808155,
-    "wof:lastmodified":1690848870,
+    "wof:lastmodified":1706240540,
     "wof:name":"Nieuw-Bergen",
     "wof:parent_id":404474475,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309716849
+    ],
     "wof:tags":[]
 },
   "bbox": [

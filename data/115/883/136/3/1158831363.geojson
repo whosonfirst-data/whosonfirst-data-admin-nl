@@ -9,7 +9,23 @@
     "geom:bbox":"4.265245,51.980092,4.319162,52.019087",
     "geom:latitude":51.997749,
     "geom:longitude":4.296247,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1842",
+    "gn:asciiname":"'t Woudt",
+    "gn:cc2":"NL",
+    "gn:country_code":"NL",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2746039,
+    "gn:latitude":51.99583,
+    "gn:longitude":4.29306,
+    "gn:modification_date":"2007-06-03",
+    "gn:name":"t Woudt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Amsterdam",
     "iso:country":"NL",
+    "lbl:bbox":"4.27306,51.97583,4.31306,52.01583",
     "lbl:latitude":51.995379,
     "lbl:longitude":4.294033,
     "lbl:max_zoom":18.0,
@@ -56,6 +72,11 @@
     "name:nld_x_variant":[
         "t Woudt"
     ],
+    "name:und_x_variant":[
+        "Woud",
+        "'t Woud",
+        "Het Woud"
+    ],
     "reversegeo:latitude":51.996339,
     "reversegeo:longitude":4.298478,
     "src:geom":"mz",
@@ -69,7 +90,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "wd:id":"Q2804923"
+        "gn:id":2746039,
+        "wd:id":"Q2804923",
+        "wk:page":"%27t_Woudt"
     },
     "wof:country":"NL",
     "wof:geomhash":"f20aec3e805a8a04190db4375b049c0b",
@@ -84,13 +107,15 @@
         }
     ],
     "wof:id":1158831363,
-    "wof:lastmodified":1690849082,
+    "wof:lastmodified":1706240543,
     "wof:name":"'t Woudt",
     "wof:parent_id":404474669,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209195545
+    ],
     "wof:tags":[]
 },
   "bbox": [

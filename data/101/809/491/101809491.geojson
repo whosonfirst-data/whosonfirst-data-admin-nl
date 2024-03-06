@@ -9,8 +9,22 @@
     "geom:bbox":"5.749287,50.84835,5.80383,50.873203",
     "geom:latitude":50.860229,
     "geom:longitude":5.779947,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"994.0",
+    "gn:asciiname":"Berg en Terblijt",
+    "gn:country_code":"NL",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8592090,
+    "gn:latitude":50.86117,
+    "gn:longitude":5.78662,
+    "gn:modification_date":"2017-10-17",
+    "gn:name":"Berg en Terblijt",
     "gn:population":3500,
+    "gn:timezone":"Europe/Amsterdam",
     "iso:country":"NL",
+    "lbl:bbox":"5.76662,50.84117,5.80662,50.88117",
     "lbl:latitude":50.862092,
     "lbl:longitude":5.783989,
     "lbl:max_zoom":15.0,
@@ -104,7 +118,15 @@
         "wk:page":"Berg, Valkenburg"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1021359
+        "gn:id":[
+            8592090
+        ],
+        "qs_pg:id":[
+            1021359
+        ],
+        "wk:page":[
+            "Berg_en_Terblijt"
+        ]
     },
     "wof:country":"NL",
     "wof:geom_alt":[
@@ -123,7 +145,7 @@
         }
     ],
     "wof:id":101809491,
-    "wof:lastmodified":1690848741,
+    "wof:lastmodified":1706240541,
     "wof:name":"Berg en Terblijt",
     "wof:parent_id":404474537,
     "wof:placetype":"locality",
@@ -131,7 +153,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309802771
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -17,8 +17,22 @@
     "geom:bbox":"5.030079,52.503034,5.07627,52.5262",
     "geom:latitude":52.514431,
     "geom:longitude":5.053935,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"385.0",
+    "gn:asciiname":"Edam",
+    "gn:country_code":"NL",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2756431,
+    "gn:latitude":52.51215,
+    "gn:longitude":5.04805,
+    "gn:modification_date":"2017-10-17",
+    "gn:name":"Edam",
     "gn:population":7380,
+    "gn:timezone":"Europe/Amsterdam",
     "iso:country":"NL",
+    "lbl:bbox":"5.02805,52.49215,5.06805,52.53215",
     "lbl:latitude":52.509931,
     "lbl:longitude":5.054035,
     "lbl:max_zoom":15.0,
@@ -201,7 +215,15 @@
         "wk:page":"Edam, Netherlands"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":457720
+        "gn:id":[
+            2756431
+        ],
+        "qs_pg:id":[
+            457720
+        ],
+        "wk:page":[
+            "Edam%2C_Netherlands"
+        ]
     },
     "wof:country":"NL",
     "wof:geom_alt":[
@@ -219,7 +241,7 @@
         }
     ],
     "wof:id":101837917,
-    "wof:lastmodified":1690848815,
+    "wof:lastmodified":1706240541,
     "wof:name":"Edam",
     "wof:parent_id":404474057,
     "wof:placetype":"locality",
@@ -227,7 +249,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343283295
+    ],
     "wof:tags":[]
 },
   "bbox": [

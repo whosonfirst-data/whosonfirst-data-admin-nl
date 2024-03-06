@@ -18,7 +18,22 @@
     "geom:bbox":"5.652963,53.151735,5.685932,53.177818",
     "geom:latitude":53.163859,
     "geom:longitude":5.669497,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0140",
+    "gn:asciiname":"Huns",
+    "gn:country_code":"NL",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2753516,
+    "gn:latitude":53.15941,
+    "gn:longitude":5.66572,
+    "gn:modification_date":"2018-01-08",
+    "gn:name":"H\u00fans",
+    "gn:population":115,
+    "gn:timezone":"Europe/Amsterdam",
     "iso:country":"NL",
+    "lbl:bbox":"5.64572,53.13941,5.68572,53.17941",
     "lbl:latitude":53.165056,
     "lbl:longitude":5.669248,
     "lbl:max_zoom":18.0,
@@ -66,6 +81,7 @@
     "reversegeo:latitude":53.165056,
     "reversegeo:longitude":5.669248,
     "src:geom":"cbsnl",
+    "src:population":"geonames",
     "wof:belongsto":[
         85687055,
         102191581,
@@ -75,7 +91,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "wd:id":"Q2522939"
+        "gn:id":2753516,
+        "wd:id":"Q2522939",
+        "wk:page":"H%C3%BAns"
     },
     "wof:country":"NL",
     "wof:geomhash":"d0b44a5bf3029b646fcf45a3ed54a6a2",
@@ -90,16 +108,20 @@
         }
     ],
     "wof:id":1141960667,
-    "wof:lastmodified":1690849216,
+    "wof:lastmodified":1706240541,
     "wof:name":"Huns",
     "wof:parent_id":404473817,
     "wof:placetype":"locality",
     "wof:placetype_alt":[
         "neighbourhood"
     ],
+    "wof:population":115,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209118991
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,23 @@
     "geom:bbox":"3.982091,51.241113,4.039998,51.26646",
     "geom:latitude":51.252751,
     "geom:longitude":4.006657,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:asciiname":"Heikant",
+    "gn:country_code":"BE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796204,
     "gn:id":"2796204,2754550",
+    "gn:latitude":51.24954,
+    "gn:longitude":4.02244,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Heikant",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
     "iso:country":"NL",
+    "lbl:bbox":"4.00244,51.22954,4.04244,51.26954",
     "lbl:latitude":51.251006,
     "lbl:longitude":4.027342,
     "lbl:max_zoom":18.0,
@@ -54,6 +69,9 @@
     "name:spa_x_preferred":[
         "Heikant"
     ],
+    "name:und_x_variant":[
+        "Hiekant"
+    ],
     "name:zea_x_preferred":[
         "D'n Aikant"
     ],
@@ -96,6 +114,11 @@
         "wd:id":"Q2350682",
         "wk:page":"Heikant, Zeeland"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2796204
+        ]
+    },
     "wof:country":"NL",
     "wof:geom_alt":[
         "quattroshapes",
@@ -113,13 +136,15 @@
         }
     ],
     "wof:id":101808359,
-    "wof:lastmodified":1690848863,
+    "wof:lastmodified":1706240541,
     "wof:name":"Heikant",
     "wof:parent_id":404474307,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310142009
+    ],
     "wof:tags":[]
 },
   "bbox": [

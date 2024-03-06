@@ -17,7 +17,23 @@
     "geom:bbox":"4.990488,51.740254,5.057932,51.770691",
     "geom:latitude":51.753638,
     "geom:longitude":5.02911,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"738.0",
+    "gn:asciiname":"Babylonienbroek",
+    "gn:cc2":"NL",
+    "gn:country_code":"NL",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2759526,
+    "gn:latitude":51.74333,
+    "gn:longitude":5.02222,
+    "gn:modification_date":"2017-10-17",
+    "gn:name":"Babyloni\u00ebnbroek",
+    "gn:population":335,
+    "gn:timezone":"Europe/Amsterdam",
     "iso:country":"NL",
+    "lbl:bbox":"5.00222,51.72333,5.04222,51.76333",
     "lbl:latitude":51.742937,
     "lbl:longitude":5.016772,
     "lbl:max_zoom":18.0,
@@ -61,10 +77,14 @@
     "name:por_x_preferred":[
         "Babyloni\u00ebnbroek"
     ],
+    "name:und_x_variant":[
+        "Babiloni\u00ebnbroek"
+    ],
     "reversegeo:latitude":51.756934,
     "reversegeo:longitude":5.037009,
     "src:geom":"cbsnl",
     "src:lbl_centroid":"mz",
+    "src:population":"geonames",
     "wof:belongsto":[
         85687035,
         102191581,
@@ -74,7 +94,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "wd:id":"Q797956"
+        "gn:id":2759526,
+        "wd:id":"Q797956",
+        "wk:page":"Babyloni%C3%ABnbroek"
     },
     "wof:country":"NL",
     "wof:geomhash":"d433b6f7c00fc6736209a314f6bc8e1b",
@@ -89,13 +111,17 @@
         }
     ],
     "wof:id":1158801547,
-    "wof:lastmodified":1690848996,
+    "wof:lastmodified":1706240542,
     "wof:name":"Babylonienbroek",
     "wof:parent_id":404474345,
     "wof:placetype":"locality",
+    "wof:population":335,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226434913
+    ],
     "wof:tags":[]
 },
   "bbox": [

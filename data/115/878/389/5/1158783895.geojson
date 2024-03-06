@@ -18,7 +18,22 @@
     "geom:bbox":"4.993855,51.844391,5.064532,51.861875",
     "geom:latitude":51.856508,
     "geom:longitude":5.025622,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0733",
+    "gn:asciiname":"Spijk",
+    "gn:country_code":"NL",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2746938,
+    "gn:latitude":51.85583,
+    "gn:longitude":5.00833,
+    "gn:modification_date":"2017-10-17",
+    "gn:name":"Spijk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Amsterdam",
     "iso:country":"NL",
+    "lbl:bbox":"4.98833,51.83583,5.02833,51.87583",
     "lbl:latitude":51.856559,
     "lbl:longitude":5.04088,
     "lbl:max_zoom":18.0,
@@ -93,7 +108,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "wd:id":"Q1978928"
+        "gn:id":2746938,
+        "wd:id":"Q1978928",
+        "wk:page":"Spijk%2C_Lingewaal"
     },
     "wof:country":"NL",
     "wof:geomhash":"28b33077043a497d0260715201a5b6d8",
@@ -108,7 +125,7 @@
         }
     ],
     "wof:id":1158783895,
-    "wof:lastmodified":1690849157,
+    "wof:lastmodified":1706240542,
     "wof:name":"Spijk",
     "wof:parent_id":404474339,
     "wof:placetype":"locality",
@@ -117,7 +134,9 @@
     ],
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326541555
+    ],
     "wof:tags":[]
 },
   "bbox": [

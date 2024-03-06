@@ -18,7 +18,22 @@
     "geom:bbox":"5.667854,53.143717,5.694122,53.160085",
     "geom:latitude":53.1516,
     "geom:longitude":5.68066,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0140",
+    "gn:asciiname":"Leons",
+    "gn:country_code":"NL",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2751553,
+    "gn:latitude":53.1513,
+    "gn:longitude":5.67804,
+    "gn:modification_date":"2017-10-17",
+    "gn:name":"Leons",
+    "gn:population":0,
+    "gn:timezone":"Europe/Amsterdam",
     "iso:country":"NL",
+    "lbl:bbox":"5.65804,53.1313,5.69804,53.1713",
     "lbl:latitude":53.151424,
     "lbl:longitude":5.680461,
     "lbl:max_zoom":18.0,
@@ -69,6 +84,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2751553,
         "wd:id":"Q2327024"
     },
     "wof:country":"NL",
@@ -84,7 +100,7 @@
         }
     ],
     "wof:id":1141960669,
-    "wof:lastmodified":1690849216,
+    "wof:lastmodified":1706240541,
     "wof:name":"Leons",
     "wof:parent_id":404473817,
     "wof:placetype":"locality",
@@ -93,7 +109,9 @@
     ],
     "wof:repo":"whosonfirst-data-admin-nl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327440205
+    ],
     "wof:tags":[]
 },
   "bbox": [

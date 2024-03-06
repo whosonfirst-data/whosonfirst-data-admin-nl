@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"6.95139,53.22583,6.95139,53.22583",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "T Waar"
@@ -73,12 +75,14 @@
         }
     ],
     "wof:id":1309712613,
-    "wof:lastmodified":1566658276,
+    "wof:lastmodified":1706240542,
     "wof:name":"'t Waar",
     "wof:parent_id":1158792361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-nl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1158796603
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
